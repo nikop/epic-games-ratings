@@ -167,7 +167,7 @@
 | 165 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
 | 166 | [Democracy 4](games/d/democracy_4.md) | 4.25 | 
 | 167 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 168 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
+| 168 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
 | 169 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 170 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 171 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
@@ -465,7 +465,7 @@
 | 463 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
 | 464 | [Pine](games/p/pine.md) | 4.14 | 
 | 465 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.40 | 
-| 466 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
+| 466 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
 | 467 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
 | 468 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 469 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 

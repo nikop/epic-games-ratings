@@ -385,29 +385,29 @@
 | 383 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
 | 384 | [Warpips](games/w/warpips.md) | 4.57 | 
 | 385 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
-| 386 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 387 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 388 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 389 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
-| 390 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 391 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 392 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.56 | 
-| 393 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 394 | [Horace](games/h/horace.md) | 4.56 | 
-| 395 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.56 | 
-| 396 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 397 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 398 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 399 | [Hue](games/h/hue.md) | 4.55 | 
-| 400 | [RUINER](games/r/ruiner.md) | 4.55 | 
-| 401 | [Isonzo](games/i/isonzo.md) | 4.55 | 
-| 402 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
-| 403 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 404 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
-| 405 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
-| 406 | [UnMetal](games/u/unmetal.md) | 4.55 | 
-| 407 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 408 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
+| 386 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
+| 387 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 388 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 389 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 390 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 391 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 392 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 393 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.56 | 
+| 394 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 395 | [Horace](games/h/horace.md) | 4.56 | 
+| 396 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.56 | 
+| 397 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 398 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 399 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 400 | [Hue](games/h/hue.md) | 4.55 | 
+| 401 | [RUINER](games/r/ruiner.md) | 4.55 | 
+| 402 | [Isonzo](games/i/isonzo.md) | 4.55 | 
+| 403 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 404 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 405 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
+| 406 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
+| 407 | [UnMetal](games/u/unmetal.md) | 4.55 | 
+| 408 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 409 | [NORCO](games/n/norco.md) | 4.55 | 
 | 410 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 411 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
@@ -746,11 +746,11 @@
 | 744 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 745 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 746 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
-| 747 | [Flatout](games/f/flatout.md) | 4.00 | 
-| 748 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
-| 749 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
-| 750 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
-| 751 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
+| 747 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
+| 748 | [Flatout](games/f/flatout.md) | 4.00 | 
+| 749 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
+| 750 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
+| 751 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 752 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 753 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.97 | 
 | 754 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 

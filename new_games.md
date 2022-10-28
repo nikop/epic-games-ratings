@@ -55,6 +55,6 @@
 | 53 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 54 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 55 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 56 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
+| 56 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
 | 57 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 58 | [MultiVersus](games/m/multiversus.md) | 4.57 | 

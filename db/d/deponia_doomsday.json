@@ -1,14 +1,19 @@
 {
   "ID": "2c8de17b8e2d4d908b63eaf751b639a3",
   "Name": "Deponia Doomsday",
-  "Rating": 4.55,
+  "Rating": 4.57,
   "FirstSeen": "2022-07-30T17:02:29.7644171+00:00",
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
-  "LastChanged": "2022-10-15T13:33:12.9761111+00:00",
+  "LastChanged": "2022-10-28T07:02:30.1892677+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-15T13:33:12.9761112+00:00",
       "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-28T07:02:30.1892679+00:00",
+      "Rating": 4.57,
       "NumberOfRatings": null
     }
   ],
