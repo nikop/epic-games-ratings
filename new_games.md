@@ -44,7 +44,7 @@
 | 42 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
 | 43 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
 | 44 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
-| 45 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
+| 45 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 46 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 47 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 48 | [DOOM 3](games/d/doom_3.md) | 4.67 | 

@@ -182,7 +182,7 @@
 | 180 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
 | 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
-| 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.85 | 
+| 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 184 | [DOOM 3](games/d/doom_3.md) | 4.67 | 
 | 185 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 186 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
@@ -538,7 +538,7 @@
 | 536 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
 | 537 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
 | 538 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 539 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.49 | 
+| 539 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.48 | 
 | 540 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 541 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 542 | [Sifu](games/s/sifu.md) | 4.80 | 
@@ -760,7 +760,7 @@
 | 758 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 759 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 760 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 761 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
+| 761 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 762 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 763 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
 | 764 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
