@@ -158,32 +158,32 @@
 | 156 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 157 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.72 | 
 | 158 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 
-| 159 | [Outlast](games/o/outlast.md) | 4.72 | 
-| 160 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
-| 161 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 162 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 163 | [Days Gone](games/d/days_gone.md) | 4.71 | 
-| 164 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
-| 165 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
-| 166 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
-| 167 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 168 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
-| 169 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
-| 170 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.71 | 
-| 171 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 172 | [Everything](games/e/everything.md) | 4.71 | 
-| 173 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
-| 174 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 175 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 176 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
-| 177 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 178 | [Timberborn](games/t/timberborn.md) | 4.70 | 
-| 179 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 180 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 181 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
-| 182 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.70 | 
-| 183 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 184 | [Slipways](games/s/slipways.md) | 4.70 | 
+| 159 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
+| 160 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 161 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 162 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
+| 163 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
+| 164 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.71 | 
+| 165 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 166 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
+| 167 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
+| 168 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.71 | 
+| 169 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 170 | [Everything](games/e/everything.md) | 4.71 | 
+| 171 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
+| 172 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 173 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 174 | [Days Gone](games/d/days_gone.md) | 4.70 | 
+| 175 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
+| 176 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 177 | [Timberborn](games/t/timberborn.md) | 4.70 | 
+| 178 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 179 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 180 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
+| 181 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.70 | 
+| 182 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 183 | [Slipways](games/s/slipways.md) | 4.70 | 
+| 184 | [Outlast](games/o/outlast.md) | 4.70 | 
 | 185 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 186 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 187 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
@@ -336,25 +336,25 @@
 | 334 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
 | 335 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 336 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 337 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
-| 338 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 339 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 340 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 341 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 342 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
-| 343 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.59 | 
-| 344 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
-| 345 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 346 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
-| 347 | [Card Shark](games/c/card_shark.md) | 4.59 | 
-| 348 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 349 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 350 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 351 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
-| 352 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 353 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 354 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 355 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
+| 337 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 338 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
+| 339 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 340 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 341 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 342 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 343 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
+| 344 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.59 | 
+| 345 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
+| 346 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 347 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
+| 348 | [Card Shark](games/c/card_shark.md) | 4.59 | 
+| 349 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 350 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 351 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 352 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
+| 353 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 354 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 355 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 356 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 357 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
 | 358 | [Hob](games/h/hob.md) | 4.58 | 
