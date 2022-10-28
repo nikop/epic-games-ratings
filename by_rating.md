@@ -490,28 +490,28 @@
 | 488 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 489 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
 | 490 | [Death Coming](games/d/death_coming.md) | 4.48 | 
-| 491 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
-| 492 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
-| 493 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 494 | [Redout 2](games/r/redout_2.md) | 4.48 | 
-| 495 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
-| 496 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
-| 497 | [Paradigm](games/p/paradigm.md) | 4.47 | 
-| 498 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 499 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
-| 500 | [CryoFall](games/c/cryofall.md) | 4.47 | 
+| 491 | [CryoFall](games/c/cryofall.md) | 4.48 | 
+| 492 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
+| 493 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
+| 494 | [GigaBash](games/g/gigabash.md) | 4.48 | 
+| 495 | [Redout 2](games/r/redout_2.md) | 4.48 | 
+| 496 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
+| 497 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 498 | [Paradigm](games/p/paradigm.md) | 4.47 | 
+| 499 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 500 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
 | 501 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 502 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
-| 503 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 504 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 505 | [SMITE](games/s/smite.md) | 4.46 | 
-| 506 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
-| 507 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
-| 508 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 509 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
-| 510 | [Observation](games/o/observation.md) | 4.46 | 
-| 511 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
-| 512 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.46 | 
+| 503 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 504 | [SMITE](games/s/smite.md) | 4.46 | 
+| 505 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
+| 506 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
+| 507 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 508 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
+| 509 | [Observation](games/o/observation.md) | 4.46 | 
+| 510 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
+| 511 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.46 | 
+| 512 | [Scorn](games/s/scorn.md) | 4.46 | 
 | 513 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 514 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 515 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
@@ -648,16 +648,16 @@
 | 646 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
 | 647 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 648 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 649 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 650 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 651 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
-| 652 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.29 | 
-| 653 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
-| 654 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 655 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
-| 656 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 657 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
-| 658 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
+| 649 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 650 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
+| 651 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.29 | 
+| 652 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
+| 653 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 654 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 655 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 656 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
+| 657 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
+| 658 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
 | 659 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
 | 660 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 661 | [EVE Online](games/e/eve_online.md) | 4.27 | 
@@ -668,13 +668,13 @@
 | 666 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 667 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.27 | 
 | 668 | [The Fall](games/t/the_fall.md) | 4.26 | 
-| 669 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
-| 670 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 671 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
-| 672 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 673 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
-| 674 | [Democracy 4](games/d/democracy_4.md) | 4.25 | 
-| 675 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
+| 669 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
+| 670 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
+| 671 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 672 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
+| 673 | [Democracy 4](games/d/democracy_4.md) | 4.25 | 
+| 674 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
+| 675 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
 | 676 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 677 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
 | 678 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 

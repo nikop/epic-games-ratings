@@ -134,7 +134,7 @@
 | 132 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 133 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 134 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 135 | [CryoFall](games/c/cryofall.md) | 4.47 | 
+| 135 | [CryoFall](games/c/cryofall.md) | 4.48 | 
 | 136 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 137 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 138 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
@@ -265,7 +265,7 @@
 | 263 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 264 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 265 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 266 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
 | 267 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 268 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 269 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -425,7 +425,7 @@
 | 423 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 
 | 424 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 425 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 426 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 426 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
 | 427 | [Old World](games/o/old_world.md) | 4.64 | 
 | 428 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 429 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
@@ -521,7 +521,7 @@
 | 519 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
 | 520 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 521 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 522 | [Scorn](games/s/scorn.md) | 4.47 | 
+| 522 | [Scorn](games/s/scorn.md) | 4.46 | 
 | 523 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
 | 524 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 525 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
