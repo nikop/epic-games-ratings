@@ -331,7 +331,7 @@
 | 329 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 330 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
 | 331 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
-| 332 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
+| 332 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 
 | 333 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 334 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
 | 335 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
@@ -657,7 +657,7 @@
 | 655 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
 | 656 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
 | 657 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
-| 658 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.95 | 
+| 658 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
 | 659 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 660 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 661 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.72 | 

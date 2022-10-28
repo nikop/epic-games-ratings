@@ -705,12 +705,12 @@
 | 703 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 704 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.19 | 
 | 705 | [Space Punks](games/s/space_punks.md) | 4.18 | 
-| 706 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
-| 707 | [Crayta](games/c/crayta.md) | 4.18 | 
-| 708 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
-| 709 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
-| 710 | [Windbound](games/w/windbound.md) | 4.17 | 
-| 711 | [Scavengers](games/s/scavengers.md) | 4.17 | 
+| 706 | [Crayta](games/c/crayta.md) | 4.18 | 
+| 707 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
+| 708 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
+| 709 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 710 | [Scavengers](games/s/scavengers.md) | 4.17 | 
+| 711 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 
 | 712 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 713 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 714 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
@@ -753,9 +753,9 @@
 | 751 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
 | 752 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 753 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.97 | 
-| 754 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 755 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.95 | 
-| 756 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.95 | 
+| 754 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
+| 755 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
+| 756 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.95 | 
 | 757 | [Warface](games/w/warface.md) | 3.94 | 
 | 758 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 759 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.89 | 
