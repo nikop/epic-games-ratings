@@ -144,7 +144,7 @@
 | 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
 | 143 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.61 | 
 | 144 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
-| 145 | [Dark Deity](games/d/dark_deity.md) | 4.37 | 
+| 145 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
 | 146 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 147 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 148 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
@@ -165,7 +165,7 @@
 | 163 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 164 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 165 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.55 | 
-| 166 | [Democracy 4](games/d/democracy_4.md) | 4.25 | 
+| 166 | [Democracy 4](games/d/democracy_4.md) | 4.26 | 
 | 167 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 168 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
 | 169 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
@@ -188,7 +188,7 @@
 | 186 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 187 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
+| 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
 | 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.66 | 
@@ -215,7 +215,7 @@
 | 213 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 214 | [Far Cry](games/f/far_cry.md) | 4.35 | 
 | 215 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.16 | 
-| 216 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.58 | 
+| 216 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
 | 217 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 218 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 219 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
@@ -397,7 +397,7 @@
 | 395 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 396 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 397 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 398 | [Mutazione](games/m/mutazione.md) | 4.65 | 
+| 398 | [Mutazione](games/m/mutazione.md) | 4.66 | 
 | 399 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 400 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 401 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
@@ -450,7 +450,7 @@
 | 448 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
 | 449 | [Paradigm](games/p/paradigm.md) | 4.47 | 
 | 450 | [Parkitect](games/p/parkitect.md) | 4.40 | 
-| 451 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 451 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
 | 452 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 453 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
 | 454 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
@@ -566,7 +566,7 @@
 | 564 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 565 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 566 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.46 | 
-| 567 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.66 | 
+| 567 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.68 | 
 | 568 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 569 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
 | 570 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
@@ -657,7 +657,7 @@
 | 655 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 656 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
 | 657 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
-| 658 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.59 | 
+| 658 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
 | 659 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
 | 660 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 661 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
@@ -683,7 +683,7 @@
 | 681 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 682 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 683 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
-| 684 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 684 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
 | 685 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 686 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 687 | [Torchlight](games/t/torchlight.md) | 4.39 | 
@@ -756,7 +756,7 @@
 | 754 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 755 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 756 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 757 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.62 | 
+| 757 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 758 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 759 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 760 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
