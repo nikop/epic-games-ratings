@@ -31,7 +31,7 @@
 | 29 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 30 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 31 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
-| 32 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
+| 32 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 33 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
 | 34 | [APE OUT](games/a/ape_out.md) | 4.68 | 
 | 35 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
@@ -135,7 +135,7 @@
 | 133 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 134 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
 | 135 | [CryoFall](games/c/cryofall.md) | 4.48 | 
-| 136 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 136 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 
 | 137 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 138 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 139 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
@@ -164,7 +164,7 @@
 | 162 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 163 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 164 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 165 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.52 | 
+| 165 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.55 | 
 | 166 | [Democracy 4](games/d/democracy_4.md) | 4.25 | 
 | 167 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 168 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
@@ -456,7 +456,7 @@
 | 454 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 455 | [Patron](games/p/patron.md) | 3.89 | 
 | 456 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 457 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
+| 457 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 458 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 459 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
 | 460 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
@@ -736,7 +736,7 @@
 | 734 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 735 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.56 | 
 | 736 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 737 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.38 | 
+| 737 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.26 | 
 | 738 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
 | 739 | [Warpips](games/w/warpips.md) | 4.57 | 
 | 740 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
