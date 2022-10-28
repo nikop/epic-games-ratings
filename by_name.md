@@ -110,7 +110,7 @@
 | 108 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 109 | [Chernobylite](games/c/chernobylite.md) | 4.10 | 
 | 110 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 111 | [Chorus](games/c/chorus.md) | 4.44 | 
+| 111 | [Chorus](games/c/chorus.md) | 4.45 | 
 | 112 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.95 | 
 | 113 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 114 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
@@ -207,7 +207,7 @@
 | 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.46 | 
 | 206 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 207 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 209 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 211 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.56 | 

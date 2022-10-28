@@ -374,22 +374,22 @@
 | 372 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
 | 373 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
 | 374 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 375 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 376 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 377 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
-| 378 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
-| 379 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 380 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
-| 381 | [Road 96](games/r/road_96.md) | 4.57 | 
-| 382 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
-| 383 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
-| 384 | [Warpips](games/w/warpips.md) | 4.57 | 
-| 385 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
-| 386 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
-| 387 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 388 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 389 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 390 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 375 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 376 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 377 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 378 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
+| 379 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
+| 380 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 381 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
+| 382 | [Road 96](games/r/road_96.md) | 4.57 | 
+| 383 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
+| 384 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
+| 385 | [Warpips](games/w/warpips.md) | 4.57 | 
+| 386 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
+| 387 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
+| 388 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 389 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 390 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 391 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 392 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 393 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.56 | 
@@ -524,18 +524,18 @@
 | 522 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 523 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
 | 524 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
-| 525 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.45 | 
-| 526 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
-| 527 | [The Medium](games/t/the_medium.md) | 4.45 | 
-| 528 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 529 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 530 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 531 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
-| 532 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
-| 533 | [Gloomhaven](games/g/gloomhaven.md) | 4.44 | 
-| 534 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
-| 535 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 536 | [Chorus](games/c/chorus.md) | 4.44 | 
+| 525 | [Chorus](games/c/chorus.md) | 4.45 | 
+| 526 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.45 | 
+| 527 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
+| 528 | [The Medium](games/t/the_medium.md) | 4.45 | 
+| 529 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 530 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 531 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 532 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 533 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
+| 534 | [Gloomhaven](games/g/gloomhaven.md) | 4.44 | 
+| 535 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
+| 536 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 537 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
 | 538 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 539 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 

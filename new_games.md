@@ -36,7 +36,7 @@
 | 34 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 35 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 36 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
-| 37 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 37 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 38 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
 | 39 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 40 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
