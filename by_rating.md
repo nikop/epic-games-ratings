@@ -422,16 +422,16 @@
 | 420 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
 | 421 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
 | 422 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.54 | 
-| 423 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
-| 424 | [Sable](games/s/sable.md) | 4.54 | 
-| 425 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 426 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 427 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 428 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 429 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 430 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 431 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 432 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.53 | 
+| 423 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
+| 424 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
+| 425 | [Sable](games/s/sable.md) | 4.54 | 
+| 426 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 427 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 428 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 429 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 430 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 431 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 432 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 433 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 434 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 435 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
@@ -759,10 +759,10 @@
 | 757 | [Warface](games/w/warface.md) | 3.94 | 
 | 758 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 759 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.89 | 
-| 760 | [Conarium](games/c/conarium.md) | 3.89 | 
-| 761 | [Patron](games/p/patron.md) | 3.89 | 
-| 762 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
-| 763 | [Ironcast](games/i/ironcast.md) | 3.87 | 
+| 760 | [Patron](games/p/patron.md) | 3.89 | 
+| 761 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
+| 762 | [Ironcast](games/i/ironcast.md) | 3.87 | 
+| 763 | [Conarium](games/c/conarium.md) | 3.86 | 
 | 764 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.81 | 
 | 765 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
 | 766 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 

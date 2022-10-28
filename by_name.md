@@ -118,7 +118,7 @@
 | 116 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 117 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
 | 118 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 119 | [Conarium](games/c/conarium.md) | 3.89 | 
+| 119 | [Conarium](games/c/conarium.md) | 3.86 | 
 | 120 | [Control](games/c/control.md) | 4.60 | 
 | 121 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
 | 122 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
@@ -718,7 +718,7 @@
 | 716 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 717 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
 | 718 | [UnMetal](games/u/unmetal.md) | 4.55 | 
-| 719 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.53 | 
+| 719 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
 | 720 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 721 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 722 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
