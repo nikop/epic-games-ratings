@@ -51,9 +51,10 @@
 | 49 | [Aragami 2](games/a/aragami_2.md) | 4.52 | 
 | 50 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 51 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
-| 52 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 53 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 54 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 55 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
-| 56 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 57 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 52 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.38 | 
+| 53 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 54 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 55 | [GigaBash](games/g/gigabash.md) | 4.48 | 
+| 56 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 
+| 57 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 58 | [MultiVersus](games/m/multiversus.md) | 4.57 | 

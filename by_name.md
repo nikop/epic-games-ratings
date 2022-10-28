@@ -18,7 +18,7 @@
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
 | 18 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
+| 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
@@ -140,7 +140,7 @@
 | 138 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
 | 139 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 140 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
-| 141 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.59 | 
+| 141 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
 | 143 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.61 | 
 | 144 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
@@ -736,36 +736,37 @@
 | 734 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 735 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.56 | 
 | 736 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 737 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
-| 738 | [Warpips](games/w/warpips.md) | 4.57 | 
-| 739 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 740 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 741 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
-| 742 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
-| 743 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 744 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
-| 745 | [Weird West](games/w/weird_west.md) | 4.43 | 
-| 746 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
-| 747 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 748 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
-| 749 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
-| 750 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 751 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
-| 752 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
-| 753 | [Windbound](games/w/windbound.md) | 4.17 | 
-| 754 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 755 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.62 | 
-| 756 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 757 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
-| 758 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
-| 759 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 760 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
-| 761 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
-| 762 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
-| 763 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 764 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 765 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 766 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 767 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
-| 768 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.58 | 
-| 769 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 737 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.38 | 
+| 738 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
+| 739 | [Warpips](games/w/warpips.md) | 4.57 | 
+| 740 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 741 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
+| 742 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
+| 743 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.25 | 
+| 744 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
+| 745 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
+| 746 | [Weird West](games/w/weird_west.md) | 4.43 | 
+| 747 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
+| 748 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 749 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
+| 750 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
+| 751 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 752 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
+| 753 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
+| 754 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 755 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 756 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.62 | 
+| 757 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 758 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
+| 759 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
+| 760 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 761 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
+| 762 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
+| 763 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
+| 764 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 765 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 766 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
+| 767 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 768 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.41 | 
+| 769 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.58 | 
+| 770 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
