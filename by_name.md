@@ -137,7 +137,7 @@
 | 135 | [CryoFall](games/c/cryofall.md) | 4.48 | 
 | 136 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 
 | 137 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
-| 138 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.38 | 
+| 138 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
 | 139 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 140 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 141 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
@@ -188,7 +188,7 @@
 | 186 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 187 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
 | 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.66 | 
@@ -266,7 +266,7 @@
 | 264 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 265 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 266 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 267 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
+| 267 | [Gotham Knights](games/g/gotham_knights.md) | 4.28 | 
 | 268 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 269 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 270 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -362,7 +362,7 @@
 | 360 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 361 | [Limbo](games/l/limbo.md) | 4.64 | 
 | 362 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.40 | 
-| 363 | [Little Inferno](games/l/little_inferno.md) | 4.44 | 
+| 363 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
 | 364 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 365 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
 | 366 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.26 | 
@@ -464,7 +464,7 @@
 | 462 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 463 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 464 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
-| 465 | [Pine](games/p/pine.md) | 4.14 | 
+| 465 | [Pine](games/p/pine.md) | 4.13 | 
 | 466 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.40 | 
 | 467 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
 | 468 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
@@ -497,7 +497,7 @@
 | 495 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 496 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 497 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 498 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 498 | [Rising Hell](games/r/rising_hell.md) | 4.42 | 
 | 499 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 500 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 501 | [Riverbond](games/r/riverbond.md) | 4.49 | 
@@ -553,7 +553,7 @@
 | 551 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 552 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
 | 553 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 554 | [SOMA](games/s/soma.md) | 4.68 | 
+| 554 | [SOMA](games/s/soma.md) | 4.67 | 
 | 555 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.68 | 
 | 556 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
 | 557 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
@@ -576,7 +576,7 @@
 | 574 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
 | 575 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 576 | [Starsand](games/s/starsand.md) | 4.32 | 
-| 577 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.19 | 
+| 577 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
 | 578 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
 | 579 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 580 | [Steelrising](games/s/steelrising.md) | 4.28 | 
@@ -610,7 +610,7 @@
 | 608 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 609 | [Tacoma](games/t/tacoma.md) | 4.31 | 
 | 610 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
-| 611 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.72 | 
+| 611 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.73 | 
 | 612 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 613 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
 | 614 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
@@ -679,7 +679,7 @@
 | 677 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 678 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 679 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
-| 680 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.20 | 
+| 680 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.21 | 
 | 681 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 682 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 683 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 

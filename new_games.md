@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.14 | 
-| 2 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
+| 2 | [Gotham Knights](games/g/gotham_knights.md) | 4.28 | 
 | 3 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.06 | 
 | 4 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 5 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.46 | 
@@ -11,7 +11,7 @@
 | 9 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.75 | 
 | 10 | [Scorn](games/s/scorn.md) | 4.46 | 
 | 11 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.26 | 
-| 12 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.20 | 
+| 12 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.21 | 
 | 13 | [Darkwood](games/d/darkwood.md) | 4.58 | 
 | 14 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 15 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.50 | 
