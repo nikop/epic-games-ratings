@@ -114,16 +114,16 @@
 | 112 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 113 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
 | 114 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
-| 115 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
-| 116 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
-| 117 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.75 | 
-| 118 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
-| 119 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 120 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 121 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 122 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 123 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 124 | [Northgard](games/n/northgard.md) | 4.74 | 
+| 115 | [Northgard](games/n/northgard.md) | 4.75 | 
+| 116 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
+| 117 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
+| 118 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.75 | 
+| 119 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
+| 120 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 121 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 122 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 123 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 124 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 125 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
 | 126 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
 | 127 | [Haven](games/h/haven.md) | 4.74 | 
@@ -522,19 +522,19 @@
 | 520 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 521 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 522 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 523 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 524 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 525 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
-| 526 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
-| 527 | [Chorus](games/c/chorus.md) | 4.45 | 
-| 528 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.45 | 
-| 529 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
-| 530 | [Scorn](games/s/scorn.md) | 4.45 | 
-| 531 | [The Medium](games/t/the_medium.md) | 4.45 | 
-| 532 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 533 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 534 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 535 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 523 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
+| 524 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
+| 525 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
+| 526 | [Chorus](games/c/chorus.md) | 4.45 | 
+| 527 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.45 | 
+| 528 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
+| 529 | [Scorn](games/s/scorn.md) | 4.45 | 
+| 530 | [The Medium](games/t/the_medium.md) | 4.45 | 
+| 531 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 532 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 533 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 534 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 535 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
 | 536 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 537 | [Gloomhaven](games/g/gloomhaven.md) | 4.44 | 
 | 538 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
@@ -735,11 +735,11 @@
 | 733 | [Chernobylite](games/c/chernobylite.md) | 4.10 | 
 | 734 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 735 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
-| 736 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
-| 737 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 738 | [Lake](games/l/lake.md) | 4.08 | 
-| 739 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 740 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
+| 736 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 737 | [Lake](games/l/lake.md) | 4.08 | 
+| 738 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 739 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
+| 740 | [Train Valley 2](games/t/train_valley_2.md) | 4.06 | 
 | 741 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 742 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 
 | 743 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 

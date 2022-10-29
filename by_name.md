@@ -350,7 +350,7 @@
 | 348 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
 | 349 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 350 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
-| 351 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 351 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
 | 352 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 353 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 354 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
@@ -418,7 +418,7 @@
 | 416 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 417 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
 | 418 | [NORCO](games/n/norco.md) | 4.55 | 
-| 419 | [Northgard](games/n/northgard.md) | 4.74 | 
+| 419 | [Northgard](games/n/northgard.md) | 4.75 | 
 | 420 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 421 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 422 | [Obduction](games/o/obduction.md) | 4.12 | 
@@ -703,7 +703,7 @@
 | 701 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 702 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
 | 703 | [Train Valley](games/t/train_valley.md) | 4.41 | 
-| 704 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
+| 704 | [Train Valley 2](games/t/train_valley_2.md) | 4.06 | 
 | 705 | [Transistor](games/t/transistor.md) | 4.61 | 
 | 706 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 707 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 

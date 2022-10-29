@@ -1,10 +1,10 @@
 {
   "ID": "5c59642227a2412fb38f324d1772914e",
   "Name": "Train Valley 2",
-  "Rating": 4.09,
+  "Rating": 4.06,
   "NumberOfRatings": 87,
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
-  "LastChanged": "2022-10-27T19:30:30.384371+00:00",
+  "LastChanged": "2022-10-29T06:00:26.0874394+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:19.351746+00:00",
@@ -174,6 +174,11 @@
     {
       "Time": "2022-10-27T19:30:30.3843714+00:00",
       "Rating": 4.09,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-29T06:00:26.0874396+00:00",
+      "Rating": 4.06,
       "NumberOfRatings": null
     }
   ],
