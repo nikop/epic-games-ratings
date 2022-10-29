@@ -396,20 +396,20 @@
 | 394 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 395 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
 | 396 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 397 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.56 | 
-| 398 | [Warpips](games/w/warpips.md) | 4.56 | 
-| 399 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 400 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 401 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 402 | [Hue](games/h/hue.md) | 4.55 | 
-| 403 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 404 | [RUINER](games/r/ruiner.md) | 4.55 | 
-| 405 | [Isonzo](games/i/isonzo.md) | 4.55 | 
-| 406 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
-| 407 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
-| 408 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 409 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
-| 410 | [Sable](games/s/sable.md) | 4.55 | 
+| 397 | [Sable](games/s/sable.md) | 4.56 | 
+| 398 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.56 | 
+| 399 | [Warpips](games/w/warpips.md) | 4.56 | 
+| 400 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 401 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 402 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 403 | [Hue](games/h/hue.md) | 4.55 | 
+| 404 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
+| 405 | [RUINER](games/r/ruiner.md) | 4.55 | 
+| 406 | [Isonzo](games/i/isonzo.md) | 4.55 | 
+| 407 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
+| 408 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 409 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 410 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
 | 411 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
 | 412 | [UnMetal](games/u/unmetal.md) | 4.55 | 
 | 413 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.55 | 
@@ -425,18 +425,18 @@
 | 423 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
 | 424 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
 | 425 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
-| 426 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 427 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 428 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 429 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 430 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 431 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 432 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.53 | 
-| 433 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 434 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
-| 435 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 436 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 437 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 426 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 427 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 428 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 429 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 430 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 431 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 432 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 433 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.53 | 
+| 434 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 435 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
+| 436 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 437 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 438 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 439 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 440 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
@@ -640,17 +640,17 @@
 | 638 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
 | 639 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
 | 640 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.32 | 
-| 641 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.32 | 
-| 642 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
-| 643 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 644 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 645 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
-| 646 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
-| 647 | [Tacoma](games/t/tacoma.md) | 4.31 | 
-| 648 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.31 | 
-| 649 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 650 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
-| 651 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
+| 641 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 642 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 643 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 644 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
+| 645 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
+| 646 | [Tacoma](games/t/tacoma.md) | 4.31 | 
+| 647 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.31 | 
+| 648 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 649 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
+| 650 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
+| 651 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.31 | 
 | 652 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 653 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
 | 654 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 

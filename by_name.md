@@ -475,7 +475,7 @@
 | 473 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 474 | [Quake](games/q/quake.md) | 4.82 | 
 | 475 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 476 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 476 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 477 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 478 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 479 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
@@ -514,7 +514,7 @@
 | 512 | [RUINER](games/r/ruiner.md) | 4.55 | 
 | 513 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 514 | [Runbow](games/r/runbow.md) | 4.43 | 
-| 515 | [Sable](games/s/sable.md) | 4.55 | 
+| 515 | [Sable](games/s/sable.md) | 4.56 | 
 | 516 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 517 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 518 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.76 | 
@@ -740,7 +740,7 @@
 | 738 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 739 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
 | 740 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 741 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.32 | 
+| 741 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.31 | 
 | 742 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
 | 743 | [Warpips](games/w/warpips.md) | 4.56 | 
 | 744 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 

@@ -23,7 +23,7 @@
 | 21 | [Outlast](games/o/outlast.md) | 4.71 | 
 | 22 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
 | 23 | [Runbow](games/r/runbow.md) | 4.43 | 
-| 24 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 24 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 25 | [SpiderHeck](games/s/spiderheck.md) | 4.65 | 
 | 26 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 27 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 
@@ -55,7 +55,7 @@
 | 53 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
 | 54 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 55 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
-| 56 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.32 | 
+| 56 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.31 | 
 | 57 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 58 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 59 | [GigaBash](games/g/gigabash.md) | 4.48 | 
