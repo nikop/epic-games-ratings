@@ -1,5 +1,5 @@
 # Battle Chasers: Nightwar
-Rating: 4.69 (32)  (as of 23.09.2022)  
+Rating: 4.67 (32)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -24,3 +24,4 @@ Rating: 4.69 (32)  (as of 23.09.2022)
 | 2022-10-20 | 4.67 | - |
 | 2022-10-24 | 4.68 | - |
 | 2022-10-26 | 4.69 | - |
+| 2022-10-29 | 4.67 | - |

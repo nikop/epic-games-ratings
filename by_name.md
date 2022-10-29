@@ -72,7 +72,7 @@
 | 70 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 71 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 72 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 73 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.69 | 
+| 73 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
 | 74 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.81 | 
 | 75 | [Before We Leave](games/b/before_we_leave.md) | 4.67 | 
 | 76 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
@@ -482,7 +482,7 @@
 | 480 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
 | 481 | [Rayman Origins](games/r/rayman_origins.md) | 4.73 | 
 | 482 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
-| 483 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
+| 483 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 484 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
 | 485 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 486 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
@@ -709,7 +709,7 @@
 | 707 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 708 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 709 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
-| 710 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.59 | 
+| 710 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.60 | 
 | 711 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
 | 712 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 713 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
@@ -741,7 +741,7 @@
 | 739 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 740 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.32 | 
 | 741 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
-| 742 | [Warpips](games/w/warpips.md) | 4.57 | 
+| 742 | [Warpips](games/w/warpips.md) | 4.56 | 
 | 743 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 744 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 745 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
