@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
-| 2 | [20XX](games/2/20xx.md) | 4.61 | 
+| 2 | [20XX](games/2/20xx.md) | 4.60 | 
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.42 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
@@ -88,7 +88,7 @@
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.32 | 
 | 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.80 | 
-| 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 91 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 92 | [Breathedge](games/b/breathedge.md) | 4.58 | 
@@ -555,7 +555,7 @@
 | 553 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
 | 554 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 555 | [SOMA](games/s/soma.md) | 4.67 | 
-| 556 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.68 | 
+| 556 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 557 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
 | 558 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 559 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
@@ -725,7 +725,7 @@
 | 723 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 724 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 725 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 726 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.75 | 
+| 726 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.76 | 
 | 727 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 728 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
 | 729 | [Vampyr](games/v/vampyr.md) | 4.31 | 
