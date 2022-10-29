@@ -195,7 +195,7 @@
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 194 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.45 | 
 | 195 | [ELEX](games/e/elex.md) | 4.34 | 
-| 196 | [ELEX II](games/e/elex_ii.md) | 4.22 | 
+| 196 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
 | 197 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 198 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 199 | [Encased](games/e/encased.md) | 4.40 | 
@@ -238,7 +238,7 @@
 | 236 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
 | 237 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 238 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 239 | [For The King](games/f/for_the_king.md) | 4.69 | 
+| 239 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 240 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
 | 241 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 242 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
@@ -354,7 +354,7 @@
 | 352 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 353 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 354 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 355 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
+| 355 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
 | 356 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
 | 357 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 358 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
@@ -365,7 +365,7 @@
 | 363 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
 | 364 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 365 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 366 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.26 | 
+| 366 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
 | 367 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
 | 368 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 369 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
@@ -606,7 +606,7 @@
 | 604 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 605 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
 | 606 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 607 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 607 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
 | 608 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
 | 609 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
 | 610 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
@@ -769,7 +769,7 @@
 | 767 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 768 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 769 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 770 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 770 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
 | 771 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 772 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.58 | 
 | 773 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
