@@ -1,10 +1,10 @@
 {
   "ID": "puffin",
   "Name": "AXIOM VERGE",
-  "Rating": 4.52,
+  "Rating": 4.51,
   "NumberOfRatings": 132,
   "FirstSeen": "2022-07-22T20:25:58.5809404+00:00",
-  "LastChanged": "2022-10-29T01:32:08.5722647+00:00",
+  "LastChanged": "2022-10-29T21:32:13.5635336+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:58.5809407+00:00",
@@ -285,12 +285,17 @@
       "Time": "2022-10-29T01:32:08.5722649+00:00",
       "Rating": 4.52,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-29T21:32:13.563534+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 35
+      "Count": 36
     }
   ]
 }

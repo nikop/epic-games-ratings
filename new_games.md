@@ -4,7 +4,7 @@
 | 2 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.53 | 
 | 3 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.29 | 
 | 4 | [STG Football](games/s/stg_football.md) | 4.80 | 
-| 5 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 5 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
 | 6 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.13 | 
 | 7 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 8 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.47 | 

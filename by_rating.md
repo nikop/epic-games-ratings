@@ -447,22 +447,22 @@
 | 445 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 446 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
 | 447 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
-| 448 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.52 | 
-| 449 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 450 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
-| 451 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 452 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 453 | [Verdun](games/v/verdun.md) | 4.51 | 
-| 454 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 455 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 456 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 457 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 458 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 459 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
-| 460 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
-| 461 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 462 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 463 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
+| 448 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 449 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
+| 450 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 451 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 452 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 453 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 454 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 455 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 456 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 457 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 458 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
+| 459 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
+| 460 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 461 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 462 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
+| 463 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 464 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
 | 465 | [The Surge](games/t/the_surge.md) | 4.51 | 
 | 466 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
@@ -616,10 +616,10 @@
 | 614 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 615 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
 | 616 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 617 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 618 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.36 | 
-| 619 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
-| 620 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 617 | [Among Trees](games/a/among_trees.md) | 4.36 | 
+| 618 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 619 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.36 | 
+| 620 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
 | 621 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
 | 622 | [Far Cry](games/f/far_cry.md) | 4.35 | 
 | 623 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
@@ -672,10 +672,10 @@
 | 670 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 671 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
 | 672 | [Ashen](games/a/ashen.md) | 4.27 | 
-| 673 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.27 | 
-| 674 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
-| 675 | [Democracy 4](games/d/democracy_4.md) | 4.26 | 
-| 676 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 673 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
+| 674 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.27 | 
+| 675 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
+| 676 | [Democracy 4](games/d/democracy_4.md) | 4.26 | 
 | 677 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 678 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 679 | [The Fall](games/t/the_fall.md) | 4.25 | 
