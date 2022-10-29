@@ -280,19 +280,19 @@
 | 278 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 279 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 280 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 281 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
-| 282 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
-| 283 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
-| 284 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 285 | [GRIME](games/g/grime.md) | 4.63 | 
-| 286 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 287 | [Warframe](games/w/warframe.md) | 4.62 | 
-| 288 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 289 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 290 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
-| 291 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
-| 292 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 293 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
+| 281 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
+| 282 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
+| 283 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
+| 284 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
+| 285 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
+| 286 | [GRIME](games/g/grime.md) | 4.63 | 
+| 287 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 288 | [Warframe](games/w/warframe.md) | 4.62 | 
+| 289 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 290 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 291 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
+| 292 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
+| 293 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 294 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 295 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
 | 296 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
@@ -512,23 +512,23 @@
 | 510 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 511 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.46 | 
 | 512 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.46 | 
-| 513 | [Scorn](games/s/scorn.md) | 4.46 | 
-| 514 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.46 | 
-| 515 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 516 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 517 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 518 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 519 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 520 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 521 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 522 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 523 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 524 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 525 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
-| 526 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
-| 527 | [Chorus](games/c/chorus.md) | 4.45 | 
-| 528 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.45 | 
-| 529 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
+| 513 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.46 | 
+| 514 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
+| 515 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 516 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 517 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 518 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 519 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 520 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 521 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 522 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 523 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
+| 524 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
+| 525 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
+| 526 | [Chorus](games/c/chorus.md) | 4.45 | 
+| 527 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.45 | 
+| 528 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
+| 529 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 530 | [The Medium](games/t/the_medium.md) | 4.45 | 
 | 531 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 532 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
@@ -650,17 +650,17 @@
 | 648 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
 | 649 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 650 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 651 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 652 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 653 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
-| 654 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.29 | 
-| 655 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
-| 656 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
-| 657 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 658 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
-| 659 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.29 | 
-| 660 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
-| 661 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
+| 651 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 652 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
+| 653 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.29 | 
+| 654 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
+| 655 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
+| 656 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 657 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 658 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.29 | 
+| 659 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
+| 660 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 
+| 661 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
 | 662 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 663 | [Rage 2](games/r/rage_2.md) | 4.27 | 
 | 664 | [EVE Online](games/e/eve_online.md) | 4.27 | 

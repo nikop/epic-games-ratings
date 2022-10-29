@@ -427,7 +427,7 @@
 | 425 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 
 | 426 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 427 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 428 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 428 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
 | 429 | [Old World](games/o/old_world.md) | 4.64 | 
 | 430 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 431 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
@@ -523,7 +523,7 @@
 | 521 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
 | 522 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 523 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 524 | [Scorn](games/s/scorn.md) | 4.46 | 
+| 524 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 525 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
 | 526 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 527 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
@@ -581,7 +581,7 @@
 | 579 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
 | 580 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 581 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 582 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.62 | 
+| 582 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 583 | [STG Football](games/s/stg_football.md) | 4.80 | 
 | 584 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.58 | 
 | 585 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
