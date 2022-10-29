@@ -697,12 +697,12 @@
 | 695 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.21 | 
 | 696 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 697 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 698 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 699 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 700 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
-| 701 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
-| 702 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.20 | 
-| 703 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 698 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 699 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
+| 700 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
+| 701 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.20 | 
+| 702 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 703 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
 | 704 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
 | 705 | [Tharsis](games/t/tharsis.md) | 4.19 | 
 | 706 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
@@ -765,7 +765,7 @@
 | 763 | [Patron](games/p/patron.md) | 3.89 | 
 | 764 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
 | 765 | [Ironcast](games/i/ironcast.md) | 3.87 | 
-| 766 | [Conarium](games/c/conarium.md) | 3.86 | 
+| 766 | [Conarium](games/c/conarium.md) | 3.85 | 
 | 767 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.82 | 
 | 768 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 
 | 769 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 

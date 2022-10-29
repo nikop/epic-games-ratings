@@ -118,7 +118,7 @@
 | 116 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 117 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 118 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 119 | [Conarium](games/c/conarium.md) | 3.86 | 
+| 119 | [Conarium](games/c/conarium.md) | 3.85 | 
 | 120 | [Control](games/c/control.md) | 4.60 | 
 | 121 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
 | 122 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
@@ -727,7 +727,7 @@
 | 725 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 726 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.75 | 
 | 727 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 728 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 728 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
 | 729 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 730 | [Verdun](games/v/verdun.md) | 4.51 | 
 | 731 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
