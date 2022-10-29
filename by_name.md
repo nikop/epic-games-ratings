@@ -152,7 +152,7 @@
 | 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
 | 151 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 152 | [Darkwood](games/d/darkwood.md) | 4.59 | 
-| 153 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
+| 153 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
 | 154 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 155 | [Days Gone](games/d/days_gone.md) | 4.70 | 
 | 156 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
@@ -188,7 +188,7 @@
 | 186 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 187 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
+| 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
 | 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.66 | 
@@ -300,7 +300,7 @@
 | 298 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 299 | [House Party](games/h/house_party.md) | 4.34 | 
 | 300 | [Hue](games/h/hue.md) | 4.55 | 
-| 301 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
+| 301 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 302 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 303 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
 | 304 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
@@ -474,7 +474,7 @@
 | 472 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 473 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 474 | [Quake](games/q/quake.md) | 4.82 | 
-| 475 | [Rage 2](games/r/rage_2.md) | 4.27 | 
+| 475 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 476 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 477 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 478 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
@@ -543,7 +543,7 @@
 | 541 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 542 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 543 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 544 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.42 | 
+| 544 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
 | 545 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 546 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 547 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 

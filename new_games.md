@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.42 | 
+| 1 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
 | 2 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.29 | 
 | 3 | [STG Football](games/s/stg_football.md) | 4.80 | 
 | 4 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
