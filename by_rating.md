@@ -129,26 +129,26 @@
 | 127 | [Haven](games/h/haven.md) | 4.74 | 
 | 128 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 129 | [Revita](games/r/revita.md) | 4.74 | 
-| 130 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 131 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 132 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 133 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 134 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 135 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 136 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
-| 137 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 138 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
-| 139 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 140 | [Fez](games/f/fez.md) | 4.73 | 
-| 141 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
-| 142 | [Journey](games/j/journey.md) | 4.73 | 
-| 143 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
-| 144 | [Rayman Origins](games/r/rayman_origins.md) | 4.73 | 
-| 145 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.73 | 
-| 146 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.73 | 
-| 147 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 
-| 148 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.73 | 
-| 149 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
+| 130 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 131 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 132 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 133 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 134 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 135 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
+| 136 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 137 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 138 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
+| 139 | [Fez](games/f/fez.md) | 4.73 | 
+| 140 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
+| 141 | [Journey](games/j/journey.md) | 4.73 | 
+| 142 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
+| 143 | [Rayman Origins](games/r/rayman_origins.md) | 4.73 | 
+| 144 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.73 | 
+| 145 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.73 | 
+| 146 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 
+| 147 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.73 | 
+| 148 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
+| 149 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
 | 150 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
 | 151 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 152 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
@@ -442,23 +442,23 @@
 | 440 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 441 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 442 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 443 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
-| 444 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.52 | 
-| 445 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
-| 446 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 447 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
-| 448 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 449 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 450 | [Verdun](games/v/verdun.md) | 4.51 | 
-| 451 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 452 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 453 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 454 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 455 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 456 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
-| 457 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
-| 458 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 459 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 443 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
+| 444 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 445 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.52 | 
+| 446 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
+| 447 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 448 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
+| 449 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 450 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 451 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 452 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 453 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 454 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 455 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 456 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 457 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
+| 458 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
+| 459 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 460 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 461 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
 | 462 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
