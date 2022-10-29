@@ -394,7 +394,7 @@
 | 392 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
 | 393 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 394 | [Moving Out](games/m/moving_out.md) | 4.60 | 
-| 395 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 395 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 396 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 397 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 398 | [Mutazione](games/m/mutazione.md) | 4.66 | 
@@ -492,7 +492,7 @@
 | 490 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 491 | [Revita](games/r/revita.md) | 4.74 | 
 | 492 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 493 | [RiME](games/r/rime.md) | 4.61 | 
+| 493 | [RiME](games/r/rime.md) | 4.60 | 
 | 494 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 495 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 496 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -667,7 +667,7 @@
 | 665 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
 | 666 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.73 | 
 | 667 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
-| 668 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
+| 668 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
 | 669 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.84 | 
 | 670 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 671 | [The Witness](games/t/the_witness.md) | 4.70 | 
