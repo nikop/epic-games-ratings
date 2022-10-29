@@ -614,7 +614,7 @@
 | 612 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 613 | [Tacoma](games/t/tacoma.md) | 4.31 | 
 | 614 | [Tails of Iron](games/t/tails_of_iron.md) | 4.74 | 
-| 615 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.73 | 
+| 615 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.66 | 
 | 616 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 617 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
 | 618 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
@@ -638,7 +638,7 @@
 | 636 | [The Fall](games/t/the_fall.md) | 4.25 | 
 | 637 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 638 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
-| 639 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
+| 639 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
 | 640 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 641 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
 | 642 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
@@ -726,7 +726,7 @@
 | 724 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
 | 725 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 726 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 727 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 727 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
 | 728 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.76 | 
 | 729 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 730 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
@@ -764,7 +764,7 @@
 | 762 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 763 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 764 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
-| 765 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 765 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
 | 766 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 767 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 768 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
