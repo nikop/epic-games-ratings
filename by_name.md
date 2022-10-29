@@ -30,7 +30,7 @@
 | 28 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
 | 29 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 30 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
-| 31 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
+| 31 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
 | 32 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 33 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
 | 34 | [APE OUT](games/a/ape_out.md) | 4.68 | 
@@ -611,7 +611,7 @@
 | 609 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 610 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
 | 611 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
-| 612 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
+| 612 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 613 | [Tacoma](games/t/tacoma.md) | 4.31 | 
 | 614 | [Tails of Iron](games/t/tails_of_iron.md) | 4.74 | 
 | 615 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.66 | 
@@ -633,7 +633,7 @@
 | 631 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 632 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
 | 633 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
-| 634 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 634 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
 | 635 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
 | 636 | [The Fall](games/t/the_fall.md) | 4.25 | 
 | 637 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 

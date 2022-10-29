@@ -271,18 +271,18 @@
 | 269 | [Old World](games/o/old_world.md) | 4.64 | 
 | 270 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
 | 271 | [Limbo](games/l/limbo.md) | 4.64 | 
-| 272 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
-| 273 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
-| 274 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
-| 275 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
-| 276 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
-| 277 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.64 | 
-| 278 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.64 | 
-| 279 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 280 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 281 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 282 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 283 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
+| 272 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 273 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
+| 274 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
+| 275 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
+| 276 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.64 | 
+| 277 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.64 | 
+| 278 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 279 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 280 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 281 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 282 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
+| 283 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 284 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 285 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 286 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
@@ -340,26 +340,26 @@
 | 338 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
 | 339 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 340 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 341 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 342 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 343 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
-| 344 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 345 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
-| 346 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.59 | 
-| 347 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.59 | 
-| 348 | [Card Shark](games/c/card_shark.md) | 4.59 | 
-| 349 | [Darkwood](games/d/darkwood.md) | 4.59 | 
-| 350 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 351 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 352 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 353 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
-| 354 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 355 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 356 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 357 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
-| 358 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 359 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 360 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 341 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
+| 342 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 343 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 344 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
+| 345 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 346 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
+| 347 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.59 | 
+| 348 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.59 | 
+| 349 | [Card Shark](games/c/card_shark.md) | 4.59 | 
+| 350 | [Darkwood](games/d/darkwood.md) | 4.59 | 
+| 351 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 352 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 353 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 354 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
+| 355 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 356 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 357 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 358 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
+| 359 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 360 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 361 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
 | 362 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 363 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
@@ -593,14 +593,14 @@
 | 591 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
 | 592 | [Torchlight](games/t/torchlight.md) | 4.39 | 
 | 593 | [Othercide](games/o/othercide.md) | 4.39 | 
-| 594 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 595 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
-| 596 | [Backbone](games/b/backbone.md) | 4.39 | 
-| 597 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
-| 598 | [Mortal Shell](games/m/mortal_shell.md) | 4.38 | 
-| 599 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
-| 600 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
-| 601 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
+| 594 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
+| 595 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 596 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
+| 597 | [Backbone](games/b/backbone.md) | 4.39 | 
+| 598 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
+| 599 | [Mortal Shell](games/m/mortal_shell.md) | 4.38 | 
+| 600 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
+| 601 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
 | 602 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
 | 603 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 604 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
