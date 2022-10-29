@@ -101,7 +101,7 @@
 | 99 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 100 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 101 | [Card Shark](games/c/card_shark.md) | 4.59 | 
-| 102 | [CARRION](games/c/carrion.md) | 4.65 | 
+| 102 | [CARRION](games/c/carrion.md) | 4.66 | 
 | 103 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
 | 104 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 105 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
@@ -110,7 +110,7 @@
 | 108 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 109 | [Chernobylite](games/c/chernobylite.md) | 4.10 | 
 | 110 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 111 | [Chorus](games/c/chorus.md) | 4.45 | 
+| 111 | [Chorus](games/c/chorus.md) | 4.44 | 
 | 112 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.95 | 
 | 113 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 114 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
@@ -611,12 +611,12 @@
 | 609 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
 | 610 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 611 | [Tacoma](games/t/tacoma.md) | 4.31 | 
-| 612 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
+| 612 | [Tails of Iron](games/t/tails_of_iron.md) | 4.74 | 
 | 613 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.73 | 
 | 614 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 615 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 616 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 617 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.87 | 
+| 617 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 618 | [Tharsis](games/t/tharsis.md) | 4.19 | 
 | 619 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 620 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.58 | 
@@ -762,7 +762,7 @@
 | 760 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 761 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 762 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
-| 763 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 763 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
 | 764 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 765 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 766 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
