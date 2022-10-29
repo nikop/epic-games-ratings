@@ -338,24 +338,24 @@
 | 336 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
 | 337 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 338 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 339 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 340 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 341 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 342 | [ABZU](games/a/abzu.md) | 4.59 | 
-| 343 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
-| 344 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 345 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
-| 346 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.59 | 
-| 347 | [Card Shark](games/c/card_shark.md) | 4.59 | 
-| 348 | [Darkwood](games/d/darkwood.md) | 4.59 | 
-| 349 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 350 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 351 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 352 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
-| 353 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 354 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 355 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 356 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
+| 339 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 340 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 341 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 342 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 343 | [ABZU](games/a/abzu.md) | 4.59 | 
+| 344 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
+| 345 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 346 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
+| 347 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.59 | 
+| 348 | [Card Shark](games/c/card_shark.md) | 4.59 | 
+| 349 | [Darkwood](games/d/darkwood.md) | 4.59 | 
+| 350 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 351 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 352 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 353 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
+| 354 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 355 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 356 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 357 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 358 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 359 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
@@ -635,11 +635,11 @@
 | 633 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 634 | [Lamentum](games/l/lamentum.md) | 4.33 | 
 | 635 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.33 | 
-| 636 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.33 | 
-| 637 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 638 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
-| 639 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
-| 640 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.32 | 
+| 636 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 637 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
+| 638 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
+| 639 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.32 | 
+| 640 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.32 | 
 | 641 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 642 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 643 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
@@ -722,10 +722,10 @@
 | 720 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
 | 721 | [Pine](games/p/pine.md) | 4.13 | 
 | 722 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
-| 723 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
-| 724 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 725 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.13 | 
-| 726 | [Obduction](games/o/obduction.md) | 4.12 | 
+| 723 | [Obduction](games/o/obduction.md) | 4.13 | 
+| 724 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
+| 725 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
+| 726 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.13 | 
 | 727 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 728 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 729 | [Relicta](games/r/relicta.md) | 4.11 | 
