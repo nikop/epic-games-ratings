@@ -614,7 +614,7 @@
 | 612 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
 | 613 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.73 | 
 | 614 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 615 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
+| 615 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 616 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 617 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.87 | 
 | 618 | [Tharsis](games/t/tharsis.md) | 4.19 | 
@@ -685,7 +685,7 @@
 | 683 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 684 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 685 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
-| 686 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 686 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
 | 687 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 688 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 689 | [Torchlight](games/t/torchlight.md) | 4.39 | 
@@ -765,7 +765,7 @@
 | 763 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 764 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 765 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
-| 766 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
+| 766 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 767 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 768 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 769 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
