@@ -544,7 +544,7 @@
 | 542 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 543 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 544 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 545 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
+| 545 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.53 | 
 | 546 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 547 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 548 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
@@ -683,7 +683,7 @@
 | 681 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 682 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 683 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
-| 684 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.21 | 
+| 684 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.24 | 
 | 685 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 686 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 687 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
@@ -711,7 +711,7 @@
 | 709 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 710 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 711 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
-| 712 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.60 | 
+| 712 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
 | 713 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
 | 714 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 715 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
