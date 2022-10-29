@@ -701,13 +701,13 @@
 | 699 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 700 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 701 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 702 | [The Surge 2](games/t/the_surge_2.md) | 4.20 | 
-| 703 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 704 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
-| 705 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 706 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
-| 707 | [Tharsis](games/t/tharsis.md) | 4.19 | 
-| 708 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
+| 702 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 703 | [The Surge 2](games/t/the_surge_2.md) | 4.20 | 
+| 704 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 705 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
+| 706 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 707 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
+| 708 | [Tharsis](games/t/tharsis.md) | 4.19 | 
 | 709 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 710 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.18 | 
 | 711 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
