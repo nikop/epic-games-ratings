@@ -258,21 +258,21 @@
 | 256 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 257 | [Death's Door](games/d/death's_door.md) | 4.65 | 
 | 258 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
-| 259 | [CARRION](games/c/carrion.md) | 4.65 | 
-| 260 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 261 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 262 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 263 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 264 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 265 | [Old World](games/o/old_world.md) | 4.64 | 
-| 266 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 267 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 268 | [Limbo](games/l/limbo.md) | 4.64 | 
-| 269 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
-| 270 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
-| 271 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
-| 272 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
-| 273 | [Coromon](games/c/coromon.md) | 4.64 | 
+| 259 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 260 | [CARRION](games/c/carrion.md) | 4.65 | 
+| 261 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
+| 262 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 263 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 264 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 265 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 266 | [Old World](games/o/old_world.md) | 4.64 | 
+| 267 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 268 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
+| 269 | [Limbo](games/l/limbo.md) | 4.64 | 
+| 270 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
+| 271 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 272 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
+| 273 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
 | 274 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.64 | 
 | 275 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.64 | 
 | 276 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
@@ -338,27 +338,27 @@
 | 336 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 337 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 338 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 339 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
-| 340 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 341 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 342 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 343 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 344 | [ABZU](games/a/abzu.md) | 4.59 | 
-| 345 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.59 | 
-| 346 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
-| 347 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 348 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
-| 349 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.59 | 
-| 350 | [Card Shark](games/c/card_shark.md) | 4.59 | 
-| 351 | [Darkwood](games/d/darkwood.md) | 4.59 | 
-| 352 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 353 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 354 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 355 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
-| 356 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 357 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 358 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 359 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 339 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 340 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 341 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 342 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 343 | [ABZU](games/a/abzu.md) | 4.59 | 
+| 344 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.59 | 
+| 345 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
+| 346 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 347 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
+| 348 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.59 | 
+| 349 | [Card Shark](games/c/card_shark.md) | 4.59 | 
+| 350 | [Darkwood](games/d/darkwood.md) | 4.59 | 
+| 351 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 352 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 353 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 354 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
+| 355 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 356 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 357 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 358 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 359 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 360 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
 | 361 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 362 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
