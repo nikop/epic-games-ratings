@@ -1,10 +1,10 @@
 {
   "ID": "8432511ef63b489b843d21ff486a0355",
   "Name": "Torchlight II",
-  "Rating": 4.57,
+  "Rating": 4.58,
   "NumberOfRatings": 2280,
   "FirstSeen": "2022-07-22T20:29:22.1423084+00:00",
-  "LastChanged": "2022-10-22T13:02:06.5095306+00:00",
+  "LastChanged": "2022-10-29T12:32:11.8184911+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:22.1423087+00:00",
@@ -1200,6 +1200,11 @@
       "Time": "2022-10-22T13:02:06.5095309+00:00",
       "Rating": 4.57,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-29T12:32:11.8184913+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -1221,7 +1226,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has Amazing Characters",

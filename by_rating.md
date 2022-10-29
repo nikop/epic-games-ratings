@@ -95,10 +95,10 @@
 | 93 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
 | 94 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.78 | 
 | 95 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
-| 96 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
-| 97 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 98 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 99 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 96 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 97 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 98 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 99 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 100 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 101 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 102 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
@@ -357,25 +357,25 @@
 | 355 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 356 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 357 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 358 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 359 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
-| 360 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 361 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
-| 362 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
-| 363 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
-| 364 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
-| 365 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
-| 366 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
-| 367 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.58 | 
-| 368 | [Breathedge](games/b/breathedge.md) | 4.58 | 
-| 369 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.58 | 
-| 370 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.58 | 
-| 371 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 372 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 373 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
-| 374 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 375 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
-| 376 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
+| 358 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
+| 359 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 360 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
+| 361 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
+| 362 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
+| 363 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
+| 364 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
+| 365 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
+| 366 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
+| 367 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
+| 368 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.58 | 
+| 369 | [Breathedge](games/b/breathedge.md) | 4.58 | 
+| 370 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.58 | 
+| 371 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.58 | 
+| 372 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 373 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 374 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
+| 375 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 376 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
 | 377 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 378 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 379 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
@@ -698,16 +698,16 @@
 | 696 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 697 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 698 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 699 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
-| 700 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
-| 701 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.20 | 
-| 702 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 703 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
-| 704 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
-| 705 | [Tharsis](games/t/tharsis.md) | 4.19 | 
-| 706 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
-| 707 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.19 | 
-| 708 | [Space Punks](games/s/space_punks.md) | 4.18 | 
+| 699 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
+| 700 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.20 | 
+| 701 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 702 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
+| 703 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
+| 704 | [Tharsis](games/t/tharsis.md) | 4.19 | 
+| 705 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
+| 706 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.19 | 
+| 707 | [Space Punks](games/s/space_punks.md) | 4.18 | 
+| 708 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.18 | 
 | 709 | [Crayta](games/c/crayta.md) | 4.18 | 
 | 710 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
 | 711 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 

@@ -88,7 +88,7 @@
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.32 | 
 | 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.80 | 
-| 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
+| 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 91 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 92 | [Breathedge](games/b/breathedge.md) | 4.58 | 
@@ -349,7 +349,7 @@
 | 347 | [Lamentum](games/l/lamentum.md) | 4.33 | 
 | 348 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
 | 349 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 350 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
+| 350 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.18 | 
 | 351 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
 | 352 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 353 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
@@ -689,7 +689,7 @@
 | 687 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 688 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 689 | [Torchlight](games/t/torchlight.md) | 4.39 | 
-| 690 | [Torchlight II](games/t/torchlight_ii.md) | 4.57 | 
+| 690 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 691 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 692 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
 | 693 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
