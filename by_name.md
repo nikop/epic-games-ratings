@@ -282,7 +282,7 @@
 | 280 | [Haven](games/h/haven.md) | 4.74 | 
 | 281 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 282 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
-| 283 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 283 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 284 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
 | 285 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 286 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
@@ -608,7 +608,7 @@
 | 606 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 607 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 608 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 609 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
+| 609 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
 | 610 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 611 | [Tacoma](games/t/tacoma.md) | 4.31 | 
 | 612 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
@@ -739,7 +739,7 @@
 | 737 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 738 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
 | 739 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 740 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.32 | 
+| 740 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.33 | 
 | 741 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
 | 742 | [Warpips](games/w/warpips.md) | 4.56 | 
 | 743 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 

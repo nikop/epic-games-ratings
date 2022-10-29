@@ -271,17 +271,17 @@
 | 269 | [Limbo](games/l/limbo.md) | 4.64 | 
 | 270 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 271 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
-| 272 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
-| 273 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
-| 274 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.64 | 
-| 275 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.64 | 
-| 276 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
-| 277 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 278 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 279 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 280 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 281 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 282 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.63 | 
+| 272 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
+| 273 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
+| 274 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
+| 275 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.64 | 
+| 276 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.64 | 
+| 277 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
+| 278 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 279 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 280 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 281 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 282 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 283 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 284 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
 | 285 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
@@ -416,18 +416,18 @@
 | 414 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 415 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 416 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 417 | [Outward](games/o/outward.md) | 4.54 | 
-| 418 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 419 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
-| 420 | [Minit](games/m/minit.md) | 4.54 | 
-| 421 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
-| 422 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
-| 423 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
-| 424 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
-| 425 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 426 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 427 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 428 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 417 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 418 | [Outward](games/o/outward.md) | 4.54 | 
+| 419 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 420 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
+| 421 | [Minit](games/m/minit.md) | 4.54 | 
+| 422 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
+| 423 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
+| 424 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
+| 425 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
+| 426 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 427 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 428 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 429 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 430 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 431 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.53 | 
@@ -635,11 +635,11 @@
 | 633 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 634 | [Lamentum](games/l/lamentum.md) | 4.33 | 
 | 635 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.33 | 
-| 636 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 637 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
-| 638 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
-| 639 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.32 | 
-| 640 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.32 | 
+| 636 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.33 | 
+| 637 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 638 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
+| 639 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
+| 640 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.32 | 
 | 641 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 642 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 643 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
