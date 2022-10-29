@@ -639,17 +639,17 @@
 | 637 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
 | 638 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
 | 639 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.32 | 
-| 640 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.32 | 
-| 641 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
-| 642 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 643 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 644 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
-| 645 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
-| 646 | [Tacoma](games/t/tacoma.md) | 4.31 | 
-| 647 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.31 | 
-| 648 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 649 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
-| 650 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
+| 640 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 641 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 642 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 643 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
+| 644 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
+| 645 | [Tacoma](games/t/tacoma.md) | 4.31 | 
+| 646 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.31 | 
+| 647 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 648 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
+| 649 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
+| 650 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.31 | 
 | 651 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 652 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
 | 653 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 

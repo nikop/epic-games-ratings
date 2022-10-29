@@ -739,7 +739,7 @@
 | 737 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 738 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
 | 739 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 740 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.32 | 
+| 740 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.31 | 
 | 741 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
 | 742 | [Warpips](games/w/warpips.md) | 4.56 | 
 | 743 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
