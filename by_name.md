@@ -86,7 +86,7 @@
 | 84 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
-| 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.32 | 
+| 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.80 | 
 | 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -142,7 +142,7 @@
 | 140 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 141 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
-| 143 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.61 | 
+| 143 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
 | 144 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
 | 145 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
 | 146 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 

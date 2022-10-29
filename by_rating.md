@@ -311,25 +311,25 @@
 | 309 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.61 | 
 | 310 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
 | 311 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
-| 312 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.61 | 
-| 313 | [Transistor](games/t/transistor.md) | 4.61 | 
-| 314 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
-| 315 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
-| 316 | [Divine Knockout](games/d/divine_knockout.md) | 4.61 | 
-| 317 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
-| 318 | [Control](games/c/control.md) | 4.60 | 
-| 319 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 320 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 321 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 322 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 323 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
-| 324 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
-| 325 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 326 | [Moving Out](games/m/moving_out.md) | 4.60 | 
-| 327 | [20XX](games/2/20xx.md) | 4.60 | 
-| 328 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 329 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 330 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
+| 312 | [Transistor](games/t/transistor.md) | 4.61 | 
+| 313 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
+| 314 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
+| 315 | [Divine Knockout](games/d/divine_knockout.md) | 4.61 | 
+| 316 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
+| 317 | [Control](games/c/control.md) | 4.60 | 
+| 318 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 319 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 320 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 321 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 322 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
+| 323 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
+| 324 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 325 | [Moving Out](games/m/moving_out.md) | 4.60 | 
+| 326 | [20XX](games/2/20xx.md) | 4.60 | 
+| 327 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 328 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 329 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
+| 330 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
 | 331 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 332 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
 | 333 | [RiME](games/r/rime.md) | 4.60 | 
@@ -630,17 +630,17 @@
 | 628 | [House Party](games/h/house_party.md) | 4.34 | 
 | 629 | [ELEX](games/e/elex.md) | 4.34 | 
 | 630 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
-| 631 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
-| 632 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
-| 633 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
-| 634 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
-| 635 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 636 | [Lamentum](games/l/lamentum.md) | 4.33 | 
-| 637 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.33 | 
-| 638 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 639 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
-| 640 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
-| 641 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.32 | 
+| 631 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
+| 632 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
+| 633 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
+| 634 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 635 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
+| 636 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
+| 637 | [Lamentum](games/l/lamentum.md) | 4.33 | 
+| 638 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.33 | 
+| 639 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 640 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
+| 641 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
 | 642 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 643 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 644 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
