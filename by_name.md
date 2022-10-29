@@ -210,7 +210,7 @@
 | 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 209 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 211 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.56 | 
+| 211 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.57 | 
 | 212 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 213 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 214 | [Far Cry](games/f/far_cry.md) | 4.35 | 
@@ -252,7 +252,7 @@
 | 250 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 251 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 252 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 253 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
+| 253 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 254 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 255 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 256 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -291,7 +291,7 @@
 | 289 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 290 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 291 | [Hob](games/h/hob.md) | 4.57 | 
-| 292 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.14 | 
+| 292 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.29 | 
 | 293 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 294 | [Horace](games/h/horace.md) | 4.57 | 
 | 295 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -412,7 +412,7 @@
 | 410 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
 | 411 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 412 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.13 | 
-| 413 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
+| 413 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.59 | 
 | 414 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 415 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 416 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
