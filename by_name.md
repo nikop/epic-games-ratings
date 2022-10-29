@@ -200,7 +200,7 @@
 | 198 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 199 | [Encased](games/e/encased.md) | 4.40 | 
 | 200 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 201 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
+| 201 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 202 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 203 | [Everything](games/e/everything.md) | 4.71 | 
 | 204 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
@@ -375,7 +375,7 @@
 | 373 | [Mago](games/m/mago.md) | 4.86 | 
 | 374 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 375 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
-| 376 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.20 | 
+| 376 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.10 | 
 | 377 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 378 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 379 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
@@ -565,7 +565,7 @@
 | 563 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 564 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
 | 565 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
-| 566 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 566 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.50 | 
 | 567 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.46 | 
 | 568 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.68 | 
 | 569 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
@@ -739,7 +739,7 @@
 | 737 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 738 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
 | 739 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 740 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.31 | 
+| 740 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.32 | 
 | 741 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
 | 742 | [Warpips](games/w/warpips.md) | 4.56 | 
 | 743 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
@@ -771,5 +771,5 @@
 | 769 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 770 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
 | 771 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 772 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.58 | 
+| 772 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.59 | 
 | 773 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
