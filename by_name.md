@@ -56,7 +56,7 @@
 | 54 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 55 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 56 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 57 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 57 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.52 | 
 | 58 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.56 | 
 | 59 | [Aztez](games/a/aztez.md) | 4.50 | 
 | 60 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
@@ -467,7 +467,7 @@
 | 465 | [Pine](games/p/pine.md) | 4.13 | 
 | 466 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.41 | 
 | 467 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
-| 468 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
+| 468 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 
 | 469 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 470 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
 | 471 | [Prey](games/p/prey.md) | 4.61 | 
@@ -762,7 +762,7 @@
 | 760 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 761 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 762 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
-| 763 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
+| 763 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 764 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 765 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 766 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
