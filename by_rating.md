@@ -172,18 +172,18 @@
 | 170 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 171 | [Everything](games/e/everything.md) | 4.71 | 
 | 172 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
-| 173 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 174 | [Days Gone](games/d/days_gone.md) | 4.70 | 
-| 175 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
-| 176 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 177 | [Timberborn](games/t/timberborn.md) | 4.70 | 
-| 178 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 179 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 180 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
-| 181 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.70 | 
-| 182 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 183 | [Slipways](games/s/slipways.md) | 4.70 | 
-| 184 | [Outlast](games/o/outlast.md) | 4.70 | 
+| 173 | [Outlast](games/o/outlast.md) | 4.71 | 
+| 174 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 175 | [Days Gone](games/d/days_gone.md) | 4.70 | 
+| 176 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
+| 177 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 178 | [Timberborn](games/t/timberborn.md) | 4.70 | 
+| 179 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 180 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 181 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
+| 182 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.70 | 
+| 183 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 184 | [Slipways](games/s/slipways.md) | 4.70 | 
 | 185 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 186 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 187 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
@@ -589,14 +589,14 @@
 | 587 | [Core](games/c/core.md) | 4.39 | 
 | 588 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
 | 589 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
-| 590 | [Torchlight](games/t/torchlight.md) | 4.39 | 
-| 591 | [Othercide](games/o/othercide.md) | 4.39 | 
-| 592 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 593 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
-| 594 | [Backbone](games/b/backbone.md) | 4.39 | 
-| 595 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
-| 596 | [Mortal Shell](games/m/mortal_shell.md) | 4.38 | 
-| 597 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 590 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
+| 591 | [Torchlight](games/t/torchlight.md) | 4.39 | 
+| 592 | [Othercide](games/o/othercide.md) | 4.39 | 
+| 593 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 594 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
+| 595 | [Backbone](games/b/backbone.md) | 4.39 | 
+| 596 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
+| 597 | [Mortal Shell](games/m/mortal_shell.md) | 4.38 | 
 | 598 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
 | 599 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
 | 600 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 

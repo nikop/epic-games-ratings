@@ -316,7 +316,7 @@
 | 314 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 315 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 316 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 317 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 317 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
 | 318 | [Ironcast](games/i/ironcast.md) | 3.87 | 
 | 319 | [Isonzo](games/i/isonzo.md) | 4.55 | 
 | 320 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
@@ -437,7 +437,7 @@
 | 435 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 436 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 437 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 438 | [Outlast](games/o/outlast.md) | 4.70 | 
+| 438 | [Outlast](games/o/outlast.md) | 4.71 | 
 | 439 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
 | 440 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 441 | [Outward](games/o/outward.md) | 4.54 | 
