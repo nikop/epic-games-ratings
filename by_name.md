@@ -616,7 +616,7 @@
 | 614 | [Tails of Iron](games/t/tails_of_iron.md) | 4.74 | 
 | 615 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.66 | 
 | 616 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 617 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
+| 617 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 618 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 619 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.85 | 
 | 620 | [Tharsis](games/t/tharsis.md) | 4.19 | 
@@ -630,7 +630,7 @@
 | 628 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 629 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 630 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 631 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
+| 631 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
 | 632 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
 | 633 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
 | 634 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
@@ -655,7 +655,7 @@
 | 653 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 654 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
 | 655 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
-| 656 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
+| 656 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 657 | [The Surge](games/t/the_surge.md) | 4.51 | 
 | 658 | [The Surge 2](games/t/the_surge_2.md) | 4.20 | 
 | 659 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
@@ -736,7 +736,7 @@
 | 734 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
 | 735 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 736 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
-| 737 | [Warface](games/w/warface.md) | 3.94 | 
+| 737 | [Warface](games/w/warface.md) | 3.95 | 
 | 738 | [Warframe](games/w/warframe.md) | 4.62 | 
 | 739 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 740 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 

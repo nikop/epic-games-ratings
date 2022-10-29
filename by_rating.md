@@ -47,11 +47,11 @@
 | 45 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
 | 46 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 47 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.84 | 
-| 48 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 49 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
-| 50 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 51 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 
-| 52 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
+| 48 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
+| 49 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
+| 50 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 51 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
+| 52 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 
 | 53 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 54 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
 | 55 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
@@ -587,17 +587,17 @@
 | 585 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.40 | 
 | 586 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 587 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
-| 588 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 589 | [Core](games/c/core.md) | 4.39 | 
-| 590 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
-| 591 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
-| 592 | [Torchlight](games/t/torchlight.md) | 4.39 | 
-| 593 | [Othercide](games/o/othercide.md) | 4.39 | 
-| 594 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
-| 595 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 596 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
-| 597 | [Backbone](games/b/backbone.md) | 4.39 | 
-| 598 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
+| 588 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 589 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 590 | [Core](games/c/core.md) | 4.39 | 
+| 591 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
+| 592 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
+| 593 | [Torchlight](games/t/torchlight.md) | 4.39 | 
+| 594 | [Othercide](games/o/othercide.md) | 4.39 | 
+| 595 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
+| 596 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 597 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
+| 598 | [Backbone](games/b/backbone.md) | 4.39 | 
 | 599 | [Mortal Shell](games/m/mortal_shell.md) | 4.38 | 
 | 600 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
 | 601 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
@@ -716,10 +716,10 @@
 | 714 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
 | 715 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 716 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
-| 717 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.16 | 
-| 718 | [Gone Home](games/g/gone_home.md) | 4.16 | 
-| 719 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
-| 720 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
+| 717 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
+| 718 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.16 | 
+| 719 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 720 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 721 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
 | 722 | [Pine](games/p/pine.md) | 4.13 | 
 | 723 | [Obduction](games/o/obduction.md) | 4.13 | 
@@ -759,9 +759,9 @@
 | 757 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 758 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.97 | 
 | 759 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
-| 760 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 761 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.95 | 
-| 762 | [Warface](games/w/warface.md) | 3.94 | 
+| 760 | [Warface](games/w/warface.md) | 3.95 | 
+| 761 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
+| 762 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.95 | 
 | 763 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 764 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.89 | 
 | 765 | [Patron](games/p/patron.md) | 3.89 | 

@@ -1,10 +1,10 @@
 {
   "ID": "538de058a6d9490ea151c4cd111cc01b",
   "Name": "Tannenberg",
-  "Rating": 4.38,
+  "Rating": 4.39,
   "NumberOfRatings": 13393,
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
-  "LastChanged": "2022-10-29T14:32:14.6385065+00:00",
+  "LastChanged": "2022-10-29T21:01:34.9012052+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:54.24863+00:00",
@@ -2749,6 +2749,11 @@
     {
       "Time": "2022-10-29T14:32:14.6385067+00:00",
       "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-29T21:01:34.9012056+00:00",
+      "Rating": 4.39,
       "NumberOfRatings": null
     }
   ],
