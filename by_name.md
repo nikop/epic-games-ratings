@@ -116,7 +116,7 @@
 | 114 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 115 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 116 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 117 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
+| 117 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 
 | 118 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 119 | [Conarium](games/c/conarium.md) | 3.85 | 
 | 120 | [Control](games/c/control.md) | 4.60 | 
@@ -235,7 +235,7 @@
 | 233 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 234 | [Firework](games/f/firework.md) | 4.87 | 
 | 235 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
-| 236 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
+| 236 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 237 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 238 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 239 | [For The King](games/f/for_the_king.md) | 4.70 | 
@@ -321,7 +321,7 @@
 | 319 | [Isonzo](games/i/isonzo.md) | 4.55 | 
 | 320 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 321 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
-| 322 | [Journey](games/j/journey.md) | 4.73 | 
+| 322 | [Journey](games/j/journey.md) | 4.74 | 
 | 323 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
 | 324 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 325 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
@@ -437,7 +437,7 @@
 | 435 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 436 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 437 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 438 | [Outlast](games/o/outlast.md) | 4.71 | 
+| 438 | [Outlast](games/o/outlast.md) | 4.72 | 
 | 439 | [Outlast 2](games/o/outlast_2.md) | 4.75 | 
 | 440 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 441 | [Outward](games/o/outward.md) | 4.54 | 
@@ -598,7 +598,7 @@
 | 596 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 597 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 598 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
-| 599 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
+| 599 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 600 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
 | 601 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.81 | 
 | 602 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
