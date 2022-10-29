@@ -1,5 +1,5 @@
 # Operencia: The Stolen Sun
-Rating: 4.19 (-)  (as of 23.09.2022)  
+Rating: 4.21 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,3 +11,4 @@ Rating: 4.19 (-)  (as of 23.09.2022)
 | 2022-10-21 | 4.20 | - |
 | 2022-10-23 | 4.15 | - |
 | 2022-10-26 | 4.19 | - |
+| 2022-10-29 | 4.21 | - |
