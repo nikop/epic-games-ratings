@@ -21,7 +21,7 @@
 | 19 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 20 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 21 | [Outlast](games/o/outlast.md) | 4.71 | 
-| 22 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
+| 22 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
 | 23 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 24 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 25 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
@@ -46,7 +46,7 @@
 | 44 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 45 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
 | 46 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
-| 47 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
+| 47 | [The Surge 2](games/t/the_surge_2.md) | 4.20 | 
 | 48 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 49 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 50 | [DOOM 64](games/d/doom_64.md) | 4.66 | 

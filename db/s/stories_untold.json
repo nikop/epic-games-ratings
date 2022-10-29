@@ -1,10 +1,10 @@
 {
   "ID": "313f3719063340f886d90e70ae503cd4",
   "Name": "Stories Untold",
-  "Rating": 4.49,
+  "Rating": 4.48,
   "NumberOfRatings": 28,
   "FirstSeen": "2022-07-22T20:24:00.2135471+00:00",
-  "LastChanged": "2022-10-28T15:31:52.9111354+00:00",
+  "LastChanged": "2022-10-29T15:31:23.3597424+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-26T22:01:24.8235006+00:00",
@@ -119,6 +119,11 @@
     {
       "Time": "2022-10-28T15:31:52.911136+00:00",
       "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-29T15:31:23.3597427+00:00",
+      "Rating": 4.48,
       "NumberOfRatings": null
     }
   ],

@@ -190,7 +190,7 @@
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
-| 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
+| 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 194 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.45 | 
@@ -423,7 +423,7 @@
 | 421 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 422 | [Obduction](games/o/obduction.md) | 4.13 | 
 | 423 | [Observation](games/o/observation.md) | 4.48 | 
-| 424 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.33 | 
+| 424 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.36 | 
 | 425 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 
 | 426 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 427 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
@@ -501,7 +501,7 @@
 | 499 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 500 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 501 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 502 | [Road 96](games/r/road_96.md) | 4.57 | 
+| 502 | [Road 96](games/r/road_96.md) | 4.58 | 
 | 503 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 504 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 505 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
@@ -525,7 +525,7 @@
 | 523 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 524 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 525 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
-| 526 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 526 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
 | 527 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
 | 528 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 529 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
@@ -584,7 +584,7 @@
 | 582 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 583 | [STG Football](games/s/stg_football.md) | 4.80 | 
 | 584 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.58 | 
-| 585 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
+| 585 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 586 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.78 | 
 | 587 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 588 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
@@ -655,7 +655,7 @@
 | 653 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
 | 654 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.15 | 
 | 655 | [The Surge](games/t/the_surge.md) | 4.51 | 
-| 656 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
+| 656 | [The Surge 2](games/t/the_surge_2.md) | 4.20 | 
 | 657 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 658 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
 | 659 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
@@ -762,7 +762,7 @@
 | 760 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 761 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 762 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
-| 763 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
+| 763 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 764 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 765 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 766 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
