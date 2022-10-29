@@ -651,15 +651,15 @@
 | 649 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
 | 650 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 651 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 652 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
-| 653 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
-| 654 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
-| 655 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.29 | 
-| 656 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
-| 657 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
-| 658 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.29 | 
-| 659 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 660 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 652 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
+| 653 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 654 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 655 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
+| 656 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.29 | 
+| 657 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
+| 658 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
+| 659 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.29 | 
+| 660 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 661 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 662 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 663 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 

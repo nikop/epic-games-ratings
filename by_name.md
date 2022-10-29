@@ -545,7 +545,7 @@
 | 543 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 544 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
 | 545 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 546 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 546 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 547 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 548 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 549 | [Slipways](games/s/slipways.md) | 4.70 | 
