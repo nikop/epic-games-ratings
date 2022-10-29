@@ -273,7 +273,7 @@
 | 271 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 272 | [GRIME](games/g/grime.md) | 4.63 | 
 | 273 | [Grindstone](games/g/grindstone.md) | 4.82 | 
-| 274 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
+| 274 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.65 | 
 | 275 | [Hades](games/h/hades.md) | 4.92 | 
 | 276 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 277 | [Hammerting](games/h/hammerting.md) | 4.40 | 
@@ -577,7 +577,7 @@
 | 575 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
 | 576 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 577 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 578 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
+| 578 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 579 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
 | 580 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 581 | [Steelrising](games/s/steelrising.md) | 4.28 | 
@@ -616,7 +616,7 @@
 | 614 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 615 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 616 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 617 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 617 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.85 | 
 | 618 | [Tharsis](games/t/tharsis.md) | 4.19 | 
 | 619 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 620 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.58 | 
@@ -658,7 +658,7 @@
 | 656 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
 | 657 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 658 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
-| 659 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
+| 659 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
 | 660 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
 | 661 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
 | 662 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
@@ -693,7 +693,7 @@
 | 691 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 692 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
 | 693 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 694 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 694 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 695 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.46 | 
 | 696 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.71 | 
 | 697 | [Townscaper](games/t/townscaper.md) | 4.70 | 
