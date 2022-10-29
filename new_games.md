@@ -3,7 +3,7 @@
 | 1 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
 | 2 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.29 | 
 | 3 | [STG Football](games/s/stg_football.md) | 4.80 | 
-| 4 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
+| 4 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 5 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.13 | 
 | 6 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 7 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.47 | 
@@ -17,7 +17,7 @@
 | 15 | [Darkwood](games/d/darkwood.md) | 4.59 | 
 | 16 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 17 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.46 | 
-| 18 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
+| 18 | [Outlast 2](games/o/outlast_2.md) | 4.73 | 
 | 19 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 20 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 21 | [Outlast](games/o/outlast.md) | 4.71 | 
@@ -54,7 +54,7 @@
 | 52 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
 | 53 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 54 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
-| 55 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.29 | 
+| 55 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.32 | 
 | 56 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 57 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 58 | [GigaBash](games/g/gigabash.md) | 4.48 | 

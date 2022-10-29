@@ -188,7 +188,7 @@
 | 186 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 187 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
 | 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.66 | 
@@ -266,7 +266,7 @@
 | 264 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 265 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 266 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 267 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
+| 267 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 268 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 269 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 270 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -438,7 +438,7 @@
 | 436 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 437 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 438 | [Outlast](games/o/outlast.md) | 4.71 | 
-| 439 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
+| 439 | [Outlast 2](games/o/outlast_2.md) | 4.73 | 
 | 440 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 441 | [Outward](games/o/outward.md) | 4.54 | 
 | 442 | [Overcooked](games/o/overcooked.md) | 4.68 | 
@@ -739,7 +739,7 @@
 | 737 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 738 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.56 | 
 | 739 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 740 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.29 | 
+| 740 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.32 | 
 | 741 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
 | 742 | [Warpips](games/w/warpips.md) | 4.57 | 
 | 743 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
