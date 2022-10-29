@@ -343,27 +343,27 @@
 | 341 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
 | 342 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 343 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 344 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
-| 345 | [ABZU](games/a/abzu.md) | 4.59 | 
-| 346 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.59 | 
-| 347 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
-| 348 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 349 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
-| 350 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.59 | 
-| 351 | [Card Shark](games/c/card_shark.md) | 4.59 | 
-| 352 | [Darkwood](games/d/darkwood.md) | 4.59 | 
-| 353 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 354 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 355 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 356 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
-| 357 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 358 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 359 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 360 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 361 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
-| 362 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
-| 363 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
-| 364 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
+| 344 | [ABZU](games/a/abzu.md) | 4.59 | 
+| 345 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.59 | 
+| 346 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
+| 347 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 348 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
+| 349 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.59 | 
+| 350 | [Card Shark](games/c/card_shark.md) | 4.59 | 
+| 351 | [Darkwood](games/d/darkwood.md) | 4.59 | 
+| 352 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 353 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 354 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 355 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
+| 356 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 357 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 358 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 359 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 360 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
+| 361 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
+| 362 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
+| 363 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
+| 364 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 365 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
 | 366 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 367 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.58 | 
@@ -469,24 +469,24 @@
 | 467 | [Aztez](games/a/aztez.md) | 4.50 | 
 | 468 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 469 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 470 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
-| 471 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 472 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 473 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 474 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
-| 475 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 476 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
-| 477 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 478 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 479 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 480 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 481 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 482 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
-| 483 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 484 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 
-| 485 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 486 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
-| 487 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 470 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
+| 471 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
+| 472 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 473 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 474 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 475 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
+| 476 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 477 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
+| 478 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 479 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 480 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 481 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 482 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 483 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
+| 484 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 485 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 
+| 486 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 487 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 488 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.48 | 
 | 489 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 490 | [Death Coming](games/d/death_coming.md) | 4.48 | 
@@ -504,15 +504,15 @@
 | 502 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 503 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
 | 504 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
-| 505 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 506 | [SMITE](games/s/smite.md) | 4.46 | 
-| 507 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
-| 508 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 509 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.46 | 
-| 510 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
-| 511 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
-| 512 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.46 | 
-| 513 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.46 | 
+| 505 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.47 | 
+| 506 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 507 | [SMITE](games/s/smite.md) | 4.46 | 
+| 508 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
+| 509 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 510 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.46 | 
+| 511 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
+| 512 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
+| 513 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.46 | 
 | 514 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.46 | 
 | 515 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 516 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 

@@ -6,10 +6,10 @@
 | 4 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
 | 5 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.13 | 
 | 6 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
-| 7 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.46 | 
+| 7 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.47 | 
 | 8 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.57 | 
 | 9 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
-| 10 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 10 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
 | 11 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 12 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 13 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.26 | 
