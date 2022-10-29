@@ -188,7 +188,7 @@
 | 186 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 187 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
 | 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.66 | 
@@ -596,7 +596,7 @@
 | 594 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 595 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 596 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
-| 597 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 597 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 598 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
 | 599 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.80 | 
 | 600 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
@@ -607,14 +607,14 @@
 | 605 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
 | 606 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 607 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.46 | 
-| 608 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 
+| 608 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
 | 609 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
 | 610 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 611 | [Tacoma](games/t/tacoma.md) | 4.31 | 
 | 612 | [Tails of Iron](games/t/tails_of_iron.md) | 4.74 | 
 | 613 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.73 | 
 | 614 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 615 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 615 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
 | 616 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 617 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.85 | 
 | 618 | [Tharsis](games/t/tharsis.md) | 4.19 | 
@@ -729,7 +729,7 @@
 | 727 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 728 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
 | 729 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 730 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 730 | [Verdun](games/v/verdun.md) | 4.50 | 
 | 731 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 732 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
 | 733 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
