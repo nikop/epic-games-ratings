@@ -57,7 +57,7 @@
 | 55 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 56 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 57 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.52 | 
-| 58 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.56 | 
+| 58 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
 | 59 | [Aztez](games/a/aztez.md) | 4.50 | 
 | 60 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 61 | [Backbone](games/b/backbone.md) | 4.39 | 
@@ -129,7 +129,7 @@
 | 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 128 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 129 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 130 | [Crayta](games/c/crayta.md) | 4.18 | 
+| 130 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 131 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
 | 132 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 133 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
@@ -387,7 +387,7 @@
 | 385 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 386 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.41 | 
 | 387 | [Minit](games/m/minit.md) | 4.54 | 
-| 388 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.82 | 
+| 388 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 389 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 390 | [Mortal Shell](games/m/mortal_shell.md) | 4.38 | 
 | 391 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
@@ -525,7 +525,7 @@
 | 523 | [Saturnalia](games/s/saturnalia.md) | 4.23 | 
 | 524 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 525 | [Scorn](games/s/scorn.md) | 4.45 | 
-| 526 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
+| 526 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
 | 527 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
 | 528 | [Second Extinction™](games/s/second_extinction™.md) | 4.12 | 
 | 529 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
@@ -535,7 +535,7 @@
 | 533 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 534 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 535 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.53 | 
-| 536 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.76 | 
+| 536 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.77 | 
 | 537 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 538 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
 | 539 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
@@ -562,11 +562,11 @@
 | 560 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 561 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 562 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
-| 563 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
+| 563 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
 | 564 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 565 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
 | 566 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
-| 567 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.50 | 
+| 567 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 568 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.46 | 
 | 569 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.70 | 
 | 570 | [SpiderHeck](games/s/spiderheck.md) | 4.65 | 

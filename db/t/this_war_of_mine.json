@@ -1023,7 +1023,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 53
+      "Count": 55
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1044,6 +1044,10 @@
     {
       "Text": "This game is Relaxing",
       "Count": 40
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 20
     }
   ]
 }

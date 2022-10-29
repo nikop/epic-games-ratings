@@ -1,10 +1,10 @@
 {
   "ID": "c35a1d7081e44562afaa750f27cd0a18",
   "Name": "Shady Part of Me",
-  "Rating": 4.76,
+  "Rating": 4.77,
   "FirstSeen": "2022-07-22T20:21:38.1986449+00:00",
   "FirstSeenRating": "2022-10-19T19:01:08.08918+00:00",
-  "LastChanged": "2022-10-26T19:01:08.1514982+00:00",
+  "LastChanged": "2022-10-29T19:31:06.8380814+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-19T19:01:08.0891804+00:00",
@@ -14,6 +14,11 @@
     {
       "Time": "2022-10-26T19:01:08.1514985+00:00",
       "Rating": 4.76,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-29T19:31:06.8380817+00:00",
+      "Rating": 4.77,
       "NumberOfRatings": null
     }
   ],
