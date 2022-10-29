@@ -737,7 +737,7 @@
 | 735 | [Warface](games/w/warface.md) | 3.94 | 
 | 736 | [Warframe](games/w/warframe.md) | 4.62 | 
 | 737 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 738 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.56 | 
+| 738 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
 | 739 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 740 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.32 | 
 | 741 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
@@ -750,7 +750,7 @@
 | 748 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
 | 749 | [Weird West](games/w/weird_west.md) | 4.43 | 
 | 750 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
-| 751 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 751 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 752 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
 | 753 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
 | 754 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 

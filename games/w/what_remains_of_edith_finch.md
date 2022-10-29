@@ -1,5 +1,5 @@
 # What Remains of Edith Finch
-Rating: 4.74 (75)  (as of 23.09.2022)  
+Rating: 4.75 (75)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -41,3 +41,4 @@ Rating: 4.74 (75)  (as of 23.09.2022)
 | 2022-10-22 | 4.74 | - |
 | 2022-10-23 | 4.73 | - |
 | 2022-10-24 | 4.74 | - |
+| 2022-10-29 | 4.75 | - |

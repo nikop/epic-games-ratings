@@ -115,16 +115,16 @@
 | 113 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
 | 114 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 115 | [Northgard](games/n/northgard.md) | 4.75 | 
-| 116 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
-| 117 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
-| 118 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.75 | 
-| 119 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
-| 120 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 121 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 122 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 123 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 124 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 125 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 116 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
+| 117 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
+| 118 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
+| 119 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.75 | 
+| 120 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
+| 121 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 122 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 123 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 124 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 125 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 126 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
 | 127 | [Haven](games/h/haven.md) | 4.74 | 
 | 128 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
@@ -380,20 +380,20 @@
 | 378 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 379 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
 | 380 | [Hob](games/h/hob.md) | 4.57 | 
-| 381 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 382 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
-| 383 | [Road 96](games/r/road_96.md) | 4.57 | 
-| 384 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
-| 385 | [Horace](games/h/horace.md) | 4.57 | 
-| 386 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
-| 387 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.57 | 
-| 388 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 389 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 390 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 391 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
-| 392 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 393 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 394 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.56 | 
+| 381 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
+| 382 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 383 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
+| 384 | [Road 96](games/r/road_96.md) | 4.57 | 
+| 385 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
+| 386 | [Horace](games/h/horace.md) | 4.57 | 
+| 387 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
+| 388 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.57 | 
+| 389 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 390 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 391 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 392 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 393 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 394 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 395 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 396 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.56 | 
 | 397 | [Warpips](games/w/warpips.md) | 4.56 | 
