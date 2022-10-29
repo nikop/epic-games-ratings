@@ -295,25 +295,25 @@
 | 293 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 294 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 295 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.62 | 
-| 296 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
-| 297 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 298 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 299 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 300 | [Prey](games/p/prey.md) | 4.61 | 
-| 301 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 302 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 303 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 304 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 305 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 306 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 307 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.61 | 
-| 308 | [20XX](games/2/20xx.md) | 4.61 | 
-| 309 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 310 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
-| 311 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.61 | 
-| 312 | [Transistor](games/t/transistor.md) | 4.61 | 
-| 313 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
-| 314 | [RiME](games/r/rime.md) | 4.61 | 
+| 296 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 297 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 298 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 299 | [Prey](games/p/prey.md) | 4.61 | 
+| 300 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 301 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 302 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 303 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 304 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 305 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 306 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.61 | 
+| 307 | [20XX](games/2/20xx.md) | 4.61 | 
+| 308 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 309 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
+| 310 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.61 | 
+| 311 | [Transistor](games/t/transistor.md) | 4.61 | 
+| 312 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
+| 313 | [RiME](games/r/rime.md) | 4.61 | 
+| 314 | [Divine Knockout](games/d/divine_knockout.md) | 4.61 | 
 | 315 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 316 | [Control](games/c/control.md) | 4.60 | 
 | 317 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
@@ -766,8 +766,8 @@
 | 764 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
 | 765 | [Ironcast](games/i/ironcast.md) | 3.87 | 
 | 766 | [Conarium](games/c/conarium.md) | 3.86 | 
-| 767 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 
-| 768 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.81 | 
+| 767 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.82 | 
+| 768 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 
 | 769 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 770 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 771 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.76 | 

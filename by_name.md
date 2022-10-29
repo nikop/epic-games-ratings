@@ -180,7 +180,7 @@
 | 178 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 179 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 180 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
+| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.61 | 
 | 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
 | 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 184 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
@@ -387,7 +387,7 @@
 | 385 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 386 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.41 | 
 | 387 | [Minit](games/m/minit.md) | 4.54 | 
-| 388 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.81 | 
+| 388 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.82 | 
 | 389 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 390 | [Mortal Shell](games/m/mortal_shell.md) | 4.38 | 
 | 391 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
