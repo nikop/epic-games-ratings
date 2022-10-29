@@ -135,7 +135,7 @@
 | 133 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 134 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
 | 135 | [CryoFall](games/c/cryofall.md) | 4.48 | 
-| 136 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 
+| 136 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 137 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 138 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
 | 139 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
@@ -282,7 +282,7 @@
 | 280 | [Haven](games/h/haven.md) | 4.74 | 
 | 281 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 282 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
-| 283 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 283 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 284 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
 | 285 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 286 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
@@ -332,7 +332,7 @@
 | 330 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 331 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
 | 332 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
-| 333 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 
+| 333 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.15 | 
 | 334 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
 | 335 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
 | 336 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
@@ -716,7 +716,7 @@
 | 714 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.27 | 
 | 715 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 716 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 717 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 717 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 718 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
 | 719 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 720 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
