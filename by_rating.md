@@ -211,15 +211,15 @@
 | 209 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
 | 210 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
 | 211 | [Overcooked](games/o/overcooked.md) | 4.68 | 
-| 212 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 213 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
-| 214 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.68 | 
-| 215 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 216 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
-| 217 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
-| 218 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
-| 219 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
-| 220 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
+| 212 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
+| 213 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
+| 214 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
+| 215 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.68 | 
+| 216 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 217 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
+| 218 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
+| 219 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
+| 220 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
 | 221 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
 | 222 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 223 | [APE OUT](games/a/ape_out.md) | 4.68 | 
@@ -233,8 +233,8 @@
 | 231 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 232 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 233 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
-| 234 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 235 | [SOMA](games/s/soma.md) | 4.67 | 
+| 234 | [SOMA](games/s/soma.md) | 4.67 | 
+| 235 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
 | 236 | [Before We Leave](games/b/before_we_leave.md) | 4.67 | 
 | 237 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
 | 238 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
@@ -578,17 +578,17 @@
 | 576 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 577 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
 | 578 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 579 | [Encased](games/e/encased.md) | 4.40 | 
-| 580 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 581 | [Hammerting](games/h/hammerting.md) | 4.40 | 
-| 582 | [Parkitect](games/p/parkitect.md) | 4.40 | 
-| 583 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.40 | 
-| 584 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 585 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
-| 586 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 587 | [Core](games/c/core.md) | 4.39 | 
-| 588 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
-| 589 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
+| 579 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.40 | 
+| 580 | [Encased](games/e/encased.md) | 4.40 | 
+| 581 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 582 | [Hammerting](games/h/hammerting.md) | 4.40 | 
+| 583 | [Parkitect](games/p/parkitect.md) | 4.40 | 
+| 584 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.40 | 
+| 585 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 586 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
+| 587 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 588 | [Core](games/c/core.md) | 4.39 | 
+| 589 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
 | 590 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
 | 591 | [Torchlight](games/t/torchlight.md) | 4.39 | 
 | 592 | [Othercide](games/o/othercide.md) | 4.39 | 

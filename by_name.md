@@ -219,7 +219,7 @@
 | 217 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 218 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 219 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 220 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
+| 220 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.40 | 
 | 221 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
 | 222 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
 | 223 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.73 | 
@@ -680,7 +680,7 @@
 | 678 | [Timberborn](games/t/timberborn.md) | 4.70 | 
 | 679 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 680 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 681 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
+| 681 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
 | 682 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.21 | 
 | 683 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 684 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
@@ -712,7 +712,7 @@
 | 710 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.60 | 
 | 711 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
 | 712 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 713 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 713 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
 | 714 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.27 | 
 | 715 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 716 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
