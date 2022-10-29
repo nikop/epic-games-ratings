@@ -200,7 +200,7 @@
 | 198 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 199 | [Encased](games/e/encased.md) | 4.40 | 
 | 200 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 201 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 201 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
 | 202 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 203 | [Everything](games/e/everything.md) | 4.71 | 
 | 204 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
@@ -445,7 +445,7 @@
 | 443 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 444 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 445 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 446 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
+| 446 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 447 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 448 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
 | 449 | [Paradigm](games/p/paradigm.md) | 4.47 | 
@@ -730,7 +730,7 @@
 | 728 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 729 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
 | 730 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 731 | [Verdun](games/v/verdun.md) | 4.50 | 
+| 731 | [Verdun](games/v/verdun.md) | 4.51 | 
 | 732 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 733 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
 | 734 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
