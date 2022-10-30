@@ -228,7 +228,7 @@
 | 226 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 227 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 228 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
-| 229 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 229 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
 | 230 | [Fez](games/f/fez.md) | 4.73 | 
 | 231 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.64 | 
 | 232 | [Figment](games/f/figment.md) | 4.42 | 
@@ -302,7 +302,7 @@
 | 300 | [Hue](games/h/hue.md) | 4.55 | 
 | 301 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 302 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 303 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
+| 303 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
 | 304 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
 | 305 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
 | 306 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
@@ -342,7 +342,7 @@
 | 340 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 341 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 342 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
-| 343 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 343 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 344 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 345 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
 | 346 | [Lake](games/l/lake.md) | 4.08 | 
@@ -384,7 +384,7 @@
 | 382 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 383 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 384 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 385 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 385 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 386 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.41 | 
 | 387 | [Minit](games/m/minit.md) | 4.54 | 
 | 388 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
@@ -752,7 +752,7 @@
 | 750 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
 | 751 | [Weird West](games/w/weird_west.md) | 4.43 | 
 | 752 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
-| 753 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
+| 753 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
 | 754 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
 | 755 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
 | 756 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
