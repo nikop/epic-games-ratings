@@ -136,7 +136,7 @@
 | 134 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
 | 135 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 136 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 137 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
+| 137 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
 | 138 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
 | 139 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 140 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
@@ -437,7 +437,7 @@
 | 435 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 436 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 437 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 438 | [Outlast](games/o/outlast.md) | 4.72 | 
+| 438 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 439 | [Outlast 2](games/o/outlast_2.md) | 4.77 | 
 | 440 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 441 | [Outward](games/o/outward.md) | 4.54 | 
@@ -522,7 +522,7 @@
 | 520 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 521 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
 | 522 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 523 | [Saturnalia](games/s/saturnalia.md) | 4.23 | 
+| 523 | [Saturnalia](games/s/saturnalia.md) | 4.14 | 
 | 524 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 525 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 526 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
