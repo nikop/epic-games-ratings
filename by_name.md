@@ -147,7 +147,7 @@
 | 145 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
 | 146 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 147 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 148 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
+| 148 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 149 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
 | 151 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
@@ -211,12 +211,12 @@
 | 209 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 211 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.57 | 
-| 212 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.70 | 
+| 212 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 213 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 214 | [Far Cry](games/f/far_cry.md) | 4.35 | 
 | 215 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
 | 216 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
-| 217 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 217 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 218 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 219 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 220 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
@@ -561,7 +561,7 @@
 | 559 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 560 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 561 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 562 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
+| 562 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
 | 563 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
 | 564 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 565 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
@@ -621,7 +621,7 @@
 | 619 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.85 | 
 | 620 | [Tharsis](games/t/tharsis.md) | 4.19 | 
 | 621 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 622 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.58 | 
+| 622 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.60 | 
 | 623 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 624 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 625 | [The Captain](games/t/the_captain.md) | 4.44 | 
