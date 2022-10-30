@@ -131,26 +131,26 @@
 | 129 | [Haven](games/h/haven.md) | 4.74 | 
 | 130 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 131 | [Revita](games/r/revita.md) | 4.74 | 
-| 132 | [Tails of Iron](games/t/tails_of_iron.md) | 4.74 | 
-| 133 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 134 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 135 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 136 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 137 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 138 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
-| 139 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 140 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
-| 141 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 142 | [Fez](games/f/fez.md) | 4.73 | 
-| 143 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
-| 144 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
-| 145 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
-| 146 | [Rayman Origins](games/r/rayman_origins.md) | 4.73 | 
-| 147 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.73 | 
-| 148 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 
-| 149 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.73 | 
-| 150 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
-| 151 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
+| 132 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 133 | [Tails of Iron](games/t/tails_of_iron.md) | 4.74 | 
+| 134 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 135 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 136 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 137 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 138 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 139 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
+| 140 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 141 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 142 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
+| 143 | [Fez](games/f/fez.md) | 4.73 | 
+| 144 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
+| 145 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
+| 146 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
+| 147 | [Rayman Origins](games/r/rayman_origins.md) | 4.73 | 
+| 148 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.73 | 
+| 149 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 
+| 150 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.73 | 
+| 151 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
 | 152 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 153 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 154 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
@@ -197,25 +197,25 @@
 | 195 | [Barony](games/b/barony.md) | 4.69 | 
 | 196 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 197 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 198 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
-| 199 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
-| 200 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
-| 201 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
-| 202 | [Rogue Lords](games/r/rogue_lords.md) | 4.69 | 
-| 203 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
-| 204 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 205 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 206 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 207 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 208 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
-| 209 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 210 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 211 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 212 | [Overcooked](games/o/overcooked.md) | 4.68 | 
-| 213 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
-| 214 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 215 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
-| 216 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 198 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
+| 199 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
+| 200 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
+| 201 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
+| 202 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
+| 203 | [Rogue Lords](games/r/rogue_lords.md) | 4.69 | 
+| 204 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
+| 205 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 206 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 207 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 208 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 209 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
+| 210 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 211 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 212 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
+| 213 | [Overcooked](games/o/overcooked.md) | 4.68 | 
+| 214 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
+| 215 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
+| 216 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
 | 217 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 218 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
 | 219 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
@@ -630,14 +630,14 @@
 | 628 | [ELEX](games/e/elex.md) | 4.34 | 
 | 629 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
 | 630 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
-| 631 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
-| 632 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
-| 633 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
-| 634 | [Othercide](games/o/othercide.md) | 4.33 | 
-| 635 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
-| 636 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 637 | [Lamentum](games/l/lamentum.md) | 4.33 | 
-| 638 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.33 | 
+| 631 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.34 | 
+| 632 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
+| 633 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
+| 634 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 635 | [Othercide](games/o/othercide.md) | 4.33 | 
+| 636 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
+| 637 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
+| 638 | [Lamentum](games/l/lamentum.md) | 4.33 | 
 | 639 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 640 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
 | 641 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 

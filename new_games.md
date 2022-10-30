@@ -11,7 +11,7 @@
 | 9 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.57 | 
 | 10 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
 | 11 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
-| 12 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
+| 12 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 13 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 14 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
 | 15 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.24 | 
@@ -56,7 +56,7 @@
 | 54 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
 | 55 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 56 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
-| 57 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.33 | 
+| 57 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.34 | 
 | 58 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 59 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 60 | [GigaBash](games/g/gigabash.md) | 4.48 | 
