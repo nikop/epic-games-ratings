@@ -165,7 +165,7 @@
 | 163 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 164 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 165 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.55 | 
-| 166 | [Democracy 4](games/d/democracy_4.md) | 4.26 | 
+| 166 | [Democracy 4](games/d/democracy_4.md) | 4.27 | 
 | 167 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
 | 168 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
 | 169 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
@@ -333,7 +333,7 @@
 | 331 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
 | 332 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
 | 333 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
-| 334 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.80 | 
+| 334 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 335 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
 | 336 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
 | 337 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.70 | 
@@ -591,7 +591,7 @@
 | 589 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
 | 590 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 591 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
-| 592 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 592 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.35 | 
 | 593 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 594 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 595 | [Subnautica](games/s/subnautica.md) | 4.84 | 
@@ -675,7 +675,7 @@
 | 673 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
 | 674 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 675 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
-| 676 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
+| 676 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 677 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 678 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 679 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
@@ -741,7 +741,7 @@
 | 739 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 740 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
 | 741 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 742 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.33 | 
+| 742 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.35 | 
 | 743 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
 | 744 | [Warpips](games/w/warpips.md) | 4.57 | 
 | 745 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
