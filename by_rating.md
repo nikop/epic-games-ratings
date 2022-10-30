@@ -126,21 +126,21 @@
 | 124 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 125 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 126 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 127 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
-| 128 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 129 | [Journey](games/j/journey.md) | 4.74 | 
-| 130 | [Haven](games/h/haven.md) | 4.74 | 
-| 131 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 132 | [Revita](games/r/revita.md) | 4.74 | 
-| 133 | [Tails of Iron](games/t/tails_of_iron.md) | 4.74 | 
-| 134 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 135 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 136 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 137 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 138 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 139 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
-| 140 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 141 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 127 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 128 | [Journey](games/j/journey.md) | 4.74 | 
+| 129 | [Haven](games/h/haven.md) | 4.74 | 
+| 130 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 131 | [Revita](games/r/revita.md) | 4.74 | 
+| 132 | [Tails of Iron](games/t/tails_of_iron.md) | 4.74 | 
+| 133 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 134 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 135 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 136 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 137 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 138 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
+| 139 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 140 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 141 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 142 | [Fez](games/f/fez.md) | 4.73 | 
 | 143 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
 | 144 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
