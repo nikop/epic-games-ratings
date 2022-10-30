@@ -6,7 +6,7 @@
 | 4 | [STG Football](games/s/stg_football.md) | 4.80 | 
 | 5 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
 | 6 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.13 | 
-| 7 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
+| 7 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.70 | 
 | 8 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.47 | 
 | 9 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.57 | 
 | 10 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
@@ -27,7 +27,7 @@
 | 25 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 26 | [SpiderHeck](games/s/spiderheck.md) | 4.65 | 
 | 27 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
-| 28 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 
+| 28 | [Potion Permit](games/p/potion_permit.md) | 3.83 | 
 | 29 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 30 | [Gloomhaven](games/g/gloomhaven.md) | 4.44 | 
 | 31 | [Tails of Iron](games/t/tails_of_iron.md) | 4.74 | 
