@@ -354,7 +354,7 @@
 | 352 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 353 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
 | 354 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 355 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
+| 355 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
 | 356 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
 | 357 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 358 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
@@ -544,7 +544,7 @@
 | 542 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 543 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 544 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 545 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
+| 545 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.53 | 
 | 546 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.68 | 
 | 547 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 548 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
@@ -695,7 +695,7 @@
 | 693 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 694 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
 | 695 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 696 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 696 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 697 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.47 | 
 | 698 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.71 | 
 | 699 | [Townscaper](games/t/townscaper.md) | 4.70 | 
