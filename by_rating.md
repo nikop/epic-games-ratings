@@ -53,13 +53,13 @@
 | 51 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 
 | 52 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
 | 53 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
-| 54 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
-| 55 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 56 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 57 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
-| 58 | [Grindstone](games/g/grindstone.md) | 4.82 | 
-| 59 | [Quake](games/q/quake.md) | 4.82 | 
-| 60 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
+| 54 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 55 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 56 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
+| 57 | [Grindstone](games/g/grindstone.md) | 4.82 | 
+| 58 | [Quake](games/q/quake.md) | 4.82 | 
+| 59 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
+| 60 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.82 | 
 | 61 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 62 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 63 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
@@ -297,24 +297,24 @@
 | 295 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 296 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.62 | 
 | 297 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
-| 298 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 299 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 300 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 301 | [Prey](games/p/prey.md) | 4.61 | 
-| 302 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 303 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 304 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 305 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 306 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 307 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 308 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 309 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.61 | 
-| 310 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
-| 311 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
-| 312 | [Transistor](games/t/transistor.md) | 4.61 | 
-| 313 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
-| 314 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
-| 315 | [Divine Knockout](games/d/divine_knockout.md) | 4.61 | 
+| 298 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
+| 299 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 300 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 301 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 302 | [Prey](games/p/prey.md) | 4.61 | 
+| 303 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 304 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 305 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 306 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 307 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 308 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 309 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 310 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.61 | 
+| 311 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
+| 312 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
+| 313 | [Transistor](games/t/transistor.md) | 4.61 | 
+| 314 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
+| 315 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
 | 316 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 317 | [Control](games/c/control.md) | 4.60 | 
 | 318 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
@@ -665,12 +665,12 @@
 | 663 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 664 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 665 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
-| 666 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 667 | [EVE Online](games/e/eve_online.md) | 4.27 | 
-| 668 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 669 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
-| 670 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
-| 671 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
+| 666 | [EVE Online](games/e/eve_online.md) | 4.27 | 
+| 667 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
+| 668 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
+| 669 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
+| 670 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
+| 671 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 672 | [Ashen](games/a/ashen.md) | 4.27 | 
 | 673 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.27 | 
 | 674 | [Democracy 4](games/d/democracy_4.md) | 4.26 | 

@@ -180,7 +180,7 @@
 | 178 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 179 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 180 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.61 | 
+| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
 | 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
 | 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 184 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
@@ -582,7 +582,7 @@
 | 580 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 581 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
 | 582 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 583 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 583 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 584 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 585 | [STG Football](games/s/stg_football.md) | 4.80 | 
 | 586 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.58 | 
@@ -719,7 +719,7 @@
 | 717 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 718 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 719 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 720 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
+| 720 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.82 | 
 | 721 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 722 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
 | 723 | [UnMetal](games/u/unmetal.md) | 4.55 | 
