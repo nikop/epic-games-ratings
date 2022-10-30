@@ -572,7 +572,7 @@
 | 570 | [SpiderHeck](games/s/spiderheck.md) | 4.65 | 
 | 571 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 572 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
-| 573 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
+| 573 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.90 | 
 | 574 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
 | 575 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
 | 576 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 

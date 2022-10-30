@@ -6,11 +6,11 @@
 | 4 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 5 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 7 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
-| 8 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
-| 9 | [God of War](games/g/god_of_war.md) | 4.89 | 
-| 10 | [RimWorld](games/r/rimworld.md) | 4.89 | 
-| 11 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
+| 7 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.90 | 
+| 8 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
+| 9 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
+| 10 | [God of War](games/g/god_of_war.md) | 4.89 | 
+| 11 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 12 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
 | 13 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 14 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
