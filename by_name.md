@@ -394,7 +394,7 @@
 | 392 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
 | 393 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 394 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 395 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 395 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 396 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 397 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 398 | [Mutazione](games/m/mutazione.md) | 4.66 | 
@@ -616,7 +616,7 @@
 | 614 | [Tails of Iron](games/t/tails_of_iron.md) | 4.74 | 
 | 615 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.66 | 
 | 616 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 617 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
+| 617 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 618 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 619 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.85 | 
 | 620 | [Tharsis](games/t/tharsis.md) | 4.19 | 

@@ -276,22 +276,22 @@
 | 274 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
 | 275 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.64 | 
 | 276 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.64 | 
-| 277 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 278 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 279 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 280 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 281 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 282 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 283 | [Limbo](games/l/limbo.md) | 4.63 | 
-| 284 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 285 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
-| 286 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
-| 287 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
-| 288 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 289 | [GRIME](games/g/grime.md) | 4.63 | 
-| 290 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 291 | [Warframe](games/w/warframe.md) | 4.62 | 
-| 292 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 277 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 278 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 279 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 280 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 281 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
+| 282 | [Limbo](games/l/limbo.md) | 4.63 | 
+| 283 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 284 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
+| 285 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
+| 286 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
+| 287 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
+| 288 | [GRIME](games/g/grime.md) | 4.63 | 
+| 289 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 290 | [Warframe](games/w/warframe.md) | 4.62 | 
+| 291 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 292 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 293 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
 | 294 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
 | 295 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
@@ -587,16 +587,16 @@
 | 585 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.40 | 
 | 586 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 587 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
-| 588 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 589 | [Core](games/c/core.md) | 4.39 | 
-| 590 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
-| 591 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
-| 592 | [Torchlight](games/t/torchlight.md) | 4.39 | 
-| 593 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
-| 594 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 595 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
-| 596 | [Backbone](games/b/backbone.md) | 4.39 | 
-| 597 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
+| 588 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 589 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 590 | [Core](games/c/core.md) | 4.39 | 
+| 591 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
+| 592 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
+| 593 | [Torchlight](games/t/torchlight.md) | 4.39 | 
+| 594 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
+| 595 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 596 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
+| 597 | [Backbone](games/b/backbone.md) | 4.39 | 
 | 598 | [Mortal Shell](games/m/mortal_shell.md) | 4.38 | 
 | 599 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 600 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
