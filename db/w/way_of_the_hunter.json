@@ -1,11 +1,11 @@
 {
   "ID": "bdbfb29cbd004978acad9ca4eaf9ec82",
   "Name": "Way of the Hunter",
-  "Rating": 4.26,
+  "Rating": 4.27,
   "NumberOfRatings": 190,
   "FirstSeen": "2022-08-22T17:32:55.4881061+00:00",
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
-  "LastChanged": "2022-10-28T20:02:19.6738659+00:00",
+  "LastChanged": "2022-10-30T00:01:43.7925371+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-25T19:31:36.4278603+00:00",
@@ -411,6 +411,11 @@
       "Time": "2022-10-28T20:02:19.6738662+00:00",
       "Rating": 4.26,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-30T00:01:43.7925372+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -425,6 +430,10 @@
     {
       "Text": "This game has Obsessive Gameplay",
       "Count": 21
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 20
     }
   ]
 }

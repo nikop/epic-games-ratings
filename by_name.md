@@ -117,7 +117,7 @@
 | 115 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 116 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 117 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 
-| 118 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 118 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 119 | [Conarium](games/c/conarium.md) | 3.85 | 
 | 120 | [Control](games/c/control.md) | 4.60 | 
 | 121 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
@@ -252,7 +252,7 @@
 | 250 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 251 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 252 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 253 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
+| 253 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
 | 254 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 255 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 256 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -427,7 +427,7 @@
 | 425 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 
 | 426 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 427 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 428 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
+| 428 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 429 | [Old World](games/o/old_world.md) | 4.64 | 
 | 430 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 431 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
@@ -587,7 +587,7 @@
 | 585 | [STG Football](games/s/stg_football.md) | 4.80 | 
 | 586 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.58 | 
 | 587 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
-| 588 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.78 | 
+| 588 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 589 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 590 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 591 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
@@ -747,7 +747,7 @@
 | 745 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 746 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 747 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
-| 748 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
+| 748 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
 | 749 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 750 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
 | 751 | [Weird West](games/w/weird_west.md) | 4.43 | 

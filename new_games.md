@@ -10,7 +10,7 @@
 | 8 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.47 | 
 | 9 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.57 | 
 | 10 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.83 | 
-| 11 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
+| 11 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
 | 12 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
 | 13 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 14 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
@@ -46,7 +46,7 @@
 | 44 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 45 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 46 | [Saints Row](games/s/saints_row.md) | 3.77 | 
-| 47 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
+| 47 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
 | 48 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 49 | [The Surge 2](games/t/the_surge_2.md) | 4.20 | 
 | 50 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 

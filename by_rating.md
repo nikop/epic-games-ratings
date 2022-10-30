@@ -88,13 +88,13 @@
 | 86 | [Diabotical](games/d/diabotical.md) | 4.79 | 
 | 87 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 88 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
-| 89 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 90 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 91 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 92 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 93 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
-| 94 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
-| 95 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.78 | 
+| 89 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 90 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
+| 91 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 92 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 93 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
+| 94 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
+| 95 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
 | 96 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 97 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 98 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
@@ -391,17 +391,17 @@
 | 389 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
 | 390 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.57 | 
 | 391 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 392 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 393 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
-| 394 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 395 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 396 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
-| 397 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 398 | [Sable](games/s/sable.md) | 4.56 | 
-| 399 | [Warpips](games/w/warpips.md) | 4.56 | 
-| 400 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 401 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 402 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 392 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 393 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 394 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 395 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 396 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 397 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
+| 398 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 399 | [Sable](games/s/sable.md) | 4.56 | 
+| 400 | [Warpips](games/w/warpips.md) | 4.56 | 
+| 401 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 402 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 403 | [Hue](games/h/hue.md) | 4.55 | 
 | 404 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 405 | [RUINER](games/r/ruiner.md) | 4.55 | 
@@ -465,12 +465,12 @@
 | 463 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 464 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
 | 465 | [The Surge](games/t/the_surge.md) | 4.51 | 
-| 466 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 467 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 468 | [Aztez](games/a/aztez.md) | 4.50 | 
-| 469 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 470 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 471 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
+| 466 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
+| 467 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 468 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
+| 469 | [Aztez](games/a/aztez.md) | 4.50 | 
+| 470 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 471 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
 | 472 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
 | 473 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 474 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
@@ -656,25 +656,25 @@
 | 654 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
 | 655 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 656 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
-| 657 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
-| 658 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.29 | 
-| 659 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
-| 660 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
-| 661 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.29 | 
-| 662 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 663 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 664 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
-| 665 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
+| 657 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 658 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
+| 659 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.29 | 
+| 660 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
+| 661 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
+| 662 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.29 | 
+| 663 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 664 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 665 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 666 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
 | 667 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 668 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 669 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 670 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 671 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
-| 672 | [Ashen](games/a/ashen.md) | 4.27 | 
-| 673 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
-| 674 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.27 | 
-| 675 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
+| 672 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
+| 673 | [Ashen](games/a/ashen.md) | 4.27 | 
+| 674 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
+| 675 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.27 | 
 | 676 | [Democracy 4](games/d/democracy_4.md) | 4.26 | 
 | 677 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 678 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
