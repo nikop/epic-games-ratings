@@ -189,7 +189,7 @@
 | 187 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
+| 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
@@ -487,7 +487,7 @@
 | 485 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 486 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 487 | [Redout 2](games/r/redout_2.md) | 4.48 | 
-| 488 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.48 | 
+| 488 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
 | 489 | [Relicta](games/r/relicta.md) | 4.11 | 
 | 490 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 491 | [Revita](games/r/revita.md) | 4.74 | 
@@ -540,7 +540,7 @@
 | 538 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
 | 539 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
 | 540 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 541 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.48 | 
+| 541 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.46 | 
 | 542 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 543 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 544 | [Sifu](games/s/sifu.md) | 4.80 | 
