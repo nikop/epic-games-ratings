@@ -3,8 +3,8 @@
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 2 | [Hades](games/h/hades.md) | 4.92 | 
 | 3 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 4 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
-| 5 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
+| 4 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
+| 5 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 7 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.90 | 
 | 8 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
@@ -339,25 +339,25 @@
 | 337 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
 | 338 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 339 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 340 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
-| 341 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 342 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 343 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 344 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 345 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
-| 346 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
-| 347 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.59 | 
-| 348 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.59 | 
-| 349 | [Card Shark](games/c/card_shark.md) | 4.59 | 
-| 350 | [Darkwood](games/d/darkwood.md) | 4.59 | 
-| 351 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 352 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 353 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 354 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
-| 355 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 356 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 357 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 358 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
+| 340 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 341 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
+| 342 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 343 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 344 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 345 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 346 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
+| 347 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
+| 348 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.59 | 
+| 349 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.59 | 
+| 350 | [Card Shark](games/c/card_shark.md) | 4.59 | 
+| 351 | [Darkwood](games/d/darkwood.md) | 4.59 | 
+| 352 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 353 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 354 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 355 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
+| 356 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 357 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 358 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 359 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 360 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 361 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
@@ -623,14 +623,14 @@
 | 621 | [Far Cry](games/f/far_cry.md) | 4.35 | 
 | 622 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
 | 623 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
-| 624 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.35 | 
-| 625 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 626 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 627 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
-| 628 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
-| 629 | [House Party](games/h/house_party.md) | 4.34 | 
-| 630 | [ELEX](games/e/elex.md) | 4.34 | 
-| 631 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
+| 624 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 625 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 626 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
+| 627 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
+| 628 | [House Party](games/h/house_party.md) | 4.34 | 
+| 629 | [ELEX](games/e/elex.md) | 4.34 | 
+| 630 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
+| 631 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.34 | 
 | 632 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 633 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 634 | [ATOM RPG](games/a/atom_rpg.md) | 4.33 | 
@@ -768,7 +768,7 @@
 | 766 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
 | 767 | [Ironcast](games/i/ironcast.md) | 3.87 | 
 | 768 | [Conarium](games/c/conarium.md) | 3.85 | 
-| 769 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
+| 769 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 770 | [Potion Permit](games/p/potion_permit.md) | 3.83 | 
 | 771 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 772 | [Saints Row](games/s/saints_row.md) | 3.77 | 
