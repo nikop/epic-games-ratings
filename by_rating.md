@@ -746,8 +746,8 @@
 | 744 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 745 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
 | 746 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
-| 747 | [Submerged](games/s/submerged.md) | 4.04 | 
-| 748 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.03 | 
+| 747 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.04 | 
+| 748 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 749 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 750 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 751 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
