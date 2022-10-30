@@ -134,7 +134,7 @@
 | 132 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 133 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 134 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 135 | [CryoFall](games/c/cryofall.md) | 4.48 | 
+| 135 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 136 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 137 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 138 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
@@ -478,7 +478,7 @@
 | 476 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 477 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 478 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 479 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
+| 479 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
 | 480 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
 | 481 | [Rayman Origins](games/r/rayman_origins.md) | 4.73 | 
 | 482 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
@@ -672,7 +672,7 @@
 | 670 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 671 | [The Witness](games/t/the_witness.md) | 4.70 | 
 | 672 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 673 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
+| 673 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
 | 674 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 675 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 676 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
@@ -695,7 +695,7 @@
 | 693 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 694 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
 | 695 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 696 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 696 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 697 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.46 | 
 | 698 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.71 | 
 | 699 | [Townscaper](games/t/townscaper.md) | 4.70 | 

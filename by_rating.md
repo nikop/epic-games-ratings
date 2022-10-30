@@ -90,14 +90,14 @@
 | 88 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
 | 89 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 90 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 91 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 92 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 93 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 94 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
-| 95 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
-| 96 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
-| 97 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
-| 98 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 91 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 92 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
+| 93 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
+| 94 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
+| 95 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
+| 96 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
+| 97 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 98 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 99 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.77 | 
 | 100 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 101 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
@@ -485,13 +485,13 @@
 | 483 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 484 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
 | 485 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 
-| 486 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 487 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.48 | 
-| 488 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 489 | [Death Coming](games/d/death_coming.md) | 4.48 | 
-| 490 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
-| 491 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.48 | 
-| 492 | [CryoFall](games/c/cryofall.md) | 4.48 | 
+| 486 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 487 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 488 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.48 | 
+| 489 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 490 | [Death Coming](games/d/death_coming.md) | 4.48 | 
+| 491 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
+| 492 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.48 | 
 | 493 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 494 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 495 | [Observation](games/o/observation.md) | 4.48 | 
@@ -546,17 +546,17 @@
 | 544 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 545 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
 | 546 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 547 | [Weird West](games/w/weird_west.md) | 4.43 | 
-| 548 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 549 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 550 | [Runbow](games/r/runbow.md) | 4.43 | 
-| 551 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 552 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 553 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 554 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 555 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 556 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
-| 557 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.42 | 
+| 547 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
+| 548 | [Weird West](games/w/weird_west.md) | 4.43 | 
+| 549 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 550 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
+| 551 | [Runbow](games/r/runbow.md) | 4.43 | 
+| 552 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 553 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 554 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 555 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 556 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 557 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 558 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
 | 559 | [Figment](games/f/figment.md) | 4.42 | 
 | 560 | [Good Company](games/g/good_company.md) | 4.42 | 
@@ -731,13 +731,13 @@
 | 729 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 730 | [Relicta](games/r/relicta.md) | 4.11 | 
 | 731 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
-| 732 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
-| 733 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
-| 734 | [Chernobylite](games/c/chernobylite.md) | 4.10 | 
-| 735 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.10 | 
-| 736 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 737 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
-| 738 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 732 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
+| 733 | [Chernobylite](games/c/chernobylite.md) | 4.10 | 
+| 734 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.10 | 
+| 735 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
+| 736 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
+| 737 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 738 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
 | 739 | [Lake](games/l/lake.md) | 4.08 | 
 | 740 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 741 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
