@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [Saturnalia](games/s/saturnalia.md) | 4.14 | 
-| 2 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.56 | 
+| 2 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
 | 3 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.23 | 
 | 4 | [STG Football](games/s/stg_football.md) | 4.80 | 
 | 5 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
@@ -33,7 +33,7 @@
 | 31 | [Tails of Iron](games/t/tails_of_iron.md) | 4.74 | 
 | 32 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.81 | 
 | 33 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
-| 34 | [Isonzo](games/i/isonzo.md) | 4.55 | 
+| 34 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 35 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 36 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 37 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
@@ -52,7 +52,7 @@
 | 50 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 51 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 52 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 53 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
+| 53 | [DOOM 3](games/d/doom_3.md) | 4.67 | 
 | 54 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
 | 55 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 56 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
