@@ -147,7 +147,7 @@
 | 145 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
 | 146 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 147 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 148 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 
+| 148 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
 | 149 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
 | 151 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
@@ -200,7 +200,7 @@
 | 198 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 199 | [Encased](games/e/encased.md) | 4.40 | 
 | 200 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 201 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
+| 201 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 202 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 203 | [Everything](games/e/everything.md) | 4.71 | 
 | 204 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
@@ -214,7 +214,7 @@
 | 212 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.70 | 
 | 213 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 214 | [Far Cry](games/f/far_cry.md) | 4.35 | 
-| 215 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.16 | 
+| 215 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
 | 216 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
 | 217 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 218 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
@@ -235,7 +235,7 @@
 | 233 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 234 | [Firework](games/f/firework.md) | 4.87 | 
 | 235 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
-| 236 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
+| 236 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
 | 237 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 238 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 239 | [For The King](games/f/for_the_king.md) | 4.69 | 
@@ -368,7 +368,7 @@
 | 366 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
 | 367 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
 | 368 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 369 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 369 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
 | 370 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 371 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
 | 372 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
@@ -391,7 +391,7 @@
 | 389 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 390 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
 | 391 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
-| 392 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
+| 392 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
 | 393 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 394 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 395 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
@@ -580,7 +580,7 @@
 | 578 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 579 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 580 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
-| 581 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
+| 581 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
 | 582 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 583 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 584 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 

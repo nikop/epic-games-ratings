@@ -1,10 +1,10 @@
 {
   "ID": "4a9527d6d2984bb39d527631b94ec7f2",
   "Name": "MotoGP\u212221",
-  "Rating": 4.54,
+  "Rating": 4.55,
   "NumberOfRatings": 95,
   "FirstSeen": "2022-07-22T20:23:40.3601329+00:00",
-  "LastChanged": "2022-10-28T03:31:17.0609642+00:00",
+  "LastChanged": "2022-10-30T16:01:39.3610236+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:40.3601331+00:00",
@@ -159,6 +159,11 @@
     {
       "Time": "2022-10-28T03:31:17.0609645+00:00",
       "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-30T16:01:39.3610238+00:00",
+      "Rating": 4.55,
       "NumberOfRatings": null
     }
   ],
