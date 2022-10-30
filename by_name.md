@@ -86,7 +86,7 @@
 | 84 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
-| 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
+| 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.36 | 
 | 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.80 | 
 | 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -400,7 +400,7 @@
 | 398 | [Mutazione](games/m/mutazione.md) | 4.66 | 
 | 399 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 400 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 401 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
+| 401 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 402 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 403 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 404 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
@@ -511,7 +511,7 @@
 | 509 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 510 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
 | 511 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 512 | [RUINER](games/r/ruiner.md) | 4.55 | 
+| 512 | [RUINER](games/r/ruiner.md) | 4.54 | 
 | 513 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 514 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 515 | [Sable](games/s/sable.md) | 4.56 | 
@@ -545,7 +545,7 @@
 | 543 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 544 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 545 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.56 | 
-| 546 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 546 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.68 | 
 | 547 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 548 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 549 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
