@@ -485,10 +485,10 @@
 | 483 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 484 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 485 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
-| 486 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 487 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
-| 488 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 
-| 489 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 486 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
+| 487 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 
+| 488 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 489 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 490 | [Death Coming](games/d/death_coming.md) | 4.48 | 
 | 491 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 492 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
@@ -695,20 +695,20 @@
 | 693 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 694 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 695 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.21 | 
-| 696 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
-| 697 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 698 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 699 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 700 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 701 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 702 | [The Surge 2](games/t/the_surge_2.md) | 4.20 | 
+| 696 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
+| 697 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
+| 698 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 699 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 700 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 701 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 702 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 703 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 704 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
-| 705 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 706 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
-| 707 | [Tharsis](games/t/tharsis.md) | 4.19 | 
-| 708 | [Space Punks](games/s/space_punks.md) | 4.18 | 
-| 709 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.18 | 
+| 705 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
+| 706 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 707 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
+| 708 | [Tharsis](games/t/tharsis.md) | 4.19 | 
+| 709 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 710 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
 | 711 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 712 | [Scavengers](games/s/scavengers.md) | 4.17 | 
@@ -743,8 +743,8 @@
 | 741 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
 | 742 | [Train Valley 2](games/t/train_valley_2.md) | 4.06 | 
 | 743 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 744 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
-| 745 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
+| 744 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.05 | 
+| 745 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 746 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 747 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.04 | 
 | 748 | [Submerged](games/s/submerged.md) | 4.04 | 

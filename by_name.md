@@ -97,7 +97,7 @@
 | 95 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 96 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 97 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 98 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
+| 98 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.05 | 
 | 99 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 100 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
 | 101 | [Card Shark](games/c/card_shark.md) | 4.59 | 
@@ -349,7 +349,7 @@
 | 347 | [Lamentum](games/l/lamentum.md) | 4.33 | 
 | 348 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
 | 349 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 350 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.18 | 
+| 350 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
 | 351 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
 | 352 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 353 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
@@ -384,7 +384,7 @@
 | 382 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 383 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 384 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 385 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 385 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 386 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.41 | 
 | 387 | [Minit](games/m/minit.md) | 4.54 | 
 | 388 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
@@ -657,7 +657,7 @@
 | 655 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
 | 656 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 657 | [The Surge](games/t/the_surge.md) | 4.51 | 
-| 658 | [The Surge 2](games/t/the_surge_2.md) | 4.20 | 
+| 658 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
 | 659 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 660 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
 | 661 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
