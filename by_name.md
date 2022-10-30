@@ -5,7 +5,7 @@
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.42 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
+| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.72 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
@@ -322,7 +322,7 @@
 | 320 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 321 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 322 | [Journey](games/j/journey.md) | 4.74 | 
-| 323 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
+| 323 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 324 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 325 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 326 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
@@ -342,7 +342,7 @@
 | 340 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 341 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 342 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
-| 343 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 343 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
 | 344 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 345 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
 | 346 | [Lake](games/l/lake.md) | 4.08 | 
@@ -522,7 +522,7 @@
 | 520 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
 | 521 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.52 | 
 | 522 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 523 | [Saturnalia](games/s/saturnalia.md) | 4.14 | 
+| 523 | [Saturnalia](games/s/saturnalia.md) | 4.11 | 
 | 524 | [Scavengers](games/s/scavengers.md) | 4.16 | 
 | 525 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 526 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
@@ -697,7 +697,7 @@
 | 695 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 696 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 697 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.47 | 
-| 698 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.71 | 
+| 698 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
 | 699 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 700 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
 | 701 | [Trackmania](games/t/trackmania.md) | 4.67 | 

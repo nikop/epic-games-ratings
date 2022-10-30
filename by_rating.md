@@ -152,22 +152,22 @@
 | 150 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 
 | 151 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.73 | 
 | 152 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
-| 153 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
-| 154 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 155 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 156 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 157 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 158 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
-| 159 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 160 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 161 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 162 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
-| 163 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
-| 164 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
-| 165 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 166 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
-| 167 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
-| 168 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.71 | 
+| 153 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 154 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 155 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 156 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 157 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
+| 158 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 159 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
+| 160 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.72 | 
+| 161 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 162 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 163 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
+| 164 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 165 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
+| 166 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 167 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
+| 168 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
 | 169 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 170 | [Everything](games/e/everything.md) | 4.71 | 
 | 171 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
@@ -368,23 +368,23 @@
 | 366 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 367 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
 | 368 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
-| 369 | [Road 96](games/r/road_96.md) | 4.58 | 
-| 370 | [Breathedge](games/b/breathedge.md) | 4.58 | 
-| 371 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
-| 372 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 373 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 374 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
-| 375 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 376 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
-| 377 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 378 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 379 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 380 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
-| 381 | [Hob](games/h/hob.md) | 4.57 | 
-| 382 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
-| 383 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 384 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 385 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
+| 369 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
+| 370 | [Road 96](games/r/road_96.md) | 4.58 | 
+| 371 | [Breathedge](games/b/breathedge.md) | 4.58 | 
+| 372 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
+| 373 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 374 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 375 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
+| 376 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 377 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 378 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 379 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 380 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 381 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
+| 382 | [Hob](games/h/hob.md) | 4.57 | 
+| 383 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
+| 384 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 385 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 386 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
 | 387 | [Horace](games/h/horace.md) | 4.57 | 
 | 388 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
@@ -444,16 +444,16 @@
 | 442 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 443 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 444 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 445 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 446 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 447 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 448 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 449 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
-| 450 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.52 | 
-| 451 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 452 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 453 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 454 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 445 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 446 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 447 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
+| 448 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
+| 449 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.52 | 
+| 450 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 451 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 452 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 453 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 454 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
 | 455 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 456 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 457 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
@@ -720,19 +720,19 @@
 | 718 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 719 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 720 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
-| 721 | [Saturnalia](games/s/saturnalia.md) | 4.14 | 
-| 722 | [Pine](games/p/pine.md) | 4.13 | 
-| 723 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
-| 724 | [Obduction](games/o/obduction.md) | 4.13 | 
-| 725 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
-| 726 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
-| 727 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.13 | 
-| 728 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
-| 729 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
-| 730 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
-| 731 | [Relicta](games/r/relicta.md) | 4.11 | 
-| 732 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
-| 733 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
+| 721 | [Pine](games/p/pine.md) | 4.13 | 
+| 722 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
+| 723 | [Obduction](games/o/obduction.md) | 4.13 | 
+| 724 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
+| 725 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
+| 726 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.13 | 
+| 727 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
+| 728 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
+| 729 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
+| 730 | [Relicta](games/r/relicta.md) | 4.11 | 
+| 731 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
+| 732 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
+| 733 | [Saturnalia](games/s/saturnalia.md) | 4.11 | 
 | 734 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.10 | 
 | 735 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 736 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 

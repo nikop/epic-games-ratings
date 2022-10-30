@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Saturnalia](games/s/saturnalia.md) | 4.14 | 
+| 1 | [Saturnalia](games/s/saturnalia.md) | 4.11 | 
 | 2 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.53 | 
 | 3 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.23 | 
 | 4 | [STG Football](games/s/stg_football.md) | 4.81 | 
@@ -11,7 +11,7 @@
 | 9 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.57 | 
 | 10 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.82 | 
 | 11 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
-| 12 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
+| 12 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.72 | 
 | 13 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 14 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
 | 15 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.24 | 
