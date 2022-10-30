@@ -68,7 +68,7 @@
 | 66 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 67 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.37 | 
 | 68 | [Barony](games/b/barony.md) | 4.69 | 
-| 69 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.29 | 
+| 69 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
 | 70 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 71 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 72 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
@@ -397,7 +397,7 @@
 | 395 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 396 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 397 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 398 | [Mutazione](games/m/mutazione.md) | 4.66 | 
+| 398 | [Mutazione](games/m/mutazione.md) | 4.65 | 
 | 399 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 400 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 401 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
@@ -527,7 +527,7 @@
 | 525 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 526 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
 | 527 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
-| 528 | [Second Extinction™](games/s/second_extinction™.md) | 4.12 | 
+| 528 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
 | 529 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 530 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 531 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
@@ -663,7 +663,7 @@
 | 661 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
 | 662 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
 | 663 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
-| 664 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
+| 664 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.28 | 
 | 665 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 666 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.73 | 
 | 667 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 

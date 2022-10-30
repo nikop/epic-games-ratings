@@ -246,19 +246,19 @@
 | 244 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
 | 245 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 246 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
-| 247 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 248 | [CARRION](games/c/carrion.md) | 4.66 | 
-| 249 | [Eastward](games/e/eastward.md) | 4.66 | 
-| 250 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.66 | 
-| 251 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 252 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 253 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 254 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 255 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 256 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 257 | [Death's Door](games/d/death's_door.md) | 4.65 | 
-| 258 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
-| 259 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 247 | [CARRION](games/c/carrion.md) | 4.66 | 
+| 248 | [Eastward](games/e/eastward.md) | 4.66 | 
+| 249 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.66 | 
+| 250 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 251 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 252 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 253 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 254 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 255 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 256 | [Death's Door](games/d/death's_door.md) | 4.65 | 
+| 257 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
+| 258 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 259 | [Mutazione](games/m/mutazione.md) | 4.65 | 
 | 260 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 261 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 262 | [SpiderHeck](games/s/spiderheck.md) | 4.65 | 
@@ -648,26 +648,26 @@
 | 646 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
 | 647 | [Tacoma](games/t/tacoma.md) | 4.31 | 
 | 648 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.31 | 
-| 649 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 650 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
-| 651 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
-| 652 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 653 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
-| 654 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
-| 655 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
-| 656 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
-| 657 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 658 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
-| 659 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.29 | 
+| 649 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
+| 650 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 651 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
+| 652 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
+| 653 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 654 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
+| 655 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
+| 656 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
+| 657 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 658 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 659 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
 | 660 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
 | 661 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
 | 662 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 663 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 664 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
-| 665 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
-| 666 | [EVE Online](games/e/eve_online.md) | 4.27 | 
-| 667 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 668 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
+| 665 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.28 | 
+| 666 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
+| 667 | [EVE Online](games/e/eve_online.md) | 4.27 | 
+| 668 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 669 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
 | 670 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
 | 671 | [Steelrising](games/s/steelrising.md) | 4.27 | 
@@ -721,12 +721,12 @@
 | 719 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
 | 720 | [Saturnalia](games/s/saturnalia.md) | 4.14 | 
 | 721 | [Pine](games/p/pine.md) | 4.13 | 
-| 722 | [Obduction](games/o/obduction.md) | 4.13 | 
-| 723 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
-| 724 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
-| 725 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 726 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.13 | 
-| 727 | [Second Extinction™](games/s/second_extinction™.md) | 4.12 | 
+| 722 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
+| 723 | [Obduction](games/o/obduction.md) | 4.13 | 
+| 724 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
+| 725 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
+| 726 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
+| 727 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.13 | 
 | 728 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 729 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 730 | [Relicta](games/r/relicta.md) | 4.11 | 
