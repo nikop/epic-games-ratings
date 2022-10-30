@@ -134,7 +134,7 @@
 | 132 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 133 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 134 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 135 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 135 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 136 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 137 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 138 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
@@ -266,7 +266,7 @@
 | 264 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 265 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 266 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 267 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
+| 267 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 268 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 269 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 270 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -743,7 +743,7 @@
 | 741 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 742 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.34 | 
 | 743 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
-| 744 | [Warpips](games/w/warpips.md) | 4.56 | 
+| 744 | [Warpips](games/w/warpips.md) | 4.57 | 
 | 745 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 746 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 747 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
