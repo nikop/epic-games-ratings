@@ -66,7 +66,7 @@
 | 64 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
 | 65 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
 | 66 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
-| 67 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.37 | 
+| 67 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.39 | 
 | 68 | [Barony](games/b/barony.md) | 4.69 | 
 | 69 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
 | 70 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
@@ -108,7 +108,7 @@
 | 106 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 107 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 108 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 109 | [Chernobylite](games/c/chernobylite.md) | 4.10 | 
+| 109 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
 | 110 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 111 | [Chorus](games/c/chorus.md) | 4.44 | 
 | 112 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.95 | 
@@ -437,7 +437,7 @@
 | 435 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 436 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 437 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 438 | [Outlast](games/o/outlast.md) | 4.73 | 
+| 438 | [Outlast](games/o/outlast.md) | 4.74 | 
 | 439 | [Outlast 2](games/o/outlast_2.md) | 4.77 | 
 | 440 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 441 | [Outward](games/o/outward.md) | 4.54 | 

@@ -132,27 +132,27 @@
 | 130 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
 | 131 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 132 | [Revita](games/r/revita.md) | 4.74 | 
-| 133 | [Tails of Iron](games/t/tails_of_iron.md) | 4.74 | 
-| 134 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 135 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 136 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 137 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 138 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 139 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
-| 140 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 141 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
-| 142 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 143 | [Fez](games/f/fez.md) | 4.73 | 
-| 144 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
-| 145 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
-| 146 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
-| 147 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
-| 148 | [Rayman Origins](games/r/rayman_origins.md) | 4.73 | 
-| 149 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 
-| 150 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.73 | 
-| 151 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
-| 152 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
-| 153 | [Outlast](games/o/outlast.md) | 4.73 | 
+| 133 | [Outlast](games/o/outlast.md) | 4.74 | 
+| 134 | [Tails of Iron](games/t/tails_of_iron.md) | 4.74 | 
+| 135 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 136 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 137 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 138 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 139 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 140 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
+| 141 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 142 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 143 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
+| 144 | [Fez](games/f/fez.md) | 4.73 | 
+| 145 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
+| 146 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
+| 147 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
+| 148 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
+| 149 | [Rayman Origins](games/r/rayman_origins.md) | 4.73 | 
+| 150 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 
+| 151 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.73 | 
+| 152 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
+| 153 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
 | 154 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 155 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 156 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
@@ -599,17 +599,17 @@
 | 597 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 598 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
 | 599 | [Backbone](games/b/backbone.md) | 4.39 | 
-| 600 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 601 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
-| 602 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
-| 603 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 604 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
-| 605 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 606 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 607 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
-| 608 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
-| 609 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
-| 610 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.37 | 
+| 600 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.39 | 
+| 601 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 602 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
+| 603 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
+| 604 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 605 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
+| 606 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 607 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 608 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
+| 609 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
+| 610 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
 | 611 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
 | 612 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 613 | [Paladins](games/p/paladins.md) | 4.36 | 
@@ -731,8 +731,8 @@
 | 729 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 730 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 731 | [Relicta](games/r/relicta.md) | 4.11 | 
-| 732 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
-| 733 | [Chernobylite](games/c/chernobylite.md) | 4.10 | 
+| 732 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
+| 733 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
 | 734 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.10 | 
 | 735 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 736 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
