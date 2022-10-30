@@ -173,24 +173,24 @@
 | 171 | [Everything](games/e/everything.md) | 4.71 | 
 | 172 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 173 | [Days Gone](games/d/days_gone.md) | 4.70 | 
-| 174 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 175 | [Timberborn](games/t/timberborn.md) | 4.70 | 
-| 176 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 177 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 178 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
-| 179 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.70 | 
-| 180 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 181 | [Slipways](games/s/slipways.md) | 4.70 | 
-| 182 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.70 | 
-| 183 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 184 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 185 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 186 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
-| 187 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 188 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 189 | [For The King](games/f/for_the_king.md) | 4.69 | 
-| 190 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 191 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
+| 174 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
+| 175 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 176 | [Timberborn](games/t/timberborn.md) | 4.70 | 
+| 177 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 178 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 179 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
+| 180 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.70 | 
+| 181 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 182 | [Slipways](games/s/slipways.md) | 4.70 | 
+| 183 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.70 | 
+| 184 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
+| 185 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 186 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 187 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
+| 188 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
+| 189 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 190 | [For The King](games/f/for_the_king.md) | 4.69 | 
+| 191 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 192 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 193 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 194 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
@@ -620,20 +620,20 @@
 | 618 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 619 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.36 | 
 | 620 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
-| 621 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
-| 622 | [Far Cry](games/f/far_cry.md) | 4.35 | 
-| 623 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
-| 624 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
-| 625 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 626 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 627 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
-| 628 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
-| 629 | [House Party](games/h/house_party.md) | 4.34 | 
-| 630 | [ELEX](games/e/elex.md) | 4.34 | 
-| 631 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
-| 632 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.34 | 
-| 633 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
-| 634 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 621 | [Far Cry](games/f/far_cry.md) | 4.35 | 
+| 622 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
+| 623 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
+| 624 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 625 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 626 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
+| 627 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
+| 628 | [House Party](games/h/house_party.md) | 4.34 | 
+| 629 | [ELEX](games/e/elex.md) | 4.34 | 
+| 630 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
+| 631 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.34 | 
+| 632 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
+| 633 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 634 | [ATOM RPG](games/a/atom_rpg.md) | 4.33 | 
 | 635 | [Othercide](games/o/othercide.md) | 4.33 | 
 | 636 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
 | 637 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
@@ -722,11 +722,11 @@
 | 720 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
 | 721 | [Saturnalia](games/s/saturnalia.md) | 4.14 | 
 | 722 | [Pine](games/p/pine.md) | 4.13 | 
-| 723 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
-| 724 | [Obduction](games/o/obduction.md) | 4.13 | 
-| 725 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
-| 726 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
-| 727 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.13 | 
+| 723 | [Obduction](games/o/obduction.md) | 4.13 | 
+| 724 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
+| 725 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
+| 726 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.13 | 
+| 727 | [Second Extinction™](games/s/second_extinction™.md) | 4.12 | 
 | 728 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 729 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 730 | [Relicta](games/r/relicta.md) | 4.11 | 
