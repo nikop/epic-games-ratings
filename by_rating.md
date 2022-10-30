@@ -599,16 +599,16 @@
 | 597 | [Backbone](games/b/backbone.md) | 4.39 | 
 | 598 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
 | 599 | [Mortal Shell](games/m/mortal_shell.md) | 4.38 | 
-| 600 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
-| 601 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
-| 602 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
-| 603 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
-| 604 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 605 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
-| 606 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 607 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 608 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
-| 609 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
+| 600 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 601 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
+| 602 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
+| 603 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
+| 604 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
+| 605 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 606 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
+| 607 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 608 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 609 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
 | 610 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
 | 611 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.37 | 
 | 612 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
