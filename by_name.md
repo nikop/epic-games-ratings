@@ -38,7 +38,7 @@
 | 36 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
 | 37 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 38 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 39 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
+| 39 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 40 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
 | 41 | [Ashen](games/a/ashen.md) | 4.27 | 
 | 42 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
@@ -115,7 +115,7 @@
 | 113 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 114 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 115 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
-| 116 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
+| 116 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 117 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 
 | 118 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 119 | [Conarium](games/c/conarium.md) | 3.85 | 
@@ -219,10 +219,10 @@
 | 217 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 218 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 219 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 220 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.40 | 
+| 220 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
 | 221 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
 | 222 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
-| 223 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.73 | 
+| 223 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
 | 224 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 225 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.05 | 
 | 226 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
@@ -262,7 +262,7 @@
 | 260 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 261 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 262 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
-| 263 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.89 | 
+| 263 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 
 | 264 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 265 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 266 | [Good Company](games/g/good_company.md) | 4.42 | 
@@ -284,7 +284,7 @@
 | 282 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
 | 283 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 284 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
-| 285 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
+| 285 | [Hellpoint](games/h/hellpoint.md) | 4.17 | 
 | 286 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
 | 287 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 288 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
@@ -352,7 +352,7 @@
 | 350 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
 | 351 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
 | 352 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 353 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
+| 353 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
 | 354 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 355 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 356 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
@@ -439,7 +439,7 @@
 | 437 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 438 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 439 | [Outlast 2](games/o/outlast_2.md) | 4.77 | 
-| 440 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 440 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 441 | [Outward](games/o/outward.md) | 4.54 | 
 | 442 | [Overcooked](games/o/overcooked.md) | 4.68 | 
 | 443 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
@@ -475,7 +475,7 @@
 | 473 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 474 | [Quake](games/q/quake.md) | 4.82 | 
 | 475 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 476 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 476 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 477 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 478 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 479 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
@@ -614,7 +614,7 @@
 | 612 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 613 | [Tacoma](games/t/tacoma.md) | 4.31 | 
 | 614 | [Tails of Iron](games/t/tails_of_iron.md) | 4.74 | 
-| 615 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.66 | 
+| 615 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.67 | 
 | 616 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 617 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 618 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
@@ -641,7 +641,7 @@
 | 639 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
 | 640 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 641 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
-| 642 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
+| 642 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
 | 643 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
 | 644 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
 | 645 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 
@@ -690,7 +690,7 @@
 | 688 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
 | 689 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 690 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 691 | [Torchlight](games/t/torchlight.md) | 4.39 | 
+| 691 | [Torchlight](games/t/torchlight.md) | 4.40 | 
 | 692 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 693 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 694 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
@@ -726,7 +726,7 @@
 | 724 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
 | 725 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 726 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 727 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.81 | 
+| 727 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 728 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.76 | 
 | 729 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 730 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
