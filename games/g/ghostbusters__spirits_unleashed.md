@@ -1,5 +1,5 @@
 # Ghostbusters: Spirits Unleashed
-Rating: 4.51 (-)  (as of 23.09.2022)  
+Rating: 4.50 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -14,4 +14,4 @@ Rating: 4.51 (-)  (as of 23.09.2022)
 | 2022-10-27 | 4.49 | - |
 | 2022-10-28 | 4.50 | - |
 | 2022-10-29 | 4.50 | - |
-| 2022-10-30 | 4.51 | - |
+| 2022-10-30 | 4.50 | - |

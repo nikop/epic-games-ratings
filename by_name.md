@@ -88,7 +88,7 @@
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
 | 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.80 | 
-| 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
+| 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 91 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 92 | [Breathedge](games/b/breathedge.md) | 4.58 | 
@@ -117,7 +117,7 @@
 | 115 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 116 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 117 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 
-| 118 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 118 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 119 | [Conarium](games/c/conarium.md) | 3.85 | 
 | 120 | [Control](games/c/control.md) | 4.60 | 
 | 121 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
@@ -252,7 +252,7 @@
 | 250 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 251 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 252 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 253 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
+| 253 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
 | 254 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 255 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 256 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -417,7 +417,7 @@
 | 415 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 416 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 417 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
-| 418 | [NORCO](games/n/norco.md) | 4.55 | 
+| 418 | [NORCO](games/n/norco.md) | 4.57 | 
 | 419 | [Northgard](games/n/northgard.md) | 4.75 | 
 | 420 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 421 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
@@ -567,7 +567,7 @@
 | 565 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
 | 566 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
 | 567 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
-| 568 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.46 | 
+| 568 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.48 | 
 | 569 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.70 | 
 | 570 | [SpiderHeck](games/s/spiderheck.md) | 4.65 | 
 | 571 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
@@ -703,7 +703,7 @@
 | 701 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 702 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.97 | 
 | 703 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 704 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 704 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 705 | [Train Valley](games/t/train_valley.md) | 4.41 | 
 | 706 | [Train Valley 2](games/t/train_valley_2.md) | 4.06 | 
 | 707 | [Transistor](games/t/transistor.md) | 4.61 | 

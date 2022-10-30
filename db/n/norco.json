@@ -1,14 +1,19 @@
 {
   "ID": "71bcf2f38b9443418ba609433e48c113",
   "Name": "NORCO",
-  "Rating": 4.55,
+  "Rating": 4.57,
   "FirstSeen": "2022-07-22T20:27:22.1521978+00:00",
   "FirstSeenRating": "2022-10-17T03:01:42.5047886+00:00",
-  "LastChanged": "2022-10-17T03:01:42.5047887+00:00",
+  "LastChanged": "2022-10-30T04:02:48.0870614+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-17T03:01:42.5047889+00:00",
       "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-30T04:02:48.0870619+00:00",
+      "Rating": 4.57,
       "NumberOfRatings": null
     }
   ],
