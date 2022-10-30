@@ -1,10 +1,10 @@
 {
   "ID": "c0f696a36d1d49f9a6a96a732a83acfc",
   "Name": "This Is The Police 2",
-  "Rating": 4.67,
+  "Rating": 4.65,
   "NumberOfRatings": 29,
   "FirstSeen": "2022-07-22T20:23:15.818188+00:00",
-  "LastChanged": "2022-10-24T17:31:31.4149807+00:00",
+  "LastChanged": "2022-10-30T15:01:20.8607434+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:15.8181883+00:00",
@@ -119,6 +119,11 @@
     {
       "Time": "2022-10-24T17:31:31.414981+00:00",
       "Rating": 4.67,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-30T15:01:20.8607437+00:00",
+      "Rating": 4.65,
       "NumberOfRatings": null
     }
   ],

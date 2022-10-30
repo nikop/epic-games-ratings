@@ -180,7 +180,7 @@
 | 178 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 179 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 180 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
+| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
 | 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 184 | [DOOM 3](games/d/doom_3.md) | 4.68 | 
@@ -189,7 +189,7 @@
 | 187 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
+| 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
@@ -224,7 +224,7 @@
 | 222 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.66 | 
 | 223 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.73 | 
 | 224 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 225 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.04 | 
+| 225 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.05 | 
 | 226 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 227 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 228 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
@@ -282,7 +282,7 @@
 | 280 | [Haven](games/h/haven.md) | 4.74 | 
 | 281 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 282 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
-| 283 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 283 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 284 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
 | 285 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 286 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
@@ -647,7 +647,7 @@
 | 645 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 
 | 646 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
 | 647 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 648 | [The Medium](games/t/the_medium.md) | 4.45 | 
+| 648 | [The Medium](games/t/the_medium.md) | 4.48 | 
 | 649 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 650 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 651 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
@@ -676,7 +676,7 @@
 | 674 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 675 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 676 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
-| 677 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
+| 677 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 678 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 679 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 680 | [Timberborn](games/t/timberborn.md) | 4.70 | 
