@@ -433,7 +433,7 @@
 | 431 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
 | 432 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.21 | 
 | 433 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.76 | 
-| 434 | [Othercide](games/o/othercide.md) | 4.39 | 
+| 434 | [Othercide](games/o/othercide.md) | 4.33 | 
 | 435 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 436 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 437 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
@@ -475,7 +475,7 @@
 | 473 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 474 | [Quake](games/q/quake.md) | 4.82 | 
 | 475 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 476 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 476 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 477 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 478 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 479 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
@@ -766,7 +766,7 @@
 | 764 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 765 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
 | 766 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 767 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
+| 767 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 768 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 769 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 770 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
