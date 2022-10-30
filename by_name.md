@@ -77,7 +77,7 @@
 | 75 | [Before We Leave](games/b/before_we_leave.md) | 4.67 | 
 | 76 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 77 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 78 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
+| 78 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
 | 79 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 80 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 81 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
@@ -544,7 +544,7 @@
 | 542 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 543 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 544 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 545 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.53 | 
+| 545 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.56 | 
 | 546 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 547 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 548 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 

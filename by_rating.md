@@ -400,46 +400,46 @@
 | 398 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
 | 399 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 400 | [Sable](games/s/sable.md) | 4.56 | 
-| 401 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 402 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 403 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 404 | [Hue](games/h/hue.md) | 4.55 | 
-| 405 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 406 | [RUINER](games/r/ruiner.md) | 4.55 | 
-| 407 | [Isonzo](games/i/isonzo.md) | 4.55 | 
-| 408 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
-| 409 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
-| 410 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 411 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 
-| 412 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
-| 413 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
-| 414 | [UnMetal](games/u/unmetal.md) | 4.55 | 
-| 415 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.55 | 
-| 416 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 417 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 418 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 419 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 420 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 421 | [Outward](games/o/outward.md) | 4.54 | 
-| 422 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 423 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 424 | [Minit](games/m/minit.md) | 4.54 | 
-| 425 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
-| 426 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
-| 427 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 428 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 429 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 430 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 431 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 432 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 433 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 434 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 435 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
-| 436 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 437 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
-| 438 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 439 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
-| 440 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.53 | 
+| 401 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.56 | 
+| 402 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 403 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 404 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 405 | [Hue](games/h/hue.md) | 4.55 | 
+| 406 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
+| 407 | [RUINER](games/r/ruiner.md) | 4.55 | 
+| 408 | [Isonzo](games/i/isonzo.md) | 4.55 | 
+| 409 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
+| 410 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 411 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 412 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 
+| 413 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
+| 414 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
+| 415 | [UnMetal](games/u/unmetal.md) | 4.55 | 
+| 416 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.55 | 
+| 417 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
+| 418 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 419 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 420 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 421 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
+| 422 | [Outward](games/o/outward.md) | 4.54 | 
+| 423 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 424 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 425 | [Minit](games/m/minit.md) | 4.54 | 
+| 426 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
+| 427 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
+| 428 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 429 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 430 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 431 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 432 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 433 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 434 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 435 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 436 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
+| 437 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 438 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
+| 439 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 440 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 441 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 442 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 443 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
@@ -626,13 +626,13 @@
 | 624 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 625 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 626 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
-| 627 | [House Party](games/h/house_party.md) | 4.34 | 
-| 628 | [ELEX](games/e/elex.md) | 4.34 | 
-| 629 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
-| 630 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
-| 631 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.34 | 
-| 632 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
-| 633 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
+| 627 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
+| 628 | [House Party](games/h/house_party.md) | 4.34 | 
+| 629 | [ELEX](games/e/elex.md) | 4.34 | 
+| 630 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
+| 631 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.34 | 
+| 632 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.34 | 
+| 633 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 634 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 635 | [Othercide](games/o/othercide.md) | 4.33 | 
 | 636 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
