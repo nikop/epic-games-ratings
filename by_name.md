@@ -273,7 +273,7 @@
 | 271 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 272 | [GRIME](games/g/grime.md) | 4.63 | 
 | 273 | [Grindstone](games/g/grindstone.md) | 4.82 | 
-| 274 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.65 | 
+| 274 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 275 | [Hades](games/h/hades.md) | 4.92 | 
 | 276 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 277 | [Hammerting](games/h/hammerting.md) | 4.40 | 
@@ -362,7 +362,7 @@
 | 360 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 361 | [Limbo](games/l/limbo.md) | 4.63 | 
 | 362 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.40 | 
-| 363 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
+| 363 | [Little Inferno](games/l/little_inferno.md) | 4.46 | 
 | 364 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 365 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
 | 366 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
@@ -519,11 +519,11 @@
 | 517 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 518 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.76 | 
 | 519 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 520 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 520 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
 | 521 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.52 | 
 | 522 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 523 | [Saturnalia](games/s/saturnalia.md) | 4.14 | 
-| 524 | [Scavengers](games/s/scavengers.md) | 4.17 | 
+| 524 | [Scavengers](games/s/scavengers.md) | 4.16 | 
 | 525 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 526 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
 | 527 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
@@ -555,7 +555,7 @@
 | 553 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 554 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
 | 555 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 556 | [SOMA](games/s/soma.md) | 4.67 | 
+| 556 | [SOMA](games/s/soma.md) | 4.68 | 
 | 557 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 558 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
 | 559 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
@@ -741,7 +741,7 @@
 | 739 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 740 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
 | 741 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 742 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.34 | 
+| 742 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.33 | 
 | 743 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
 | 744 | [Warpips](games/w/warpips.md) | 4.57 | 
 | 745 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
