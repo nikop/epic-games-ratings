@@ -18,7 +18,7 @@
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
 | 18 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 
+| 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
@@ -238,7 +238,7 @@
 | 236 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 237 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 238 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 239 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 239 | [For The King](games/f/for_the_king.md) | 4.69 | 
 | 240 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
 | 241 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 242 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
@@ -588,7 +588,7 @@
 | 586 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.58 | 
 | 587 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 588 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 589 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
+| 589 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
 | 590 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 591 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
 | 592 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 

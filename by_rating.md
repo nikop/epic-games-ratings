@@ -172,24 +172,24 @@
 | 170 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 171 | [Everything](games/e/everything.md) | 4.71 | 
 | 172 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 173 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 174 | [Days Gone](games/d/days_gone.md) | 4.70 | 
-| 175 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
-| 176 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 177 | [Timberborn](games/t/timberborn.md) | 4.70 | 
-| 178 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 179 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 180 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
-| 181 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.70 | 
-| 182 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 183 | [Slipways](games/s/slipways.md) | 4.70 | 
-| 184 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.70 | 
-| 185 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 186 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 187 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 188 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
-| 189 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 190 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 173 | [Days Gone](games/d/days_gone.md) | 4.70 | 
+| 174 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.70 | 
+| 175 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 176 | [Timberborn](games/t/timberborn.md) | 4.70 | 
+| 177 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 178 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 179 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
+| 180 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.70 | 
+| 181 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 182 | [Slipways](games/s/slipways.md) | 4.70 | 
+| 183 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.70 | 
+| 184 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
+| 185 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 186 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 187 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
+| 188 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
+| 189 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 190 | [For The King](games/f/for_the_king.md) | 4.69 | 
 | 191 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 192 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 193 | [INSIDE](games/i/inside.md) | 4.69 | 
@@ -692,11 +692,11 @@
 | 690 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 691 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 692 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.22 | 
-| 693 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
-| 694 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 695 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
-| 696 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
-| 697 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.21 | 
+| 693 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 694 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
+| 695 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
+| 696 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.21 | 
+| 697 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
 | 698 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 699 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 700 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
@@ -743,9 +743,9 @@
 | 741 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
 | 742 | [Train Valley 2](games/t/train_valley_2.md) | 4.06 | 
 | 743 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 744 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 
-| 745 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
-| 746 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
+| 744 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
+| 745 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.04 | 
+| 746 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 747 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 748 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.03 | 
 | 749 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
