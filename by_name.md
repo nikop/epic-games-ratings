@@ -393,7 +393,7 @@
 | 391 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
 | 392 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
 | 393 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 394 | [Moving Out](games/m/moving_out.md) | 4.60 | 
+| 394 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 395 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 396 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 397 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
@@ -534,7 +534,7 @@
 | 532 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
 | 533 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 534 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
-| 535 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.53 | 
+| 535 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 536 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.77 | 
 | 537 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 538 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 

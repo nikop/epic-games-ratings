@@ -324,25 +324,25 @@
 | 322 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 323 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
 | 324 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 325 | [Moving Out](games/m/moving_out.md) | 4.60 | 
-| 326 | [20XX](games/2/20xx.md) | 4.60 | 
-| 327 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 328 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 329 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
-| 330 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
-| 331 | [ABZU](games/a/abzu.md) | 4.60 | 
-| 332 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 333 | [RiME](games/r/rime.md) | 4.60 | 
-| 334 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
-| 335 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 336 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
-| 337 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
-| 338 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
-| 339 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 340 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 341 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
-| 342 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 343 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 325 | [20XX](games/2/20xx.md) | 4.60 | 
+| 326 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 327 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 328 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
+| 329 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
+| 330 | [ABZU](games/a/abzu.md) | 4.60 | 
+| 331 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 332 | [RiME](games/r/rime.md) | 4.60 | 
+| 333 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
+| 334 | [Roguebook](games/r/roguebook.md) | 4.60 | 
+| 335 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
+| 336 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
+| 337 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
+| 338 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 339 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 340 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
+| 341 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 342 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 343 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 344 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 345 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
 | 346 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
@@ -422,17 +422,17 @@
 | 420 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 421 | [Outward](games/o/outward.md) | 4.54 | 
 | 422 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 423 | [Minit](games/m/minit.md) | 4.54 | 
-| 424 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
-| 425 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
-| 426 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 427 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 428 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 429 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 430 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 431 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 432 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 433 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.53 | 
+| 423 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 424 | [Minit](games/m/minit.md) | 4.54 | 
+| 425 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
+| 426 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
+| 427 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 428 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 429 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 430 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 431 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 432 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 433 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 434 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 435 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
 | 436 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
