@@ -420,17 +420,17 @@
 | 418 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 419 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 420 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 421 | [Outward](games/o/outward.md) | 4.54 | 
-| 422 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 423 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 424 | [RUINER](games/r/ruiner.md) | 4.54 | 
-| 425 | [Minit](games/m/minit.md) | 4.54 | 
-| 426 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
-| 427 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
-| 428 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 429 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 430 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 431 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 421 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 422 | [Outward](games/o/outward.md) | 4.54 | 
+| 423 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 424 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 425 | [RUINER](games/r/ruiner.md) | 4.54 | 
+| 426 | [Minit](games/m/minit.md) | 4.54 | 
+| 427 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
+| 428 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
+| 429 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 430 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 431 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 432 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 433 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 434 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
@@ -544,18 +544,18 @@
 | 542 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 543 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 544 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 545 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
-| 546 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 547 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
-| 548 | [Weird West](games/w/weird_west.md) | 4.43 | 
-| 549 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 550 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 551 | [Runbow](games/r/runbow.md) | 4.43 | 
-| 552 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 553 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 554 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 555 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 556 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 545 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 546 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
+| 547 | [Weird West](games/w/weird_west.md) | 4.43 | 
+| 548 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 549 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
+| 550 | [Runbow](games/r/runbow.md) | 4.43 | 
+| 551 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 552 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 553 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 554 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 555 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 556 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 557 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 558 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
 | 559 | [Figment](games/f/figment.md) | 4.42 | 
@@ -593,14 +593,14 @@
 | 591 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
 | 592 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
 | 593 | [Torchlight](games/t/torchlight.md) | 4.39 | 
-| 594 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
-| 595 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 596 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
-| 597 | [Backbone](games/b/backbone.md) | 4.39 | 
-| 598 | [Mortal Shell](games/m/mortal_shell.md) | 4.38 | 
-| 599 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 600 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
-| 601 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
+| 594 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
+| 595 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
+| 596 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 597 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
+| 598 | [Backbone](games/b/backbone.md) | 4.39 | 
+| 599 | [Mortal Shell](games/m/mortal_shell.md) | 4.38 | 
+| 600 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 601 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
 | 602 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
 | 603 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 604 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
@@ -753,8 +753,8 @@
 | 751 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 752 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
 | 753 | [Flatout](games/f/flatout.md) | 4.00 | 
-| 754 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 755 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
+| 754 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
+| 755 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 756 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 757 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 
 | 758 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.97 | 

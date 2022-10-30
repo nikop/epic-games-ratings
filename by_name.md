@@ -282,7 +282,7 @@
 | 280 | [Haven](games/h/haven.md) | 4.74 | 
 | 281 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 282 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
-| 283 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 283 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 284 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
 | 285 | [Hellpoint](games/h/hellpoint.md) | 4.13 | 
 | 286 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
@@ -292,7 +292,7 @@
 | 290 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 291 | [Hob](games/h/hob.md) | 4.57 | 
 | 292 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.23 | 
-| 293 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
+| 293 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 294 | [Horace](games/h/horace.md) | 4.57 | 
 | 295 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 296 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
@@ -320,7 +320,7 @@
 | 318 | [Ironcast](games/i/ironcast.md) | 3.87 | 
 | 319 | [Isonzo](games/i/isonzo.md) | 4.55 | 
 | 320 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
-| 321 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
+| 321 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 322 | [Journey](games/j/journey.md) | 4.74 | 
 | 323 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
 | 324 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
@@ -735,7 +735,7 @@
 | 733 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 734 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
 | 735 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 736 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 
+| 736 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
 | 737 | [Warface](games/w/warface.md) | 3.95 | 
 | 738 | [Warframe](games/w/warframe.md) | 4.62 | 
 | 739 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
