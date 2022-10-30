@@ -5,7 +5,7 @@
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.42 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
@@ -200,7 +200,7 @@
 | 198 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 199 | [Encased](games/e/encased.md) | 4.40 | 
 | 200 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 201 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
+| 201 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 202 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 203 | [Everything](games/e/everything.md) | 4.71 | 
 | 204 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
@@ -351,7 +351,7 @@
 | 349 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 350 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
 | 351 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
-| 352 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 352 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 353 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
 | 354 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 355 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
@@ -630,7 +630,7 @@
 | 628 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 629 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 630 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 631 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
+| 631 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 632 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
 | 633 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
 | 634 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
@@ -653,7 +653,7 @@
 | 651 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
 | 652 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 653 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
-| 654 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.31 | 
+| 654 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
 | 655 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
 | 656 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 657 | [The Surge](games/t/the_surge.md) | 4.51 | 
@@ -696,7 +696,7 @@
 | 694 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
 | 695 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 696 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 697 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.46 | 
+| 697 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.47 | 
 | 698 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.71 | 
 | 699 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 700 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 

@@ -11,7 +11,7 @@
 | 9 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.57 | 
 | 10 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.82 | 
 | 11 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
-| 12 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 12 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
 | 13 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 14 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
 | 15 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.24 | 
@@ -20,7 +20,7 @@
 | 18 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.46 | 
 | 19 | [Outlast 2](games/o/outlast_2.md) | 4.77 | 
 | 20 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
-| 21 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
+| 21 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 22 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 23 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
 | 24 | [Runbow](games/r/runbow.md) | 4.43 | 
