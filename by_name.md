@@ -20,7 +20,7 @@
 | 18 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
-| 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
 | 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
 | 23 | [Among Trees](games/a/among_trees.md) | 4.36 | 
 | 24 | [Among Us](games/a/among_us.md) | 4.58 | 
@@ -520,14 +520,14 @@
 | 518 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.76 | 
 | 519 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 520 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 521 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
+| 521 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.52 | 
 | 522 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 523 | [Saturnalia](games/s/saturnalia.md) | 4.14 | 
 | 524 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 525 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 526 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
 | 527 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
-| 528 | [Second Extinction™](games/s/second_extinction™.md) | 4.12 | 
+| 528 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
 | 529 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 530 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 531 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
