@@ -97,29 +97,29 @@
 | 95 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 96 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 97 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 98 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.77 | 
-| 99 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 100 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 101 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 102 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 103 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 104 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
-| 105 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
-| 106 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
-| 107 | [Superliminal](games/s/superliminal.md) | 4.76 | 
-| 108 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.76 | 
-| 109 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.76 | 
-| 110 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 111 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 112 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 113 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 114 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
-| 115 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
-| 116 | [Northgard](games/n/northgard.md) | 4.75 | 
-| 117 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
-| 118 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
-| 119 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
-| 120 | [Outlast 2](games/o/outlast_2.md) | 4.75 | 
+| 98 | [Outlast 2](games/o/outlast_2.md) | 4.77 | 
+| 99 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.77 | 
+| 100 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 101 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 102 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 103 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 104 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
+| 105 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
+| 106 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
+| 107 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
+| 108 | [Superliminal](games/s/superliminal.md) | 4.76 | 
+| 109 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.76 | 
+| 110 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.76 | 
+| 111 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 112 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 113 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 114 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 115 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
+| 116 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 117 | [Northgard](games/n/northgard.md) | 4.75 | 
+| 118 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
+| 119 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
+| 120 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
 | 121 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 122 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 123 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
@@ -339,26 +339,26 @@
 | 337 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
 | 338 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 339 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 340 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
-| 341 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 342 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 343 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 344 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 345 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
-| 346 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
-| 347 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
-| 348 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.59 | 
-| 349 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.59 | 
-| 350 | [Card Shark](games/c/card_shark.md) | 4.59 | 
-| 351 | [Darkwood](games/d/darkwood.md) | 4.59 | 
-| 352 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 353 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 354 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 355 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
-| 356 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 357 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 358 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 359 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
+| 340 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 341 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
+| 342 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 343 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 344 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 345 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 346 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
+| 347 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
+| 348 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.59 | 
+| 349 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.59 | 
+| 350 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.59 | 
+| 351 | [Card Shark](games/c/card_shark.md) | 4.59 | 
+| 352 | [Darkwood](games/d/darkwood.md) | 4.59 | 
+| 353 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 354 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 355 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 356 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
+| 357 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 358 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 359 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 360 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 361 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 362 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
