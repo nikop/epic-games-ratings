@@ -8,7 +8,7 @@
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
+| 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
@@ -472,7 +472,7 @@
 | 470 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
 | 471 | [Prey](games/p/prey.md) | 4.61 | 
 | 472 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 473 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 473 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 474 | [Quake](games/q/quake.md) | 4.82 | 
 | 475 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 476 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
@@ -584,7 +584,7 @@
 | 582 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 583 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 584 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 585 | [STG Football](games/s/stg_football.md) | 4.80 | 
+| 585 | [STG Football](games/s/stg_football.md) | 4.81 | 
 | 586 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
 | 587 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
 | 588 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
@@ -616,7 +616,7 @@
 | 614 | [Tails of Iron](games/t/tails_of_iron.md) | 4.74 | 
 | 615 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.67 | 
 | 616 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 617 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 617 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
 | 618 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 619 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.85 | 
 | 620 | [Tharsis](games/t/tharsis.md) | 4.19 | 
@@ -664,7 +664,7 @@
 | 662 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
 | 663 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
 | 664 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.28 | 
-| 665 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 665 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
 | 666 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.73 | 
 | 667 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
 | 668 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
