@@ -664,7 +664,7 @@
 | 662 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
 | 663 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
 | 664 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
-| 665 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
+| 665 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 666 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.73 | 
 | 667 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
 | 668 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 

@@ -23,18 +23,18 @@
 | 21 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 22 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 23 | [Firework](games/f/firework.md) | 4.87 | 
-| 24 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
-| 25 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
-| 26 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
-| 27 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
-| 28 | [Mago](games/m/mago.md) | 4.86 | 
-| 29 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 30 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 31 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
-| 32 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 33 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 34 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 35 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
+| 24 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 25 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
+| 26 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
+| 27 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
+| 28 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
+| 29 | [Mago](games/m/mago.md) | 4.86 | 
+| 30 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 31 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 32 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
+| 33 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
+| 34 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
+| 35 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 36 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 37 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.85 | 
 | 38 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
