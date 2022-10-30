@@ -3,7 +3,7 @@
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
 | 2 | [20XX](games/2/20xx.md) | 4.60 | 
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.42 | 
-| 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
@@ -84,10 +84,10 @@
 | 82 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 83 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.31 | 
 | 84 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
-| 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.36 | 
-| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.80 | 
+| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
 | 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 91 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -243,7 +243,7 @@
 | 241 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 242 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 243 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 244 | [FUSER™](games/f/fuser™.md) | 4.72 | 
+| 244 | [FUSER™](games/f/fuser™.md) | 4.70 | 
 | 245 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 246 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.22 | 
 | 247 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
@@ -389,7 +389,7 @@
 | 387 | [Minit](games/m/minit.md) | 4.54 | 
 | 388 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 389 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 390 | [Mortal Shell](games/m/mortal_shell.md) | 4.38 | 
+| 390 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
 | 391 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
 | 392 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 
 | 393 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
@@ -586,11 +586,11 @@
 | 584 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 585 | [STG Football](games/s/stg_football.md) | 4.80 | 
 | 586 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.58 | 
-| 587 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
+| 587 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
 | 588 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 589 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
 | 590 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
-| 591 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.47 | 
+| 591 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
 | 592 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
 | 593 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 594 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
@@ -770,7 +770,7 @@
 | 768 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 769 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 770 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 771 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
+| 771 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 772 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
 | 773 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 774 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.59 | 
