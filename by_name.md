@@ -116,7 +116,7 @@
 | 114 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 115 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 116 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 117 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 
+| 117 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 118 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 119 | [Conarium](games/c/conarium.md) | 3.85 | 
 | 120 | [Control](games/c/control.md) | 4.60 | 
@@ -180,7 +180,7 @@
 | 178 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 179 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 180 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
+| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
 | 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
 | 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 184 | [DOOM 3](games/d/doom_3.md) | 4.67 | 
@@ -317,7 +317,7 @@
 | 315 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 316 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 317 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
-| 318 | [Ironcast](games/i/ironcast.md) | 3.87 | 
+| 318 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 319 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 320 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 321 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
@@ -630,7 +630,7 @@
 | 628 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 629 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 630 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 631 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
+| 631 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
 | 632 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
 | 633 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
 | 634 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
@@ -648,7 +648,7 @@
 | 646 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
 | 647 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 648 | [The Medium](games/t/the_medium.md) | 4.48 | 
-| 649 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
+| 649 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
 | 650 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 651 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
 | 652 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
