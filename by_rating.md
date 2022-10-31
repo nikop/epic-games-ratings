@@ -121,20 +121,20 @@
 | 119 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 120 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
 | 121 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
-| 122 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 123 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 124 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 125 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 126 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 127 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 128 | [Journey](games/j/journey.md) | 4.74 | 
-| 129 | [Haven](games/h/haven.md) | 4.74 | 
-| 130 | [Rayman Origins](games/r/rayman_origins.md) | 4.74 | 
-| 131 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
-| 132 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 133 | [Revita](games/r/revita.md) | 4.74 | 
-| 134 | [Outlast](games/o/outlast.md) | 4.74 | 
-| 135 | [Tails of Iron](games/t/tails_of_iron.md) | 4.74 | 
+| 122 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
+| 123 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 124 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 125 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 126 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 127 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 128 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 129 | [Journey](games/j/journey.md) | 4.74 | 
+| 130 | [Haven](games/h/haven.md) | 4.74 | 
+| 131 | [Rayman Origins](games/r/rayman_origins.md) | 4.74 | 
+| 132 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
+| 133 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 134 | [Revita](games/r/revita.md) | 4.74 | 
+| 135 | [Outlast](games/o/outlast.md) | 4.74 | 
 | 136 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 137 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 138 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
@@ -425,15 +425,15 @@
 | 423 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 424 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 425 | [RUINER](games/r/ruiner.md) | 4.54 | 
-| 426 | [Minit](games/m/minit.md) | 4.54 | 
-| 427 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
-| 428 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 429 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 430 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 431 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 432 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 433 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 434 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 426 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
+| 427 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 428 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 429 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 430 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 431 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 432 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 433 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 434 | [Minit](games/m/minit.md) | 4.53 | 
 | 435 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
 | 436 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 437 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
@@ -665,14 +665,14 @@
 | 663 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 664 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 665 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.28 | 
-| 666 | [EVE Online](games/e/eve_online.md) | 4.27 | 
-| 667 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 668 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
-| 669 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 670 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
-| 671 | [Steelrising](games/s/steelrising.md) | 4.27 | 
-| 672 | [Ashen](games/a/ashen.md) | 4.27 | 
-| 673 | [Democracy 4](games/d/democracy_4.md) | 4.27 | 
+| 666 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
+| 667 | [EVE Online](games/e/eve_online.md) | 4.27 | 
+| 668 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
+| 669 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
+| 670 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 671 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
+| 672 | [Steelrising](games/s/steelrising.md) | 4.27 | 
+| 673 | [Ashen](games/a/ashen.md) | 4.27 | 
 | 674 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.27 | 
 | 675 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 676 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 

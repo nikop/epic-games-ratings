@@ -165,7 +165,7 @@
 | 163 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 164 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 165 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.55 | 
-| 166 | [Democracy 4](games/d/democracy_4.md) | 4.27 | 
+| 166 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
 | 167 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
 | 168 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
 | 169 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
@@ -386,7 +386,7 @@
 | 384 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 385 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 386 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.41 | 
-| 387 | [Minit](games/m/minit.md) | 4.54 | 
+| 387 | [Minit](games/m/minit.md) | 4.53 | 
 | 388 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 389 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 390 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
@@ -613,7 +613,7 @@
 | 611 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
 | 612 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 613 | [Tacoma](games/t/tacoma.md) | 4.31 | 
-| 614 | [Tails of Iron](games/t/tails_of_iron.md) | 4.74 | 
+| 614 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
 | 615 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.67 | 
 | 616 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 617 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
