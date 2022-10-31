@@ -117,15 +117,15 @@
 | 115 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
 | 116 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 117 | [Northgard](games/n/northgard.md) | 4.75 | 
-| 118 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
-| 119 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
-| 120 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
-| 121 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 122 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 123 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 124 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 125 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 126 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 118 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
+| 119 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
+| 120 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
+| 121 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
+| 122 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 123 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 124 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 125 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 126 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 127 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
 | 128 | [Journey](games/j/journey.md) | 4.74 | 
 | 129 | [Haven](games/h/haven.md) | 4.74 | 

@@ -752,7 +752,7 @@
 | 750 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 751 | [Weird West](games/w/weird_west.md) | 4.43 | 
 | 752 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
-| 753 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 753 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 754 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
 | 755 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
 | 756 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
