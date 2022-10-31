@@ -690,13 +690,13 @@
 | 688 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
 | 689 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 690 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.22 | 
-| 691 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
-| 692 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 693 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
-| 694 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
-| 695 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.21 | 
-| 696 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
-| 697 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
+| 691 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
+| 692 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
+| 693 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 694 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
+| 695 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
+| 696 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.21 | 
+| 697 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
 | 698 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 699 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 700 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
