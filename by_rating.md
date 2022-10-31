@@ -234,20 +234,20 @@
 | 232 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.67 | 
 | 233 | [SOMA](games/s/soma.md) | 4.67 | 
 | 234 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
-| 235 | [Before We Leave](games/b/before_we_leave.md) | 4.67 | 
-| 236 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
-| 237 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
-| 238 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.67 | 
-| 239 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
-| 240 | [SpiderHeck](games/s/spiderheck.md) | 4.67 | 
-| 241 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 242 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 243 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
-| 244 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 245 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
-| 246 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 247 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 248 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
+| 235 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
+| 236 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
+| 237 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.67 | 
+| 238 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
+| 239 | [SpiderHeck](games/s/spiderheck.md) | 4.67 | 
+| 240 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 241 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 242 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 243 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 244 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
+| 245 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
+| 246 | [Death's Door](games/d/death's_door.md) | 4.66 | 
+| 247 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
+| 248 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
 | 249 | [Mutazione](games/m/mutazione.md) | 4.66 | 
 | 250 | [CARRION](games/c/carrion.md) | 4.66 | 
 | 251 | [Eastward](games/e/eastward.md) | 4.66 | 
@@ -421,16 +421,16 @@
 | 419 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 420 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 421 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 422 | [Outward](games/o/outward.md) | 4.54 | 
-| 423 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 424 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 425 | [RUINER](games/r/ruiner.md) | 4.54 | 
-| 426 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
-| 427 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 428 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 429 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 430 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 431 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 422 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 423 | [Outward](games/o/outward.md) | 4.54 | 
+| 424 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 425 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 426 | [RUINER](games/r/ruiner.md) | 4.54 | 
+| 427 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
+| 428 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 429 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 430 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 431 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 432 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 433 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
 | 434 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
