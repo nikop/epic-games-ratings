@@ -12,7 +12,7 @@
 | 10 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.43 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
-| 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 13 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
@@ -149,7 +149,7 @@
 | 147 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 148 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 149 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
+| 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
 | 151 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 152 | [Darkwood](games/d/darkwood.md) | 4.59 | 
 | 153 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
@@ -218,7 +218,7 @@
 | 216 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
 | 217 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 218 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
-| 219 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 219 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
 | 220 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 221 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
 | 222 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
@@ -545,7 +545,7 @@
 | 543 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 544 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 545 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 546 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.53 | 
+| 546 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
 | 547 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.68 | 
 | 548 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 549 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
@@ -589,7 +589,7 @@
 | 587 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 588 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
 | 589 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 590 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
+| 590 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 591 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 592 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
 | 593 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
@@ -639,7 +639,7 @@
 | 637 | [The Fall](games/t/the_fall.md) | 4.25 | 
 | 638 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 639 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
-| 640 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
+| 640 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
 | 641 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 642 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
 | 643 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
@@ -715,7 +715,7 @@
 | 713 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.60 | 
 | 714 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
 | 715 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 716 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
+| 716 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 717 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.27 | 
 | 718 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 719 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
@@ -742,7 +742,7 @@
 | 740 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 741 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.56 | 
 | 742 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 743 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.36 | 
+| 743 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.35 | 
 | 744 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
 | 745 | [Warpips](games/w/warpips.md) | 4.57 | 
 | 746 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
@@ -766,7 +766,7 @@
 | 764 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 765 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 766 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
-| 767 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 767 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
 | 768 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 769 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 770 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 

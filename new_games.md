@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [Saturnalia](games/s/saturnalia.md) | 4.17 | 
-| 2 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.53 | 
+| 2 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
 | 3 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.23 | 
 | 4 | [STG Football](games/s/stg_football.md) | 4.81 | 
 | 5 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.70 | 
@@ -57,7 +57,7 @@
 | 55 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
 | 56 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 57 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
-| 58 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.36 | 
+| 58 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.35 | 
 | 59 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 60 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 61 | [GigaBash](games/g/gigabash.md) | 4.48 | 
