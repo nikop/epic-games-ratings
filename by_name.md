@@ -565,7 +565,7 @@
 | 563 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
 | 564 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 565 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
-| 566 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
+| 566 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 567 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 568 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.48 | 
 | 569 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.70 | 
