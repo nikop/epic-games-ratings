@@ -59,7 +59,7 @@
 | 57 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 58 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
 | 59 | [Aztez](games/a/aztez.md) | 4.50 | 
-| 60 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
+| 60 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 61 | [Backbone](games/b/backbone.md) | 4.39 | 
 | 62 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 63 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
@@ -88,7 +88,7 @@
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.36 | 
 | 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
-| 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 91 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 92 | [Breathedge](games/b/breathedge.md) | 4.57 | 
@@ -225,7 +225,7 @@
 | 223 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
 | 224 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
 | 225 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 226 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.05 | 
+| 226 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.06 | 
 | 227 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 228 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 229 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
@@ -329,7 +329,7 @@
 | 327 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 328 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 329 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 330 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
+| 330 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 331 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 332 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
 | 333 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
@@ -389,7 +389,7 @@
 | 387 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.41 | 
 | 388 | [Minit](games/m/minit.md) | 4.53 | 
 | 389 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
-| 390 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 390 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 391 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
 | 392 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
 | 393 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
@@ -413,7 +413,7 @@
 | 411 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
 | 412 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 413 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.17 | 
-| 414 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.59 | 
+| 414 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
 | 415 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 416 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 417 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
@@ -648,7 +648,7 @@
 | 646 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 
 | 647 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
 | 648 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 649 | [The Medium](games/t/the_medium.md) | 4.48 | 
+| 649 | [The Medium](games/t/the_medium.md) | 4.50 | 
 | 650 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
 | 651 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 652 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
