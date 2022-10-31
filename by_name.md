@@ -12,7 +12,7 @@
 | 10 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.43 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
-| 13 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
+| 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
@@ -357,7 +357,7 @@
 | 355 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 356 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
 | 357 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
-| 358 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 358 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
 | 359 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 360 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 361 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.01 | 
@@ -479,7 +479,7 @@
 | 477 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 478 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 479 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 480 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
+| 480 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
 | 481 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
 | 482 | [Rayman Origins](games/r/rayman_origins.md) | 4.74 | 
 | 483 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
@@ -556,7 +556,7 @@
 | 554 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 555 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
 | 556 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 557 | [SOMA](games/s/soma.md) | 4.68 | 
+| 557 | [SOMA](games/s/soma.md) | 4.67 | 
 | 558 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 559 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
 | 560 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
@@ -589,7 +589,7 @@
 | 587 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 588 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
 | 589 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 590 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
+| 590 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
 | 591 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 592 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
 | 593 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
@@ -742,7 +742,7 @@
 | 740 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 741 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.56 | 
 | 742 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 743 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.35 | 
+| 743 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.36 | 
 | 744 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
 | 745 | [Warpips](games/w/warpips.md) | 4.57 | 
 | 746 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
