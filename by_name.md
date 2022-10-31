@@ -346,7 +346,7 @@
 | 344 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 345 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
 | 346 | [Lake](games/l/lake.md) | 4.08 | 
-| 347 | [Lamentum](games/l/lamentum.md) | 4.33 | 
+| 347 | [Lamentum](games/l/lamentum.md) | 4.36 | 
 | 348 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
 | 349 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 350 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
@@ -438,7 +438,7 @@
 | 436 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 437 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 438 | [Outlast](games/o/outlast.md) | 4.74 | 
-| 439 | [Outlast 2](games/o/outlast_2.md) | 4.77 | 
+| 439 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
 | 440 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 441 | [Outward](games/o/outward.md) | 4.54 | 
 | 442 | [Overcooked](games/o/overcooked.md) | 4.68 | 
@@ -517,7 +517,7 @@
 | 515 | [Sable](games/s/sable.md) | 4.56 | 
 | 516 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 517 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 518 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.76 | 
+| 518 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
 | 519 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 520 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
 | 521 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.52 | 

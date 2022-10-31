@@ -18,7 +18,7 @@
 | 16 | [Darkwood](games/d/darkwood.md) | 4.59 | 
 | 17 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 18 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.48 | 
-| 19 | [Outlast 2](games/o/outlast_2.md) | 4.77 | 
+| 19 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
 | 20 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 21 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
 | 22 | [Outlast](games/o/outlast.md) | 4.74 | 

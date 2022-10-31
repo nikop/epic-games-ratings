@@ -98,7 +98,7 @@
 | 96 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 97 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 98 | [Superliminal](games/s/superliminal.md) | 4.77 | 
-| 99 | [Outlast 2](games/o/outlast_2.md) | 4.77 | 
+| 99 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
 | 100 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.77 | 
 | 101 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 102 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
@@ -109,7 +109,7 @@
 | 107 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
 | 108 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
 | 109 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.76 | 
-| 110 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.76 | 
+| 110 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
 | 111 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 112 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 113 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
@@ -617,27 +617,27 @@
 | 615 | [Among Trees](games/a/among_trees.md) | 4.36 | 
 | 616 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.36 | 
 | 617 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 618 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.36 | 
-| 619 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
-| 620 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.35 | 
-| 621 | [Far Cry](games/f/far_cry.md) | 4.35 | 
-| 622 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
-| 623 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
-| 624 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.35 | 
-| 625 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 626 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 627 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
-| 628 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
-| 629 | [House Party](games/h/house_party.md) | 4.34 | 
-| 630 | [ELEX](games/e/elex.md) | 4.34 | 
-| 631 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
-| 632 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
-| 633 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
-| 634 | [ATOM RPG](games/a/atom_rpg.md) | 4.33 | 
-| 635 | [Othercide](games/o/othercide.md) | 4.33 | 
-| 636 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
-| 637 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 638 | [Lamentum](games/l/lamentum.md) | 4.33 | 
+| 618 | [Lamentum](games/l/lamentum.md) | 4.36 | 
+| 619 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.36 | 
+| 620 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
+| 621 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.35 | 
+| 622 | [Far Cry](games/f/far_cry.md) | 4.35 | 
+| 623 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
+| 624 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
+| 625 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.35 | 
+| 626 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 627 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 628 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
+| 629 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
+| 630 | [House Party](games/h/house_party.md) | 4.34 | 
+| 631 | [ELEX](games/e/elex.md) | 4.34 | 
+| 632 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
+| 633 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
+| 634 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 635 | [ATOM RPG](games/a/atom_rpg.md) | 4.33 | 
+| 636 | [Othercide](games/o/othercide.md) | 4.33 | 
+| 637 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
+| 638 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 639 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 640 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
 | 641 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
