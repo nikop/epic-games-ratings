@@ -117,7 +117,7 @@
 | 115 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 116 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 117 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
-| 118 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 118 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 119 | [Conarium](games/c/conarium.md) | 3.85 | 
 | 120 | [Control](games/c/control.md) | 4.60 | 
 | 121 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
@@ -125,7 +125,7 @@
 | 123 | [Core](games/c/core.md) | 4.39 | 
 | 124 | [Coromon](games/c/coromon.md) | 4.65 | 
 | 125 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.59 | 
-| 126 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 126 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
 | 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 128 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 129 | [Crashlands](games/c/crashlands.md) | 4.66 | 
@@ -194,7 +194,7 @@
 | 192 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 194 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.46 | 
-| 195 | [ELEX](games/e/elex.md) | 4.34 | 
+| 195 | [ELEX](games/e/elex.md) | 4.35 | 
 | 196 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
 | 197 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 198 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
@@ -270,7 +270,7 @@
 | 268 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 269 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 270 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
-| 271 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 271 | [Griftlands](games/g/griftlands.md) | 4.80 | 
 | 272 | [GRIME](games/g/grime.md) | 4.63 | 
 | 273 | [Grindstone](games/g/grindstone.md) | 4.82 | 
 | 274 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
@@ -737,11 +737,11 @@
 | 735 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 736 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
 | 737 | [Warface](games/w/warface.md) | 3.95 | 
-| 738 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 738 | [Warframe](games/w/warframe.md) | 4.62 | 
 | 739 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 740 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.56 | 
 | 741 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 742 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.35 | 
+| 742 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.36 | 
 | 743 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
 | 744 | [Warpips](games/w/warpips.md) | 4.57 | 
 | 745 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
