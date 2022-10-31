@@ -1,10 +1,10 @@
 {
   "ID": "4c7117cadb714722950338f02850fd8d",
   "Name": "20XX",
-  "Rating": 4.6,
+  "Rating": 4.61,
   "NumberOfRatings": 392,
   "FirstSeen": "2022-07-22T20:20:18.3366391+00:00",
-  "LastChanged": "2022-10-29T15:01:03.5985196+00:00",
+  "LastChanged": "2022-10-31T21:31:05.963609+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:18.3366397+00:00",
@@ -519,6 +519,11 @@
     {
       "Time": "2022-10-29T15:01:03.5985198+00:00",
       "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-31T21:31:05.9636097+00:00",
+      "Rating": 4.61,
       "NumberOfRatings": null
     }
   ],

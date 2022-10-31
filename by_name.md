@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
-| 2 | [20XX](games/2/20xx.md) | 4.60 | 
+| 2 | [20XX](games/2/20xx.md) | 4.61 | 
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.39 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
@@ -228,7 +228,7 @@
 | 226 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.06 | 
 | 227 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 228 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 229 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 229 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 230 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
 | 231 | [Fez](games/f/fez.md) | 4.73 | 
 | 232 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.65 | 
@@ -355,7 +355,7 @@
 | 353 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 354 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
 | 355 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 356 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
+| 356 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 357 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 358 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
 | 359 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
@@ -385,7 +385,7 @@
 | 383 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 384 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 385 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 386 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 386 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 387 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
 | 388 | [Minit](games/m/minit.md) | 4.53 | 
 | 389 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
@@ -427,8 +427,8 @@
 | 425 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.36 | 
 | 426 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 
 | 427 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 428 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 429 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 428 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.46 | 
+| 429 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
 | 430 | [Old World](games/o/old_world.md) | 4.64 | 
 | 431 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 432 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
@@ -539,7 +539,7 @@
 | 537 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.77 | 
 | 538 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 539 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
-| 540 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
+| 540 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 541 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 542 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.46 | 
 | 543 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
@@ -577,7 +577,7 @@
 | 575 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
 | 576 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
 | 577 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
-| 578 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
+| 578 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
 | 579 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 580 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 581 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
