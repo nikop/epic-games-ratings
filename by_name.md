@@ -131,7 +131,7 @@
 | 129 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 130 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 131 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
-| 132 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 132 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
 | 133 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 134 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
 | 135 | [CryoFall](games/c/cryofall.md) | 4.50 | 
@@ -171,7 +171,7 @@
 | 169 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 170 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 171 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 172 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
+| 172 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
 | 173 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 174 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 175 | [Diabotical](games/d/diabotical.md) | 4.79 | 
@@ -356,7 +356,7 @@
 | 354 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
 | 355 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 356 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
-| 357 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
+| 357 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 358 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 359 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 360 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
@@ -402,7 +402,7 @@
 | 400 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 401 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 402 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 403 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 403 | [MythForce](games/m/mythforce.md) | 4.52 | 
 | 404 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 405 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 406 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
@@ -515,7 +515,7 @@
 | 513 | [RUINER](games/r/ruiner.md) | 4.54 | 
 | 514 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 515 | [Runbow](games/r/runbow.md) | 4.43 | 
-| 516 | [Sable](games/s/sable.md) | 4.56 | 
+| 516 | [Sable](games/s/sable.md) | 4.57 | 
 | 517 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 518 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 519 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
@@ -523,7 +523,7 @@
 | 521 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
 | 522 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.52 | 
 | 523 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 524 | [Saturnalia](games/s/saturnalia.md) | 4.12 | 
+| 524 | [Saturnalia](games/s/saturnalia.md) | 4.17 | 
 | 525 | [Scavengers](games/s/scavengers.md) | 4.16 | 
 | 526 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 527 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
@@ -592,7 +592,7 @@
 | 590 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 591 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 592 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
-| 593 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.35 | 
+| 593 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
 | 594 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 595 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 596 | [Subnautica](games/s/subnautica.md) | 4.84 | 
@@ -742,7 +742,7 @@
 | 740 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 741 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.56 | 
 | 742 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 743 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.35 | 
+| 743 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.36 | 
 | 744 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
 | 745 | [Warpips](games/w/warpips.md) | 4.57 | 
 | 746 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
@@ -758,7 +758,7 @@
 | 756 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
 | 757 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 758 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
-| 759 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
+| 759 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 760 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 761 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 762 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.62 | 
