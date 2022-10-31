@@ -1,10 +1,10 @@
 {
   "ID": "f588333a02fe4011980472c7be02db12",
   "Name": "Death\u0027s Door",
-  "Rating": 4.65,
+  "Rating": 4.66,
   "NumberOfRatings": 120,
   "FirstSeen": "2022-07-22T20:26:20.4430327+00:00",
-  "LastChanged": "2022-10-24T16:31:58.609417+00:00",
+  "LastChanged": "2022-10-31T12:31:50.0983025+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:20.4430329+00:00",
@@ -214,6 +214,11 @@
     {
       "Time": "2022-10-24T16:31:58.6094171+00:00",
       "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-31T12:31:50.0983027+00:00",
+      "Rating": 4.66,
       "NumberOfRatings": null
     }
   ],

@@ -160,7 +160,7 @@
 | 158 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
 | 159 | [Death Coming](games/d/death_coming.md) | 4.48 | 
 | 160 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 161 | [Death's Door](games/d/death's_door.md) | 4.65 | 
+| 161 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 162 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 163 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 164 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
@@ -349,7 +349,7 @@
 | 347 | [Lamentum](games/l/lamentum.md) | 4.36 | 
 | 348 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
 | 349 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 350 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
+| 350 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.18 | 
 | 351 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
 | 352 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 353 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
@@ -481,7 +481,7 @@
 | 479 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
 | 480 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
 | 481 | [Rayman Origins](games/r/rayman_origins.md) | 4.74 | 
-| 482 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
+| 482 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
 | 483 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 484 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
 | 485 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
@@ -657,7 +657,7 @@
 | 655 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
 | 656 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 657 | [The Surge](games/t/the_surge.md) | 4.51 | 
-| 658 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
+| 658 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
 | 659 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 660 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
 | 661 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
