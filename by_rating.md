@@ -96,12 +96,12 @@
 | 94 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 95 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
 | 96 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
-| 97 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
-| 98 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 99 | [Superliminal](games/s/superliminal.md) | 4.77 | 
-| 100 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
-| 101 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.77 | 
-| 102 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 97 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 98 | [Superliminal](games/s/superliminal.md) | 4.77 | 
+| 99 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
+| 100 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.77 | 
+| 101 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 102 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 103 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 104 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 105 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
@@ -188,23 +188,23 @@
 | 186 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 187 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 188 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
-| 189 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
-| 190 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 191 | [For The King](games/f/for_the_king.md) | 4.69 | 
-| 192 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 193 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 194 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 195 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 196 | [Barony](games/b/barony.md) | 4.69 | 
-| 197 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 198 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 199 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
-| 200 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
-| 201 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
-| 202 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
-| 203 | [Rogue Lords](games/r/rogue_lords.md) | 4.69 | 
-| 204 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
-| 205 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 189 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 190 | [For The King](games/f/for_the_king.md) | 4.69 | 
+| 191 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
+| 192 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
+| 193 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 194 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 195 | [Barony](games/b/barony.md) | 4.69 | 
+| 196 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 197 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 198 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
+| 199 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
+| 200 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
+| 201 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
+| 202 | [Rogue Lords](games/r/rogue_lords.md) | 4.69 | 
+| 203 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
+| 204 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 205 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 206 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 207 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 208 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
@@ -734,10 +734,10 @@
 | 732 | [Relicta](games/r/relicta.md) | 4.11 | 
 | 733 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
 | 734 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
-| 735 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.10 | 
-| 736 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 737 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
-| 738 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 735 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
+| 736 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
+| 737 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 738 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.08 | 
 | 739 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
 | 740 | [Lake](games/l/lake.md) | 4.08 | 
 | 741 | [Godfall](games/g/godfall.md) | 4.07 | 

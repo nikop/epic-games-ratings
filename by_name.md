@@ -88,7 +88,7 @@
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.36 | 
 | 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
-| 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
+| 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 91 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 92 | [Breathedge](games/b/breathedge.md) | 4.57 | 
@@ -200,7 +200,7 @@
 | 198 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 199 | [Encased](games/e/encased.md) | 4.40 | 
 | 200 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 201 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 
+| 201 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 202 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 203 | [Everything](games/e/everything.md) | 4.71 | 
 | 204 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
@@ -376,7 +376,7 @@
 | 374 | [Mago](games/m/mago.md) | 4.86 | 
 | 375 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 376 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
-| 377 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.10 | 
+| 377 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.08 | 
 | 378 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 379 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 380 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
