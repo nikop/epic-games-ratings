@@ -46,7 +46,7 @@
 | 44 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 45 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
 | 46 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 47 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
+| 47 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 48 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 49 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 50 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
@@ -284,7 +284,7 @@
 | 282 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 283 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
 | 284 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 285 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
+| 285 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
 | 286 | [Hellpoint](games/h/hellpoint.md) | 4.17 | 
 | 287 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
 | 288 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
@@ -342,7 +342,7 @@
 | 340 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 341 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 342 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 343 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 343 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
 | 344 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
 | 345 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 346 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
@@ -559,7 +559,7 @@
 | 557 | [SOMA](games/s/soma.md) | 4.68 | 
 | 558 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 559 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
-| 560 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 560 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 561 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 562 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 563 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
@@ -586,7 +586,7 @@
 | 584 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 585 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 586 | [STG Football](games/s/stg_football.md) | 4.81 | 
-| 587 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
+| 587 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 588 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
 | 589 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 590 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
@@ -617,7 +617,7 @@
 | 615 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
 | 616 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.67 | 
 | 617 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 618 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
+| 618 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 619 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 620 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.85 | 
 | 621 | [Tharsis](games/t/tharsis.md) | 4.20 | 
@@ -720,7 +720,7 @@
 | 718 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 719 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 720 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 721 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.82 | 
+| 721 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.81 | 
 | 722 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 723 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
 | 724 | [UnMetal](games/u/unmetal.md) | 4.55 | 

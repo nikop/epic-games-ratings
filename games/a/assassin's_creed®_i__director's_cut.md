@@ -1,5 +1,5 @@
 # Assassin's Creed® I: Director's Cut
-Rating: 4.48 (142)  (as of 23.09.2022)  
+Rating: 4.47 (142)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -58,3 +58,4 @@ Rating: 4.48 (142)  (as of 23.09.2022)
 | 2022-10-22 | 4.46 | - |
 | 2022-10-27 | 4.47 | - |
 | 2022-10-30 | 4.48 | - |
+| 2022-10-31 | 4.47 | - |
