@@ -1,10 +1,10 @@
 {
   "ID": "protea",
   "Name": "Industries of Titan",
-  "Rating": 4.49,
+  "Rating": 4.5,
   "NumberOfRatings": 123,
   "FirstSeen": "2022-07-22T20:25:16.5099101+00:00",
-  "LastChanged": "2022-10-28T22:01:39.8490169+00:00",
+  "LastChanged": "2022-10-31T22:02:12.6971624+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:16.5099104+00:00",
@@ -229,6 +229,11 @@
     {
       "Time": "2022-10-28T22:01:39.8490171+00:00",
       "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-31T22:02:12.6971626+00:00",
+      "Rating": 4.5,
       "NumberOfRatings": null
     }
   ],

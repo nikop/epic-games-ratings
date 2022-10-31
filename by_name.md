@@ -22,7 +22,7 @@
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
-| 23 | [Among Trees](games/a/among_trees.md) | 4.36 | 
+| 23 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 24 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 25 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.61 | 
 | 26 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
@@ -130,7 +130,7 @@
 | 128 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 129 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 130 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 131 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
+| 131 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
 | 132 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
 | 133 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 134 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
@@ -212,7 +212,7 @@
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 211 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.70 | 
 | 212 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.58 | 
-| 213 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
+| 213 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.75 | 
 | 214 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 215 | [Far Cry](games/f/far_cry.md) | 4.35 | 
 | 216 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
@@ -282,7 +282,7 @@
 | 280 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
 | 281 | [Haven](games/h/haven.md) | 4.74 | 
 | 282 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
-| 283 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
+| 283 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.67 | 
 | 284 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 285 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
 | 286 | [Hellpoint](games/h/hellpoint.md) | 4.17 | 
@@ -310,7 +310,7 @@
 | 308 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
 | 309 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
 | 310 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
-| 311 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
+| 311 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 312 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 313 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 314 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
@@ -520,7 +520,7 @@
 | 518 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 519 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
 | 520 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 521 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 521 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
 | 522 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.52 | 
 | 523 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 524 | [Saturnalia](games/s/saturnalia.md) | 4.18 | 
@@ -585,7 +585,7 @@
 | 583 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 584 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 585 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 586 | [STG Football](games/s/stg_football.md) | 4.81 | 
+| 586 | [STG Football](games/s/stg_football.md) | 4.62 | 
 | 587 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 588 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
 | 589 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
@@ -617,7 +617,7 @@
 | 615 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
 | 616 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.67 | 
 | 617 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 618 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 618 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
 | 619 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 620 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.85 | 
 | 621 | [Tharsis](games/t/tharsis.md) | 4.20 | 
@@ -754,7 +754,7 @@
 | 752 | [Weird West](games/w/weird_west.md) | 4.43 | 
 | 753 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
 | 754 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
-| 755 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
+| 755 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
 | 756 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
 | 757 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 758 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
