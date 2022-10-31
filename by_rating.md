@@ -90,13 +90,13 @@
 | 88 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
 | 89 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 90 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 91 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 92 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
-| 93 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 94 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
-| 95 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
-| 96 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 97 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 91 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 92 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 93 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
+| 94 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
+| 95 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
+| 96 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
+| 97 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 98 | [Superliminal](games/s/superliminal.md) | 4.77 | 
 | 99 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
 | 100 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.77 | 
@@ -371,25 +371,25 @@
 | 369 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 370 | [Road 96](games/r/road_96.md) | 4.58 | 
 | 371 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
-| 372 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 373 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 374 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
-| 375 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 376 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
-| 377 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 378 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 379 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 380 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
-| 381 | [Hob](games/h/hob.md) | 4.57 | 
-| 382 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 383 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 384 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
-| 385 | [Breathedge](games/b/breathedge.md) | 4.57 | 
-| 386 | [Horace](games/h/horace.md) | 4.57 | 
-| 387 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
-| 388 | [Warpips](games/w/warpips.md) | 4.57 | 
-| 389 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
-| 390 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.57 | 
+| 372 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.58 | 
+| 373 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 374 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 375 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
+| 376 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 377 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 378 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 379 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 380 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 381 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
+| 382 | [Hob](games/h/hob.md) | 4.57 | 
+| 383 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 384 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 385 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
+| 386 | [Breathedge](games/b/breathedge.md) | 4.57 | 
+| 387 | [Horace](games/h/horace.md) | 4.57 | 
+| 388 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
+| 389 | [Warpips](games/w/warpips.md) | 4.57 | 
+| 390 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
 | 391 | [NORCO](games/n/norco.md) | 4.57 | 
 | 392 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
 | 393 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
@@ -467,16 +467,16 @@
 | 465 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 466 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 467 | [The Surge](games/t/the_surge.md) | 4.51 | 
-| 468 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 469 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 470 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 471 | [CryoFall](games/c/cryofall.md) | 4.50 | 
-| 472 | [Aztez](games/a/aztez.md) | 4.50 | 
-| 473 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 474 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
-| 475 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
-| 476 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 477 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 468 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 469 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
+| 470 | [CryoFall](games/c/cryofall.md) | 4.50 | 
+| 471 | [Aztez](games/a/aztez.md) | 4.50 | 
+| 472 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
+| 473 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
+| 474 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
+| 475 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 476 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 477 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 478 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 479 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 480 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 

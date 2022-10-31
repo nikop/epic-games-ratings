@@ -1,5 +1,5 @@
 # Fallout 3: Game of the Year Edition
-Rating: 4.57 (-)  (as of 23.09.2022)  
+Rating: 4.58 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -10,3 +10,4 @@ Rating: 4.57 (-)  (as of 23.09.2022)
 | 2022-10-26 | 4.55 | - |
 | 2022-10-27 | 4.56 | - |
 | 2022-10-29 | 4.57 | - |
+| 2022-10-31 | 4.58 | - |

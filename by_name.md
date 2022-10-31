@@ -170,7 +170,7 @@
 | 168 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
 | 169 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 170 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
-| 171 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 171 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 172 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
 | 173 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 174 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -210,7 +210,7 @@
 | 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 209 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 211 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.57 | 
+| 211 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.58 | 
 | 212 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 213 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 214 | [Far Cry](games/f/far_cry.md) | 4.35 | 
@@ -695,7 +695,7 @@
 | 693 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 694 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
 | 695 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 696 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 696 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 697 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.47 | 
 | 698 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
 | 699 | [Townscaper](games/t/townscaper.md) | 4.70 | 
