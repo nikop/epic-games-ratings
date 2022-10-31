@@ -709,7 +709,7 @@
 | 707 | [Transistor](games/t/transistor.md) | 4.61 | 
 | 708 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 709 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
-| 710 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 710 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 711 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
 | 712 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.60 | 
 | 713 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 

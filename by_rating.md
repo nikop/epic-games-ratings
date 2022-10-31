@@ -451,27 +451,27 @@
 | 449 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.52 | 
 | 450 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 451 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 452 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 453 | [Verdun](games/v/verdun.md) | 4.51 | 
-| 454 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 455 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 456 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 457 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 458 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 459 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
-| 460 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
-| 461 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 462 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 463 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
-| 464 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 465 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
-| 466 | [The Surge](games/t/the_surge.md) | 4.51 | 
-| 467 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 468 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 469 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 470 | [CryoFall](games/c/cryofall.md) | 4.50 | 
-| 471 | [Aztez](games/a/aztez.md) | 4.50 | 
-| 472 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 452 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 453 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 454 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 455 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 456 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 457 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 458 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 459 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 460 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
+| 461 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
+| 462 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 463 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 464 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
+| 465 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 466 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
+| 467 | [The Surge](games/t/the_surge.md) | 4.51 | 
+| 468 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 469 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 470 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
+| 471 | [CryoFall](games/c/cryofall.md) | 4.50 | 
+| 472 | [Aztez](games/a/aztez.md) | 4.50 | 
 | 473 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
 | 474 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
 | 475 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
