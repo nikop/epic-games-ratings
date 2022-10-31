@@ -486,10 +486,10 @@
 | 484 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 485 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 486 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
-| 487 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
-| 488 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 489 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
-| 490 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 487 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 488 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
+| 489 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 490 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
 | 491 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
 | 492 | [Death Coming](games/d/death_coming.md) | 4.48 | 
 | 493 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
