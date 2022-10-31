@@ -14,7 +14,7 @@
 | 12 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
 | 13 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.72 | 
 | 14 | [Scorn](games/s/scorn.md) | 4.45 | 
-| 15 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
+| 15 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
 | 16 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.24 | 
 | 17 | [Darkwood](games/d/darkwood.md) | 4.59 | 
 | 18 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
@@ -26,7 +26,7 @@
 | 24 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.25 | 
 | 25 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 26 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 27 | [SpiderHeck](games/s/spiderheck.md) | 4.65 | 
+| 27 | [SpiderHeck](games/s/spiderheck.md) | 4.67 | 
 | 28 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 29 | [Potion Permit](games/p/potion_permit.md) | 3.83 | 
 | 30 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 

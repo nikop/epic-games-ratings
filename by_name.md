@@ -2,7 +2,7 @@
 | --- | ---- | ------ | 
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
 | 2 | [20XX](games/2/20xx.md) | 4.60 | 
-| 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.42 | 
+| 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.39 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.72 | 
@@ -216,7 +216,7 @@
 | 214 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 215 | [Far Cry](games/f/far_cry.md) | 4.35 | 
 | 216 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
-| 217 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
+| 217 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 218 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 219 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 220 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
@@ -314,7 +314,7 @@
 | 312 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 313 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 314 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
-| 315 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 315 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
 | 316 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 317 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 318 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
@@ -366,7 +366,7 @@
 | 364 | [Little Inferno](games/l/little_inferno.md) | 4.46 | 
 | 365 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 366 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 367 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
+| 367 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
 | 368 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
 | 369 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 370 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
@@ -398,7 +398,7 @@
 | 396 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 397 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 398 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 399 | [Mutazione](games/m/mutazione.md) | 4.65 | 
+| 399 | [Mutazione](games/m/mutazione.md) | 4.66 | 
 | 400 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 401 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 402 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
@@ -570,7 +570,7 @@
 | 568 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 569 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.48 | 
 | 570 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.70 | 
-| 571 | [SpiderHeck](games/s/spiderheck.md) | 4.65 | 
+| 571 | [SpiderHeck](games/s/spiderheck.md) | 4.67 | 
 | 572 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 573 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
 | 574 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.90 | 
@@ -620,7 +620,7 @@
 | 618 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
 | 619 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 620 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.85 | 
-| 621 | [Tharsis](games/t/tharsis.md) | 4.19 | 
+| 621 | [Tharsis](games/t/tharsis.md) | 4.20 | 
 | 622 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 623 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.60 | 
 | 624 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
@@ -665,7 +665,7 @@
 | 663 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
 | 664 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
 | 665 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.28 | 
-| 666 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.85 | 
+| 666 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 667 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.73 | 
 | 668 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
 | 669 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
@@ -774,5 +774,5 @@
 | 772 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 773 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 774 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 775 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.59 | 
+| 775 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.61 | 
 | 776 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
