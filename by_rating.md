@@ -67,27 +67,27 @@
 | 65 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 66 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
 | 67 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
-| 68 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
-| 69 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.81 | 
-| 70 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
-| 71 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.81 | 
-| 72 | [STG Football](games/s/stg_football.md) | 4.81 | 
-| 73 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 74 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 75 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 76 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 77 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 78 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 79 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 80 | [Griftlands](games/g/griftlands.md) | 4.80 | 
-| 81 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 82 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 83 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 84 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 85 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 86 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 87 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 88 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 68 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.81 | 
+| 69 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
+| 70 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.81 | 
+| 71 | [STG Football](games/s/stg_football.md) | 4.81 | 
+| 72 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 73 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 74 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 75 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
+| 76 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 77 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 78 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
+| 79 | [Griftlands](games/g/griftlands.md) | 4.80 | 
+| 80 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 81 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 82 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 83 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 84 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 85 | [Diabotical](games/d/diabotical.md) | 4.79 | 
+| 86 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 87 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 88 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 89 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
 | 90 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 91 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
@@ -430,23 +430,23 @@
 | 428 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 429 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 430 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 431 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 432 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 433 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 434 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 435 | [Minit](games/m/minit.md) | 4.53 | 
-| 436 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
-| 437 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 438 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
-| 439 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
-| 440 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
-| 441 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 442 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
-| 443 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.53 | 
-| 444 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 445 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 446 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 447 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 431 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 432 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 433 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 434 | [Minit](games/m/minit.md) | 4.53 | 
+| 435 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
+| 436 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 437 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.53 | 
+| 438 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
+| 439 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
+| 440 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 441 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 442 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.53 | 
+| 443 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 444 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 445 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 446 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 447 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 448 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 449 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 450 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
@@ -742,9 +742,9 @@
 | 740 | [Lake](games/l/lake.md) | 4.08 | 
 | 741 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 742 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
-| 743 | [Train Valley 2](games/t/train_valley_2.md) | 4.06 | 
-| 744 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 745 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.05 | 
+| 743 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 744 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.05 | 
+| 745 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 746 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.05 | 
 | 747 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
 | 748 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 

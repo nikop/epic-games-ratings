@@ -161,7 +161,7 @@
 | 159 | [Death Coming](games/d/death_coming.md) | 4.48 | 
 | 160 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 161 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 162 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 162 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 163 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 164 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 165 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.55 | 
@@ -632,7 +632,7 @@
 | 630 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 631 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 632 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
-| 633 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
+| 633 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 634 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
 | 635 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
 | 636 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
@@ -706,7 +706,7 @@
 | 704 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 705 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 706 | [Train Valley](games/t/train_valley.md) | 4.41 | 
-| 707 | [Train Valley 2](games/t/train_valley_2.md) | 4.06 | 
+| 707 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 708 | [Transistor](games/t/transistor.md) | 4.61 | 
 | 709 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 710 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
