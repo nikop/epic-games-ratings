@@ -256,21 +256,21 @@
 | 254 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
 | 255 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 256 | [Death's Door](games/d/death's_door.md) | 4.65 | 
-| 257 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
-| 258 | [Coromon](games/c/coromon.md) | 4.65 | 
-| 259 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
-| 260 | [Mutazione](games/m/mutazione.md) | 4.65 | 
-| 261 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 262 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
-| 263 | [SpiderHeck](games/s/spiderheck.md) | 4.65 | 
-| 264 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 265 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 266 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 267 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 268 | [Old World](games/o/old_world.md) | 4.64 | 
-| 269 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 270 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
-| 271 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.64 | 
+| 257 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
+| 258 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
+| 259 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 260 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 261 | [Mutazione](games/m/mutazione.md) | 4.65 | 
+| 262 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
+| 263 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
+| 264 | [SpiderHeck](games/s/spiderheck.md) | 4.65 | 
+| 265 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 266 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 267 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 268 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 269 | [Old World](games/o/old_world.md) | 4.64 | 
+| 270 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 271 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 272 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
 | 273 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
 | 274 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.64 | 
