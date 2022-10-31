@@ -170,7 +170,7 @@
 | 168 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
 | 169 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 170 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
-| 171 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 171 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 172 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
 | 173 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 174 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -292,7 +292,7 @@
 | 290 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 291 | [Hob](games/h/hob.md) | 4.57 | 
 | 292 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.19 | 
-| 293 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
+| 293 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 294 | [Horace](games/h/horace.md) | 4.57 | 
 | 295 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 296 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
@@ -480,7 +480,7 @@
 | 478 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 479 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
 | 480 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
-| 481 | [Rayman Origins](games/r/rayman_origins.md) | 4.73 | 
+| 481 | [Rayman Origins](games/r/rayman_origins.md) | 4.74 | 
 | 482 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
 | 483 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 484 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 

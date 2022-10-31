@@ -129,26 +129,26 @@
 | 127 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
 | 128 | [Journey](games/j/journey.md) | 4.74 | 
 | 129 | [Haven](games/h/haven.md) | 4.74 | 
-| 130 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
-| 131 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 132 | [Revita](games/r/revita.md) | 4.74 | 
-| 133 | [Outlast](games/o/outlast.md) | 4.74 | 
-| 134 | [Tails of Iron](games/t/tails_of_iron.md) | 4.74 | 
-| 135 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 136 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 137 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 138 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 139 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 140 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
-| 141 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 142 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
-| 143 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 144 | [Fez](games/f/fez.md) | 4.73 | 
-| 145 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
-| 146 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
-| 147 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
-| 148 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
-| 149 | [Rayman Origins](games/r/rayman_origins.md) | 4.73 | 
+| 130 | [Rayman Origins](games/r/rayman_origins.md) | 4.74 | 
+| 131 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
+| 132 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 133 | [Revita](games/r/revita.md) | 4.74 | 
+| 134 | [Outlast](games/o/outlast.md) | 4.74 | 
+| 135 | [Tails of Iron](games/t/tails_of_iron.md) | 4.74 | 
+| 136 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 137 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 138 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 139 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 140 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 141 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
+| 142 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 143 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 144 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
+| 145 | [Fez](games/f/fez.md) | 4.73 | 
+| 146 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
+| 147 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
+| 148 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
+| 149 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.73 | 
 | 150 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 
 | 151 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.73 | 
 | 152 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
@@ -466,17 +466,17 @@
 | 464 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 465 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 466 | [The Surge](games/t/the_surge.md) | 4.51 | 
-| 467 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 468 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 469 | [CryoFall](games/c/cryofall.md) | 4.50 | 
-| 470 | [Aztez](games/a/aztez.md) | 4.50 | 
-| 471 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 472 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 473 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
-| 474 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
-| 475 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 476 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 477 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 467 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 468 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 469 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
+| 470 | [CryoFall](games/c/cryofall.md) | 4.50 | 
+| 471 | [Aztez](games/a/aztez.md) | 4.50 | 
+| 472 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 473 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
+| 474 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
+| 475 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
+| 476 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 477 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 478 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 479 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 480 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
@@ -753,8 +753,8 @@
 | 751 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
 | 752 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
 | 753 | [Flatout](games/f/flatout.md) | 4.00 | 
-| 754 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
-| 755 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
+| 754 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
+| 755 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
 | 756 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 757 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 758 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.97 | 

@@ -44,7 +44,7 @@
 | 42 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
 | 43 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 44 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 45 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 45 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 46 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 47 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
 | 48 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
