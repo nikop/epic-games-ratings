@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Saturnalia](games/s/saturnalia.md) | 4.17 | 
+| 1 | [Saturnalia](games/s/saturnalia.md) | 4.18 | 
 | 2 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
 | 3 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.23 | 
 | 4 | [STG Football](games/s/stg_football.md) | 4.81 | 
@@ -28,7 +28,7 @@
 | 26 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 27 | [SpiderHeck](games/s/spiderheck.md) | 4.67 | 
 | 28 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
-| 29 | [Potion Permit](games/p/potion_permit.md) | 3.83 | 
+| 29 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
 | 30 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 31 | [Gloomhaven](games/g/gloomhaven.md) | 4.44 | 
 | 32 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 

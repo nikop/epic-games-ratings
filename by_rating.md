@@ -97,13 +97,13 @@
 | 95 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
 | 96 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 97 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 98 | [Superliminal](games/s/superliminal.md) | 4.77 | 
-| 99 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
-| 100 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.77 | 
-| 101 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 102 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 103 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 104 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 98 | [Cave Story+](games/c/cave_story+.md) | 4.77 | 
+| 99 | [Superliminal](games/s/superliminal.md) | 4.77 | 
+| 100 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
+| 101 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.77 | 
+| 102 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 103 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 104 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 105 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 106 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
 | 107 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
@@ -377,26 +377,26 @@
 | 375 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 376 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
 | 377 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 378 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 379 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 380 | [Hob](games/h/hob.md) | 4.57 | 
-| 381 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 382 | [Road 96](games/r/road_96.md) | 4.57 | 
-| 383 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
-| 384 | [Breathedge](games/b/breathedge.md) | 4.57 | 
-| 385 | [Horace](games/h/horace.md) | 4.57 | 
-| 386 | [Sable](games/s/sable.md) | 4.57 | 
-| 387 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
-| 388 | [Warpips](games/w/warpips.md) | 4.57 | 
-| 389 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
-| 390 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
-| 391 | [NORCO](games/n/norco.md) | 4.57 | 
-| 392 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 393 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 394 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 395 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
-| 396 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 397 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 378 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 379 | [Hob](games/h/hob.md) | 4.57 | 
+| 380 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 381 | [Road 96](games/r/road_96.md) | 4.57 | 
+| 382 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
+| 383 | [Breathedge](games/b/breathedge.md) | 4.57 | 
+| 384 | [Horace](games/h/horace.md) | 4.57 | 
+| 385 | [Sable](games/s/sable.md) | 4.57 | 
+| 386 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
+| 387 | [Warpips](games/w/warpips.md) | 4.57 | 
+| 388 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
+| 389 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
+| 390 | [NORCO](games/n/norco.md) | 4.57 | 
+| 391 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 392 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 393 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 394 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 395 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 396 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 397 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
 | 398 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 399 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.56 | 
 | 400 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
@@ -459,17 +459,17 @@
 | 457 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
 | 458 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 459 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 460 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 461 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
-| 462 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
-| 463 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
-| 464 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
-| 465 | [The Surge](games/t/the_surge.md) | 4.51 | 
-| 466 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
-| 467 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 468 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 469 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 470 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
+| 460 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 461 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 462 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
+| 463 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
+| 464 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 465 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
+| 466 | [The Surge](games/t/the_surge.md) | 4.51 | 
+| 467 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
+| 468 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 469 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 470 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
 | 471 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
 | 472 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 473 | [Aztez](games/a/aztez.md) | 4.50 | 
@@ -713,10 +713,10 @@
 | 711 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.18 | 
 | 712 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
 | 713 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
-| 714 | [Windbound](games/w/windbound.md) | 4.17 | 
-| 715 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 716 | [Hellpoint](games/h/hellpoint.md) | 4.17 | 
-| 717 | [Saturnalia](games/s/saturnalia.md) | 4.17 | 
+| 714 | [Saturnalia](games/s/saturnalia.md) | 4.18 | 
+| 715 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 716 | [Family Man](games/f/family_man.md) | 4.17 | 
+| 717 | [Hellpoint](games/h/hellpoint.md) | 4.17 | 
 | 718 | [Scavengers](games/s/scavengers.md) | 4.16 | 
 | 719 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
 | 720 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
@@ -770,7 +770,7 @@
 | 768 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
 | 769 | [Conarium](games/c/conarium.md) | 3.85 | 
 | 770 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
-| 771 | [Potion Permit](games/p/potion_permit.md) | 3.83 | 
+| 771 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
 | 772 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 773 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 774 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.76 | 

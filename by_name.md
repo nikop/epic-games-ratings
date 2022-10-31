@@ -36,7 +36,7 @@
 | 34 | [APE OUT](games/a/ape_out.md) | 4.68 | 
 | 35 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
 | 36 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
-| 37 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
+| 37 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 38 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 39 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 40 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
@@ -104,7 +104,7 @@
 | 102 | [CARRION](games/c/carrion.md) | 4.66 | 
 | 103 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
 | 104 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 105 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 105 | [Cave Story+](games/c/cave_story+.md) | 4.77 | 
 | 106 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 107 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 108 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
@@ -468,7 +468,7 @@
 | 466 | [Pine](games/p/pine.md) | 4.13 | 
 | 467 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.41 | 
 | 468 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
-| 469 | [Potion Permit](games/p/potion_permit.md) | 3.83 | 
+| 469 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
 | 470 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 471 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
 | 472 | [Prey](games/p/prey.md) | 4.61 | 
@@ -523,7 +523,7 @@
 | 521 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 522 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.52 | 
 | 523 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 524 | [Saturnalia](games/s/saturnalia.md) | 4.17 | 
+| 524 | [Saturnalia](games/s/saturnalia.md) | 4.18 | 
 | 525 | [Scavengers](games/s/scavengers.md) | 4.16 | 
 | 526 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 527 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
@@ -688,7 +688,7 @@
 | 686 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 687 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 688 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
-| 689 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 689 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
 | 690 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 691 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 692 | [Torchlight](games/t/torchlight.md) | 4.40 | 
