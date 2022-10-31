@@ -297,7 +297,7 @@
 | 295 | [Horace](games/h/horace.md) | 4.57 | 
 | 296 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 297 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 298 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 298 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 299 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 300 | [House Party](games/h/house_party.md) | 4.34 | 
 | 301 | [Hue](games/h/hue.md) | 4.55 | 
@@ -684,7 +684,7 @@
 | 682 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 683 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 684 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
-| 685 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.24 | 
+| 685 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.25 | 
 | 686 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 687 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 688 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 

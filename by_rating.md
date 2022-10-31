@@ -326,27 +326,27 @@
 | 324 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
 | 325 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 326 | [20XX](games/2/20xx.md) | 4.60 | 
-| 327 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 328 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
-| 329 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
-| 330 | [ABZU](games/a/abzu.md) | 4.60 | 
-| 331 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.60 | 
-| 332 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 333 | [RiME](games/r/rime.md) | 4.60 | 
-| 334 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
-| 335 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 336 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 337 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
-| 338 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
-| 339 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
-| 340 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.60 | 
-| 341 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 342 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 343 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 344 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 345 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 346 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 347 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 327 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 328 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 329 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
+| 330 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
+| 331 | [ABZU](games/a/abzu.md) | 4.60 | 
+| 332 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.60 | 
+| 333 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 334 | [RiME](games/r/rime.md) | 4.60 | 
+| 335 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
+| 336 | [Roguebook](games/r/roguebook.md) | 4.60 | 
+| 337 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
+| 338 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
+| 339 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
+| 340 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
+| 341 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.60 | 
+| 342 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 343 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 344 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 345 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 346 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 347 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 348 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 349 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 350 | [Card Shark](games/c/card_shark.md) | 4.59 | 
@@ -682,10 +682,10 @@
 | 680 | [The Fall](games/t/the_fall.md) | 4.25 | 
 | 681 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
 | 682 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.25 | 
-| 683 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 684 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
-| 685 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
-| 686 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.24 | 
+| 683 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.25 | 
+| 684 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
+| 685 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
+| 686 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
 | 687 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 688 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 689 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
