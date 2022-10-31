@@ -370,21 +370,21 @@
 | 368 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 369 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 370 | [Road 96](games/r/road_96.md) | 4.58 | 
-| 371 | [Breathedge](games/b/breathedge.md) | 4.58 | 
-| 372 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
-| 373 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 374 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 375 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
-| 376 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 377 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
-| 378 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 379 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 380 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 381 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
-| 382 | [Hob](games/h/hob.md) | 4.57 | 
-| 383 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 384 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 385 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
+| 371 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
+| 372 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 373 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 374 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
+| 375 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 376 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 377 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 378 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 379 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 380 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
+| 381 | [Hob](games/h/hob.md) | 4.57 | 
+| 382 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 383 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 384 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
+| 385 | [Breathedge](games/b/breathedge.md) | 4.57 | 
 | 386 | [Horace](games/h/horace.md) | 4.57 | 
 | 387 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
 | 388 | [Warpips](games/w/warpips.md) | 4.57 | 

@@ -91,7 +91,7 @@
 | 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 91 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 92 | [Breathedge](games/b/breathedge.md) | 4.58 | 
+| 92 | [Breathedge](games/b/breathedge.md) | 4.57 | 
 | 93 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
 | 94 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 95 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
