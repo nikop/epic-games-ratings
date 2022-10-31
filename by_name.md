@@ -50,7 +50,7 @@
 | 48 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 49 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 50 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 51 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.46 | 
+| 51 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.48 | 
 | 52 | [ATOM RPG](games/a/atom_rpg.md) | 4.33 | 
 | 53 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 54 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
@@ -291,7 +291,7 @@
 | 289 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 290 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 291 | [Hob](games/h/hob.md) | 4.57 | 
-| 292 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.23 | 
+| 292 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.19 | 
 | 293 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.98 | 
 | 294 | [Horace](games/h/horace.md) | 4.57 | 
 | 295 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -749,7 +749,7 @@
 | 747 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
 | 748 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
 | 749 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 750 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
+| 750 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 751 | [Weird West](games/w/weird_west.md) | 4.43 | 
 | 752 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
 | 753 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 

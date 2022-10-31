@@ -2,7 +2,7 @@
 | --- | ---- | ------ | 
 | 1 | [Saturnalia](games/s/saturnalia.md) | 4.11 | 
 | 2 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.53 | 
-| 3 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.23 | 
+| 3 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.19 | 
 | 4 | [STG Football](games/s/stg_football.md) | 4.81 | 
 | 5 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 6 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.13 | 
@@ -17,7 +17,7 @@
 | 15 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.24 | 
 | 16 | [Darkwood](games/d/darkwood.md) | 4.59 | 
 | 17 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 18 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.46 | 
+| 18 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.48 | 
 | 19 | [Outlast 2](games/o/outlast_2.md) | 4.77 | 
 | 20 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 21 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 

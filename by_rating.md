@@ -198,27 +198,27 @@
 | 196 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 197 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 198 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
-| 199 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
-| 200 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
-| 201 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
-| 202 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
-| 203 | [Rogue Lords](games/r/rogue_lords.md) | 4.69 | 
-| 204 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
-| 205 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 206 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 207 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 208 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 209 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 210 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 211 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 212 | [Overcooked](games/o/overcooked.md) | 4.68 | 
-| 213 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.68 | 
-| 214 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
-| 215 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
-| 216 | [SOMA](games/s/soma.md) | 4.68 | 
-| 217 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
-| 218 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
-| 219 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
+| 199 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
+| 200 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
+| 201 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
+| 202 | [Rogue Lords](games/r/rogue_lords.md) | 4.69 | 
+| 203 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
+| 204 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 205 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 206 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 207 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 208 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 209 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 210 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
+| 211 | [Overcooked](games/o/overcooked.md) | 4.68 | 
+| 212 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.68 | 
+| 213 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
+| 214 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
+| 215 | [SOMA](games/s/soma.md) | 4.68 | 
+| 216 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
+| 217 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
+| 218 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
+| 219 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 220 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 221 | [APE OUT](games/a/ape_out.md) | 4.68 | 
 | 222 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
@@ -496,29 +496,29 @@
 | 494 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 495 | [Observation](games/o/observation.md) | 4.48 | 
 | 496 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
-| 497 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 498 | [Redout 2](games/r/redout_2.md) | 4.48 | 
-| 499 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.48 | 
-| 500 | [The Medium](games/t/the_medium.md) | 4.48 | 
-| 501 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
-| 502 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 503 | [Paradigm](games/p/paradigm.md) | 4.47 | 
-| 504 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
-| 505 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.47 | 
-| 506 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
-| 507 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
-| 508 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.47 | 
-| 509 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 510 | [SMITE](games/s/smite.md) | 4.46 | 
-| 511 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
-| 512 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 513 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
-| 514 | [Little Inferno](games/l/little_inferno.md) | 4.46 | 
-| 515 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.46 | 
-| 516 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.46 | 
-| 517 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
-| 518 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
-| 519 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.46 | 
+| 497 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.48 | 
+| 498 | [GigaBash](games/g/gigabash.md) | 4.48 | 
+| 499 | [Redout 2](games/r/redout_2.md) | 4.48 | 
+| 500 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.48 | 
+| 501 | [The Medium](games/t/the_medium.md) | 4.48 | 
+| 502 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
+| 503 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 504 | [Paradigm](games/p/paradigm.md) | 4.47 | 
+| 505 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
+| 506 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.47 | 
+| 507 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
+| 508 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
+| 509 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.47 | 
+| 510 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 511 | [SMITE](games/s/smite.md) | 4.46 | 
+| 512 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
+| 513 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 514 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
+| 515 | [Little Inferno](games/l/little_inferno.md) | 4.46 | 
+| 516 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.46 | 
+| 517 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.46 | 
+| 518 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
+| 519 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 520 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 521 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 522 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
@@ -688,26 +688,26 @@
 | 686 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 687 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
 | 688 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
-| 689 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.23 | 
-| 690 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 691 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.22 | 
-| 692 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
-| 693 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 694 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
-| 695 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
-| 696 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.21 | 
-| 697 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
-| 698 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
-| 699 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 700 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 701 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 702 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 703 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
-| 704 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
-| 705 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 706 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
-| 707 | [Tharsis](games/t/tharsis.md) | 4.19 | 
-| 708 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
+| 689 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 690 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.22 | 
+| 691 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
+| 692 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 693 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
+| 694 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
+| 695 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.21 | 
+| 696 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
+| 697 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
+| 698 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 699 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 700 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 701 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 702 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
+| 703 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
+| 704 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 705 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
+| 706 | [Tharsis](games/t/tharsis.md) | 4.19 | 
+| 707 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
+| 708 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.19 | 
 | 709 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 710 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
 | 711 | [Windbound](games/w/windbound.md) | 4.17 | 
