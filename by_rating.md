@@ -324,28 +324,28 @@
 | 322 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
 | 323 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 324 | [20XX](games/2/20xx.md) | 4.60 | 
-| 325 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 326 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 327 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
-| 328 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
-| 329 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
-| 330 | [ABZU](games/a/abzu.md) | 4.60 | 
-| 331 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 332 | [RiME](games/r/rime.md) | 4.60 | 
-| 333 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
-| 334 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 335 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
-| 336 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
-| 337 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
-| 338 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.60 | 
-| 339 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 340 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 341 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 342 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
-| 343 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 344 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 345 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 346 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 325 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 326 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
+| 327 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
+| 328 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
+| 329 | [ABZU](games/a/abzu.md) | 4.60 | 
+| 330 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 331 | [RiME](games/r/rime.md) | 4.60 | 
+| 332 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
+| 333 | [Roguebook](games/r/roguebook.md) | 4.60 | 
+| 334 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
+| 335 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
+| 336 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
+| 337 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.60 | 
+| 338 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 339 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 340 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 341 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
+| 342 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 343 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 344 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 345 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 346 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 347 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 348 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 349 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
@@ -382,21 +382,21 @@
 | 380 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 381 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
 | 382 | [Hob](games/h/hob.md) | 4.57 | 
-| 383 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
-| 384 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 385 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 386 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
-| 387 | [Horace](games/h/horace.md) | 4.57 | 
-| 388 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
-| 389 | [Warpips](games/w/warpips.md) | 4.57 | 
-| 390 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
-| 391 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.57 | 
-| 392 | [NORCO](games/n/norco.md) | 4.57 | 
-| 393 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 394 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 395 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
-| 396 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 397 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 383 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 384 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 385 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
+| 386 | [Horace](games/h/horace.md) | 4.57 | 
+| 387 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
+| 388 | [Warpips](games/w/warpips.md) | 4.57 | 
+| 389 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
+| 390 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.57 | 
+| 391 | [NORCO](games/n/norco.md) | 4.57 | 
+| 392 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 393 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 394 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 395 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 396 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 397 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.56 | 
 | 398 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 399 | [Sable](games/s/sable.md) | 4.56 | 
 | 400 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 

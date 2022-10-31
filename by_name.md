@@ -296,7 +296,7 @@
 | 294 | [Horace](games/h/horace.md) | 4.57 | 
 | 295 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 296 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 297 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 297 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 298 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 299 | [House Party](games/h/house_party.md) | 4.34 | 
 | 300 | [Hue](games/h/hue.md) | 4.55 | 
@@ -739,7 +739,7 @@
 | 737 | [Warface](games/w/warface.md) | 3.95 | 
 | 738 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 739 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 740 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
+| 740 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.56 | 
 | 741 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 742 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.35 | 
 | 743 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
