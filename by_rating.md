@@ -488,11 +488,11 @@
 | 486 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
 | 487 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 488 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
-| 489 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 490 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
-| 491 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
-| 492 | [Death Coming](games/d/death_coming.md) | 4.48 | 
-| 493 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
+| 489 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 490 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 491 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
+| 492 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
+| 493 | [Death Coming](games/d/death_coming.md) | 4.48 | 
 | 494 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 495 | [Observation](games/o/observation.md) | 4.48 | 
 | 496 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
@@ -544,17 +544,17 @@
 | 542 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 543 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 544 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 545 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
-| 546 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
-| 547 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
-| 548 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 549 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
-| 550 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.43 | 
-| 551 | [Weird West](games/w/weird_west.md) | 4.43 | 
-| 552 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 553 | [Runbow](games/r/runbow.md) | 4.43 | 
-| 554 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 555 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 545 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
+| 546 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
+| 547 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 548 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
+| 549 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.43 | 
+| 550 | [Weird West](games/w/weird_west.md) | 4.43 | 
+| 551 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
+| 552 | [Runbow](games/r/runbow.md) | 4.43 | 
+| 553 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 554 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 555 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 556 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 557 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 558 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
@@ -762,7 +762,7 @@
 | 760 | [Warface](games/w/warface.md) | 3.95 | 
 | 761 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 762 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.95 | 
-| 763 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
+| 763 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 764 | [Patron](games/p/patron.md) | 3.89 | 
 | 765 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 766 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 

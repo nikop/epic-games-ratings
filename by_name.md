@@ -227,7 +227,7 @@
 | 225 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.05 | 
 | 226 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 227 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 228 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
+| 228 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 229 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
 | 230 | [Fez](games/f/fez.md) | 4.73 | 
 | 231 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.64 | 
@@ -439,7 +439,7 @@
 | 437 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 438 | [Outlast](games/o/outlast.md) | 4.74 | 
 | 439 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
-| 440 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
+| 440 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 441 | [Outward](games/o/outward.md) | 4.54 | 
 | 442 | [Overcooked](games/o/overcooked.md) | 4.68 | 
 | 443 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
@@ -566,7 +566,7 @@
 | 564 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 565 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
 | 566 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 567 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
+| 567 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 568 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.48 | 
 | 569 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.70 | 
 | 570 | [SpiderHeck](games/s/spiderheck.md) | 4.65 | 
