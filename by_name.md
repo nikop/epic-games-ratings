@@ -10,7 +10,7 @@
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.60 | 
-| 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.43 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
@@ -475,7 +475,7 @@
 | 473 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 474 | [Quake](games/q/quake.md) | 4.82 | 
 | 475 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 476 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 476 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 477 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 478 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 479 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
@@ -522,7 +522,7 @@
 | 520 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
 | 521 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.52 | 
 | 522 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 523 | [Saturnalia](games/s/saturnalia.md) | 4.11 | 
+| 523 | [Saturnalia](games/s/saturnalia.md) | 4.12 | 
 | 524 | [Scavengers](games/s/scavengers.md) | 4.16 | 
 | 525 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 526 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
@@ -695,7 +695,7 @@
 | 693 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 694 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
 | 695 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 696 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 696 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 697 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.47 | 
 | 698 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
 | 699 | [Townscaper](games/t/townscaper.md) | 4.70 | 
@@ -711,7 +711,7 @@
 | 709 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 710 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 711 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
-| 712 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
+| 712 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.60 | 
 | 713 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
 | 714 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 715 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 

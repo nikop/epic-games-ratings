@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Saturnalia](games/s/saturnalia.md) | 4.11 | 
+| 1 | [Saturnalia](games/s/saturnalia.md) | 4.12 | 
 | 2 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.53 | 
 | 3 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.19 | 
 | 4 | [STG Football](games/s/stg_football.md) | 4.81 | 
@@ -24,7 +24,7 @@
 | 22 | [Outlast](games/o/outlast.md) | 4.74 | 
 | 23 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
 | 24 | [Runbow](games/r/runbow.md) | 4.43 | 
-| 25 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 25 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 26 | [SpiderHeck](games/s/spiderheck.md) | 4.65 | 
 | 27 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 28 | [Potion Permit](games/p/potion_permit.md) | 3.83 | 
