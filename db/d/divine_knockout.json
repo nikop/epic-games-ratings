@@ -1,10 +1,10 @@
 {
   "ID": "1200aeb2f87c48349594d96554e2833d",
   "Name": "Divine Knockout",
-  "Rating": 4.62,
+  "Rating": 4.63,
   "NumberOfRatings": 60,
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2022-10-30T22:31:21.8650126+00:00",
+  "LastChanged": "2022-10-31T18:31:58.5710654+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:52.9902409+00:00",
@@ -224,6 +224,11 @@
     {
       "Time": "2022-10-30T22:31:21.8650128+00:00",
       "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-31T18:31:58.5710654+00:00",
+      "Rating": 4.63,
       "NumberOfRatings": null
     }
   ],

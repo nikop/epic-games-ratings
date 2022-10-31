@@ -5,7 +5,7 @@
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.39 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.72 | 
+| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
@@ -180,7 +180,7 @@
 | 178 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 179 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 180 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
+| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
 | 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 184 | [DOOM 3](games/d/doom_3.md) | 4.67 | 
@@ -231,12 +231,12 @@
 | 229 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 230 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
 | 231 | [Fez](games/f/fez.md) | 4.73 | 
-| 232 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.64 | 
+| 232 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.65 | 
 | 233 | [Figment](games/f/figment.md) | 4.42 | 
 | 234 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 235 | [Firework](games/f/firework.md) | 4.87 | 
 | 236 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
-| 237 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
+| 237 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 238 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 239 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 240 | [For The King](games/f/for_the_king.md) | 4.69 | 
@@ -360,7 +360,7 @@
 | 358 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 359 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 360 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 361 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.00 | 
+| 361 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.01 | 
 | 362 | [Limbo](games/l/limbo.md) | 4.63 | 
 | 363 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.40 | 
 | 364 | [Little Inferno](games/l/little_inferno.md) | 4.46 | 
@@ -572,7 +572,7 @@
 | 570 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.70 | 
 | 571 | [SpiderHeck](games/s/spiderheck.md) | 4.67 | 
 | 572 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 573 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
+| 573 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 574 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.90 | 
 | 575 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
 | 576 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
@@ -634,7 +634,7 @@
 | 632 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 633 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 634 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
-| 635 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
+| 635 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 636 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
 | 637 | [The Fall](games/t/the_fall.md) | 4.25 | 
 | 638 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
@@ -643,7 +643,7 @@
 | 641 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 642 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
 | 643 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
-| 644 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
+| 644 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.46 | 
 | 645 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
 | 646 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 
 | 647 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
