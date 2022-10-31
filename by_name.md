@@ -320,7 +320,7 @@
 | 318 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 319 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 320 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
-| 321 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 321 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
 | 322 | [Journey](games/j/journey.md) | 4.74 | 
 | 323 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 324 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
