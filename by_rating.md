@@ -401,13 +401,13 @@
 | 399 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.56 | 
 | 400 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 401 | [Isonzo](games/i/isonzo.md) | 4.56 | 
-| 402 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
-| 403 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
-| 404 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 405 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 406 | [Hue](games/h/hue.md) | 4.55 | 
-| 407 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 408 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
+| 402 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
+| 403 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
+| 404 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
+| 405 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 406 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 407 | [Hue](games/h/hue.md) | 4.55 | 
+| 408 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 409 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
 | 410 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 411 | [Souldiers](games/s/souldiers.md) | 4.55 | 
@@ -577,20 +577,20 @@
 | 575 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
 | 576 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 577 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
-| 578 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 579 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
-| 580 | [Torchlight](games/t/torchlight.md) | 4.40 | 
-| 581 | [Encased](games/e/encased.md) | 4.40 | 
-| 582 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 583 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
-| 584 | [Hammerting](games/h/hammerting.md) | 4.40 | 
-| 585 | [Parkitect](games/p/parkitect.md) | 4.40 | 
-| 586 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.40 | 
-| 587 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 588 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
-| 589 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 590 | [Core](games/c/core.md) | 4.39 | 
-| 591 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
+| 578 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
+| 579 | [Torchlight](games/t/torchlight.md) | 4.40 | 
+| 580 | [Encased](games/e/encased.md) | 4.40 | 
+| 581 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 582 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
+| 583 | [Hammerting](games/h/hammerting.md) | 4.40 | 
+| 584 | [Parkitect](games/p/parkitect.md) | 4.40 | 
+| 585 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.40 | 
+| 586 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 587 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
+| 588 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 589 | [Core](games/c/core.md) | 4.39 | 
+| 590 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
+| 591 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
 | 592 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
 | 593 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
 | 594 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.39 | 
@@ -706,15 +706,15 @@
 | 704 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.20 | 
 | 705 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
 | 706 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 707 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
-| 708 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
-| 709 | [Space Punks](games/s/space_punks.md) | 4.18 | 
-| 710 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
-| 711 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.18 | 
-| 712 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
-| 713 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
-| 714 | [Saturnalia](games/s/saturnalia.md) | 4.18 | 
-| 715 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 707 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
+| 708 | [Space Punks](games/s/space_punks.md) | 4.18 | 
+| 709 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 710 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.18 | 
+| 711 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
+| 712 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
+| 713 | [Saturnalia](games/s/saturnalia.md) | 4.18 | 
+| 714 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 715 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.17 | 
 | 716 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 717 | [Hellpoint](games/h/hellpoint.md) | 4.17 | 
 | 718 | [Scavengers](games/s/scavengers.md) | 4.16 | 

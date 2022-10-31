@@ -16,7 +16,7 @@
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.19 | 
+| 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.17 | 
 | 18 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
@@ -392,7 +392,7 @@
 | 390 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 391 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
 | 392 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
-| 393 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
+| 393 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 394 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 395 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 396 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
@@ -773,6 +773,6 @@
 | 771 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 772 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 773 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 774 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 774 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
 | 775 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.61 | 
 | 776 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
