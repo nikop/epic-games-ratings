@@ -155,10 +155,10 @@
 | 153 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
 | 154 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 155 | [Days Gone](games/d/days_gone.md) | 4.70 | 
-| 156 | [Dead Age 2](games/d/dead_age_2.md) | 4.05 | 
+| 156 | [Dead Age 2](games/d/dead_age_2.md) | 4.09 | 
 | 157 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 158 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
-| 159 | [Death Coming](games/d/death_coming.md) | 4.48 | 
+| 159 | [Death Coming](games/d/death_coming.md) | 4.47 | 
 | 160 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 161 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 162 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
@@ -386,7 +386,7 @@
 | 384 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 385 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 386 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 387 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.41 | 
+| 387 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
 | 388 | [Minit](games/m/minit.md) | 4.53 | 
 | 389 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 390 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
@@ -520,7 +520,7 @@
 | 518 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 519 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
 | 520 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 521 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
+| 521 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 522 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.52 | 
 | 523 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 524 | [Saturnalia](games/s/saturnalia.md) | 4.17 | 
@@ -582,14 +582,14 @@
 | 580 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 581 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 582 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
-| 583 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 583 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 584 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 585 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 586 | [STG Football](games/s/stg_football.md) | 4.81 | 
 | 587 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
 | 588 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
 | 589 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 590 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
+| 590 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
 | 591 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 592 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
 | 593 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
