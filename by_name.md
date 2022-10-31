@@ -20,7 +20,7 @@
 | 18 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
-| 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
 | 23 | [Among Trees](games/a/among_trees.md) | 4.36 | 
 | 24 | [Among Us](games/a/among_us.md) | 4.58 | 
@@ -369,7 +369,7 @@
 | 367 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
 | 368 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 369 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
-| 370 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 370 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 371 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
 | 372 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 373 | [Mago](games/m/mago.md) | 4.86 | 
@@ -771,7 +771,7 @@
 | 769 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 770 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 771 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 772 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
+| 772 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 773 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 774 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.59 | 
 | 775 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
