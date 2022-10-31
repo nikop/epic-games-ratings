@@ -36,7 +36,7 @@
 | 34 | [APE OUT](games/a/ape_out.md) | 4.68 | 
 | 35 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
 | 36 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
-| 37 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 37 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
 | 38 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 39 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 40 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
@@ -217,7 +217,7 @@
 | 215 | [Far Cry](games/f/far_cry.md) | 4.35 | 
 | 216 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
 | 217 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
-| 218 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 218 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 219 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 220 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 221 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
@@ -476,7 +476,7 @@
 | 474 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 475 | [Quake](games/q/quake.md) | 4.82 | 
 | 476 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 477 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 477 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 478 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 479 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 480 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
@@ -502,7 +502,7 @@
 | 500 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 501 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 502 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 503 | [Road 96](games/r/road_96.md) | 4.58 | 
+| 503 | [Road 96](games/r/road_96.md) | 4.57 | 
 | 504 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 505 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 506 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
@@ -577,7 +577,7 @@
 | 575 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
 | 576 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
 | 577 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
-| 578 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
+| 578 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 579 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 580 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 581 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
@@ -599,7 +599,7 @@
 | 597 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 598 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 599 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
-| 600 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 600 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 601 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
 | 602 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.81 | 
 | 603 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
@@ -631,7 +631,7 @@
 | 629 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 630 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 631 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 632 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
+| 632 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 633 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 634 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
 | 635 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 

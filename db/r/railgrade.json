@@ -1,10 +1,10 @@
 {
   "ID": "7277899e0d3241ea81ee56943fd31567",
   "Name": "RAILGRADE",
-  "Rating": 4.53,
+  "Rating": 4.54,
   "FirstSeen": "2022-09-29T18:01:57.1676877+00:00",
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
-  "LastChanged": "2022-10-31T05:31:21.125079+00:00",
+  "LastChanged": "2022-10-31T15:31:54.2066599+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-30T20:32:34.1590884+00:00",
@@ -290,6 +290,11 @@
       "Time": "2022-10-31T05:31:21.1250794+00:00",
       "Rating": 4.53,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-10-31T15:31:54.2066601+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -315,7 +320,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 35
+      "Count": 37
     },
     {
       "Text": "This game has Unique Visuals",
