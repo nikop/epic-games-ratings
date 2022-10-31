@@ -183,7 +183,7 @@
 | 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
 | 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
-| 184 | [DOOM 3](games/d/doom_3.md) | 4.67 | 
+| 184 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
 | 185 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 186 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 187 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
@@ -679,7 +679,7 @@
 | 677 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 678 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 679 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 680 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
+| 680 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 681 | [Timberborn](games/t/timberborn.md) | 4.70 | 
 | 682 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 683 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
@@ -711,7 +711,7 @@
 | 709 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 710 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 711 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 712 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
+| 712 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 713 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.60 | 
 | 714 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
 | 715 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
