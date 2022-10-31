@@ -2,10 +2,10 @@
 | --- | ---- | ------ | 
 | 1 | [Saturnalia](games/s/saturnalia.md) | 4.12 | 
 | 2 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.53 | 
-| 3 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.19 | 
+| 3 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.23 | 
 | 4 | [STG Football](games/s/stg_football.md) | 4.81 | 
 | 5 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
-| 6 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.13 | 
+| 6 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.17 | 
 | 7 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 8 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.47 | 
 | 9 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.58 | 
@@ -22,7 +22,7 @@
 | 20 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 21 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
 | 22 | [Outlast](games/o/outlast.md) | 4.74 | 
-| 23 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
+| 23 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.25 | 
 | 24 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 25 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 26 | [SpiderHeck](games/s/spiderheck.md) | 4.65 | 

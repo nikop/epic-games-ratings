@@ -110,7 +110,7 @@
 | 108 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 109 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
 | 110 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 111 | [Chorus](games/c/chorus.md) | 4.44 | 
+| 111 | [Chorus](games/c/chorus.md) | 4.43 | 
 | 112 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.95 | 
 | 113 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 114 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
@@ -190,7 +190,7 @@
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
+| 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.25 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 194 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.46 | 
@@ -291,7 +291,7 @@
 | 289 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 290 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 291 | [Hob](games/h/hob.md) | 4.57 | 
-| 292 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.19 | 
+| 292 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.23 | 
 | 293 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 294 | [Horace](games/h/horace.md) | 4.57 | 
 | 295 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -411,7 +411,7 @@
 | 409 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 410 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
 | 411 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
-| 412 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.13 | 
+| 412 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.17 | 
 | 413 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.59 | 
 | 414 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 415 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
