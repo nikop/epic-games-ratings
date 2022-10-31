@@ -44,7 +44,7 @@
 | 42 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
 | 43 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 44 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 45 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.49 | 
+| 45 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 46 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 47 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 48 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
@@ -283,7 +283,7 @@
 | 281 | [Haven](games/h/haven.md) | 4.74 | 
 | 282 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 283 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.68 | 
-| 284 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 284 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 285 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
 | 286 | [Hellpoint](games/h/hellpoint.md) | 4.17 | 
 | 287 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
@@ -412,7 +412,7 @@
 | 410 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 411 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
 | 412 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
-| 413 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.17 | 
+| 413 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.20 | 
 | 414 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
 | 415 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 416 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -538,7 +538,7 @@
 | 536 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 537 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.77 | 
 | 538 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 539 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
+| 539 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
 | 540 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
 | 541 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 542 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.46 | 

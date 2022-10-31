@@ -6,7 +6,7 @@
 | 4 | [STG Football](games/s/stg_football.md) | 4.81 | 
 | 5 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.70 | 
 | 6 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
-| 7 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.17 | 
+| 7 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.20 | 
 | 8 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 9 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.47 | 
 | 10 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.58 | 
