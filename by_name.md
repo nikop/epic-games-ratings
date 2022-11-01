@@ -215,7 +215,7 @@
 | 213 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.75 | 
 | 214 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 215 | [Far Cry](games/f/far_cry.md) | 4.37 | 
-| 216 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
+| 216 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 217 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 218 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 219 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
@@ -424,7 +424,7 @@
 | 422 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 423 | [Obduction](games/o/obduction.md) | 4.13 | 
 | 424 | [Observation](games/o/observation.md) | 4.48 | 
-| 425 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.36 | 
+| 425 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 
 | 426 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 
 | 427 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 428 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.46 | 
@@ -713,7 +713,7 @@
 | 711 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 712 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 713 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.60 | 
-| 714 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
+| 714 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.22 | 
 | 715 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 716 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 717 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.27 | 

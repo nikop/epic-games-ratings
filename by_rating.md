@@ -598,29 +598,29 @@
 | 596 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 597 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
 | 598 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.39 | 
-| 599 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
-| 600 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
-| 601 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 602 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
-| 603 | [Scrapnaut](games/s/scrapnaut.md) | 4.38 | 
-| 604 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
-| 605 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.38 | 
-| 606 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 607 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
-| 608 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 609 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
-| 610 | [Far Cry](games/f/far_cry.md) | 4.37 | 
-| 611 | [War Mongrels](games/w/war_mongrels.md) | 4.37 | 
-| 612 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
-| 613 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 614 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 615 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 616 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
-| 617 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
-| 618 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 619 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 620 | [Lamentum](games/l/lamentum.md) | 4.36 | 
-| 621 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.36 | 
+| 599 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 
+| 600 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
+| 601 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
+| 602 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 603 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
+| 604 | [Scrapnaut](games/s/scrapnaut.md) | 4.38 | 
+| 605 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
+| 606 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.38 | 
+| 607 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 608 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
+| 609 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 610 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
+| 611 | [Far Cry](games/f/far_cry.md) | 4.37 | 
+| 612 | [War Mongrels](games/w/war_mongrels.md) | 4.37 | 
+| 613 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
+| 614 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 615 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 616 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 617 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
+| 618 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
+| 619 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 620 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 621 | [Lamentum](games/l/lamentum.md) | 4.36 | 
 | 622 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.36 | 
 | 623 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 624 | [ELEX](games/e/elex.md) | 4.35 | 
@@ -682,16 +682,16 @@
 | 680 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 681 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 682 | [The Fall](games/t/the_fall.md) | 4.25 | 
-| 683 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
-| 684 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
-| 685 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 686 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
-| 687 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
-| 688 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
-| 689 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 690 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
-| 691 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
-| 692 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 683 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
+| 684 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
+| 685 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
+| 686 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
+| 687 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
+| 688 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 689 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
+| 690 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
+| 691 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 692 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.22 | 
 | 693 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
 | 694 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 695 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
@@ -722,12 +722,12 @@
 | 720 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
 | 721 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 722 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
-| 723 | [Pine](games/p/pine.md) | 4.13 | 
-| 724 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
-| 725 | [Obduction](games/o/obduction.md) | 4.13 | 
-| 726 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
-| 727 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
-| 728 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.13 | 
+| 723 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
+| 724 | [Pine](games/p/pine.md) | 4.13 | 
+| 725 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
+| 726 | [Obduction](games/o/obduction.md) | 4.13 | 
+| 727 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
+| 728 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
 | 729 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 730 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 731 | [Relicta](games/r/relicta.md) | 4.11 | 
