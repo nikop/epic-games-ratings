@@ -16,7 +16,7 @@
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.17 | 
+| 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
 | 18 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
@@ -559,7 +559,7 @@
 | 557 | [SOMA](games/s/soma.md) | 4.67 | 
 | 558 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 559 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
-| 560 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
+| 560 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 561 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 562 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 563 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
@@ -774,5 +774,5 @@
 | 772 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 773 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 774 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
-| 775 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.61 | 
+| 775 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.62 | 
 | 776 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 

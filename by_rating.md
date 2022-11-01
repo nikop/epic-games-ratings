@@ -76,12 +76,12 @@
 | 74 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 75 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 76 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 77 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
-| 78 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 79 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 80 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 81 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 82 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 77 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 78 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
+| 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 80 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 81 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 82 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 83 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 84 | [Diabotical](games/d/diabotical.md) | 4.79 | 
 | 85 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
@@ -299,22 +299,22 @@
 | 297 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 298 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 299 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
-| 300 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 301 | [STG Football](games/s/stg_football.md) | 4.62 | 
-| 302 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 303 | [Prey](games/p/prey.md) | 4.61 | 
-| 304 | [Warframe](games/w/warframe.md) | 4.61 | 
-| 305 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 306 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 307 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 308 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 309 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 310 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.61 | 
-| 311 | [20XX](games/2/20xx.md) | 4.61 | 
-| 312 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
-| 313 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
-| 314 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
-| 315 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.61 | 
+| 300 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.62 | 
+| 301 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 302 | [STG Football](games/s/stg_football.md) | 4.62 | 
+| 303 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 304 | [Prey](games/p/prey.md) | 4.61 | 
+| 305 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 306 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 307 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 308 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 309 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 310 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 311 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.61 | 
+| 312 | [20XX](games/2/20xx.md) | 4.61 | 
+| 313 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
+| 314 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
+| 315 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
 | 316 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 317 | [Control](games/c/control.md) | 4.60 | 
 | 318 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
@@ -708,14 +708,14 @@
 | 706 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
 | 707 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 708 | [Space Punks](games/s/space_punks.md) | 4.18 | 
-| 709 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
-| 710 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.18 | 
-| 711 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
-| 712 | [Saturnalia](games/s/saturnalia.md) | 4.18 | 
-| 713 | [Windbound](games/w/windbound.md) | 4.17 | 
-| 714 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 715 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.17 | 
-| 716 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.17 | 
+| 709 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
+| 710 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
+| 711 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.18 | 
+| 712 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
+| 713 | [Saturnalia](games/s/saturnalia.md) | 4.18 | 
+| 714 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 715 | [Scavengers](games/s/scavengers.md) | 4.17 | 
+| 716 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.17 | 
 | 717 | [Gone Home](games/g/gone_home.md) | 4.17 | 
 | 718 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 719 | [Hellpoint](games/h/hellpoint.md) | 4.17 | 
