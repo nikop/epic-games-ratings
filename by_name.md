@@ -87,7 +87,7 @@
 | 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
-| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
+| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.80 | 
 | 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 91 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -569,7 +569,7 @@
 | 567 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
 | 568 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 569 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
-| 570 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 570 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
 | 571 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 572 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.48 | 
 | 573 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.70 | 
@@ -618,7 +618,7 @@
 | 616 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 617 | [Tacoma](games/t/tacoma.md) | 4.30 | 
 | 618 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
-| 619 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.67 | 
+| 619 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
 | 620 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 621 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
 | 622 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
@@ -697,7 +697,7 @@
 | 695 | [Torchlight](games/t/torchlight.md) | 4.40 | 
 | 696 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 697 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 698 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
+| 698 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
 | 699 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 700 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 701 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.47 | 
@@ -745,7 +745,7 @@
 | 743 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 744 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
 | 745 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 746 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.36 | 
+| 746 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.35 | 
 | 747 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
 | 748 | [Warpips](games/w/warpips.md) | 4.57 | 
 | 749 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 

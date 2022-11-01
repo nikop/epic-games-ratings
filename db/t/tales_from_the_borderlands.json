@@ -1,11 +1,11 @@
 {
   "ID": "da0fa474b1c04bfe8ee6c1f980285214",
   "Name": "Tales from the Borderlands",
-  "Rating": 4.67,
+  "Rating": 4.68,
   "NumberOfRatings": 31,
   "FirstSeen": "2022-07-22T20:21:03.1733272+00:00",
   "FirstSeenRating": "2022-08-28T13:31:01.8966538+00:00",
-  "LastChanged": "2022-10-30T19:00:54.3532933+00:00",
+  "LastChanged": "2022-11-01T19:01:01.0491765+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-28T13:31:01.896654+00:00",
@@ -135,6 +135,11 @@
     {
       "Time": "2022-10-30T19:00:54.3532936+00:00",
       "Rating": 4.67,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-01T19:01:01.0491766+00:00",
+      "Rating": 4.68,
       "NumberOfRatings": null
     }
   ],
