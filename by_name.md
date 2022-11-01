@@ -524,7 +524,7 @@
 | 522 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.52 | 
 | 523 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 524 | [Saturnalia](games/s/saturnalia.md) | 4.18 | 
-| 525 | [Scavengers](games/s/scavengers.md) | 4.16 | 
+| 525 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 526 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 527 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
 | 528 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
@@ -546,7 +546,7 @@
 | 544 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 545 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 546 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.54 | 
-| 547 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.68 | 
+| 547 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 548 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 549 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 550 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 

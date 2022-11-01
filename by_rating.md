@@ -196,22 +196,22 @@
 | 194 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 195 | [Barony](games/b/barony.md) | 4.69 | 
 | 196 | [Overcooked](games/o/overcooked.md) | 4.69 | 
-| 197 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 198 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 199 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
-| 200 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
-| 201 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
-| 202 | [Rogue Lords](games/r/rogue_lords.md) | 4.69 | 
-| 203 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
-| 204 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 205 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 206 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 207 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 208 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 209 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 210 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 211 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 212 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.68 | 
+| 197 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 198 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 199 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 200 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
+| 201 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
+| 202 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
+| 203 | [Rogue Lords](games/r/rogue_lords.md) | 4.69 | 
+| 204 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
+| 205 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 206 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 207 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 208 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 209 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 210 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 211 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 212 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
 | 213 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 214 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
 | 215 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
@@ -714,11 +714,11 @@
 | 712 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
 | 713 | [Saturnalia](games/s/saturnalia.md) | 4.18 | 
 | 714 | [Windbound](games/w/windbound.md) | 4.17 | 
-| 715 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.17 | 
-| 716 | [Gone Home](games/g/gone_home.md) | 4.17 | 
-| 717 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 718 | [Hellpoint](games/h/hellpoint.md) | 4.17 | 
-| 719 | [Scavengers](games/s/scavengers.md) | 4.16 | 
+| 715 | [Scavengers](games/s/scavengers.md) | 4.17 | 
+| 716 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.17 | 
+| 717 | [Gone Home](games/g/gone_home.md) | 4.17 | 
+| 718 | [Family Man](games/f/family_man.md) | 4.17 | 
+| 719 | [Hellpoint](games/h/hellpoint.md) | 4.17 | 
 | 720 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
 | 721 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 722 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
