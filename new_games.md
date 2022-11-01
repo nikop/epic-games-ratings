@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [Saturnalia](games/s/saturnalia.md) | 4.18 | 
-| 2 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.54 | 
+| 2 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.55 | 
 | 3 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.31 | 
 | 4 | [STG Football](games/s/stg_football.md) | 4.62 | 
 | 5 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
@@ -26,7 +26,7 @@
 | 24 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
 | 25 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 26 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 27 | [SpiderHeck](games/s/spiderheck.md) | 4.67 | 
+| 27 | [SpiderHeck](games/s/spiderheck.md) | 4.65 | 
 | 28 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 29 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 
 | 30 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 

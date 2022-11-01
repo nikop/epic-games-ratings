@@ -1,10 +1,10 @@
 {
   "ID": "90487cf458a143ff921d3ca365ad4fd6",
   "Name": "Video Horror Society",
-  "Rating": 4.27,
+  "Rating": 4.26,
   "NumberOfRatings": 559,
   "FirstSeen": "2022-07-22T20:25:40.6568691+00:00",
-  "LastChanged": "2022-09-23T11:01:27.2455673+00:00",
+  "LastChanged": "2022-11-01T16:32:16.3823746+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:40.6568694+00:00",
@@ -960,12 +960,17 @@
       "Time": "2022-09-23T11:01:27.2455674+00:00",
       "Rating": 4.27,
       "NumberOfRatings": 559
+    },
+    {
+      "Time": "2022-11-01T16:32:16.3823748+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 280
+      "Count": 281
     },
     {
       "Text": "This game is Extremely Fun",
