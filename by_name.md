@@ -151,7 +151,7 @@
 | 149 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
 | 151 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 152 | [Darkwood](games/d/darkwood.md) | 4.59 | 
+| 152 | [Darkwood](games/d/darkwood.md) | 4.60 | 
 | 153 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 154 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 155 | [Days Gone](games/d/days_gone.md) | 4.70 | 
@@ -427,7 +427,7 @@
 | 425 | [Observation](games/o/observation.md) | 4.48 | 
 | 426 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 
 | 427 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 
-| 428 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 428 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.71 | 
 | 429 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.46 | 
 | 430 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
 | 431 | [Old World](games/o/old_world.md) | 4.64 | 
@@ -632,7 +632,7 @@
 | 630 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 631 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 632 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 633 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 633 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 634 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 635 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 636 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
