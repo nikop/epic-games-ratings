@@ -84,7 +84,7 @@
 | 82 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 83 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.31 | 
 | 84 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
-| 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
+| 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.18 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.36 | 
 | 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
@@ -101,7 +101,7 @@
 | 99 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 100 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
 | 101 | [Card Shark](games/c/card_shark.md) | 4.59 | 
-| 102 | [CARRION](games/c/carrion.md) | 4.66 | 
+| 102 | [CARRION](games/c/carrion.md) | 4.67 | 
 | 103 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
 | 104 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 105 | [Cave Story+](games/c/cave_story+.md) | 4.77 | 
@@ -613,7 +613,7 @@
 | 611 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
 | 612 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
 | 613 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 614 | [Tacoma](games/t/tacoma.md) | 4.31 | 
+| 614 | [Tacoma](games/t/tacoma.md) | 4.30 | 
 | 615 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
 | 616 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.67 | 
 | 617 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
