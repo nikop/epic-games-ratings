@@ -149,7 +149,7 @@
 | 147 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 148 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 149 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
+| 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
 | 151 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 152 | [Darkwood](games/d/darkwood.md) | 4.59 | 
 | 153 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
@@ -193,7 +193,7 @@
 | 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
-| 194 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.46 | 
+| 194 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.47 | 
 | 195 | [ELEX](games/e/elex.md) | 4.35 | 
 | 196 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
 | 197 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
@@ -377,7 +377,7 @@
 | 375 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 376 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 377 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.08 | 
-| 378 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 378 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 379 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 380 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 381 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
@@ -646,7 +646,7 @@
 | 644 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
 | 645 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.46 | 
 | 646 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
-| 647 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 
+| 647 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
 | 648 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
 | 649 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 650 | [The Medium](games/t/the_medium.md) | 4.50 | 
@@ -695,7 +695,7 @@
 | 693 | [Torchlight](games/t/torchlight.md) | 4.40 | 
 | 694 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 695 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 696 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
+| 696 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
 | 697 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 698 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 699 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.47 | 
@@ -759,7 +759,7 @@
 | 757 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
 | 758 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 759 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
-| 760 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
+| 760 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 761 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 762 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 763 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.62 | 
