@@ -584,28 +584,28 @@
 | 582 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
 | 583 | [Torchlight](games/t/torchlight.md) | 4.40 | 
 | 584 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.40 | 
-| 585 | [Encased](games/e/encased.md) | 4.40 | 
-| 586 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 587 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
-| 588 | [Hammerting](games/h/hammerting.md) | 4.40 | 
-| 589 | [Parkitect](games/p/parkitect.md) | 4.40 | 
-| 590 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 591 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
-| 592 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 593 | [Core](games/c/core.md) | 4.39 | 
-| 594 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
-| 595 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
-| 596 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
-| 597 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
-| 598 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.39 | 
-| 599 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
-| 600 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 601 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.39 | 
-| 602 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 
-| 603 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
-| 604 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
-| 605 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 606 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
+| 585 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 586 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
+| 587 | [Hammerting](games/h/hammerting.md) | 4.40 | 
+| 588 | [Parkitect](games/p/parkitect.md) | 4.40 | 
+| 589 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 590 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
+| 591 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 592 | [Core](games/c/core.md) | 4.39 | 
+| 593 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
+| 594 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
+| 595 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
+| 596 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
+| 597 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.39 | 
+| 598 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
+| 599 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 600 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.39 | 
+| 601 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 
+| 602 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
+| 603 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
+| 604 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 605 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
+| 606 | [Encased](games/e/encased.md) | 4.38 | 
 | 607 | [Scrapnaut](games/s/scrapnaut.md) | 4.38 | 
 | 608 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 609 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.38 | 
