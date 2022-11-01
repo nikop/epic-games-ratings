@@ -388,7 +388,7 @@
 | 386 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 387 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.40 | 
 | 388 | [Minit](games/m/minit.md) | 4.53 | 
-| 389 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
+| 389 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 390 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 391 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
 | 392 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
@@ -526,7 +526,7 @@
 | 524 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
 | 525 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
 | 526 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 527 | [Saturnalia](games/s/saturnalia.md) | 4.23 | 
+| 527 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
 | 528 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 529 | [Scorn](games/s/scorn.md) | 4.46 | 
 | 530 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
@@ -610,7 +610,7 @@
 | 608 | [Superliminal](games/s/superliminal.md) | 4.77 | 
 | 609 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 610 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 611 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
+| 611 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.41 | 
 | 612 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 613 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 614 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
@@ -657,7 +657,7 @@
 | 655 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
 | 656 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 657 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
-| 658 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
+| 658 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
 | 659 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
 | 660 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 661 | [The Surge](games/t/the_surge.md) | 4.51 | 
@@ -700,7 +700,7 @@
 | 698 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
 | 699 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 700 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 701 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.47 | 
+| 701 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
 | 702 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
 | 703 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 704 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
