@@ -51,7 +51,7 @@
 | 49 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 50 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 51 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.50 | 
-| 52 | [ATOM RPG](games/a/atom_rpg.md) | 4.33 | 
+| 52 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
 | 53 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 54 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 55 | [Automachef](games/a/automachef.md) | 4.32 | 
@@ -124,7 +124,7 @@
 | 122 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 123 | [Core](games/c/core.md) | 4.39 | 
 | 124 | [Coromon](games/c/coromon.md) | 4.65 | 
-| 125 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.59 | 
+| 125 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
 | 126 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
 | 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 128 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
@@ -267,7 +267,7 @@
 | 265 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 266 | [Gone Home](games/g/gone_home.md) | 4.17 | 
 | 267 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 268 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 268 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
 | 269 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 270 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 271 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -413,7 +413,7 @@
 | 411 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
 | 412 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 413 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.20 | 
-| 414 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
+| 414 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.52 | 
 | 415 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 416 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 417 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
@@ -619,7 +619,7 @@
 | 617 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 618 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
 | 619 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 620 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.85 | 
+| 620 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 621 | [Tharsis](games/t/tharsis.md) | 4.20 | 
 | 622 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 623 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.60 | 
@@ -672,7 +672,7 @@
 | 670 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.84 | 
 | 671 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 672 | [The Witness](games/t/the_witness.md) | 4.71 | 
-| 673 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 673 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 674 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
 | 675 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 676 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
