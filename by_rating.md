@@ -467,16 +467,16 @@
 | 465 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 466 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 467 | [The Surge](games/t/the_surge.md) | 4.51 | 
-| 468 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 469 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 470 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 471 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
-| 472 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 473 | [CryoFall](games/c/cryofall.md) | 4.50 | 
-| 474 | [Aztez](games/a/aztez.md) | 4.50 | 
-| 475 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 476 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.50 | 
-| 477 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
+| 468 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
+| 469 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 470 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 471 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
+| 472 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
+| 473 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 474 | [CryoFall](games/c/cryofall.md) | 4.50 | 
+| 475 | [Aztez](games/a/aztez.md) | 4.50 | 
+| 476 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
+| 477 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.50 | 
 | 478 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
 | 479 | [The Medium](games/t/the_medium.md) | 4.50 | 
 | 480 | [Maneater](games/m/maneater.md) | 4.49 | 
