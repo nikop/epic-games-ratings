@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [Saturnalia](games/s/saturnalia.md) | 4.18 | 
-| 2 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
+| 2 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.53 | 
 | 3 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.23 | 
 | 4 | [STG Football](games/s/stg_football.md) | 4.62 | 
 | 5 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.70 | 
@@ -15,7 +15,7 @@
 | 13 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
 | 14 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 15 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
-| 16 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.25 | 
+| 16 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.26 | 
 | 17 | [Darkwood](games/d/darkwood.md) | 4.59 | 
 | 18 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 19 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.48 | 

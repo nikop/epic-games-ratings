@@ -38,7 +38,7 @@
 | 36 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
 | 37 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 38 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 39 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
+| 39 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
 | 40 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
 | 41 | [Ashen](games/a/ashen.md) | 4.27 | 
 | 42 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
@@ -529,7 +529,7 @@
 | 527 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
 | 528 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
 | 529 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
-| 530 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
+| 530 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 531 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 532 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
 | 533 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
@@ -545,7 +545,7 @@
 | 543 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 544 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 545 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 546 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
+| 546 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.53 | 
 | 547 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.68 | 
 | 548 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 549 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
@@ -684,7 +684,7 @@
 | 682 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 683 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 684 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
-| 685 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.25 | 
+| 685 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.26 | 
 | 686 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 687 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 688 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
@@ -707,7 +707,7 @@
 | 705 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 706 | [Train Valley](games/t/train_valley.md) | 4.41 | 
 | 707 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
-| 708 | [Transistor](games/t/transistor.md) | 4.61 | 
+| 708 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 709 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 710 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 711 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
