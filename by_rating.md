@@ -101,16 +101,16 @@
 | 99 | [Superliminal](games/s/superliminal.md) | 4.77 | 
 | 100 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
 | 101 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
-| 102 | [Outlast 2](games/o/outlast_2.md) | 4.77 | 
-| 103 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.77 | 
-| 104 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 105 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 106 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 107 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 108 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
-| 109 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
-| 110 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
-| 111 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.76 | 
+| 102 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.77 | 
+| 103 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 104 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 105 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 106 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
+| 107 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
+| 108 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
+| 109 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
+| 110 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.76 | 
+| 111 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
 | 112 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 113 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 114 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
@@ -342,18 +342,18 @@
 | 340 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
 | 341 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
 | 342 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.60 | 
-| 343 | [Darkwood](games/d/darkwood.md) | 4.60 | 
-| 344 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 345 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 346 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 347 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 348 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 349 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 350 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 351 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
-| 352 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
-| 353 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 
-| 354 | [Card Shark](games/c/card_shark.md) | 4.59 | 
+| 343 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 344 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 345 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 346 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 347 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 348 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 349 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 350 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
+| 351 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
+| 352 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 
+| 353 | [Card Shark](games/c/card_shark.md) | 4.59 | 
+| 354 | [Darkwood](games/d/darkwood.md) | 4.59 | 
 | 355 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 356 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 357 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -721,10 +721,10 @@
 | 719 | [Gone Home](games/g/gone_home.md) | 4.17 | 
 | 720 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 721 | [Hellpoint](games/h/hellpoint.md) | 4.17 | 
-| 722 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
-| 723 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
-| 724 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
-| 725 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.16 | 
+| 722 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.17 | 
+| 723 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
+| 724 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
+| 725 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 726 | [Obduction](games/o/obduction.md) | 4.14 | 
 | 727 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 728 | [Pine](games/p/pine.md) | 4.13 | 

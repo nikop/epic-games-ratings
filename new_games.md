@@ -7,7 +7,7 @@
 | 5 | [STG Football](games/s/stg_football.md) | 4.62 | 
 | 6 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 7 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
-| 8 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.16 | 
+| 8 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.17 | 
 | 9 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 10 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.47 | 
 | 11 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.58 | 
@@ -17,10 +17,10 @@
 | 15 | [Scorn](games/s/scorn.md) | 4.46 | 
 | 16 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
 | 17 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.26 | 
-| 18 | [Darkwood](games/d/darkwood.md) | 4.60 | 
+| 18 | [Darkwood](games/d/darkwood.md) | 4.59 | 
 | 19 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 20 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.52 | 
-| 21 | [Outlast 2](games/o/outlast_2.md) | 4.77 | 
+| 21 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
 | 22 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 23 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 24 | [Outlast](games/o/outlast.md) | 4.73 | 

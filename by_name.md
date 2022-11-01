@@ -151,7 +151,7 @@
 | 149 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
 | 151 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 152 | [Darkwood](games/d/darkwood.md) | 4.60 | 
+| 152 | [Darkwood](games/d/darkwood.md) | 4.59 | 
 | 153 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 154 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 155 | [Days Gone](games/d/days_gone.md) | 4.70 | 
@@ -412,7 +412,7 @@
 | 410 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 411 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
 | 412 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
-| 413 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.16 | 
+| 413 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.17 | 
 | 414 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.52 | 
 | 415 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 416 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -440,7 +440,7 @@
 | 438 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 439 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 440 | [Outlast](games/o/outlast.md) | 4.73 | 
-| 441 | [Outlast 2](games/o/outlast_2.md) | 4.77 | 
+| 441 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
 | 442 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 443 | [Outward](games/o/outward.md) | 4.54 | 
 | 444 | [Overcooked](games/o/overcooked.md) | 4.69 | 
