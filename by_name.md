@@ -165,7 +165,7 @@
 | 163 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 164 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 165 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 
-| 166 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
+| 166 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
 | 167 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
 | 168 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
 | 169 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
@@ -283,7 +283,7 @@
 | 281 | [Haven](games/h/haven.md) | 4.74 | 
 | 282 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 283 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.67 | 
-| 284 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 284 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 285 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
 | 286 | [Hellpoint](games/h/hellpoint.md) | 4.17 | 
 | 287 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 

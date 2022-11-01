@@ -421,16 +421,16 @@
 | 419 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 420 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 421 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 422 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 423 | [Outward](games/o/outward.md) | 4.54 | 
-| 424 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 425 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 426 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
-| 427 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 428 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.54 | 
-| 429 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 430 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 431 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 422 | [Outward](games/o/outward.md) | 4.54 | 
+| 423 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 424 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 425 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
+| 426 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 427 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.54 | 
+| 428 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 429 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 430 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 431 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 432 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 433 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
 | 434 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
@@ -659,15 +659,15 @@
 | 657 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
 | 658 | [Tacoma](games/t/tacoma.md) | 4.30 | 
 | 659 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
-| 660 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
-| 661 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
-| 662 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 663 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
-| 664 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 665 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
-| 666 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.28 | 
-| 667 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
-| 668 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
+| 660 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
+| 661 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
+| 662 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
+| 663 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 664 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 665 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 666 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
+| 667 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.28 | 
+| 668 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
 | 669 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 670 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 671 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
