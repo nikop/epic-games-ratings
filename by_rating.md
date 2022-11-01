@@ -120,25 +120,25 @@
 | 118 | [Northgard](games/n/northgard.md) | 4.75 | 
 | 119 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 120 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
-| 121 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.75 | 
-| 122 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
-| 123 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
-| 124 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 125 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 126 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 127 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 128 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
-| 129 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 130 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 131 | [Journey](games/j/journey.md) | 4.74 | 
-| 132 | [Haven](games/h/haven.md) | 4.74 | 
-| 133 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
-| 134 | [Rayman Origins](games/r/rayman_origins.md) | 4.74 | 
-| 135 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
-| 136 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 137 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.74 | 
-| 138 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 139 | [Revita](games/r/revita.md) | 4.74 | 
+| 121 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
+| 122 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
+| 123 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 124 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 125 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 126 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 127 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
+| 128 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 129 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 130 | [Journey](games/j/journey.md) | 4.74 | 
+| 131 | [Haven](games/h/haven.md) | 4.74 | 
+| 132 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
+| 133 | [Rayman Origins](games/r/rayman_origins.md) | 4.74 | 
+| 134 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
+| 135 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 136 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.74 | 
+| 137 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 138 | [Revita](games/r/revita.md) | 4.74 | 
+| 139 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 140 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 141 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 142 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
@@ -154,26 +154,26 @@
 | 152 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
 | 153 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 154 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
-| 155 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
-| 156 | [Outlast](games/o/outlast.md) | 4.73 | 
-| 157 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.73 | 
-| 158 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 159 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 160 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 161 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
-| 162 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
-| 163 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 164 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 165 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
-| 166 | [The Witness](games/t/the_witness.md) | 4.71 | 
-| 167 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
-| 168 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
-| 169 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.71 | 
-| 170 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.71 | 
-| 171 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
-| 172 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
-| 173 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 174 | [Everything](games/e/everything.md) | 4.71 | 
+| 155 | [Outlast](games/o/outlast.md) | 4.73 | 
+| 156 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.73 | 
+| 157 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 158 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 159 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 160 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
+| 161 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
+| 162 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 163 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 164 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
+| 165 | [The Witness](games/t/the_witness.md) | 4.71 | 
+| 166 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 167 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
+| 168 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.71 | 
+| 169 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.71 | 
+| 170 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
+| 171 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
+| 172 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 173 | [Everything](games/e/everything.md) | 4.71 | 
+| 174 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 175 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 176 | [Days Gone](games/d/days_gone.md) | 4.70 | 
 | 177 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
@@ -621,11 +621,11 @@
 | 619 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 620 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
 | 621 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 622 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 623 | [Lamentum](games/l/lamentum.md) | 4.36 | 
-| 624 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.36 | 
-| 625 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
-| 626 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 622 | [Among Trees](games/a/among_trees.md) | 4.36 | 
+| 623 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 624 | [Lamentum](games/l/lamentum.md) | 4.36 | 
+| 625 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.36 | 
+| 626 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
 | 627 | [ELEX](games/e/elex.md) | 4.35 | 
 | 628 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
 | 629 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
@@ -658,10 +658,10 @@
 | 656 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.31 | 
 | 657 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 658 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
-| 659 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
-| 660 | [Tacoma](games/t/tacoma.md) | 4.30 | 
-| 661 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
-| 662 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
+| 659 | [Tacoma](games/t/tacoma.md) | 4.30 | 
+| 660 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 661 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
+| 662 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
 | 663 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
 | 664 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
 | 665 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 

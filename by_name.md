@@ -5,7 +5,7 @@
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.39 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
+| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
@@ -22,7 +22,7 @@
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
-| 23 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 23 | [Among Trees](games/a/among_trees.md) | 4.36 | 
 | 24 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 25 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.61 | 
 | 26 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
@@ -130,7 +130,7 @@
 | 128 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 129 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 130 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 131 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
+| 131 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
 | 132 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
 | 133 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 134 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
@@ -212,7 +212,7 @@
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 211 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 212 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.58 | 
-| 213 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.75 | 
+| 213 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 214 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 215 | [Far Cry](games/f/far_cry.md) | 4.37 | 
 | 216 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
