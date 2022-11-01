@@ -86,7 +86,7 @@
 | 84 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.18 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
-| 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.36 | 
+| 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
 | 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
 | 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -110,7 +110,7 @@
 | 108 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 109 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
 | 110 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 111 | [Chorus](games/c/chorus.md) | 4.43 | 
+| 111 | [Chorus](games/c/chorus.md) | 4.42 | 
 | 112 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.95 | 
 | 113 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 114 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
@@ -329,7 +329,7 @@
 | 327 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 328 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 329 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 330 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 330 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
 | 331 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 332 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
 | 333 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
@@ -512,7 +512,7 @@
 | 510 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 511 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
 | 512 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 513 | [RUINER](games/r/ruiner.md) | 4.54 | 
+| 513 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 514 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 515 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 516 | [Sable](games/s/sable.md) | 4.57 | 
