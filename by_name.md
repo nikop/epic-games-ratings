@@ -261,7 +261,7 @@
 | 259 | [Gloomhaven](games/g/gloomhaven.md) | 4.44 | 
 | 260 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 261 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 262 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 262 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 263 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
 | 264 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 
 | 265 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 

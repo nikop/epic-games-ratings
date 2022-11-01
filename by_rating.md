@@ -741,8 +741,8 @@
 | 739 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.08 | 
 | 740 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
 | 741 | [Lake](games/l/lake.md) | 4.08 | 
-| 742 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 743 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
+| 742 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
+| 743 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 744 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.06 | 
 | 745 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 746 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.05 | 
