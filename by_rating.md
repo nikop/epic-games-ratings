@@ -434,20 +434,20 @@
 | 432 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 433 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 434 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 435 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
-| 436 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 437 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 438 | [RUINER](games/r/ruiner.md) | 4.53 | 
-| 439 | [Minit](games/m/minit.md) | 4.53 | 
-| 440 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
-| 441 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 442 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
-| 443 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
-| 444 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 445 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 446 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 447 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 448 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 435 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 436 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 437 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 438 | [Minit](games/m/minit.md) | 4.53 | 
+| 439 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
+| 440 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 441 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
+| 442 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
+| 443 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 444 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 445 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 446 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 447 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 448 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 449 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 450 | [MythForce](games/m/mythforce.md) | 4.52 | 
 | 451 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
@@ -578,18 +578,18 @@
 | 576 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
 | 577 | [Backbone](games/b/backbone.md) | 4.41 | 
 | 578 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 579 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
-| 580 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 581 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 582 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
-| 583 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
-| 584 | [Torchlight](games/t/torchlight.md) | 4.40 | 
-| 585 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.40 | 
-| 586 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 587 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
-| 588 | [Hammerting](games/h/hammerting.md) | 4.40 | 
-| 589 | [Parkitect](games/p/parkitect.md) | 4.40 | 
-| 590 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 579 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 580 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
+| 581 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 582 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 583 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
+| 584 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
+| 585 | [Torchlight](games/t/torchlight.md) | 4.40 | 
+| 586 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.40 | 
+| 587 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 588 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
+| 589 | [Hammerting](games/h/hammerting.md) | 4.40 | 
+| 590 | [Parkitect](games/p/parkitect.md) | 4.40 | 
 | 591 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
 | 592 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 593 | [Core](games/c/core.md) | 4.39 | 
@@ -725,10 +725,10 @@
 | 723 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 724 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 725 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.16 | 
-| 726 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
-| 727 | [Pine](games/p/pine.md) | 4.13 | 
-| 728 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
-| 729 | [Obduction](games/o/obduction.md) | 4.13 | 
+| 726 | [Obduction](games/o/obduction.md) | 4.14 | 
+| 727 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
+| 728 | [Pine](games/p/pine.md) | 4.13 | 
+| 729 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
 | 730 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
 | 731 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
 | 732 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 

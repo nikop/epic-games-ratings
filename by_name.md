@@ -357,7 +357,7 @@
 | 355 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 356 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 357 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
-| 358 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
+| 358 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 359 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 360 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 361 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.02 | 
@@ -404,7 +404,7 @@
 | 402 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 403 | [MythForce](games/m/mythforce.md) | 4.52 | 
 | 404 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 405 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 405 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
 | 406 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 407 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 408 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.64 | 
@@ -423,7 +423,7 @@
 | 421 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.80 | 
 | 422 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 423 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 424 | [Obduction](games/o/obduction.md) | 4.13 | 
+| 424 | [Obduction](games/o/obduction.md) | 4.14 | 
 | 425 | [Observation](games/o/observation.md) | 4.48 | 
 | 426 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 
 | 427 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 
