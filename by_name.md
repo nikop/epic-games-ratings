@@ -722,7 +722,7 @@
 | 720 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 721 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.81 | 
 | 722 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
-| 723 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.57 | 
+| 723 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
 | 724 | [UnMetal](games/u/unmetal.md) | 4.55 | 
 | 725 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
 | 726 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
@@ -767,7 +767,7 @@
 | 765 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 766 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
 | 767 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
-| 768 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
+| 768 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 769 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 770 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 771 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
