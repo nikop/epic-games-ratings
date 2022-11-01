@@ -15,7 +15,7 @@
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.17 | 
 | 18 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
@@ -738,7 +738,7 @@
 | 736 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 737 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
 | 738 | [Warface](games/w/warface.md) | 3.95 | 
-| 739 | [Warframe](games/w/warframe.md) | 4.62 | 
+| 739 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 740 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 741 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.56 | 
 | 742 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
