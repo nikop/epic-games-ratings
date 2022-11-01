@@ -736,7 +736,7 @@
 | 734 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 735 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
 | 736 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 737 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
+| 737 | [War Mongrels](games/w/war_mongrels.md) | 4.37 | 
 | 738 | [Warface](games/w/warface.md) | 3.95 | 
 | 739 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 740 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 

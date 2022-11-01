@@ -594,23 +594,23 @@
 | 592 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
 | 593 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
 | 594 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.39 | 
-| 595 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 
-| 596 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
-| 597 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 598 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
-| 599 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.39 | 
-| 600 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
-| 601 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
-| 602 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 603 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
-| 604 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
-| 605 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.38 | 
-| 606 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 607 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
-| 608 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 609 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
-| 610 | [Far Cry](games/f/far_cry.md) | 4.37 | 
-| 611 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
+| 595 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
+| 596 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 597 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.39 | 
+| 598 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.39 | 
+| 599 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
+| 600 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
+| 601 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 602 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
+| 603 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
+| 604 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.38 | 
+| 605 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 606 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
+| 607 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 608 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
+| 609 | [Far Cry](games/f/far_cry.md) | 4.37 | 
+| 610 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
+| 611 | [War Mongrels](games/w/war_mongrels.md) | 4.37 | 
 | 612 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
 | 613 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 614 | [Paladins](games/p/paladins.md) | 4.36 | 
