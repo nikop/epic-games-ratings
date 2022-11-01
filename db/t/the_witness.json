@@ -1,10 +1,10 @@
 {
   "ID": "magnolia",
   "Name": "The Witness",
-  "Rating": 4.7,
+  "Rating": 4.71,
   "NumberOfRatings": 503,
   "FirstSeen": "2022-07-22T20:17:54.4282067+00:00",
-  "LastChanged": "2022-10-14T15:30:30.9598013+00:00",
+  "LastChanged": "2022-11-01T00:30:26.689747+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:54.428207+00:00",
@@ -390,12 +390,17 @@
       "Time": "2022-10-14T15:30:30.9598016+00:00",
       "Rating": 4.7,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-01T00:30:26.6897476+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
-      "Count": 134
+      "Count": 135
     }
   ]
 }

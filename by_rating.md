@@ -163,19 +163,19 @@
 | 161 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 162 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 163 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.71 | 
-| 164 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
-| 165 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
-| 166 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 167 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
-| 168 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
-| 169 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 170 | [Everything](games/e/everything.md) | 4.71 | 
-| 171 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 172 | [Days Gone](games/d/days_gone.md) | 4.70 | 
-| 173 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
-| 174 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 175 | [Timberborn](games/t/timberborn.md) | 4.70 | 
-| 176 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 164 | [The Witness](games/t/the_witness.md) | 4.71 | 
+| 165 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 166 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
+| 167 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 168 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
+| 169 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
+| 170 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 171 | [Everything](games/e/everything.md) | 4.71 | 
+| 172 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 173 | [Days Gone](games/d/days_gone.md) | 4.70 | 
+| 174 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
+| 175 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 176 | [Timberborn](games/t/timberborn.md) | 4.70 | 
 | 177 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 178 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
 | 179 | [FUSER™](games/f/fuser™.md) | 4.70 | 

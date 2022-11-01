@@ -671,7 +671,7 @@
 | 669 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
 | 670 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.84 | 
 | 671 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
-| 672 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 672 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 673 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 674 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
 | 675 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
