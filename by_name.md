@@ -164,7 +164,7 @@
 | 162 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 163 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 164 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 165 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.55 | 
+| 165 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 
 | 166 | [Democracy 4](games/d/democracy_4.md) | 4.28 | 
 | 167 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
 | 168 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
@@ -362,7 +362,7 @@
 | 360 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 361 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.01 | 
 | 362 | [Limbo](games/l/limbo.md) | 4.63 | 
-| 363 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.40 | 
+| 363 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.38 | 
 | 364 | [Little Inferno](games/l/little_inferno.md) | 4.46 | 
 | 365 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 366 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
@@ -611,7 +611,7 @@
 | 609 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 610 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 611 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
-| 612 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
+| 612 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
 | 613 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 614 | [Tacoma](games/t/tacoma.md) | 4.30 | 
 | 615 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
