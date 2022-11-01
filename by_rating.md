@@ -116,17 +116,17 @@
 | 114 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
 | 115 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 116 | [Northgard](games/n/northgard.md) | 4.75 | 
-| 117 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
-| 118 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
-| 119 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
-| 120 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.75 | 
-| 121 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
-| 122 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
-| 123 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 124 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 125 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 126 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 127 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 117 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
+| 118 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
+| 119 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.75 | 
+| 120 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
+| 121 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
+| 122 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 123 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 124 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 125 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 126 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 127 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
 | 128 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
 | 129 | [Journey](games/j/journey.md) | 4.74 | 
 | 130 | [Haven](games/h/haven.md) | 4.74 | 
@@ -400,14 +400,14 @@
 | 398 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
 | 399 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 400 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 401 | [Isonzo](games/i/isonzo.md) | 4.56 | 
-| 402 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
-| 403 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
-| 404 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
-| 405 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 406 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 407 | [Hue](games/h/hue.md) | 4.55 | 
-| 408 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
+| 401 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
+| 402 | [Isonzo](games/i/isonzo.md) | 4.56 | 
+| 403 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
+| 404 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
+| 405 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
+| 406 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 407 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 408 | [Hue](games/h/hue.md) | 4.55 | 
 | 409 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
 | 410 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 411 | [Souldiers](games/s/souldiers.md) | 4.55 | 
@@ -608,14 +608,14 @@
 | 606 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 607 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
 | 608 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 609 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
-| 610 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
-| 611 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
-| 612 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
-| 613 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 614 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 615 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 616 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
+| 609 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
+| 610 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
+| 611 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
+| 612 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 613 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 614 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 615 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
+| 616 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 617 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
 | 618 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.36 | 
 | 619 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
@@ -738,10 +738,10 @@
 | 736 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 737 | [Dead Age 2](games/d/dead_age_2.md) | 4.09 | 
 | 738 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 739 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.08 | 
-| 740 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
-| 741 | [Lake](games/l/lake.md) | 4.08 | 
-| 742 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
+| 739 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
+| 740 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.08 | 
+| 741 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
+| 742 | [Lake](games/l/lake.md) | 4.08 | 
 | 743 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 744 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.06 | 
 | 745 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
@@ -770,7 +770,7 @@
 | 768 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
 | 769 | [Conarium](games/c/conarium.md) | 3.85 | 
 | 770 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
-| 771 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
+| 771 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 
 | 772 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 773 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 774 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.76 | 

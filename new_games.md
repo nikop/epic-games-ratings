@@ -28,7 +28,7 @@
 | 26 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 27 | [SpiderHeck](games/s/spiderheck.md) | 4.67 | 
 | 28 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
-| 29 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
+| 29 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 
 | 30 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 31 | [Gloomhaven](games/g/gloomhaven.md) | 4.44 | 
 | 32 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 

@@ -410,7 +410,7 @@
 | 408 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.64 | 
 | 409 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 410 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 411 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
+| 411 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
 | 412 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 413 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.20 | 
 | 414 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
@@ -468,7 +468,7 @@
 | 466 | [Pine](games/p/pine.md) | 4.13 | 
 | 467 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.41 | 
 | 468 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
-| 469 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
+| 469 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 
 | 470 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 471 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
 | 472 | [Prey](games/p/prey.md) | 4.61 | 
@@ -577,7 +577,7 @@
 | 575 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
 | 576 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
 | 577 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
-| 578 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
+| 578 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 579 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 580 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 581 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
@@ -753,7 +753,7 @@
 | 751 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 752 | [Weird West](games/w/weird_west.md) | 4.43 | 
 | 753 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
-| 754 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
+| 754 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
 | 755 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
 | 756 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
 | 757 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
@@ -768,7 +768,7 @@
 | 766 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
 | 767 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
 | 768 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
-| 769 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
+| 769 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
 | 770 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 771 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 772 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
