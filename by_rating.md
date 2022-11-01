@@ -195,22 +195,22 @@
 | 193 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 194 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 195 | [Barony](games/b/barony.md) | 4.69 | 
-| 196 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 197 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 198 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
-| 199 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
-| 200 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
-| 201 | [Rogue Lords](games/r/rogue_lords.md) | 4.69 | 
-| 202 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
-| 203 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 204 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 205 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 206 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 207 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 208 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 209 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 210 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 211 | [Overcooked](games/o/overcooked.md) | 4.68 | 
+| 196 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 197 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 198 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 199 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
+| 200 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
+| 201 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
+| 202 | [Rogue Lords](games/r/rogue_lords.md) | 4.69 | 
+| 203 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
+| 204 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 205 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 206 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 207 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 208 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 209 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 210 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 211 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
 | 212 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.68 | 
 | 213 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 214 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
@@ -428,20 +428,20 @@
 | 426 | [RUINER](games/r/ruiner.md) | 4.54 | 
 | 427 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
 | 428 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 429 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 430 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 431 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 432 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 433 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
-| 434 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 435 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 436 | [Minit](games/m/minit.md) | 4.53 | 
-| 437 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
-| 438 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 439 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
-| 440 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
-| 441 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 442 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.53 | 
+| 429 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.54 | 
+| 430 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 431 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 432 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 433 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 434 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
+| 435 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 436 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 437 | [Minit](games/m/minit.md) | 4.53 | 
+| 438 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
+| 439 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 440 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
+| 441 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
+| 442 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 443 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 444 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 445 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
@@ -693,13 +693,13 @@
 | 691 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 692 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.22 | 
 | 693 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
-| 694 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
-| 695 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 696 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
-| 697 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
-| 698 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
-| 699 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.21 | 
-| 700 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
+| 694 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
+| 695 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
+| 696 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 697 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
+| 698 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
+| 699 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
+| 700 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.21 | 
 | 701 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 702 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 703 | [Tharsis](games/t/tharsis.md) | 4.20 | 
@@ -715,12 +715,12 @@
 | 713 | [Saturnalia](games/s/saturnalia.md) | 4.18 | 
 | 714 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 715 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.17 | 
-| 716 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 717 | [Hellpoint](games/h/hellpoint.md) | 4.17 | 
-| 718 | [Scavengers](games/s/scavengers.md) | 4.16 | 
-| 719 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
-| 720 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
-| 721 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 716 | [Gone Home](games/g/gone_home.md) | 4.17 | 
+| 717 | [Family Man](games/f/family_man.md) | 4.17 | 
+| 718 | [Hellpoint](games/h/hellpoint.md) | 4.17 | 
+| 719 | [Scavengers](games/s/scavengers.md) | 4.16 | 
+| 720 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
+| 721 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 722 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 723 | [Pine](games/p/pine.md) | 4.13 | 
 | 724 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 

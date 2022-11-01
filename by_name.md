@@ -265,7 +265,7 @@
 | 263 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
 | 264 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 
 | 265 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 266 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 266 | [Gone Home](games/g/gone_home.md) | 4.17 | 
 | 267 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 268 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 269 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
@@ -442,7 +442,7 @@
 | 440 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
 | 441 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 442 | [Outward](games/o/outward.md) | 4.54 | 
-| 443 | [Overcooked](games/o/overcooked.md) | 4.68 | 
+| 443 | [Overcooked](games/o/overcooked.md) | 4.69 | 
 | 444 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 445 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 446 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
@@ -545,7 +545,7 @@
 | 543 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 544 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 545 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 546 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.53 | 
+| 546 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.54 | 
 | 547 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.68 | 
 | 548 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 549 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
@@ -589,7 +589,7 @@
 | 587 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 588 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
 | 589 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 590 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
+| 590 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 591 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 592 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
 | 593 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
