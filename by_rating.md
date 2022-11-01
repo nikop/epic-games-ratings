@@ -60,17 +60,17 @@
 | 58 | [Grindstone](games/g/grindstone.md) | 4.82 | 
 | 59 | [Quake](games/q/quake.md) | 4.82 | 
 | 60 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
-| 61 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 62 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 63 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
-| 64 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 65 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 66 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
-| 67 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
-| 68 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.81 | 
-| 69 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
-| 70 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.81 | 
-| 71 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.81 | 
+| 61 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.82 | 
+| 62 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 63 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 64 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
+| 65 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
+| 66 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 67 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
+| 68 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
+| 69 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.81 | 
+| 70 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
+| 71 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.81 | 
 | 72 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 73 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 74 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
@@ -126,22 +126,22 @@
 | 124 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 125 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 126 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 127 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 128 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 129 | [Journey](games/j/journey.md) | 4.74 | 
-| 130 | [Haven](games/h/haven.md) | 4.74 | 
-| 131 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
-| 132 | [Rayman Origins](games/r/rayman_origins.md) | 4.74 | 
-| 133 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
-| 134 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 135 | [Revita](games/r/revita.md) | 4.74 | 
-| 136 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 137 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 138 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 139 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 140 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 141 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 142 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
+| 127 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
+| 128 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 129 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 130 | [Journey](games/j/journey.md) | 4.74 | 
+| 131 | [Haven](games/h/haven.md) | 4.74 | 
+| 132 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
+| 133 | [Rayman Origins](games/r/rayman_origins.md) | 4.74 | 
+| 134 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
+| 135 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 136 | [Revita](games/r/revita.md) | 4.74 | 
+| 137 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 138 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 139 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 140 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 141 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 142 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 143 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 144 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 145 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
@@ -452,19 +452,19 @@
 | 450 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
 | 451 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 452 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.52 | 
-| 453 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.52 | 
-| 454 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
-| 455 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 456 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 457 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 458 | [Verdun](games/v/verdun.md) | 4.51 | 
-| 459 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 460 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 461 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 462 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 463 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 464 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
-| 465 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
+| 453 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
+| 454 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 455 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 456 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 457 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 458 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 459 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 460 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 461 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 462 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 463 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
+| 464 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
+| 465 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
 | 466 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 467 | [The Surge](games/t/the_surge.md) | 4.51 | 
 | 468 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
@@ -652,12 +652,12 @@
 | 650 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 651 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
 | 652 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
-| 653 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 654 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
-| 655 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
-| 656 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
-| 657 | [Tacoma](games/t/tacoma.md) | 4.30 | 
-| 658 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.30 | 
+| 653 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.31 | 
+| 654 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 655 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
+| 656 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.30 | 
+| 657 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
+| 658 | [Tacoma](games/t/tacoma.md) | 4.30 | 
 | 659 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 660 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
 | 661 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 

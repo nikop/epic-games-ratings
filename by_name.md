@@ -41,7 +41,7 @@
 | 39 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
 | 40 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
 | 41 | [Ashen](games/a/ashen.md) | 4.27 | 
-| 42 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
+| 42 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 43 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 44 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 45 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
@@ -292,7 +292,7 @@
 | 290 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 291 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 292 | [Hob](games/h/hob.md) | 4.57 | 
-| 293 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.30 | 
+| 293 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.31 | 
 | 294 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 295 | [Horace](games/h/horace.md) | 4.57 | 
 | 296 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -521,7 +521,7 @@
 | 519 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
 | 520 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 521 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
-| 522 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.52 | 
+| 522 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
 | 523 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 524 | [Saturnalia](games/s/saturnalia.md) | 4.18 | 
 | 525 | [Scavengers](games/s/scavengers.md) | 4.17 | 
@@ -720,7 +720,7 @@
 | 718 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 719 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 720 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 721 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.81 | 
+| 721 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.82 | 
 | 722 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 723 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
 | 724 | [UnMetal](games/u/unmetal.md) | 4.55 | 
