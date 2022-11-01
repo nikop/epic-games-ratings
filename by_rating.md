@@ -763,7 +763,7 @@
 | 761 | [Warface](games/w/warface.md) | 3.95 | 
 | 762 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 763 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.95 | 
-| 764 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
+| 764 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 765 | [Patron](games/p/patron.md) | 3.89 | 
 | 766 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 767 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 

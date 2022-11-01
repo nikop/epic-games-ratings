@@ -228,7 +228,7 @@
 | 226 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.06 | 
 | 227 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 228 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 229 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
+| 229 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 230 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
 | 231 | [Fez](games/f/fez.md) | 4.73 | 
 | 232 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.65 | 
