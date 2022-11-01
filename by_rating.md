@@ -378,26 +378,26 @@
 | 376 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 377 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
 | 378 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 379 | [Hob](games/h/hob.md) | 4.57 | 
-| 380 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
-| 381 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 382 | [Road 96](games/r/road_96.md) | 4.57 | 
-| 383 | [Breathedge](games/b/breathedge.md) | 4.57 | 
-| 384 | [Horace](games/h/horace.md) | 4.57 | 
-| 385 | [Sable](games/s/sable.md) | 4.57 | 
-| 386 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
-| 387 | [Warpips](games/w/warpips.md) | 4.57 | 
-| 388 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
-| 389 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
-| 390 | [NORCO](games/n/norco.md) | 4.57 | 
-| 391 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 392 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 393 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 394 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
-| 395 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 396 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 397 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
-| 398 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
+| 379 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 380 | [Hob](games/h/hob.md) | 4.57 | 
+| 381 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
+| 382 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 383 | [Road 96](games/r/road_96.md) | 4.57 | 
+| 384 | [Breathedge](games/b/breathedge.md) | 4.57 | 
+| 385 | [Horace](games/h/horace.md) | 4.57 | 
+| 386 | [Sable](games/s/sable.md) | 4.57 | 
+| 387 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
+| 388 | [Warpips](games/w/warpips.md) | 4.57 | 
+| 389 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.57 | 
+| 390 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
+| 391 | [NORCO](games/n/norco.md) | 4.57 | 
+| 392 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 393 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 394 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 395 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 396 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 397 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 398 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
 | 399 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 400 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 401 | [Isonzo](games/i/isonzo.md) | 4.56 | 
@@ -564,17 +564,17 @@
 | 562 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 563 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 564 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 565 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
-| 566 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
-| 567 | [Faeria](games/f/faeria.md) | 4.41 | 
-| 568 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 569 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.41 | 
-| 570 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 571 | [Train Valley](games/t/train_valley.md) | 4.41 | 
-| 572 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 573 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
-| 574 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 575 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
+| 565 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
+| 566 | [Faeria](games/f/faeria.md) | 4.41 | 
+| 567 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 568 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.41 | 
+| 569 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 570 | [Train Valley](games/t/train_valley.md) | 4.41 | 
+| 571 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 572 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
+| 573 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 574 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
+| 575 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 576 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 577 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
 | 578 | [Torchlight](games/t/torchlight.md) | 4.40 | 
