@@ -29,7 +29,7 @@
 | 27 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 28 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
 | 29 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 30 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 30 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 31 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
 | 32 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 33 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
@@ -77,7 +77,7 @@
 | 75 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
 | 76 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 77 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 78 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
+| 78 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 79 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 80 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 81 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
@@ -319,7 +319,7 @@
 | 317 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 318 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
 | 319 | [Ironcast](games/i/ironcast.md) | 3.88 | 
-| 320 | [Isonzo](games/i/isonzo.md) | 4.56 | 
+| 320 | [Isonzo](games/i/isonzo.md) | 4.55 | 
 | 321 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 322 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 323 | [Journey](games/j/journey.md) | 4.74 | 
@@ -479,7 +479,7 @@
 | 477 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 478 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 479 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 480 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 480 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
 | 481 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
 | 482 | [Rayman Origins](games/r/rayman_origins.md) | 4.74 | 
 | 483 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
@@ -507,7 +507,7 @@
 | 505 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 506 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 507 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 508 | [Rogue Lords](games/r/rogue_lords.md) | 4.69 | 
+| 508 | [Rogue Lords](games/r/rogue_lords.md) | 4.68 | 
 | 509 | [Roguebook](games/r/roguebook.md) | 4.60 | 
 | 510 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 511 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
