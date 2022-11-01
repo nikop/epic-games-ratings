@@ -609,22 +609,22 @@
 | 607 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
 | 608 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 609 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
-| 610 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
-| 611 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
-| 612 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 613 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 614 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 615 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
-| 616 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
-| 617 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 618 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.36 | 
-| 619 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 620 | [Lamentum](games/l/lamentum.md) | 4.36 | 
-| 621 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.36 | 
-| 622 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.36 | 
-| 623 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 624 | [ELEX](games/e/elex.md) | 4.35 | 
-| 625 | [Far Cry](games/f/far_cry.md) | 4.35 | 
+| 610 | [Far Cry](games/f/far_cry.md) | 4.37 | 
+| 611 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
+| 612 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
+| 613 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 614 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 615 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 616 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
+| 617 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
+| 618 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 619 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.36 | 
+| 620 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 621 | [Lamentum](games/l/lamentum.md) | 4.36 | 
+| 622 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.36 | 
+| 623 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.36 | 
+| 624 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 625 | [ELEX](games/e/elex.md) | 4.35 | 
 | 626 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
 | 627 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 628 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
