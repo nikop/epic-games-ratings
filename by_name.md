@@ -60,7 +60,7 @@
 | 58 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
 | 59 | [Aztez](games/a/aztez.md) | 4.50 | 
 | 60 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 61 | [Backbone](games/b/backbone.md) | 4.39 | 
+| 61 | [Backbone](games/b/backbone.md) | 4.41 | 
 | 62 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 63 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
 | 64 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
@@ -210,7 +210,7 @@
 | 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 209 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 211 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.70 | 
+| 211 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 212 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.58 | 
 | 213 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.75 | 
 | 214 | [Family Man](games/f/family_man.md) | 4.17 | 
@@ -363,7 +363,7 @@
 | 361 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.01 | 
 | 362 | [Limbo](games/l/limbo.md) | 4.63 | 
 | 363 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.38 | 
-| 364 | [Little Inferno](games/l/little_inferno.md) | 4.46 | 
+| 364 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
 | 365 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 366 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
 | 367 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
@@ -531,7 +531,7 @@
 | 529 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
 | 530 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 531 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 532 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
+| 532 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.83 | 
 | 533 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
 | 534 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 535 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
@@ -639,7 +639,7 @@
 | 637 | [The Fall](games/t/the_fall.md) | 4.25 | 
 | 638 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 639 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
-| 640 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
+| 640 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
 | 641 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 642 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
 | 643 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
@@ -768,11 +768,11 @@
 | 766 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
 | 767 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
 | 768 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
-| 769 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
+| 769 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 770 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 771 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 772 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 773 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 773 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
 | 774 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
 | 775 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.62 | 
 | 776 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
