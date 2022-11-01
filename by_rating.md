@@ -99,16 +99,16 @@
 | 97 | [Cave Story+](games/c/cave_story+.md) | 4.77 | 
 | 98 | [Superliminal](games/s/superliminal.md) | 4.77 | 
 | 99 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
-| 100 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.77 | 
-| 101 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 102 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 103 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 104 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 105 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
-| 106 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
-| 107 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
-| 108 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.76 | 
-| 109 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
+| 100 | [Outlast 2](games/o/outlast_2.md) | 4.77 | 
+| 101 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.77 | 
+| 102 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 103 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 104 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 105 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
+| 106 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
+| 107 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
+| 108 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
+| 109 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.76 | 
 | 110 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 111 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 112 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
@@ -452,19 +452,19 @@
 | 450 | [MythForce](games/m/mythforce.md) | 4.52 | 
 | 451 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
 | 452 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 453 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.52 | 
-| 454 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
-| 455 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 456 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 457 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 458 | [Verdun](games/v/verdun.md) | 4.51 | 
-| 459 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 460 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 461 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 462 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 463 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 464 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
-| 465 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 453 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.52 | 
+| 454 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.52 | 
+| 455 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
+| 456 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 457 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 458 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 459 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 460 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 461 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 462 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 463 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 464 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 465 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
 | 466 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 467 | [The Surge](games/t/the_surge.md) | 4.51 | 
 | 468 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 

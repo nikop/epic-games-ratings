@@ -1,10 +1,10 @@
 {
   "ID": "e3e1dbeede5a471c9932edb2f7b99f51",
   "Name": "Outlast 2",
-  "Rating": 4.76,
+  "Rating": 4.77,
   "FirstSeen": "2022-10-06T18:32:02.5316251+00:00",
   "FirstSeenRating": "2022-10-23T03:31:57.5204331+00:00",
-  "LastChanged": "2022-10-31T09:02:09.029578+00:00",
+  "LastChanged": "2022-11-01T09:02:31.9915659+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-23T03:31:57.5204335+00:00",
@@ -74,6 +74,11 @@
     {
       "Time": "2022-10-31T09:02:09.0295783+00:00",
       "Rating": 4.76,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-01T09:02:31.9915662+00:00",
+      "Rating": 4.77,
       "NumberOfRatings": null
     }
   ],

@@ -56,7 +56,7 @@
 | 54 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 55 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 56 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 57 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 57 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.52 | 
 | 58 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
 | 59 | [Aztez](games/a/aztez.md) | 4.50 | 
 | 60 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
@@ -439,7 +439,7 @@
 | 437 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 438 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 439 | [Outlast](games/o/outlast.md) | 4.74 | 
-| 440 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
+| 440 | [Outlast 2](games/o/outlast_2.md) | 4.77 | 
 | 441 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 442 | [Outward](games/o/outward.md) | 4.54 | 
 | 443 | [Overcooked](games/o/overcooked.md) | 4.69 | 
