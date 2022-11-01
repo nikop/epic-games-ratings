@@ -152,7 +152,7 @@
 | 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
 | 151 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 152 | [Darkwood](games/d/darkwood.md) | 4.59 | 
-| 153 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
+| 153 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 154 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 155 | [Days Gone](games/d/days_gone.md) | 4.70 | 
 | 156 | [Dead Age 2](games/d/dead_age_2.md) | 4.09 | 

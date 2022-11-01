@@ -566,17 +566,17 @@
 | 564 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 565 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 566 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
-| 567 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
-| 568 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
-| 569 | [Faeria](games/f/faeria.md) | 4.41 | 
-| 570 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 571 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.41 | 
-| 572 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 573 | [Train Valley](games/t/train_valley.md) | 4.41 | 
-| 574 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 575 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
-| 576 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 577 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
+| 567 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
+| 568 | [Faeria](games/f/faeria.md) | 4.41 | 
+| 569 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 570 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.41 | 
+| 571 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 572 | [Train Valley](games/t/train_valley.md) | 4.41 | 
+| 573 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 574 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
+| 575 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 576 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
+| 577 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 578 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
 | 579 | [Torchlight](games/t/torchlight.md) | 4.40 | 
 | 580 | [Encased](games/e/encased.md) | 4.40 | 
