@@ -22,7 +22,7 @@
 | 20 | [Outlast 2](games/o/outlast_2.md) | 4.77 | 
 | 21 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 22 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
-| 23 | [Outlast](games/o/outlast.md) | 4.74 | 
+| 23 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 24 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
 | 25 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 26 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 

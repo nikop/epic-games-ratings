@@ -135,25 +135,25 @@
 | 133 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
 | 134 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 135 | [Revita](games/r/revita.md) | 4.74 | 
-| 136 | [Outlast](games/o/outlast.md) | 4.74 | 
-| 137 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 138 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 139 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 140 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 141 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 142 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 143 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
-| 144 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 145 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
-| 146 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 147 | [Fez](games/f/fez.md) | 4.73 | 
-| 148 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
-| 149 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
-| 150 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
-| 151 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 
-| 152 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.73 | 
-| 153 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
-| 154 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
+| 136 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 137 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 138 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 139 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 140 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 141 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 142 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 
+| 143 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 144 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 145 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
+| 146 | [Fez](games/f/fez.md) | 4.73 | 
+| 147 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
+| 148 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
+| 149 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
+| 150 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 
+| 151 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.73 | 
+| 152 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
+| 153 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
+| 154 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 155 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 156 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 157 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 

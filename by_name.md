@@ -438,7 +438,7 @@
 | 436 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 437 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 438 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 439 | [Outlast](games/o/outlast.md) | 4.74 | 
+| 439 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 440 | [Outlast 2](games/o/outlast_2.md) | 4.77 | 
 | 441 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 442 | [Outward](games/o/outward.md) | 4.54 | 
