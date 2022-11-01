@@ -470,22 +470,22 @@
 | 468 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 469 | [The Surge](games/t/the_surge.md) | 4.51 | 
 | 470 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
-| 471 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 472 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 473 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 474 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
-| 475 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 476 | [CryoFall](games/c/cryofall.md) | 4.50 | 
-| 477 | [Aztez](games/a/aztez.md) | 4.50 | 
-| 478 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
-| 479 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 480 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.50 | 
-| 481 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
-| 482 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
-| 483 | [The Medium](games/t/the_medium.md) | 4.50 | 
-| 484 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 485 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 486 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 471 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 472 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 473 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 474 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
+| 475 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
+| 476 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 477 | [CryoFall](games/c/cryofall.md) | 4.50 | 
+| 478 | [Aztez](games/a/aztez.md) | 4.50 | 
+| 479 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
+| 480 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
+| 481 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.50 | 
+| 482 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
+| 483 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
+| 484 | [The Medium](games/t/the_medium.md) | 4.50 | 
+| 485 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 486 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 487 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 488 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 489 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
