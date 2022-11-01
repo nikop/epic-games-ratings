@@ -297,7 +297,7 @@
 | 295 | [Horace](games/h/horace.md) | 4.57 | 
 | 296 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 297 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 298 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 298 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 299 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 300 | [House Party](games/h/house_party.md) | 4.34 | 
 | 301 | [Hue](games/h/hue.md) | 4.55 | 
@@ -527,7 +527,7 @@
 | 525 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 526 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 527 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
-| 528 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
+| 528 | [Scrapnaut](games/s/scrapnaut.md) | 4.38 | 
 | 529 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
 | 530 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 531 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
@@ -587,7 +587,7 @@
 | 585 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 586 | [STG Football](games/s/stg_football.md) | 4.62 | 
 | 587 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
-| 588 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
+| 588 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 589 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 590 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 591 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
