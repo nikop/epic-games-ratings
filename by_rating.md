@@ -220,24 +220,24 @@
 | 218 | [APE OUT](games/a/ape_out.md) | 4.68 | 
 | 219 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
 | 220 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
-| 221 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 222 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 223 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 224 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 225 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
-| 226 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 227 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 228 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
-| 229 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
-| 230 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 231 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.67 | 
-| 232 | [SOMA](games/s/soma.md) | 4.67 | 
-| 233 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
-| 234 | [CARRION](games/c/carrion.md) | 4.67 | 
-| 235 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
-| 236 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
-| 237 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.67 | 
-| 238 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
+| 221 | [No Straight Roads](games/n/no_straight_roads.md) | 4.68 | 
+| 222 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 223 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 224 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 225 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 226 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
+| 227 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 228 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 229 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
+| 230 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
+| 231 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 232 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.67 | 
+| 233 | [SOMA](games/s/soma.md) | 4.67 | 
+| 234 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
+| 235 | [CARRION](games/c/carrion.md) | 4.67 | 
+| 236 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
+| 237 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
+| 238 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.67 | 
 | 239 | [SpiderHeck](games/s/spiderheck.md) | 4.67 | 
 | 240 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 241 | [DOOM 64](games/d/doom_64.md) | 4.66 | 

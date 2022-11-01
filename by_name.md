@@ -417,7 +417,7 @@
 | 415 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 416 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 417 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 418 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
+| 418 | [No Straight Roads](games/n/no_straight_roads.md) | 4.68 | 
 | 419 | [NORCO](games/n/norco.md) | 4.57 | 
 | 420 | [Northgard](games/n/northgard.md) | 4.75 | 
 | 421 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
