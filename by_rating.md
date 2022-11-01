@@ -529,13 +529,13 @@
 | 527 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 528 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 529 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 530 | [Scorn](games/s/scorn.md) | 4.45 | 
-| 531 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 532 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 533 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 534 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
-| 535 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
-| 536 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
+| 530 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 531 | [Scorn](games/s/scorn.md) | 4.45 | 
+| 532 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 533 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 534 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 535 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 536 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 537 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
 | 538 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 539 | [Gloomhaven](games/g/gloomhaven.md) | 4.44 | 
