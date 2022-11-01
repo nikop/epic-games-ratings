@@ -35,7 +35,7 @@
 | 33 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
 | 34 | [APE OUT](games/a/ape_out.md) | 4.68 | 
 | 35 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
-| 36 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
+| 36 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
 | 37 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 38 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 39 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
@@ -350,7 +350,7 @@
 | 348 | [Lamentum](games/l/lamentum.md) | 4.36 | 
 | 349 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
 | 350 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 351 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.18 | 
+| 351 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.17 | 
 | 352 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
 | 353 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 354 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 

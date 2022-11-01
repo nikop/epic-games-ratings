@@ -220,49 +220,49 @@
 | 218 | [APE OUT](games/a/ape_out.md) | 4.68 | 
 | 219 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
 | 220 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
-| 221 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.68 | 
-| 222 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 223 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 224 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 225 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 226 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
-| 227 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 228 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 229 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
-| 230 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
-| 231 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 232 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.67 | 
-| 233 | [SOMA](games/s/soma.md) | 4.67 | 
-| 234 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
-| 235 | [CARRION](games/c/carrion.md) | 4.67 | 
-| 236 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
-| 237 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
-| 238 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.67 | 
-| 239 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
-| 240 | [SpiderHeck](games/s/spiderheck.md) | 4.67 | 
-| 241 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 242 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 243 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
-| 244 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 245 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
-| 246 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 247 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 248 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
-| 249 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
-| 250 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 251 | [Eastward](games/e/eastward.md) | 4.66 | 
-| 252 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 253 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 254 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 255 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 256 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 257 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 258 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
-| 259 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
-| 260 | [Coromon](games/c/coromon.md) | 4.65 | 
-| 261 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 262 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.65 | 
-| 263 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
+| 221 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 222 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 223 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 224 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 225 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
+| 226 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 227 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 228 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
+| 229 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
+| 230 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 231 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.67 | 
+| 232 | [SOMA](games/s/soma.md) | 4.67 | 
+| 233 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
+| 234 | [CARRION](games/c/carrion.md) | 4.67 | 
+| 235 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
+| 236 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
+| 237 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.67 | 
+| 238 | [No Straight Roads](games/n/no_straight_roads.md) | 4.67 | 
+| 239 | [SpiderHeck](games/s/spiderheck.md) | 4.67 | 
+| 240 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 241 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 242 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 243 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 244 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
+| 245 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
+| 246 | [Death's Door](games/d/death's_door.md) | 4.66 | 
+| 247 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
+| 248 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
+| 249 | [Mutazione](games/m/mutazione.md) | 4.66 | 
+| 250 | [Eastward](games/e/eastward.md) | 4.66 | 
+| 251 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 252 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 253 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 254 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 255 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 256 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 257 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
+| 258 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
+| 259 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 260 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
+| 261 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.65 | 
+| 262 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
+| 263 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
 | 264 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 265 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 266 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
@@ -708,13 +708,13 @@
 | 706 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 707 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 708 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
-| 709 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.18 | 
-| 710 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
-| 711 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.18 | 
-| 712 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
-| 713 | [Saturnalia](games/s/saturnalia.md) | 4.18 | 
-| 714 | [Windbound](games/w/windbound.md) | 4.17 | 
-| 715 | [Scavengers](games/s/scavengers.md) | 4.17 | 
+| 709 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
+| 710 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.18 | 
+| 711 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
+| 712 | [Saturnalia](games/s/saturnalia.md) | 4.18 | 
+| 713 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 714 | [Scavengers](games/s/scavengers.md) | 4.17 | 
+| 715 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.17 | 
 | 716 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.17 | 
 | 717 | [Gone Home](games/g/gone_home.md) | 4.17 | 
 | 718 | [Family Man](games/f/family_man.md) | 4.17 | 
