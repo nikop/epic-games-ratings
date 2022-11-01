@@ -50,7 +50,7 @@
 | 48 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 49 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 50 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 51 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.50 | 
+| 51 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.52 | 
 | 52 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
 | 53 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 54 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
@@ -137,7 +137,7 @@
 | 135 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 136 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 137 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
-| 138 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
+| 138 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 139 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 140 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 141 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
@@ -276,7 +276,7 @@
 | 274 | [Grindstone](games/g/grindstone.md) | 4.82 | 
 | 275 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
 | 276 | [Hades](games/h/hades.md) | 4.92 | 
-| 277 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 277 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 278 | [Hammerting](games/h/hammerting.md) | 4.40 | 
 | 279 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 280 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
@@ -474,7 +474,7 @@
 | 472 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
 | 473 | [Prey](games/p/prey.md) | 4.61 | 
 | 474 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 475 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 
+| 475 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 476 | [Quake](games/q/quake.md) | 4.82 | 
 | 477 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 478 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 

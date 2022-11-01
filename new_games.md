@@ -19,7 +19,7 @@
 | 17 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.26 | 
 | 18 | [Darkwood](games/d/darkwood.md) | 4.60 | 
 | 19 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 20 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.50 | 
+| 20 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.52 | 
 | 21 | [Outlast 2](games/o/outlast_2.md) | 4.77 | 
 | 22 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 23 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 

@@ -203,7 +203,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 20
+      "Count": 23
     },
     {
       "Text": "This game is Great for Beginners",
@@ -224,6 +224,10 @@
     {
       "Text": "This game is Extremely Fun",
       "Count": 22
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 24
     }
   ]
 }
