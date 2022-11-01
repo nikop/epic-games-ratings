@@ -29,7 +29,7 @@
 | 27 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 28 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
 | 29 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 30 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 30 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 31 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
 | 32 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 33 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
@@ -103,7 +103,7 @@
 | 101 | [Card Shark](games/c/card_shark.md) | 4.59 | 
 | 102 | [CARRION](games/c/carrion.md) | 4.67 | 
 | 103 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
-| 104 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 104 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 
 | 105 | [Cave Story+](games/c/cave_story+.md) | 4.77 | 
 | 106 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 107 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
@@ -190,7 +190,7 @@
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.25 | 
+| 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 194 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.46 | 
@@ -246,7 +246,7 @@
 | 244 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 245 | [FUSER™](games/f/fuser™.md) | 4.70 | 
 | 246 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 247 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.22 | 
+| 247 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
 | 248 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 249 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 250 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
@@ -292,7 +292,7 @@
 | 290 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 291 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 292 | [Hob](games/h/hob.md) | 4.57 | 
-| 293 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.23 | 
+| 293 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.30 | 
 | 294 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 295 | [Horace](games/h/horace.md) | 4.57 | 
 | 296 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -321,7 +321,7 @@
 | 319 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 320 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 321 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
-| 322 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
+| 322 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 323 | [Journey](games/j/journey.md) | 4.74 | 
 | 324 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 325 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
@@ -370,7 +370,7 @@
 | 368 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
 | 369 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 370 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
-| 371 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 371 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 372 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
 | 373 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 374 | [Mago](games/m/mago.md) | 4.86 | 
@@ -386,7 +386,7 @@
 | 384 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 385 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 386 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 387 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
+| 387 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.40 | 
 | 388 | [Minit](games/m/minit.md) | 4.53 | 
 | 389 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 390 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
@@ -740,7 +740,7 @@
 | 738 | [Warface](games/w/warface.md) | 3.95 | 
 | 739 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 740 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 741 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.56 | 
+| 741 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
 | 742 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 743 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.36 | 
 | 744 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 

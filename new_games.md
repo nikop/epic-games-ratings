@@ -2,7 +2,7 @@
 | --- | ---- | ------ | 
 | 1 | [Saturnalia](games/s/saturnalia.md) | 4.18 | 
 | 2 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.54 | 
-| 3 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.23 | 
+| 3 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.30 | 
 | 4 | [STG Football](games/s/stg_football.md) | 4.62 | 
 | 5 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.70 | 
 | 6 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
@@ -23,7 +23,7 @@
 | 21 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 22 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 23 | [Outlast](games/o/outlast.md) | 4.74 | 
-| 24 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.25 | 
+| 24 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
 | 25 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 26 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 27 | [SpiderHeck](games/s/spiderheck.md) | 4.67 | 
