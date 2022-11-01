@@ -271,7 +271,7 @@
 | 269 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 270 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 271 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
-| 272 | [Griftlands](games/g/griftlands.md) | 4.80 | 
+| 272 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 273 | [GRIME](games/g/grime.md) | 4.63 | 
 | 274 | [Grindstone](games/g/grindstone.md) | 4.82 | 
 | 275 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
@@ -541,13 +541,13 @@
 | 539 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
 | 540 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 541 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 542 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.46 | 
+| 542 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
 | 543 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 544 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 545 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 546 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.54 | 
 | 547 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 548 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
+| 548 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 549 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 550 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 551 | [Slipways](games/s/slipways.md) | 4.70 | 
@@ -747,7 +747,7 @@
 | 745 | [Warpips](games/w/warpips.md) | 4.57 | 
 | 746 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 747 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 748 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
+| 748 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
 | 749 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
 | 750 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 751 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
