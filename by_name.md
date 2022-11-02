@@ -103,7 +103,7 @@
 | 101 | [Card Shark](games/c/card_shark.md) | 4.59 | 
 | 102 | [CARRION](games/c/carrion.md) | 4.67 | 
 | 103 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
-| 104 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 
+| 104 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.58 | 
 | 105 | [Cave Story+](games/c/cave_story+.md) | 4.77 | 
 | 106 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 107 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
@@ -190,7 +190,7 @@
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
+| 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.28 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 194 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.47 | 
@@ -386,7 +386,7 @@
 | 384 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 385 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 386 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 387 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.40 | 
+| 387 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.41 | 
 | 388 | [Minit](games/m/minit.md) | 4.53 | 
 | 389 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 390 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
@@ -404,7 +404,7 @@
 | 402 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 403 | [MythForce](games/m/mythforce.md) | 4.52 | 
 | 404 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 405 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 405 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 406 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 407 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 408 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.64 | 
