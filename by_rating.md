@@ -568,28 +568,28 @@
 | 566 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 567 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 568 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 569 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
-| 570 | [Faeria](games/f/faeria.md) | 4.41 | 
-| 571 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 572 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 573 | [Train Valley](games/t/train_valley.md) | 4.41 | 
-| 574 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 575 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.41 | 
-| 576 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
-| 577 | [Backbone](games/b/backbone.md) | 4.41 | 
-| 578 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 579 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
-| 580 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 581 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 582 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
-| 583 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
-| 584 | [Torchlight](games/t/torchlight.md) | 4.40 | 
-| 585 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.40 | 
-| 586 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 587 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
-| 588 | [Hammerting](games/h/hammerting.md) | 4.40 | 
-| 589 | [Parkitect](games/p/parkitect.md) | 4.40 | 
-| 590 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 569 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
+| 570 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
+| 571 | [Faeria](games/f/faeria.md) | 4.41 | 
+| 572 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 573 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 574 | [Train Valley](games/t/train_valley.md) | 4.41 | 
+| 575 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 576 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.41 | 
+| 577 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
+| 578 | [Backbone](games/b/backbone.md) | 4.41 | 
+| 579 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 580 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 581 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
+| 582 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 583 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 584 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
+| 585 | [Torchlight](games/t/torchlight.md) | 4.40 | 
+| 586 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.40 | 
+| 587 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 588 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
+| 589 | [Hammerting](games/h/hammerting.md) | 4.40 | 
+| 590 | [Parkitect](games/p/parkitect.md) | 4.40 | 
 | 591 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
 | 592 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 593 | [Core](games/c/core.md) | 4.39 | 
