@@ -458,33 +458,33 @@
 | 456 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 457 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.52 | 
 | 458 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.52 | 
-| 459 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 460 | [Verdun](games/v/verdun.md) | 4.51 | 
-| 461 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 462 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 463 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 464 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 465 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 466 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
-| 467 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
-| 468 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
-| 469 | [The Surge](games/t/the_surge.md) | 4.51 | 
-| 470 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
-| 471 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 472 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 473 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 474 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 475 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
-| 476 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 477 | [CryoFall](games/c/cryofall.md) | 4.50 | 
-| 478 | [Aztez](games/a/aztez.md) | 4.50 | 
-| 479 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
-| 480 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 481 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
-| 482 | [Redout 2](games/r/redout_2.md) | 4.50 | 
-| 483 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
-| 484 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
-| 485 | [The Medium](games/t/the_medium.md) | 4.50 | 
+| 459 | [The Medium](games/t/the_medium.md) | 4.52 | 
+| 460 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 461 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 462 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 463 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 464 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 465 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 466 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 467 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
+| 468 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
+| 469 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
+| 470 | [The Surge](games/t/the_surge.md) | 4.51 | 
+| 471 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
+| 472 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 473 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 474 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 475 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
+| 476 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
+| 477 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 478 | [CryoFall](games/c/cryofall.md) | 4.50 | 
+| 479 | [Aztez](games/a/aztez.md) | 4.50 | 
+| 480 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
+| 481 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
+| 482 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
+| 483 | [Redout 2](games/r/redout_2.md) | 4.50 | 
+| 484 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
+| 485 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
 | 486 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 487 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 488 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 

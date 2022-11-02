@@ -1,10 +1,10 @@
 {
   "ID": "e192c537dd6d47ce9a9b00b643c3cdb9",
   "Name": "The Medium",
-  "Rating": 4.5,
+  "Rating": 4.52,
   "FirstSeen": "2022-07-22T20:25:44.1996449+00:00",
   "FirstSeenRating": "2022-10-24T23:02:37.2163937+00:00",
-  "LastChanged": "2022-10-31T15:01:51.1095985+00:00",
+  "LastChanged": "2022-11-02T14:31:41.7462911+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-24T23:02:37.2163942+00:00",
@@ -24,6 +24,11 @@
     {
       "Time": "2022-10-31T15:01:51.1095988+00:00",
       "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-02T14:31:41.7462914+00:00",
+      "Rating": 4.52,
       "NumberOfRatings": null
     }
   ],

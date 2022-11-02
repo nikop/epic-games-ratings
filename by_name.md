@@ -651,7 +651,7 @@
 | 649 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
 | 650 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
 | 651 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 652 | [The Medium](games/t/the_medium.md) | 4.50 | 
+| 652 | [The Medium](games/t/the_medium.md) | 4.52 | 
 | 653 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
 | 654 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 655 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
