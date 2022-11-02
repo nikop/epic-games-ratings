@@ -708,7 +708,7 @@
 | 706 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.97 | 
 | 707 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 708 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 709 | [Train Valley](games/t/train_valley.md) | 4.41 | 
+| 709 | [Train Valley](games/t/train_valley.md) | 4.42 | 
 | 710 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
 | 711 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 712 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
