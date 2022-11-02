@@ -737,12 +737,12 @@
 | 735 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
 | 736 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
 | 737 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
-| 738 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
-| 739 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 740 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
-| 741 | [Dead Age 2](games/d/dead_age_2.md) | 4.09 | 
-| 742 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 743 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.08 | 
+| 738 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.10 | 
+| 739 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 740 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
+| 741 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
+| 742 | [Dead Age 2](games/d/dead_age_2.md) | 4.09 | 
+| 743 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 744 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
 | 745 | [Lake](games/l/lake.md) | 4.08 | 
 | 746 | [Godfall](games/g/godfall.md) | 4.06 | 
