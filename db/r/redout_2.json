@@ -1,14 +1,19 @@
 {
   "ID": "05ae696a3c5f49af91a7433547460c21",
   "Name": "Redout 2",
-  "Rating": 4.48,
+  "Rating": 4.5,
   "FirstSeen": "2022-07-22T20:21:48.0586054+00:00",
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
-  "LastChanged": "2022-10-24T23:31:30.7974459+00:00",
+  "LastChanged": "2022-11-02T08:01:04.19939+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-24T23:31:30.797446+00:00",
       "Rating": 4.48,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-02T08:01:04.1993903+00:00",
+      "Rating": 4.5,
       "NumberOfRatings": null
     }
   ],

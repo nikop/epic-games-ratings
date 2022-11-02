@@ -489,7 +489,7 @@
 | 487 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
 | 488 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
 | 489 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
-| 490 | [Redout 2](games/r/redout_2.md) | 4.48 | 
+| 490 | [Redout 2](games/r/redout_2.md) | 4.50 | 
 | 491 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
 | 492 | [Relicta](games/r/relicta.md) | 4.11 | 
 | 493 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 

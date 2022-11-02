@@ -482,30 +482,30 @@
 | 480 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 481 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
 | 482 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
-| 483 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
-| 484 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
-| 485 | [The Medium](games/t/the_medium.md) | 4.50 | 
-| 486 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 487 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 488 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
-| 489 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 490 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 491 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 492 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 493 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 494 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 495 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
-| 496 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 497 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 498 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 499 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
-| 500 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
-| 501 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
-| 502 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
-| 503 | [Observation](games/o/observation.md) | 4.48 | 
-| 504 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
-| 505 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 506 | [Redout 2](games/r/redout_2.md) | 4.48 | 
+| 483 | [Redout 2](games/r/redout_2.md) | 4.50 | 
+| 484 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
+| 485 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
+| 486 | [The Medium](games/t/the_medium.md) | 4.50 | 
+| 487 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 488 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 489 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
+| 490 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 491 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 492 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 493 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 494 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 495 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 496 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
+| 497 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 498 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 499 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 500 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
+| 501 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
+| 502 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
+| 503 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
+| 504 | [Observation](games/o/observation.md) | 4.48 | 
+| 505 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
+| 506 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 507 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 508 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 509 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
