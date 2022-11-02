@@ -57,12 +57,12 @@
 | 55 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 56 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 57 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
-| 58 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 59 | [Grindstone](games/g/grindstone.md) | 4.82 | 
-| 60 | [Quake](games/q/quake.md) | 4.82 | 
-| 61 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
-| 62 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 63 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
+| 58 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
+| 59 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 60 | [Grindstone](games/g/grindstone.md) | 4.82 | 
+| 61 | [Quake](games/q/quake.md) | 4.82 | 
+| 62 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
+| 63 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 64 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 65 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 66 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
@@ -394,21 +394,21 @@
 | 392 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
 | 393 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
 | 394 | [NORCO](games/n/norco.md) | 4.57 | 
-| 395 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 396 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 397 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 398 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 399 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 400 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
-| 401 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
-| 402 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 403 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
-| 404 | [Isonzo](games/i/isonzo.md) | 4.56 | 
-| 405 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
-| 406 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
-| 407 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
-| 408 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 409 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 395 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 396 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 397 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 398 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 399 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
+| 400 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
+| 401 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 402 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
+| 403 | [Isonzo](games/i/isonzo.md) | 4.56 | 
+| 404 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
+| 405 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
+| 406 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
+| 407 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 408 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 409 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 410 | [Hue](games/h/hue.md) | 4.55 | 
 | 411 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
 | 412 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
@@ -468,15 +468,15 @@
 | 466 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 467 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
 | 468 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
-| 469 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
-| 470 | [The Surge](games/t/the_surge.md) | 4.51 | 
-| 471 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
-| 472 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 473 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 474 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 475 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 476 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
-| 477 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 469 | [The Surge](games/t/the_surge.md) | 4.51 | 
+| 470 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
+| 471 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 472 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 473 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 474 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
+| 475 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
+| 476 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 477 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
 | 478 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 479 | [Aztez](games/a/aztez.md) | 4.50 | 
 | 480 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
@@ -617,14 +617,14 @@
 | 615 | [Far Cry](games/f/far_cry.md) | 4.37 | 
 | 616 | [War Mongrels](games/w/war_mongrels.md) | 4.37 | 
 | 617 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
-| 618 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 619 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 620 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
-| 621 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 622 | [Among Trees](games/a/among_trees.md) | 4.36 | 
-| 623 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 624 | [Lamentum](games/l/lamentum.md) | 4.36 | 
-| 625 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.36 | 
+| 618 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.37 | 
+| 619 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 620 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 621 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
+| 622 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 623 | [Among Trees](games/a/among_trees.md) | 4.36 | 
+| 624 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 625 | [Lamentum](games/l/lamentum.md) | 4.36 | 
 | 626 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
 | 627 | [ELEX](games/e/elex.md) | 4.35 | 
 | 628 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
@@ -693,9 +693,9 @@
 | 691 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 692 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 693 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
-| 694 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 695 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.22 | 
-| 696 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.22 | 
+| 694 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
+| 695 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 696 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.22 | 
 | 697 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
 | 698 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 699 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 

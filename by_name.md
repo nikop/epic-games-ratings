@@ -6,7 +6,7 @@
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
-| 7 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
+| 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.60 | 
@@ -147,7 +147,7 @@
 | 145 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
 | 146 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 147 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 148 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
+| 148 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
 | 149 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
 | 151 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
@@ -462,7 +462,7 @@
 | 460 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 461 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 462 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
-| 463 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 463 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 464 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 465 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 466 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
@@ -716,7 +716,7 @@
 | 714 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 715 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 716 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
-| 717 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.22 | 
+| 717 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
 | 718 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 719 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 720 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.27 | 
@@ -745,7 +745,7 @@
 | 743 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 744 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
 | 745 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 746 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.36 | 
+| 746 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.37 | 
 | 747 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
 | 748 | [Warpips](games/w/warpips.md) | 4.58 | 
 | 749 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
