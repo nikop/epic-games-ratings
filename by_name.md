@@ -82,7 +82,7 @@
 | 80 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 81 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 82 | [Black Book](games/b/black_book.md) | 4.87 | 
-| 83 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.31 | 
+| 83 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.30 | 
 | 84 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
@@ -329,7 +329,7 @@
 | 327 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 328 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 329 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 330 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
+| 330 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 331 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 332 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 
 | 333 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
@@ -439,7 +439,7 @@
 | 437 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 438 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 439 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 440 | [Outlast](games/o/outlast.md) | 4.73 | 
+| 440 | [Outlast](games/o/outlast.md) | 4.74 | 
 | 441 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
 | 442 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 443 | [Outward](games/o/outward.md) | 4.54 | 
@@ -514,7 +514,7 @@
 | 512 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 513 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
 | 514 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 515 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 515 | [RUINER](games/r/ruiner.md) | 4.54 | 
 | 516 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 517 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 518 | [Sable](games/s/sable.md) | 4.57 | 
@@ -723,7 +723,7 @@
 | 721 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 722 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 723 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 724 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.82 | 
+| 724 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.81 | 
 | 725 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 726 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
 | 727 | [UnMetal](games/u/unmetal.md) | 4.55 | 

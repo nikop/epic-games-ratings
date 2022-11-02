@@ -11,7 +11,7 @@
 | 9 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 10 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.47 | 
 | 11 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.58 | 
-| 12 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.82 | 
+| 12 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.81 | 
 | 13 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
 | 14 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
 | 15 | [Scorn](games/s/scorn.md) | 4.46 | 
@@ -23,7 +23,7 @@
 | 21 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
 | 22 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 23 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
-| 24 | [Outlast](games/o/outlast.md) | 4.73 | 
+| 24 | [Outlast](games/o/outlast.md) | 4.74 | 
 | 25 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.28 | 
 | 26 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 27 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
