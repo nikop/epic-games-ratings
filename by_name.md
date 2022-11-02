@@ -51,7 +51,7 @@
 | 49 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 50 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 51 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.52 | 
-| 52 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
+| 52 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
 | 53 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
 | 54 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 55 | [Automachef](games/a/automachef.md) | 4.32 | 
@@ -129,7 +129,7 @@
 | 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 128 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 129 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 130 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 130 | [Crayta](games/c/crayta.md) | 4.20 | 
 | 131 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
 | 132 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
 | 133 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
@@ -188,7 +188,7 @@
 | 186 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 187 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.28 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.66 | 
@@ -294,7 +294,7 @@
 | 292 | [Hob](games/h/hob.md) | 4.57 | 
 | 293 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.32 | 
 | 294 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 295 | [Horace](games/h/horace.md) | 4.57 | 
+| 295 | [Horace](games/h/horace.md) | 4.56 | 
 | 296 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 297 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 298 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
@@ -563,7 +563,7 @@
 | 561 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 562 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
 | 563 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 564 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 564 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 565 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 566 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
 | 567 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
@@ -669,7 +669,7 @@
 | 667 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
 | 668 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 669 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 670 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.74 | 
+| 670 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.75 | 
 | 671 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
 | 672 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
 | 673 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
@@ -678,7 +678,7 @@
 | 676 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 677 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
 | 678 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
-| 679 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
+| 679 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 680 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 681 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 682 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
