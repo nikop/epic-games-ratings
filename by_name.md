@@ -557,7 +557,7 @@
 | 555 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
 | 556 | [SMITE](games/s/smite.md) | 4.46 | 
 | 557 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 558 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
+| 558 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
 | 559 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 560 | [SOMA](games/s/soma.md) | 4.67 | 
 | 561 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
@@ -641,7 +641,7 @@
 | 639 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
 | 640 | [The Fall](games/t/the_fall.md) | 4.25 | 
 | 641 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
-| 642 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.71 | 
+| 642 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
 | 643 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
 | 644 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 645 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
