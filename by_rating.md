@@ -342,18 +342,18 @@
 | 340 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
 | 341 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
 | 342 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.60 | 
-| 343 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 344 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 345 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 346 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 347 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 348 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 349 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 350 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
-| 351 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
-| 352 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 
-| 353 | [Card Shark](games/c/card_shark.md) | 4.59 | 
-| 354 | [Darkwood](games/d/darkwood.md) | 4.59 | 
+| 343 | [Darkwood](games/d/darkwood.md) | 4.60 | 
+| 344 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 345 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 346 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 347 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 348 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 349 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 350 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 351 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
+| 352 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
+| 353 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 
+| 354 | [Card Shark](games/c/card_shark.md) | 4.59 | 
 | 355 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 356 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 357 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -482,30 +482,30 @@
 | 480 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 481 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
 | 482 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
-| 483 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
-| 484 | [The Medium](games/t/the_medium.md) | 4.50 | 
-| 485 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 486 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 487 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
-| 488 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 489 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 490 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 491 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 492 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 493 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 494 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
-| 495 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 496 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 497 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 498 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
-| 499 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
-| 500 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
-| 501 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
-| 502 | [Observation](games/o/observation.md) | 4.48 | 
-| 503 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
-| 504 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 505 | [Redout 2](games/r/redout_2.md) | 4.48 | 
-| 506 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.48 | 
+| 483 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
+| 484 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
+| 485 | [The Medium](games/t/the_medium.md) | 4.50 | 
+| 486 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 487 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 488 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
+| 489 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 490 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 491 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 492 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 493 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 494 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 495 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
+| 496 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 497 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 498 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 499 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
+| 500 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
+| 501 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
+| 502 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
+| 503 | [Observation](games/o/observation.md) | 4.48 | 
+| 504 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
+| 505 | [GigaBash](games/g/gigabash.md) | 4.48 | 
+| 506 | [Redout 2](games/r/redout_2.md) | 4.48 | 
 | 507 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 508 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 509 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 

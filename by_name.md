@@ -151,7 +151,7 @@
 | 149 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
 | 151 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 152 | [Darkwood](games/d/darkwood.md) | 4.59 | 
+| 152 | [Darkwood](games/d/darkwood.md) | 4.60 | 
 | 153 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
 | 154 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 155 | [Days Gone](games/d/days_gone.md) | 4.70 | 
@@ -571,7 +571,7 @@
 | 569 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
 | 570 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
 | 571 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 572 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.48 | 
+| 572 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
 | 573 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.70 | 
 | 574 | [SpiderHeck](games/s/spiderheck.md) | 4.65 | 
 | 575 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
