@@ -673,20 +673,20 @@
 | 671 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
 | 672 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
 | 673 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 674 | [EVE Online](games/e/eve_online.md) | 4.27 | 
-| 675 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
-| 676 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
-| 677 | [Ashen](games/a/ashen.md) | 4.27 | 
-| 678 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
-| 679 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.27 | 
-| 680 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 681 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.26 | 
-| 682 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 683 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
-| 684 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 685 | [The Fall](games/t/the_fall.md) | 4.25 | 
-| 686 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
-| 687 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
+| 674 | [Saturnalia](games/s/saturnalia.md) | 4.28 | 
+| 675 | [EVE Online](games/e/eve_online.md) | 4.27 | 
+| 676 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
+| 677 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
+| 678 | [Ashen](games/a/ashen.md) | 4.27 | 
+| 679 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
+| 680 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.27 | 
+| 681 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 682 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.26 | 
+| 683 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
+| 684 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
+| 685 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 686 | [The Fall](games/t/the_fall.md) | 4.25 | 
+| 687 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
 | 688 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 689 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
 | 690 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
