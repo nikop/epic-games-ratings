@@ -640,7 +640,7 @@
 | 638 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 639 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
 | 640 | [The Fall](games/t/the_fall.md) | 4.25 | 
-| 641 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
+| 641 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
 | 642 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
 | 643 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
 | 644 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
@@ -694,13 +694,13 @@
 | 692 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
 | 693 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 694 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 695 | [Torchlight](games/t/torchlight.md) | 4.40 | 
+| 695 | [Torchlight](games/t/torchlight.md) | 4.39 | 
 | 696 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 697 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 698 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
 | 699 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 700 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 701 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
+| 701 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.45 | 
 | 702 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 
 | 703 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 704 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
@@ -764,7 +764,7 @@
 | 762 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 763 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 764 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 765 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.62 | 
+| 765 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 766 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 767 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 768 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
