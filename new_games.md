@@ -16,7 +16,7 @@
 | 14 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 15 | [Scorn](games/s/scorn.md) | 4.46 | 
 | 16 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
-| 17 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.26 | 
+| 17 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.27 | 
 | 18 | [Darkwood](games/d/darkwood.md) | 4.60 | 
 | 19 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 20 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.52 | 
@@ -58,7 +58,7 @@
 | 56 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
 | 57 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 58 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
-| 59 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.36 | 
+| 59 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.37 | 
 | 60 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 61 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 62 | [GigaBash](games/g/gigabash.md) | 4.48 | 
