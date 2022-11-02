@@ -434,7 +434,7 @@
 | 432 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 433 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
 | 434 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.21 | 
-| 435 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.76 | 
+| 435 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 
 | 436 | [Othercide](games/o/othercide.md) | 4.33 | 
 | 437 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 438 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
@@ -614,7 +614,7 @@
 | 612 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 613 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 614 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
-| 615 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
+| 615 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
 | 616 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 617 | [Tacoma](games/t/tacoma.md) | 4.30 | 
 | 618 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 

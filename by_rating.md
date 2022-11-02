@@ -247,16 +247,16 @@
 | 245 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
 | 246 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 247 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 248 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
-| 249 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
-| 250 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 251 | [Eastward](games/e/eastward.md) | 4.66 | 
-| 252 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 253 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 254 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 255 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 256 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 257 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 248 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
+| 249 | [Mutazione](games/m/mutazione.md) | 4.66 | 
+| 250 | [Eastward](games/e/eastward.md) | 4.66 | 
+| 251 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 252 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 253 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 254 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 255 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 256 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 257 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
 | 258 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
 | 259 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
 | 260 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
@@ -776,6 +776,6 @@
 | 774 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 
 | 775 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 776 | [Saints Row](games/s/saints_row.md) | 3.77 | 
-| 777 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.76 | 
+| 777 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 
 | 778 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.70 | 
 | 779 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
