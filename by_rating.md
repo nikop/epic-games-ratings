@@ -316,24 +316,24 @@
 | 314 | [20XX](games/2/20xx.md) | 4.61 | 
 | 315 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
 | 316 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
-| 317 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
-| 318 | [Roguebook](games/r/roguebook.md) | 4.61 | 
-| 319 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
-| 320 | [Control](games/c/control.md) | 4.60 | 
-| 321 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 322 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 323 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 324 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 325 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
-| 326 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
-| 327 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
-| 328 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
-| 329 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 330 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 331 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
-| 332 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
-| 333 | [ABZU](games/a/abzu.md) | 4.60 | 
-| 334 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.60 | 
+| 317 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
+| 318 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
+| 319 | [Roguebook](games/r/roguebook.md) | 4.61 | 
+| 320 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
+| 321 | [Control](games/c/control.md) | 4.60 | 
+| 322 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 323 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 324 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 325 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 326 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
+| 327 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
+| 328 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
+| 329 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
+| 330 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 331 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 332 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
+| 333 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
+| 334 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 335 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
 | 336 | [RiME](games/r/rime.md) | 4.60 | 
 | 337 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
@@ -381,22 +381,22 @@
 | 379 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 380 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
 | 381 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 382 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 383 | [Hob](games/h/hob.md) | 4.57 | 
-| 384 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
-| 385 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.57 | 
-| 386 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 387 | [Road 96](games/r/road_96.md) | 4.57 | 
-| 388 | [Breathedge](games/b/breathedge.md) | 4.57 | 
-| 389 | [Horace](games/h/horace.md) | 4.57 | 
-| 390 | [Sable](games/s/sable.md) | 4.57 | 
-| 391 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
-| 392 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
-| 393 | [NORCO](games/n/norco.md) | 4.57 | 
-| 394 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 395 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 396 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 397 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 382 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 383 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 384 | [Hob](games/h/hob.md) | 4.57 | 
+| 385 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
+| 386 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.57 | 
+| 387 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 388 | [Road 96](games/r/road_96.md) | 4.57 | 
+| 389 | [Breathedge](games/b/breathedge.md) | 4.57 | 
+| 390 | [Horace](games/h/horace.md) | 4.57 | 
+| 391 | [Sable](games/s/sable.md) | 4.57 | 
+| 392 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
+| 393 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
+| 394 | [NORCO](games/n/norco.md) | 4.57 | 
+| 395 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 396 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 397 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 398 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 399 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 400 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 

@@ -207,7 +207,7 @@
 | 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.47 | 
 | 206 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 207 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 209 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 211 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
@@ -715,7 +715,7 @@
 | 713 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 714 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 715 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 716 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.60 | 
+| 716 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
 | 717 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.22 | 
 | 718 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 719 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
