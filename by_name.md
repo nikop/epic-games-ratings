@@ -26,7 +26,7 @@
 | 24 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 25 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.61 | 
 | 26 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 27 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
+| 27 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 28 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
 | 29 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
 | 30 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
@@ -626,7 +626,7 @@
 | 624 | [Tharsis](games/t/tharsis.md) | 4.20 | 
 | 625 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 626 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.60 | 
-| 627 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
+| 627 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 628 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 629 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 630 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 

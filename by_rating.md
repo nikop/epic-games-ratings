@@ -3,8 +3,8 @@
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 2 | [Hades](games/h/hades.md) | 4.92 | 
 | 3 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 4 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
-| 5 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
+| 4 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
+| 5 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 7 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.90 | 
 | 8 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
@@ -633,11 +633,11 @@
 | 631 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 632 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 633 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 634 | [House Party](games/h/house_party.md) | 4.34 | 
-| 635 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
-| 636 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
-| 637 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
-| 638 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
+| 634 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 635 | [House Party](games/h/house_party.md) | 4.34 | 
+| 636 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
+| 637 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
+| 638 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
 | 639 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 640 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 641 | [Othercide](games/o/othercide.md) | 4.33 | 
