@@ -56,7 +56,7 @@
 | 54 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 55 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 56 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 57 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.52 | 
+| 57 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
 | 58 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
 | 59 | [Aztez](games/a/aztez.md) | 4.50 | 
 | 60 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
@@ -367,7 +367,7 @@
 | 365 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 366 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
 | 367 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
-| 368 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
+| 368 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.14 | 
 | 369 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 370 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
 | 371 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
