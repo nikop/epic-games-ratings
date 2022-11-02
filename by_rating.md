@@ -452,20 +452,20 @@
 | 450 | [MythForce](games/m/mythforce.md) | 4.52 | 
 | 451 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
 | 452 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 453 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
-| 454 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 455 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 456 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.52 | 
-| 457 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.52 | 
-| 458 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 459 | [Verdun](games/v/verdun.md) | 4.51 | 
-| 460 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 461 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 462 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 463 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 464 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 465 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
-| 466 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.51 | 
+| 453 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.52 | 
+| 454 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
+| 455 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 456 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 457 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.52 | 
+| 458 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.52 | 
+| 459 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 460 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 461 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 462 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 463 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 464 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 465 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 466 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
 | 467 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
 | 468 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 469 | [The Surge](games/t/the_surge.md) | 4.51 | 
