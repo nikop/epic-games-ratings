@@ -692,9 +692,9 @@
 | 690 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
 | 691 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 692 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 693 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
-| 694 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
-| 695 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 693 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
+| 694 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 695 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.22 | 
 | 696 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.22 | 
 | 697 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
 | 698 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 

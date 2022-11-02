@@ -246,7 +246,7 @@
 | 244 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 245 | [FUSER™](games/f/fuser™.md) | 4.70 | 
 | 246 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 247 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.23 | 
+| 247 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.22 | 
 | 248 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 249 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 250 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
