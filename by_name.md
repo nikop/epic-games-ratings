@@ -64,7 +64,7 @@
 | 62 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 63 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
 | 64 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
-| 65 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
+| 65 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.69 | 
 | 66 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 67 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.39 | 
 | 68 | [Barony](games/b/barony.md) | 4.68 | 
@@ -410,7 +410,7 @@
 | 408 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.64 | 
 | 409 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 410 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 411 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
+| 411 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 412 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
 | 413 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.17 | 
 | 414 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.52 | 
@@ -466,7 +466,7 @@
 | 464 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 465 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 466 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
-| 467 | [Pine](games/p/pine.md) | 4.13 | 
+| 467 | [Pine](games/p/pine.md) | 4.14 | 
 | 468 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.42 | 
 | 469 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
 | 470 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 
@@ -733,7 +733,7 @@
 | 731 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 732 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.76 | 
 | 733 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 734 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
+| 734 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.18 | 
 | 735 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 736 | [Verdun](games/v/verdun.md) | 4.51 | 
 | 737 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 

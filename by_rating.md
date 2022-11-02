@@ -204,24 +204,24 @@
 | 202 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
 | 203 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
 | 204 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
-| 205 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 206 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 207 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 208 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 209 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 210 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 211 | [Barony](games/b/barony.md) | 4.68 | 
-| 212 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 213 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 214 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
-| 215 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
-| 216 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
-| 217 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 218 | [Rogue Lords](games/r/rogue_lords.md) | 4.68 | 
-| 219 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
-| 220 | [APE OUT](games/a/ape_out.md) | 4.68 | 
-| 221 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
-| 222 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
+| 205 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.69 | 
+| 206 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 207 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 208 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 209 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 210 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 211 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 212 | [Barony](games/b/barony.md) | 4.68 | 
+| 213 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 214 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
+| 215 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
+| 216 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
+| 217 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
+| 218 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
+| 219 | [Rogue Lords](games/r/rogue_lords.md) | 4.68 | 
+| 220 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
+| 221 | [APE OUT](games/a/ape_out.md) | 4.68 | 
+| 222 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
 | 223 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 224 | [No Straight Roads](games/n/no_straight_roads.md) | 4.68 | 
 | 225 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
@@ -708,11 +708,11 @@
 | 706 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 707 | [Tharsis](games/t/tharsis.md) | 4.20 | 
 | 708 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 709 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
-| 710 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 711 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
-| 712 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
-| 713 | [Space Punks](games/s/space_punks.md) | 4.18 | 
+| 709 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 710 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
+| 711 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
+| 712 | [Space Punks](games/s/space_punks.md) | 4.18 | 
+| 713 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.18 | 
 | 714 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
 | 715 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
 | 716 | [Windbound](games/w/windbound.md) | 4.17 | 
@@ -725,9 +725,9 @@
 | 723 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
 | 724 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 725 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
-| 726 | [Obduction](games/o/obduction.md) | 4.14 | 
-| 727 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
-| 728 | [Pine](games/p/pine.md) | 4.13 | 
+| 726 | [Pine](games/p/pine.md) | 4.14 | 
+| 727 | [Obduction](games/o/obduction.md) | 4.14 | 
+| 728 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 729 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
 | 730 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
 | 731 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
@@ -737,11 +737,11 @@
 | 735 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
 | 736 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
 | 737 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
-| 738 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 739 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
-| 740 | [Dead Age 2](games/d/dead_age_2.md) | 4.09 | 
-| 741 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 742 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
+| 738 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 739 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
+| 740 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
+| 741 | [Dead Age 2](games/d/dead_age_2.md) | 4.09 | 
+| 742 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 743 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.08 | 
 | 744 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
 | 745 | [Lake](games/l/lake.md) | 4.08 | 
