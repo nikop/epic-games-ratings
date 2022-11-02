@@ -67,7 +67,7 @@
 | 65 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.68 | 
 | 66 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 67 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.39 | 
-| 68 | [Barony](games/b/barony.md) | 4.69 | 
+| 68 | [Barony](games/b/barony.md) | 4.68 | 
 | 69 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
 | 70 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 71 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
@@ -286,7 +286,7 @@
 | 284 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 285 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
 | 286 | [Hellpoint](games/h/hellpoint.md) | 4.17 | 
-| 287 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
+| 287 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
 | 288 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 289 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 290 | [HITMAN](games/h/hitman.md) | 4.64 | 
@@ -404,7 +404,7 @@
 | 402 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 403 | [MythForce](games/m/mythforce.md) | 4.52 | 
 | 404 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 405 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 405 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 406 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 407 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 408 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.64 | 
@@ -701,7 +701,7 @@
 | 699 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 700 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 701 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
-| 702 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
+| 702 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 
 | 703 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 704 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
 | 705 | [Trackmania](games/t/trackmania.md) | 4.67 | 
