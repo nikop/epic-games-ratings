@@ -551,17 +551,17 @@
 | 549 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
 | 550 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
 | 551 | [Weird West](games/w/weird_west.md) | 4.43 | 
-| 552 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 553 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 554 | [Runbow](games/r/runbow.md) | 4.43 | 
-| 555 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 556 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 557 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 558 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 559 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 560 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
-| 561 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
-| 562 | [Figment](games/f/figment.md) | 4.42 | 
+| 552 | [Figment](games/f/figment.md) | 4.43 | 
+| 553 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 554 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
+| 555 | [Runbow](games/r/runbow.md) | 4.43 | 
+| 556 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 557 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 558 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 559 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 560 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 561 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
+| 562 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
 | 563 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 564 | [Chorus](games/c/chorus.md) | 4.42 | 
 | 565 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.42 | 

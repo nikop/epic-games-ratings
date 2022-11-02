@@ -232,7 +232,7 @@
 | 230 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
 | 231 | [Fez](games/f/fez.md) | 4.73 | 
 | 232 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.65 | 
-| 233 | [Figment](games/f/figment.md) | 4.42 | 
+| 233 | [Figment](games/f/figment.md) | 4.43 | 
 | 234 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 235 | [Firework](games/f/firework.md) | 4.87 | 
 | 236 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
