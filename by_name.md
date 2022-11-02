@@ -388,7 +388,7 @@
 | 386 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 387 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.41 | 
 | 388 | [Minit](games/m/minit.md) | 4.53 | 
-| 389 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
+| 389 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 390 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 391 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
 | 392 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 

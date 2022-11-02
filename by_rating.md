@@ -772,7 +772,7 @@
 | 770 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 
 | 771 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
 | 772 | [Conarium](games/c/conarium.md) | 3.85 | 
-| 773 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
+| 773 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 774 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 
 | 775 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 776 | [Saints Row](games/s/saints_row.md) | 3.77 | 
