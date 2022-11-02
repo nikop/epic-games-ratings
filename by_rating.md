@@ -89,19 +89,19 @@
 | 87 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 88 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 89 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 90 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 91 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 92 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
-| 93 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
-| 94 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 95 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
-| 96 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
-| 97 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 98 | [Cave Story+](games/c/cave_story+.md) | 4.77 | 
-| 99 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 
-| 100 | [Superliminal](games/s/superliminal.md) | 4.77 | 
-| 101 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
-| 102 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
+| 90 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.79 | 
+| 91 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 92 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 93 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
+| 94 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
+| 95 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
+| 96 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
+| 97 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
+| 98 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 99 | [Cave Story+](games/c/cave_story+.md) | 4.77 | 
+| 100 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 
+| 101 | [Superliminal](games/s/superliminal.md) | 4.77 | 
+| 102 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
 | 103 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.77 | 
 | 104 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 105 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
@@ -580,16 +580,16 @@
 | 578 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
 | 579 | [Backbone](games/b/backbone.md) | 4.41 | 
 | 580 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 581 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
-| 582 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 583 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 584 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
-| 585 | [Torchlight](games/t/torchlight.md) | 4.40 | 
-| 586 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 587 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
-| 588 | [Hammerting](games/h/hammerting.md) | 4.40 | 
-| 589 | [Parkitect](games/p/parkitect.md) | 4.40 | 
-| 590 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 581 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 582 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
+| 583 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 584 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 585 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
+| 586 | [Torchlight](games/t/torchlight.md) | 4.40 | 
+| 587 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 588 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
+| 589 | [Hammerting](games/h/hammerting.md) | 4.40 | 
+| 590 | [Parkitect](games/p/parkitect.md) | 4.40 | 
 | 591 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
 | 592 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 593 | [Core](games/c/core.md) | 4.39 | 
