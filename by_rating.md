@@ -431,18 +431,18 @@
 | 429 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.54 | 
 | 430 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 431 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 432 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 433 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 434 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 435 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 436 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 437 | [RUINER](games/r/ruiner.md) | 4.53 | 
-| 438 | [Minit](games/m/minit.md) | 4.53 | 
-| 439 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
-| 440 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 441 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
-| 442 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
-| 443 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 432 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
+| 433 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 434 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 435 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 436 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 437 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 438 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 439 | [Minit](games/m/minit.md) | 4.53 | 
+| 440 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
+| 441 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 442 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
+| 443 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
 | 444 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 445 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 446 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
