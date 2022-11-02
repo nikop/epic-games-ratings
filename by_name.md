@@ -33,7 +33,7 @@
 | 31 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
 | 32 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 33 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
-| 34 | [APE OUT](games/a/ape_out.md) | 4.68 | 
+| 34 | [APE OUT](games/a/ape_out.md) | 4.69 | 
 | 35 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
 | 36 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
 | 37 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
@@ -356,7 +356,7 @@
 | 354 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
 | 355 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 356 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 357 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
+| 357 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
 | 358 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 359 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 360 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
@@ -510,7 +510,7 @@
 | 508 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 509 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
 | 510 | [Rogue Lords](games/r/rogue_lords.md) | 4.68 | 
-| 511 | [Roguebook](games/r/roguebook.md) | 4.61 | 
+| 511 | [Roguebook](games/r/roguebook.md) | 4.60 | 
 | 512 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 513 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
 | 514 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
@@ -526,8 +526,8 @@
 | 524 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
 | 525 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
 | 526 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 527 | [Saturnalia](games/s/saturnalia.md) | 4.28 | 
-| 528 | [Scavengers](games/s/scavengers.md) | 4.17 | 
+| 527 | [Saturnalia](games/s/saturnalia.md) | 4.27 | 
+| 528 | [Scavengers](games/s/scavengers.md) | 4.16 | 
 | 529 | [Scorn](games/s/scorn.md) | 4.46 | 
 | 530 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
 | 531 | [Scrapnaut](games/s/scrapnaut.md) | 4.38 | 
@@ -619,7 +619,7 @@
 | 617 | [Tacoma](games/t/tacoma.md) | 4.30 | 
 | 618 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
 | 619 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
-| 620 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 620 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
 | 621 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
 | 622 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 623 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
