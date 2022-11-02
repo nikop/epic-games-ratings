@@ -518,7 +518,7 @@
 | 516 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 517 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 518 | [Sable](games/s/sable.md) | 4.57 | 
-| 519 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.73 | 
+| 519 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 
 | 520 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 521 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 522 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
@@ -588,7 +588,7 @@
 | 586 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 587 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 588 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 589 | [STG Football](games/s/stg_football.md) | 4.63 | 
+| 589 | [STG Football](games/s/stg_football.md) | 4.65 | 
 | 590 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 591 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 592 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
@@ -745,7 +745,7 @@
 | 743 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 744 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
 | 745 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 746 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.37 | 
+| 746 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.36 | 
 | 747 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
 | 748 | [Warpips](games/w/warpips.md) | 4.58 | 
 | 749 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
