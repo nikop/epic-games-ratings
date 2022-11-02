@@ -125,7 +125,7 @@
 | 123 | [Core](games/c/core.md) | 4.39 | 
 | 124 | [Coromon](games/c/coromon.md) | 4.65 | 
 | 125 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
-| 126 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
+| 126 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
 | 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 128 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 129 | [Crashlands](games/c/crashlands.md) | 4.66 | 
@@ -544,7 +544,7 @@
 | 542 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
 | 543 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 544 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
-| 545 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
+| 545 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 
 | 546 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 547 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 548 | [Sifu](games/s/sifu.md) | 4.80 | 
@@ -727,7 +727,7 @@
 | 725 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 726 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
 | 727 | [UnMetal](games/u/unmetal.md) | 4.55 | 
-| 728 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
+| 728 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
 | 729 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 730 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 731 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
