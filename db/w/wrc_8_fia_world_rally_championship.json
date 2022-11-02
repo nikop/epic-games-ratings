@@ -1,10 +1,10 @@
 {
   "ID": "f6dcd5bf17c0469789292d1166bf91a1",
   "Name": "WRC 8 FIA World Rally Championship",
-  "Rating": 4.58,
+  "Rating": 4.57,
   "NumberOfRatings": 199,
   "FirstSeen": "2022-07-22T20:18:20.314289+00:00",
-  "LastChanged": "2022-11-01T05:00:47.2670089+00:00",
+  "LastChanged": "2022-11-02T00:30:40.1615697+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:20.3142892+00:00",
@@ -289,6 +289,11 @@
     {
       "Time": "2022-11-01T05:00:47.2670093+00:00",
       "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-02T00:30:40.1615699+00:00",
+      "Rating": 4.57,
       "NumberOfRatings": null
     }
   ],

@@ -4,7 +4,7 @@
 | 2 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
 | 3 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.55 | 
 | 4 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.31 | 
-| 5 | [STG Football](games/s/stg_football.md) | 4.62 | 
+| 5 | [STG Football](games/s/stg_football.md) | 4.63 | 
 | 6 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 7 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
 | 8 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.17 | 
@@ -35,7 +35,7 @@
 | 33 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
 | 34 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.81 | 
 | 35 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
-| 36 | [Isonzo](games/i/isonzo.md) | 4.55 | 
+| 36 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 37 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 38 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 39 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 

@@ -291,19 +291,19 @@
 | 289 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 290 | [GRIME](games/g/grime.md) | 4.63 | 
 | 291 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 
-| 292 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 293 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 294 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 295 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
-| 296 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
-| 297 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 298 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.62 | 
-| 299 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 300 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
-| 301 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
-| 302 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.62 | 
-| 303 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 304 | [STG Football](games/s/stg_football.md) | 4.62 | 
+| 292 | [STG Football](games/s/stg_football.md) | 4.63 | 
+| 293 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 294 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 295 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 296 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
+| 297 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
+| 298 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 299 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.62 | 
+| 300 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 301 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
+| 302 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
+| 303 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.62 | 
+| 304 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 305 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 306 | [Prey](games/p/prey.md) | 4.61 | 
 | 307 | [Warframe](games/w/warframe.md) | 4.61 | 
@@ -369,22 +369,22 @@
 | 367 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 368 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
 | 369 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
-| 370 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
-| 371 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
-| 372 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
-| 373 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
-| 374 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
-| 375 | [Warpips](games/w/warpips.md) | 4.58 | 
-| 376 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.58 | 
-| 377 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 378 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 379 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
-| 380 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 381 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
-| 382 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 383 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 384 | [Hob](games/h/hob.md) | 4.57 | 
-| 385 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
+| 370 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
+| 371 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
+| 372 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
+| 373 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
+| 374 | [Warpips](games/w/warpips.md) | 4.58 | 
+| 375 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.58 | 
+| 376 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 377 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 378 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
+| 379 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 380 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 381 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 382 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 383 | [Hob](games/h/hob.md) | 4.57 | 
+| 384 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
+| 385 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.57 | 
 | 386 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 387 | [Road 96](games/r/road_96.md) | 4.57 | 
 | 388 | [Breathedge](games/b/breathedge.md) | 4.57 | 
@@ -403,13 +403,13 @@
 | 401 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 402 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 403 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
-| 404 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
-| 405 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
-| 406 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
-| 407 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 408 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 409 | [Hue](games/h/hue.md) | 4.55 | 
-| 410 | [Isonzo](games/i/isonzo.md) | 4.55 | 
+| 404 | [Isonzo](games/i/isonzo.md) | 4.56 | 
+| 405 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
+| 406 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
+| 407 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
+| 408 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 409 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 410 | [Hue](games/h/hue.md) | 4.55 | 
 | 411 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
 | 412 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 413 | [Souldiers](games/s/souldiers.md) | 4.55 | 

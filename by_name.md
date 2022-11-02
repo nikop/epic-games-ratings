@@ -319,7 +319,7 @@
 | 317 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 318 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
 | 319 | [Ironcast](games/i/ironcast.md) | 3.88 | 
-| 320 | [Isonzo](games/i/isonzo.md) | 4.55 | 
+| 320 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 321 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
 | 322 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 323 | [Journey](games/j/journey.md) | 4.74 | 
@@ -588,7 +588,7 @@
 | 586 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 587 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 588 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 589 | [STG Football](games/s/stg_football.md) | 4.62 | 
+| 589 | [STG Football](games/s/stg_football.md) | 4.63 | 
 | 590 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 591 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 592 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
@@ -770,7 +770,7 @@
 | 768 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 769 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
 | 770 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
-| 771 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
+| 771 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.57 | 
 | 772 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
 | 773 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 774 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
