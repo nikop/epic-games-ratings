@@ -36,7 +36,7 @@
 | 34 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.81 | 
 | 35 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 36 | [Isonzo](games/i/isonzo.md) | 4.56 | 
-| 37 | [Steelrising](games/s/steelrising.md) | 4.27 | 
+| 37 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 38 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 39 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 40 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 

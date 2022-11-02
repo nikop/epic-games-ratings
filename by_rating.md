@@ -672,10 +672,10 @@
 | 670 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.28 | 
 | 671 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
 | 672 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
-| 673 | [EVE Online](games/e/eve_online.md) | 4.27 | 
-| 674 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
-| 675 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
-| 676 | [Steelrising](games/s/steelrising.md) | 4.27 | 
+| 673 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 674 | [EVE Online](games/e/eve_online.md) | 4.27 | 
+| 675 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
+| 676 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
 | 677 | [Ashen](games/a/ashen.md) | 4.27 | 
 | 678 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
 | 679 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.27 | 
