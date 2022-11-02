@@ -531,24 +531,24 @@
 | 529 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 530 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 531 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 532 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 533 | [Death Coming](games/d/death_coming.md) | 4.45 | 
-| 534 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
-| 535 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 536 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 537 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 532 | [Death Coming](games/d/death_coming.md) | 4.45 | 
+| 533 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
+| 534 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 535 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 536 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 537 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
 | 538 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 539 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
-| 540 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
-| 541 | [Gloomhaven](games/g/gloomhaven.md) | 4.44 | 
-| 542 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 543 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
-| 544 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 545 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 546 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
-| 547 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 548 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
-| 549 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 540 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
+| 541 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
+| 542 | [Gloomhaven](games/g/gloomhaven.md) | 4.44 | 
+| 543 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 544 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
+| 545 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
+| 546 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 547 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
+| 548 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 549 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
 | 550 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
 | 551 | [Weird West](games/w/weird_west.md) | 4.43 | 
 | 552 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
@@ -645,17 +645,17 @@
 | 643 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 644 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
 | 645 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
-| 646 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
-| 647 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
-| 648 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 649 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 650 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
-| 651 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.31 | 
-| 652 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
-| 653 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 654 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
-| 655 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
-| 656 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.31 | 
+| 646 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.32 | 
+| 647 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
+| 648 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 649 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 650 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 651 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
+| 652 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.31 | 
+| 653 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
+| 654 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 655 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
+| 656 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 657 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 658 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
 | 659 | [Tacoma](games/t/tacoma.md) | 4.30 | 

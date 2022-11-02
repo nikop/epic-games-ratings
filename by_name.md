@@ -292,7 +292,7 @@
 | 290 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 291 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 292 | [Hob](games/h/hob.md) | 4.57 | 
-| 293 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.31 | 
+| 293 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.32 | 
 | 294 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 295 | [Horace](games/h/horace.md) | 4.57 | 
 | 296 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -351,7 +351,7 @@
 | 349 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
 | 350 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 351 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.17 | 
-| 352 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 352 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
 | 353 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 354 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
 | 355 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
@@ -543,7 +543,7 @@
 | 541 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 542 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
 | 543 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 544 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 544 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
 | 545 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.47 | 
 | 546 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 547 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
