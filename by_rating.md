@@ -101,18 +101,18 @@
 | 99 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 
 | 100 | [Superliminal](games/s/superliminal.md) | 4.77 | 
 | 101 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
-| 102 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.77 | 
-| 103 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 104 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 105 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 106 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 107 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 108 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
-| 109 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
-| 110 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
-| 111 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.76 | 
-| 112 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
-| 113 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 
+| 102 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
+| 103 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.77 | 
+| 104 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 105 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 106 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 107 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 108 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
+| 109 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
+| 110 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
+| 111 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
+| 112 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.76 | 
+| 113 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
 | 114 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 115 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 116 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
@@ -746,10 +746,10 @@
 | 744 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
 | 745 | [Lake](games/l/lake.md) | 4.08 | 
 | 746 | [Godfall](games/g/godfall.md) | 4.06 | 
-| 747 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.06 | 
-| 748 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 749 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.05 | 
-| 750 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
+| 747 | [Train Valley 2](games/t/train_valley_2.md) | 4.06 | 
+| 748 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.06 | 
+| 749 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 750 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.05 | 
 | 751 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 752 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
 | 753 | [Submerged](games/s/submerged.md) | 4.04 | 

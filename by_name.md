@@ -518,7 +518,7 @@
 | 516 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 517 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 518 | [Sable](games/s/sable.md) | 4.57 | 
-| 519 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 
+| 519 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
 | 520 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 521 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 522 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
@@ -709,7 +709,7 @@
 | 707 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 708 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 709 | [Train Valley](games/t/train_valley.md) | 4.42 | 
-| 710 | [Train Valley 2](games/t/train_valley_2.md) | 4.05 | 
+| 710 | [Train Valley 2](games/t/train_valley_2.md) | 4.06 | 
 | 711 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 712 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 713 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
