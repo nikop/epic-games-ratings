@@ -1,14 +1,19 @@
 {
   "ID": "59de74945cc34f96af65e4e238591df7",
   "Name": "Rebel Cops",
-  "Rating": 4.5,
+  "Rating": 4.52,
   "FirstSeen": "2022-07-22T20:18:33.7295496+00:00",
   "FirstSeenRating": "2022-11-01T18:31:34.6726487+00:00",
-  "LastChanged": "2022-11-01T18:31:34.672649+00:00",
+  "LastChanged": "2022-11-02T19:01:18.5525151+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-01T18:31:34.6726492+00:00",
       "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-02T19:01:18.5525156+00:00",
+      "Rating": 4.52,
       "NumberOfRatings": null
     }
   ],

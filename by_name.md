@@ -5,7 +5,7 @@
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.39 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
+| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
@@ -353,7 +353,7 @@
 | 351 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.17 | 
 | 352 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
 | 353 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
-| 354 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
+| 354 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 355 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 356 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 357 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
@@ -400,7 +400,7 @@
 | 398 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 399 | [Mutazione](games/m/mutazione.md) | 4.66 | 
 | 400 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
-| 401 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 401 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.66 | 
 | 402 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 403 | [MythForce](games/m/mythforce.md) | 4.52 | 
 | 404 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
@@ -485,7 +485,7 @@
 | 483 | [Rayman Origins](games/r/rayman_origins.md) | 4.74 | 
 | 484 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
 | 485 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
-| 486 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
+| 486 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 487 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
 | 488 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
 | 489 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
@@ -719,7 +719,7 @@
 | 717 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
 | 718 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 719 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 720 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.27 | 
+| 720 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
 | 721 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 722 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 723 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 

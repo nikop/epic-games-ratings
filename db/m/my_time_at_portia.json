@@ -1,10 +1,10 @@
 {
   "ID": "cobra",
   "Name": "My Time At Portia",
-  "Rating": 4.67,
+  "Rating": 4.66,
   "NumberOfRatings": 3894,
   "FirstSeen": "2022-07-22T20:22:29.4113784+00:00",
-  "LastChanged": "2022-09-27T19:01:43.8767707+00:00",
+  "LastChanged": "2022-11-02T19:01:55.9157012+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:29.4113786+00:00",
@@ -2035,12 +2035,17 @@
       "Time": "2022-09-27T19:01:43.876771+00:00",
       "Rating": 4.67,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-02T19:01:55.9157014+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 1866
+      "Count": 1874
     },
     {
       "Text": "This game is Relaxing",
