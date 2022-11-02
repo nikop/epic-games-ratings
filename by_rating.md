@@ -98,18 +98,18 @@
 | 96 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 97 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 98 | [Cave Story+](games/c/cave_story+.md) | 4.77 | 
-| 99 | [Superliminal](games/s/superliminal.md) | 4.77 | 
-| 100 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
-| 101 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
-| 102 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.77 | 
-| 103 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 104 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 105 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 106 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 107 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
-| 108 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
-| 109 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
-| 110 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
+| 99 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 
+| 100 | [Superliminal](games/s/superliminal.md) | 4.77 | 
+| 101 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
+| 102 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
+| 103 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.77 | 
+| 104 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 105 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 106 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 107 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
+| 108 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
+| 109 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
+| 110 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 111 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.76 | 
 | 112 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
 | 113 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
