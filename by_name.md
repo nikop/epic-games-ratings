@@ -28,7 +28,7 @@
 | 26 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 27 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 28 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 29 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
+| 29 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
 | 30 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 31 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
 | 32 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
@@ -254,7 +254,7 @@
 | 252 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 253 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
 | 254 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
-| 255 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
+| 255 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
 | 256 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 257 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 258 | [GigaBash](games/g/gigabash.md) | 4.48 | 
@@ -320,7 +320,7 @@
 | 318 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
 | 319 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 320 | [Isonzo](games/i/isonzo.md) | 4.56 | 
-| 321 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.95 | 
+| 321 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 322 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 323 | [Journey](games/j/journey.md) | 4.74 | 
 | 324 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
@@ -366,7 +366,7 @@
 | 364 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
 | 365 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 366 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 367 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
+| 367 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
 | 368 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.14 | 
 | 369 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 370 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
@@ -395,7 +395,7 @@
 | 393 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 394 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 395 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 396 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 396 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 397 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 398 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 399 | [Mutazione](games/m/mutazione.md) | 4.66 | 
@@ -604,7 +604,7 @@
 | 602 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
 | 603 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 604 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
-| 605 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.81 | 
+| 605 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.78 | 
 | 606 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
 | 607 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
 | 608 | [Superliminal](games/s/superliminal.md) | 4.77 | 
@@ -665,9 +665,9 @@
 | 663 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 664 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
 | 665 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
-| 666 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
+| 666 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 667 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
-| 668 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.28 | 
+| 668 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 669 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 670 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.74 | 
 | 671 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
