@@ -123,7 +123,7 @@
 | 121 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
 | 122 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 123 | [Core](games/c/core.md) | 4.39 | 
-| 124 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 124 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 125 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
 | 126 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
 | 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
@@ -429,7 +429,7 @@
 | 427 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 
 | 428 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 429 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.46 | 
-| 430 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
+| 430 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.27 | 
 | 431 | [Old World](games/o/old_world.md) | 4.64 | 
 | 432 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 433 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
@@ -691,7 +691,7 @@
 | 689 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 690 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 691 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
-| 692 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
+| 692 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
 | 693 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 694 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 695 | [Torchlight](games/t/torchlight.md) | 4.39 | 
@@ -746,7 +746,7 @@
 | 744 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
 | 745 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 746 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.37 | 
-| 747 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
+| 747 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
 | 748 | [Warpips](games/w/warpips.md) | 4.58 | 
 | 749 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 750 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
@@ -775,7 +775,7 @@
 | 773 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 774 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 775 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 776 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
+| 776 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 777 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
 | 778 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.62 | 
 | 779 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 

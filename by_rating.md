@@ -247,20 +247,20 @@
 | 245 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
 | 246 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 247 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 248 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
-| 249 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 250 | [Eastward](games/e/eastward.md) | 4.66 | 
-| 251 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 252 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 253 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 254 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 255 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 256 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 257 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
-| 258 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
-| 259 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
-| 260 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
-| 261 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 248 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 249 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
+| 250 | [Mutazione](games/m/mutazione.md) | 4.66 | 
+| 251 | [Eastward](games/e/eastward.md) | 4.66 | 
+| 252 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 253 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 254 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 255 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 256 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 257 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 258 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
+| 259 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
+| 260 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
+| 261 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 262 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 263 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.65 | 
 | 264 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
@@ -383,39 +383,39 @@
 | 381 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
 | 382 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 383 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
-| 384 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 385 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
-| 386 | [Hob](games/h/hob.md) | 4.57 | 
-| 387 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
-| 388 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.57 | 
-| 389 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 390 | [Breathedge](games/b/breathedge.md) | 4.57 | 
-| 391 | [Sable](games/s/sable.md) | 4.57 | 
-| 392 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
-| 393 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
-| 394 | [NORCO](games/n/norco.md) | 4.57 | 
-| 395 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 396 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 397 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 398 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 399 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
+| 384 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 385 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 386 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
+| 387 | [Hob](games/h/hob.md) | 4.57 | 
+| 388 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
+| 389 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.57 | 
+| 390 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 391 | [Breathedge](games/b/breathedge.md) | 4.57 | 
+| 392 | [Sable](games/s/sable.md) | 4.57 | 
+| 393 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
+| 394 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
+| 395 | [NORCO](games/n/norco.md) | 4.57 | 
+| 396 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 397 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 398 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 399 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 400 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 401 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
 | 402 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 403 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 404 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 405 | [Horace](games/h/horace.md) | 4.56 | 
-| 406 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
-| 407 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 408 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 409 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 410 | [Hue](games/h/hue.md) | 4.55 | 
-| 411 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
-| 412 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
-| 413 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 414 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 
-| 415 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
-| 416 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
+| 406 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
+| 407 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
+| 408 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 409 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 410 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 411 | [Hue](games/h/hue.md) | 4.55 | 
+| 412 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
+| 413 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 414 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 415 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 
+| 416 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
 | 417 | [UnMetal](games/u/unmetal.md) | 4.55 | 
 | 418 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 419 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
@@ -670,13 +670,13 @@
 | 668 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 669 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 670 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 671 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
-| 672 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.28 | 
-| 673 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 674 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.28 | 
-| 675 | [EVE Online](games/e/eve_online.md) | 4.27 | 
-| 676 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
-| 677 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
+| 671 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 672 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.28 | 
+| 673 | [EVE Online](games/e/eve_online.md) | 4.27 | 
+| 674 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
+| 675 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.27 | 
+| 676 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
+| 677 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 678 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
 | 679 | [Ashen](games/a/ashen.md) | 4.27 | 
 | 680 | [Saturnalia](games/s/saturnalia.md) | 4.27 | 
