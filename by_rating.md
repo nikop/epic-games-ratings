@@ -160,18 +160,18 @@
 | 158 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 159 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 160 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
-| 161 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
-| 162 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 163 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 164 | [The Witness](games/t/the_witness.md) | 4.71 | 
-| 165 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
-| 166 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
-| 167 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.71 | 
-| 168 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.71 | 
-| 169 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
-| 170 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 171 | [Everything](games/e/everything.md) | 4.71 | 
-| 172 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
+| 161 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 162 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
+| 163 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
+| 164 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 165 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 166 | [The Witness](games/t/the_witness.md) | 4.71 | 
+| 167 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 168 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
+| 169 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.71 | 
+| 170 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
+| 171 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 172 | [Everything](games/e/everything.md) | 4.71 | 
 | 173 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 174 | [Days Gone](games/d/days_gone.md) | 4.70 | 
 | 175 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
@@ -777,5 +777,5 @@
 | 775 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 776 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 777 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 
-| 778 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.70 | 
+| 778 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.69 | 
 | 779 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 

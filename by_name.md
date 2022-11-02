@@ -212,7 +212,7 @@
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 211 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.79 | 
 | 212 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.58 | 
-| 213 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
+| 213 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
 | 214 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 215 | [Far Cry](games/f/far_cry.md) | 4.37 | 
 | 216 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
@@ -427,7 +427,7 @@
 | 425 | [Observation](games/o/observation.md) | 4.48 | 
 | 426 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 
 | 427 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 
-| 428 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.71 | 
+| 428 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 429 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.46 | 
 | 430 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
 | 431 | [Old World](games/o/old_world.md) | 4.64 | 
@@ -572,7 +572,7 @@
 | 570 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
 | 571 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 572 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
-| 573 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.70 | 
+| 573 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.69 | 
 | 574 | [SpiderHeck](games/s/spiderheck.md) | 4.65 | 
 | 575 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 576 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
