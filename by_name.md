@@ -87,7 +87,7 @@
 | 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
-| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.80 | 
+| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
 | 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 91 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -548,7 +548,7 @@
 | 546 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 547 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 548 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 549 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.55 | 
+| 549 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.54 | 
 | 550 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 551 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 552 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
@@ -760,7 +760,7 @@
 | 758 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
 | 759 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
 | 760 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 761 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
+| 761 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 762 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 763 | [Windbound](games/w/windbound.md) | 4.17 | 
 | 764 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 

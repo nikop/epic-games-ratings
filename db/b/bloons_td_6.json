@@ -1,11 +1,11 @@
 {
   "ID": "6a8dfa6e441e4f2f9048a98776c6077d",
   "Name": "Bloons TD 6",
-  "Rating": 4.8,
+  "Rating": 4.81,
   "NumberOfRatings": 136,
   "FirstSeen": "2022-07-23T14:00:48.5667099+00:00",
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
-  "LastChanged": "2022-11-01T19:00:27.0491779+00:00",
+  "LastChanged": "2022-11-02T02:00:39.0962546+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-21T19:00:52.0889936+00:00",
@@ -461,6 +461,11 @@
       "Time": "2022-11-01T19:00:27.0491781+00:00",
       "Rating": 4.8,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-02T02:00:39.0962549+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -470,7 +475,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 39
+      "Count": 47
     },
     {
       "Text": "This game has Quickly Understood Controls",

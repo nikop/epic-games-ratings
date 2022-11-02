@@ -66,18 +66,18 @@
 | 64 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 
 | 65 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 66 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 67 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
-| 68 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.81 | 
-| 69 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
-| 70 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.81 | 
-| 71 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 72 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 73 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 74 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 75 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 76 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 77 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 78 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.80 | 
+| 67 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
+| 68 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
+| 69 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.81 | 
+| 70 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
+| 71 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.81 | 
+| 72 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 73 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 74 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 75 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
+| 76 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 77 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 78 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 80 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.80 | 
 | 81 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
@@ -108,18 +108,18 @@
 | 106 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 107 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
 | 108 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
-| 109 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
-| 110 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.76 | 
-| 111 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
-| 112 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 113 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 114 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 115 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 116 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
-| 117 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
-| 118 | [Northgard](games/n/northgard.md) | 4.75 | 
-| 119 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
-| 120 | [Wildermyth](games/w/wildermyth.md) | 4.75 | 
+| 109 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
+| 110 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.76 | 
+| 111 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.76 | 
+| 112 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
+| 113 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 114 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 115 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 116 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 117 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
+| 118 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 119 | [Northgard](games/n/northgard.md) | 4.75 | 
+| 120 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 121 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
 | 122 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
 | 123 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
@@ -418,17 +418,17 @@
 | 416 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.55 | 
 | 417 | [UnMetal](games/u/unmetal.md) | 4.55 | 
 | 418 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 419 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.55 | 
-| 420 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 421 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 422 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 423 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 424 | [Outward](games/o/outward.md) | 4.54 | 
-| 425 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 426 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 427 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
-| 428 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
-| 429 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 419 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 420 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 421 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 422 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
+| 423 | [Outward](games/o/outward.md) | 4.54 | 
+| 424 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 425 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 426 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
+| 427 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
+| 428 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 429 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.54 | 
 | 430 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 431 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 432 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
