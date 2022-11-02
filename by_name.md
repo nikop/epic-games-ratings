@@ -276,7 +276,7 @@
 | 274 | [Grindstone](games/g/grindstone.md) | 4.82 | 
 | 275 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
 | 276 | [Hades](games/h/hades.md) | 4.92 | 
-| 277 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 277 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 278 | [Hammerting](games/h/hammerting.md) | 4.40 | 
 | 279 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 280 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.70 | 
@@ -412,7 +412,7 @@
 | 410 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 411 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 412 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 413 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.17 | 
+| 413 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.12 | 
 | 414 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.52 | 
 | 415 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 416 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 

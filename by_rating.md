@@ -515,20 +515,20 @@
 | 513 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.47 | 
 | 514 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 515 | [SMITE](games/s/smite.md) | 4.46 | 
-| 516 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
-| 517 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.46 | 
-| 518 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
-| 519 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
-| 520 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.46 | 
-| 521 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
-| 522 | [Scorn](games/s/scorn.md) | 4.46 | 
-| 523 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 524 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 525 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 526 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 527 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 528 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 529 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 516 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 517 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
+| 518 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.46 | 
+| 519 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
+| 520 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
+| 521 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.46 | 
+| 522 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
+| 523 | [Scorn](games/s/scorn.md) | 4.46 | 
+| 524 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
+| 525 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 526 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 527 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 528 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 529 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 530 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.45 | 
 | 531 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 532 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
@@ -720,17 +720,17 @@
 | 718 | [Gone Home](games/g/gone_home.md) | 4.17 | 
 | 719 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 720 | [Hellpoint](games/h/hellpoint.md) | 4.17 | 
-| 721 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.17 | 
-| 722 | [Scavengers](games/s/scavengers.md) | 4.16 | 
-| 723 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
-| 724 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
-| 725 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
-| 726 | [Pine](games/p/pine.md) | 4.14 | 
-| 727 | [Obduction](games/o/obduction.md) | 4.14 | 
-| 728 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.14 | 
-| 729 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
-| 730 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
-| 731 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
+| 721 | [Scavengers](games/s/scavengers.md) | 4.16 | 
+| 722 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
+| 723 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
+| 724 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
+| 725 | [Pine](games/p/pine.md) | 4.14 | 
+| 726 | [Obduction](games/o/obduction.md) | 4.14 | 
+| 727 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.14 | 
+| 728 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
+| 729 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
+| 730 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
+| 731 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.12 | 
 | 732 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 733 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 734 | [Relicta](games/r/relicta.md) | 4.11 | 
