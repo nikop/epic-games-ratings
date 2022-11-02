@@ -170,20 +170,20 @@
 | 168 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
 | 169 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.71 | 
 | 170 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
-| 171 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 172 | [Everything](games/e/everything.md) | 4.71 | 
-| 173 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 174 | [Days Gone](games/d/days_gone.md) | 4.70 | 
-| 175 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
-| 176 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
-| 177 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 178 | [Timberborn](games/t/timberborn.md) | 4.70 | 
-| 179 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 180 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
-| 181 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
-| 182 | [FUSER™](games/f/fuser™.md) | 4.70 | 
-| 183 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 184 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 171 | [Townscaper](games/t/townscaper.md) | 4.71 | 
+| 172 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 173 | [Everything](games/e/everything.md) | 4.71 | 
+| 174 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 175 | [Days Gone](games/d/days_gone.md) | 4.70 | 
+| 176 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
+| 177 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
+| 178 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 179 | [Timberborn](games/t/timberborn.md) | 4.70 | 
+| 180 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 181 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
+| 182 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
+| 183 | [FUSER™](games/f/fuser™.md) | 4.70 | 
+| 184 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 185 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.70 | 
 | 186 | [Slipways](games/s/slipways.md) | 4.70 | 
 | 187 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 
@@ -582,16 +582,16 @@
 | 580 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 581 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
 | 582 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
-| 583 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 584 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 585 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
-| 586 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 587 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
-| 588 | [Hammerting](games/h/hammerting.md) | 4.40 | 
-| 589 | [Parkitect](games/p/parkitect.md) | 4.40 | 
-| 590 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
-| 591 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 592 | [Core](games/c/core.md) | 4.39 | 
+| 583 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 584 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
+| 585 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 586 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
+| 587 | [Hammerting](games/h/hammerting.md) | 4.40 | 
+| 588 | [Parkitect](games/p/parkitect.md) | 4.40 | 
+| 589 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
+| 590 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 591 | [Core](games/c/core.md) | 4.39 | 
+| 592 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
 | 593 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
 | 594 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
 | 595 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 

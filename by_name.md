@@ -137,7 +137,7 @@
 | 135 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 136 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 137 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
-| 138 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 138 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
 | 139 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 140 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 141 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
@@ -702,7 +702,7 @@
 | 700 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 701 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.45 | 
 | 702 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 
-| 703 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 703 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 704 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
 | 705 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 706 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.97 | 
