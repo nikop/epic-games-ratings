@@ -411,7 +411,7 @@
 | 409 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 410 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 411 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
-| 412 | [Neverwinter](games/n/neverwinter.md) | 4.28 | 
+| 412 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 413 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.17 | 
 | 414 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.52 | 
 | 415 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
@@ -469,7 +469,7 @@
 | 467 | [Pine](games/p/pine.md) | 4.14 | 
 | 468 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.42 | 
 | 469 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
-| 470 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 
+| 470 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
 | 471 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 472 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
 | 473 | [Prey](games/p/prey.md) | 4.61 | 
@@ -578,7 +578,7 @@
 | 576 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
 | 577 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.90 | 
 | 578 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
-| 579 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 
+| 579 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
 | 580 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
 | 581 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
 | 582 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
@@ -592,7 +592,7 @@
 | 590 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 591 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 592 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 593 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
+| 593 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 594 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 595 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
 | 596 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
@@ -610,7 +610,7 @@
 | 608 | [Superliminal](games/s/superliminal.md) | 4.77 | 
 | 609 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 610 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 611 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.41 | 
+| 611 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
 | 612 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 613 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 614 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
