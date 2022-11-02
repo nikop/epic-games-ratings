@@ -480,7 +480,7 @@
 | 478 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 479 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 480 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 481 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
+| 481 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
 | 482 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
 | 483 | [Rayman Origins](games/r/rayman_origins.md) | 4.74 | 
 | 484 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
@@ -504,7 +504,7 @@
 | 502 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
 | 503 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 504 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 505 | [Road 96](games/r/road_96.md) | 4.57 | 
+| 505 | [Road 96](games/r/road_96.md) | 4.58 | 
 | 506 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 507 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 508 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
@@ -590,7 +590,7 @@
 | 588 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 589 | [STG Football](games/s/stg_football.md) | 4.63 | 
 | 590 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
-| 591 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
+| 591 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 592 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 593 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
 | 594 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 

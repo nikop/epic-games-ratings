@@ -370,24 +370,24 @@
 | 368 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 369 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
 | 370 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
-| 371 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
-| 372 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
-| 373 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.58 | 
-| 374 | [Warpips](games/w/warpips.md) | 4.58 | 
-| 375 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.58 | 
-| 376 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 377 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 378 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
-| 379 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 380 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
-| 381 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 382 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
-| 383 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 384 | [Hob](games/h/hob.md) | 4.57 | 
-| 385 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
-| 386 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.57 | 
-| 387 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 388 | [Road 96](games/r/road_96.md) | 4.57 | 
+| 371 | [Road 96](games/r/road_96.md) | 4.58 | 
+| 372 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
+| 373 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
+| 374 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.58 | 
+| 375 | [Warpips](games/w/warpips.md) | 4.58 | 
+| 376 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.58 | 
+| 377 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 378 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 379 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
+| 380 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 381 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 382 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 383 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 384 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 385 | [Hob](games/h/hob.md) | 4.57 | 
+| 386 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
+| 387 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.57 | 
+| 388 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 389 | [Breathedge](games/b/breathedge.md) | 4.57 | 
 | 390 | [Horace](games/h/horace.md) | 4.57 | 
 | 391 | [Sable](games/s/sable.md) | 4.57 | 
@@ -479,26 +479,26 @@
 | 477 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 478 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 479 | [Aztez](games/a/aztez.md) | 4.50 | 
-| 480 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
-| 481 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 482 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
-| 483 | [Redout 2](games/r/redout_2.md) | 4.50 | 
-| 484 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
-| 485 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
-| 486 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 487 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 488 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
-| 489 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 490 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 491 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 492 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 493 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 494 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 495 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
-| 496 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 497 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 498 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
-| 499 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 480 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
+| 481 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
+| 482 | [Redout 2](games/r/redout_2.md) | 4.50 | 
+| 483 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
+| 484 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
+| 485 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 486 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 487 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
+| 488 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 489 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 490 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 491 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 492 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 493 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 494 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
+| 495 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 496 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 497 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
+| 498 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 499 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 500 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
 | 501 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
 | 502 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 
@@ -536,20 +536,20 @@
 | 534 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 535 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 536 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
-| 537 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
-| 538 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
-| 539 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
-| 540 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
-| 541 | [Gloomhaven](games/g/gloomhaven.md) | 4.44 | 
-| 542 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 543 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 
-| 544 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
-| 545 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 546 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 547 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
-| 548 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 549 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
-| 550 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 
+| 537 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 538 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 539 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
+| 540 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
+| 541 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
+| 542 | [Gloomhaven](games/g/gloomhaven.md) | 4.44 | 
+| 543 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 544 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 
+| 545 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
+| 546 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
+| 547 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 548 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
+| 549 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 550 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
 | 551 | [Weird West](games/w/weird_west.md) | 4.43 | 
 | 552 | [Figment](games/f/figment.md) | 4.43 | 
 | 553 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
