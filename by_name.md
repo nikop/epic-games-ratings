@@ -106,7 +106,7 @@
 | 104 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.58 | 
 | 105 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 106 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 107 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
+| 107 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 108 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 109 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
 | 110 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
@@ -267,7 +267,7 @@
 | 265 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 266 | [Gone Home](games/g/gone_home.md) | 4.17 | 
 | 267 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 268 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
+| 268 | [Gotham Knights](games/g/gotham_knights.md) | 4.24 | 
 | 269 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 270 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 271 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 
@@ -301,7 +301,7 @@
 | 299 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 300 | [House Party](games/h/house_party.md) | 4.34 | 
 | 301 | [Hue](games/h/hue.md) | 4.56 | 
-| 302 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 302 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
 | 303 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 304 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
 | 305 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
@@ -602,7 +602,7 @@
 | 600 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 601 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 602 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
-| 603 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
+| 603 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 604 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
 | 605 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.78 | 
 | 606 | [SUPERHOT](games/s/superhot.md) | 4.69 | 
@@ -620,7 +620,7 @@
 | 618 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
 | 619 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
 | 620 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
-| 621 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
+| 621 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 622 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 623 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 624 | [Tharsis](games/t/tharsis.md) | 4.20 | 
