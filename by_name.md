@@ -134,7 +134,7 @@
 | 132 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
 | 133 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 134 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 135 | [CryoFall](games/c/cryofall.md) | 4.50 | 
+| 135 | [CryoFall](games/c/cryofall.md) | 4.48 | 
 | 136 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 137 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
 | 138 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
@@ -454,7 +454,7 @@
 | 452 | [Parkitect](games/p/parkitect.md) | 4.40 | 
 | 453 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
 | 454 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 455 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 455 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 456 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 457 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 458 | [Patron](games/p/patron.md) | 3.89 | 
@@ -486,7 +486,7 @@
 | 484 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
 | 485 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 486 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 487 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
+| 487 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 488 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
 | 489 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 490 | [Redout 2](games/r/redout_2.md) | 4.50 | 
@@ -502,7 +502,7 @@
 | 500 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 501 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 502 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 503 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
+| 503 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 504 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 505 | [Road 96](games/r/road_96.md) | 4.58 | 
 | 506 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
@@ -606,7 +606,7 @@
 | 604 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
 | 605 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.78 | 
 | 606 | [SUPERHOT](games/s/superhot.md) | 4.69 | 
-| 607 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
+| 607 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.61 | 
 | 608 | [Superliminal](games/s/superliminal.md) | 4.77 | 
 | 609 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 610 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
@@ -709,7 +709,7 @@
 | 707 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 708 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 709 | [Train Valley](games/t/train_valley.md) | 4.42 | 
-| 710 | [Train Valley 2](games/t/train_valley_2.md) | 4.06 | 
+| 710 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 711 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 712 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 713 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
@@ -751,7 +751,7 @@
 | 749 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 750 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 751 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
-| 752 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
+| 752 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
 | 753 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 754 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 755 | [Weird West](games/w/weird_west.md) | 4.43 | 
