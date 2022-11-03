@@ -317,7 +317,7 @@
 | 315 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
 | 316 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 317 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 318 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
+| 318 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 
 | 319 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 320 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 321 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
@@ -576,7 +576,7 @@
 | 574 | [SpiderHeck](games/s/spiderheck.md) | 4.65 | 
 | 575 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 576 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 577 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.90 | 
+| 577 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 578 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
 | 579 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
 | 580 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 

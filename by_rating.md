@@ -6,11 +6,11 @@
 | 4 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 5 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 7 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.90 | 
-| 8 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
-| 9 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
-| 10 | [God of War](games/g/god_of_war.md) | 4.89 | 
-| 11 | [RimWorld](games/r/rimworld.md) | 4.89 | 
+| 7 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
+| 8 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
+| 9 | [God of War](games/g/god_of_war.md) | 4.89 | 
+| 10 | [RimWorld](games/r/rimworld.md) | 4.89 | 
+| 11 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 12 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
 | 13 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 14 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
@@ -585,16 +585,16 @@
 | 583 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 584 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 585 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
-| 586 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 587 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
-| 588 | [Hammerting](games/h/hammerting.md) | 4.40 | 
-| 589 | [Parkitect](games/p/parkitect.md) | 4.40 | 
-| 590 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
-| 591 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 592 | [Core](games/c/core.md) | 4.39 | 
-| 593 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
-| 594 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
-| 595 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
+| 586 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 
+| 587 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 588 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
+| 589 | [Hammerting](games/h/hammerting.md) | 4.40 | 
+| 590 | [Parkitect](games/p/parkitect.md) | 4.40 | 
+| 591 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
+| 592 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 593 | [Core](games/c/core.md) | 4.39 | 
+| 594 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
+| 595 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
 | 596 | [Torchlight](games/t/torchlight.md) | 4.39 | 
 | 597 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.39 | 
 | 598 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
