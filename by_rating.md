@@ -123,24 +123,24 @@
 | 121 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 122 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.75 | 
 | 123 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
-| 124 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
-| 125 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 126 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 127 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 128 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 129 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
-| 130 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 131 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 132 | [Journey](games/j/journey.md) | 4.74 | 
-| 133 | [Haven](games/h/haven.md) | 4.74 | 
-| 134 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
-| 135 | [Rayman Origins](games/r/rayman_origins.md) | 4.74 | 
-| 136 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
-| 137 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 138 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 139 | [Revita](games/r/revita.md) | 4.74 | 
-| 140 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 141 | [Outlast](games/o/outlast.md) | 4.74 | 
+| 124 | [Outlast](games/o/outlast.md) | 4.75 | 
+| 125 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
+| 126 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 127 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 128 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 129 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 130 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
+| 131 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 132 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 133 | [Journey](games/j/journey.md) | 4.74 | 
+| 134 | [Haven](games/h/haven.md) | 4.74 | 
+| 135 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
+| 136 | [Rayman Origins](games/r/rayman_origins.md) | 4.74 | 
+| 137 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
+| 138 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 139 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 140 | [Revita](games/r/revita.md) | 4.74 | 
+| 141 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 142 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 143 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 144 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
@@ -227,21 +227,21 @@
 | 225 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 226 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 227 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 228 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
-| 229 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 230 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 231 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
-| 232 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
-| 233 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 234 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.67 | 
-| 235 | [SOMA](games/s/soma.md) | 4.67 | 
-| 236 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
-| 237 | [CARRION](games/c/carrion.md) | 4.67 | 
-| 238 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
-| 239 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
-| 240 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 241 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 242 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.66 | 
+| 228 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 229 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
+| 230 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 231 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 232 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
+| 233 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
+| 234 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 235 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.67 | 
+| 236 | [SOMA](games/s/soma.md) | 4.67 | 
+| 237 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
+| 238 | [CARRION](games/c/carrion.md) | 4.67 | 
+| 239 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
+| 240 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
+| 241 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 242 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 243 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 244 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 245 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
@@ -399,18 +399,18 @@
 | 397 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 398 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 399 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
-| 400 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 401 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
-| 402 | [Isonzo](games/i/isonzo.md) | 4.56 | 
-| 403 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
-| 404 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
-| 405 | [Horace](games/h/horace.md) | 4.56 | 
-| 406 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
-| 407 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
-| 408 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 409 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 410 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 411 | [Hue](games/h/hue.md) | 4.55 | 
+| 400 | [Hue](games/h/hue.md) | 4.56 | 
+| 401 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 402 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
+| 403 | [Isonzo](games/i/isonzo.md) | 4.56 | 
+| 404 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
+| 405 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
+| 406 | [Horace](games/h/horace.md) | 4.56 | 
+| 407 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
+| 408 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
+| 409 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 410 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 411 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 412 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 413 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 414 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 

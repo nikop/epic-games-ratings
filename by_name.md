@@ -300,7 +300,7 @@
 | 298 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 299 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 300 | [House Party](games/h/house_party.md) | 4.34 | 
-| 301 | [Hue](games/h/hue.md) | 4.55 | 
+| 301 | [Hue](games/h/hue.md) | 4.56 | 
 | 302 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 303 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 304 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
@@ -400,7 +400,7 @@
 | 398 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 399 | [Mutazione](games/m/mutazione.md) | 4.66 | 
 | 400 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
-| 401 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.66 | 
+| 401 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 402 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 403 | [MythForce](games/m/mythforce.md) | 4.52 | 
 | 404 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
@@ -439,7 +439,7 @@
 | 437 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 438 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 439 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 440 | [Outlast](games/o/outlast.md) | 4.74 | 
+| 440 | [Outlast](games/o/outlast.md) | 4.75 | 
 | 441 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
 | 442 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 443 | [Outward](games/o/outward.md) | 4.54 | 
