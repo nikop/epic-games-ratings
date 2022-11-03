@@ -100,7 +100,7 @@
 | 98 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.05 | 
 | 99 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 100 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
-| 101 | [Card Shark](games/c/card_shark.md) | 4.59 | 
+| 101 | [Card Shark](games/c/card_shark.md) | 4.61 | 
 | 102 | [CARRION](games/c/carrion.md) | 4.67 | 
 | 103 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 104 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.58 | 
@@ -129,7 +129,7 @@
 | 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 128 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 129 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 130 | [Crayta](games/c/crayta.md) | 4.20 | 
+| 130 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 131 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
 | 132 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
 | 133 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
@@ -149,7 +149,7 @@
 | 147 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 148 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
 | 149 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
+| 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 151 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 152 | [Darkwood](games/d/darkwood.md) | 4.60 | 
 | 153 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
@@ -297,7 +297,7 @@
 | 295 | [Horace](games/h/horace.md) | 4.56 | 
 | 296 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 297 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 298 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 298 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 299 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 300 | [House Party](games/h/house_party.md) | 4.34 | 
 | 301 | [Hue](games/h/hue.md) | 4.56 | 
@@ -333,7 +333,7 @@
 | 331 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 332 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 
 | 333 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
-| 334 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
+| 334 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.15 | 
 | 335 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 336 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
 | 337 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
@@ -370,7 +370,7 @@
 | 368 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.14 | 
 | 369 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 370 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
-| 371 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 371 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 372 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
 | 373 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 374 | [Mago](games/m/mago.md) | 4.86 | 
@@ -588,7 +588,7 @@
 | 586 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 587 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 588 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 589 | [STG Football](games/s/stg_football.md) | 4.65 | 
+| 589 | [STG Football](games/s/stg_football.md) | 4.57 | 
 | 590 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 591 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 592 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
