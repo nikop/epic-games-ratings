@@ -368,36 +368,36 @@
 | 366 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 367 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
 | 368 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
-| 369 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
-| 370 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
-| 371 | [Road 96](games/r/road_96.md) | 4.58 | 
-| 372 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
-| 373 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
-| 374 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.58 | 
-| 375 | [Warpips](games/w/warpips.md) | 4.58 | 
-| 376 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.58 | 
-| 377 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 378 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 379 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
-| 380 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 381 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
-| 382 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 383 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
-| 384 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 385 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 386 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
-| 387 | [Hob](games/h/hob.md) | 4.57 | 
-| 388 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
-| 389 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.57 | 
-| 390 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 391 | [Breathedge](games/b/breathedge.md) | 4.57 | 
-| 392 | [Sable](games/s/sable.md) | 4.57 | 
-| 393 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
-| 394 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
-| 395 | [NORCO](games/n/norco.md) | 4.57 | 
-| 396 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 397 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 398 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 369 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
+| 370 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
+| 371 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
+| 372 | [Road 96](games/r/road_96.md) | 4.58 | 
+| 373 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
+| 374 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
+| 375 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.58 | 
+| 376 | [Warpips](games/w/warpips.md) | 4.58 | 
+| 377 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.58 | 
+| 378 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 379 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 380 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
+| 381 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 382 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 383 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 384 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 385 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 386 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 387 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 388 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
+| 389 | [Hob](games/h/hob.md) | 4.57 | 
+| 390 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
+| 391 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 392 | [Breathedge](games/b/breathedge.md) | 4.57 | 
+| 393 | [Sable](games/s/sable.md) | 4.57 | 
+| 394 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
+| 395 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
+| 396 | [NORCO](games/n/norco.md) | 4.57 | 
+| 397 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 398 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 399 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 400 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 401 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
