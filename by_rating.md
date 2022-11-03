@@ -439,25 +439,25 @@
 | 437 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
 | 438 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 439 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 440 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 441 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 442 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 443 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 444 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 445 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 446 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 447 | [MythForce](games/m/mythforce.md) | 4.52 | 
-| 448 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
-| 449 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 450 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
-| 451 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.52 | 
-| 452 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
-| 453 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
-| 454 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
-| 455 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 456 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 457 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.52 | 
-| 458 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.52 | 
+| 440 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.53 | 
+| 441 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 442 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 443 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 444 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 445 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 446 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
+| 447 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 448 | [MythForce](games/m/mythforce.md) | 4.52 | 
+| 449 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
+| 450 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
+| 451 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
+| 452 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.52 | 
+| 453 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
+| 454 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
+| 455 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
+| 456 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 457 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 458 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.52 | 
 | 459 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 460 | [The Medium](games/t/the_medium.md) | 4.52 | 
 | 461 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
