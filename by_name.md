@@ -9,7 +9,7 @@
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
-| 10 | [ABZU](games/a/abzu.md) | 4.60 | 
+| 10 | [ABZU](games/a/abzu.md) | 4.61 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
@@ -239,7 +239,7 @@
 | 237 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 238 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 239 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 240 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 240 | [For The King](games/f/for_the_king.md) | 4.69 | 
 | 241 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
 | 242 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 243 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
@@ -278,7 +278,7 @@
 | 276 | [Hades](games/h/hades.md) | 4.92 | 
 | 277 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 278 | [Hammerting](games/h/hammerting.md) | 4.40 | 
-| 279 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 279 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 280 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.70 | 
 | 281 | [Haven](games/h/haven.md) | 4.74 | 
 | 282 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
@@ -502,7 +502,7 @@
 | 500 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 501 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 502 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 503 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
+| 503 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 504 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 505 | [Road 96](games/r/road_96.md) | 4.58 | 
 | 506 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
@@ -741,7 +741,7 @@
 | 739 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 740 | [War Mongrels](games/w/war_mongrels.md) | 4.37 | 
 | 741 | [Warface](games/w/warface.md) | 3.95 | 
-| 742 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 742 | [Warframe](games/w/warframe.md) | 4.62 | 
 | 743 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 744 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
 | 745 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
