@@ -635,12 +635,12 @@
 | 633 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 634 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 635 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 636 | [House Party](games/h/house_party.md) | 4.34 | 
-| 637 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
-| 638 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
-| 639 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
-| 640 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
-| 641 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
+| 636 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
+| 637 | [House Party](games/h/house_party.md) | 4.34 | 
+| 638 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
+| 639 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
+| 640 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
+| 641 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
 | 642 | [Othercide](games/o/othercide.md) | 4.33 | 
 | 643 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 644 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
@@ -671,12 +671,12 @@
 | 669 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 670 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 671 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 672 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 673 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.28 | 
-| 674 | [EVE Online](games/e/eve_online.md) | 4.27 | 
-| 675 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
-| 676 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.27 | 
-| 677 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.27 | 
+| 672 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
+| 673 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 674 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.28 | 
+| 675 | [EVE Online](games/e/eve_online.md) | 4.27 | 
+| 676 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
+| 677 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.27 | 
 | 678 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 679 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
 | 680 | [Ashen](games/a/ashen.md) | 4.27 | 
