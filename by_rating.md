@@ -580,14 +580,14 @@
 | 578 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
 | 579 | [Backbone](games/b/backbone.md) | 4.41 | 
 | 580 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 581 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
-| 582 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
-| 583 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 584 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
-| 585 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 586 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
-| 587 | [Hammerting](games/h/hammerting.md) | 4.40 | 
-| 588 | [Parkitect](games/p/parkitect.md) | 4.40 | 
+| 581 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
+| 582 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 583 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
+| 584 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 585 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
+| 586 | [Hammerting](games/h/hammerting.md) | 4.40 | 
+| 587 | [Parkitect](games/p/parkitect.md) | 4.40 | 
+| 588 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 589 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
 | 590 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 591 | [Core](games/c/core.md) | 4.39 | 

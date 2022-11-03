@@ -404,7 +404,7 @@
 | 402 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 403 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 404 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 405 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 405 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 406 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 407 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 408 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.64 | 
