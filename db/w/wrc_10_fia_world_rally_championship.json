@@ -1,10 +1,10 @@
 {
   "ID": "d4d0270b8219470ebfc720c18767aef9",
   "Name": "WRC 10 FIA World Rally Championship",
-  "Rating": 4.5,
+  "Rating": 4.51,
   "NumberOfRatings": 248,
   "FirstSeen": "2022-07-22T20:22:20.0440724+00:00",
-  "LastChanged": "2022-10-31T19:02:04.9280475+00:00",
+  "LastChanged": "2022-11-03T23:31:29.9471422+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:20.0440726+00:00",
@@ -405,6 +405,11 @@
       "Time": "2022-10-31T19:02:04.928048+00:00",
       "Rating": 4.5,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-03T23:31:29.9471425+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -439,6 +444,10 @@
     {
       "Text": "This game is Highly Recommended",
       "Count": 21
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 20
     }
   ]
 }

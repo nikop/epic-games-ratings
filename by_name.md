@@ -142,7 +142,7 @@
 | 140 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 141 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
-| 143 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
+| 143 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
 | 144 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
 | 145 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
 | 146 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
@@ -160,7 +160,7 @@
 | 158 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
 | 159 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 160 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 161 | [Death's Door](games/d/death's_door.md) | 4.66 | 
+| 161 | [Death's Door](games/d/death's_door.md) | 4.65 | 
 | 162 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 163 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 164 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
@@ -211,8 +211,8 @@
 | 209 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 211 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.79 | 
-| 212 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.58 | 
-| 213 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.73 | 
+| 212 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 
+| 213 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.74 | 
 | 214 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 215 | [Far Cry](games/f/far_cry.md) | 4.37 | 
 | 216 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
@@ -432,7 +432,7 @@
 | 430 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.27 | 
 | 431 | [Old World](games/o/old_world.md) | 4.64 | 
 | 432 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 433 | [Operation: Tango](games/o/operation__tango.md) | 4.71 | 
+| 433 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
 | 434 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.21 | 
 | 435 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 
 | 436 | [Othercide](games/o/othercide.md) | 4.33 | 
@@ -687,7 +687,7 @@
 | 685 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 686 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 687 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
-| 688 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.27 | 
+| 688 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.28 | 
 | 689 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 690 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 691 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
@@ -769,7 +769,7 @@
 | 767 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 768 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 769 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
-| 770 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
+| 770 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 771 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 772 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
 | 773 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
