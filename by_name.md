@@ -402,7 +402,7 @@
 | 400 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 401 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 402 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 403 | [MythForce](games/m/mythforce.md) | 4.52 | 
+| 403 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 404 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 405 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
 | 406 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
@@ -456,7 +456,7 @@
 | 454 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 455 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 456 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 457 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 457 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 458 | [Patron](games/p/patron.md) | 3.89 | 
 | 459 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 460 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 

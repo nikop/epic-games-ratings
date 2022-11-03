@@ -447,27 +447,27 @@
 | 445 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 446 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 447 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 448 | [MythForce](games/m/mythforce.md) | 4.52 | 
-| 449 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
-| 450 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 451 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
-| 452 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.52 | 
-| 453 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
-| 454 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
-| 455 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
-| 456 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 457 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 458 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.52 | 
-| 459 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 460 | [The Medium](games/t/the_medium.md) | 4.52 | 
-| 461 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 462 | [Verdun](games/v/verdun.md) | 4.51 | 
-| 463 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 464 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 465 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 466 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 467 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 468 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
+| 448 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
+| 449 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
+| 450 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
+| 451 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.52 | 
+| 452 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
+| 453 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
+| 454 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
+| 455 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 456 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 457 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.52 | 
+| 458 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 459 | [The Medium](games/t/the_medium.md) | 4.52 | 
+| 460 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 461 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 462 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 463 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 464 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 465 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 466 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 467 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
+| 468 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 469 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
 | 470 | [The Surge](games/t/the_surge.md) | 4.51 | 
 | 471 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
@@ -528,14 +528,14 @@
 | 526 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 527 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 528 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 529 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 530 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.45 | 
-| 531 | [Death Coming](games/d/death_coming.md) | 4.45 | 
-| 532 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
-| 533 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 534 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 535 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 536 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
+| 529 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.45 | 
+| 530 | [Death Coming](games/d/death_coming.md) | 4.45 | 
+| 531 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
+| 532 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 533 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 534 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 535 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
+| 536 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 537 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
 | 538 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
 | 539 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
