@@ -217,7 +217,7 @@
 | 215 | [Far Cry](games/f/far_cry.md) | 4.37 | 
 | 216 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 217 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 218 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 218 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 219 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
 | 220 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 221 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
@@ -469,7 +469,7 @@
 | 467 | [Pine](games/p/pine.md) | 4.14 | 
 | 468 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.42 | 
 | 469 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
-| 470 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 
+| 470 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 471 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 472 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
 | 473 | [Prey](games/p/prey.md) | 4.61 | 
@@ -592,7 +592,7 @@
 | 590 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 591 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 592 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 593 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
+| 593 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 594 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 595 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
 | 596 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
@@ -613,7 +613,7 @@
 | 611 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
 | 612 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 613 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 614 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
+| 614 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 615 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
 | 616 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 617 | [Tacoma](games/t/tacoma.md) | 4.30 | 
@@ -635,7 +635,7 @@
 | 633 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 634 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 635 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
-| 636 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
+| 636 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 637 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
 | 638 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 639 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
@@ -776,6 +776,6 @@
 | 774 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 775 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 776 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 777 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
+| 777 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 778 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.62 | 
 | 779 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
