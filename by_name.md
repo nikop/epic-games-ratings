@@ -106,7 +106,7 @@
 | 104 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.58 | 
 | 105 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 106 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 107 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 107 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
 | 108 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 109 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
 | 110 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 

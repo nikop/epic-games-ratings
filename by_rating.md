@@ -636,11 +636,11 @@
 | 634 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 635 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 636 | [House Party](games/h/house_party.md) | 4.34 | 
-| 637 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
-| 638 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
-| 639 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
-| 640 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
-| 641 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 637 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
+| 638 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
+| 639 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
+| 640 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
+| 641 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 642 | [Othercide](games/o/othercide.md) | 4.33 | 
 | 643 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 644 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
