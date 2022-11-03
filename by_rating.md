@@ -141,21 +141,21 @@
 | 139 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
 | 140 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 141 | [Revita](games/r/revita.md) | 4.74 | 
-| 142 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 143 | [Outlast](games/o/outlast.md) | 4.74 | 
-| 144 | [Outlast 2](games/o/outlast_2.md) | 4.74 | 
-| 145 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 146 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 147 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 148 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 149 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 150 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 151 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
-| 152 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 153 | [Fez](games/f/fez.md) | 4.73 | 
-| 154 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
-| 155 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
-| 156 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
+| 142 | [Outlast](games/o/outlast.md) | 4.74 | 
+| 143 | [Outlast 2](games/o/outlast_2.md) | 4.74 | 
+| 144 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 145 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 146 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 147 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 148 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
+| 149 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 150 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 151 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
+| 152 | [Fez](games/f/fez.md) | 4.73 | 
+| 153 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
+| 154 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
+| 155 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
+| 156 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
 | 157 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.73 | 
 | 158 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 159 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
@@ -344,21 +344,21 @@
 | 342 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 343 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 344 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 345 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 346 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 347 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 348 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 349 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 350 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
-| 351 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
-| 352 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 
-| 353 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 354 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 355 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 356 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 357 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 358 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 359 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
+| 345 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 346 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 347 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 348 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 349 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 350 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 351 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
+| 352 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
+| 353 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 
+| 354 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 355 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 356 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 357 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 358 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 359 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 360 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 361 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 362 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
@@ -772,7 +772,7 @@
 | 770 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 771 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
 | 772 | [Conarium](games/c/conarium.md) | 3.85 | 
-| 773 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
+| 773 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 774 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 775 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 776 | [Saints Row](games/s/saints_row.md) | 3.77 | 
