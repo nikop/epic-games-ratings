@@ -281,7 +281,7 @@
 | 279 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 280 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.70 | 
 | 281 | [Haven](games/h/haven.md) | 4.74 | 
-| 282 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
+| 282 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
 | 283 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.67 | 
 | 284 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 285 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
@@ -321,7 +321,7 @@
 | 319 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 320 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 321 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
-| 322 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 322 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
 | 323 | [Journey](games/j/journey.md) | 4.75 | 
 | 324 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 325 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 

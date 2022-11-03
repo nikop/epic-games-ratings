@@ -331,26 +331,26 @@
 | 329 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 330 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 331 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 332 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
-| 333 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
-| 334 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.60 | 
-| 335 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 336 | [RiME](games/r/rime.md) | 4.60 | 
-| 337 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 338 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 339 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
-| 340 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.60 | 
-| 341 | [Darkwood](games/d/darkwood.md) | 4.60 | 
-| 342 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 343 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 344 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 345 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 346 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 347 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 348 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 349 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 350 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 351 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
+| 332 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
+| 333 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
+| 334 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
+| 335 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.60 | 
+| 336 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 337 | [RiME](games/r/rime.md) | 4.60 | 
+| 338 | [Roguebook](games/r/roguebook.md) | 4.60 | 
+| 339 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
+| 340 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
+| 341 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.60 | 
+| 342 | [Darkwood](games/d/darkwood.md) | 4.60 | 
+| 343 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 344 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 345 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 346 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 347 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 348 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 349 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 350 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 351 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 352 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 353 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 
 | 354 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
@@ -552,15 +552,15 @@
 | 550 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 551 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
 | 552 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 553 | [Weird West](games/w/weird_west.md) | 4.43 | 
-| 554 | [Figment](games/f/figment.md) | 4.43 | 
-| 555 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 556 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
-| 557 | [Runbow](games/r/runbow.md) | 4.43 | 
-| 558 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 559 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 560 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 561 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 553 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
+| 554 | [Weird West](games/w/weird_west.md) | 4.43 | 
+| 555 | [Figment](games/f/figment.md) | 4.43 | 
+| 556 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 557 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
+| 558 | [Runbow](games/r/runbow.md) | 4.43 | 
+| 559 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 560 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 561 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 562 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 563 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 564 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
