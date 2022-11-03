@@ -93,7 +93,7 @@
 | 91 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 92 | [Breathedge](games/b/breathedge.md) | 4.57 | 
 | 93 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
-| 94 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 94 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 95 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 96 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 97 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
@@ -171,7 +171,7 @@
 | 169 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 170 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 171 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 172 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
+| 172 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
 | 173 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 174 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 175 | [Diabotical](games/d/diabotical.md) | 4.79 | 
@@ -188,7 +188,7 @@
 | 186 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 187 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
+| 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
 | 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.66 | 
@@ -239,7 +239,7 @@
 | 237 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 238 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 239 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 240 | [For The King](games/f/for_the_king.md) | 4.69 | 
+| 240 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 241 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
 | 242 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 243 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
@@ -384,7 +384,7 @@
 | 382 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 383 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 384 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 385 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
+| 385 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 386 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 387 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.41 | 
 | 388 | [Minit](games/m/minit.md) | 4.53 | 
@@ -679,7 +679,7 @@
 | 677 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
 | 678 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 679 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 680 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
+| 680 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 681 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 682 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 683 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
@@ -699,7 +699,7 @@
 | 697 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 698 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
 | 699 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 700 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 700 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 701 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.45 | 
 | 702 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 
 | 703 | [Townscaper](games/t/townscaper.md) | 4.71 | 
