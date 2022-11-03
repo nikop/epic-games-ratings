@@ -1,11 +1,11 @@
 {
   "ID": "d06b7cb31f224a42b8433f7348cee5d3",
   "Name": "Nexomon: Extinction",
-  "Rating": 4.52,
+  "Rating": 4.53,
   "NumberOfRatings": 25,
   "FirstSeen": "2022-07-22T20:24:15.9296917+00:00",
   "FirstSeenRating": "2022-09-04T23:01:28.4182016+00:00",
-  "LastChanged": "2022-11-01T15:02:10.0999717+00:00",
+  "LastChanged": "2022-11-03T15:02:28.994094+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-04T23:01:28.4182018+00:00",
@@ -55,6 +55,11 @@
     {
       "Time": "2022-11-01T15:02:10.099972+00:00",
       "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-03T15:02:28.9940944+00:00",
+      "Rating": 4.53,
       "NumberOfRatings": null
     }
   ],
