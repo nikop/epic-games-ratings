@@ -240,7 +240,7 @@
 | 238 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 239 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 240 | [For The King](games/f/for_the_king.md) | 4.69 | 
-| 241 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
+| 241 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
 | 242 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 243 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 244 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
@@ -254,7 +254,7 @@
 | 252 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 253 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
 | 254 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
-| 255 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
+| 255 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 256 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 257 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 258 | [GigaBash](games/g/gigabash.md) | 4.48 | 
@@ -263,7 +263,7 @@
 | 261 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 262 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 263 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
-| 264 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 
+| 264 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.89 | 
 | 265 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 266 | [Gone Home](games/g/gone_home.md) | 4.17 | 
 | 267 | [Good Company](games/g/good_company.md) | 4.42 | 
@@ -292,7 +292,7 @@
 | 290 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 291 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 292 | [Hob](games/h/hob.md) | 4.57 | 
-| 293 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.32 | 
+| 293 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.31 | 
 | 294 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 295 | [Horace](games/h/horace.md) | 4.56 | 
 | 296 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 

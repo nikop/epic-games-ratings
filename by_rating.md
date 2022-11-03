@@ -546,22 +546,22 @@
 | 544 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 
 | 545 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
 | 546 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 547 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 548 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
-| 549 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 550 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
-| 551 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
+| 547 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
+| 548 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 549 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
+| 550 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 551 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
 | 552 | [Weird West](games/w/weird_west.md) | 4.43 | 
 | 553 | [Figment](games/f/figment.md) | 4.43 | 
 | 554 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 555 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 556 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
-| 557 | [Runbow](games/r/runbow.md) | 4.43 | 
-| 558 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 559 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 560 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 561 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 562 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 555 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
+| 556 | [Runbow](games/r/runbow.md) | 4.43 | 
+| 557 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 558 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 559 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 560 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 561 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 562 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 563 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
 | 564 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 565 | [Chorus](games/c/chorus.md) | 4.42 | 
@@ -646,17 +646,17 @@
 | 644 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
 | 645 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 646 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
-| 647 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.32 | 
-| 648 | [Saturnalia](games/s/saturnalia.md) | 4.32 | 
-| 649 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
-| 650 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 651 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 652 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
-| 653 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
-| 654 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
-| 655 | [Starsand](games/s/starsand.md) | 4.31 | 
-| 656 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
-| 657 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
+| 647 | [Saturnalia](games/s/saturnalia.md) | 4.32 | 
+| 648 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 649 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 650 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 651 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
+| 652 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
+| 653 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
+| 654 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 655 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
+| 656 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
+| 657 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.31 | 
 | 658 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 659 | [Tacoma](games/t/tacoma.md) | 4.30 | 
 | 660 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.30 | 
@@ -767,9 +767,9 @@
 | 765 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 766 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.95 | 
 | 767 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 768 | [Patron](games/p/patron.md) | 3.89 | 
-| 769 | [Ironcast](games/i/ironcast.md) | 3.88 | 
-| 770 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.88 | 
+| 768 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.89 | 
+| 769 | [Patron](games/p/patron.md) | 3.89 | 
+| 770 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 771 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
 | 772 | [Conarium](games/c/conarium.md) | 3.85 | 
 | 773 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
