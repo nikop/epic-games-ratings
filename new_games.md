@@ -3,7 +3,7 @@
 | 1 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
 | 2 | [Saturnalia](games/s/saturnalia.md) | 4.32 | 
 | 3 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
-| 4 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.31 | 
+| 4 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.32 | 
 | 5 | [STG Football](games/s/stg_football.md) | 4.65 | 
 | 6 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.79 | 
 | 7 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
@@ -14,7 +14,7 @@
 | 12 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.80 | 
 | 13 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
 | 14 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 15 | [Scorn](games/s/scorn.md) | 4.46 | 
+| 15 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 16 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
 | 17 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.27 | 
 | 18 | [Darkwood](games/d/darkwood.md) | 4.60 | 
@@ -31,7 +31,7 @@
 | 29 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 30 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 31 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 32 | [Gloomhaven](games/g/gloomhaven.md) | 4.44 | 
+| 32 | [Gloomhaven](games/g/gloomhaven.md) | 4.45 | 
 | 33 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
 | 34 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.81 | 
 | 35 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 

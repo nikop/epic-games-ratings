@@ -87,7 +87,7 @@
 | 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
-| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
+| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.80 | 
 | 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 91 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -155,7 +155,7 @@
 | 153 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
 | 154 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 155 | [Days Gone](games/d/days_gone.md) | 4.70 | 
-| 156 | [Dead Age 2](games/d/dead_age_2.md) | 4.09 | 
+| 156 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 157 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 158 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
 | 159 | [Death Coming](games/d/death_coming.md) | 4.45 | 
@@ -258,7 +258,7 @@
 | 256 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 257 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 258 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 259 | [Gloomhaven](games/g/gloomhaven.md) | 4.44 | 
+| 259 | [Gloomhaven](games/g/gloomhaven.md) | 4.45 | 
 | 260 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 261 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 262 | [Godfall](games/g/godfall.md) | 4.06 | 
@@ -292,7 +292,7 @@
 | 290 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 291 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 292 | [Hob](games/h/hob.md) | 4.57 | 
-| 293 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.31 | 
+| 293 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.32 | 
 | 294 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 295 | [Horace](games/h/horace.md) | 4.56 | 
 | 296 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -454,7 +454,7 @@
 | 452 | [Parkitect](games/p/parkitect.md) | 4.40 | 
 | 453 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
 | 454 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 455 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 455 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
 | 456 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 457 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 458 | [Patron](games/p/patron.md) | 3.89 | 
@@ -528,7 +528,7 @@
 | 526 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 527 | [Saturnalia](games/s/saturnalia.md) | 4.32 | 
 | 528 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 529 | [Scorn](games/s/scorn.md) | 4.46 | 
+| 529 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 530 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
 | 531 | [Scrapnaut](games/s/scrapnaut.md) | 4.38 | 
 | 532 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
