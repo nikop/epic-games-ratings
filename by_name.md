@@ -87,7 +87,7 @@
 | 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
-| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.80 | 
+| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
 | 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 91 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -211,7 +211,7 @@
 | 209 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 211 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.79 | 
-| 212 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 
+| 212 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.58 | 
 | 213 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.73 | 
 | 214 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 215 | [Far Cry](games/f/far_cry.md) | 4.37 | 
@@ -449,7 +449,7 @@
 | 447 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
 | 448 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
 | 449 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 450 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
+| 450 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.51 | 
 | 451 | [Paradigm](games/p/paradigm.md) | 4.47 | 
 | 452 | [Parkitect](games/p/parkitect.md) | 4.40 | 
 | 453 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
