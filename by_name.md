@@ -204,7 +204,7 @@
 | 202 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 203 | [Everything](games/e/everything.md) | 4.71 | 
 | 204 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
-| 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.47 | 
+| 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 
 | 206 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 207 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
@@ -313,7 +313,7 @@
 | 311 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 312 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 313 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 314 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
+| 314 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
 | 315 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
 | 316 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 317 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
@@ -424,7 +424,7 @@
 | 422 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 423 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 424 | [Obduction](games/o/obduction.md) | 4.14 | 
-| 425 | [Observation](games/o/observation.md) | 4.48 | 
+| 425 | [Observation](games/o/observation.md) | 4.47 | 
 | 426 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 
 | 427 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 
 | 428 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
@@ -584,7 +584,7 @@
 | 582 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 583 | [Starsand](games/s/starsand.md) | 4.31 | 
 | 584 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
-| 585 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
+| 585 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 
 | 586 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 587 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 588 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 

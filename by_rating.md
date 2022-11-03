@@ -306,26 +306,26 @@
 | 304 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 305 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 306 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 307 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 308 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 309 | [20XX](games/2/20xx.md) | 4.61 | 
-| 310 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 311 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
-| 312 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
-| 313 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 314 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
-| 315 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
-| 316 | [GRIME](games/g/grime.md) | 4.61 | 
-| 317 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
-| 318 | [Control](games/c/control.md) | 4.60 | 
-| 319 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 320 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 321 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 322 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 323 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
-| 324 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
-| 325 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
-| 326 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
+| 307 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 308 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 309 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 310 | [20XX](games/2/20xx.md) | 4.61 | 
+| 311 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 312 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
+| 313 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
+| 314 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 315 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
+| 316 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
+| 317 | [GRIME](games/g/grime.md) | 4.61 | 
+| 318 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
+| 319 | [Control](games/c/control.md) | 4.60 | 
+| 320 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 321 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 322 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 323 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 324 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
+| 325 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
+| 326 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 327 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 328 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 329 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
@@ -502,8 +502,8 @@
 | 500 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
 | 501 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
 | 502 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
-| 503 | [Observation](games/o/observation.md) | 4.48 | 
-| 504 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
+| 503 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
+| 504 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 
 | 505 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 506 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 507 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
@@ -512,7 +512,7 @@
 | 510 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
 | 511 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.47 | 
 | 512 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
-| 513 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.47 | 
+| 513 | [Observation](games/o/observation.md) | 4.47 | 
 | 514 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 515 | [SMITE](games/s/smite.md) | 4.46 | 
 | 516 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
@@ -587,18 +587,18 @@
 | 585 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
 | 586 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 
 | 587 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 588 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
-| 589 | [Hammerting](games/h/hammerting.md) | 4.40 | 
-| 590 | [Parkitect](games/p/parkitect.md) | 4.40 | 
-| 591 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
-| 592 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 593 | [Core](games/c/core.md) | 4.39 | 
-| 594 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
-| 595 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
-| 596 | [Torchlight](games/t/torchlight.md) | 4.39 | 
-| 597 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.39 | 
-| 598 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
-| 599 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 588 | [Hammerting](games/h/hammerting.md) | 4.40 | 
+| 589 | [Parkitect](games/p/parkitect.md) | 4.40 | 
+| 590 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
+| 591 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 592 | [Core](games/c/core.md) | 4.39 | 
+| 593 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
+| 594 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
+| 595 | [Torchlight](games/t/torchlight.md) | 4.39 | 
+| 596 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.39 | 
+| 597 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
+| 598 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 599 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 
 | 600 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.39 | 
 | 601 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 
 | 602 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
