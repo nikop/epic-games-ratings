@@ -454,14 +454,14 @@
 | 452 | [Parkitect](games/p/parkitect.md) | 4.40 | 
 | 453 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
 | 454 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 455 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 455 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 456 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 457 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 458 | [Patron](games/p/patron.md) | 3.89 | 
 | 459 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 460 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 461 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 462 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
+| 462 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 463 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 464 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 465 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
