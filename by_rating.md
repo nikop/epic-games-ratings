@@ -528,18 +528,18 @@
 | 526 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 527 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 528 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 529 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.45 | 
-| 530 | [Death Coming](games/d/death_coming.md) | 4.45 | 
-| 531 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
-| 532 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 533 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 534 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 535 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
-| 536 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 537 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
-| 538 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
-| 539 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
-| 540 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
+| 529 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
+| 530 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 531 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.45 | 
+| 532 | [Death Coming](games/d/death_coming.md) | 4.45 | 
+| 533 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
+| 534 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 535 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 536 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 537 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
+| 538 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 539 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 540 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 541 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 542 | [Gloomhaven](games/g/gloomhaven.md) | 4.44 | 
 | 543 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
@@ -643,11 +643,11 @@
 | 641 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
 | 642 | [Othercide](games/o/othercide.md) | 4.33 | 
 | 643 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 644 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
-| 645 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 646 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
-| 647 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
-| 648 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.32 | 
+| 644 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.33 | 
+| 645 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
+| 646 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 647 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
+| 648 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
 | 649 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 650 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 651 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 

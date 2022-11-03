@@ -47,7 +47,7 @@
 | 45 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 46 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 47 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
-| 48 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.44 | 
+| 48 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
 | 49 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 50 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 51 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.53 | 
@@ -292,7 +292,7 @@
 | 290 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 291 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 292 | [Hob](games/h/hob.md) | 4.57 | 
-| 293 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.32 | 
+| 293 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.33 | 
 | 294 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 295 | [Horace](games/h/horace.md) | 4.56 | 
 | 296 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -351,7 +351,7 @@
 | 349 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
 | 350 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 351 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.18 | 
-| 352 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
+| 352 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 353 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 354 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 355 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
