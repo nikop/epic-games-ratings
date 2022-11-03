@@ -454,7 +454,7 @@
 | 452 | [Parkitect](games/p/parkitect.md) | 4.40 | 
 | 453 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
 | 454 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 455 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 455 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
 | 456 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 457 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 458 | [Patron](games/p/patron.md) | 3.89 | 
@@ -527,7 +527,7 @@
 | 525 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
 | 526 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 527 | [Saturnalia](games/s/saturnalia.md) | 4.35 | 
-| 528 | [Scavengers](games/s/scavengers.md) | 4.16 | 
+| 528 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 529 | [Scorn](games/s/scorn.md) | 4.46 | 
 | 530 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
 | 531 | [Scrapnaut](games/s/scrapnaut.md) | 4.38 | 
@@ -575,7 +575,7 @@
 | 573 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.69 | 
 | 574 | [SpiderHeck](games/s/spiderheck.md) | 4.65 | 
 | 575 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 576 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
+| 576 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 577 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.90 | 
 | 578 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
 | 579 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
@@ -602,7 +602,7 @@
 | 600 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 601 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 602 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
-| 603 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 603 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 604 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
 | 605 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.78 | 
 | 606 | [SUPERHOT](games/s/superhot.md) | 4.69 | 
@@ -699,7 +699,7 @@
 | 697 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 698 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
 | 699 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 700 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 700 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 701 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.45 | 
 | 702 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 
 | 703 | [Townscaper](games/t/townscaper.md) | 4.71 | 
