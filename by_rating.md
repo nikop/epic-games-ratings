@@ -641,12 +641,12 @@
 | 639 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
 | 640 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
 | 641 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
-| 642 | [Othercide](games/o/othercide.md) | 4.33 | 
-| 643 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 644 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.33 | 
-| 645 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
-| 646 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 647 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
+| 642 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
+| 643 | [Othercide](games/o/othercide.md) | 4.33 | 
+| 644 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
+| 645 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.33 | 
+| 646 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
+| 647 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 648 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
 | 649 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 650 | [Vampyr](games/v/vampyr.md) | 4.31 | 
@@ -757,12 +757,12 @@
 | 755 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.02 | 
 | 756 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
 | 757 | [Flatout](games/f/flatout.md) | 4.00 | 
-| 758 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 759 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
-| 760 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
-| 761 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
-| 762 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.97 | 
-| 763 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
+| 758 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 4.00 | 
+| 759 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
+| 760 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
+| 761 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
+| 762 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
+| 763 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.97 | 
 | 764 | [Warface](games/w/warface.md) | 3.95 | 
 | 765 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 766 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.95 | 

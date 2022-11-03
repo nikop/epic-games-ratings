@@ -102,7 +102,7 @@
 | 100 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
 | 101 | [Card Shark](games/c/card_shark.md) | 4.59 | 
 | 102 | [CARRION](games/c/carrion.md) | 4.67 | 
-| 103 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.32 | 
+| 103 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 104 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.58 | 
 | 105 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 106 | [Celeste](games/c/celeste.md) | 4.92 | 
@@ -666,7 +666,7 @@
 | 664 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
 | 665 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 666 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
-| 667 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
+| 667 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 4.00 | 
 | 668 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 669 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 670 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.75 | 
