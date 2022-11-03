@@ -708,10 +708,10 @@
 | 706 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 707 | [Crayta](games/c/crayta.md) | 4.20 | 
 | 708 | [Tharsis](games/t/tharsis.md) | 4.20 | 
-| 709 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 710 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
-| 711 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
-| 712 | [Space Punks](games/s/space_punks.md) | 4.18 | 
+| 709 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
+| 710 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
+| 711 | [Space Punks](games/s/space_punks.md) | 4.18 | 
+| 712 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 713 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.18 | 
 | 714 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
 | 715 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.18 | 
