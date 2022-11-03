@@ -97,7 +97,7 @@
 | 95 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 96 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 97 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 98 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.05 | 
+| 98 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.06 | 
 | 99 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 100 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
 | 101 | [Card Shark](games/c/card_shark.md) | 4.61 | 
@@ -322,7 +322,7 @@
 | 320 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 321 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 322 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 323 | [Journey](games/j/journey.md) | 4.74 | 
+| 323 | [Journey](games/j/journey.md) | 4.75 | 
 | 324 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 325 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 326 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
@@ -398,7 +398,7 @@
 | 396 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 397 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 398 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 399 | [Mutazione](games/m/mutazione.md) | 4.66 | 
+| 399 | [Mutazione](games/m/mutazione.md) | 4.65 | 
 | 400 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 401 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 402 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
@@ -526,7 +526,7 @@
 | 524 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
 | 525 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
 | 526 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 527 | [Saturnalia](games/s/saturnalia.md) | 4.32 | 
+| 527 | [Saturnalia](games/s/saturnalia.md) | 4.30 | 
 | 528 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 529 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 530 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 

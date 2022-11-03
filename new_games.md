@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
-| 2 | [Saturnalia](games/s/saturnalia.md) | 4.32 | 
+| 2 | [Saturnalia](games/s/saturnalia.md) | 4.30 | 
 | 3 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
 | 4 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.32 | 
 | 5 | [STG Football](games/s/stg_football.md) | 4.57 | 
@@ -40,7 +40,7 @@
 | 38 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 39 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 40 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 41 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.05 | 
+| 41 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.06 | 
 | 42 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 43 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 44 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
