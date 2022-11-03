@@ -475,7 +475,7 @@
 | 473 | [Prey](games/p/prey.md) | 4.61 | 
 | 474 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 475 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 476 | [Quake](games/q/quake.md) | 4.82 | 
+| 476 | [Quake](games/q/quake.md) | 4.83 | 
 | 477 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 478 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 479 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
@@ -534,7 +534,7 @@
 | 532 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
 | 533 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.60 | 
 | 534 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 535 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.83 | 
+| 535 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
 | 536 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
 | 537 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
 | 538 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
@@ -615,7 +615,7 @@
 | 613 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 614 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 615 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
-| 616 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 616 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 617 | [Tacoma](games/t/tacoma.md) | 4.30 | 
 | 618 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
 | 619 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
@@ -663,7 +663,7 @@
 | 661 | [The Surge](games/t/the_surge.md) | 4.51 | 
 | 662 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
 | 663 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
-| 664 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
+| 664 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 665 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 666 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 667 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 4.00 | 
@@ -747,7 +747,7 @@
 | 745 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 746 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.37 | 
 | 747 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
-| 748 | [Warpips](games/w/warpips.md) | 4.58 | 
+| 748 | [Warpips](games/w/warpips.md) | 4.54 | 
 | 749 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 750 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 751 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
