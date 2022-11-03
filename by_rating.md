@@ -122,25 +122,25 @@
 | 120 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 121 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.75 | 
 | 122 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
-| 123 | [Outlast](games/o/outlast.md) | 4.75 | 
-| 124 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
-| 125 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 126 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 127 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 128 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 129 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
-| 130 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
-| 131 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 132 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 133 | [Journey](games/j/journey.md) | 4.74 | 
-| 134 | [Haven](games/h/haven.md) | 4.74 | 
-| 135 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
-| 136 | [Rayman Origins](games/r/rayman_origins.md) | 4.74 | 
-| 137 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
-| 138 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 139 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 140 | [Revita](games/r/revita.md) | 4.74 | 
-| 141 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 123 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
+| 124 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 125 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 126 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 127 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 128 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 129 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
+| 130 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 131 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 132 | [Journey](games/j/journey.md) | 4.74 | 
+| 133 | [Haven](games/h/haven.md) | 4.74 | 
+| 134 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
+| 135 | [Rayman Origins](games/r/rayman_origins.md) | 4.74 | 
+| 136 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
+| 137 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 138 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 139 | [Revita](games/r/revita.md) | 4.74 | 
+| 140 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 141 | [Outlast](games/o/outlast.md) | 4.74 | 
 | 142 | [Outlast 2](games/o/outlast_2.md) | 4.74 | 
 | 143 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 144 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
