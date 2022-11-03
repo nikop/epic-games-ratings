@@ -328,27 +328,27 @@
 | 326 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
 | 327 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 328 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
-| 329 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 330 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
-| 331 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
-| 332 | [ABZU](games/a/abzu.md) | 4.60 | 
-| 333 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.60 | 
-| 334 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 335 | [RiME](games/r/rime.md) | 4.60 | 
-| 336 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 337 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 338 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
-| 339 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
-| 340 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
-| 341 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.60 | 
-| 342 | [Darkwood](games/d/darkwood.md) | 4.60 | 
-| 343 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 344 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 345 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 346 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 347 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 348 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 349 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 329 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 330 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 331 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
+| 332 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
+| 333 | [ABZU](games/a/abzu.md) | 4.60 | 
+| 334 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.60 | 
+| 335 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 336 | [RiME](games/r/rime.md) | 4.60 | 
+| 337 | [Roguebook](games/r/roguebook.md) | 4.60 | 
+| 338 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
+| 339 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
+| 340 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
+| 341 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
+| 342 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.60 | 
+| 343 | [Darkwood](games/d/darkwood.md) | 4.60 | 
+| 344 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 345 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 346 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 347 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 348 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 349 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 350 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 351 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 352 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 

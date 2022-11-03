@@ -297,7 +297,7 @@
 | 295 | [Horace](games/h/horace.md) | 4.56 | 
 | 296 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 297 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 298 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 298 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 299 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 300 | [House Party](games/h/house_party.md) | 4.34 | 
 | 301 | [Hue](games/h/hue.md) | 4.56 | 
