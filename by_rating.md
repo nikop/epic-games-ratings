@@ -624,11 +624,11 @@
 | 622 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
 | 623 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
 | 624 | [Among Trees](games/a/among_trees.md) | 4.36 | 
-| 625 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
-| 626 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
-| 627 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 628 | [Lamentum](games/l/lamentum.md) | 4.36 | 
-| 629 | [ELEX](games/e/elex.md) | 4.35 | 
+| 625 | [ELEX](games/e/elex.md) | 4.36 | 
+| 626 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
+| 627 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
+| 628 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 629 | [Lamentum](games/l/lamentum.md) | 4.36 | 
 | 630 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
 | 631 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
 | 632 | [Saturnalia](games/s/saturnalia.md) | 4.35 | 
@@ -673,13 +673,13 @@
 | 671 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 672 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
 | 673 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 674 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.28 | 
-| 675 | [EVE Online](games/e/eve_online.md) | 4.27 | 
-| 676 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
-| 677 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.27 | 
-| 678 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 679 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
-| 680 | [Ashen](games/a/ashen.md) | 4.27 | 
+| 674 | [EVE Online](games/e/eve_online.md) | 4.27 | 
+| 675 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
+| 676 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.27 | 
+| 677 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 678 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
+| 679 | [Ashen](games/a/ashen.md) | 4.27 | 
+| 680 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
 | 681 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.27 | 
 | 682 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 683 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
