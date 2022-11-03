@@ -624,30 +624,30 @@
 | 622 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
 | 623 | [Among Trees](games/a/among_trees.md) | 4.36 | 
 | 624 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
-| 625 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 626 | [Lamentum](games/l/lamentum.md) | 4.36 | 
-| 627 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
-| 628 | [ELEX](games/e/elex.md) | 4.35 | 
-| 629 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
-| 630 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
-| 631 | [Saturnalia](games/s/saturnalia.md) | 4.35 | 
-| 632 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
-| 633 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 634 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 635 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 636 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
-| 637 | [House Party](games/h/house_party.md) | 4.34 | 
-| 638 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
-| 639 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
+| 625 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
+| 626 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 627 | [Lamentum](games/l/lamentum.md) | 4.36 | 
+| 628 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
+| 629 | [ELEX](games/e/elex.md) | 4.35 | 
+| 630 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
+| 631 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
+| 632 | [Saturnalia](games/s/saturnalia.md) | 4.35 | 
+| 633 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
+| 634 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 635 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 636 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 637 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
+| 638 | [House Party](games/h/house_party.md) | 4.34 | 
+| 639 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
 | 640 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
 | 641 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
 | 642 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 643 | [Othercide](games/o/othercide.md) | 4.33 | 
 | 644 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 645 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.33 | 
-| 646 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
-| 647 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 648 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
+| 645 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
+| 646 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 647 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
+| 648 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.32 | 
 | 649 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 650 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 651 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
