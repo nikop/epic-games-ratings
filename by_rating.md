@@ -202,21 +202,21 @@
 | 200 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 201 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 202 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
-| 203 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
-| 204 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
-| 205 | [APE OUT](games/a/ape_out.md) | 4.69 | 
-| 206 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.69 | 
-| 207 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 208 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 209 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 210 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 211 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 212 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 213 | [Barony](games/b/barony.md) | 4.68 | 
-| 214 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 215 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 216 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
-| 217 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
+| 203 | [SUPERHOT](games/s/superhot.md) | 4.69 | 
+| 204 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
+| 205 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
+| 206 | [APE OUT](games/a/ape_out.md) | 4.69 | 
+| 207 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.69 | 
+| 208 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 209 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 210 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 211 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 212 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 213 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 214 | [Barony](games/b/barony.md) | 4.68 | 
+| 215 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 216 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
+| 217 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 218 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 219 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 220 | [Rogue Lords](games/r/rogue_lords.md) | 4.68 | 
@@ -411,34 +411,34 @@
 | 409 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 410 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 411 | [Hue](games/h/hue.md) | 4.55 | 
-| 412 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
-| 413 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
-| 414 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 415 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 
-| 416 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
-| 417 | [UnMetal](games/u/unmetal.md) | 4.55 | 
-| 418 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 419 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 420 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 421 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 422 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 423 | [Outward](games/o/outward.md) | 4.54 | 
-| 424 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 425 | [RUINER](games/r/ruiner.md) | 4.54 | 
-| 426 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
-| 427 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 428 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.54 | 
-| 429 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 430 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 431 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 432 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 433 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 434 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 435 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
-| 436 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 437 | [Minit](games/m/minit.md) | 4.53 | 
-| 438 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
-| 439 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 412 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 413 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 414 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 
+| 415 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
+| 416 | [UnMetal](games/u/unmetal.md) | 4.55 | 
+| 417 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
+| 418 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 419 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 420 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 421 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
+| 422 | [Outward](games/o/outward.md) | 4.54 | 
+| 423 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 424 | [RUINER](games/r/ruiner.md) | 4.54 | 
+| 425 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
+| 426 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 427 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.54 | 
+| 428 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 429 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 430 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
+| 431 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 432 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 433 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 434 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
+| 435 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 436 | [Minit](games/m/minit.md) | 4.53 | 
+| 437 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
+| 438 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 439 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 440 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 441 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 442 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 

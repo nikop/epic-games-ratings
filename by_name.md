@@ -605,7 +605,7 @@
 | 603 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 604 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
 | 605 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.78 | 
-| 606 | [SUPERHOT](games/s/superhot.md) | 4.68 | 
+| 606 | [SUPERHOT](games/s/superhot.md) | 4.69 | 
 | 607 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 
 | 608 | [Superliminal](games/s/superliminal.md) | 4.77 | 
 | 609 | [Supraland](games/s/supraland.md) | 4.61 | 
@@ -664,7 +664,7 @@
 | 662 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
 | 663 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 664 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
-| 665 | [The Tenants](games/t/the_tenants.md) | 4.55 | 
+| 665 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 666 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 667 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
 | 668 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
