@@ -64,7 +64,7 @@
 | 62 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 63 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
 | 64 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
-| 65 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.69 | 
+| 65 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 
 | 66 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 67 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.39 | 
 | 68 | [Barony](games/b/barony.md) | 4.68 | 
@@ -249,7 +249,7 @@
 | 247 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.22 | 
 | 248 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 249 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 250 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
+| 250 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.37 | 
 | 251 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 252 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 253 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
@@ -410,7 +410,7 @@
 | 408 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.64 | 
 | 409 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 410 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 411 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 411 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
 | 412 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 413 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.12 | 
 | 414 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.52 | 
@@ -592,7 +592,7 @@
 | 590 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 591 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 592 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 593 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
+| 593 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
 | 594 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 595 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
 | 596 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
@@ -662,7 +662,7 @@
 | 660 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 661 | [The Surge](games/t/the_surge.md) | 4.51 | 
 | 662 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
-| 663 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 663 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 664 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
 | 665 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 666 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
@@ -759,7 +759,7 @@
 | 757 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
 | 758 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
 | 759 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
-| 760 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 760 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
 | 761 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 762 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 763 | [Windbound](games/w/windbound.md) | 4.17 | 
