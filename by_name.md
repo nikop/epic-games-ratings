@@ -116,7 +116,7 @@
 | 114 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 115 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 116 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 117 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
+| 117 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 
 | 118 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 119 | [Conarium](games/c/conarium.md) | 3.85 | 
 | 120 | [Control](games/c/control.md) | 4.60 | 
@@ -212,7 +212,7 @@
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 211 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.79 | 
 | 212 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.58 | 
-| 213 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
+| 213 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.73 | 
 | 214 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 215 | [Far Cry](games/f/far_cry.md) | 4.37 | 
 | 216 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
@@ -301,7 +301,7 @@
 | 299 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 300 | [House Party](games/h/house_party.md) | 4.34 | 
 | 301 | [Hue](games/h/hue.md) | 4.56 | 
-| 302 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 302 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
 | 303 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 304 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
 | 305 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
@@ -541,7 +541,7 @@
 | 539 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 540 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.77 | 
 | 541 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 542 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
+| 542 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
 | 543 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 544 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
 | 545 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 
@@ -582,7 +582,7 @@
 | 580 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
 | 581 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
 | 582 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 583 | [Starsand](games/s/starsand.md) | 4.31 | 
+| 583 | [Starsand](games/s/starsand.md) | 4.27 | 
 | 584 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 585 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 
 | 586 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
