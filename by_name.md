@@ -194,7 +194,7 @@
 | 192 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 194 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.47 | 
-| 195 | [ELEX](games/e/elex.md) | 4.36 | 
+| 195 | [ELEX](games/e/elex.md) | 4.37 | 
 | 196 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
 | 197 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 198 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
@@ -211,7 +211,7 @@
 | 209 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 211 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.79 | 
-| 212 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.58 | 
+| 212 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 
 | 213 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.73 | 
 | 214 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 215 | [Far Cry](games/f/far_cry.md) | 4.37 | 
@@ -301,7 +301,7 @@
 | 299 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 300 | [House Party](games/h/house_party.md) | 4.34 | 
 | 301 | [Hue](games/h/hue.md) | 4.56 | 
-| 302 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
+| 302 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 303 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 304 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
 | 305 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
@@ -537,10 +537,10 @@
 | 535 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
 | 536 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
 | 537 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.58 | 
-| 538 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
+| 538 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 539 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 540 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.77 | 
-| 541 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 541 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 542 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
 | 543 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 544 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
@@ -677,7 +677,7 @@
 | 675 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 676 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 677 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
-| 678 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
+| 678 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 679 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 680 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 681 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
@@ -700,7 +700,7 @@
 | 698 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
 | 699 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 700 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 701 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.45 | 
+| 701 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.46 | 
 | 702 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 
 | 703 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 704 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
