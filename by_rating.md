@@ -129,23 +129,23 @@
 | 127 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 128 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 129 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 130 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
-| 131 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 132 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 133 | [Journey](games/j/journey.md) | 4.74 | 
-| 134 | [Haven](games/h/haven.md) | 4.74 | 
-| 135 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
-| 136 | [Rayman Origins](games/r/rayman_origins.md) | 4.74 | 
-| 137 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
-| 138 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 139 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 140 | [Revita](games/r/revita.md) | 4.74 | 
-| 141 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 142 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 143 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 144 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 145 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 146 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 130 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 131 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
+| 132 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 133 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 134 | [Journey](games/j/journey.md) | 4.74 | 
+| 135 | [Haven](games/h/haven.md) | 4.74 | 
+| 136 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
+| 137 | [Rayman Origins](games/r/rayman_origins.md) | 4.74 | 
+| 138 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
+| 139 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 140 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 141 | [Revita](games/r/revita.md) | 4.74 | 
+| 142 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 143 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 144 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 145 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 146 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 147 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 148 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 149 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
@@ -630,14 +630,14 @@
 | 628 | [ELEX](games/e/elex.md) | 4.35 | 
 | 629 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
 | 630 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
-| 631 | [Saturnalia](games/s/saturnalia.md) | 4.35 | 
-| 632 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
-| 633 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 634 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 635 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 636 | [House Party](games/h/house_party.md) | 4.34 | 
-| 637 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
-| 638 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
+| 631 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
+| 632 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 633 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 634 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 635 | [House Party](games/h/house_party.md) | 4.34 | 
+| 636 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.34 | 
+| 637 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
+| 638 | [Saturnalia](games/s/saturnalia.md) | 4.34 | 
 | 639 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
 | 640 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 641 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 

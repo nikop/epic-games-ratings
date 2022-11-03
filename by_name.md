@@ -526,7 +526,7 @@
 | 524 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
 | 525 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
 | 526 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 527 | [Saturnalia](games/s/saturnalia.md) | 4.35 | 
+| 527 | [Saturnalia](games/s/saturnalia.md) | 4.34 | 
 | 528 | [Scavengers](games/s/scavengers.md) | 4.16 | 
 | 529 | [Scorn](games/s/scorn.md) | 4.46 | 
 | 530 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
@@ -681,7 +681,7 @@
 | 679 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 680 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 681 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
-| 682 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 682 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 683 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 684 | [Timberborn](games/t/timberborn.md) | 4.70 | 
 | 685 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
