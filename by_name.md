@@ -272,7 +272,7 @@
 | 270 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 271 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 272 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 273 | [GRIME](games/g/grime.md) | 4.63 | 
+| 273 | [GRIME](games/g/grime.md) | 4.61 | 
 | 274 | [Grindstone](games/g/grindstone.md) | 4.82 | 
 | 275 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
 | 276 | [Hades](games/h/hades.md) | 4.92 | 
@@ -350,7 +350,7 @@
 | 348 | [Lamentum](games/l/lamentum.md) | 4.36 | 
 | 349 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
 | 350 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 351 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.17 | 
+| 351 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.18 | 
 | 352 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
 | 353 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 354 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
@@ -440,7 +440,7 @@
 | 438 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 439 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 440 | [Outlast](games/o/outlast.md) | 4.75 | 
-| 441 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
+| 441 | [Outlast 2](games/o/outlast_2.md) | 4.74 | 
 | 442 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 443 | [Outward](games/o/outward.md) | 4.54 | 
 | 444 | [Overcooked](games/o/overcooked.md) | 4.69 | 
@@ -526,13 +526,13 @@
 | 524 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
 | 525 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
 | 526 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 527 | [Saturnalia](games/s/saturnalia.md) | 4.34 | 
+| 527 | [Saturnalia](games/s/saturnalia.md) | 4.35 | 
 | 528 | [Scavengers](games/s/scavengers.md) | 4.16 | 
 | 529 | [Scorn](games/s/scorn.md) | 4.46 | 
 | 530 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
 | 531 | [Scrapnaut](games/s/scrapnaut.md) | 4.38 | 
 | 532 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
-| 533 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
+| 533 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.60 | 
 | 534 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 535 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.83 | 
 | 536 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
@@ -548,7 +548,7 @@
 | 546 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 547 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 548 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 549 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.54 | 
+| 549 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
 | 550 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 551 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 552 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 

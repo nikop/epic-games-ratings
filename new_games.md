@@ -1,8 +1,8 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
-| 2 | [Saturnalia](games/s/saturnalia.md) | 4.34 | 
-| 3 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.54 | 
+| 2 | [Saturnalia](games/s/saturnalia.md) | 4.35 | 
+| 3 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
 | 4 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.32 | 
 | 5 | [STG Football](games/s/stg_football.md) | 4.65 | 
 | 6 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.79 | 
@@ -20,7 +20,7 @@
 | 18 | [Darkwood](games/d/darkwood.md) | 4.60 | 
 | 19 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 20 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.53 | 
-| 21 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
+| 21 | [Outlast 2](games/o/outlast_2.md) | 4.74 | 
 | 22 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 23 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 24 | [Outlast](games/o/outlast.md) | 4.75 | 
