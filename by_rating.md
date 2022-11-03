@@ -344,20 +344,20 @@
 | 342 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 343 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 344 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 345 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 346 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 347 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 348 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 349 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 350 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
-| 351 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
-| 352 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 
-| 353 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 354 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 355 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 356 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 357 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 358 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 345 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 346 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 347 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 348 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 349 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
+| 350 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
+| 351 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 
+| 352 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 353 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 354 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 355 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 356 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 357 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 358 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 359 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 360 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 361 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
@@ -672,12 +672,12 @@
 | 670 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 671 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
 | 672 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
-| 673 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 673 | [Ashen](games/a/ashen.md) | 4.28 | 
 | 674 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 675 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 676 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.27 | 
 | 677 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 678 | [Ashen](games/a/ashen.md) | 4.27 | 
+| 678 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 679 | [Starsand](games/s/starsand.md) | 4.27 | 
 | 680 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
 | 681 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.27 | 

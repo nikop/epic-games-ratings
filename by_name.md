@@ -40,7 +40,7 @@
 | 38 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 39 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
 | 40 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
-| 41 | [Ashen](games/a/ashen.md) | 4.27 | 
+| 41 | [Ashen](games/a/ashen.md) | 4.28 | 
 | 42 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 43 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 44 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
@@ -188,7 +188,7 @@
 | 186 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 187 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.66 | 
@@ -586,7 +586,7 @@
 | 584 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 585 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 
 | 586 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 587 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 587 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 588 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 589 | [STG Football](games/s/stg_football.md) | 4.57 | 
 | 590 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
