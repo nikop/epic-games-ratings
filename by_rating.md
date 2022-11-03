@@ -752,9 +752,9 @@
 | 750 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.05 | 
 | 751 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 752 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
-| 753 | [Submerged](games/s/submerged.md) | 4.04 | 
-| 754 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.02 | 
-| 755 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
+| 753 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 
+| 754 | [Submerged](games/s/submerged.md) | 4.04 | 
+| 755 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.02 | 
 | 756 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
 | 757 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 758 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
