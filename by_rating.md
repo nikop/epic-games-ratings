@@ -69,16 +69,16 @@
 | 67 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 68 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 69 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.81 | 
-| 70 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.81 | 
-| 71 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 72 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 73 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 74 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 75 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 76 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 77 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 78 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 79 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.80 | 
+| 70 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 71 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 72 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 73 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
+| 74 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 75 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 76 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
+| 77 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 78 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.80 | 
+| 79 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.80 | 
 | 80 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 81 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 82 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
@@ -440,26 +440,26 @@
 | 438 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 439 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.53 | 
 | 440 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 441 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 442 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 443 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 444 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 445 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 446 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 447 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 448 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
-| 449 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 450 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
-| 451 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.52 | 
-| 452 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
-| 453 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
-| 454 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
-| 455 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 456 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 457 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.52 | 
-| 458 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 459 | [The Medium](games/t/the_medium.md) | 4.52 | 
-| 460 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 441 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 442 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 443 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 444 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 445 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
+| 446 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 447 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
+| 448 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
+| 449 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
+| 450 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.52 | 
+| 451 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
+| 452 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
+| 453 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
+| 454 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 455 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 456 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.52 | 
+| 457 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 458 | [The Medium](games/t/the_medium.md) | 4.52 | 
+| 459 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 460 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 461 | [Verdun](games/v/verdun.md) | 4.51 | 
 | 462 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
 | 463 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 

@@ -478,7 +478,7 @@
 | 476 | [Quake](games/q/quake.md) | 4.82 | 
 | 477 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 478 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 479 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 479 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 480 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 481 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
 | 482 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
@@ -723,7 +723,7 @@
 | 721 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 722 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 723 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 724 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.81 | 
+| 724 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.80 | 
 | 725 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 726 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
 | 727 | [UnMetal](games/u/unmetal.md) | 4.55 | 
