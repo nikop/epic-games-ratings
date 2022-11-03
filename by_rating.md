@@ -98,17 +98,17 @@
 | 96 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 97 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.78 | 
 | 98 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 99 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 
-| 100 | [Superliminal](games/s/superliminal.md) | 4.77 | 
-| 101 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
-| 102 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
-| 103 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.77 | 
-| 104 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 105 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 106 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 107 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 108 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 109 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
+| 99 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
+| 100 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 
+| 101 | [Superliminal](games/s/superliminal.md) | 4.77 | 
+| 102 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
+| 103 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
+| 104 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.77 | 
+| 105 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 106 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 107 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 108 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 109 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 110 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
 | 111 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 112 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.76 | 
@@ -247,17 +247,17 @@
 | 245 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
 | 246 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 247 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 248 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 249 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
-| 250 | [Mutazione](games/m/mutazione.md) | 4.66 | 
-| 251 | [Eastward](games/e/eastward.md) | 4.66 | 
-| 252 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 253 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 254 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 255 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 256 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 257 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 258 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
+| 248 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
+| 249 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 250 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
+| 251 | [Mutazione](games/m/mutazione.md) | 4.66 | 
+| 252 | [Eastward](games/e/eastward.md) | 4.66 | 
+| 253 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 254 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 255 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 256 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 257 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 258 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 259 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
 | 260 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
 | 261 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 

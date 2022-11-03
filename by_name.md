@@ -554,7 +554,7 @@
 | 552 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 553 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 554 | [Slipways](games/s/slipways.md) | 4.70 | 
-| 555 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
+| 555 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
 | 556 | [SMITE](games/s/smite.md) | 4.46 | 
 | 557 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 558 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
@@ -614,7 +614,7 @@
 | 612 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 613 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 614 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
-| 615 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 
+| 615 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
 | 616 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 617 | [Tacoma](games/t/tacoma.md) | 4.30 | 
 | 618 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
