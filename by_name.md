@@ -27,7 +27,7 @@
 | 25 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 26 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 27 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 28 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 28 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 29 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
 | 30 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 31 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
@@ -225,7 +225,7 @@
 | 223 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
 | 224 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
 | 225 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 226 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.06 | 
+| 226 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.08 | 
 | 227 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 228 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 229 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
@@ -635,7 +635,7 @@
 | 633 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 634 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 635 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 636 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 636 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
 | 637 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 638 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 639 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
@@ -712,7 +712,7 @@
 | 710 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.98 | 
 | 711 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 712 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 713 | [Train Valley](games/t/train_valley.md) | 4.42 | 
+| 713 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 714 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 715 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 716 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
