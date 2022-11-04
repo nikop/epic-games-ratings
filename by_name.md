@@ -526,7 +526,7 @@
 | 524 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
 | 525 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
 | 526 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 527 | [Saturnalia](games/s/saturnalia.md) | 4.31 | 
+| 527 | [Saturnalia](games/s/saturnalia.md) | 4.30 | 
 | 528 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 529 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 530 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
@@ -638,7 +638,7 @@
 | 636 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 637 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
 | 638 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 639 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
+| 639 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 640 | [The Fall](games/t/the_fall.md) | 4.25 | 
 | 641 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
 | 642 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
@@ -705,7 +705,7 @@
 | 703 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 704 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
 | 705 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 706 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.97 | 
+| 706 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.98 | 
 | 707 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 708 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 709 | [Train Valley](games/t/train_valley.md) | 4.42 | 

@@ -151,14 +151,14 @@
 | 149 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 150 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 151 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 152 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
-| 153 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
-| 154 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
-| 155 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
-| 156 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 157 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 158 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 159 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
+| 152 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
+| 153 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
+| 154 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
+| 155 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
+| 156 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
+| 157 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 158 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 159 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 160 | [Fez](games/f/fez.md) | 4.72 | 
 | 161 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 162 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
@@ -655,11 +655,11 @@
 | 653 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
 | 654 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
 | 655 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
-| 656 | [Saturnalia](games/s/saturnalia.md) | 4.31 | 
-| 657 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 658 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
-| 659 | [Tacoma](games/t/tacoma.md) | 4.30 | 
-| 660 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.30 | 
+| 656 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 657 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
+| 658 | [Tacoma](games/t/tacoma.md) | 4.30 | 
+| 659 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.30 | 
+| 660 | [Saturnalia](games/s/saturnalia.md) | 4.30 | 
 | 661 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 662 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
 | 663 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
@@ -760,9 +760,9 @@
 | 758 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 4.00 | 
 | 759 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 760 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
-| 761 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
-| 762 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 
-| 763 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.97 | 
+| 761 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.98 | 
+| 762 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
+| 763 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 
 | 764 | [Warface](games/w/warface.md) | 3.95 | 
 | 765 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 766 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.95 | 
