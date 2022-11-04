@@ -608,17 +608,17 @@
 | 606 | [Scrapnaut](games/s/scrapnaut.md) | 4.38 | 
 | 607 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 608 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.38 | 
-| 609 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 610 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
-| 611 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 612 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
-| 613 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
-| 614 | [ELEX](games/e/elex.md) | 4.37 | 
-| 615 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.37 | 
-| 616 | [Far Cry](games/f/far_cry.md) | 4.37 | 
-| 617 | [War Mongrels](games/w/war_mongrels.md) | 4.37 | 
-| 618 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
-| 619 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.37 | 
+| 609 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.38 | 
+| 610 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 611 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
+| 612 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 613 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
+| 614 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
+| 615 | [ELEX](games/e/elex.md) | 4.37 | 
+| 616 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.37 | 
+| 617 | [Far Cry](games/f/far_cry.md) | 4.37 | 
+| 618 | [War Mongrels](games/w/war_mongrels.md) | 4.37 | 
+| 619 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
 | 620 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 621 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 622 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 

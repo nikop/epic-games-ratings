@@ -58,7 +58,7 @@
 | 56 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
 | 57 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 58 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
-| 59 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.37 | 
+| 59 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.38 | 
 | 60 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 61 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 62 | [GigaBash](games/g/gigabash.md) | 4.48 | 
