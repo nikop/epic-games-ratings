@@ -152,15 +152,15 @@
 | 150 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 151 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 152 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 153 | [Fez](games/f/fez.md) | 4.73 | 
-| 154 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
-| 155 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
-| 156 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
-| 157 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
-| 158 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 159 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 160 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 161 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
+| 153 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
+| 154 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
+| 155 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
+| 156 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
+| 157 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 158 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 159 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 160 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
+| 161 | [Fez](games/f/fez.md) | 4.72 | 
 | 162 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 163 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
 | 164 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
@@ -281,31 +281,31 @@
 | 279 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.64 | 
 | 280 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
 | 281 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 282 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
-| 283 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 284 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 285 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 286 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 287 | [Limbo](games/l/limbo.md) | 4.63 | 
-| 288 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
-| 289 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 290 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
-| 291 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 292 | [Warframe](games/w/warframe.md) | 4.62 | 
-| 293 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 282 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 283 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 284 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 285 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
+| 286 | [Limbo](games/l/limbo.md) | 4.63 | 
+| 287 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
+| 288 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
+| 289 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
+| 290 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 291 | [Warframe](games/w/warframe.md) | 4.62 | 
+| 292 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 293 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.62 | 
 | 294 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
-| 295 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
-| 296 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 297 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
-| 298 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 299 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
-| 300 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.62 | 
-| 301 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 302 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 303 | [Prey](games/p/prey.md) | 4.61 | 
-| 304 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 305 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 306 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 295 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 296 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
+| 297 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 298 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
+| 299 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.62 | 
+| 300 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 301 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 302 | [Prey](games/p/prey.md) | 4.61 | 
+| 303 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 304 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 305 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 306 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 307 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 308 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 309 | [20XX](games/2/20xx.md) | 4.61 | 

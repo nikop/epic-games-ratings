@@ -230,7 +230,7 @@
 | 228 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 229 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 230 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
-| 231 | [Fez](games/f/fez.md) | 4.73 | 
+| 231 | [Fez](games/f/fez.md) | 4.72 | 
 | 232 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.65 | 
 | 233 | [Figment](games/f/figment.md) | 4.43 | 
 | 234 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
@@ -501,7 +501,7 @@
 | 499 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 500 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 501 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 502 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.63 | 
+| 502 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.62 | 
 | 503 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 504 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 505 | [Road 96](games/r/road_96.md) | 4.58 | 
@@ -737,7 +737,7 @@
 | 735 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 736 | [Verdun](games/v/verdun.md) | 4.51 | 
 | 737 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 738 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
+| 738 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 739 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 740 | [War Mongrels](games/w/war_mongrels.md) | 4.37 | 
 | 741 | [Warface](games/w/warface.md) | 3.95 | 
