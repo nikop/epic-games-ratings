@@ -19,7 +19,7 @@
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
 | 18 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
-| 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
+| 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
 | 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
 | 23 | [Among Trees](games/a/among_trees.md) | 4.36 | 
@@ -638,7 +638,7 @@
 | 636 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 637 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
 | 638 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 639 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
+| 639 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
 | 640 | [The Fall](games/t/the_fall.md) | 4.25 | 
 | 641 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
 | 642 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
@@ -778,4 +778,5 @@
 | 776 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 777 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 778 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.62 | 
-| 779 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 779 | [ZOMBI](games/z/zombi.md) | 4.35 | 
+| 780 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
