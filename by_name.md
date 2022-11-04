@@ -152,7 +152,7 @@
 | 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 151 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
 | 152 | [Darkwood](games/d/darkwood.md) | 4.60 | 
-| 153 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
+| 153 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 154 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 155 | [Days Gone](games/d/days_gone.md) | 4.70 | 
 | 156 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
@@ -766,7 +766,7 @@
 | 764 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 765 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 766 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 767 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
+| 767 | [World of Goo](games/w/world_of_goo.md) | 4.76 | 
 | 768 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 769 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
 | 770 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 

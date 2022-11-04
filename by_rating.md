@@ -109,17 +109,17 @@
 | 107 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 108 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 109 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 110 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
-| 111 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.76 | 
-| 112 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 113 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 114 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 115 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 116 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
-| 117 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
-| 118 | [Northgard](games/n/northgard.md) | 4.75 | 
-| 119 | [Journey](games/j/journey.md) | 4.75 | 
-| 120 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
+| 110 | [World of Goo](games/w/world_of_goo.md) | 4.76 | 
+| 111 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
+| 112 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.76 | 
+| 113 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 114 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 115 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 116 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 117 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
+| 118 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 119 | [Northgard](games/n/northgard.md) | 4.75 | 
+| 120 | [Journey](games/j/journey.md) | 4.75 | 
 | 121 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.75 | 
 | 122 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
 | 123 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
@@ -572,17 +572,17 @@
 | 570 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 571 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 572 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 573 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
-| 574 | [Faeria](games/f/faeria.md) | 4.41 | 
-| 575 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 576 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.41 | 
-| 577 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 578 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 579 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
-| 580 | [Backbone](games/b/backbone.md) | 4.41 | 
-| 581 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 582 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
-| 583 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 573 | [Faeria](games/f/faeria.md) | 4.41 | 
+| 574 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 575 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.41 | 
+| 576 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 577 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 578 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
+| 579 | [Backbone](games/b/backbone.md) | 4.41 | 
+| 580 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 581 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 582 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 583 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 584 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 585 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
 | 586 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 
