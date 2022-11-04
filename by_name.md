@@ -379,7 +379,7 @@
 | 377 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 378 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 379 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.10 | 
-| 380 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
+| 380 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 381 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 382 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 383 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
