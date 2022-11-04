@@ -481,25 +481,25 @@
 | 479 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 480 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 481 | [Aztez](games/a/aztez.md) | 4.50 | 
-| 482 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
-| 483 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 484 | [Redout 2](games/r/redout_2.md) | 4.50 | 
-| 485 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
-| 486 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
-| 487 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 488 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 489 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
-| 490 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 491 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 492 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 493 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 494 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 495 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
-| 496 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 497 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 498 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 499 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 
-| 500 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
+| 482 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
+| 483 | [Redout 2](games/r/redout_2.md) | 4.50 | 
+| 484 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
+| 485 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
+| 486 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 487 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 488 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
+| 489 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 490 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 491 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 492 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 493 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 494 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
+| 495 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 496 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 497 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 498 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 
+| 499 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
+| 500 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 501 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 502 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
 | 503 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
@@ -549,16 +549,16 @@
 | 547 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 548 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 
 | 549 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
-| 550 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 551 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
-| 552 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 553 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
-| 554 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 555 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
-| 556 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 557 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
-| 558 | [Figment](games/f/figment.md) | 4.43 | 
-| 559 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 550 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
+| 551 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 552 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
+| 553 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 554 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
+| 555 | [Sheltered](games/s/sheltered.md) | 4.43 | 
+| 556 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
+| 557 | [Figment](games/f/figment.md) | 4.43 | 
+| 558 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 559 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
 | 560 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
 | 561 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 562 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
@@ -724,9 +724,9 @@
 | 722 | [Gone Home](games/g/gone_home.md) | 4.17 | 
 | 723 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 724 | [Hellpoint](games/h/hellpoint.md) | 4.17 | 
-| 725 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
-| 726 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
-| 727 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.15 | 
+| 725 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
+| 726 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
+| 727 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 728 | [Pine](games/p/pine.md) | 4.14 | 
 | 729 | [Obduction](games/o/obduction.md) | 4.14 | 
 | 730 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 

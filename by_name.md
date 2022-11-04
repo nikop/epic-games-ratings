@@ -335,7 +335,7 @@
 | 333 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 334 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 
 | 335 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
-| 336 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.15 | 
+| 336 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
 | 337 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 338 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
 | 339 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
@@ -635,7 +635,7 @@
 | 633 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 634 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 635 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 636 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
+| 636 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 637 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 638 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 639 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
@@ -748,7 +748,7 @@
 | 746 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 747 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 748 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
-| 749 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
+| 749 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
 | 750 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.39 | 
 | 751 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
 | 752 | [Warpips](games/w/warpips.md) | 4.54 | 
