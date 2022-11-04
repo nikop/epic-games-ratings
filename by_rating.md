@@ -479,24 +479,24 @@
 | 477 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 478 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
 | 479 | [Aztez](games/a/aztez.md) | 4.50 | 
-| 480 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 481 | [Redout 2](games/r/redout_2.md) | 4.50 | 
-| 482 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
-| 483 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
-| 484 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 485 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 486 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
-| 487 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 488 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 489 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 490 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 491 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 492 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
-| 493 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 494 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 495 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 496 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
-| 497 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 480 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
+| 481 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
+| 482 | [Redout 2](games/r/redout_2.md) | 4.50 | 
+| 483 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
+| 484 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
+| 485 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 486 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 487 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
+| 488 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 489 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 490 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 491 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 492 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 493 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
+| 494 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 495 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 496 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 497 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
 | 498 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 499 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
 | 500 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
@@ -563,16 +563,16 @@
 | 561 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 562 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
 | 563 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
-| 564 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
-| 565 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 566 | [Chorus](games/c/chorus.md) | 4.42 | 
-| 567 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.42 | 
-| 568 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 569 | [Train Valley](games/t/train_valley.md) | 4.42 | 
-| 570 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 571 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 572 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 573 | [Faeria](games/f/faeria.md) | 4.41 | 
+| 564 | [Faeria](games/f/faeria.md) | 4.42 | 
+| 565 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
+| 566 | [Good Company](games/g/good_company.md) | 4.42 | 
+| 567 | [Chorus](games/c/chorus.md) | 4.42 | 
+| 568 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.42 | 
+| 569 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 570 | [Train Valley](games/t/train_valley.md) | 4.42 | 
+| 571 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 572 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 573 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 574 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 575 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.41 | 
 | 576 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
@@ -657,10 +657,10 @@
 | 655 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 656 | [Saturnalia](games/s/saturnalia.md) | 4.31 | 
 | 657 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 658 | [Tacoma](games/t/tacoma.md) | 4.30 | 
-| 659 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.30 | 
-| 660 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 661 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 658 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
+| 659 | [Tacoma](games/t/tacoma.md) | 4.30 | 
+| 660 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.30 | 
+| 661 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 662 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
 | 663 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
 | 664 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 

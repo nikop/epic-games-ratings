@@ -49,7 +49,7 @@
 | 47 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 48 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 49 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
-| 50 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 50 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 51 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
 | 52 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 53 | [DOOM II](games/d/doom_ii.md) | 4.82 | 

@@ -208,7 +208,7 @@
 | 206 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 207 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
-| 209 | [Faeria](games/f/faeria.md) | 4.41 | 
+| 209 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 211 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.79 | 
 | 212 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 
@@ -484,7 +484,7 @@
 | 482 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
 | 483 | [Rayman Origins](games/r/rayman_origins.md) | 4.74 | 
 | 484 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
-| 485 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 485 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 486 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 487 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 488 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
@@ -632,7 +632,7 @@
 | 630 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 631 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 632 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 633 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 633 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
 | 634 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 635 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 636 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
