@@ -20,7 +20,7 @@
 | 18 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
-| 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
 | 23 | [Among Trees](games/a/among_trees.md) | 4.36 | 
 | 24 | [Among Us](games/a/among_us.md) | 4.58 | 
@@ -261,7 +261,7 @@
 | 259 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 260 | [Gloomhaven](games/g/gloomhaven.md) | 4.45 | 
 | 261 | [God of War](games/g/god_of_war.md) | 4.89 | 
-| 262 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
+| 262 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 263 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 264 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
 | 265 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.89 | 
@@ -405,10 +405,10 @@
 | 403 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 404 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 405 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 406 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 406 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 407 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 408 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 409 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.64 | 
+| 409 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.65 | 
 | 410 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 411 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 412 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
@@ -441,7 +441,7 @@
 | 439 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 440 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 441 | [Outlast](games/o/outlast.md) | 4.74 | 
-| 442 | [Outlast 2](games/o/outlast_2.md) | 4.74 | 
+| 442 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
 | 443 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 444 | [Outward](games/o/outward.md) | 4.54 | 
 | 445 | [Overcooked](games/o/overcooked.md) | 4.69 | 
@@ -526,7 +526,7 @@
 | 524 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 525 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
 | 526 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 
-| 527 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
+| 527 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 528 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 529 | [Saturnalia](games/s/saturnalia.md) | 4.30 | 
 | 530 | [Scavengers](games/s/scavengers.md) | 4.17 | 
