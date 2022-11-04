@@ -503,7 +503,7 @@
 | 501 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 502 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 503 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 504 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.62 | 
+| 504 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.61 | 
 | 505 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 506 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 507 | [Road 96](games/r/road_96.md) | 4.58 | 
@@ -763,7 +763,7 @@
 | 761 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
 | 762 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
 | 763 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
-| 764 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 764 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 765 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 766 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 767 | [Windbound](games/w/windbound.md) | 4.17 | 

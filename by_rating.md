@@ -295,17 +295,17 @@
 | 293 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.63 | 
 | 294 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 295 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 296 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.62 | 
-| 297 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
-| 298 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 299 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
-| 300 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 301 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
-| 302 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 303 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 304 | [Prey](games/p/prey.md) | 4.61 | 
-| 305 | [Warframe](games/w/warframe.md) | 4.61 | 
-| 306 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 296 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
+| 297 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 298 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
+| 299 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 300 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
+| 301 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 302 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 303 | [Prey](games/p/prey.md) | 4.61 | 
+| 304 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 305 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 306 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.61 | 
 | 307 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 308 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 309 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
@@ -444,28 +444,28 @@
 | 442 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.53 | 
 | 443 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 444 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 445 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 446 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 447 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 448 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 449 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 450 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
-| 451 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 452 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
-| 453 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.52 | 
-| 454 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
-| 455 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
-| 456 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
-| 457 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 458 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 459 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 460 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 
-| 461 | [The Medium](games/t/the_medium.md) | 4.52 | 
-| 462 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 463 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 464 | [Verdun](games/v/verdun.md) | 4.51 | 
-| 465 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 466 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 445 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 446 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 447 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
+| 448 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 449 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
+| 450 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
+| 451 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
+| 452 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.52 | 
+| 453 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
+| 454 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
+| 455 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
+| 456 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 457 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 458 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 459 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 
+| 460 | [The Medium](games/t/the_medium.md) | 4.52 | 
+| 461 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 462 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 463 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 464 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 465 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 466 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 467 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
 | 468 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 469 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
