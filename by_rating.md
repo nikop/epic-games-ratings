@@ -241,19 +241,19 @@
 | 239 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
 | 240 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 241 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 242 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 243 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
-| 244 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 245 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
-| 246 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 247 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
-| 248 | [Eastward](games/e/eastward.md) | 4.66 | 
-| 249 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 250 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 251 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 252 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 253 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 254 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 242 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 243 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 244 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
+| 245 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
+| 246 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
+| 247 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 248 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
+| 249 | [Eastward](games/e/eastward.md) | 4.66 | 
+| 250 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 251 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 252 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 253 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 254 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 255 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 256 | [Death's Door](games/d/death's_door.md) | 4.65 | 
 | 257 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
@@ -403,13 +403,13 @@
 | 401 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
 | 402 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 403 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
-| 404 | [Horace](games/h/horace.md) | 4.56 | 
-| 405 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
-| 406 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
-| 407 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 408 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 409 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 410 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 404 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 405 | [Horace](games/h/horace.md) | 4.56 | 
+| 406 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
+| 407 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
+| 408 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 409 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 410 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 411 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 412 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 
 | 413 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 

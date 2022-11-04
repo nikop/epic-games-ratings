@@ -217,7 +217,7 @@
 | 215 | [Far Cry](games/f/far_cry.md) | 4.37 | 
 | 216 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 217 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 218 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 218 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 219 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
 | 220 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 221 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
@@ -712,7 +712,7 @@
 | 710 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 711 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 712 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
-| 713 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 713 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 714 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 715 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 716 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
