@@ -344,23 +344,23 @@
 | 342 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 343 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 344 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 345 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
-| 346 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 347 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 348 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 349 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 350 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 351 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
-| 352 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
-| 353 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 
-| 354 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.59 | 
-| 355 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 
-| 356 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 357 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 358 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 359 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 360 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 361 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 345 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 346 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 347 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 348 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 349 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 350 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
+| 351 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
+| 352 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 
+| 353 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.59 | 
+| 354 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 
+| 355 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 356 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 357 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 358 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 359 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 360 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 361 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 362 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 363 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 364 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
@@ -530,30 +530,30 @@
 | 528 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 529 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
 | 530 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 531 | [Death Coming](games/d/death_coming.md) | 4.45 | 
-| 532 | [Gloomhaven](games/g/gloomhaven.md) | 4.45 | 
-| 533 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
-| 534 | [Scorn](games/s/scorn.md) | 4.45 | 
-| 535 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 536 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 537 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 538 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
-| 539 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 540 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
-| 541 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
-| 542 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
-| 543 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 544 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 
-| 545 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
-| 546 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 547 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
-| 548 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 549 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
-| 550 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 551 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
-| 552 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 553 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
-| 554 | [Weird West](games/w/weird_west.md) | 4.43 | 
+| 531 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 532 | [Death Coming](games/d/death_coming.md) | 4.45 | 
+| 533 | [Gloomhaven](games/g/gloomhaven.md) | 4.45 | 
+| 534 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
+| 535 | [Scorn](games/s/scorn.md) | 4.45 | 
+| 536 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 537 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 538 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 539 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
+| 540 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 541 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 542 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
+| 543 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
+| 544 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 545 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 
+| 546 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
+| 547 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
+| 548 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
+| 549 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 550 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
+| 551 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 552 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
+| 553 | [Sheltered](games/s/sheltered.md) | 4.43 | 
+| 554 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
 | 555 | [Figment](games/f/figment.md) | 4.43 | 
 | 556 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 557 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 

@@ -188,7 +188,7 @@
 | 186 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 187 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.59 | 
+| 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.66 | 
@@ -754,7 +754,7 @@
 | 752 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
 | 753 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 754 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 755 | [Weird West](games/w/weird_west.md) | 4.43 | 
+| 755 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 756 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
 | 757 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
 | 758 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
