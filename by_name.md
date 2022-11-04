@@ -141,7 +141,7 @@
 | 139 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 140 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
 | 141 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
-| 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.37 | 
+| 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 143 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
 | 144 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
 | 145 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
@@ -210,7 +210,7 @@
 | 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 209 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 211 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.81 | 
+| 211 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.82 | 
 | 212 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 
 | 213 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.74 | 
 | 214 | [Family Man](games/f/family_man.md) | 4.17 | 
@@ -680,7 +680,7 @@
 | 678 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 679 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 680 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
-| 681 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 681 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 682 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 683 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 684 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.64 | 
@@ -726,7 +726,7 @@
 | 724 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 725 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 726 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 727 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.79 | 
+| 727 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.80 | 
 | 728 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 729 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
 | 730 | [UnMetal](games/u/unmetal.md) | 4.55 | 
