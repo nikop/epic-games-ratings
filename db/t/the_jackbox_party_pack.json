@@ -1,7 +1,16 @@
 {
   "ID": "feverfew",
   "Name": "The Jackbox Party Pack",
+  "Rating": 4.95,
   "FirstSeen": "2022-07-22T20:29:34.4621866+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-11-04T09:34:14.0083626+00:00",
+  "LastChanged": "2022-11-04T09:34:14.0083628+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-11-04T09:34:14.008363+00:00",
+      "Rating": 4.95,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
