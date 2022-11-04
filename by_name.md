@@ -167,7 +167,7 @@
 | 165 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 
 | 166 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
 | 167 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
-| 168 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
+| 168 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.59 | 
 | 169 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 170 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 171 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
@@ -392,7 +392,7 @@
 | 390 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 391 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
 | 392 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 393 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
+| 393 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 394 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 395 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 396 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
@@ -680,7 +680,7 @@
 | 678 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 679 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 680 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
-| 681 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
+| 681 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.64 | 
 | 682 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 683 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 684 | [Timberborn](games/t/timberborn.md) | 4.70 | 
@@ -741,7 +741,7 @@
 | 739 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 740 | [War Mongrels](games/w/war_mongrels.md) | 4.37 | 
 | 741 | [Warface](games/w/warface.md) | 3.95 | 
-| 742 | [Warframe](games/w/warframe.md) | 4.62 | 
+| 742 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 743 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 744 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
 | 745 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
