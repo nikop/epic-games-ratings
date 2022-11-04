@@ -125,7 +125,7 @@
 | 123 | [Core](games/c/core.md) | 4.39 | 
 | 124 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 125 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
-| 126 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
+| 126 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
 | 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 128 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 129 | [Crashlands](games/c/crashlands.md) | 4.66 | 
@@ -277,7 +277,7 @@
 | 275 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
 | 276 | [Hades](games/h/hades.md) | 4.92 | 
 | 277 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 278 | [Hammerting](games/h/hammerting.md) | 4.40 | 
+| 278 | [Hammerting](games/h/hammerting.md) | 4.42 | 
 | 279 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 280 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.70 | 
 | 281 | [Haven](games/h/haven.md) | 4.74 | 
@@ -340,7 +340,7 @@
 | 338 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.71 | 
 | 339 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 340 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
-| 341 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 341 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
 | 342 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 343 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
 | 344 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
