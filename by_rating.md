@@ -58,12 +58,12 @@
 | 56 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 57 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 58 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
-| 59 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
-| 60 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 61 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
-| 62 | [Grindstone](games/g/grindstone.md) | 4.82 | 
-| 63 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
-| 64 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 59 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 60 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
+| 61 | [Grindstone](games/g/grindstone.md) | 4.82 | 
+| 62 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
+| 63 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 64 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 65 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 66 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
 | 67 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
@@ -294,18 +294,18 @@
 | 292 | [Warframe](games/w/warframe.md) | 4.62 | 
 | 293 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 294 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
-| 295 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
-| 296 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 297 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
-| 298 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 299 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.62 | 
-| 300 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 301 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 302 | [Prey](games/p/prey.md) | 4.61 | 
-| 303 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 304 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 305 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 306 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 295 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 296 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
+| 297 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 298 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.62 | 
+| 299 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 300 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 301 | [Prey](games/p/prey.md) | 4.61 | 
+| 302 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 303 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 304 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 305 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 306 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 307 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 308 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 309 | [20XX](games/2/20xx.md) | 4.61 | 
@@ -586,25 +586,25 @@
 | 584 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 585 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
 | 586 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 
-| 587 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 588 | [Hammerting](games/h/hammerting.md) | 4.40 | 
-| 589 | [Parkitect](games/p/parkitect.md) | 4.40 | 
-| 590 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
-| 591 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 592 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 593 | [Core](games/c/core.md) | 4.39 | 
-| 594 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
-| 595 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
-| 596 | [Torchlight](games/t/torchlight.md) | 4.39 | 
-| 597 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.39 | 
-| 598 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
-| 599 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 600 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 
-| 601 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.39 | 
-| 602 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 
-| 603 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
-| 604 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 605 | [Encased](games/e/encased.md) | 4.38 | 
+| 587 | [Encased](games/e/encased.md) | 4.40 | 
+| 588 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 589 | [Hammerting](games/h/hammerting.md) | 4.40 | 
+| 590 | [Parkitect](games/p/parkitect.md) | 4.40 | 
+| 591 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
+| 592 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 593 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 594 | [Core](games/c/core.md) | 4.39 | 
+| 595 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
+| 596 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
+| 597 | [Torchlight](games/t/torchlight.md) | 4.39 | 
+| 598 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.39 | 
+| 599 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
+| 600 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 601 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 
+| 602 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.39 | 
+| 603 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 
+| 604 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
+| 605 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 606 | [Scrapnaut](games/s/scrapnaut.md) | 4.38 | 
 | 607 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 608 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.38 | 

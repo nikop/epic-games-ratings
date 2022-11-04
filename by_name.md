@@ -198,7 +198,7 @@
 | 196 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
 | 197 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 198 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 199 | [Encased](games/e/encased.md) | 4.38 | 
+| 199 | [Encased](games/e/encased.md) | 4.40 | 
 | 200 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 201 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 202 | [EVE Online](games/e/eve_online.md) | 4.27 | 
@@ -384,7 +384,7 @@
 | 382 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 383 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 384 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 385 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
+| 385 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 386 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 387 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.41 | 
 | 388 | [Minit](games/m/minit.md) | 4.53 | 
@@ -737,7 +737,7 @@
 | 735 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 736 | [Verdun](games/v/verdun.md) | 4.51 | 
 | 737 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 738 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
+| 738 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 739 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 740 | [War Mongrels](games/w/war_mongrels.md) | 4.37 | 
 | 741 | [Warface](games/w/warface.md) | 3.95 | 
