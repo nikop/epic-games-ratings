@@ -160,7 +160,7 @@
 | 158 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
 | 159 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 160 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 161 | [Death's Door](games/d/death's_door.md) | 4.65 | 
+| 161 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 162 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 163 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 164 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
@@ -212,7 +212,7 @@
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 211 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.82 | 
 | 212 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 
-| 213 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.74 | 
+| 213 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.75 | 
 | 214 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 215 | [Far Cry](games/f/far_cry.md) | 4.37 | 
 | 216 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
@@ -293,7 +293,7 @@
 | 291 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 292 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 293 | [Hob](games/h/hob.md) | 4.57 | 
-| 294 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.32 | 
+| 294 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.33 | 
 | 295 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 296 | [Horace](games/h/horace.md) | 4.56 | 
 | 297 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -373,7 +373,7 @@
 | 371 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 372 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
 | 373 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
-| 374 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
+| 374 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
 | 375 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 376 | [Mago](games/m/mago.md) | 4.86 | 
 | 377 | [Maneater](games/m/maneater.md) | 4.49 | 
@@ -434,7 +434,7 @@
 | 432 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.27 | 
 | 433 | [Old World](games/o/old_world.md) | 4.64 | 
 | 434 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 435 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
+| 435 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
 | 436 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.21 | 
 | 437 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 
 | 438 | [Othercide](games/o/othercide.md) | 4.33 | 
@@ -497,7 +497,7 @@
 | 495 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 496 | [Revita](games/r/revita.md) | 4.74 | 
 | 497 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 498 | [RiME](games/r/rime.md) | 4.60 | 
+| 498 | [RiME](games/r/rime.md) | 4.59 | 
 | 499 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 500 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 501 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -543,7 +543,7 @@
 | 541 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 542 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 543 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
-| 544 | [Sheltered](games/s/sheltered.md) | 4.43 | 
+| 544 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 545 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
 | 546 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 547 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
