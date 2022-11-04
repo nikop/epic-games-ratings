@@ -371,7 +371,7 @@
 | 369 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.14 | 
 | 370 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 371 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
-| 372 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 372 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 373 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
 | 374 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 375 | [Mago](games/m/mago.md) | 4.86 | 
@@ -415,7 +415,7 @@
 | 413 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 414 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.10 | 
 | 415 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 416 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 416 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
 | 417 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 418 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 419 | [No Straight Roads](games/n/no_straight_roads.md) | 4.70 | 
@@ -721,12 +721,12 @@
 | 719 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
 | 720 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
 | 721 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 722 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 722 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
 | 723 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
 | 724 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 725 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 726 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 727 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.80 | 
+| 727 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.79 | 
 | 728 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 729 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
 | 730 | [UnMetal](games/u/unmetal.md) | 4.55 | 
