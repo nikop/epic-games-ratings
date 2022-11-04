@@ -69,26 +69,26 @@
 | 67 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 68 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 69 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.81 | 
-| 70 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 71 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 72 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 73 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 74 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 75 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 76 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 77 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
-| 78 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 79 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.80 | 
-| 80 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 81 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 82 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 83 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 84 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 85 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 86 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 87 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 88 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.79 | 
-| 89 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.79 | 
+| 70 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.81 | 
+| 71 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 72 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 73 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 74 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
+| 75 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 76 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 77 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
+| 78 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
+| 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 80 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.80 | 
+| 81 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.80 | 
+| 82 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 83 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 84 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 85 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 86 | [Diabotical](games/d/diabotical.md) | 4.79 | 
+| 87 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 88 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 89 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
 | 90 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 91 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 92 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
@@ -187,42 +187,42 @@
 | 185 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.70 | 
 | 186 | [Slipways](games/s/slipways.md) | 4.70 | 
 | 187 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 
-| 188 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 189 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 190 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 191 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
-| 192 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 193 | [For The King](games/f/for_the_king.md) | 4.69 | 
-| 194 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 195 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 196 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 197 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 198 | [Overcooked](games/o/overcooked.md) | 4.69 | 
-| 199 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 200 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 201 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 202 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
-| 203 | [SUPERHOT](games/s/superhot.md) | 4.69 | 
-| 204 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
-| 205 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
-| 206 | [APE OUT](games/a/ape_out.md) | 4.69 | 
-| 207 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 208 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 209 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 210 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 211 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 212 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 213 | [Barony](games/b/barony.md) | 4.68 | 
-| 214 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 215 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 216 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
-| 217 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
-| 218 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 219 | [Rogue Lords](games/r/rogue_lords.md) | 4.68 | 
-| 220 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
-| 221 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
-| 222 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
-| 223 | [No Straight Roads](games/n/no_straight_roads.md) | 4.68 | 
+| 188 | [No Straight Roads](games/n/no_straight_roads.md) | 4.70 | 
+| 189 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
+| 190 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 191 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 192 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
+| 193 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 194 | [For The King](games/f/for_the_king.md) | 4.69 | 
+| 195 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
+| 196 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
+| 197 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 198 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 199 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 200 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 201 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 202 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 203 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
+| 204 | [SUPERHOT](games/s/superhot.md) | 4.69 | 
+| 205 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
+| 206 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
+| 207 | [APE OUT](games/a/ape_out.md) | 4.69 | 
+| 208 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 209 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 210 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 211 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 212 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 213 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 214 | [Barony](games/b/barony.md) | 4.68 | 
+| 215 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 216 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
+| 217 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
+| 218 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
+| 219 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
+| 220 | [Rogue Lords](games/r/rogue_lords.md) | 4.68 | 
+| 221 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
+| 222 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
+| 223 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 224 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 225 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 226 | [Trackmania](games/t/trackmania.md) | 4.67 | 

@@ -210,7 +210,7 @@
 | 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 209 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 211 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.79 | 
+| 211 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.81 | 
 | 212 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 
 | 213 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.74 | 
 | 214 | [Family Man](games/f/family_man.md) | 4.17 | 
@@ -417,7 +417,7 @@
 | 415 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 416 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 417 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 418 | [No Straight Roads](games/n/no_straight_roads.md) | 4.68 | 
+| 418 | [No Straight Roads](games/n/no_straight_roads.md) | 4.70 | 
 | 419 | [NORCO](games/n/norco.md) | 4.57 | 
 | 420 | [Northgard](games/n/northgard.md) | 4.75 | 
 | 421 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.80 | 
@@ -723,7 +723,7 @@
 | 721 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 722 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 723 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 724 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.79 | 
+| 724 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.80 | 
 | 725 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 726 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
 | 727 | [UnMetal](games/u/unmetal.md) | 4.55 | 
