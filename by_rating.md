@@ -83,15 +83,15 @@
 | 81 | [Huntdown](games/h/huntdown.md) | 4.80 | 
 | 82 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.80 | 
 | 83 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.80 | 
-| 84 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 85 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 86 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 87 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 88 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 89 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 90 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 91 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 92 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
+| 84 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 85 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 86 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 87 | [Diabotical](games/d/diabotical.md) | 4.79 | 
+| 88 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 89 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
+| 90 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 91 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
+| 92 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 93 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 94 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 95 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
@@ -454,22 +454,22 @@
 | 452 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 453 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.52 | 
 | 454 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
-| 455 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
-| 456 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
-| 457 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 458 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 459 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 
-| 460 | [The Medium](games/t/the_medium.md) | 4.52 | 
-| 461 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 462 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 463 | [Verdun](games/v/verdun.md) | 4.51 | 
-| 464 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 465 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 466 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 467 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
-| 468 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 469 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 470 | [The Surge](games/t/the_surge.md) | 4.51 | 
+| 455 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 456 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
+| 457 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 458 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 459 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 460 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 
+| 461 | [The Medium](games/t/the_medium.md) | 4.52 | 
+| 462 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 463 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 464 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 465 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 466 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 467 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 468 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
+| 469 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 470 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 471 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.51 | 
 | 472 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
 | 473 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 

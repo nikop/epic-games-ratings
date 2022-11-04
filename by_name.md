@@ -291,7 +291,7 @@
 | 289 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 290 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 291 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 292 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 292 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 293 | [Hob](games/h/hob.md) | 4.57 | 
 | 294 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.32 | 
 | 295 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
@@ -664,7 +664,7 @@
 | 662 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
 | 663 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
 | 664 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
-| 665 | [The Surge](games/t/the_surge.md) | 4.51 | 
+| 665 | [The Surge](games/t/the_surge.md) | 4.52 | 
 | 666 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
 | 667 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 668 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
