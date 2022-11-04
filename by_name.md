@@ -727,7 +727,7 @@
 | 725 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 726 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 727 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 728 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.80 | 
+| 728 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.79 | 
 | 729 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 730 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
 | 731 | [UnMetal](games/u/unmetal.md) | 4.55 | 
@@ -745,11 +745,11 @@
 | 743 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 744 | [War Mongrels](games/w/war_mongrels.md) | 4.37 | 
 | 745 | [Warface](games/w/warface.md) | 3.95 | 
-| 746 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 746 | [Warframe](games/w/warframe.md) | 4.62 | 
 | 747 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 748 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
 | 749 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 750 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.39 | 
+| 750 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.38 | 
 | 751 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
 | 752 | [Warpips](games/w/warpips.md) | 4.54 | 
 | 753 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 

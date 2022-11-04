@@ -11,7 +11,7 @@
 | 9 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.74 | 
 | 10 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 
 | 11 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 
-| 12 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.80 | 
+| 12 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.79 | 
 | 13 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
 | 14 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
 | 15 | [Scorn](games/s/scorn.md) | 4.45 | 
@@ -59,7 +59,7 @@
 | 57 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
 | 58 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 59 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
-| 60 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.39 | 
+| 60 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.38 | 
 | 61 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 62 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 63 | [GigaBash](games/g/gigabash.md) | 4.48 | 

@@ -82,15 +82,15 @@
 | 80 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 81 | [Huntdown](games/h/huntdown.md) | 4.80 | 
 | 82 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.80 | 
-| 83 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.80 | 
-| 84 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 85 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 86 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 87 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 88 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 89 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 90 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 91 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.79 | 
+| 83 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 84 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 85 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 86 | [Diabotical](games/d/diabotical.md) | 4.79 | 
+| 87 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 88 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
+| 89 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 90 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.79 | 
+| 91 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.79 | 
 | 92 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 93 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 94 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
@@ -294,16 +294,16 @@
 | 292 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 293 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.63 | 
 | 294 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 295 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 296 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
-| 297 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 298 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
-| 299 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 300 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
-| 301 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 302 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 303 | [Prey](games/p/prey.md) | 4.61 | 
-| 304 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 295 | [Warframe](games/w/warframe.md) | 4.62 | 
+| 296 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 297 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
+| 298 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 299 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
+| 300 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 301 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
+| 302 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 303 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 304 | [Prey](games/p/prey.md) | 4.61 | 
 | 305 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 306 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 307 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
@@ -605,14 +605,14 @@
 | 603 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 
 | 604 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.39 | 
 | 605 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 
-| 606 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.39 | 
-| 607 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
-| 608 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
-| 609 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
-| 610 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 611 | [Scrapnaut](games/s/scrapnaut.md) | 4.38 | 
-| 612 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
-| 613 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.38 | 
+| 606 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
+| 607 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
+| 608 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
+| 609 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 610 | [Scrapnaut](games/s/scrapnaut.md) | 4.38 | 
+| 611 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
+| 612 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.38 | 
+| 613 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.38 | 
 | 614 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 615 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
 | 616 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
