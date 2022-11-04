@@ -117,19 +117,19 @@
 | 115 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 116 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 117 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
-| 118 | [Northgard](games/n/northgard.md) | 4.75 | 
-| 119 | [Journey](games/j/journey.md) | 4.75 | 
-| 120 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.75 | 
-| 121 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
-| 122 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
-| 123 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 124 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 125 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 126 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 127 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
-| 128 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
-| 129 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
-| 130 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 118 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 119 | [Northgard](games/n/northgard.md) | 4.75 | 
+| 120 | [Journey](games/j/journey.md) | 4.75 | 
+| 121 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.75 | 
+| 122 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
+| 123 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
+| 124 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 125 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 126 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 127 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 128 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 129 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
+| 130 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 131 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 132 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
 | 133 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
@@ -571,25 +571,25 @@
 | 569 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.42 | 
 | 570 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 571 | [Train Valley](games/t/train_valley.md) | 4.42 | 
-| 572 | [Hammerting](games/h/hammerting.md) | 4.42 | 
-| 573 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 574 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 575 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 576 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 577 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.41 | 
-| 578 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 579 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 580 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
-| 581 | [Backbone](games/b/backbone.md) | 4.41 | 
-| 582 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 583 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
-| 584 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 585 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
-| 586 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 587 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
-| 588 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 
-| 589 | [Encased](games/e/encased.md) | 4.40 | 
-| 590 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 572 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 573 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 574 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
+| 575 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 576 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.41 | 
+| 577 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 578 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 579 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
+| 580 | [Backbone](games/b/backbone.md) | 4.41 | 
+| 581 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 582 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 583 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 584 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
+| 585 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 586 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
+| 587 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 
+| 588 | [Encased](games/e/encased.md) | 4.40 | 
+| 589 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 590 | [Hammerting](games/h/hammerting.md) | 4.40 | 
 | 591 | [Parkitect](games/p/parkitect.md) | 4.40 | 
 | 592 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
 | 593 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
