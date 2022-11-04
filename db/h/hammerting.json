@@ -1,11 +1,11 @@
 {
   "ID": "942b65a56ff448f6be529cd07b407bb0",
   "Name": "Hammerting",
-  "Rating": 4.4,
+  "Rating": 4.42,
   "NumberOfRatings": 21,
   "FirstSeen": "2022-07-22T20:26:38.7700421+00:00",
   "FirstSeenRating": "2022-09-17T18:02:30.2695463+00:00",
-  "LastChanged": "2022-11-04T11:33:58.3600945+00:00",
+  "LastChanged": "2022-11-04T22:01:56.809831+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-17T18:02:30.2695467+00:00",
@@ -45,6 +45,11 @@
     {
       "Time": "2022-11-04T11:33:58.3600949+00:00",
       "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-04T22:01:56.8098312+00:00",
+      "Rating": 4.42,
       "NumberOfRatings": null
     }
   ],
