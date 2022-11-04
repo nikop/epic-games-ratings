@@ -1,7 +1,16 @@
 {
   "ID": "78de1f402ddf486ebcbf9ba3009d6198",
   "Name": "Huntdown",
+  "Rating": 4.8,
   "FirstSeen": "2022-07-22T20:22:30.407463+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-11-04T14:31:43.7194036+00:00",
+  "LastChanged": "2022-11-04T14:31:43.7194038+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-11-04T14:31:43.7194039+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
