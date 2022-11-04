@@ -84,7 +84,7 @@
 | 82 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 83 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.30 | 
 | 84 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
-| 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
 | 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
@@ -313,7 +313,7 @@
 | 311 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 312 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 313 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 314 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 314 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.60 | 
 | 315 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
 | 316 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 317 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
@@ -701,7 +701,7 @@
 | 699 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 700 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 701 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.46 | 
-| 702 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 
+| 702 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.71 | 
 | 703 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 704 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
 | 705 | [Trackmania](games/t/trackmania.md) | 4.67 | 
@@ -737,7 +737,7 @@
 | 735 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 736 | [Verdun](games/v/verdun.md) | 4.51 | 
 | 737 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 738 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 738 | [Void Bastards](games/v/void_bastards.md) | 4.62 | 
 | 739 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 740 | [War Mongrels](games/w/war_mongrels.md) | 4.37 | 
 | 741 | [Warface](games/w/warface.md) | 3.95 | 
