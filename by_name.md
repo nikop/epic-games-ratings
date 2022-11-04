@@ -778,5 +778,4 @@
 | 776 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 777 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 778 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.62 | 
-| 779 | [ZOMBI](games/z/zombi.md) | 4.35 | 
-| 780 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 779 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 

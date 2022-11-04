@@ -1,14 +1,18 @@
 {
   "ID": "143474ab55ec49e8b9b9d79931cb2512",
   "Name": "ZOMBI",
-  "Rating": 4.35,
   "FirstSeen": "2022-07-22T20:28:13.2699332+00:00",
   "FirstSeenRating": "2022-11-04T06:02:50.9751039+00:00",
-  "LastChanged": "2022-11-04T06:02:50.975104+00:00",
+  "LastChanged": "2022-11-04T06:32:43.6192008+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-04T06:02:50.9751041+00:00",
       "Rating": 4.35,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-04T06:32:43.6192011+00:00",
+      "Rating": null,
       "NumberOfRatings": null
     }
   ],
