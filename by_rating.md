@@ -16,14 +16,14 @@
 | 14 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 15 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
 | 16 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
-| 17 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 18 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 19 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 20 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
-| 21 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
-| 22 | [TUNIC](games/t/tunic.md) | 4.87 | 
-| 23 | [Black Book](games/b/black_book.md) | 4.87 | 
-| 24 | [Firework](games/f/firework.md) | 4.87 | 
+| 17 | [Firework](games/f/firework.md) | 4.88 | 
+| 18 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
+| 19 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 20 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 21 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
+| 22 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
+| 23 | [TUNIC](games/t/tunic.md) | 4.87 | 
+| 24 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 25 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 26 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 27 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
@@ -88,14 +88,14 @@
 | 86 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 87 | [Diabotical](games/d/diabotical.md) | 4.79 | 
 | 88 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 89 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 90 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 91 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 92 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 93 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
-| 94 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
-| 95 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 96 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
+| 89 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
+| 90 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 91 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
+| 92 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 93 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 94 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
+| 95 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
+| 96 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 97 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 98 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.78 | 
 | 99 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
