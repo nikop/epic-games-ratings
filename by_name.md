@@ -116,7 +116,7 @@
 | 114 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 115 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 116 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 117 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 
+| 117 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 118 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 119 | [Conarium](games/c/conarium.md) | 3.85 | 
 | 120 | [Control](games/c/control.md) | 4.60 | 
@@ -441,7 +441,7 @@
 | 439 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 440 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 441 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 442 | [Outlast](games/o/outlast.md) | 4.74 | 
+| 442 | [Outlast](games/o/outlast.md) | 4.75 | 
 | 443 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
 | 444 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 445 | [Outward](games/o/outward.md) | 4.54 | 
@@ -544,7 +544,7 @@
 | 542 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 543 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
 | 544 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 545 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
+| 545 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
 | 546 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 547 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
 | 548 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 
@@ -592,7 +592,7 @@
 | 590 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 591 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 592 | [STG Football](games/s/stg_football.md) | 4.56 | 
-| 593 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
+| 593 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
 | 594 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 595 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 596 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
@@ -722,7 +722,7 @@
 | 720 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
 | 721 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
 | 722 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 723 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
+| 723 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 724 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
 | 725 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 726 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 

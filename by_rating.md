@@ -125,25 +125,25 @@
 | 123 | [Rayman Origins](games/r/rayman_origins.md) | 4.75 | 
 | 124 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.75 | 
 | 125 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
-| 126 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
-| 127 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 128 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 129 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 130 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 131 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
-| 132 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
-| 133 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
-| 134 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 135 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
-| 136 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 137 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 138 | [Haven](games/h/haven.md) | 4.74 | 
-| 139 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
-| 140 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
-| 141 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 142 | [Revita](games/r/revita.md) | 4.74 | 
-| 143 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.74 | 
-| 144 | [Outlast](games/o/outlast.md) | 4.74 | 
+| 126 | [Outlast](games/o/outlast.md) | 4.75 | 
+| 127 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
+| 128 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 129 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 130 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 131 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 132 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 133 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
+| 134 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
+| 135 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 136 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
+| 137 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 138 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 139 | [Haven](games/h/haven.md) | 4.74 | 
+| 140 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
+| 141 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
+| 142 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 143 | [Revita](games/r/revita.md) | 4.74 | 
+| 144 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.74 | 
 | 145 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 146 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 147 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
@@ -218,23 +218,23 @@
 | 216 | [Barony](games/b/barony.md) | 4.68 | 
 | 217 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
 | 218 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 219 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
-| 220 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
-| 221 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
-| 222 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 223 | [Rogue Lords](games/r/rogue_lords.md) | 4.68 | 
-| 224 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
-| 225 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
-| 226 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
-| 227 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 228 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 229 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 230 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 231 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
-| 232 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 233 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 234 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
-| 235 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
+| 219 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
+| 220 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
+| 221 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
+| 222 | [Rogue Lords](games/r/rogue_lords.md) | 4.68 | 
+| 223 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
+| 224 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
+| 225 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
+| 226 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 227 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 228 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 229 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 230 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
+| 231 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 232 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 233 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
+| 234 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
+| 235 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 236 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.67 | 
 | 237 | [SOMA](games/s/soma.md) | 4.67 | 
 | 238 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
@@ -404,15 +404,15 @@
 | 402 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 403 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
 | 404 | [Isonzo](games/i/isonzo.md) | 4.56 | 
-| 405 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
-| 406 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
-| 407 | [Horace](games/h/horace.md) | 4.56 | 
-| 408 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
-| 409 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
-| 410 | [STG Football](games/s/stg_football.md) | 4.56 | 
-| 411 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 412 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 413 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 405 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 406 | [Horace](games/h/horace.md) | 4.56 | 
+| 407 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
+| 408 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
+| 409 | [STG Football](games/s/stg_football.md) | 4.56 | 
+| 410 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 411 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 412 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 413 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
 | 414 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 415 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 
 | 416 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
@@ -730,10 +730,10 @@
 | 728 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 729 | [Pine](games/p/pine.md) | 4.14 | 
 | 730 | [Obduction](games/o/obduction.md) | 4.14 | 
-| 731 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
-| 732 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.14 | 
-| 733 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
-| 734 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
+| 731 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.14 | 
+| 732 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
+| 733 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
+| 734 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
 | 735 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 736 | [Chernobylite](games/c/chernobylite.md) | 4.12 | 
 | 737 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
@@ -765,9 +765,9 @@
 | 763 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 4.00 | 
 | 764 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 765 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
-| 766 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.98 | 
-| 767 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
-| 768 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 
+| 766 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
+| 767 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.98 | 
+| 768 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 769 | [Warface](games/w/warface.md) | 3.95 | 
 | 770 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 771 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.95 | 
