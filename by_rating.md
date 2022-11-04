@@ -456,21 +456,21 @@
 | 454 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 455 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 456 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 457 | [The Medium](games/t/the_medium.md) | 4.52 | 
-| 458 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 459 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 460 | [Verdun](games/v/verdun.md) | 4.51 | 
-| 461 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 462 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 463 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 464 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
-| 465 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 466 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 467 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
-| 468 | [The Surge](games/t/the_surge.md) | 4.51 | 
-| 469 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.51 | 
-| 470 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
-| 471 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
+| 457 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 
+| 458 | [The Medium](games/t/the_medium.md) | 4.52 | 
+| 459 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 460 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 461 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 462 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 463 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 464 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 465 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
+| 466 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 467 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 468 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
+| 469 | [The Surge](games/t/the_surge.md) | 4.51 | 
+| 470 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.51 | 
+| 471 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
 | 472 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 473 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 474 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
@@ -655,10 +655,10 @@
 | 653 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
 | 654 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
 | 655 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
-| 656 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 657 | [Tacoma](games/t/tacoma.md) | 4.30 | 
-| 658 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.30 | 
-| 659 | [Saturnalia](games/s/saturnalia.md) | 4.30 | 
+| 656 | [Saturnalia](games/s/saturnalia.md) | 4.31 | 
+| 657 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 658 | [Tacoma](games/t/tacoma.md) | 4.30 | 
+| 659 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.30 | 
 | 660 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 661 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 662 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
