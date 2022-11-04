@@ -220,7 +220,7 @@
 | 218 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 219 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
 | 220 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 221 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.39 | 
+| 221 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.40 | 
 | 222 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
 | 223 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
 | 224 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
@@ -298,7 +298,7 @@
 | 296 | [Horace](games/h/horace.md) | 4.56 | 
 | 297 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 298 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 299 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 299 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 300 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 301 | [House Party](games/h/house_party.md) | 4.34 | 
 | 302 | [Hue](games/h/hue.md) | 4.56 | 
@@ -331,7 +331,7 @@
 | 329 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 330 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 331 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 332 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 332 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
 | 333 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 334 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 
 | 335 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
@@ -621,12 +621,12 @@
 | 619 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 620 | [Tacoma](games/t/tacoma.md) | 4.30 | 
 | 621 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
-| 622 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
+| 622 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 623 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
 | 624 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
 | 625 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 626 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 627 | [Tharsis](games/t/tharsis.md) | 4.20 | 
+| 627 | [Tharsis](games/t/tharsis.md) | 4.21 | 
 | 628 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 629 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.60 | 
 | 630 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
@@ -636,12 +636,12 @@
 | 634 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 635 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 636 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
-| 637 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
+| 637 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 638 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
 | 639 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 640 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
 | 641 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 642 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.72 | 
+| 642 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 643 | [The Fall](games/t/the_fall.md) | 4.25 | 
 | 644 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
 | 645 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
