@@ -629,7 +629,7 @@
 | 627 | [Tharsis](games/t/tharsis.md) | 4.21 | 
 | 628 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 629 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.60 | 
-| 630 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
+| 630 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 631 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 632 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 633 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
