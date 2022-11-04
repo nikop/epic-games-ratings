@@ -367,7 +367,7 @@
 | 365 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.38 | 
 | 366 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
 | 367 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 368 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
+| 368 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.48 | 
 | 369 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
 | 370 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.14 | 
 | 371 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
@@ -486,7 +486,7 @@
 | 484 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
 | 485 | [Rayman Origins](games/r/rayman_origins.md) | 4.75 | 
 | 486 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
-| 487 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
+| 487 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 488 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 489 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 490 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 

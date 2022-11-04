@@ -482,31 +482,31 @@
 | 480 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 481 | [Aztez](games/a/aztez.md) | 4.50 | 
 | 482 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
-| 483 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.50 | 
-| 484 | [Redout 2](games/r/redout_2.md) | 4.50 | 
-| 485 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
-| 486 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
-| 487 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 488 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 489 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
-| 490 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 491 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 492 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 493 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 494 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 495 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
-| 496 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 497 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 498 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 499 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 
-| 500 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
-| 501 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
-| 502 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
-| 503 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
-| 504 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
-| 505 | [CryoFall](games/c/cryofall.md) | 4.48 | 
-| 506 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
-| 507 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
+| 483 | [Redout 2](games/r/redout_2.md) | 4.50 | 
+| 484 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
+| 485 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
+| 486 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 487 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 488 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
+| 489 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 490 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 491 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 492 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 493 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 494 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
+| 495 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 496 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 497 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 498 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 
+| 499 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
+| 500 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
+| 501 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
+| 502 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
+| 503 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
+| 504 | [CryoFall](games/c/cryofall.md) | 4.48 | 
+| 505 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
+| 506 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
+| 507 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.48 | 
 | 508 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 
 | 509 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 510 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
@@ -660,11 +660,11 @@
 | 658 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
 | 659 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 660 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 661 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
-| 662 | [Tacoma](games/t/tacoma.md) | 4.30 | 
-| 663 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.30 | 
-| 664 | [Saturnalia](games/s/saturnalia.md) | 4.30 | 
-| 665 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
+| 661 | [Tacoma](games/t/tacoma.md) | 4.30 | 
+| 662 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.30 | 
+| 663 | [Saturnalia](games/s/saturnalia.md) | 4.30 | 
+| 664 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
+| 665 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 666 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
 | 667 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
 | 668 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
