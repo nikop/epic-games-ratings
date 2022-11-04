@@ -181,7 +181,7 @@
 | 179 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 180 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
-| 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.85 | 
+| 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
 | 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 184 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
 | 185 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
@@ -267,7 +267,7 @@
 | 265 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 266 | [Gone Home](games/g/gone_home.md) | 4.17 | 
 | 267 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 268 | [Gotham Knights](games/g/gotham_knights.md) | 4.24 | 
+| 268 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
 | 269 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 270 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 271 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 

@@ -822,6 +822,10 @@
     {
       "Text": "This game is Great for Beginners",
       "Count": 20
+    },
+    {
+      "Text": "This game is Educational",
+      "Count": 20
     }
   ]
 }
