@@ -518,7 +518,7 @@
 | 516 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 517 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 518 | [Sable](games/s/sable.md) | 4.57 | 
-| 519 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
+| 519 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.72 | 
 | 520 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 521 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 522 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
