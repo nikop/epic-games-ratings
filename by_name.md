@@ -8,7 +8,7 @@
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 
+| 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.61 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
@@ -106,7 +106,7 @@
 | 104 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.58 | 
 | 105 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 106 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 107 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 107 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
 | 108 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 109 | [Chernobylite](games/c/chernobylite.md) | 4.12 | 
 | 110 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
@@ -453,7 +453,7 @@
 | 451 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 452 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.51 | 
 | 453 | [Paradigm](games/p/paradigm.md) | 4.47 | 
-| 454 | [Parkitect](games/p/parkitect.md) | 4.40 | 
+| 454 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 455 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
 | 456 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 457 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
@@ -675,7 +675,7 @@
 | 673 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 674 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.75 | 
 | 675 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
-| 676 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
+| 676 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
 | 677 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
 | 678 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 679 | [The Witness](games/t/the_witness.md) | 4.71 | 
