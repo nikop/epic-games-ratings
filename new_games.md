@@ -4,7 +4,7 @@
 | 2 | [Saturnalia](games/s/saturnalia.md) | 4.30 | 
 | 3 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 
 | 4 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.32 | 
-| 5 | [STG Football](games/s/stg_football.md) | 4.57 | 
+| 5 | [STG Football](games/s/stg_football.md) | 4.56 | 
 | 6 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.82 | 
 | 7 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
 | 8 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.10 | 
@@ -59,7 +59,7 @@
 | 57 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
 | 58 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 59 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
-| 60 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.39 | 
+| 60 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.38 | 
 | 61 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 62 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 63 | [GigaBash](games/g/gigabash.md) | 4.48 | 

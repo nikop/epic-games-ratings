@@ -342,7 +342,7 @@
 | 340 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.71 | 
 | 341 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 342 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
-| 343 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 343 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
 | 344 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 345 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
 | 346 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
@@ -406,7 +406,7 @@
 | 404 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 405 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 406 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 407 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 407 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
 | 408 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 409 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 410 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.65 | 
@@ -591,7 +591,7 @@
 | 589 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 590 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 591 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 592 | [STG Football](games/s/stg_football.md) | 4.57 | 
+| 592 | [STG Football](games/s/stg_football.md) | 4.56 | 
 | 593 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 594 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 595 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
@@ -623,7 +623,7 @@
 | 621 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
 | 622 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
 | 623 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
-| 624 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 624 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
 | 625 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 626 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 627 | [Tharsis](games/t/tharsis.md) | 4.20 | 
@@ -652,7 +652,7 @@
 | 650 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
 | 651 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.46 | 
 | 652 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
-| 653 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 653 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.71 | 
 | 654 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
 | 655 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 656 | [The Medium](games/t/the_medium.md) | 4.52 | 
@@ -683,7 +683,7 @@
 | 681 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
 | 682 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 683 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 684 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
+| 684 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 685 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.64 | 
 | 686 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 687 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
@@ -749,7 +749,7 @@
 | 747 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 748 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
 | 749 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 750 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.39 | 
+| 750 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.38 | 
 | 751 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
 | 752 | [Warpips](games/w/warpips.md) | 4.54 | 
 | 753 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
@@ -782,4 +782,5 @@
 | 780 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 781 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 782 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.63 | 
-| 783 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 783 | [ZOMBI](games/z/zombi.md) | 4.35 | 
+| 784 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
