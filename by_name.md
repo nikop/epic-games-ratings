@@ -36,7 +36,7 @@
 | 34 | [APE OUT](games/a/ape_out.md) | 4.69 | 
 | 35 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
 | 36 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
-| 37 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 37 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
 | 38 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 39 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
 | 40 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
@@ -576,7 +576,7 @@
 | 574 | [SpiderHeck](games/s/spiderheck.md) | 4.65 | 
 | 575 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 576 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 577 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
+| 577 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
 | 578 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
 | 579 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
 | 580 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
@@ -665,7 +665,7 @@
 | 663 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 664 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 665 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 666 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
+| 666 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
 | 667 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 4.00 | 
 | 668 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 669 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
@@ -723,7 +723,7 @@
 | 721 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 722 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 723 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 724 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.80 | 
+| 724 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.79 | 
 | 725 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 726 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
 | 727 | [UnMetal](games/u/unmetal.md) | 4.55 | 

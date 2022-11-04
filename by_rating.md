@@ -10,10 +10,10 @@
 | 8 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 9 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 10 | [RimWorld](games/r/rimworld.md) | 4.89 | 
-| 11 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
-| 12 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
-| 13 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 14 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
+| 11 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
+| 12 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
+| 13 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
+| 14 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
 | 15 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
 | 16 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 17 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
@@ -79,16 +79,16 @@
 | 77 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 78 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 79 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.80 | 
-| 80 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.80 | 
-| 81 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 82 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 83 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 84 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 85 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 86 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 87 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 88 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
-| 89 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.79 | 
+| 80 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 81 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 82 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 83 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 84 | [Diabotical](games/d/diabotical.md) | 4.79 | 
+| 85 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 86 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 87 | [Ghost Recon Future Solider: Ultimate Edition](games/g/ghost_recon_future_solider__ultimate_edition.md) | 4.79 | 
+| 88 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.79 | 
+| 89 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.79 | 
 | 90 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 91 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 92 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
@@ -298,23 +298,23 @@
 | 296 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 297 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 298 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 299 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.62 | 
-| 300 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 301 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 302 | [Prey](games/p/prey.md) | 4.61 | 
-| 303 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 304 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 305 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 306 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 307 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 308 | [20XX](games/2/20xx.md) | 4.61 | 
-| 309 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 310 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
-| 311 | [ABZU](games/a/abzu.md) | 4.61 | 
-| 312 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
-| 313 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 314 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
-| 315 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
+| 299 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
+| 300 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.62 | 
+| 301 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 302 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 303 | [Prey](games/p/prey.md) | 4.61 | 
+| 304 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 305 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 306 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 307 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 308 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 309 | [20XX](games/2/20xx.md) | 4.61 | 
+| 310 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 311 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
+| 312 | [ABZU](games/a/abzu.md) | 4.61 | 
+| 313 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
+| 314 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 315 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
 | 316 | [GRIME](games/g/grime.md) | 4.61 | 
 | 317 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.61 | 
 | 318 | [Card Shark](games/c/card_shark.md) | 4.61 | 
@@ -463,18 +463,18 @@
 | 461 | [Verdun](games/v/verdun.md) | 4.51 | 
 | 462 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
 | 463 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 464 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
-| 465 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
-| 466 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 467 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 468 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
-| 469 | [The Surge](games/t/the_surge.md) | 4.51 | 
-| 470 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.51 | 
-| 471 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
-| 472 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 473 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 474 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 475 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
+| 464 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
+| 465 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 466 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 467 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 
+| 468 | [The Surge](games/t/the_surge.md) | 4.51 | 
+| 469 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.51 | 
+| 470 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
+| 471 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 472 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 473 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 474 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
+| 475 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
 | 476 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
 | 477 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 478 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
