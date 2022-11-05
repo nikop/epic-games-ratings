@@ -79,7 +79,7 @@
 | 77 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 78 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 79 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 80 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
+| 80 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 81 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 82 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 83 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.30 | 
@@ -182,7 +182,7 @@
 | 180 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.64 | 
 | 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
-| 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
+| 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 184 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
 | 185 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 186 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
@@ -346,7 +346,7 @@
 | 344 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 345 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
 | 346 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 347 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 347 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
 | 348 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.46 | 
 | 349 | [Lake](games/l/lake.md) | 4.08 | 
 | 350 | [Lamentum](games/l/lamentum.md) | 4.36 | 
@@ -544,7 +544,7 @@
 | 542 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 543 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
 | 544 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 545 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
+| 545 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
 | 546 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 547 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
 | 548 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 
@@ -576,7 +576,7 @@
 | 574 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 575 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
 | 576 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.68 | 
-| 577 | [SpiderHeck](games/s/spiderheck.md) | 4.65 | 
+| 577 | [SpiderHeck](games/s/spiderheck.md) | 4.67 | 
 | 578 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 579 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 580 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
