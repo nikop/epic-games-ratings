@@ -164,7 +164,7 @@
 | 162 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 163 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 164 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 165 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 
+| 165 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.57 | 
 | 166 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
 | 167 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
 | 168 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.59 | 
@@ -463,7 +463,7 @@
 | 461 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 462 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 463 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 464 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
+| 464 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
 | 465 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 466 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 467 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
