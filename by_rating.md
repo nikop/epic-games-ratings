@@ -178,22 +178,22 @@
 | 176 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 177 | [Everything](games/e/everything.md) | 4.71 | 
 | 178 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 179 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
-| 180 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 181 | [Days Gone](games/d/days_gone.md) | 4.70 | 
-| 182 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
-| 183 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
-| 184 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 185 | [Timberborn](games/t/timberborn.md) | 4.70 | 
-| 186 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 187 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 188 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.70 | 
-| 189 | [Slipways](games/s/slipways.md) | 4.70 | 
-| 190 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 
-| 191 | [No Straight Roads](games/n/no_straight_roads.md) | 4.70 | 
-| 192 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 193 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 194 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 179 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 180 | [Days Gone](games/d/days_gone.md) | 4.70 | 
+| 181 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
+| 182 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
+| 183 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 184 | [Timberborn](games/t/timberborn.md) | 4.70 | 
+| 185 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 186 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 187 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.70 | 
+| 188 | [Slipways](games/s/slipways.md) | 4.70 | 
+| 189 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 
+| 190 | [No Straight Roads](games/n/no_straight_roads.md) | 4.70 | 
+| 191 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
+| 192 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 193 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 194 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 195 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 196 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 197 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
@@ -248,18 +248,18 @@
 | 246 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
 | 247 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 
 | 248 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 249 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 250 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
-| 251 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
-| 252 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
-| 253 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
-| 254 | [Eastward](games/e/eastward.md) | 4.66 | 
-| 255 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 256 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 257 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 258 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 259 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 260 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 249 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
+| 250 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
+| 251 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
+| 252 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
+| 253 | [Eastward](games/e/eastward.md) | 4.66 | 
+| 254 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 255 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 256 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 257 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 258 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 259 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 260 | [Death's Door](games/d/death's_door.md) | 4.65 | 
 | 261 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
 | 262 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
 | 263 | [Mutazione](games/m/mutazione.md) | 4.65 | 
@@ -666,15 +666,15 @@
 | 664 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 665 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
 | 666 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
-| 667 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
-| 668 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
-| 669 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
-| 670 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
-| 671 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 672 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
-| 673 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 674 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
-| 675 | [Ashen](games/a/ashen.md) | 4.28 | 
+| 667 | [Ashen](games/a/ashen.md) | 4.29 | 
+| 668 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
+| 669 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
+| 670 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
+| 671 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
+| 672 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 673 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 674 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 675 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
 | 676 | [Saturnalia](games/s/saturnalia.md) | 4.28 | 
 | 677 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.28 | 
 | 678 | [EVE Online](games/e/eve_online.md) | 4.27 | 

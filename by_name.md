@@ -40,7 +40,7 @@
 | 38 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 39 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 40 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
-| 41 | [Ashen](games/a/ashen.md) | 4.28 | 
+| 41 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 42 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 43 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 44 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
@@ -79,7 +79,7 @@
 | 77 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 78 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 79 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 80 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
+| 80 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 81 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 82 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 83 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.30 | 
@@ -160,7 +160,7 @@
 | 158 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
 | 159 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 160 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 161 | [Death's Door](games/d/death's_door.md) | 4.66 | 
+| 161 | [Death's Door](games/d/death's_door.md) | 4.65 | 
 | 162 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 163 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 164 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
