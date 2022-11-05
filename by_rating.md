@@ -144,17 +144,17 @@
 | 142 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
 | 143 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 144 | [Revita](games/r/revita.md) | 4.74 | 
-| 145 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 146 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 147 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 148 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
-| 149 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 150 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
-| 151 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
-| 152 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
-| 153 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
-| 154 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
-| 155 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
+| 145 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 146 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 147 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 148 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 149 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 150 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
+| 151 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
+| 152 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
+| 153 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
+| 154 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
+| 155 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
 | 156 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.73 | 
 | 157 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 158 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
@@ -662,16 +662,16 @@
 | 660 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
 | 661 | [Tacoma](games/t/tacoma.md) | 4.30 | 
 | 662 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.30 | 
-| 663 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 664 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
-| 665 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.29 | 
-| 666 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
-| 667 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
-| 668 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
-| 669 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
-| 670 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
-| 671 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 672 | [Saturnalia](games/s/saturnalia.md) | 4.29 | 
+| 663 | [Saturnalia](games/s/saturnalia.md) | 4.30 | 
+| 664 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
+| 665 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
+| 666 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.29 | 
+| 667 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
+| 668 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
+| 669 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
+| 670 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
+| 671 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
+| 672 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 673 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 674 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 675 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
