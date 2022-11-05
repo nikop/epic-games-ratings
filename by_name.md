@@ -255,7 +255,7 @@
 | 253 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 254 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.79 | 
 | 255 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
-| 256 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
+| 256 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
 | 257 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 258 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 259 | [GigaBash](games/g/gigabash.md) | 4.48 | 
@@ -291,7 +291,7 @@
 | 289 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 290 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 291 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 292 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 292 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 293 | [Hob](games/h/hob.md) | 4.57 | 
 | 294 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.33 | 
 | 295 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
@@ -529,7 +529,7 @@
 | 527 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 
 | 528 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 529 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 530 | [Saturnalia](games/s/saturnalia.md) | 4.30 | 
+| 530 | [Saturnalia](games/s/saturnalia.md) | 4.28 | 
 | 531 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 532 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 533 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 

@@ -82,16 +82,16 @@
 | 80 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 81 | [Huntdown](games/h/huntdown.md) | 4.80 | 
 | 82 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.80 | 
-| 83 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 84 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 85 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 86 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 87 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 88 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 89 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 90 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.79 | 
-| 91 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.79 | 
-| 92 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 83 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 84 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 85 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 86 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 87 | [Diabotical](games/d/diabotical.md) | 4.79 | 
+| 88 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 89 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
+| 90 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 91 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.79 | 
+| 92 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.79 | 
 | 93 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 94 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 95 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
@@ -556,17 +556,17 @@
 | 554 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 555 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
 | 556 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
-| 557 | [Figment](games/f/figment.md) | 4.43 | 
-| 558 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 559 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 560 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
-| 561 | [Runbow](games/r/runbow.md) | 4.43 | 
-| 562 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 563 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 564 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 565 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 566 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 567 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.42 | 
+| 557 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
+| 558 | [Figment](games/f/figment.md) | 4.43 | 
+| 559 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 560 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
+| 561 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
+| 562 | [Runbow](games/r/runbow.md) | 4.43 | 
+| 563 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 564 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 565 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 566 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 567 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 568 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 569 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 570 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
@@ -662,19 +662,19 @@
 | 660 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
 | 661 | [Tacoma](games/t/tacoma.md) | 4.30 | 
 | 662 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.30 | 
-| 663 | [Saturnalia](games/s/saturnalia.md) | 4.30 | 
-| 664 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 665 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
-| 666 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.29 | 
-| 667 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
-| 668 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
-| 669 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
-| 670 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
-| 671 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
-| 672 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 673 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
-| 674 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 675 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
+| 663 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
+| 664 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
+| 665 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.29 | 
+| 666 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
+| 667 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
+| 668 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
+| 669 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
+| 670 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
+| 671 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 672 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 673 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 674 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
+| 675 | [Saturnalia](games/s/saturnalia.md) | 4.28 | 
 | 676 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.28 | 
 | 677 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 678 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
