@@ -19,7 +19,7 @@
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
 | 18 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
-| 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
+| 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
 | 23 | [Among Trees](games/a/among_trees.md) | 4.36 | 
@@ -171,7 +171,7 @@
 | 169 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 170 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 171 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 172 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
+| 172 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
 | 173 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 174 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 175 | [Diabotical](games/d/diabotical.md) | 4.79 | 
@@ -319,7 +319,7 @@
 | 317 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
 | 318 | [Into the Breach](games/i/into_the_breach.md) | 4.85 | 
 | 319 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 320 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 
+| 320 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 321 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 322 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 323 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
@@ -493,7 +493,7 @@
 | 491 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 492 | [Redout 2](games/r/redout_2.md) | 4.50 | 
 | 493 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
-| 494 | [Relicta](games/r/relicta.md) | 4.11 | 
+| 494 | [Relicta](games/r/relicta.md) | 4.12 | 
 | 495 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 496 | [Revita](games/r/revita.md) | 4.74 | 
 | 497 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
