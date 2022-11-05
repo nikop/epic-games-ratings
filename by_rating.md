@@ -12,9 +12,9 @@
 | 10 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 11 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 
-| 13 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 14 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 15 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
+| 13 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
+| 14 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
+| 15 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 16 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
 | 17 | [Firework](games/f/firework.md) | 4.88 | 
 | 18 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -300,23 +300,23 @@
 | 298 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 299 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 300 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 301 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
-| 302 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 303 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 304 | [Prey](games/p/prey.md) | 4.61 | 
-| 305 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 306 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 307 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 308 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 309 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 310 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 311 | [20XX](games/2/20xx.md) | 4.61 | 
-| 312 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 313 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
-| 314 | [ABZU](games/a/abzu.md) | 4.61 | 
-| 315 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
-| 316 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 317 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
+| 301 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 302 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 303 | [Prey](games/p/prey.md) | 4.61 | 
+| 304 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 305 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 306 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 307 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 308 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 309 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 310 | [20XX](games/2/20xx.md) | 4.61 | 
+| 311 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 312 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
+| 313 | [ABZU](games/a/abzu.md) | 4.61 | 
+| 314 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
+| 315 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 316 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
+| 317 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 318 | [GRIME](games/g/grime.md) | 4.61 | 
 | 319 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.61 | 
 | 320 | [Card Shark](games/c/card_shark.md) | 4.61 | 
