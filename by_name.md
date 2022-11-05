@@ -293,7 +293,7 @@
 | 291 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 292 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 293 | [Hob](games/h/hob.md) | 4.57 | 
-| 294 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.33 | 
+| 294 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.34 | 
 | 295 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 296 | [Horace](games/h/horace.md) | 4.56 | 
 | 297 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -468,7 +468,7 @@
 | 466 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 467 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 468 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
-| 469 | [Pine](games/p/pine.md) | 4.14 | 
+| 469 | [Pine](games/p/pine.md) | 4.13 | 
 | 470 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.42 | 
 | 471 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
 | 472 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
@@ -565,7 +565,7 @@
 | 563 | [SOMA](games/s/soma.md) | 4.67 | 
 | 564 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 565 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
-| 566 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 566 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 567 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 568 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 569 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
@@ -599,7 +599,7 @@
 | 597 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 598 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
 | 599 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
-| 600 | [Submerged](games/s/submerged.md) | 4.04 | 
+| 600 | [Submerged](games/s/submerged.md) | 4.07 | 
 | 601 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 602 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 603 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 

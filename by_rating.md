@@ -76,15 +76,15 @@
 | 74 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 75 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 76 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 77 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 78 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 79 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
-| 80 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 81 | [Huntdown](games/h/huntdown.md) | 4.80 | 
-| 82 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.80 | 
-| 83 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 84 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 85 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 77 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
+| 78 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 79 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
+| 80 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
+| 81 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 82 | [Huntdown](games/h/huntdown.md) | 4.80 | 
+| 83 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.80 | 
+| 84 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 85 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 86 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 87 | [Diabotical](games/d/diabotical.md) | 4.79 | 
 | 88 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
@@ -642,11 +642,11 @@
 | 640 | [House Party](games/h/house_party.md) | 4.34 | 
 | 641 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
 | 642 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
-| 643 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
-| 644 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 645 | [Othercide](games/o/othercide.md) | 4.33 | 
-| 646 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 647 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.33 | 
+| 643 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.34 | 
+| 644 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
+| 645 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
+| 646 | [Othercide](games/o/othercide.md) | 4.33 | 
+| 647 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 648 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
 | 649 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 650 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
@@ -728,9 +728,9 @@
 | 726 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
 | 727 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 728 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
-| 729 | [Pine](games/p/pine.md) | 4.14 | 
-| 730 | [Obduction](games/o/obduction.md) | 4.14 | 
-| 731 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
+| 729 | [Obduction](games/o/obduction.md) | 4.14 | 
+| 730 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
+| 731 | [Pine](games/p/pine.md) | 4.13 | 
 | 732 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
 | 733 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
 | 734 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
@@ -751,13 +751,13 @@
 | 749 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
 | 750 | [Lake](games/l/lake.md) | 4.08 | 
 | 751 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
-| 752 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.06 | 
-| 753 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 754 | [Godfall](games/g/godfall.md) | 4.05 | 
-| 755 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
-| 756 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
-| 757 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 
-| 758 | [Submerged](games/s/submerged.md) | 4.04 | 
+| 752 | [Submerged](games/s/submerged.md) | 4.07 | 
+| 753 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.06 | 
+| 754 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 755 | [Godfall](games/g/godfall.md) | 4.05 | 
+| 756 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
+| 757 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
+| 758 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 
 | 759 | [Filament](games/f/filament.md) | 4.03 | 
 | 760 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.02 | 
 | 761 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
