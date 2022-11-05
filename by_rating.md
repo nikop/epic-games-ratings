@@ -83,15 +83,15 @@
 | 81 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 82 | [Huntdown](games/h/huntdown.md) | 4.80 | 
 | 83 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.80 | 
-| 84 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 85 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 86 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 87 | [Diabotical](games/d/diabotical.md) | 4.79 | 
-| 88 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 89 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 90 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 91 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.79 | 
-| 92 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.79 | 
+| 84 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 85 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 86 | [Diabotical](games/d/diabotical.md) | 4.79 | 
+| 87 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 88 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
+| 89 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 90 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.79 | 
+| 91 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.79 | 
+| 92 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 93 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 94 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 95 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
@@ -603,15 +603,15 @@
 | 601 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.39 | 
 | 602 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.39 | 
 | 603 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 
-| 604 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
-| 605 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
-| 606 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
-| 607 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
-| 608 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 609 | [Scrapnaut](games/s/scrapnaut.md) | 4.38 | 
-| 610 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
-| 611 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.38 | 
-| 612 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.38 | 
+| 604 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.39 | 
+| 605 | [Tannenberg](games/t/tannenberg.md) | 4.38 | 
+| 606 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
+| 607 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
+| 608 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 609 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 610 | [Scrapnaut](games/s/scrapnaut.md) | 4.38 | 
+| 611 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
+| 612 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.38 | 
 | 613 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 614 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
 | 615 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 

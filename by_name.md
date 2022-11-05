@@ -291,7 +291,7 @@
 | 289 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 290 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 291 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 292 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 292 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 293 | [Hob](games/h/hob.md) | 4.57 | 
 | 294 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.34 | 
 | 295 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
@@ -749,7 +749,7 @@
 | 747 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 748 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
 | 749 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 750 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.38 | 
+| 750 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.39 | 
 | 751 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
 | 752 | [Warpips](games/w/warpips.md) | 4.54 | 
 | 753 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
