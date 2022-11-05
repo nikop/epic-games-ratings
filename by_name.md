@@ -441,7 +441,7 @@
 | 439 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 440 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 441 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 442 | [Outlast](games/o/outlast.md) | 4.75 | 
+| 442 | [Outlast](games/o/outlast.md) | 4.76 | 
 | 443 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
 | 444 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 445 | [Outward](games/o/outward.md) | 4.54 | 
@@ -681,7 +681,7 @@
 | 679 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 680 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 681 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
-| 682 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
+| 682 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 683 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 684 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 685 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.64 | 
