@@ -5,7 +5,7 @@
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.39 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
+| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
@@ -273,7 +273,7 @@
 | 271 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 272 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 
 | 273 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 274 | [GRIME](games/g/grime.md) | 4.61 | 
+| 274 | [GRIME](games/g/grime.md) | 4.57 | 
 | 275 | [Grindstone](games/g/grindstone.md) | 4.82 | 
 | 276 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
 | 277 | [Hades](games/h/hades.md) | 4.92 | 
@@ -520,7 +520,7 @@
 | 518 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 519 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 520 | [Sable](games/s/sable.md) | 4.57 | 
-| 521 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.72 | 
+| 521 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.73 | 
 | 522 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 523 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 524 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
@@ -529,7 +529,7 @@
 | 527 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 
 | 528 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 529 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 530 | [Saturnalia](games/s/saturnalia.md) | 4.28 | 
+| 530 | [Saturnalia](games/s/saturnalia.md) | 4.29 | 
 | 531 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 532 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 533 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
@@ -551,7 +551,7 @@
 | 549 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 550 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 551 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 552 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 
+| 552 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
 | 553 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 554 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 555 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
