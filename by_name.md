@@ -2,7 +2,7 @@
 | --- | ---- | ------ | 
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.17 | 
 | 2 | [20XX](games/2/20xx.md) | 4.61 | 
-| 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.39 | 
+| 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.37 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
@@ -126,7 +126,7 @@
 | 124 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 125 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
 | 126 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
-| 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
 | 128 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 129 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 130 | [Crayta](games/c/crayta.md) | 4.19 | 
@@ -205,7 +205,7 @@
 | 203 | [Everything](games/e/everything.md) | 4.71 | 
 | 204 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 
-| 206 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
+| 206 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.61 | 
 | 207 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 209 | [Faeria](games/f/faeria.md) | 4.42 | 
@@ -245,7 +245,7 @@
 | 243 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 244 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 245 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 246 | [FUSER™](games/f/fuser™.md) | 4.70 | 
+| 246 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 247 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 248 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.22 | 
 | 249 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
@@ -595,7 +595,7 @@
 | 593 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
 | 594 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 595 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 596 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
+| 596 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
 | 597 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 598 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
 | 599 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
@@ -616,7 +616,7 @@
 | 614 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
 | 615 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 616 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 617 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
+| 617 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 618 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
 | 619 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 620 | [Tacoma](games/t/tacoma.md) | 4.30 | 
@@ -662,7 +662,7 @@
 | 660 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 661 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 662 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
-| 663 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.70 | 
+| 663 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 664 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 665 | [The Surge](games/t/the_surge.md) | 4.52 | 
 | 666 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
@@ -693,7 +693,7 @@
 | 691 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
 | 692 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.28 | 
 | 693 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 694 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
+| 694 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.38 | 
 | 695 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
 | 696 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
 | 697 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
@@ -745,11 +745,11 @@
 | 743 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 744 | [War Mongrels](games/w/war_mongrels.md) | 4.37 | 
 | 745 | [Warface](games/w/warface.md) | 3.94 | 
-| 746 | [Warframe](games/w/warframe.md) | 4.62 | 
+| 746 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 747 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 748 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
 | 749 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
-| 750 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.38 | 
+| 750 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.39 | 
 | 751 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
 | 752 | [Warpips](games/w/warpips.md) | 4.55 | 
 | 753 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 

@@ -1,10 +1,10 @@
 {
   "ID": "0756b215f3394428877179923c6e2fa0",
   "Name": "Expeditions: Rome",
-  "Rating": 4.63,
+  "Rating": 4.61,
   "NumberOfRatings": 68,
   "FirstSeen": "2022-07-22T20:17:55.9100449+00:00",
-  "LastChanged": "2022-10-26T17:31:26.0393102+00:00",
+  "LastChanged": "2022-11-05T17:00:34.5168665+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:55.9100451+00:00",
@@ -194,6 +194,11 @@
     {
       "Time": "2022-10-26T17:31:26.0393104+00:00",
       "Rating": 4.63,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-05T17:00:34.5168668+00:00",
+      "Rating": 4.61,
       "NumberOfRatings": null
     }
   ],
