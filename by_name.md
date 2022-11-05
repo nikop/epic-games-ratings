@@ -193,7 +193,7 @@
 | 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
-| 194 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.47 | 
+| 194 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.48 | 
 | 195 | [ELEX](games/e/elex.md) | 4.37 | 
 | 196 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
 | 197 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
@@ -224,7 +224,7 @@
 | 222 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
 | 223 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
 | 224 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
-| 225 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 225 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.75 | 
 | 226 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.08 | 
 | 227 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 228 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 

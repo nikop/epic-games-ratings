@@ -125,24 +125,24 @@
 | 123 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 124 | [Journey](games/j/journey.md) | 4.75 | 
 | 125 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.75 | 
-| 126 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.75 | 
-| 127 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
-| 128 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
-| 129 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 130 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 131 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 132 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 133 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
-| 134 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 135 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
-| 136 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
-| 137 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 138 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 139 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 140 | [Haven](games/h/haven.md) | 4.74 | 
-| 141 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
-| 142 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
-| 143 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 126 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.75 | 
+| 127 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.75 | 
+| 128 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
+| 129 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
+| 130 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 131 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 132 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 133 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 134 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 135 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 136 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
+| 137 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
+| 138 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 139 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 140 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 141 | [Haven](games/h/haven.md) | 4.74 | 
+| 142 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
+| 143 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
 | 144 | [Revita](games/r/revita.md) | 4.74 | 
 | 145 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 146 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
@@ -502,18 +502,18 @@
 | 500 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
 | 501 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 502 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
-| 503 | [CryoFall](games/c/cryofall.md) | 4.48 | 
-| 504 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
-| 505 | [Observation](games/o/observation.md) | 4.48 | 
-| 506 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
-| 507 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.48 | 
-| 508 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 
-| 509 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 510 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
-| 511 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 512 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 513 | [Paradigm](games/p/paradigm.md) | 4.47 | 
-| 514 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.47 | 
+| 503 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.48 | 
+| 504 | [CryoFall](games/c/cryofall.md) | 4.48 | 
+| 505 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
+| 506 | [Observation](games/o/observation.md) | 4.48 | 
+| 507 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
+| 508 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.48 | 
+| 509 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 
+| 510 | [GigaBash](games/g/gigabash.md) | 4.48 | 
+| 511 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
+| 512 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 513 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 514 | [Paradigm](games/p/paradigm.md) | 4.47 | 
 | 515 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 516 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 517 | [SMITE](games/s/smite.md) | 4.46 | 
