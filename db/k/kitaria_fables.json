@@ -1,11 +1,11 @@
 {
   "ID": "b196813a49d5409f9bda8eb872111ecf",
   "Name": "Kitaria Fables",
-  "Rating": 4.41,
+  "Rating": 4.46,
   "NumberOfRatings": 20,
   "FirstSeen": "2022-07-22T20:17:15.0715704+00:00",
   "FirstSeenRating": "2022-09-21T23:00:48.4332122+00:00",
-  "LastChanged": "2022-10-26T05:00:22.820239+00:00",
+  "LastChanged": "2022-11-05T06:00:22.8035775+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-21T23:00:48.4332124+00:00",
@@ -20,6 +20,11 @@
     {
       "Time": "2022-10-26T05:00:22.8202392+00:00",
       "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-05T06:00:22.8035777+00:00",
+      "Rating": 4.46,
       "NumberOfRatings": null
     }
   ],

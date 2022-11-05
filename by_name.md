@@ -347,7 +347,7 @@
 | 345 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
 | 346 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
 | 347 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 348 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
+| 348 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.46 | 
 | 349 | [Lake](games/l/lake.md) | 4.08 | 
 | 350 | [Lamentum](games/l/lamentum.md) | 4.36 | 
 | 351 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
