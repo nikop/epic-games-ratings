@@ -237,7 +237,7 @@
 | 235 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 236 | [Firework](games/f/firework.md) | 4.88 | 
 | 237 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
-| 238 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
+| 238 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 239 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 240 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 241 | [For The King](games/f/for_the_king.md) | 4.69 | 
@@ -426,7 +426,7 @@
 | 424 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 425 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 426 | [Obduction](games/o/obduction.md) | 4.14 | 
-| 427 | [Observation](games/o/observation.md) | 4.47 | 
+| 427 | [Observation](games/o/observation.md) | 4.48 | 
 | 428 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 
 | 429 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
 | 430 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
@@ -448,7 +448,7 @@
 | 446 | [Overcooked](games/o/overcooked.md) | 4.69 | 
 | 447 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 448 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 449 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 449 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
 | 450 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
 | 451 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 452 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.51 | 
@@ -684,7 +684,7 @@
 | 682 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 683 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 684 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
-| 685 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.64 | 
+| 685 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 686 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 687 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 688 | [Timberborn](games/t/timberborn.md) | 4.70 | 
@@ -749,7 +749,7 @@
 | 747 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 748 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
 | 749 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
-| 750 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.39 | 
+| 750 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.38 | 
 | 751 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
 | 752 | [Warpips](games/w/warpips.md) | 4.55 | 
 | 753 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 

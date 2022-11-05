@@ -1,10 +1,10 @@
 {
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
-  "Rating": 4.39,
+  "Rating": 4.38,
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
-  "LastChanged": "2022-11-05T11:32:02.9976215+00:00",
+  "LastChanged": "2022-11-05T16:31:25.844089+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-28T06:01:26.9039057+00:00",
@@ -164,6 +164,11 @@
     {
       "Time": "2022-11-05T11:32:02.9976218+00:00",
       "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-05T16:31:25.8440892+00:00",
+      "Rating": 4.38,
       "NumberOfRatings": null
     }
   ],
