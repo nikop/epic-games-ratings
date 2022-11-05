@@ -91,7 +91,7 @@
 | 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 91 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 92 | [Breathedge](games/b/breathedge.md) | 4.57 | 
+| 92 | [Breathedge](games/b/breathedge.md) | 4.58 | 
 | 93 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
 | 94 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 95 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
@@ -591,7 +591,7 @@
 | 589 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 590 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 591 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 592 | [STG Football](games/s/stg_football.md) | 4.52 | 
+| 592 | [STG Football](games/s/stg_football.md) | 4.53 | 
 | 593 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
 | 594 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 595 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
@@ -668,7 +668,7 @@
 | 666 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
 | 667 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 668 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 669 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 669 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
 | 670 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 671 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 4.00 | 
 | 672 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
@@ -728,7 +728,7 @@
 | 726 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 727 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
 | 728 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.79 | 
-| 729 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
+| 729 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.39 | 
 | 730 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
 | 731 | [UnMetal](games/u/unmetal.md) | 4.54 | 
 | 732 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.50 | 
