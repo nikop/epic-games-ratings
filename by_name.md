@@ -414,7 +414,7 @@
 | 412 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 413 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
 | 414 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 415 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.10 | 
+| 415 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.06 | 
 | 416 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 417 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
 | 418 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -591,7 +591,7 @@
 | 589 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 590 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 591 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 592 | [STG Football](games/s/stg_football.md) | 4.53 | 
+| 592 | [STG Football](games/s/stg_football.md) | 4.54 | 
 | 593 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 594 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 595 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 

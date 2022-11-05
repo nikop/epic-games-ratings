@@ -429,21 +429,21 @@
 | 427 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
 | 428 | [UnMetal](games/u/unmetal.md) | 4.54 | 
 | 429 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 430 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 431 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 432 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 433 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 434 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 435 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 436 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 437 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
-| 438 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
-| 439 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
-| 440 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 441 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
-| 442 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 443 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 444 | [STG Football](games/s/stg_football.md) | 4.53 | 
+| 430 | [STG Football](games/s/stg_football.md) | 4.54 | 
+| 431 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 432 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 433 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
+| 434 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 435 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 436 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 437 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 438 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
+| 439 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
+| 440 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
+| 441 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 442 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
+| 443 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 444 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 445 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 446 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 447 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
@@ -744,16 +744,16 @@
 | 742 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
 | 743 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
 | 744 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
-| 745 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.10 | 
-| 746 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
-| 747 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 748 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
-| 749 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
-| 750 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.08 | 
-| 751 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
-| 752 | [Lake](games/l/lake.md) | 4.08 | 
-| 753 | [Submerged](games/s/submerged.md) | 4.07 | 
-| 754 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.06 | 
+| 745 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
+| 746 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 747 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
+| 748 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
+| 749 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.08 | 
+| 750 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
+| 751 | [Lake](games/l/lake.md) | 4.08 | 
+| 752 | [Submerged](games/s/submerged.md) | 4.07 | 
+| 753 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.06 | 
+| 754 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.06 | 
 | 755 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 756 | [Godfall](games/g/godfall.md) | 4.05 | 
 | 757 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
