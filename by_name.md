@@ -57,7 +57,7 @@
 | 55 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 56 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 57 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
-| 58 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
+| 58 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 
 | 59 | [Aztez](games/a/aztez.md) | 4.50 | 
 | 60 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 61 | [Backbone](games/b/backbone.md) | 4.41 | 
@@ -214,7 +214,7 @@
 | 212 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 
 | 213 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.75 | 
 | 214 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 215 | [Far Cry](games/f/far_cry.md) | 4.37 | 
+| 215 | [Far Cry](games/f/far_cry.md) | 4.38 | 
 | 216 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 217 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 218 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
@@ -240,7 +240,7 @@
 | 238 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 239 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 240 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 241 | [For The King](games/f/for_the_king.md) | 4.69 | 
+| 241 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 242 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
 | 243 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 244 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
@@ -352,7 +352,7 @@
 | 350 | [Lamentum](games/l/lamentum.md) | 4.36 | 
 | 351 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
 | 352 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 353 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.18 | 
+| 353 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
 | 354 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 355 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 356 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
@@ -565,7 +565,7 @@
 | 563 | [SOMA](games/s/soma.md) | 4.67 | 
 | 564 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 565 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
-| 566 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
+| 566 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 567 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 568 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 569 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
@@ -588,7 +588,7 @@
 | 586 | [Starsand](games/s/starsand.md) | 4.27 | 
 | 587 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 588 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 
-| 589 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 589 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 590 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 591 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 592 | [STG Football](games/s/stg_football.md) | 4.53 | 
@@ -628,7 +628,7 @@
 | 626 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 627 | [Tharsis](games/t/tharsis.md) | 4.21 | 
 | 628 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 629 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.60 | 
+| 629 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
 | 630 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 631 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 632 | [The Captain](games/t/the_captain.md) | 4.44 | 

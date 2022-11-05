@@ -1,10 +1,10 @@
 {
   "ID": "45e7cf3c49054f2fb20b673d9b0ae69e",
   "Name": "Sonic Mania",
-  "Rating": 4.8,
+  "Rating": 4.79,
   "NumberOfRatings": 2185,
   "FirstSeen": "2022-07-22T20:24:14.1875943+00:00",
-  "LastChanged": "2022-11-05T10:31:52.373077+00:00",
+  "LastChanged": "2022-11-05T20:02:00.5970705+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:14.1875945+00:00",
@@ -1060,6 +1060,11 @@
       "Time": "2022-11-05T10:31:52.3730772+00:00",
       "Rating": 4.8,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-05T20:02:00.5970707+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -1089,7 +1094,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 47
+      "Count": 48
     },
     {
       "Text": "This game has Competitive Players",

@@ -1,5 +1,5 @@
 # The Banner Saga Epic Trilogy
-Rating: 4.60 (20)  (as of 23.09.2022)  
+Rating: 4.62 (20)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -9,3 +9,4 @@ Rating: 4.60 (20)  (as of 23.09.2022)
 | 2022-10-15 | 4.57 | - |
 | 2022-10-24 | 4.58 | - |
 | 2022-10-30 | 4.60 | - |
+| 2022-11-05 | 4.62 | - |
