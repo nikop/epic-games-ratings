@@ -416,15 +416,15 @@
 | 414 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 415 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 
 | 416 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
-| 417 | [UnMetal](games/u/unmetal.md) | 4.55 | 
-| 418 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 419 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 420 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 421 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 422 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 423 | [Outward](games/o/outward.md) | 4.54 | 
-| 424 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 425 | [RUINER](games/r/ruiner.md) | 4.54 | 
+| 417 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
+| 418 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 419 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 420 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 421 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
+| 422 | [Outward](games/o/outward.md) | 4.54 | 
+| 423 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 424 | [RUINER](games/r/ruiner.md) | 4.54 | 
+| 425 | [UnMetal](games/u/unmetal.md) | 4.54 | 
 | 426 | [Warpips](games/w/warpips.md) | 4.54 | 
 | 427 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 428 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
@@ -623,14 +623,14 @@
 | 621 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 622 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 623 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 624 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
-| 625 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 626 | [Among Trees](games/a/among_trees.md) | 4.36 | 
-| 627 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
-| 628 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
-| 629 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 630 | [Lamentum](games/l/lamentum.md) | 4.36 | 
-| 631 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 624 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
+| 625 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
+| 626 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 627 | [Among Trees](games/a/among_trees.md) | 4.36 | 
+| 628 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
+| 629 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
+| 630 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 631 | [Lamentum](games/l/lamentum.md) | 4.36 | 
 | 632 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
 | 633 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
 | 634 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
@@ -653,12 +653,12 @@
 | 651 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 652 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 653 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 654 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
-| 655 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
-| 656 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
-| 657 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
-| 658 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
-| 659 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 654 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
+| 655 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
+| 656 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
+| 657 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
+| 658 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 659 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
 | 660 | [Tacoma](games/t/tacoma.md) | 4.30 | 
 | 661 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.30 | 
 | 662 | [Saturnalia](games/s/saturnalia.md) | 4.30 | 

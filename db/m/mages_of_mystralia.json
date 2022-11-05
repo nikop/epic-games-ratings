@@ -1,10 +1,10 @@
 {
   "ID": "bd12fd574df14846ad24703ca7b1a12b",
   "Name": "Mages of Mystralia",
-  "Rating": 4.35,
+  "Rating": 4.36,
   "NumberOfRatings": 693,
   "FirstSeen": "2022-07-22T20:24:26.4536752+00:00",
-  "LastChanged": "2022-11-04T23:32:09.3803777+00:00",
+  "LastChanged": "2022-11-05T00:01:27.3935221+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:26.4536754+00:00",
@@ -489,6 +489,11 @@
     {
       "Time": "2022-11-04T23:32:09.380378+00:00",
       "Rating": 4.35,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-05T00:01:27.3935225+00:00",
+      "Rating": 4.36,
       "NumberOfRatings": null
     }
   ],

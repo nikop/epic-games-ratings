@@ -373,7 +373,7 @@
 | 371 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 372 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
 | 373 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
-| 374 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 374 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
 | 375 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 376 | [Mago](games/m/mago.md) | 4.86 | 
 | 377 | [Maneater](games/m/maneater.md) | 4.49 | 
@@ -616,7 +616,7 @@
 | 614 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
 | 615 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 616 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 617 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
+| 617 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
 | 618 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
 | 619 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 620 | [Tacoma](games/t/tacoma.md) | 4.30 | 
@@ -730,7 +730,7 @@
 | 728 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.79 | 
 | 729 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.44 | 
 | 730 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
-| 731 | [UnMetal](games/u/unmetal.md) | 4.55 | 
+| 731 | [UnMetal](games/u/unmetal.md) | 4.54 | 
 | 732 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
 | 733 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 734 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
