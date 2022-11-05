@@ -180,7 +180,7 @@
 | 178 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 179 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 180 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
+| 181 | [Divine Knockout](games/d/divine_knockout.md) | 4.64 | 
 | 182 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
 | 183 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 184 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
@@ -207,7 +207,7 @@
 | 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 
 | 206 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.61 | 
 | 207 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 209 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 211 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.82 | 
@@ -529,7 +529,7 @@
 | 527 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 
 | 528 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 529 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 530 | [Saturnalia](games/s/saturnalia.md) | 4.30 | 
+| 530 | [Saturnalia](games/s/saturnalia.md) | 4.28 | 
 | 531 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 532 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 533 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
@@ -575,7 +575,7 @@
 | 573 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
 | 574 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 575 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
-| 576 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.69 | 
+| 576 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.68 | 
 | 577 | [SpiderHeck](games/s/spiderheck.md) | 4.65 | 
 | 578 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 579 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
@@ -592,7 +592,7 @@
 | 590 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 591 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 592 | [STG Football](games/s/stg_football.md) | 4.53 | 
-| 593 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
+| 593 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 594 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 595 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 596 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
@@ -713,13 +713,13 @@
 | 711 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 712 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 713 | [Train Valley](games/t/train_valley.md) | 4.44 | 
-| 714 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
+| 714 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
 | 715 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 716 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 717 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 718 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 719 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 720 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
+| 720 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.62 | 
 | 721 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
 | 722 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 723 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
