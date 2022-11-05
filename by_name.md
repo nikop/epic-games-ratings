@@ -150,7 +150,7 @@
 | 148 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 
 | 149 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 151 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.56 | 
+| 151 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
 | 152 | [Darkwood](games/d/darkwood.md) | 4.60 | 
 | 153 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 154 | [Dauntless](games/d/dauntless.md) | 4.53 | 
@@ -541,7 +541,7 @@
 | 539 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
 | 540 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 541 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
-| 542 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 542 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 543 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
 | 544 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 545 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.13 | 
@@ -744,7 +744,7 @@
 | 742 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 743 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 744 | [War Mongrels](games/w/war_mongrels.md) | 4.37 | 
-| 745 | [Warface](games/w/warface.md) | 3.95 | 
+| 745 | [Warface](games/w/warface.md) | 3.94 | 
 | 746 | [Warframe](games/w/warframe.md) | 4.62 | 
 | 747 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 748 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
