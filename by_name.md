@@ -5,7 +5,7 @@
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.39 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
@@ -484,7 +484,7 @@
 | 482 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 483 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
 | 484 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
-| 485 | [Rayman Origins](games/r/rayman_origins.md) | 4.75 | 
+| 485 | [Rayman Origins](games/r/rayman_origins.md) | 4.76 | 
 | 486 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
 | 487 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 488 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
@@ -593,7 +593,7 @@
 | 591 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 592 | [STG Football](games/s/stg_football.md) | 4.53 | 
 | 593 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
-| 594 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
+| 594 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 595 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 596 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 597 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
@@ -610,7 +610,7 @@
 | 608 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
 | 609 | [SUPERHOT](games/s/superhot.md) | 4.69 | 
 | 610 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.61 | 
-| 611 | [Superliminal](games/s/superliminal.md) | 4.77 | 
+| 611 | [Superliminal](games/s/superliminal.md) | 4.76 | 
 | 612 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 613 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 614 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
@@ -748,7 +748,7 @@
 | 746 | [Warframe](games/w/warframe.md) | 4.62 | 
 | 747 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 748 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
-| 749 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
+| 749 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
 | 750 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.39 | 
 | 751 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
 | 752 | [Warpips](games/w/warpips.md) | 4.55 | 
