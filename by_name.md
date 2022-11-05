@@ -217,7 +217,7 @@
 | 215 | [Far Cry](games/f/far_cry.md) | 4.37 | 
 | 216 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 217 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 218 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 218 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 219 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
 | 220 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 221 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.40 | 
@@ -571,7 +571,7 @@
 | 569 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
 | 570 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 571 | [Space Punks](games/s/space_punks.md) | 4.18 | 
-| 572 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
+| 572 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
 | 573 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
 | 574 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 575 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
