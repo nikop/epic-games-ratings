@@ -161,7 +161,7 @@
 | 159 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 160 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 161 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 162 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 162 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 163 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 164 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 165 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.57 | 
@@ -298,7 +298,7 @@
 | 296 | [Horace](games/h/horace.md) | 4.56 | 
 | 297 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 298 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 299 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 299 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 300 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 301 | [House Party](games/h/house_party.md) | 4.34 | 
 | 302 | [Hue](games/h/hue.md) | 4.56 | 
@@ -311,7 +311,7 @@
 | 309 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 310 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
 | 311 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 312 | [In Sound Mind](games/i/in_sound_mind.md) | 4.58 | 
+| 312 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
 | 313 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 314 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 315 | [INSIDE](games/i/inside.md) | 4.69 | 
@@ -406,7 +406,7 @@
 | 404 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 405 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 406 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 407 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 407 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
 | 408 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 409 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 410 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.65 | 
