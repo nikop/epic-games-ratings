@@ -5,7 +5,7 @@
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.39 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
@@ -43,7 +43,7 @@
 | 41 | [Ashen](games/a/ashen.md) | 4.27 | 
 | 42 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 43 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 44 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
+| 44 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 45 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 46 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 47 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
@@ -363,13 +363,13 @@
 | 361 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 362 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 363 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.02 | 
-| 364 | [Limbo](games/l/limbo.md) | 4.63 | 
+| 364 | [Limbo](games/l/limbo.md) | 4.64 | 
 | 365 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.38 | 
 | 366 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
 | 367 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 368 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.48 | 
 | 369 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
-| 370 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.14 | 
+| 370 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
 | 371 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 372 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
 | 373 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
@@ -679,7 +679,7 @@
 | 677 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
 | 678 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 679 | [The Witness](games/t/the_witness.md) | 4.71 | 
-| 680 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
+| 680 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 681 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
 | 682 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 683 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
