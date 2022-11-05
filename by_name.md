@@ -132,7 +132,7 @@
 | 130 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 131 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
 | 132 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
-| 133 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 133 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
 | 134 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
 | 135 | [CryoFall](games/c/cryofall.md) | 4.48 | 
 | 136 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
@@ -321,7 +321,7 @@
 | 319 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 320 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 321 | [Ironcast](games/i/ironcast.md) | 3.88 | 
-| 322 | [Isonzo](games/i/isonzo.md) | 4.56 | 
+| 322 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 323 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 324 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
 | 325 | [Journey](games/j/journey.md) | 4.75 | 
@@ -442,7 +442,7 @@
 | 440 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 441 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 442 | [Outlast](games/o/outlast.md) | 4.76 | 
-| 443 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
+| 443 | [Outlast 2](games/o/outlast_2.md) | 4.77 | 
 | 444 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 445 | [Outward](games/o/outward.md) | 4.54 | 
 | 446 | [Overcooked](games/o/overcooked.md) | 4.69 | 
@@ -591,7 +591,7 @@
 | 589 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 590 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 591 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 592 | [STG Football](games/s/stg_football.md) | 4.54 | 
+| 592 | [STG Football](games/s/stg_football.md) | 4.55 | 
 | 593 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 594 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 595 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 

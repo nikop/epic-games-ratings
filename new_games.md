@@ -4,7 +4,7 @@
 | 2 | [Saturnalia](games/s/saturnalia.md) | 4.28 | 
 | 3 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
 | 4 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.34 | 
-| 5 | [STG Football](games/s/stg_football.md) | 4.54 | 
+| 5 | [STG Football](games/s/stg_football.md) | 4.55 | 
 | 6 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.83 | 
 | 7 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
 | 8 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.06 | 
@@ -20,7 +20,7 @@
 | 18 | [Darkwood](games/d/darkwood.md) | 4.60 | 
 | 19 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 20 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.56 | 
-| 21 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
+| 21 | [Outlast 2](games/o/outlast_2.md) | 4.77 | 
 | 22 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 23 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
 | 24 | [Outlast](games/o/outlast.md) | 4.76 | 
@@ -35,7 +35,7 @@
 | 33 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
 | 34 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.81 | 
 | 35 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 36 | [Isonzo](games/i/isonzo.md) | 4.56 | 
+| 36 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 37 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 38 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 39 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
