@@ -458,32 +458,32 @@
 | 456 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 457 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 458 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 459 | [The Medium](games/t/the_medium.md) | 4.52 | 
-| 460 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 461 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 462 | [Verdun](games/v/verdun.md) | 4.51 | 
-| 463 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 464 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 465 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 466 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
-| 467 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
-| 468 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 469 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 470 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.51 | 
-| 471 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
-| 472 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
-| 473 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 474 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 475 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 476 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 477 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
-| 478 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
-| 479 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 480 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
-| 481 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.50 | 
-| 482 | [Aztez](games/a/aztez.md) | 4.50 | 
-| 483 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
-| 484 | [Redout 2](games/r/redout_2.md) | 4.50 | 
+| 459 | [Redout 2](games/r/redout_2.md) | 4.52 | 
+| 460 | [The Medium](games/t/the_medium.md) | 4.52 | 
+| 461 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 462 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 463 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 464 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 465 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 466 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 467 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
+| 468 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
+| 469 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 470 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 471 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.51 | 
+| 472 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
+| 473 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
+| 474 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 475 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 476 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 477 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
+| 478 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
+| 479 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
+| 480 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 481 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
+| 482 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.50 | 
+| 483 | [Aztez](games/a/aztez.md) | 4.50 | 
+| 484 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
 | 485 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
 | 486 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
 | 487 | [Maneater](games/m/maneater.md) | 4.49 | 
@@ -751,9 +751,9 @@
 | 749 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
 | 750 | [Lake](games/l/lake.md) | 4.08 | 
 | 751 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
-| 752 | [Godfall](games/g/godfall.md) | 4.06 | 
-| 753 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.06 | 
-| 754 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 752 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.06 | 
+| 753 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 754 | [Godfall](games/g/godfall.md) | 4.05 | 
 | 755 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 756 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
 | 757 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 

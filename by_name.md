@@ -262,7 +262,7 @@
 | 260 | [Gloomhaven](games/g/gloomhaven.md) | 4.45 | 
 | 261 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 262 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
-| 263 | [Godfall](games/g/godfall.md) | 4.06 | 
+| 263 | [Godfall](games/g/godfall.md) | 4.05 | 
 | 264 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
 | 265 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.89 | 
 | 266 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
@@ -491,7 +491,7 @@
 | 489 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 490 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
 | 491 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
-| 492 | [Redout 2](games/r/redout_2.md) | 4.50 | 
+| 492 | [Redout 2](games/r/redout_2.md) | 4.52 | 
 | 493 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
 | 494 | [Relicta](games/r/relicta.md) | 4.12 | 
 | 495 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
