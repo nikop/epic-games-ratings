@@ -94,7 +94,7 @@
 | 92 | [Breathedge](games/b/breathedge.md) | 4.58 | 
 | 93 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
 | 94 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
-| 95 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
+| 95 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 96 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 97 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 98 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.06 | 
@@ -430,7 +430,7 @@
 | 428 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 
 | 429 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
 | 430 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 431 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.46 | 
+| 431 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
 | 432 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.27 | 
 | 433 | [Old World](games/o/old_world.md) | 4.64 | 
 | 434 | [Ooblets](games/o/ooblets.md) | 4.87 | 
@@ -503,7 +503,7 @@
 | 501 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 502 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 503 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 504 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.58 | 
+| 504 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.57 | 
 | 505 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 506 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 507 | [Road 96](games/r/road_96.md) | 4.58 | 
@@ -603,7 +603,7 @@
 | 601 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 602 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 603 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 604 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
+| 604 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.67 | 
 | 605 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
 | 606 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 607 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
@@ -673,7 +673,7 @@
 | 671 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 4.00 | 
 | 672 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 673 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 674 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.75 | 
+| 674 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.76 | 
 | 675 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
 | 676 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
 | 677 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
@@ -682,7 +682,7 @@
 | 680 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 681 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
 | 682 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 683 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 683 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 684 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 685 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 686 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
@@ -711,7 +711,7 @@
 | 709 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 710 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.98 | 
 | 711 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 712 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 712 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
 | 713 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 714 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
 | 715 | [Transistor](games/t/transistor.md) | 4.62 | 
