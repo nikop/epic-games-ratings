@@ -250,36 +250,36 @@
 | 248 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
 | 249 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 250 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
-| 251 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 252 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
-| 253 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
-| 254 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
-| 255 | [Eastward](games/e/eastward.md) | 4.66 | 
-| 256 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 257 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 258 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 259 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 260 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 261 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
-| 262 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
-| 263 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
-| 264 | [Mutazione](games/m/mutazione.md) | 4.65 | 
-| 265 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 266 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.65 | 
-| 267 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
-| 268 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
-| 269 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 
-| 270 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 271 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 272 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 273 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 274 | [Old World](games/o/old_world.md) | 4.64 | 
-| 275 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 276 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 277 | [Limbo](games/l/limbo.md) | 4.64 | 
-| 278 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
-| 279 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
-| 280 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 251 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
+| 252 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
+| 253 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
+| 254 | [Eastward](games/e/eastward.md) | 4.66 | 
+| 255 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 256 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 257 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 258 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 259 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 260 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 261 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
+| 262 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
+| 263 | [Mutazione](games/m/mutazione.md) | 4.65 | 
+| 264 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
+| 265 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.65 | 
+| 266 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
+| 267 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
+| 268 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 
+| 269 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 270 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 271 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 272 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 273 | [Old World](games/o/old_world.md) | 4.64 | 
+| 274 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 275 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
+| 276 | [Limbo](games/l/limbo.md) | 4.64 | 
+| 277 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
+| 278 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 279 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 280 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 281 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
 | 282 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
 | 283 | [Divine Knockout](games/d/divine_knockout.md) | 4.64 | 
@@ -382,17 +382,17 @@
 | 380 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
 | 381 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 382 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
-| 383 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.57 | 
-| 384 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 385 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
-| 386 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 387 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
-| 388 | [Hob](games/h/hob.md) | 4.57 | 
-| 389 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
-| 390 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 391 | [GRIME](games/g/grime.md) | 4.57 | 
-| 392 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.57 | 
-| 393 | [NORCO](games/n/norco.md) | 4.57 | 
+| 383 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 384 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
+| 385 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 386 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
+| 387 | [Hob](games/h/hob.md) | 4.57 | 
+| 388 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
+| 389 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 390 | [GRIME](games/g/grime.md) | 4.57 | 
+| 391 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.57 | 
+| 392 | [NORCO](games/n/norco.md) | 4.57 | 
+| 393 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.56 | 
 | 394 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 395 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 396 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
@@ -720,14 +720,14 @@
 | 718 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 719 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.18 | 
 | 720 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
-| 721 | [Windbound](games/w/windbound.md) | 4.17 | 
-| 722 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 723 | [Gone Home](games/g/gone_home.md) | 4.17 | 
-| 724 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 725 | [Hellpoint](games/h/hellpoint.md) | 4.17 | 
-| 726 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.17 | 
-| 727 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
-| 728 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
+| 721 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
+| 722 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 723 | [Scavengers](games/s/scavengers.md) | 4.17 | 
+| 724 | [Gone Home](games/g/gone_home.md) | 4.17 | 
+| 725 | [Family Man](games/f/family_man.md) | 4.17 | 
+| 726 | [Hellpoint](games/h/hellpoint.md) | 4.17 | 
+| 727 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.17 | 
+| 728 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
 | 729 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 730 | [Obduction](games/o/obduction.md) | 4.14 | 
 | 731 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 

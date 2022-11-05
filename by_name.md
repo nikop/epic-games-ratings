@@ -123,7 +123,7 @@
 | 121 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
 | 122 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 123 | [Core](games/c/core.md) | 4.39 | 
-| 124 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 124 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 125 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
 | 126 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
 | 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
@@ -503,7 +503,7 @@
 | 501 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 502 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 503 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 504 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.57 | 
+| 504 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.56 | 
 | 505 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 506 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 507 | [Road 96](games/r/road_96.md) | 4.58 | 
@@ -663,7 +663,7 @@
 | 661 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 662 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
 | 663 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
-| 664 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
+| 664 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 665 | [The Surge](games/t/the_surge.md) | 4.52 | 
 | 666 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
 | 667 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
