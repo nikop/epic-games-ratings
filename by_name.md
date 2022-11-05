@@ -77,7 +77,7 @@
 | 75 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
 | 76 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 77 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 78 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
+| 78 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 79 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 80 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 81 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
@@ -356,7 +356,7 @@
 | 354 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 355 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 356 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
-| 357 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 357 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 
 | 358 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 359 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
 | 360 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
@@ -521,7 +521,7 @@
 | 519 | [Runbow](games/r/runbow.md) | 4.43 | 
 | 520 | [Sable](games/s/sable.md) | 4.57 | 
 | 521 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.73 | 
-| 522 | [Saints Row](games/s/saints_row.md) | 3.77 | 
+| 522 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 523 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 524 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
 | 525 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
@@ -607,7 +607,7 @@
 | 605 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
 | 606 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 607 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
-| 608 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.78 | 
+| 608 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
 | 609 | [SUPERHOT](games/s/superhot.md) | 4.69 | 
 | 610 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.61 | 
 | 611 | [Superliminal](games/s/superliminal.md) | 4.77 | 
@@ -755,7 +755,7 @@
 | 753 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 754 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 755 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
-| 756 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.29 | 
+| 756 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
 | 757 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 758 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 759 | [Weird West](games/w/weird_west.md) | 4.45 | 
