@@ -373,7 +373,7 @@
 | 371 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 372 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
 | 373 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
-| 374 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
+| 374 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
 | 375 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 376 | [Mago](games/m/mago.md) | 4.86 | 
 | 377 | [Maneater](games/m/maneater.md) | 4.49 | 
@@ -755,7 +755,7 @@
 | 753 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 754 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 755 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
-| 756 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
+| 756 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.29 | 
 | 757 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 758 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 759 | [Weird West](games/w/weird_west.md) | 4.45 | 

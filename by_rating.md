@@ -623,14 +623,14 @@
 | 621 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 622 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 623 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 624 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
-| 625 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
-| 626 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 627 | [Among Trees](games/a/among_trees.md) | 4.36 | 
-| 628 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
-| 629 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
-| 630 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 631 | [Lamentum](games/l/lamentum.md) | 4.36 | 
+| 624 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
+| 625 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 626 | [Among Trees](games/a/among_trees.md) | 4.36 | 
+| 627 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
+| 628 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
+| 629 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 630 | [Lamentum](games/l/lamentum.md) | 4.36 | 
+| 631 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
 | 632 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
 | 633 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
 | 634 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
@@ -665,16 +665,16 @@
 | 663 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 664 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 665 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
-| 666 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
-| 667 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
-| 668 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
-| 669 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
-| 670 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
-| 671 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 672 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
-| 673 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 674 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
-| 675 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
+| 666 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.29 | 
+| 667 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
+| 668 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
+| 669 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
+| 670 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
+| 671 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
+| 672 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 673 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 674 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 675 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
 | 676 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.28 | 
 | 677 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 678 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
