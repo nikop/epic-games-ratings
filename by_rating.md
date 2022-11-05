@@ -137,19 +137,19 @@
 | 135 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 136 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 137 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 138 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
-| 139 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 140 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 141 | [Haven](games/h/haven.md) | 4.74 | 
-| 142 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
-| 143 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
-| 144 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 145 | [Revita](games/r/revita.md) | 4.74 | 
-| 146 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 147 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 148 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 149 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 150 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 138 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 139 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 140 | [Haven](games/h/haven.md) | 4.74 | 
+| 141 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
+| 142 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
+| 143 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 144 | [Revita](games/r/revita.md) | 4.74 | 
+| 145 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 146 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 147 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 148 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 149 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 150 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
 | 151 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 152 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
 | 153 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
@@ -580,18 +580,18 @@
 | 578 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
 | 579 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 580 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.41 | 
-| 581 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 582 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 583 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
-| 584 | [Backbone](games/b/backbone.md) | 4.41 | 
-| 585 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 586 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
-| 587 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 588 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
-| 589 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 590 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.40 | 
-| 591 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 
-| 592 | [Encased](games/e/encased.md) | 4.40 | 
+| 581 | [Encased](games/e/encased.md) | 4.41 | 
+| 582 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 583 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 584 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
+| 585 | [Backbone](games/b/backbone.md) | 4.41 | 
+| 586 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 587 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 588 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 589 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
+| 590 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 591 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.40 | 
+| 592 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 
 | 593 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 594 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
 | 595 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
