@@ -18,7 +18,7 @@
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
 | 18 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
+| 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
@@ -52,7 +52,7 @@
 | 50 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 51 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.56 | 
 | 52 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
-| 53 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
+| 53 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 54 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 55 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 56 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
@@ -390,7 +390,7 @@
 | 388 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 389 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
 | 390 | [Minit](games/m/minit.md) | 4.54 | 
-| 391 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
+| 391 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 392 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 393 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
 | 394 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 

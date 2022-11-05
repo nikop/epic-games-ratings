@@ -22,12 +22,12 @@
 | 20 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 21 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
 | 22 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
-| 23 | [TUNIC](games/t/tunic.md) | 4.87 | 
-| 24 | [Black Book](games/b/black_book.md) | 4.87 | 
-| 25 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
-| 26 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 27 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 28 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 
+| 23 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
+| 24 | [TUNIC](games/t/tunic.md) | 4.87 | 
+| 25 | [Black Book](games/b/black_book.md) | 4.87 | 
+| 26 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
+| 27 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 29 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
 | 30 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
 | 31 | [Mago](games/m/mago.md) | 4.86 | 
@@ -757,9 +757,9 @@
 | 755 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.06 | 
 | 756 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 757 | [Godfall](games/g/godfall.md) | 4.05 | 
-| 758 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
-| 759 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
-| 760 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 
+| 758 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
+| 759 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 
+| 760 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
 | 761 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.02 | 
 | 762 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
 | 763 | [Flatout](games/f/flatout.md) | 4.00 | 
@@ -778,7 +778,7 @@
 | 776 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 777 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
 | 778 | [Conarium](games/c/conarium.md) | 3.85 | 
-| 779 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
+| 779 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 780 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 781 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 782 | [Saints Row](games/s/saints_row.md) | 3.78 | 
