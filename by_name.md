@@ -373,7 +373,7 @@
 | 371 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 372 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
 | 373 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
-| 374 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 374 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
 | 375 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 376 | [Mago](games/m/mago.md) | 4.86 | 
 | 377 | [Maneater](games/m/maneater.md) | 4.49 | 
@@ -588,7 +588,7 @@
 | 586 | [Starsand](games/s/starsand.md) | 4.27 | 
 | 587 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 588 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 
-| 589 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 589 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 590 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 591 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 592 | [STG Football](games/s/stg_football.md) | 4.53 | 

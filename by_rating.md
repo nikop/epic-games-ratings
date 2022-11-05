@@ -147,17 +147,17 @@
 | 145 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 146 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 147 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 148 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 149 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
-| 150 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 151 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
-| 152 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
-| 153 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
-| 154 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
-| 155 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
-| 156 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
-| 157 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.73 | 
-| 158 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 148 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 149 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
+| 150 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
+| 151 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
+| 152 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.73 | 
+| 153 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
+| 154 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
+| 155 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
+| 156 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.73 | 
+| 157 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 158 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 159 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 160 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
 | 161 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
@@ -624,13 +624,13 @@
 | 622 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 623 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 624 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 625 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
-| 626 | [Among Trees](games/a/among_trees.md) | 4.36 | 
-| 627 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
-| 628 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
-| 629 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 630 | [Lamentum](games/l/lamentum.md) | 4.36 | 
-| 631 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.35 | 
+| 625 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
+| 626 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
+| 627 | [Among Trees](games/a/among_trees.md) | 4.36 | 
+| 628 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
+| 629 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
+| 630 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 631 | [Lamentum](games/l/lamentum.md) | 4.36 | 
 | 632 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
 | 633 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
 | 634 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
