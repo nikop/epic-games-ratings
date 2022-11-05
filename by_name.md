@@ -333,7 +333,7 @@
 | 331 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 332 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
 | 333 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 334 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 
+| 334 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 
 | 335 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
 | 336 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
 | 337 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
@@ -406,7 +406,7 @@
 | 404 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 405 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 406 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 407 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 407 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 408 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 409 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 410 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.65 | 

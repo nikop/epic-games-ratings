@@ -97,12 +97,12 @@
 | 95 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
 | 96 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
 | 97 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 98 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
-| 99 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.78 | 
-| 100 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
-| 101 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 102 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 103 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 
+| 98 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 
+| 99 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
+| 100 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.78 | 
+| 101 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
+| 102 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 103 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
 | 104 | [Superliminal](games/s/superliminal.md) | 4.77 | 
 | 105 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
 | 106 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
@@ -585,13 +585,13 @@
 | 583 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 
 | 584 | [Backbone](games/b/backbone.md) | 4.41 | 
 | 585 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 586 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
-| 587 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 588 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
-| 589 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 590 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.40 | 
-| 591 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 
-| 592 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 586 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 587 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
+| 588 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 589 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.40 | 
+| 590 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 
+| 591 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 592 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 593 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
 | 594 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 595 | [Core](games/c/core.md) | 4.39 | 
