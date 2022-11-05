@@ -207,7 +207,7 @@
 | 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 
 | 206 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 207 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 209 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 211 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.82 | 
@@ -231,7 +231,7 @@
 | 229 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 230 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
 | 231 | [Fez](games/f/fez.md) | 4.72 | 
-| 232 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.65 | 
+| 232 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
 | 233 | [Figment](games/f/figment.md) | 4.43 | 
 | 234 | [Filament](games/f/filament.md) | 4.03 | 
 | 235 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
@@ -330,7 +330,7 @@
 | 328 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 329 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 330 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 331 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 331 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 332 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
 | 333 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 334 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 
