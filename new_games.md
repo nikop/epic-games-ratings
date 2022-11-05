@@ -4,7 +4,7 @@
 | 2 | [Saturnalia](games/s/saturnalia.md) | 4.30 | 
 | 3 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 
 | 4 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.33 | 
-| 5 | [STG Football](games/s/stg_football.md) | 4.56 | 
+| 5 | [STG Football](games/s/stg_football.md) | 4.52 | 
 | 6 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.82 | 
 | 7 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
 | 8 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.10 | 
@@ -49,7 +49,7 @@
 | 47 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 48 | [Saints Row](games/s/saints_row.md) | 3.77 | 
 | 49 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.29 | 
-| 50 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 50 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 51 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
 | 52 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 53 | [DOOM II](games/d/doom_ii.md) | 4.82 | 

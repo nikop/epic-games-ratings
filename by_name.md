@@ -486,7 +486,7 @@
 | 484 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
 | 485 | [Rayman Origins](games/r/rayman_origins.md) | 4.75 | 
 | 486 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
-| 487 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 487 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 488 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 489 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 490 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
@@ -503,7 +503,7 @@
 | 501 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 502 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 503 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 504 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.60 | 
+| 504 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.59 | 
 | 505 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 506 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 507 | [Road 96](games/r/road_96.md) | 4.58 | 
@@ -591,14 +591,14 @@
 | 589 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 590 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 591 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 592 | [STG Football](games/s/stg_football.md) | 4.56 | 
+| 592 | [STG Football](games/s/stg_football.md) | 4.52 | 
 | 593 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
 | 594 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 595 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 596 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 597 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 598 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
-| 599 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 599 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
 | 600 | [Submerged](games/s/submerged.md) | 4.04 | 
 | 601 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
 | 602 | [Subnautica](games/s/subnautica.md) | 4.84 | 
