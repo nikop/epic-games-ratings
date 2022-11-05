@@ -40,7 +40,7 @@
 | 38 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 39 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
 | 40 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
-| 41 | [Ashen](games/a/ashen.md) | 4.27 | 
+| 41 | [Ashen](games/a/ashen.md) | 4.28 | 
 | 42 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 43 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 44 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
@@ -84,9 +84,9 @@
 | 82 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 83 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.30 | 
 | 84 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
-| 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
+| 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
-| 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.35 | 
+| 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.37 | 
 | 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
 | 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -207,7 +207,7 @@
 | 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 
 | 206 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.61 | 
 | 207 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 209 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 211 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.82 | 
@@ -233,7 +233,7 @@
 | 231 | [Fez](games/f/fez.md) | 4.72 | 
 | 232 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
 | 233 | [Figment](games/f/figment.md) | 4.43 | 
-| 234 | [Filament](games/f/filament.md) | 4.03 | 
+| 234 | [Filament](games/f/filament.md) | 4.14 | 
 | 235 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 236 | [Firework](games/f/firework.md) | 4.88 | 
 | 237 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
@@ -378,7 +378,7 @@
 | 376 | [Mago](games/m/mago.md) | 4.86 | 
 | 377 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 378 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
-| 379 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.10 | 
+| 379 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.12 | 
 | 380 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 381 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 382 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
@@ -388,7 +388,7 @@
 | 386 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 387 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 388 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 389 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.41 | 
+| 389 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
 | 390 | [Minit](games/m/minit.md) | 4.54 | 
 | 391 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 392 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
@@ -519,7 +519,7 @@
 | 517 | [RUINER](games/r/ruiner.md) | 4.54 | 
 | 518 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 519 | [Runbow](games/r/runbow.md) | 4.43 | 
-| 520 | [Sable](games/s/sable.md) | 4.57 | 
+| 520 | [Sable](games/s/sable.md) | 4.56 | 
 | 521 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.73 | 
 | 522 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 523 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -721,7 +721,7 @@
 | 719 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 720 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.62 | 
 | 721 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 722 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 722 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
 | 723 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 724 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
 | 725 | [TUNIC](games/t/tunic.md) | 4.87 | 
