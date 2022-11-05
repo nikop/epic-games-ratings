@@ -108,7 +108,7 @@
 | 106 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 107 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
 | 108 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 109 | [Chernobylite](games/c/chernobylite.md) | 4.12 | 
+| 109 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
 | 110 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 111 | [Chorus](games/c/chorus.md) | 4.42 | 
 | 112 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.95 | 
@@ -149,7 +149,7 @@
 | 147 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 148 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 
 | 149 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.46 | 
 | 151 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
 | 152 | [Darkwood](games/d/darkwood.md) | 4.60 | 
 | 153 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
@@ -190,7 +190,7 @@
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 190 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
+| 191 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
 | 192 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 194 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.47 | 
@@ -428,7 +428,7 @@
 | 426 | [Obduction](games/o/obduction.md) | 4.14 | 
 | 427 | [Observation](games/o/observation.md) | 4.47 | 
 | 428 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 
-| 429 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.83 | 
+| 429 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
 | 430 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 431 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.46 | 
 | 432 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.27 | 
@@ -482,7 +482,7 @@
 | 480 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 481 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 482 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 483 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 483 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
 | 484 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
 | 485 | [Rayman Origins](games/r/rayman_origins.md) | 4.75 | 
 | 486 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
@@ -503,7 +503,7 @@
 | 501 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 502 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 503 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 504 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.59 | 
+| 504 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.58 | 
 | 505 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 506 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 507 | [Road 96](games/r/road_96.md) | 4.58 | 
@@ -540,7 +540,7 @@
 | 538 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
 | 539 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
 | 540 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
-| 541 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
+| 541 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 542 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 543 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
 | 544 | [Sheltered](games/s/sheltered.md) | 4.42 | 
@@ -681,7 +681,7 @@
 | 679 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 680 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 681 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
-| 682 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
+| 682 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 683 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 684 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 685 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.64 | 
