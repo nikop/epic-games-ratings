@@ -1,5 +1,5 @@
 # The Uncertain: Light at the End
-Rating: 4.00 (-)  (as of 23.09.2022)  
+Rating: 3.96 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -8,3 +8,4 @@ Rating: 4.00 (-)  (as of 23.09.2022)
 | 2022-10-27 | 3.95 | - |
 | 2022-10-28 | 3.96 | - |
 | 2022-11-03 | 4.00 | - |
+| 2022-11-06 | 3.96 | - |

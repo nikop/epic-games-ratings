@@ -73,7 +73,7 @@
 | 71 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 72 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 73 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
-| 74 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.81 | 
+| 74 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
 | 75 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
 | 76 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 77 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
@@ -300,7 +300,7 @@
 | 298 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 299 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 300 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 301 | [House Party](games/h/house_party.md) | 4.34 | 
+| 301 | [House Party](games/h/house_party.md) | 4.32 | 
 | 302 | [Hue](games/h/hue.md) | 4.56 | 
 | 303 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
 | 304 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
@@ -428,7 +428,7 @@
 | 426 | [Obduction](games/o/obduction.md) | 4.14 | 
 | 427 | [Observation](games/o/observation.md) | 4.48 | 
 | 428 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 
-| 429 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.84 | 
+| 429 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
 | 430 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 431 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
 | 432 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.27 | 
@@ -473,7 +473,7 @@
 | 471 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
 | 472 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 473 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 474 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.44 | 
+| 474 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 475 | [Prey](games/p/prey.md) | 4.61 | 
 | 476 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 477 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
@@ -618,7 +618,7 @@
 | 616 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 617 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 618 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
-| 619 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
+| 619 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 620 | [Tacoma](games/t/tacoma.md) | 4.31 | 
 | 621 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
 | 622 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
@@ -670,7 +670,7 @@
 | 668 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 669 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
 | 670 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
-| 671 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 4.00 | 
+| 671 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
 | 672 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 673 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 674 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.76 | 
