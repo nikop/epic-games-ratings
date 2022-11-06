@@ -425,18 +425,18 @@
 | 423 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 424 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 425 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 426 | [Outward](games/o/outward.md) | 4.54 | 
-| 427 | [RUINER](games/r/ruiner.md) | 4.54 | 
-| 428 | [Minit](games/m/minit.md) | 4.54 | 
-| 429 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
-| 430 | [UnMetal](games/u/unmetal.md) | 4.54 | 
-| 431 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 432 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 433 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 434 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 435 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 436 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 437 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 426 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
+| 427 | [Outward](games/o/outward.md) | 4.54 | 
+| 428 | [RUINER](games/r/ruiner.md) | 4.54 | 
+| 429 | [Minit](games/m/minit.md) | 4.54 | 
+| 430 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
+| 431 | [UnMetal](games/u/unmetal.md) | 4.54 | 
+| 432 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 433 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 434 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 435 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
+| 436 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 437 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 438 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
 | 439 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
 | 440 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
@@ -634,13 +634,13 @@
 | 632 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 633 | [Lamentum](games/l/lamentum.md) | 4.36 | 
 | 634 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
-| 635 | [ZOMBI](games/z/zombi.md) | 4.35 | 
-| 636 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 637 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 638 | [House Party](games/h/house_party.md) | 4.34 | 
-| 639 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
-| 640 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
-| 641 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.34 | 
+| 635 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.35 | 
+| 636 | [ZOMBI](games/z/zombi.md) | 4.35 | 
+| 637 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 638 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 639 | [House Party](games/h/house_party.md) | 4.34 | 
+| 640 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
+| 641 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
 | 642 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
 | 643 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 644 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 

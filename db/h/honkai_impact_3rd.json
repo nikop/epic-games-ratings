@@ -1,10 +1,10 @@
 {
   "ID": "d2d162953fec40e381867d7af8371362",
   "Name": "Honkai Impact 3rd",
-  "Rating": 4.34,
+  "Rating": 4.35,
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2022-11-05T10:30:50.641003+00:00",
+  "LastChanged": "2022-11-06T03:30:39.7450469+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-28T11:32:15.7744845+00:00",
@@ -75,12 +75,21 @@
       "Time": "2022-11-05T10:30:50.6410033+00:00",
       "Rating": 4.34,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T03:30:39.7450473+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Count": 121
+    },
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 31
     }
   ]
 }

@@ -293,7 +293,7 @@
 | 291 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 292 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 293 | [Hob](games/h/hob.md) | 4.57 | 
-| 294 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.34 | 
+| 294 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.35 | 
 | 295 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 296 | [Horace](games/h/horace.md) | 4.56 | 
 | 297 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -462,7 +462,7 @@
 | 460 | [Patron](games/p/patron.md) | 3.89 | 
 | 461 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 462 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 463 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 463 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
 | 464 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
 | 465 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 466 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
