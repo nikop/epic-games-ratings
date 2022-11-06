@@ -162,12 +162,12 @@
 | 160 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 161 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
 | 162 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 163 | [Fez](games/f/fez.md) | 4.72 | 
-| 164 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 165 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 166 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 167 | [The Witness](games/t/the_witness.md) | 4.71 | 
-| 168 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 163 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
+| 164 | [Fez](games/f/fez.md) | 4.72 | 
+| 165 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 166 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 167 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 168 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 169 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 170 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
 | 171 | [FUSER™](games/f/fuser™.md) | 4.71 | 
@@ -578,15 +578,15 @@
 | 576 | [Hammerting](games/h/hammerting.md) | 4.42 | 
 | 577 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 578 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 579 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
-| 580 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 581 | [Encased](games/e/encased.md) | 4.41 | 
-| 582 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 583 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 584 | [Backbone](games/b/backbone.md) | 4.41 | 
-| 585 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 586 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
-| 587 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 579 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
+| 580 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
+| 581 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 582 | [Encased](games/e/encased.md) | 4.41 | 
+| 583 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 584 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 585 | [Backbone](games/b/backbone.md) | 4.41 | 
+| 586 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 587 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
 | 588 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
 | 589 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 590 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.40 | 

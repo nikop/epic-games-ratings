@@ -305,7 +305,7 @@
 | 303 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
 | 304 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 305 | [Huntdown](games/h/huntdown.md) | 4.80 | 
-| 306 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 306 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
 | 307 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
 | 308 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
 | 309 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
@@ -393,7 +393,7 @@
 | 391 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 392 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 393 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
-| 394 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 394 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
 | 395 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 396 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 397 | [Moving Out](games/m/moving_out.md) | 4.59 | 
