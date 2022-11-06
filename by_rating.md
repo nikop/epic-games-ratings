@@ -320,24 +320,24 @@
 | 318 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
 | 319 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 320 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.61 | 
-| 321 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.61 | 
-| 322 | [Card Shark](games/c/card_shark.md) | 4.61 | 
-| 323 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
-| 324 | [Control](games/c/control.md) | 4.60 | 
-| 325 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 326 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 327 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 328 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 329 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
-| 330 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
-| 331 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
-| 332 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 333 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
-| 334 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 335 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
-| 336 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
-| 337 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.60 | 
-| 338 | [Roguebook](games/r/roguebook.md) | 4.60 | 
+| 321 | [Roguebook](games/r/roguebook.md) | 4.61 | 
+| 322 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.61 | 
+| 323 | [Card Shark](games/c/card_shark.md) | 4.61 | 
+| 324 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
+| 325 | [Control](games/c/control.md) | 4.60 | 
+| 326 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 327 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 328 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 329 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 330 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
+| 331 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
+| 332 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
+| 333 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 334 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
+| 335 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 336 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
+| 337 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
+| 338 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.60 | 
 | 339 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 340 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
 | 341 | [Darkwood](games/d/darkwood.md) | 4.60 | 
