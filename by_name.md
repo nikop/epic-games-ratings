@@ -87,7 +87,7 @@
 | 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.37 | 
-| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
+| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.82 | 
 | 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 91 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -125,7 +125,7 @@
 | 123 | [Core](games/c/core.md) | 4.39 | 
 | 124 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 125 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
-| 126 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
+| 126 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
 | 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
 | 128 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 129 | [Crashlands](games/c/crashlands.md) | 4.66 | 
@@ -149,7 +149,7 @@
 | 147 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 148 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 
 | 149 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.46 | 
+| 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.45 | 
 | 151 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
 | 152 | [Darkwood](games/d/darkwood.md) | 4.60 | 
 | 153 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.40 | 
@@ -250,7 +250,7 @@
 | 248 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.22 | 
 | 249 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 250 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 251 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.37 | 
+| 251 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 252 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 253 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 254 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.76 | 
@@ -526,11 +526,11 @@
 | 524 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
 | 525 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 526 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
-| 527 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 
+| 527 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.57 | 
 | 528 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 529 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 530 | [Saturnalia](games/s/saturnalia.md) | 4.29 | 
-| 531 | [Scavengers](games/s/scavengers.md) | 4.17 | 
+| 531 | [Scavengers](games/s/scavengers.md) | 4.16 | 
 | 532 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 533 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
 | 534 | [Scrapnaut](games/s/scrapnaut.md) | 4.38 | 
@@ -547,7 +547,7 @@
 | 545 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
 | 546 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 547 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
-| 548 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 
+| 548 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.41 | 
 | 549 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 550 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 551 | [Sifu](games/s/sifu.md) | 4.80 | 
@@ -772,7 +772,7 @@
 | 770 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 771 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 772 | [World of Goo](games/w/world_of_goo.md) | 4.76 | 
-| 773 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 773 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 774 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
 | 775 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 776 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
