@@ -123,7 +123,7 @@
 | 121 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
 | 122 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 123 | [Core](games/c/core.md) | 4.39 | 
-| 124 | [Coromon](games/c/coromon.md) | 4.64 | 
+| 124 | [Coromon](games/c/coromon.md) | 4.65 | 
 | 125 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
 | 126 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
 | 127 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
@@ -134,7 +134,7 @@
 | 132 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
 | 133 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
 | 134 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 135 | [CryoFall](games/c/cryofall.md) | 4.48 | 
+| 135 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 136 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 137 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.67 | 
 | 138 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
@@ -359,7 +359,7 @@
 | 357 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 358 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 359 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
-| 360 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 360 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
 | 361 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 362 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 363 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.02 | 
@@ -416,7 +416,7 @@
 | 414 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 415 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.06 | 
 | 416 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 417 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
+| 417 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 418 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 419 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 420 | [No Straight Roads](games/n/no_straight_roads.md) | 4.70 | 
@@ -461,7 +461,7 @@
 | 459 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 460 | [Patron](games/p/patron.md) | 3.89 | 
 | 461 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 462 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 462 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 463 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 464 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 465 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
@@ -476,7 +476,7 @@
 | 474 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 475 | [Prey](games/p/prey.md) | 4.61 | 
 | 476 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 477 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 477 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.42 | 
 | 478 | [Quake](games/q/quake.md) | 4.81 | 
 | 479 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 480 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
@@ -580,7 +580,7 @@
 | 578 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 579 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 580 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
-| 581 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
+| 581 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.48 | 
 | 582 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
 | 583 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
 | 584 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
@@ -635,7 +635,7 @@
 | 633 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 634 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 635 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 636 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
+| 636 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 637 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 638 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
 | 639 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
@@ -663,7 +663,7 @@
 | 661 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 662 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
 | 663 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
-| 664 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
+| 664 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 
 | 665 | [The Surge](games/t/the_surge.md) | 4.52 | 
 | 666 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
 | 667 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
