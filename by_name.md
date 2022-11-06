@@ -10,7 +10,7 @@
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.61 | 
-| 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
+| 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
@@ -62,7 +62,7 @@
 | 60 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 61 | [Backbone](games/b/backbone.md) | 4.41 | 
 | 62 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 63 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.35 | 
+| 63 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 64 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
 | 65 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 
 | 66 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
@@ -116,7 +116,7 @@
 | 114 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 115 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 116 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 117 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
+| 117 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 
 | 118 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 119 | [Conarium](games/c/conarium.md) | 3.85 | 
 | 120 | [Control](games/c/control.md) | 4.60 | 
@@ -147,7 +147,7 @@
 | 145 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
 | 146 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 147 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 148 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 
+| 148 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
 | 149 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 150 | [Darksiders III](games/d/darksiders_iii.md) | 4.45 | 
 | 151 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
@@ -158,7 +158,7 @@
 | 156 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 157 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 158 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
-| 159 | [Death Coming](games/d/death_coming.md) | 4.45 | 
+| 159 | [Death Coming](games/d/death_coming.md) | 4.46 | 
 | 160 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 161 | [Death's Door](games/d/death's_door.md) | 4.65 | 
 | 162 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
@@ -353,14 +353,14 @@
 | 351 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
 | 352 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 353 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
-| 354 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 354 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 
 | 355 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 356 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 357 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 358 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 359 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
 | 360 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 361 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
+| 361 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 362 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 363 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.02 | 
 | 364 | [Limbo](games/l/limbo.md) | 4.64 | 
@@ -425,7 +425,7 @@
 | 423 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.80 | 
 | 424 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 425 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 426 | [Obduction](games/o/obduction.md) | 4.14 | 
+| 426 | [Obduction](games/o/obduction.md) | 4.12 | 
 | 427 | [Observation](games/o/observation.md) | 4.48 | 
 | 428 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 
 | 429 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
@@ -520,7 +520,7 @@
 | 518 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 519 | [Runbow](games/r/runbow.md) | 4.44 | 
 | 520 | [Sable](games/s/sable.md) | 4.56 | 
-| 521 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 
+| 521 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
 | 522 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 523 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 524 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
@@ -652,8 +652,8 @@
 | 650 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
 | 651 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.46 | 
 | 652 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
-| 653 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.71 | 
-| 654 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
+| 653 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.72 | 
+| 654 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
 | 655 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 656 | [The Medium](games/t/the_medium.md) | 4.54 | 
 | 657 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
