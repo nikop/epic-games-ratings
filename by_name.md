@@ -9,7 +9,7 @@
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
-| 10 | [ABZU](games/a/abzu.md) | 4.61 | 
+| 10 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
@@ -233,7 +233,7 @@
 | 231 | [Fez](games/f/fez.md) | 4.72 | 
 | 232 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
 | 233 | [Figment](games/f/figment.md) | 4.43 | 
-| 234 | [Filament](games/f/filament.md) | 4.14 | 
+| 234 | [Filament](games/f/filament.md) | 4.13 | 
 | 235 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 236 | [Firework](games/f/firework.md) | 4.88 | 
 | 237 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
@@ -462,13 +462,13 @@
 | 460 | [Patron](games/p/patron.md) | 3.89 | 
 | 461 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 462 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 463 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
+| 463 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 464 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 465 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 466 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 467 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 468 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
-| 469 | [Pine](games/p/pine.md) | 4.13 | 
+| 469 | [Pine](games/p/pine.md) | 4.14 | 
 | 470 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.42 | 
 | 471 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 472 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
@@ -541,7 +541,7 @@
 | 539 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
 | 540 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 541 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 542 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 542 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 543 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
 | 544 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 545 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
@@ -551,7 +551,7 @@
 | 549 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 550 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 551 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 552 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.46 | 
+| 552 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.47 | 
 | 553 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 554 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 555 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
@@ -773,7 +773,7 @@
 | 771 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 772 | [World of Goo](games/w/world_of_goo.md) | 4.76 | 
 | 773 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
-| 774 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 774 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
 | 775 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 776 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 777 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
