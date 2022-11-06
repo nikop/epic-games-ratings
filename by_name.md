@@ -38,7 +38,7 @@
 | 36 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
 | 37 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 38 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 39 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
+| 39 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
 | 40 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
 | 41 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 42 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
@@ -205,7 +205,7 @@
 | 203 | [Everything](games/e/everything.md) | 4.71 | 
 | 204 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 205 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 
-| 206 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.61 | 
+| 206 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.62 | 
 | 207 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 208 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
 | 209 | [Faeria](games/f/faeria.md) | 4.42 | 
@@ -252,7 +252,7 @@
 | 250 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 251 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 252 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 253 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
+| 253 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 254 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.76 | 
 | 255 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
 | 256 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
@@ -268,7 +268,7 @@
 | 266 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 267 | [Gone Home](games/g/gone_home.md) | 4.17 | 
 | 268 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 269 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
+| 269 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 270 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 271 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 272 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 
@@ -335,7 +335,7 @@
 | 333 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 334 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 
 | 335 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
-| 336 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
+| 336 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.15 | 
 | 337 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 338 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
 | 339 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
@@ -448,7 +448,7 @@
 | 446 | [Overcooked](games/o/overcooked.md) | 4.69 | 
 | 447 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 448 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 449 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
+| 449 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
 | 450 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
 | 451 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 452 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.51 | 
@@ -503,7 +503,7 @@
 | 501 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 502 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 503 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 504 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.56 | 
+| 504 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.55 | 
 | 505 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 506 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 507 | [Road 96](games/r/road_96.md) | 4.58 | 
@@ -585,7 +585,7 @@
 | 583 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
 | 584 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
 | 585 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 586 | [Starsand](games/s/starsand.md) | 4.27 | 
+| 586 | [Starsand](games/s/starsand.md) | 4.29 | 
 | 587 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 588 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 
 | 589 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
@@ -684,7 +684,7 @@
 | 682 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 683 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 684 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
-| 685 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
+| 685 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 686 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 687 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 688 | [Timberborn](games/t/timberborn.md) | 4.70 | 
@@ -750,7 +750,7 @@
 | 748 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 749 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
 | 750 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
-| 751 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.39 | 
+| 751 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.40 | 
 | 752 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
 | 753 | [Warpips](games/w/warpips.md) | 4.55 | 
 | 754 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
@@ -773,7 +773,7 @@
 | 771 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 772 | [World of Goo](games/w/world_of_goo.md) | 4.76 | 
 | 773 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
-| 774 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
+| 774 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 775 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 776 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 777 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
