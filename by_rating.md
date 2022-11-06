@@ -53,15 +53,15 @@
 | 51 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 52 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
 | 53 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
-| 54 | [Quake](games/q/quake.md) | 4.83 | 
-| 55 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.83 | 
-| 56 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
-| 57 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 58 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
-| 59 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
-| 60 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.82 | 
-| 61 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 62 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
+| 54 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.83 | 
+| 55 | [Quake](games/q/quake.md) | 4.83 | 
+| 56 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.83 | 
+| 57 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
+| 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 59 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
+| 60 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
+| 61 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.82 | 
+| 62 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 63 | [Grindstone](games/g/grindstone.md) | 4.82 | 
 | 64 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 65 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
@@ -405,18 +405,18 @@
 | 403 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 404 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
 | 405 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
-| 406 | [Horace](games/h/horace.md) | 4.56 | 
-| 407 | [Sable](games/s/sable.md) | 4.56 | 
-| 408 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
-| 409 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
-| 410 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.56 | 
-| 411 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 412 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 413 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 414 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
-| 415 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 416 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 
-| 417 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
+| 406 | [Dark Deception](games/d/dark_deception.md) | 4.56 | 
+| 407 | [Horace](games/h/horace.md) | 4.56 | 
+| 408 | [Sable](games/s/sable.md) | 4.56 | 
+| 409 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
+| 410 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
+| 411 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.56 | 
+| 412 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 413 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 414 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 415 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 416 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 417 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 
 | 418 | [Warpips](games/w/warpips.md) | 4.55 | 
 | 419 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 420 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
@@ -712,10 +712,10 @@
 | 710 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
 | 711 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 712 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 713 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 714 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
-| 715 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 716 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
+| 713 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
+| 714 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 715 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
+| 716 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 717 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 718 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 719 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
@@ -760,8 +760,8 @@
 | 758 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
 | 759 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 
 | 760 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
-| 761 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.02 | 
-| 762 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
+| 761 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
+| 762 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.02 | 
 | 763 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 764 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 765 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
@@ -770,9 +770,9 @@
 | 768 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 769 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
 | 770 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 771 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.95 | 
-| 772 | [Warface](games/w/warface.md) | 3.94 | 
-| 773 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
+| 771 | [Warface](games/w/warface.md) | 3.94 | 
+| 772 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
+| 773 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.91 | 
 | 774 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.89 | 
 | 775 | [Patron](games/p/patron.md) | 3.89 | 
 | 776 | [Ironcast](games/i/ironcast.md) | 3.88 | 

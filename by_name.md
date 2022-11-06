@@ -111,7 +111,7 @@
 | 109 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
 | 110 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 111 | [Chorus](games/c/chorus.md) | 4.42 | 
-| 112 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.95 | 
+| 112 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.91 | 
 | 113 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 114 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 115 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
@@ -143,7 +143,7 @@
 | 141 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 143 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
-| 144 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
+| 144 | [Dark Deception](games/d/dark_deception.md) | 4.56 | 
 | 145 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
 | 146 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 147 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -470,7 +470,7 @@
 | 468 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
 | 469 | [Pine](games/p/pine.md) | 4.13 | 
 | 470 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.42 | 
-| 471 | [Port Royale 4](games/p/port_royale_4.md) | 4.00 | 
+| 471 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 472 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 473 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 474 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
@@ -537,7 +537,7 @@
 | 535 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
 | 536 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.60 | 
 | 537 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 538 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.82 | 
+| 538 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.83 | 
 | 539 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
 | 540 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 541 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
@@ -645,7 +645,7 @@
 | 643 | [The Fall](games/t/the_fall.md) | 4.25 | 
 | 644 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
 | 645 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.73 | 
-| 646 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
+| 646 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
 | 647 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.95 | 
 | 648 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 649 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
