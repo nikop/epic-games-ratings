@@ -350,24 +350,24 @@
 | 348 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 349 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 350 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
-| 351 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
-| 352 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
-| 353 | [RiME](games/r/rime.md) | 4.59 | 
-| 354 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.59 | 
-| 355 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 
-| 356 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 357 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 358 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 359 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 360 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 361 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 362 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
-| 363 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 364 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 365 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 366 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 367 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
-| 368 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
+| 351 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
+| 352 | [RiME](games/r/rime.md) | 4.59 | 
+| 353 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.59 | 
+| 354 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 
+| 355 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 356 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 357 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 358 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 359 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 360 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 361 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
+| 362 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 363 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
+| 364 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 365 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
+| 366 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
+| 367 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
+| 368 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 369 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
 | 370 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 371 | [Road 96](games/r/road_96.md) | 4.58 | 
@@ -388,20 +388,20 @@
 | 386 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
 | 387 | [Hob](games/h/hob.md) | 4.57 | 
 | 388 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
-| 389 | [Isonzo](games/i/isonzo.md) | 4.57 | 
-| 390 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 391 | [GRIME](games/g/grime.md) | 4.57 | 
-| 392 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.57 | 
-| 393 | [NORCO](games/n/norco.md) | 4.57 | 
-| 394 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.57 | 
-| 395 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.56 | 
-| 396 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 397 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 398 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
-| 399 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 400 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
-| 401 | [Hue](games/h/hue.md) | 4.56 | 
-| 402 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 389 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 390 | [Isonzo](games/i/isonzo.md) | 4.57 | 
+| 391 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 392 | [GRIME](games/g/grime.md) | 4.57 | 
+| 393 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.57 | 
+| 394 | [NORCO](games/n/norco.md) | 4.57 | 
+| 395 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.57 | 
+| 396 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.56 | 
+| 397 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 398 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 399 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 400 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 401 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
+| 402 | [Hue](games/h/hue.md) | 4.56 | 
 | 403 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 404 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
 | 405 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
@@ -744,7 +744,7 @@
 | 742 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 743 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 744 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
-| 745 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
+| 745 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 746 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 747 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 748 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 

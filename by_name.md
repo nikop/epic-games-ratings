@@ -20,7 +20,7 @@
 | 18 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
-| 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
 | 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 
 | 23 | [Among Trees](games/a/among_trees.md) | 4.36 | 
 | 24 | [Among Us](games/a/among_us.md) | 4.58 | 
@@ -261,7 +261,7 @@
 | 259 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 260 | [Gloomhaven](games/g/gloomhaven.md) | 4.45 | 
 | 261 | [God of War](games/g/god_of_war.md) | 4.89 | 
-| 262 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
+| 262 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 263 | [Godfall](games/g/godfall.md) | 4.05 | 
 | 264 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
 | 265 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.89 | 
@@ -686,7 +686,7 @@
 | 684 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 685 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 686 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 687 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
+| 687 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 688 | [Timberborn](games/t/timberborn.md) | 4.70 | 
 | 689 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 690 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
