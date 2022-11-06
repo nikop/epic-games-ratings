@@ -21,7 +21,7 @@
 | 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 
+| 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 
 | 23 | [Among Trees](games/a/among_trees.md) | 4.36 | 
 | 24 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 25 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
