@@ -87,14 +87,14 @@
 | 85 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 86 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 87 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.37 | 
-| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.82 | 
+| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
 | 89 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 90 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 91 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 92 | [Breathedge](games/b/breathedge.md) | 4.58 | 
 | 93 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
 | 94 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
-| 95 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
+| 95 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 96 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 97 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 98 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.06 | 
@@ -194,7 +194,7 @@
 | 192 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 193 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 194 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.48 | 
-| 195 | [ELEX](games/e/elex.md) | 4.37 | 
+| 195 | [ELEX](games/e/elex.md) | 4.38 | 
 | 196 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
 | 197 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 198 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
@@ -212,7 +212,7 @@
 | 210 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 211 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.83 | 
 | 212 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 
-| 213 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.75 | 
+| 213 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.74 | 
 | 214 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 215 | [Far Cry](games/f/far_cry.md) | 4.38 | 
 | 216 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
@@ -228,7 +228,7 @@
 | 226 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.08 | 
 | 227 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 228 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 229 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
+| 229 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 230 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
 | 231 | [Fez](games/f/fez.md) | 4.72 | 
 | 232 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
@@ -286,7 +286,7 @@
 | 284 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.67 | 
 | 285 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 286 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
-| 287 | [Hellpoint](games/h/hellpoint.md) | 4.17 | 
+| 287 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
 | 288 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
 | 289 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 290 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
@@ -327,7 +327,7 @@
 | 325 | [Journey](games/j/journey.md) | 4.75 | 
 | 326 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 327 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 328 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
+| 328 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 329 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 330 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 331 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
@@ -529,10 +529,10 @@
 | 527 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.57 | 
 | 528 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 529 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 530 | [Saturnalia](games/s/saturnalia.md) | 4.29 | 
-| 531 | [Scavengers](games/s/scavengers.md) | 4.16 | 
+| 530 | [Saturnalia](games/s/saturnalia.md) | 4.30 | 
+| 531 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 532 | [Scorn](games/s/scorn.md) | 4.45 | 
-| 533 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
+| 533 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
 | 534 | [Scrapnaut](games/s/scrapnaut.md) | 4.38 | 
 | 535 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
 | 536 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.60 | 
@@ -722,7 +722,7 @@
 | 720 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 721 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.62 | 
 | 722 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 723 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
+| 723 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 724 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 725 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
 | 726 | [TUNIC](games/t/tunic.md) | 4.87 | 
