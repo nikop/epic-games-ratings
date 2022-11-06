@@ -458,33 +458,33 @@
 | 456 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 457 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 458 | [Redout 2](games/r/redout_2.md) | 4.52 | 
-| 459 | [The Medium](games/t/the_medium.md) | 4.52 | 
-| 460 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 461 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 462 | [Verdun](games/v/verdun.md) | 4.51 | 
-| 463 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 464 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 465 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 466 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
-| 467 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
-| 468 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
-| 469 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 470 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 471 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.51 | 
-| 472 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
-| 473 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 474 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 475 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 476 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 477 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
-| 478 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
-| 479 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 480 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
-| 481 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.50 | 
-| 482 | [Aztez](games/a/aztez.md) | 4.50 | 
-| 483 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
-| 484 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
-| 485 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
+| 459 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
+| 460 | [The Medium](games/t/the_medium.md) | 4.52 | 
+| 461 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 462 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 463 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 464 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 465 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 466 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 467 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
+| 468 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
+| 469 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
+| 470 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 471 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 472 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.51 | 
+| 473 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
+| 474 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 475 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 476 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 477 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
+| 478 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
+| 479 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
+| 480 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 481 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
+| 482 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.50 | 
+| 483 | [Aztez](games/a/aztez.md) | 4.50 | 
+| 484 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
+| 485 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 486 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
 | 487 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 488 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
@@ -686,11 +686,11 @@
 | 684 | [Starsand](games/s/starsand.md) | 4.27 | 
 | 685 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 686 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 687 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
-| 688 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
-| 689 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 690 | [The Fall](games/t/the_fall.md) | 4.25 | 
-| 691 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
+| 687 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
+| 688 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 689 | [The Fall](games/t/the_fall.md) | 4.25 | 
+| 690 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
+| 691 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 692 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 693 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
 | 694 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 

@@ -574,7 +574,7 @@
 | 572 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
 | 573 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
 | 574 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 575 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 
+| 575 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
 | 576 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.68 | 
 | 577 | [SpiderHeck](games/s/spiderheck.md) | 4.67 | 
 | 578 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
@@ -600,7 +600,7 @@
 | 598 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
 | 599 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
 | 600 | [Submerged](games/s/submerged.md) | 4.07 | 
-| 601 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.25 | 
+| 601 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 602 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 603 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 604 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.67 | 
