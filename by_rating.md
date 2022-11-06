@@ -279,18 +279,18 @@
 | 277 | [Limbo](games/l/limbo.md) | 4.64 | 
 | 278 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 279 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 280 | [Coromon](games/c/coromon.md) | 4.64 | 
-| 281 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
-| 282 | [Divine Knockout](games/d/divine_knockout.md) | 4.64 | 
-| 283 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
-| 284 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 285 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 286 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 287 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 288 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 289 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
-| 290 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
-| 291 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 
+| 280 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
+| 281 | [Coromon](games/c/coromon.md) | 4.64 | 
+| 282 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
+| 283 | [Divine Knockout](games/d/divine_knockout.md) | 4.64 | 
+| 284 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
+| 285 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 286 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 287 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 288 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 289 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
+| 290 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
+| 291 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 292 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.63 | 
 | 293 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 294 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
