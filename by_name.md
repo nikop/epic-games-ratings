@@ -11,7 +11,7 @@
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.48 | 
+| 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.50 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
@@ -58,7 +58,7 @@
 | 56 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 57 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
 | 58 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 
-| 59 | [Aztez](games/a/aztez.md) | 4.50 | 
+| 59 | [Aztez](games/a/aztez.md) | 4.51 | 
 | 60 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 61 | [Backbone](games/b/backbone.md) | 4.41 | 
 | 62 | [Bad North](games/b/bad_north.md) | 4.68 | 
@@ -217,7 +217,7 @@
 | 215 | [Far Cry](games/f/far_cry.md) | 4.38 | 
 | 216 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 217 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 218 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 218 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 219 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
 | 220 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 221 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.40 | 
@@ -302,7 +302,7 @@
 | 300 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 301 | [House Party](games/h/house_party.md) | 4.32 | 
 | 302 | [Hue](games/h/hue.md) | 4.55 | 
-| 303 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
+| 303 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 304 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 305 | [Huntdown](games/h/huntdown.md) | 4.80 | 
 | 306 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
@@ -312,7 +312,7 @@
 | 310 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
 | 311 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
 | 312 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
-| 313 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 313 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
 | 314 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 315 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 316 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
@@ -352,7 +352,7 @@
 | 350 | [Lamentum](games/l/lamentum.md) | 4.36 | 
 | 351 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
 | 352 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 353 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
+| 353 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.18 | 
 | 354 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 
 | 355 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 356 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
@@ -407,7 +407,7 @@
 | 405 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 406 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 407 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
-| 408 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
+| 408 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
 | 409 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 410 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.65 | 
 | 411 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
@@ -445,7 +445,7 @@
 | 443 | [Outlast 2](games/o/outlast_2.md) | 4.77 | 
 | 444 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 445 | [Outward](games/o/outward.md) | 4.54 | 
-| 446 | [Overcooked](games/o/overcooked.md) | 4.69 | 
+| 446 | [Overcooked](games/o/overcooked.md) | 4.68 | 
 | 447 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 448 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 449 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
@@ -531,7 +531,7 @@
 | 529 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 530 | [Saturnalia](games/s/saturnalia.md) | 4.30 | 
 | 531 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 532 | [Scorn](games/s/scorn.md) | 4.45 | 
+| 532 | [Scorn](games/s/scorn.md) | 4.46 | 
 | 533 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
 | 534 | [Scrapnaut](games/s/scrapnaut.md) | 4.38 | 
 | 535 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
@@ -551,7 +551,7 @@
 | 549 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 550 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 551 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 552 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.47 | 
+| 552 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 553 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 554 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 555 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
@@ -589,7 +589,7 @@
 | 587 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 588 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 
 | 589 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 590 | [Steelrising](games/s/steelrising.md) | 4.27 | 
+| 590 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 591 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 592 | [STG Football](games/s/stg_football.md) | 4.58 | 
 | 593 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
@@ -711,7 +711,7 @@
 | 709 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 710 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.98 | 
 | 711 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 712 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 712 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 713 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 714 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
 | 715 | [Transistor](games/t/transistor.md) | 4.61 | 
