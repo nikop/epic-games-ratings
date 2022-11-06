@@ -197,7 +197,7 @@
 | 195 | [ELEX](games/e/elex.md) | 4.37 | 
 | 196 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
 | 197 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 198 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
+| 198 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
 | 199 | [Encased](games/e/encased.md) | 4.41 | 
 | 200 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 201 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
@@ -301,7 +301,7 @@
 | 299 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 300 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 301 | [House Party](games/h/house_party.md) | 4.32 | 
-| 302 | [Hue](games/h/hue.md) | 4.56 | 
+| 302 | [Hue](games/h/hue.md) | 4.55 | 
 | 303 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
 | 304 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 305 | [Huntdown](games/h/huntdown.md) | 4.80 | 
@@ -327,7 +327,7 @@
 | 325 | [Journey](games/j/journey.md) | 4.75 | 
 | 326 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 327 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 328 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 328 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 329 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 330 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 331 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
@@ -477,7 +477,7 @@
 | 475 | [Prey](games/p/prey.md) | 4.61 | 
 | 476 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 477 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 478 | [Quake](games/q/quake.md) | 4.83 | 
+| 478 | [Quake](games/q/quake.md) | 4.81 | 
 | 479 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 480 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 481 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
@@ -736,9 +736,9 @@
 | 734 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 735 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 736 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 737 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.76 | 
+| 737 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.77 | 
 | 738 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 739 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.18 | 
+| 739 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
 | 740 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 741 | [Verdun](games/v/verdun.md) | 4.51 | 
 | 742 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
