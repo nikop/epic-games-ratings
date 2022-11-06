@@ -528,20 +528,20 @@
 | 526 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.46 | 
 | 527 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 528 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 529 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 530 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 531 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
-| 532 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
-| 533 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 534 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 535 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 536 | [Death Coming](games/d/death_coming.md) | 4.45 | 
-| 537 | [Gloomhaven](games/g/gloomhaven.md) | 4.45 | 
-| 538 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
-| 539 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
-| 540 | [Scorn](games/s/scorn.md) | 4.45 | 
-| 541 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 542 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
+| 529 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 530 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 531 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 532 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
+| 533 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
+| 534 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 535 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 536 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
+| 537 | [Death Coming](games/d/death_coming.md) | 4.45 | 
+| 538 | [Gloomhaven](games/g/gloomhaven.md) | 4.45 | 
+| 539 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
+| 540 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
+| 541 | [Scorn](games/s/scorn.md) | 4.45 | 
+| 542 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 543 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 544 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 545 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
@@ -655,12 +655,12 @@
 | 653 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 654 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 655 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
-| 656 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
-| 657 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
-| 658 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
-| 659 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 660 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
-| 661 | [Tacoma](games/t/tacoma.md) | 4.30 | 
+| 656 | [Tacoma](games/t/tacoma.md) | 4.31 | 
+| 657 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
+| 658 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
+| 659 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
+| 660 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 661 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 662 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.30 | 
 | 663 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
 | 664 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 

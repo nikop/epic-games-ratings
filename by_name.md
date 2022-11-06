@@ -619,7 +619,7 @@
 | 617 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 618 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
 | 619 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
-| 620 | [Tacoma](games/t/tacoma.md) | 4.30 | 
+| 620 | [Tacoma](games/t/tacoma.md) | 4.31 | 
 | 621 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
 | 622 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 623 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
@@ -722,7 +722,7 @@
 | 720 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 721 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.62 | 
 | 722 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 723 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
+| 723 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 724 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 725 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
 | 726 | [TUNIC](games/t/tunic.md) | 4.87 | 
