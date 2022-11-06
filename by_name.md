@@ -344,7 +344,7 @@
 | 342 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
 | 343 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
 | 344 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 345 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
+| 345 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
 | 346 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
 | 347 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
 | 348 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.46 | 
@@ -681,7 +681,7 @@
 | 679 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 680 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 681 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
-| 682 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 682 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 683 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 684 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 685 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
