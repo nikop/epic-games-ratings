@@ -541,7 +541,7 @@
 | 539 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
 | 540 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 541 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 542 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
+| 542 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 543 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
 | 544 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 545 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
@@ -681,11 +681,11 @@
 | 679 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 680 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 681 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
-| 682 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
+| 682 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 683 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 684 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 685 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
-| 686 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 686 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 687 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 688 | [Timberborn](games/t/timberborn.md) | 4.70 | 
 | 689 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
@@ -716,7 +716,7 @@
 | 714 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
 | 715 | [Transistor](games/t/transistor.md) | 4.61 | 
 | 716 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 717 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 717 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 718 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
 | 719 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 720 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
