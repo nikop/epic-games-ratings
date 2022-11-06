@@ -43,6 +43,12 @@ namespace EpicRatingsUpdater
 
                 if (f != null)
                 {
+                    // Linux fix
+                    foreach (var kv in f)
+                    {
+                        f[kv.Key] = kv.Value.Replace('\\', '/');
+                    }
+
                     Files = f;
                 }
 
