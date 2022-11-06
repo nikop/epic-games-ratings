@@ -228,7 +228,7 @@
 | 226 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.08 | 
 | 227 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 228 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 229 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 229 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 230 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
 | 231 | [Fez](games/f/fez.md) | 4.72 | 
 | 232 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
@@ -529,7 +529,7 @@
 | 527 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 
 | 528 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 529 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 530 | [Saturnalia](games/s/saturnalia.md) | 4.28 | 
+| 530 | [Saturnalia](games/s/saturnalia.md) | 4.29 | 
 | 531 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 532 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 533 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 

@@ -673,9 +673,9 @@
 | 671 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
 | 672 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
 | 673 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
-| 674 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
-| 675 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 676 | [Saturnalia](games/s/saturnalia.md) | 4.28 | 
+| 674 | [Saturnalia](games/s/saturnalia.md) | 4.29 | 
+| 675 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 676 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 677 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.28 | 
 | 678 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 679 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
@@ -772,7 +772,7 @@
 | 770 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 771 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.95 | 
 | 772 | [Warface](games/w/warface.md) | 3.94 | 
-| 773 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 773 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 774 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.89 | 
 | 775 | [Patron](games/p/patron.md) | 3.89 | 
 | 776 | [Ironcast](games/i/ironcast.md) | 3.88 | 
