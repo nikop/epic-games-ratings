@@ -143,7 +143,7 @@
 | 141 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 142 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 143 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
-| 144 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
+| 144 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
 | 145 | [Dark Deception](games/d/dark_deception.md) | 4.56 | 
 | 146 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
 | 147 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
@@ -363,7 +363,7 @@
 | 361 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
 | 362 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 363 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 364 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.02 | 
+| 364 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.03 | 
 | 365 | [Limbo](games/l/limbo.md) | 4.64 | 
 | 366 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.38 | 
 | 367 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
@@ -442,7 +442,7 @@
 | 440 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 441 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 442 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 443 | [Outlast](games/o/outlast.md) | 4.76 | 
+| 443 | [Outlast](games/o/outlast.md) | 4.74 | 
 | 444 | [Outlast 2](games/o/outlast_2.md) | 4.77 | 
 | 445 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 446 | [Outward](games/o/outward.md) | 4.54 | 
@@ -504,7 +504,7 @@
 | 502 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 503 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 504 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 505 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.55 | 
+| 505 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.54 | 
 | 506 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.87 | 
 | 507 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 508 | [Road 96](games/r/road_96.md) | 4.58 | 
@@ -732,7 +732,7 @@
 | 730 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.79 | 
 | 731 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.39 | 
 | 732 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
-| 733 | [UnMetal](games/u/unmetal.md) | 4.54 | 
+| 733 | [UnMetal](games/u/unmetal.md) | 4.50 | 
 | 734 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.50 | 
 | 735 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 736 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
@@ -759,7 +759,7 @@
 | 757 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
 | 758 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
 | 759 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 760 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
+| 760 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
 | 761 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 762 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.13 | 
 | 763 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
