@@ -36,7 +36,7 @@
 | 34 | [APE OUT](games/a/ape_out.md) | 4.69 | 
 | 35 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
 | 36 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
-| 37 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
+| 37 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 38 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 39 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 40 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
@@ -293,7 +293,7 @@
 | 291 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 292 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 293 | [Hob](games/h/hob.md) | 4.57 | 
-| 294 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.35 | 
+| 294 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.36 | 
 | 295 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 296 | [Horace](games/h/horace.md) | 4.56 | 
 | 297 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -655,7 +655,7 @@
 | 653 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.71 | 
 | 654 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
 | 655 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 656 | [The Medium](games/t/the_medium.md) | 4.52 | 
+| 656 | [The Medium](games/t/the_medium.md) | 4.54 | 
 | 657 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
 | 658 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 659 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
@@ -715,7 +715,7 @@
 | 713 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 714 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
 | 715 | [Transistor](games/t/transistor.md) | 4.61 | 
-| 716 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
+| 716 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 717 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 718 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
 | 719 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
@@ -756,7 +756,7 @@
 | 754 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 755 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 756 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
-| 757 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
+| 757 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
 | 758 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 759 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 760 | [Weird West](games/w/weird_west.md) | 4.45 | 

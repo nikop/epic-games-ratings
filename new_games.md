@@ -3,7 +3,7 @@
 | 1 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 
 | 2 | [Saturnalia](games/s/saturnalia.md) | 4.29 | 
 | 3 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.46 | 
-| 4 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.35 | 
+| 4 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.36 | 
 | 5 | [STG Football](games/s/stg_football.md) | 4.56 | 
 | 6 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.83 | 
 | 7 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
@@ -48,7 +48,7 @@
 | 46 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 47 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 48 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 49 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
+| 49 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
 | 50 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 51 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
 | 52 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
