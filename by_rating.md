@@ -117,46 +117,46 @@
 | 115 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
 | 116 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.76 | 
 | 117 | [Outlast](games/o/outlast.md) | 4.76 | 
-| 118 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 120 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 121 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 122 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
-| 123 | [Northgard](games/n/northgard.md) | 4.75 | 
-| 124 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
-| 125 | [Journey](games/j/journey.md) | 4.75 | 
-| 126 | [Haven](games/h/haven.md) | 4.75 | 
-| 127 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.75 | 
-| 128 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.75 | 
-| 129 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
-| 130 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
-| 131 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 132 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 133 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 134 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 135 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
-| 136 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 137 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
-| 138 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
-| 139 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 140 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 141 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 142 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
-| 143 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
-| 144 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
-| 145 | [Revita](games/r/revita.md) | 4.74 | 
-| 146 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 147 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 148 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
-| 149 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
-| 150 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
-| 151 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
-| 152 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
-| 153 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
-| 154 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.73 | 
-| 155 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
-| 156 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
-| 157 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.73 | 
+| 118 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 
+| 119 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 120 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 121 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 123 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
+| 124 | [Northgard](games/n/northgard.md) | 4.75 | 
+| 125 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
+| 126 | [Journey](games/j/journey.md) | 4.75 | 
+| 127 | [Haven](games/h/haven.md) | 4.75 | 
+| 128 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.75 | 
+| 129 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.75 | 
+| 130 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
+| 131 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
+| 132 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 133 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 134 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 135 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 136 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 137 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 138 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
+| 139 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
+| 140 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 141 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 142 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 143 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
+| 144 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
+| 145 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
+| 146 | [Revita](games/r/revita.md) | 4.74 | 
+| 147 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 148 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 149 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 150 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 151 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 
+| 152 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
+| 153 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
+| 154 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
+| 155 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.73 | 
+| 156 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
+| 157 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
 | 158 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 159 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 160 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
@@ -735,15 +735,15 @@
 | 733 | [Filament](games/f/filament.md) | 4.14 | 
 | 734 | [Pine](games/p/pine.md) | 4.13 | 
 | 735 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
-| 736 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
-| 737 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
-| 738 | [Relicta](games/r/relicta.md) | 4.12 | 
-| 739 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.12 | 
-| 740 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
-| 741 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
-| 742 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
-| 743 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
-| 744 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
+| 736 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.13 | 
+| 737 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
+| 738 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
+| 739 | [Relicta](games/r/relicta.md) | 4.12 | 
+| 740 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.12 | 
+| 741 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
+| 742 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
+| 743 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
+| 744 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
 | 745 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 746 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 747 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 

@@ -520,7 +520,7 @@
 | 518 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 519 | [Runbow](games/r/runbow.md) | 4.44 | 
 | 520 | [Sable](games/s/sable.md) | 4.56 | 
-| 521 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.73 | 
+| 521 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 
 | 522 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 523 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 524 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
@@ -760,7 +760,7 @@
 | 758 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 759 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 760 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 761 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
+| 761 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.13 | 
 | 762 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
 | 763 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
 | 764 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
