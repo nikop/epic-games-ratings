@@ -284,7 +284,7 @@
 | 282 | [Haven](games/h/haven.md) | 4.75 | 
 | 283 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
 | 284 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.67 | 
-| 285 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 285 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 286 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
 | 287 | [Hellpoint](games/h/hellpoint.md) | 4.17 | 
 | 288 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
@@ -356,7 +356,7 @@
 | 354 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 355 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 356 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
-| 357 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 
+| 357 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 358 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 359 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
 | 360 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
@@ -714,7 +714,7 @@
 | 712 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
 | 713 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 714 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
-| 715 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 715 | [Transistor](games/t/transistor.md) | 4.61 | 
 | 716 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 717 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 718 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 

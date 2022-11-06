@@ -247,18 +247,18 @@
 | 245 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 246 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 247 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
-| 248 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 
-| 249 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
-| 250 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
-| 251 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
-| 252 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
-| 253 | [Eastward](games/e/eastward.md) | 4.66 | 
-| 254 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 255 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 256 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 257 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 258 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 259 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 248 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
+| 249 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
+| 250 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
+| 251 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
+| 252 | [Eastward](games/e/eastward.md) | 4.66 | 
+| 253 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 254 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 255 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 256 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 257 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 258 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 259 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 260 | [Death's Door](games/d/death's_door.md) | 4.65 | 
 | 261 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
 | 262 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
@@ -297,25 +297,25 @@
 | 295 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
 | 296 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 297 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
-| 298 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 299 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.62 | 
-| 300 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
-| 301 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
-| 302 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 303 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 304 | [Prey](games/p/prey.md) | 4.61 | 
-| 305 | [Warframe](games/w/warframe.md) | 4.61 | 
-| 306 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 307 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 308 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 309 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
-| 310 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 311 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 312 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 313 | [20XX](games/2/20xx.md) | 4.61 | 
-| 314 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 315 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
-| 316 | [ABZU](games/a/abzu.md) | 4.61 | 
+| 298 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.62 | 
+| 299 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
+| 300 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
+| 301 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 302 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 303 | [Prey](games/p/prey.md) | 4.61 | 
+| 304 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 305 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 306 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 307 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 308 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 309 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 310 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 311 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 312 | [20XX](games/2/20xx.md) | 4.61 | 
+| 313 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 314 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
+| 315 | [ABZU](games/a/abzu.md) | 4.61 | 
+| 316 | [Transistor](games/t/transistor.md) | 4.61 | 
 | 317 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
 | 318 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
 | 319 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
@@ -424,17 +424,17 @@
 | 422 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 423 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 424 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 425 | [Outward](games/o/outward.md) | 4.54 | 
-| 426 | [RUINER](games/r/ruiner.md) | 4.54 | 
-| 427 | [Minit](games/m/minit.md) | 4.54 | 
-| 428 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
-| 429 | [UnMetal](games/u/unmetal.md) | 4.54 | 
-| 430 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 431 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 432 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 433 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 434 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 435 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 425 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 426 | [Outward](games/o/outward.md) | 4.54 | 
+| 427 | [RUINER](games/r/ruiner.md) | 4.54 | 
+| 428 | [Minit](games/m/minit.md) | 4.54 | 
+| 429 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
+| 430 | [UnMetal](games/u/unmetal.md) | 4.54 | 
+| 431 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 432 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 433 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 434 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
+| 435 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 436 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 437 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 438 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
