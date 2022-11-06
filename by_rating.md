@@ -296,24 +296,24 @@
 | 294 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 295 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
 | 296 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 297 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
-| 298 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.62 | 
-| 299 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
-| 300 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
-| 301 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 302 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 303 | [Prey](games/p/prey.md) | 4.61 | 
-| 304 | [Warframe](games/w/warframe.md) | 4.61 | 
-| 305 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 306 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 307 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 308 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
-| 309 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 310 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 311 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 312 | [20XX](games/2/20xx.md) | 4.61 | 
-| 313 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 314 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
+| 297 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
+| 298 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 299 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.62 | 
+| 300 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
+| 301 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
+| 302 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 303 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 304 | [Prey](games/p/prey.md) | 4.61 | 
+| 305 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 306 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 307 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 308 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 309 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 310 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 311 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 312 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 313 | [20XX](games/2/20xx.md) | 4.61 | 
+| 314 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 315 | [ABZU](games/a/abzu.md) | 4.61 | 
 | 316 | [Transistor](games/t/transistor.md) | 4.61 | 
 | 317 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
