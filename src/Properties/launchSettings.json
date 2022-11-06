@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "epic-ratings-updater": {
+      "commandName": "Project",
+      "workingDirectory": "$(SolutionDir)/../"
+    }
+  }
+}

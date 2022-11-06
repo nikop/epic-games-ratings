@@ -2,7 +2,9 @@
 	path = items-tracker
 	url = https://github.com/nachoaldamav/items-tracker.git
 	branch = main
+	shallow = true
 [submodule "offers-tracker"]
 	path = offers-tracker
 	url = https://github.com/nachoaldamav/offers-tracker.git
 	branch = main
+	shallow = true

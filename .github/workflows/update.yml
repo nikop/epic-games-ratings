@@ -1,0 +1,21 @@
+name: Update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '50 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+    - name: Checkout submodules
+      run: git submodule init
+    - name: Setup dotnet
+      uses: actions/setup-dotnet@v3
+    - name: Git Config
+      run: git config user.name rebuild-bot && git config user.email 117409949+rebuild-bot@users.noreply.github.com
+    - name: Run Updater
+      run: ./update.sh
