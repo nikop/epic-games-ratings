@@ -410,16 +410,16 @@
 | 408 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
 | 409 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
 | 410 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.56 | 
-| 411 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 412 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 413 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 414 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 415 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 416 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 
-| 417 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
-| 418 | [Warpips](games/w/warpips.md) | 4.55 | 
-| 419 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 420 | [STG Football](games/s/stg_football.md) | 4.55 | 
+| 411 | [STG Football](games/s/stg_football.md) | 4.56 | 
+| 412 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 413 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 414 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 415 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
+| 416 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 417 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 
+| 418 | [Dark Deception](games/d/dark_deception.md) | 4.55 | 
+| 419 | [Warpips](games/w/warpips.md) | 4.55 | 
+| 420 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 421 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 422 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 423 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
