@@ -236,18 +236,18 @@
 | 234 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
 | 235 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 236 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.67 | 
-| 237 | [SOMA](games/s/soma.md) | 4.67 | 
-| 238 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.67 | 
-| 239 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
-| 240 | [CARRION](games/c/carrion.md) | 4.67 | 
-| 241 | [Operation: Tango](games/o/operation__tango.md) | 4.67 | 
-| 242 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
-| 243 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
-| 244 | [SpiderHeck](games/s/spiderheck.md) | 4.67 | 
-| 245 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 246 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 247 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 248 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
+| 237 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.67 | 
+| 238 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
+| 239 | [CARRION](games/c/carrion.md) | 4.67 | 
+| 240 | [Operation: Tango](games/o/operation__tango.md) | 4.67 | 
+| 241 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
+| 242 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
+| 243 | [SpiderHeck](games/s/spiderheck.md) | 4.67 | 
+| 244 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 245 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 246 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 247 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
+| 248 | [SOMA](games/s/soma.md) | 4.66 | 
 | 249 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
 | 250 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
 | 251 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
@@ -528,20 +528,20 @@
 | 526 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.46 | 
 | 527 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 528 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 529 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 530 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 531 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 532 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
-| 533 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
-| 534 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 535 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 536 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 537 | [Death Coming](games/d/death_coming.md) | 4.45 | 
-| 538 | [Gloomhaven](games/g/gloomhaven.md) | 4.45 | 
-| 539 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
-| 540 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
-| 541 | [Scorn](games/s/scorn.md) | 4.45 | 
-| 542 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 529 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 530 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 531 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
+| 532 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
+| 533 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 534 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 535 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
+| 536 | [Death Coming](games/d/death_coming.md) | 4.45 | 
+| 537 | [Gloomhaven](games/g/gloomhaven.md) | 4.45 | 
+| 538 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
+| 539 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
+| 540 | [Scorn](games/s/scorn.md) | 4.45 | 
+| 541 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 542 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
 | 543 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 544 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 545 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 

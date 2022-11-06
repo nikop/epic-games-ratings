@@ -562,7 +562,7 @@
 | 560 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 561 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
 | 562 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 563 | [SOMA](games/s/soma.md) | 4.67 | 
+| 563 | [SOMA](games/s/soma.md) | 4.66 | 
 | 564 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 565 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
 | 566 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
@@ -722,7 +722,7 @@
 | 720 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 721 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.62 | 
 | 722 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 723 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 723 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
 | 724 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 725 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
 | 726 | [TUNIC](games/t/tunic.md) | 4.87 | 
