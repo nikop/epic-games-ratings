@@ -136,7 +136,7 @@
 | 134 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
 | 135 | [CryoFall](games/c/cryofall.md) | 4.48 | 
 | 136 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 137 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
+| 137 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.67 | 
 | 138 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
 | 139 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 140 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
@@ -591,7 +591,7 @@
 | 589 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 590 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 591 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 592 | [STG Football](games/s/stg_football.md) | 4.56 | 
+| 592 | [STG Football](games/s/stg_football.md) | 4.58 | 
 | 593 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 594 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 595 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
@@ -772,7 +772,7 @@
 | 770 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 771 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 772 | [World of Goo](games/w/world_of_goo.md) | 4.76 | 
-| 773 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
+| 773 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 774 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
 | 775 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 776 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
