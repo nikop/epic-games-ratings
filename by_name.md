@@ -139,7 +139,7 @@
 | 137 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
 | 138 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
 | 139 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 140 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 
+| 140 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 141 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 143 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
@@ -253,7 +253,7 @@
 | 251 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.37 | 
 | 252 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 253 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 254 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.80 | 
+| 254 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.76 | 
 | 255 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
 | 256 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
 | 257 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
@@ -560,7 +560,7 @@
 | 558 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
 | 559 | [SMITE](games/s/smite.md) | 4.46 | 
 | 560 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 561 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
+| 561 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
 | 562 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 563 | [SOMA](games/s/soma.md) | 4.67 | 
 | 564 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
@@ -644,7 +644,7 @@
 | 642 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 643 | [The Fall](games/t/the_fall.md) | 4.25 | 
 | 644 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
-| 645 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
+| 645 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.73 | 
 | 646 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
 | 647 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.95 | 
 | 648 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
@@ -767,7 +767,7 @@
 | 765 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 766 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 767 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 768 | [Windbound](games/w/windbound.md) | 4.17 | 
+| 768 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 769 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 770 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 771 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
