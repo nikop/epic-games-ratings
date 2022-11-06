@@ -1,10 +1,10 @@
 {
   "ID": "2d831f372e6343cc85cceda5c9c808cf",
   "Name": "Haven",
-  "Rating": 4.74,
+  "Rating": 4.75,
   "NumberOfRatings": 38,
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
-  "LastChanged": "2022-10-26T23:30:49.3433871+00:00",
+  "LastChanged": "2022-11-06T00:00:47.9681876+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:00.7905866+00:00",
@@ -109,6 +109,11 @@
     {
       "Time": "2022-10-26T23:30:49.3433874+00:00",
       "Rating": 4.74,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T00:00:47.9681878+00:00",
+      "Rating": 4.75,
       "NumberOfRatings": null
     }
   ],

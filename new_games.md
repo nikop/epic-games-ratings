@@ -2,7 +2,7 @@
 | --- | ---- | ------ | 
 | 1 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.73 | 
 | 2 | [Saturnalia](games/s/saturnalia.md) | 4.28 | 
-| 3 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
+| 3 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.46 | 
 | 4 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.34 | 
 | 5 | [STG Football](games/s/stg_football.md) | 4.55 | 
 | 6 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.83 | 
@@ -25,7 +25,7 @@
 | 23 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
 | 24 | [Outlast](games/o/outlast.md) | 4.76 | 
 | 25 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
-| 26 | [Runbow](games/r/runbow.md) | 4.43 | 
+| 26 | [Runbow](games/r/runbow.md) | 4.44 | 
 | 27 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 28 | [SpiderHeck](games/s/spiderheck.md) | 4.67 | 
 | 29 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 

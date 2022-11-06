@@ -281,7 +281,7 @@
 | 279 | [Hammerting](games/h/hammerting.md) | 4.42 | 
 | 280 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 281 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.70 | 
-| 282 | [Haven](games/h/haven.md) | 4.74 | 
+| 282 | [Haven](games/h/haven.md) | 4.75 | 
 | 283 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
 | 284 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.67 | 
 | 285 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
@@ -434,7 +434,7 @@
 | 432 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.27 | 
 | 433 | [Old World](games/o/old_world.md) | 4.64 | 
 | 434 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 435 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
+| 435 | [Operation: Tango](games/o/operation__tango.md) | 4.67 | 
 | 436 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.21 | 
 | 437 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 
 | 438 | [Othercide](games/o/othercide.md) | 4.33 | 
@@ -518,7 +518,7 @@
 | 516 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
 | 517 | [RUINER](games/r/ruiner.md) | 4.54 | 
 | 518 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 519 | [Runbow](games/r/runbow.md) | 4.43 | 
+| 519 | [Runbow](games/r/runbow.md) | 4.44 | 
 | 520 | [Sable](games/s/sable.md) | 4.56 | 
 | 521 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.73 | 
 | 522 | [Saints Row](games/s/saints_row.md) | 3.78 | 
@@ -551,7 +551,7 @@
 | 549 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 550 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 551 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 552 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
+| 552 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.46 | 
 | 553 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 554 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 555 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 

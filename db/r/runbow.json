@@ -1,10 +1,10 @@
 {
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
-  "Rating": 4.43,
+  "Rating": 4.44,
   "FirstSeen": "2022-09-29T18:01:57.9994365+00:00",
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
-  "LastChanged": "2022-10-27T09:01:18.0103674+00:00",
+  "LastChanged": "2022-11-06T00:01:13.997776+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-01T13:01:20.7436539+00:00",
@@ -174,6 +174,11 @@
     {
       "Time": "2022-10-27T09:01:18.0103677+00:00",
       "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T00:01:13.9977762+00:00",
+      "Rating": 4.44,
       "NumberOfRatings": null
     }
   ],
