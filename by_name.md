@@ -234,7 +234,7 @@
 | 232 | [Fez](games/f/fez.md) | 4.72 | 
 | 233 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
 | 234 | [Figment](games/f/figment.md) | 4.43 | 
-| 235 | [Filament](games/f/filament.md) | 4.13 | 
+| 235 | [Filament](games/f/filament.md) | 4.14 | 
 | 236 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 237 | [Firework](games/f/firework.md) | 4.88 | 
 | 238 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
@@ -413,7 +413,7 @@
 | 411 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.65 | 
 | 412 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 413 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 414 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
+| 414 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 415 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 416 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.06 | 
 | 417 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
