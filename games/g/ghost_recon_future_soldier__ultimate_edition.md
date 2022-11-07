@@ -1,5 +1,5 @@
 # Ghost Recon Future Soldier: Ultimate Edition
-Rating: 4.75 (23)  (as of 23.09.2022)  
+Rating: 4.73 (23)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,4 +12,4 @@ Rating: 4.75 (23)  (as of 23.09.2022)
 | 2022-10-08 | 4.79 | - |
 | 2022-11-05 | 4.80 | - |
 | 2022-11-06 | 4.76 | - |
-| 2022-11-07 | 4.75 | - |
+| 2022-11-07 | 4.73 | - |

@@ -191,7 +191,7 @@
 | 189 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 190 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 191 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 192 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 
+| 192 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.25 | 
 | 193 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 194 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 195 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.48 | 
@@ -254,7 +254,7 @@
 | 252 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 253 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 254 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 255 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.75 | 
+| 255 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.73 | 
 | 256 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
 | 257 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
 | 258 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
@@ -306,7 +306,7 @@
 | 304 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 305 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 306 | [Huntdown](games/h/huntdown.md) | 4.80 | 
-| 307 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
+| 307 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
 | 308 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
 | 309 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
 | 310 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
@@ -776,7 +776,7 @@
 | 774 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 775 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 776 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 777 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
+| 777 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 778 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
 | 779 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 780 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 

@@ -1,5 +1,5 @@
 # EA SPORTS™ FIFA 23 Standard Edition
-Rating: 4.24 (-)  (as of 23.09.2022)  
+Rating: 4.25 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -29,3 +29,4 @@ Rating: 4.24 (-)  (as of 23.09.2022)
 | 2022-11-02 | 4.28 | - |
 | 2022-11-03 | 4.27 | - |
 | 2022-11-05 | 4.24 | - |
+| 2022-11-07 | 4.25 | - |
