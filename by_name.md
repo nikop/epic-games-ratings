@@ -47,8 +47,8 @@
 | 45 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 46 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 47 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 48 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
-| 49 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.45 | 
+| 48 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 49 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
 | 50 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 51 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 52 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.57 | 
@@ -77,7 +77,7 @@
 | 75 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
 | 76 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
 | 77 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
-| 78 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
+| 78 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
 | 79 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 80 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 81 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
@@ -96,7 +96,7 @@
 | 94 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
 | 95 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 96 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
-| 97 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
+| 97 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
 | 98 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 99 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.06 | 
 | 100 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
@@ -177,7 +177,7 @@
 | 175 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 176 | [Diabotical](games/d/diabotical.md) | 4.78 | 
 | 177 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 
-| 178 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.39 | 
+| 178 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.40 | 
 | 179 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 180 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 181 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
@@ -265,7 +265,7 @@
 | 263 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
 | 264 | [Godfall](games/g/godfall.md) | 4.05 | 
 | 265 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
-| 266 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.89 | 
+| 266 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.90 | 
 | 267 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 268 | [Gone Home](games/g/gone_home.md) | 4.19 | 
 | 269 | [Good Company](games/g/good_company.md) | 4.42 | 
@@ -536,7 +536,7 @@
 | 534 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
 | 535 | [Scrapnaut](games/s/scrapnaut.md) | 4.38 | 
 | 536 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
-| 537 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.60 | 
+| 537 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 538 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 539 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.83 | 
 | 540 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
@@ -599,7 +599,7 @@
 | 597 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 598 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 599 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
-| 600 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
+| 600 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
 | 601 | [Submerged](games/s/submerged.md) | 4.07 | 
 | 602 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 603 | [Subnautica](games/s/subnautica.md) | 4.84 | 
@@ -685,7 +685,7 @@
 | 683 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 684 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 685 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
-| 686 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 686 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 687 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 688 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 689 | [Timberborn](games/t/timberborn.md) | 4.70 | 
