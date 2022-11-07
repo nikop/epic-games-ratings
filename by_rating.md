@@ -73,16 +73,16 @@
 | 71 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 72 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 73 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 74 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 75 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 76 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 77 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
-| 78 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 79 | [Huntdown](games/h/huntdown.md) | 4.80 | 
-| 80 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.80 | 
-| 81 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 82 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 83 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
+| 74 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
+| 75 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 76 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 77 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
+| 78 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
+| 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 80 | [Huntdown](games/h/huntdown.md) | 4.80 | 
+| 81 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.80 | 
+| 82 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 83 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 84 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 85 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 86 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
@@ -688,10 +688,10 @@
 | 686 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
 | 687 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 688 | [The Fall](games/t/the_fall.md) | 4.26 | 
-| 689 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
-| 690 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
-| 691 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 692 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.25 | 
+| 689 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 
+| 690 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 691 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
+| 692 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 693 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 694 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 695 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
