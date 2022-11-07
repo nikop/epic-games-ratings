@@ -184,7 +184,7 @@
 | 182 | [Divine Knockout](games/d/divine_knockout.md) | 4.64 | 
 | 183 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
 | 184 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
-| 185 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
+| 185 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
 | 186 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 187 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
 | 188 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
@@ -267,7 +267,7 @@
 | 265 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
 | 266 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.89 | 
 | 267 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 268 | [Gone Home](games/g/gone_home.md) | 4.17 | 
+| 268 | [Gone Home](games/g/gone_home.md) | 4.19 | 
 | 269 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 270 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 271 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
@@ -292,7 +292,7 @@
 | 290 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 291 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 292 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 293 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 293 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 294 | [Hob](games/h/hob.md) | 4.57 | 
 | 295 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.36 | 
 | 296 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
@@ -332,7 +332,7 @@
 | 330 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 331 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 332 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 333 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 
+| 333 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 334 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 335 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 
 | 336 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
@@ -462,7 +462,7 @@
 | 460 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 461 | [Patron](games/p/patron.md) | 3.89 | 
 | 462 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 463 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
+| 463 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 464 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 465 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 466 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
@@ -721,7 +721,7 @@
 | 719 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
 | 720 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 721 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 722 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.62 | 
+| 722 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
 | 723 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
 | 724 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 725 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
