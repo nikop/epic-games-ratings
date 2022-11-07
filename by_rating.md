@@ -574,16 +574,16 @@
 | 572 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 573 | [Chorus](games/c/chorus.md) | 4.42 | 
 | 574 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.42 | 
-| 575 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 576 | [Hammerting](games/h/hammerting.md) | 4.42 | 
-| 577 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 578 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 579 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
-| 580 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
-| 581 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
-| 582 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 583 | [Encased](games/e/encased.md) | 4.41 | 
-| 584 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 575 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.42 | 
+| 576 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 577 | [Hammerting](games/h/hammerting.md) | 4.42 | 
+| 578 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 579 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
+| 580 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
+| 581 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
+| 582 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
+| 583 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 584 | [Encased](games/e/encased.md) | 4.41 | 
 | 585 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 586 | [Backbone](games/b/backbone.md) | 4.41 | 
 | 587 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
@@ -758,16 +758,16 @@
 | 756 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.06 | 
 | 757 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 758 | [Godfall](games/g/godfall.md) | 4.05 | 
-| 759 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
-| 760 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 
-| 761 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.03 | 
-| 762 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
+| 759 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
+| 760 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
+| 761 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 
+| 762 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.03 | 
 | 763 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 764 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 765 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 766 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 767 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.98 | 
-| 768 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
+| 767 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
+| 768 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.98 | 
 | 769 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 
 | 770 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
 | 771 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
