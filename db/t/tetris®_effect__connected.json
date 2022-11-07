@@ -1,10 +1,10 @@
 {
   "ID": "76339caf9e8e4d24b62761c736e82b42",
   "Name": "Tetris\u00AE Effect: Connected",
-  "Rating": 4.86,
+  "Rating": 4.85,
   "NumberOfRatings": 272,
   "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
-  "LastChanged": "2022-11-01T15:01:09.9059484+00:00",
+  "LastChanged": "2022-11-07T02:49:11.0037881+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:49.1950133+00:00",
@@ -375,6 +375,11 @@
       "Time": "2022-11-01T15:01:09.9059486+00:00",
       "Rating": 4.86,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T02:49:11.0037886+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -392,7 +397,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Obsessive Gameplay",
