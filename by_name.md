@@ -348,7 +348,7 @@
 | 346 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
 | 347 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
 | 348 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
-| 349 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.46 | 
+| 349 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.44 | 
 | 350 | [Lake](games/l/lake.md) | 4.08 | 
 | 351 | [Lamentum](games/l/lamentum.md) | 4.36 | 
 | 352 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
@@ -512,7 +512,7 @@
 | 510 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 511 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 512 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 513 | [Rogue Lords](games/r/rogue_lords.md) | 4.68 | 
+| 513 | [Rogue Lords](games/r/rogue_lords.md) | 4.69 | 
 | 514 | [Roguebook](games/r/roguebook.md) | 4.61 | 
 | 515 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 516 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
@@ -621,7 +621,7 @@
 | 619 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
 | 620 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 621 | [Tacoma](games/t/tacoma.md) | 4.32 | 
-| 622 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
+| 622 | [Tails of Iron](games/t/tails_of_iron.md) | 4.72 | 
 | 623 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 624 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
 | 625 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
@@ -643,7 +643,7 @@
 | 641 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
 | 642 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 643 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
-| 644 | [The Fall](games/t/the_fall.md) | 4.25 | 
+| 644 | [The Fall](games/t/the_fall.md) | 4.26 | 
 | 645 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
 | 646 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.73 | 
 | 647 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
