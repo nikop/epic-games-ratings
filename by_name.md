@@ -186,7 +186,7 @@
 | 184 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 185 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
 | 186 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 187 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
+| 187 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
 | 188 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 189 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 190 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
@@ -386,7 +386,7 @@
 | 384 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
 | 385 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 386 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 387 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 387 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 388 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 389 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 390 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
@@ -761,7 +761,7 @@
 | 759 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 760 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
 | 761 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 762 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.13 | 
+| 762 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
 | 763 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
 | 764 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
 | 765 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 

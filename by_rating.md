@@ -61,13 +61,13 @@
 | 59 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
 | 60 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 61 | [Grindstone](games/g/grindstone.md) | 4.82 | 
-| 62 | [DOOM II](games/d/doom_ii.md) | 4.82 | 
-| 63 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 64 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 65 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 66 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 67 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
-| 68 | [Quake](games/q/quake.md) | 4.81 | 
+| 62 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 63 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 64 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
+| 65 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 66 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
+| 67 | [Quake](games/q/quake.md) | 4.81 | 
+| 68 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
 | 69 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 70 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 71 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
@@ -127,26 +127,26 @@
 | 125 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.75 | 
 | 126 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.75 | 
 | 127 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
-| 128 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 129 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 130 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 131 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 132 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
-| 133 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
-| 134 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 135 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
-| 136 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 137 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
-| 138 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 139 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
-| 140 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
-| 141 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
-| 142 | [Revita](games/r/revita.md) | 4.74 | 
-| 143 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.74 | 
-| 144 | [Outlast](games/o/outlast.md) | 4.74 | 
-| 145 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 146 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 147 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 128 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
+| 129 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 130 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 131 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 132 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 133 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
+| 134 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
+| 135 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 136 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
+| 137 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 138 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
+| 139 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 140 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
+| 141 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
+| 142 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
+| 143 | [Revita](games/r/revita.md) | 4.74 | 
+| 144 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.74 | 
+| 145 | [Outlast](games/o/outlast.md) | 4.74 | 
+| 146 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 147 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 148 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 149 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 150 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
@@ -734,12 +734,12 @@
 | 732 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
 | 733 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 734 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
-| 735 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.13 | 
-| 736 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
-| 737 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
-| 738 | [Filament](games/f/filament.md) | 4.13 | 
-| 739 | [Relicta](games/r/relicta.md) | 4.12 | 
-| 740 | [Obduction](games/o/obduction.md) | 4.12 | 
+| 735 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
+| 736 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
+| 737 | [Filament](games/f/filament.md) | 4.13 | 
+| 738 | [Relicta](games/r/relicta.md) | 4.12 | 
+| 739 | [Obduction](games/o/obduction.md) | 4.12 | 
+| 740 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
 | 741 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.12 | 
 | 742 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 743 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
