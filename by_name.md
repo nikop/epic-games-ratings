@@ -119,7 +119,7 @@
 | 117 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 118 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 
 | 119 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 120 | [Conarium](games/c/conarium.md) | 3.85 | 
+| 120 | [Conarium](games/c/conarium.md) | 3.87 | 
 | 121 | [Control](games/c/control.md) | 4.60 | 
 | 122 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
 | 123 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
@@ -251,7 +251,7 @@
 | 249 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.22 | 
 | 250 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 251 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 252 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
+| 252 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.37 | 
 | 253 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 254 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 255 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.73 | 
@@ -474,7 +474,7 @@
 | 472 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 473 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 474 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 475 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
+| 475 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 476 | [Prey](games/p/prey.md) | 4.61 | 
 | 477 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 478 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.42 | 
@@ -541,14 +541,14 @@
 | 539 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.83 | 
 | 540 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
 | 541 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
-| 542 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 542 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 543 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 544 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
 | 545 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 546 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
 | 547 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 548 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
-| 549 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.41 | 
+| 549 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.40 | 
 | 550 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 551 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 552 | [Sifu](games/s/sifu.md) | 4.80 | 
@@ -699,7 +699,7 @@
 | 697 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
 | 698 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 699 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
-| 700 | [Torchlight](games/t/torchlight.md) | 4.39 | 
+| 700 | [Torchlight](games/t/torchlight.md) | 4.38 | 
 | 701 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 702 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 703 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
