@@ -32,7 +32,7 @@
 | 30 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 31 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
 | 32 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
-| 33 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.50 | 
+| 33 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 34 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
 | 35 | [APE OUT](games/a/ape_out.md) | 4.69 | 
 | 36 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
@@ -83,7 +83,7 @@
 | 81 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 82 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 83 | [Black Book](games/b/black_book.md) | 4.87 | 
-| 84 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.30 | 
+| 84 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.29 | 
 | 85 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 86 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 87 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
@@ -94,7 +94,7 @@
 | 92 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 93 | [Breathedge](games/b/breathedge.md) | 4.58 | 
 | 94 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
-| 95 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
+| 95 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 96 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 97 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
 | 98 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
@@ -131,7 +131,7 @@
 | 129 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 130 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 131 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 132 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
+| 132 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
 | 133 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
 | 134 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
 | 135 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
@@ -234,7 +234,7 @@
 | 232 | [Fez](games/f/fez.md) | 4.72 | 
 | 233 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
 | 234 | [Figment](games/f/figment.md) | 4.43 | 
-| 235 | [Filament](games/f/filament.md) | 4.18 | 
+| 235 | [Filament](games/f/filament.md) | 4.15 | 
 | 236 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 237 | [Firework](games/f/firework.md) | 4.88 | 
 | 238 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
@@ -247,7 +247,7 @@
 | 245 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 246 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 247 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 248 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 248 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 249 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.22 | 
 | 250 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 251 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
@@ -313,7 +313,7 @@
 | 311 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
 | 312 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
 | 313 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
-| 314 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
+| 314 | [Industries of Titan](games/i/industries_of_titan.md) | 4.52 | 
 | 315 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 316 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 317 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
@@ -353,7 +353,7 @@
 | 351 | [Lamentum](games/l/lamentum.md) | 4.36 | 
 | 352 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
 | 353 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 354 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.18 | 
+| 354 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
 | 355 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 
 | 356 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 357 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
@@ -415,7 +415,7 @@
 | 413 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 414 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 415 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 416 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.06 | 
+| 416 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
 | 417 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 418 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 419 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -436,7 +436,7 @@
 | 434 | [Old World](games/o/old_world.md) | 4.64 | 
 | 435 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 436 | [Operation: Tango](games/o/operation__tango.md) | 4.67 | 
-| 437 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.21 | 
+| 437 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.23 | 
 | 438 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 
 | 439 | [Othercide](games/o/othercide.md) | 4.33 | 
 | 440 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
@@ -776,7 +776,7 @@
 | 774 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 775 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
 | 776 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 777 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
+| 777 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 778 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
 | 779 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 780 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
