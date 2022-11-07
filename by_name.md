@@ -74,7 +74,7 @@
 | 72 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 73 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 74 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
-| 75 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
+| 75 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
 | 76 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
 | 77 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
 | 78 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.66 | 
@@ -165,7 +165,7 @@
 | 163 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 164 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 165 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 166 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.57 | 
+| 166 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.56 | 
 | 167 | [Democracy 4](games/d/democracy_4.md) | 4.29 | 
 | 168 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
 | 169 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.59 | 
@@ -651,7 +651,7 @@
 | 649 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 650 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
 | 651 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
-| 652 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.46 | 
+| 652 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
 | 653 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
 | 654 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.72 | 
 | 655 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
@@ -695,7 +695,7 @@
 | 693 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.28 | 
 | 694 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 695 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.38 | 
-| 696 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
+| 696 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
 | 697 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
 | 698 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 699 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 

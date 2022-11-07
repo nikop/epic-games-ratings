@@ -1,8 +1,9 @@
 # Bear and Breakfast
-Rating: 4.73 (-)  (as of 23.09.2022)  
+Rating: 4.74 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
 | 2022-10-22 | 4.80 | - |
 | 2022-10-26 | 4.81 | - |
 | 2022-11-06 | 4.73 | - |
+| 2022-11-07 | 4.74 | - |
