@@ -143,7 +143,7 @@
 | 141 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 142 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 143 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
-| 144 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.60 | 
+| 144 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
 | 145 | [Dark Deception](games/d/dark_deception.md) | 4.56 | 
 | 146 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
 | 147 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
@@ -442,7 +442,7 @@
 | 440 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 441 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 442 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 443 | [Outlast](games/o/outlast.md) | 4.74 | 
+| 443 | [Outlast](games/o/outlast.md) | 4.75 | 
 | 444 | [Outlast 2](games/o/outlast_2.md) | 4.77 | 
 | 445 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 446 | [Outward](games/o/outward.md) | 4.54 | 
@@ -592,7 +592,7 @@
 | 590 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 591 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 592 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 593 | [STG Football](games/s/stg_football.md) | 4.57 | 
+| 593 | [STG Football](games/s/stg_football.md) | 4.58 | 
 | 594 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 595 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 596 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
@@ -759,7 +759,7 @@
 | 757 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
 | 758 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
 | 759 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 760 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
+| 760 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 761 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 762 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
 | 763 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 

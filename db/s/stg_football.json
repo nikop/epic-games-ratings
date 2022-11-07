@@ -1,10 +1,10 @@
 {
   "ID": "5c30028c7a144f91b4a6ee4011bea27b",
   "Name": "STG Football",
-  "Rating": 4.57,
+  "Rating": 4.58,
   "FirstSeen": "2022-10-25T20:04:22.7982366+00:00",
   "FirstSeenRating": "2022-10-28T23:02:10.4160395+00:00",
-  "LastChanged": "2022-11-07T02:49:46.7735919+00:00",
+  "LastChanged": "2022-11-07T23:57:55.09757+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-28T23:02:10.4160399+00:00",
@@ -74,6 +74,11 @@
     {
       "Time": "2022-11-07T02:49:46.773592+00:00",
       "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T23:57:55.0975704+00:00",
+      "Rating": 4.58,
       "NumberOfRatings": null
     }
   ],
