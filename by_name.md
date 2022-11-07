@@ -150,7 +150,7 @@
 | 148 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 149 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
 | 150 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 151 | [Darksiders III](games/d/darksiders_iii.md) | 4.45 | 
+| 151 | [Darksiders III](games/d/darksiders_iii.md) | 4.46 | 
 | 152 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
 | 153 | [Darkwood](games/d/darkwood.md) | 4.60 | 
 | 154 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
@@ -222,7 +222,7 @@
 | 220 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
 | 221 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 222 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.40 | 
-| 223 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.67 | 
+| 223 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.68 | 
 | 224 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
 | 225 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
 | 226 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.75 | 
@@ -257,12 +257,12 @@
 | 255 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.73 | 
 | 256 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
 | 257 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
-| 258 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 258 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
 | 259 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 260 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 261 | [Gloomhaven](games/g/gloomhaven.md) | 4.45 | 
 | 262 | [God of War](games/g/god_of_war.md) | 4.89 | 
-| 263 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
+| 263 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
 | 264 | [Godfall](games/g/godfall.md) | 4.05 | 
 | 265 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
 | 266 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.89 | 
@@ -322,7 +322,7 @@
 | 320 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 321 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 322 | [Ironcast](games/i/ironcast.md) | 3.88 | 
-| 323 | [Isonzo](games/i/isonzo.md) | 4.56 | 
+| 323 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 324 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 325 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
 | 326 | [Journey](games/j/journey.md) | 4.75 | 
@@ -692,7 +692,7 @@
 | 690 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 691 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 692 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
-| 693 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.28 | 
+| 693 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.29 | 
 | 694 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 695 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.38 | 
 | 696 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
@@ -774,7 +774,7 @@
 | 772 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 773 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 774 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
-| 775 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 775 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
 | 776 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 777 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 778 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
