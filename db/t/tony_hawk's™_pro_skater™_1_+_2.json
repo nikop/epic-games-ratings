@@ -1,10 +1,10 @@
 {
   "ID": "deab864e1abf4357b303bcd5ff6fe8da",
   "Name": "Tony Hawk\u0027s\u2122 Pro Skater\u2122 1 \u002B 2",
-  "Rating": 4.82,
+  "Rating": 4.83,
   "NumberOfRatings": 1298,
   "FirstSeen": "2022-07-22T20:20:55.4170175+00:00",
-  "LastChanged": "2022-11-07T02:49:23.000077+00:00",
+  "LastChanged": "2022-11-07T18:57:23.2499226+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:55.4170178+00:00",
@@ -1069,6 +1069,11 @@
     {
       "Time": "2022-11-07T02:49:23.0000772+00:00",
       "Rating": 4.82,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T18:57:23.2499228+00:00",
+      "Rating": 4.83,
       "NumberOfRatings": null
     }
   ],

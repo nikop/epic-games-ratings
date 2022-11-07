@@ -29,7 +29,7 @@
 | 27 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 28 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 29 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 30 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 30 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 31 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
 | 32 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 33 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.50 | 
@@ -213,7 +213,7 @@
 | 211 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 212 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.83 | 
 | 213 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 
-| 214 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.74 | 
+| 214 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.73 | 
 | 215 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 216 | [Far Cry](games/f/far_cry.md) | 4.38 | 
 | 217 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
@@ -286,7 +286,7 @@
 | 284 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
 | 285 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.67 | 
 | 286 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 287 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
+| 287 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
 | 288 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
 | 289 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
 | 290 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
@@ -430,7 +430,7 @@
 | 428 | [Observation](games/o/observation.md) | 4.48 | 
 | 429 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 
 | 430 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
-| 431 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 431 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
 | 432 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
 | 433 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
 | 434 | [Old World](games/o/old_world.md) | 4.64 | 
@@ -545,7 +545,7 @@
 | 543 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 544 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
 | 545 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 546 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
+| 546 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.15 | 
 | 547 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 548 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
 | 549 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.40 | 
@@ -698,7 +698,7 @@
 | 696 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
 | 697 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
 | 698 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 699 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 
+| 699 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 700 | [Torchlight](games/t/torchlight.md) | 4.38 | 
 | 701 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 702 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
@@ -773,7 +773,7 @@
 | 771 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 772 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 773 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
-| 774 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
+| 774 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 775 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
 | 776 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 777 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 

@@ -1,5 +1,5 @@
 # Hello Neighbor: Hide and Seek
-Rating: 4.52 (81)  (as of 23.09.2022)  
+Rating: 4.49 (81)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -55,3 +55,4 @@ Rating: 4.52 (81)  (as of 23.09.2022)
 | 2022-10-28 | 4.52 | - |
 | 2022-10-29 | 4.53 | - |
 | 2022-10-31 | 4.52 | - |
+| 2022-11-07 | 4.49 | - |
