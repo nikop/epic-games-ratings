@@ -276,7 +276,7 @@
 | 274 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 275 | [GRIME](games/g/grime.md) | 4.57 | 
 | 276 | [Grindstone](games/g/grindstone.md) | 4.82 | 
-| 277 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
+| 277 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.62 | 
 | 278 | [Hades](games/h/hades.md) | 4.92 | 
 | 279 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 280 | [Hammerting](games/h/hammerting.md) | 4.42 | 
@@ -407,7 +407,7 @@
 | 405 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 406 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 407 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 408 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 408 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 409 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
 | 410 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 411 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.65 | 

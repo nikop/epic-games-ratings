@@ -278,30 +278,30 @@
 | 276 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
 | 277 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
 | 278 | [Divine Knockout](games/d/divine_knockout.md) | 4.64 | 
-| 279 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
-| 280 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 281 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 282 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 283 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 284 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 285 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
-| 286 | [Mutazione](games/m/mutazione.md) | 4.63 | 
-| 287 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.63 | 
-| 288 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.63 | 
-| 289 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 290 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 291 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
-| 292 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 293 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 294 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
-| 295 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
-| 296 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
-| 297 | [Solar Ash](games/s/solar_ash.md) | 4.62 | 
-| 298 | [Partisans 1941](games/p/partisans_1941.md) | 4.62 | 
-| 299 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
-| 300 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
-| 301 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.62 | 
-| 302 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
+| 279 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 280 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 281 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 282 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
+| 283 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 284 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
+| 285 | [Mutazione](games/m/mutazione.md) | 4.63 | 
+| 286 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.63 | 
+| 287 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.63 | 
+| 288 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 289 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 290 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
+| 291 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 292 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 293 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
+| 294 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 295 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
+| 296 | [Solar Ash](games/s/solar_ash.md) | 4.62 | 
+| 297 | [Partisans 1941](games/p/partisans_1941.md) | 4.62 | 
+| 298 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
+| 299 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
+| 300 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.62 | 
+| 301 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
+| 302 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.62 | 
 | 303 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 304 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 305 | [Prey](games/p/prey.md) | 4.61 | 
@@ -587,12 +587,12 @@
 | 585 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 586 | [Backbone](games/b/backbone.md) | 4.41 | 
 | 587 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 588 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
-| 589 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 590 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.40 | 
-| 591 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.40 | 
-| 592 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 593 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.40 | 
+| 588 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 589 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.40 | 
+| 590 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.40 | 
+| 591 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 592 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.40 | 
+| 593 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 594 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
 | 595 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 596 | [Core](games/c/core.md) | 4.39 | 
