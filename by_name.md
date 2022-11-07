@@ -162,7 +162,7 @@
 | 160 | [Death Coming](games/d/death_coming.md) | 4.46 | 
 | 161 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 162 | [Death's Door](games/d/death's_door.md) | 4.65 | 
-| 163 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 163 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 164 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.42 | 
 | 165 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 166 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.56 | 
@@ -554,7 +554,7 @@
 | 552 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 553 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 554 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 555 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 555 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
 | 556 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 557 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 558 | [Slipways](games/s/slipways.md) | 4.70 | 

@@ -435,18 +435,18 @@
 | 433 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 434 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 435 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 436 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 437 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 438 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
-| 439 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 440 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
-| 441 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
-| 442 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 443 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 444 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 445 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 446 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 447 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 436 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 437 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
+| 438 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 439 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
+| 440 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
+| 441 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 442 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 443 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 444 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 445 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 446 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 447 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 448 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 449 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
 | 450 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
@@ -675,12 +675,12 @@
 | 673 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
 | 674 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 675 | [Saturnalia](games/s/saturnalia.md) | 4.29 | 
-| 676 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
-| 677 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.29 | 
-| 678 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 679 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
-| 680 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
-| 681 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 676 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.29 | 
+| 677 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 678 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
+| 679 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
+| 680 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 681 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
 | 682 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 683 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 684 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
