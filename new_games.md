@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
-| 2 | [Saturnalia](games/s/saturnalia.md) | 4.30 | 
+| 2 | [Saturnalia](games/s/saturnalia.md) | 4.29 | 
 | 3 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 4 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.36 | 
 | 5 | [STG Football](games/s/stg_football.md) | 4.57 | 
@@ -18,5 +18,5 @@
 | 16 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
 | 17 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.29 | 
 | 18 | [Darkwood](games/d/darkwood.md) | 4.60 | 
-| 19 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 19 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 20 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.57 | 

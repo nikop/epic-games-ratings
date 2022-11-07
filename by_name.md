@@ -234,7 +234,7 @@
 | 232 | [Fez](games/f/fez.md) | 4.72 | 
 | 233 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
 | 234 | [Figment](games/f/figment.md) | 4.43 | 
-| 235 | [Filament](games/f/filament.md) | 4.17 | 
+| 235 | [Filament](games/f/filament.md) | 4.18 | 
 | 236 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 237 | [Firework](games/f/firework.md) | 4.88 | 
 | 238 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
@@ -462,13 +462,13 @@
 | 460 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 461 | [Patron](games/p/patron.md) | 3.89 | 
 | 462 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 463 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 463 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 464 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 465 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 466 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 467 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 468 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 469 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
+| 469 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 470 | [Pine](games/p/pine.md) | 4.14 | 
 | 471 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.42 | 
 | 472 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
@@ -530,7 +530,7 @@
 | 528 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.57 | 
 | 529 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 530 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 531 | [Saturnalia](games/s/saturnalia.md) | 4.30 | 
+| 531 | [Saturnalia](games/s/saturnalia.md) | 4.29 | 
 | 532 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 533 | [Scorn](games/s/scorn.md) | 4.46 | 
 | 534 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
@@ -611,7 +611,7 @@
 | 609 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
 | 610 | [SUPERHOT](games/s/superhot.md) | 4.69 | 
 | 611 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.61 | 
-| 612 | [Superliminal](games/s/superliminal.md) | 4.76 | 
+| 612 | [Superliminal](games/s/superliminal.md) | 4.77 | 
 | 613 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 614 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 615 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
@@ -640,7 +640,7 @@
 | 638 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 639 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
 | 640 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
-| 641 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
+| 641 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 642 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 643 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 644 | [The Fall](games/t/the_fall.md) | 4.26 | 
