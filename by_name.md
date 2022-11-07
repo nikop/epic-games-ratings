@@ -172,7 +172,7 @@
 | 170 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 171 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 172 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 173 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
+| 173 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
 | 174 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 175 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 176 | [Diabotical](games/d/diabotical.md) | 4.78 | 
@@ -774,7 +774,7 @@
 | 772 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 773 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 774 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
-| 775 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
+| 775 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 776 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 777 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 778 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 

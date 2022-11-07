@@ -275,30 +275,30 @@
 | 273 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 274 | [Limbo](games/l/limbo.md) | 4.64 | 
 | 275 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 276 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
-| 277 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
-| 278 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
-| 279 | [Divine Knockout](games/d/divine_knockout.md) | 4.64 | 
-| 280 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
-| 281 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 282 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 283 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 284 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 285 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 286 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
-| 287 | [Mutazione](games/m/mutazione.md) | 4.63 | 
-| 288 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.63 | 
-| 289 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.63 | 
-| 290 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 291 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 292 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
-| 293 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 294 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 295 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
-| 296 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
-| 297 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
-| 298 | [Solar Ash](games/s/solar_ash.md) | 4.62 | 
-| 299 | [Partisans 1941](games/p/partisans_1941.md) | 4.62 | 
+| 276 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
+| 277 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
+| 278 | [Divine Knockout](games/d/divine_knockout.md) | 4.64 | 
+| 279 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
+| 280 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 281 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 282 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 283 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
+| 284 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 285 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
+| 286 | [Mutazione](games/m/mutazione.md) | 4.63 | 
+| 287 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.63 | 
+| 288 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.63 | 
+| 289 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 290 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 291 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
+| 292 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 293 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 294 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
+| 295 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 296 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
+| 297 | [Solar Ash](games/s/solar_ash.md) | 4.62 | 
+| 298 | [Partisans 1941](games/p/partisans_1941.md) | 4.62 | 
+| 299 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
 | 300 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
 | 301 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.62 | 
 | 302 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
@@ -378,23 +378,23 @@
 | 376 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.58 | 
 | 377 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 378 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 379 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
-| 380 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 381 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
-| 382 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 383 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
-| 384 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 385 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
-| 386 | [Hob](games/h/hob.md) | 4.57 | 
-| 387 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
-| 388 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 389 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 390 | [GRIME](games/g/grime.md) | 4.57 | 
-| 391 | [Horace](games/h/horace.md) | 4.57 | 
-| 392 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.57 | 
-| 393 | [NORCO](games/n/norco.md) | 4.57 | 
-| 394 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.57 | 
-| 395 | [STG Football](games/s/stg_football.md) | 4.57 | 
+| 379 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 380 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 381 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 382 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
+| 383 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 384 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
+| 385 | [Hob](games/h/hob.md) | 4.57 | 
+| 386 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
+| 387 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 388 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 389 | [GRIME](games/g/grime.md) | 4.57 | 
+| 390 | [Horace](games/h/horace.md) | 4.57 | 
+| 391 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.57 | 
+| 392 | [NORCO](games/n/norco.md) | 4.57 | 
+| 393 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.57 | 
+| 394 | [STG Football](games/s/stg_football.md) | 4.57 | 
+| 395 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 396 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 397 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 398 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
