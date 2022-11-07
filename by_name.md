@@ -175,7 +175,7 @@
 | 173 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 
 | 174 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 175 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 176 | [Diabotical](games/d/diabotical.md) | 4.79 | 
+| 176 | [Diabotical](games/d/diabotical.md) | 4.78 | 
 | 177 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 
 | 178 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.39 | 
 | 179 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
@@ -254,7 +254,7 @@
 | 252 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 253 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 254 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 255 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.76 | 
+| 255 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.75 | 
 | 256 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
 | 257 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
 | 258 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
@@ -328,7 +328,7 @@
 | 326 | [Journey](games/j/journey.md) | 4.75 | 
 | 327 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 328 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 329 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 329 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 330 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 331 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 332 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
@@ -356,7 +356,7 @@
 | 354 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.18 | 
 | 355 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 
 | 356 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
-| 357 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
+| 357 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
 | 358 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 359 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 360 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
@@ -365,7 +365,7 @@
 | 363 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 364 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.03 | 
 | 365 | [Limbo](games/l/limbo.md) | 4.64 | 
-| 366 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.38 | 
+| 366 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
 | 367 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
 | 368 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 369 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.48 | 
@@ -596,7 +596,7 @@
 | 594 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 595 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 596 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 597 | [Stranded Deep](games/s/stranded_deep.md) | 4.20 | 
+| 597 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 598 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 599 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
 | 600 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
