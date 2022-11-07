@@ -426,7 +426,7 @@
 | 424 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.80 | 
 | 425 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 426 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 427 | [Obduction](games/o/obduction.md) | 4.12 | 
+| 427 | [Obduction](games/o/obduction.md) | 4.11 | 
 | 428 | [Observation](games/o/observation.md) | 4.48 | 
 | 429 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 
 | 430 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
@@ -587,7 +587,7 @@
 | 585 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
 | 586 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 587 | [Starsand](games/s/starsand.md) | 4.29 | 
-| 588 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
+| 588 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
 | 589 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 
 | 590 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 591 | [Steelrising](games/s/steelrising.md) | 4.28 | 
@@ -622,7 +622,7 @@
 | 620 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 621 | [Tacoma](games/t/tacoma.md) | 4.32 | 
 | 622 | [Tails of Iron](games/t/tails_of_iron.md) | 4.72 | 
-| 623 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
+| 623 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.66 | 
 | 624 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
 | 625 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 626 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
