@@ -585,10 +585,10 @@
 | 583 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.48 | 
 | 584 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
 | 585 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
-| 586 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
+| 586 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 587 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 588 | [Starsand](games/s/starsand.md) | 4.29 | 
-| 589 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
+| 589 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 590 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 
 | 591 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 592 | [Steelrising](games/s/steelrising.md) | 4.28 | 
@@ -652,7 +652,7 @@
 | 650 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 651 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
 | 652 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
-| 653 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
+| 653 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.46 | 
 | 654 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
 | 655 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.72 | 
 | 656 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 

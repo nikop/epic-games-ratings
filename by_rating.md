@@ -526,21 +526,21 @@
 | 524 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.46 | 
 | 525 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
 | 526 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
-| 527 | [Scorn](games/s/scorn.md) | 4.46 | 
-| 528 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 529 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 530 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 531 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 532 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 533 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
-| 534 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 535 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 536 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 537 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 538 | [Death Coming](games/d/death_coming.md) | 4.45 | 
-| 539 | [Gloomhaven](games/g/gloomhaven.md) | 4.45 | 
-| 540 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
-| 541 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
+| 527 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.46 | 
+| 528 | [Scorn](games/s/scorn.md) | 4.46 | 
+| 529 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
+| 530 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 531 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 532 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 533 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 534 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
+| 535 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 536 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 537 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 538 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
+| 539 | [Death Coming](games/d/death_coming.md) | 4.45 | 
+| 540 | [Gloomhaven](games/g/gloomhaven.md) | 4.45 | 
+| 541 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
 | 542 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 543 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
 | 544 | [The Captain](games/t/the_captain.md) | 4.44 | 
@@ -619,15 +619,15 @@
 | 617 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 618 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.38 | 
 | 619 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 620 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
-| 621 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.37 | 
-| 622 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.37 | 
-| 623 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
-| 624 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 625 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 626 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 627 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
-| 628 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
+| 620 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.37 | 
+| 621 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.37 | 
+| 622 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
+| 623 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 624 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 625 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 626 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
+| 627 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
+| 628 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 629 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 630 | [Among Trees](games/a/among_trees.md) | 4.36 | 
 | 631 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
@@ -709,13 +709,13 @@
 | 707 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 708 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 709 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
-| 710 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
-| 711 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.21 | 
-| 712 | [Filament](games/f/filament.md) | 4.21 | 
-| 713 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 714 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 715 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 716 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
+| 710 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
+| 711 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
+| 712 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.21 | 
+| 713 | [Filament](games/f/filament.md) | 4.21 | 
+| 714 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 715 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 716 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 717 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
 | 718 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
 | 719 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
