@@ -254,7 +254,7 @@
 | 252 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.37 | 
 | 253 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 254 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 255 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.73 | 
+| 255 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.70 | 
 | 256 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
 | 257 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
 | 258 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
@@ -292,7 +292,7 @@
 | 290 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 291 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 292 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 293 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 293 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 294 | [Hob](games/h/hob.md) | 4.57 | 
 | 295 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.37 | 
 | 296 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
