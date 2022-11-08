@@ -133,7 +133,7 @@
 | 131 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 132 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
 | 133 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
-| 134 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 134 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
 | 135 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
 | 136 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 137 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
@@ -565,7 +565,7 @@
 | 563 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 564 | [SOMA](games/s/soma.md) | 4.65 | 
 | 565 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 566 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
+| 566 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
 | 567 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 568 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 569 | [Souldiers](games/s/souldiers.md) | 4.55 | 

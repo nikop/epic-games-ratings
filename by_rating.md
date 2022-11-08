@@ -558,16 +558,16 @@
 | 556 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
 | 557 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
 | 558 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
-| 559 | [Figment](games/f/figment.md) | 4.43 | 
-| 560 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
-| 561 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
-| 562 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 563 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 564 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 565 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 566 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 567 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
-| 568 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
+| 559 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
+| 560 | [Figment](games/f/figment.md) | 4.43 | 
+| 561 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
+| 562 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
+| 563 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 564 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 565 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 566 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 567 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 568 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 569 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
 | 570 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.42 | 
 | 571 | [Good Company](games/g/good_company.md) | 4.42 | 
@@ -618,17 +618,17 @@
 | 616 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.38 | 
 | 617 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.38 | 
 | 618 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 619 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 620 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
-| 621 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.37 | 
-| 622 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.37 | 
-| 623 | [War Mongrels](games/w/war_mongrels.md) | 4.37 | 
-| 624 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.37 | 
-| 625 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
-| 626 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 627 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 628 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 629 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
+| 619 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
+| 620 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.37 | 
+| 621 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.37 | 
+| 622 | [War Mongrels](games/w/war_mongrels.md) | 4.37 | 
+| 623 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.37 | 
+| 624 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
+| 625 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 626 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 627 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 628 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
+| 629 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
 | 630 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 631 | [Among Trees](games/a/among_trees.md) | 4.36 | 
 | 632 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
