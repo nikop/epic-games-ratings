@@ -5,7 +5,7 @@
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.37 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
+| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
@@ -301,7 +301,7 @@
 | 299 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 300 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 301 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 302 | [House Party](games/h/house_party.md) | 4.32 | 
+| 302 | [House Party](games/h/house_party.md) | 4.31 | 
 | 303 | [Hue](games/h/hue.md) | 4.55 | 
 | 304 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 305 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
@@ -393,7 +393,7 @@
 | 391 | [Minit](games/m/minit.md) | 4.55 | 
 | 392 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 393 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
-| 394 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
+| 394 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 395 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
 | 396 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 397 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
@@ -563,7 +563,7 @@
 | 561 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 562 | [Solar Ash](games/s/solar_ash.md) | 4.62 | 
 | 563 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 564 | [SOMA](games/s/soma.md) | 4.66 | 
+| 564 | [SOMA](games/s/soma.md) | 4.65 | 
 | 565 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 566 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
 | 567 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
@@ -712,7 +712,7 @@
 | 710 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 711 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.98 | 
 | 712 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 713 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 713 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
 | 714 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 715 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
 | 716 | [Transistor](games/t/transistor.md) | 4.61 | 
@@ -777,7 +777,7 @@
 | 775 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
 | 776 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 777 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
-| 778 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
+| 778 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 779 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 780 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 781 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
