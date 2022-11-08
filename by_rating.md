@@ -110,42 +110,42 @@
 | 108 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 110 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 111 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
-| 112 | [Rayman Origins](games/r/rayman_origins.md) | 4.76 | 
-| 113 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.76 | 
-| 114 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
-| 115 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 116 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 117 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 119 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
-| 120 | [Northgard](games/n/northgard.md) | 4.75 | 
-| 121 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
-| 122 | [Journey](games/j/journey.md) | 4.75 | 
+| 111 | [Journey](games/j/journey.md) | 4.76 | 
+| 112 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
+| 113 | [Rayman Origins](games/r/rayman_origins.md) | 4.76 | 
+| 114 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.76 | 
+| 115 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
+| 116 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 117 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 118 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 119 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 120 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
+| 121 | [Northgard](games/n/northgard.md) | 4.75 | 
+| 122 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 123 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 124 | [Haven](games/h/haven.md) | 4.75 | 
 | 125 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.75 | 
 | 126 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
 | 127 | [Outlast](games/o/outlast.md) | 4.75 | 
-| 128 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
-| 129 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 130 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 131 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 132 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 133 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
-| 134 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
-| 135 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 136 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
-| 137 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 138 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
-| 139 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 140 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
-| 141 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
-| 142 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
-| 143 | [Revita](games/r/revita.md) | 4.74 | 
-| 144 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
-| 145 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 146 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 128 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 129 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 130 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 131 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 132 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
+| 133 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
+| 134 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 135 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
+| 136 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 137 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
+| 138 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 139 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
+| 140 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
+| 141 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
+| 142 | [Revita](games/r/revita.md) | 4.74 | 
+| 143 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
+| 144 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 145 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 146 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 147 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 148 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 149 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
@@ -240,21 +240,21 @@
 | 238 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
 | 239 | [CARRION](games/c/carrion.md) | 4.67 | 
 | 240 | [Operation: Tango](games/o/operation__tango.md) | 4.67 | 
-| 241 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
-| 242 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
-| 243 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
-| 244 | [SpiderHeck](games/s/spiderheck.md) | 4.67 | 
-| 245 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 246 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 247 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
-| 248 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 249 | [SOMA](games/s/soma.md) | 4.66 | 
-| 250 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
-| 251 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
-| 252 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
-| 253 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.66 | 
-| 254 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
-| 255 | [Eastward](games/e/eastward.md) | 4.66 | 
+| 241 | [Eastward](games/e/eastward.md) | 4.67 | 
+| 242 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
+| 243 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
+| 244 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
+| 245 | [SpiderHeck](games/s/spiderheck.md) | 4.67 | 
+| 246 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 247 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 248 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 249 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 250 | [SOMA](games/s/soma.md) | 4.66 | 
+| 251 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
+| 252 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
+| 253 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
+| 254 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.66 | 
+| 255 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
 | 256 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.66 | 
 | 257 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 258 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 

@@ -192,7 +192,7 @@
 | 190 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 191 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 192 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 
-| 193 | [Eastward](games/e/eastward.md) | 4.66 | 
+| 193 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 194 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 195 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.48 | 
 | 196 | [ELEX](games/e/elex.md) | 4.38 | 
@@ -325,7 +325,7 @@
 | 323 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 324 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 325 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
-| 326 | [Journey](games/j/journey.md) | 4.75 | 
+| 326 | [Journey](games/j/journey.md) | 4.76 | 
 | 327 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 328 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 329 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
@@ -386,7 +386,7 @@
 | 384 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
 | 385 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 386 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 387 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
+| 387 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 388 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 389 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
 | 390 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
