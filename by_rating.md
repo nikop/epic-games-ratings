@@ -422,18 +422,18 @@
 | 420 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 421 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 422 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 423 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.54 | 
-| 424 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 425 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 426 | [Outward](games/o/outward.md) | 4.54 | 
-| 427 | [RUINER](games/r/ruiner.md) | 4.54 | 
-| 428 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
-| 429 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
-| 430 | [Warpips](games/w/warpips.md) | 4.54 | 
-| 431 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 432 | [The Medium](games/t/the_medium.md) | 4.54 | 
-| 433 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 434 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 423 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
+| 424 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 425 | [Outward](games/o/outward.md) | 4.54 | 
+| 426 | [RUINER](games/r/ruiner.md) | 4.54 | 
+| 427 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
+| 428 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
+| 429 | [Warpips](games/w/warpips.md) | 4.54 | 
+| 430 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 431 | [The Medium](games/t/the_medium.md) | 4.54 | 
+| 432 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 433 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 434 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.53 | 
 | 435 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 436 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 437 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
@@ -480,22 +480,22 @@
 | 478 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 479 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
 | 480 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 481 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
-| 482 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
-| 483 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.50 | 
-| 484 | [UnMetal](games/u/unmetal.md) | 4.50 | 
-| 485 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
-| 486 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.50 | 
-| 487 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 488 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 489 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
-| 490 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 491 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 492 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 493 | [Riverbond](games/r/riverbond.md) | 4.49 | 
-| 494 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 495 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
-| 496 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 481 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
+| 482 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
+| 483 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
+| 484 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.50 | 
+| 485 | [UnMetal](games/u/unmetal.md) | 4.50 | 
+| 486 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
+| 487 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.50 | 
+| 488 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 489 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 490 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
+| 491 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 492 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 493 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 494 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 495 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 496 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
 | 497 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
 | 498 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 499 | [CryoFall](games/c/cryofall.md) | 4.49 | 
@@ -738,12 +738,12 @@
 | 736 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
 | 737 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 738 | [Relicta](games/r/relicta.md) | 4.12 | 
-| 739 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
-| 740 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.12 | 
-| 741 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
-| 742 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
-| 743 | [Obduction](games/o/obduction.md) | 4.11 | 
-| 744 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
+| 739 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.12 | 
+| 740 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
+| 741 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
+| 742 | [Obduction](games/o/obduction.md) | 4.11 | 
+| 743 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
+| 744 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
 | 745 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
 | 746 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 747 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 

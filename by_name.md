@@ -388,7 +388,7 @@
 | 386 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 387 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 388 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 389 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 389 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
 | 390 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
 | 391 | [Minit](games/m/minit.md) | 4.55 | 
 | 392 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
@@ -504,7 +504,7 @@
 | 502 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 503 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 504 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 505 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.54 | 
+| 505 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.53 | 
 | 506 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 507 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 508 | [Road 96](games/r/road_96.md) | 4.58 | 
@@ -761,7 +761,7 @@
 | 759 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 760 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 761 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 762 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
+| 762 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
 | 763 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
 | 764 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
 | 765 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
