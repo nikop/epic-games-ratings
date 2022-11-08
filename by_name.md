@@ -9,7 +9,7 @@
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
-| 10 | [ABZU](games/a/abzu.md) | 4.60 | 
+| 10 | [ABZU](games/a/abzu.md) | 4.59 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.50 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
@@ -380,7 +380,7 @@
 | 378 | [Mago](games/m/mago.md) | 4.86 | 
 | 379 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 380 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
-| 381 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.12 | 
+| 381 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
 | 382 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 383 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 384 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
@@ -423,7 +423,7 @@
 | 421 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 422 | [No Straight Roads](games/n/no_straight_roads.md) | 4.70 | 
 | 423 | [NORCO](games/n/norco.md) | 4.57 | 
-| 424 | [Northgard](games/n/northgard.md) | 4.75 | 
+| 424 | [Northgard](games/n/northgard.md) | 4.72 | 
 | 425 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.80 | 
 | 426 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 427 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
@@ -488,7 +488,7 @@
 | 486 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
 | 487 | [Rayman Origins](games/r/rayman_origins.md) | 4.76 | 
 | 488 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
-| 489 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 489 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 490 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 491 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 492 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
@@ -531,7 +531,7 @@
 | 529 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.59 | 
 | 530 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 531 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 532 | [Saturnalia](games/s/saturnalia.md) | 4.27 | 
+| 532 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 
 | 533 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 534 | [Scorn](games/s/scorn.md) | 4.46 | 
 | 535 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
@@ -774,7 +774,7 @@
 | 772 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 773 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 774 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
-| 775 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 775 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 776 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
 | 777 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 778 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 

@@ -2,7 +2,7 @@
 | --- | ---- | ------ | 
 | 1 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
 | 2 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
-| 3 | [Saturnalia](games/s/saturnalia.md) | 4.27 | 
+| 3 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 
 | 4 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 5 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.38 | 
 | 6 | [STG Football](games/s/stg_football.md) | 4.58 | 
