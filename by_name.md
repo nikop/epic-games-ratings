@@ -263,7 +263,7 @@
 | 261 | [Gloomhaven](games/g/gloomhaven.md) | 4.45 | 
 | 262 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 263 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
-| 264 | [Godfall](games/g/godfall.md) | 4.05 | 
+| 264 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 265 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
 | 266 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.90 | 
 | 267 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
@@ -294,7 +294,7 @@
 | 292 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 293 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 294 | [Hob](games/h/hob.md) | 4.57 | 
-| 295 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.37 | 
+| 295 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.38 | 
 | 296 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 297 | [Horace](games/h/horace.md) | 4.57 | 
 | 298 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -410,7 +410,7 @@
 | 408 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 409 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
 | 410 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 411 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.65 | 
+| 411 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
 | 412 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 413 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 414 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
@@ -472,7 +472,7 @@
 | 470 | [Pine](games/p/pine.md) | 4.14 | 
 | 471 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.42 | 
 | 472 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 473 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
+| 473 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
 | 474 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 475 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 476 | [Prey](games/p/prey.md) | 4.61 | 
@@ -506,7 +506,7 @@
 | 504 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 505 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.53 | 
 | 506 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
-| 507 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 507 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 508 | [Road 96](games/r/road_96.md) | 4.58 | 
 | 509 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 510 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
@@ -516,8 +516,8 @@
 | 514 | [Roguebook](games/r/roguebook.md) | 4.61 | 
 | 515 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 516 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 517 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 518 | [RUINER](games/r/ruiner.md) | 4.54 | 
+| 517 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 518 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 519 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 520 | [Runbow](games/r/runbow.md) | 4.44 | 
 | 521 | [Sable](games/s/sable.md) | 4.56 | 
@@ -696,7 +696,7 @@
 | 694 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 695 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.38 | 
 | 696 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
-| 697 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
+| 697 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
 | 698 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 699 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 700 | [Torchlight](games/t/torchlight.md) | 4.38 | 
