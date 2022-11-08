@@ -274,7 +274,7 @@
 | 272 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 273 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 
 | 274 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 275 | [GRIME](games/g/grime.md) | 4.57 | 
+| 275 | [GRIME](games/g/grime.md) | 4.58 | 
 | 276 | [Grindstone](games/g/grindstone.md) | 4.82 | 
 | 277 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.62 | 
 | 278 | [Hades](games/h/hades.md) | 4.92 | 

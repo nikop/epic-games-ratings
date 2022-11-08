@@ -373,26 +373,26 @@
 | 371 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 372 | [Road 96](games/r/road_96.md) | 4.58 | 
 | 373 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
-| 374 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 
-| 375 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
-| 376 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.58 | 
-| 377 | [STG Football](games/s/stg_football.md) | 4.58 | 
-| 378 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 379 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 380 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
-| 381 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 382 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
-| 383 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 384 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
-| 385 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 386 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 387 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
-| 388 | [Hob](games/h/hob.md) | 4.57 | 
-| 389 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
-| 390 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 391 | [Isonzo](games/i/isonzo.md) | 4.57 | 
-| 392 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 393 | [GRIME](games/g/grime.md) | 4.57 | 
+| 374 | [GRIME](games/g/grime.md) | 4.58 | 
+| 375 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 
+| 376 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
+| 377 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.58 | 
+| 378 | [STG Football](games/s/stg_football.md) | 4.58 | 
+| 379 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 380 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 381 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
+| 382 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 383 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 384 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 385 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
+| 386 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 387 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 388 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
+| 389 | [Hob](games/h/hob.md) | 4.57 | 
+| 390 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
+| 391 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 392 | [Isonzo](games/i/isonzo.md) | 4.57 | 
+| 393 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 394 | [Horace](games/h/horace.md) | 4.57 | 
 | 395 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.57 | 
 | 396 | [NORCO](games/n/norco.md) | 4.57 | 
