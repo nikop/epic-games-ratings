@@ -81,14 +81,14 @@
 | 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 80 | [Huntdown](games/h/huntdown.md) | 4.80 | 
 | 81 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.80 | 
-| 82 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 83 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 84 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 85 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 86 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 87 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 88 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 89 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.79 | 
+| 82 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 83 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 84 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 85 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 86 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
+| 87 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 88 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.79 | 
+| 89 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 90 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 91 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 92 | [Diabotical](games/d/diabotical.md) | 4.78 | 
@@ -617,19 +617,19 @@
 | 615 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 616 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.38 | 
 | 617 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 618 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
-| 619 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
-| 620 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.37 | 
-| 621 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.37 | 
-| 622 | [War Mongrels](games/w/war_mongrels.md) | 4.37 | 
-| 623 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.37 | 
-| 624 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.37 | 
-| 625 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
-| 626 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 627 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 628 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 629 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
-| 630 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
+| 618 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 619 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
+| 620 | [Mortal Shell](games/m/mortal_shell.md) | 4.37 | 
+| 621 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.37 | 
+| 622 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.37 | 
+| 623 | [War Mongrels](games/w/war_mongrels.md) | 4.37 | 
+| 624 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.37 | 
+| 625 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.37 | 
+| 626 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
+| 627 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 628 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 629 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 630 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
 | 631 | [Among Trees](games/a/among_trees.md) | 4.36 | 
 | 632 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
 | 633 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
@@ -663,16 +663,16 @@
 | 661 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 662 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
 | 663 | [Democracy 4](games/d/democracy_4.md) | 4.30 | 
-| 664 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
-| 665 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 666 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 
-| 667 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
-| 668 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 669 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.29 | 
-| 670 | [Starsand](games/s/starsand.md) | 4.29 | 
-| 671 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
-| 672 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
-| 673 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
+| 664 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
+| 665 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
+| 666 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
+| 667 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 
+| 668 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
+| 669 | [Ashen](games/a/ashen.md) | 4.29 | 
+| 670 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.29 | 
+| 671 | [Starsand](games/s/starsand.md) | 4.29 | 
+| 672 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
+| 673 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
 | 674 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 675 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.29 | 
 | 676 | [Rage 2](games/r/rage_2.md) | 4.28 | 

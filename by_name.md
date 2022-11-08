@@ -133,7 +133,7 @@
 | 131 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 132 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
 | 133 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
-| 134 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
+| 134 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 135 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
 | 136 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 137 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
@@ -292,7 +292,7 @@
 | 290 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 291 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 292 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 293 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 293 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 294 | [Hob](games/h/hob.md) | 4.57 | 
 | 295 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.37 | 
 | 296 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
@@ -369,7 +369,7 @@
 | 367 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
 | 368 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 369 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.48 | 
-| 370 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
+| 370 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
 | 371 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
 | 372 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 373 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
