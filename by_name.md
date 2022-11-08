@@ -280,8 +280,8 @@
 | 278 | [Hades](games/h/hades.md) | 4.92 | 
 | 279 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 280 | [Hammerting](games/h/hammerting.md) | 4.42 | 
-| 281 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 282 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.70 | 
+| 281 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 282 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
 | 283 | [Haven](games/h/haven.md) | 4.75 | 
 | 284 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
 | 285 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.67 | 
@@ -440,7 +440,7 @@
 | 438 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 
 | 439 | [Othercide](games/o/othercide.md) | 4.33 | 
 | 440 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 441 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
+| 441 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.66 | 
 | 442 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 443 | [Outlast](games/o/outlast.md) | 4.75 | 
 | 444 | [Outlast 2](games/o/outlast_2.md) | 4.78 | 
@@ -626,7 +626,7 @@
 | 624 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
 | 625 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 626 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 627 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.85 | 
+| 627 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 628 | [Tharsis](games/t/tharsis.md) | 4.21 | 
 | 629 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 630 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
@@ -696,7 +696,7 @@
 | 694 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 695 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.38 | 
 | 696 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
-| 697 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 697 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
 | 698 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 699 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 700 | [Torchlight](games/t/torchlight.md) | 4.38 | 
