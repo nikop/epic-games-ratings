@@ -92,7 +92,7 @@
 | 90 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 91 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 92 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 93 | [Breathedge](games/b/breathedge.md) | 4.58 | 
+| 93 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 94 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
 | 95 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 96 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
@@ -269,7 +269,7 @@
 | 267 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 268 | [Gone Home](games/g/gone_home.md) | 4.19 | 
 | 269 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 270 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 270 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
 | 271 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
 | 272 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 273 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 

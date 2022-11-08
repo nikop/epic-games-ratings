@@ -6,7 +6,7 @@
 | 4 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.37 | 
 | 5 | [STG Football](games/s/stg_football.md) | 4.58 | 
 | 6 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.83 | 
-| 7 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 7 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
 | 8 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
 | 9 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.73 | 
 | 10 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 

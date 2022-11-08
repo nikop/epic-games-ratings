@@ -351,28 +351,28 @@
 | 349 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
 | 350 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
 | 351 | [RiME](games/r/rime.md) | 4.59 | 
-| 352 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.59 | 
-| 353 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 
-| 354 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 355 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 356 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 357 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
-| 358 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 359 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 360 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 361 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
-| 362 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 363 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 364 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 365 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 366 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
-| 367 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
-| 368 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
-| 369 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
-| 370 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
-| 371 | [Road 96](games/r/road_96.md) | 4.58 | 
-| 372 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
-| 373 | [Breathedge](games/b/breathedge.md) | 4.58 | 
+| 352 | [Breathedge](games/b/breathedge.md) | 4.59 | 
+| 353 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.59 | 
+| 354 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 
+| 355 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 356 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 357 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 358 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
+| 359 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 360 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 361 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 362 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
+| 363 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 364 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
+| 365 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 366 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
+| 367 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
+| 368 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
+| 369 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
+| 370 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
+| 371 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
+| 372 | [Road 96](games/r/road_96.md) | 4.58 | 
+| 373 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
 | 374 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 
 | 375 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
 | 376 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.58 | 
@@ -684,12 +684,12 @@
 | 682 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 683 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 684 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 685 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
-| 686 | [Saturnalia](games/s/saturnalia.md) | 4.27 | 
-| 687 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 688 | [The Fall](games/t/the_fall.md) | 4.26 | 
-| 689 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 
-| 690 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 685 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
+| 686 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
+| 687 | [Saturnalia](games/s/saturnalia.md) | 4.27 | 
+| 688 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 689 | [The Fall](games/t/the_fall.md) | 4.26 | 
+| 690 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 
 | 691 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 692 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 693 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
