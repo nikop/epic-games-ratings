@@ -21,7 +21,7 @@
 | 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 
+| 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 23 | [Among Trees](games/a/among_trees.md) | 4.36 | 
 | 24 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 25 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
@@ -75,8 +75,8 @@
 | 73 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 74 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
 | 75 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
-| 76 | [Before We Leave](games/b/before_we_leave.md) | 4.66 | 
-| 77 | [Beholder 3](games/b/beholder_3.md) | 4.46 | 
+| 76 | [Before We Leave](games/b/before_we_leave.md) | 4.67 | 
+| 77 | [Beholder 3](games/b/beholder_3.md) | 4.44 | 
 | 78 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
 | 79 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 80 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
@@ -181,7 +181,7 @@
 | 179 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 180 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 181 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 182 | [Divine Knockout](games/d/divine_knockout.md) | 4.64 | 
+| 182 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
 | 183 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
 | 184 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 185 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
@@ -237,7 +237,7 @@
 | 235 | [Filament](games/f/filament.md) | 4.16 | 
 | 236 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 237 | [Firework](games/f/firework.md) | 4.88 | 
-| 238 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
+| 238 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.34 | 
 | 239 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 240 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 241 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
@@ -265,7 +265,7 @@
 | 263 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
 | 264 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 265 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
-| 266 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.90 | 
+| 266 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
 | 267 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 268 | [Gone Home](games/g/gone_home.md) | 4.19 | 
 | 269 | [Good Company](games/g/good_company.md) | 4.42 | 
@@ -310,7 +310,7 @@
 | 308 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
 | 309 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
 | 310 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 311 | [Imagine Earth](games/i/imagine_earth.md) | 4.29 | 
+| 311 | [Imagine Earth](games/i/imagine_earth.md) | 4.35 | 
 | 312 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
 | 313 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
 | 314 | [Industries of Titan](games/i/industries_of_titan.md) | 4.52 | 
@@ -463,7 +463,7 @@
 | 461 | [Patron](games/p/patron.md) | 3.92 | 
 | 462 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 463 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
-| 464 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 464 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
 | 465 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 466 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 467 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
@@ -654,13 +654,13 @@
 | 652 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
 | 653 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
 | 654 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.72 | 
-| 655 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
+| 655 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
 | 656 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 657 | [The Medium](games/t/the_medium.md) | 4.54 | 
 | 658 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
 | 659 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 660 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
-| 661 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 661 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 662 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 663 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
 | 664 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
@@ -672,7 +672,7 @@
 | 670 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
 | 671 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
 | 672 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
-| 673 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
+| 673 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 674 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 675 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.76 | 
 | 676 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
@@ -694,7 +694,7 @@
 | 692 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
 | 693 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.29 | 
 | 694 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 695 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.38 | 
+| 695 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
 | 696 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
 | 697 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
 | 698 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
@@ -745,7 +745,7 @@
 | 743 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 744 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 745 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 746 | [War Mongrels](games/w/war_mongrels.md) | 4.37 | 
+| 746 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 
 | 747 | [Warface](games/w/warface.md) | 3.94 | 
 | 748 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 749 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
