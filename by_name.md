@@ -52,7 +52,7 @@
 | 50 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 51 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 52 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.57 | 
-| 53 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
+| 53 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
 | 54 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 55 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 56 | [Automachef](games/a/automachef.md) | 4.32 | 
@@ -116,7 +116,7 @@
 | 114 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 115 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 116 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
-| 117 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 117 | [City of Brass](games/c/city_of_brass.md) | 4.26 | 
 | 118 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 119 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 120 | [Conarium](games/c/conarium.md) | 3.89 | 
@@ -241,7 +241,7 @@
 | 239 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 240 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 241 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.74 | 
+| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.77 | 
 | 243 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 244 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
 | 245 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -295,7 +295,7 @@
 | 293 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 294 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 295 | [Hob](games/h/hob.md) | 4.57 | 
-| 296 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.38 | 
+| 296 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.39 | 
 | 297 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 298 | [Horace](games/h/horace.md) | 4.57 | 
 | 299 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -416,7 +416,7 @@
 | 414 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 415 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 416 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 417 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
+| 417 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 
 | 418 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 419 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
 | 420 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 

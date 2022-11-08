@@ -1,14 +1,14 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.74 | 
+| 1 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.77 | 
 | 2 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
 | 3 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 
 | 4 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
-| 5 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.38 | 
+| 5 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.39 | 
 | 6 | [STG Football](games/s/stg_football.md) | 4.58 | 
 | 7 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.83 | 
 | 8 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
-| 9 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
+| 9 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 
 | 10 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.73 | 
 | 11 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 
 | 12 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 
