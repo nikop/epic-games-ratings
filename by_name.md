@@ -85,7 +85,7 @@
 | 83 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 84 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.29 | 
 | 85 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
-| 86 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 86 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 87 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 88 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.37 | 
 | 89 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
@@ -98,7 +98,7 @@
 | 96 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 97 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
 | 98 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 99 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.06 | 
+| 99 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.05 | 
 | 100 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 101 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
 | 102 | [Card Shark](games/c/card_shark.md) | 4.61 | 
@@ -138,7 +138,7 @@
 | 136 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 137 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 138 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.67 | 
-| 139 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.39 | 
+| 139 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 140 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 141 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 142 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
@@ -202,7 +202,7 @@
 | 200 | [Encased](games/e/encased.md) | 4.41 | 
 | 201 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 202 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 203 | [EVE Online](games/e/eve_online.md) | 4.27 | 
+| 203 | [EVE Online](games/e/eve_online.md) | 4.28 | 
 | 204 | [Everything](games/e/everything.md) | 4.71 | 
 | 205 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 206 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 
@@ -234,7 +234,7 @@
 | 232 | [Fez](games/f/fez.md) | 4.72 | 
 | 233 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
 | 234 | [Figment](games/f/figment.md) | 4.43 | 
-| 235 | [Filament](games/f/filament.md) | 4.15 | 
+| 235 | [Filament](games/f/filament.md) | 4.16 | 
 | 236 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 237 | [Firework](games/f/firework.md) | 4.88 | 
 | 238 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.32 | 
@@ -294,7 +294,7 @@
 | 292 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 293 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 294 | [Hob](games/h/hob.md) | 4.57 | 
-| 295 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.36 | 
+| 295 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.37 | 
 | 296 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 297 | [Horace](games/h/horace.md) | 4.57 | 
 | 298 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -417,7 +417,7 @@
 | 415 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 416 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
 | 417 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 418 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 418 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
 | 419 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 420 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 421 | [No Straight Roads](games/n/no_straight_roads.md) | 4.70 | 
@@ -443,7 +443,7 @@
 | 441 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 442 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 443 | [Outlast](games/o/outlast.md) | 4.75 | 
-| 444 | [Outlast 2](games/o/outlast_2.md) | 4.77 | 
+| 444 | [Outlast 2](games/o/outlast_2.md) | 4.78 | 
 | 445 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 446 | [Outward](games/o/outward.md) | 4.54 | 
 | 447 | [Overcooked](games/o/overcooked.md) | 4.68 | 
@@ -530,7 +530,7 @@
 | 528 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.57 | 
 | 529 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 530 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 531 | [Saturnalia](games/s/saturnalia.md) | 4.29 | 
+| 531 | [Saturnalia](games/s/saturnalia.md) | 4.27 | 
 | 532 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 533 | [Scorn](games/s/scorn.md) | 4.46 | 
 | 534 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
@@ -620,7 +620,7 @@
 | 618 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 619 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
 | 620 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 621 | [Tacoma](games/t/tacoma.md) | 4.32 | 
+| 621 | [Tacoma](games/t/tacoma.md) | 4.33 | 
 | 622 | [Tails of Iron](games/t/tails_of_iron.md) | 4.72 | 
 | 623 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.66 | 
 | 624 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
@@ -696,7 +696,7 @@
 | 694 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 695 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.38 | 
 | 696 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
-| 697 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
+| 697 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
 | 698 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 699 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 700 | [Torchlight](games/t/torchlight.md) | 4.38 | 
