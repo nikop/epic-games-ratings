@@ -157,13 +157,13 @@
 | 155 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.73 | 
 | 156 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
 | 157 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.73 | 
-| 158 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 159 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 160 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
-| 161 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 162 | [Fez](games/f/fez.md) | 4.72 | 
-| 163 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.72 | 
-| 164 | [Tails of Iron](games/t/tails_of_iron.md) | 4.72 | 
+| 158 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
+| 159 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 160 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 161 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
+| 162 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 163 | [Fez](games/f/fez.md) | 4.72 | 
+| 164 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.72 | 
 | 165 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 166 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 167 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
