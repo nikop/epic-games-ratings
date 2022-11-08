@@ -227,7 +227,7 @@
 | 225 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
 | 226 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.75 | 
 | 227 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.08 | 
-| 228 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 228 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 229 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 230 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 231 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
@@ -337,7 +337,7 @@
 | 335 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 336 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 
 | 337 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
-| 338 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.15 | 
+| 338 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
 | 339 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 340 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
 | 341 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
@@ -714,7 +714,7 @@
 | 712 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 713 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.98 | 
 | 714 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 715 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 715 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 716 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 717 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
 | 718 | [Transistor](games/t/transistor.md) | 4.61 | 

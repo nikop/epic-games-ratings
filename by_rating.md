@@ -156,13 +156,13 @@
 | 154 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
 | 155 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.73 | 
 | 156 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
-| 157 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 158 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 159 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
-| 160 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 161 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
-| 162 | [Northgard](games/n/northgard.md) | 4.72 | 
-| 163 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.72 | 
+| 157 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 158 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
+| 159 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 160 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
+| 161 | [Northgard](games/n/northgard.md) | 4.72 | 
+| 162 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.72 | 
+| 163 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 164 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 165 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 166 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
@@ -436,21 +436,21 @@
 | 434 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 435 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 436 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
-| 437 | [RUINER](games/r/ruiner.md) | 4.53 | 
-| 438 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
-| 439 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
-| 440 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 441 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 442 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 443 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 444 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.52 | 
-| 445 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 446 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 447 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
-| 448 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 449 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
-| 450 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 451 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 437 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 438 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 439 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
+| 440 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
+| 441 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 442 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 443 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 444 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 445 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.52 | 
+| 446 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 447 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 448 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
+| 449 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 450 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
+| 451 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 452 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 453 | [Industries of Titan](games/i/industries_of_titan.md) | 4.52 | 
 | 454 | [The Surge](games/t/the_surge.md) | 4.52 | 
@@ -730,9 +730,9 @@
 | 728 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
 | 729 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 730 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 731 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
-| 732 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.15 | 
-| 733 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.15 | 
+| 731 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
+| 732 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
+| 733 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.15 | 
 | 734 | [Pine](games/p/pine.md) | 4.14 | 
 | 735 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 736 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
