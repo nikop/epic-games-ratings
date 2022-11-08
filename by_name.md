@@ -162,7 +162,7 @@
 | 160 | [Death Coming](games/d/death_coming.md) | 4.46 | 
 | 161 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 162 | [Death's Door](games/d/death's_door.md) | 4.65 | 
-| 163 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 163 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 164 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.42 | 
 | 165 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 166 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.56 | 
@@ -460,7 +460,7 @@
 | 458 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
 | 459 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 460 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 461 | [Patron](games/p/patron.md) | 3.89 | 
+| 461 | [Patron](games/p/patron.md) | 3.92 | 
 | 462 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 463 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 464 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
@@ -521,13 +521,13 @@
 | 519 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 520 | [Runbow](games/r/runbow.md) | 4.44 | 
 | 521 | [Sable](games/s/sable.md) | 4.56 | 
-| 522 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
+| 522 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
 | 523 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 524 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 525 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
 | 526 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 527 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
-| 528 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.57 | 
+| 528 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.59 | 
 | 529 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 530 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 531 | [Saturnalia](games/s/saturnalia.md) | 4.27 | 
