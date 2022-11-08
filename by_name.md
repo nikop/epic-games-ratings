@@ -22,7 +22,7 @@
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
 | 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 23 | [Among Trees](games/a/among_trees.md) | 4.36 | 
+| 23 | [Among Trees](games/a/among_trees.md) | 4.37 | 
 | 24 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 25 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 26 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
@@ -32,7 +32,7 @@
 | 30 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 31 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
 | 32 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
-| 33 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
+| 33 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.50 | 
 | 34 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
 | 35 | [APE OUT](games/a/ape_out.md) | 4.69 | 
 | 36 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
@@ -94,7 +94,7 @@
 | 92 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 93 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 94 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
-| 95 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
+| 95 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 96 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 97 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
 | 98 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
@@ -135,7 +135,7 @@
 | 133 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
 | 134 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
 | 135 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
-| 136 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 136 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 137 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 138 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.67 | 
 | 139 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
@@ -241,7 +241,7 @@
 | 239 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 240 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 241 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
+| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.74 | 
 | 243 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 244 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
 | 245 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -336,7 +336,7 @@
 | 334 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 335 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 336 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 
-| 337 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.39 | 
+| 337 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
 | 338 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.15 | 
 | 339 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 340 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
@@ -427,7 +427,7 @@
 | 425 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.80 | 
 | 426 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 427 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 428 | [Obduction](games/o/obduction.md) | 4.11 | 
+| 428 | [Obduction](games/o/obduction.md) | 4.12 | 
 | 429 | [Observation](games/o/observation.md) | 4.48 | 
 | 430 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 
 | 431 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
@@ -505,7 +505,7 @@
 | 503 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 504 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 505 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 506 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.53 | 
+| 506 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.52 | 
 | 507 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 508 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 509 | [Road 96](games/r/road_96.md) | 4.58 | 
@@ -533,7 +533,7 @@
 | 531 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 532 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 
 | 533 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 534 | [Scorn](games/s/scorn.md) | 4.46 | 
+| 534 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 535 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
 | 536 | [Scrapnaut](games/s/scrapnaut.md) | 4.38 | 
 | 537 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
@@ -553,7 +553,7 @@
 | 551 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 552 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 553 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 554 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
+| 554 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
 | 555 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 556 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
 | 557 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
@@ -586,7 +586,7 @@
 | 584 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
 | 585 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
 | 586 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
-| 587 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 587 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 588 | [Starsand](games/s/starsand.md) | 4.29 | 
 | 589 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 590 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 
@@ -605,7 +605,7 @@
 | 603 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 604 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 605 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 606 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.67 | 
+| 606 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 607 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
 | 608 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
 | 609 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
@@ -663,7 +663,7 @@
 | 661 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
 | 662 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 663 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
-| 664 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.29 | 
+| 664 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.28 | 
 | 665 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 666 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 
 | 667 | [The Surge](games/t/the_surge.md) | 4.52 | 
