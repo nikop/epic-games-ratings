@@ -85,15 +85,15 @@
 | 83 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 84 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 85 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 86 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 87 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 88 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 89 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.79 | 
-| 90 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 91 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 92 | [Diabotical](games/d/diabotical.md) | 4.78 | 
-| 93 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
-| 94 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
+| 86 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
+| 87 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 88 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
+| 89 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 90 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.79 | 
+| 91 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 92 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 93 | [Diabotical](games/d/diabotical.md) | 4.78 | 
+| 94 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
 | 95 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 96 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 
 | 97 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
@@ -161,15 +161,15 @@
 | 159 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 160 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 
 | 161 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 162 | [Fez](games/f/fez.md) | 4.72 | 
-| 163 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.72 | 
-| 164 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 165 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 166 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
-| 167 | [The Witness](games/t/the_witness.md) | 4.71 | 
-| 168 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
-| 169 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
-| 170 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
+| 162 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.72 | 
+| 163 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 164 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 165 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
+| 166 | [The Witness](games/t/the_witness.md) | 4.71 | 
+| 167 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 168 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
+| 169 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
+| 170 | [Fez](games/f/fez.md) | 4.71 | 
 | 171 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 172 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.71 | 
 | 173 | [Townscaper](games/t/townscaper.md) | 4.71 | 
@@ -775,10 +775,10 @@
 | 773 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 774 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.91 | 
 | 775 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.90 | 
-| 776 | [Patron](games/p/patron.md) | 3.89 | 
-| 777 | [Ironcast](games/i/ironcast.md) | 3.88 | 
-| 778 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
-| 779 | [Conarium](games/c/conarium.md) | 3.87 | 
+| 776 | [Conarium](games/c/conarium.md) | 3.89 | 
+| 777 | [Patron](games/p/patron.md) | 3.89 | 
+| 778 | [Ironcast](games/i/ironcast.md) | 3.88 | 
+| 779 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
 | 780 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 781 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 782 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 

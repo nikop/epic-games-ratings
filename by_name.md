@@ -119,7 +119,7 @@
 | 117 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 118 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 
 | 119 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 120 | [Conarium](games/c/conarium.md) | 3.87 | 
+| 120 | [Conarium](games/c/conarium.md) | 3.89 | 
 | 121 | [Control](games/c/control.md) | 4.60 | 
 | 122 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
 | 123 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
@@ -231,7 +231,7 @@
 | 229 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 230 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 231 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
-| 232 | [Fez](games/f/fez.md) | 4.72 | 
+| 232 | [Fez](games/f/fez.md) | 4.71 | 
 | 233 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
 | 234 | [Figment](games/f/figment.md) | 4.43 | 
 | 235 | [Filament](games/f/filament.md) | 4.16 | 
@@ -486,7 +486,7 @@
 | 484 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
 | 485 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
 | 486 | [Rayman Origins](games/r/rayman_origins.md) | 4.76 | 
-| 487 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.78 | 
+| 487 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
 | 488 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 489 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 490 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
