@@ -209,7 +209,7 @@
 | 207 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.62 | 
 | 208 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 209 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
-| 210 | [Faeria](games/f/faeria.md) | 4.42 | 
+| 210 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 211 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 212 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.83 | 
 | 213 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 
@@ -627,7 +627,7 @@
 | 625 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 626 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 627 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 628 | [Tharsis](games/t/tharsis.md) | 4.21 | 
+| 628 | [Tharsis](games/t/tharsis.md) | 4.23 | 
 | 629 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 630 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
 | 631 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
@@ -646,7 +646,7 @@
 | 644 | [The Fall](games/t/the_fall.md) | 4.26 | 
 | 645 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
 | 646 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.73 | 
-| 647 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
+| 647 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
 | 648 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.95 | 
 | 649 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 650 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
@@ -724,7 +724,7 @@
 | 722 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
 | 723 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
 | 724 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 725 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 725 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
 | 726 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
 | 727 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 728 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 

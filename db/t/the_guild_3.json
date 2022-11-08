@@ -1,10 +1,10 @@
 {
   "ID": "641243a8260e40d1b4599b7e329fce49",
   "Name": "The Guild 3",
-  "Rating": 4.2,
+  "Rating": 4.19,
   "NumberOfRatings": 76,
   "FirstSeen": "2022-07-22T20:21:22.0812478+00:00",
-  "LastChanged": "2022-11-06T14:57:25.4091227+00:00",
+  "LastChanged": "2022-11-08T14:57:38.4633906+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:22.0812481+00:00",
@@ -209,6 +209,11 @@
     {
       "Time": "2022-11-06T14:57:25.4091229+00:00",
       "Rating": 4.2,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T14:57:38.4633908+00:00",
+      "Rating": 4.19,
       "NumberOfRatings": null
     }
   ],

@@ -220,20 +220,20 @@
 | 218 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
 | 219 | [Overcooked](games/o/overcooked.md) | 4.68 | 
 | 220 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.68 | 
-| 221 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 222 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
-| 223 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
-| 224 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
-| 225 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 226 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 227 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 228 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 229 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
-| 230 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 231 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 232 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
-| 233 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.67 | 
-| 234 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 221 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
+| 222 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
+| 223 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
+| 224 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
+| 225 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
+| 226 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 227 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 228 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 229 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 230 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
+| 231 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 232 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 233 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
+| 234 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.67 | 
 | 235 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
 | 236 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.67 | 
 | 237 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.67 | 
@@ -567,21 +567,21 @@
 | 565 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 566 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 567 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
-| 568 | [Faeria](games/f/faeria.md) | 4.42 | 
-| 569 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
-| 570 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
-| 571 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.42 | 
-| 572 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 573 | [Chorus](games/c/chorus.md) | 4.42 | 
-| 574 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.42 | 
-| 575 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.42 | 
-| 576 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 577 | [Hammerting](games/h/hammerting.md) | 4.42 | 
-| 578 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 579 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 580 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
-| 581 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
-| 582 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
+| 568 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
+| 569 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
+| 570 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.42 | 
+| 571 | [Good Company](games/g/good_company.md) | 4.42 | 
+| 572 | [Chorus](games/c/chorus.md) | 4.42 | 
+| 573 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.42 | 
+| 574 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.42 | 
+| 575 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 576 | [Hammerting](games/h/hammerting.md) | 4.42 | 
+| 577 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 578 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
+| 579 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
+| 580 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
+| 581 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
+| 582 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 583 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 584 | [Encased](games/e/encased.md) | 4.41 | 
 | 585 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
@@ -699,26 +699,26 @@
 | 697 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 698 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 699 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
-| 700 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 701 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.23 | 
-| 702 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 703 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.22 | 
-| 704 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
-| 705 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
-| 706 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
-| 707 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
-| 708 | [Tharsis](games/t/tharsis.md) | 4.21 | 
+| 700 | [Tharsis](games/t/tharsis.md) | 4.23 | 
+| 701 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
+| 702 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.23 | 
+| 703 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 704 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.22 | 
+| 705 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
+| 706 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
+| 707 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
+| 708 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
 | 709 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 710 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.21 | 
 | 711 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 712 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 713 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 714 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 
-| 715 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
-| 716 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
-| 717 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
-| 718 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
-| 719 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 715 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
+| 716 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
+| 717 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
+| 718 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 719 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
 | 720 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 
 | 721 | [Gone Home](games/g/gone_home.md) | 4.19 | 
 | 722 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
