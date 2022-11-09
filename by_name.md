@@ -646,7 +646,7 @@
 | 644 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 645 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 646 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
-| 647 | [The Fall](games/t/the_fall.md) | 4.26 | 
+| 647 | [The Fall](games/t/the_fall.md) | 4.27 | 
 | 648 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
 | 649 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.73 | 
 | 650 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 

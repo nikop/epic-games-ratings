@@ -684,14 +684,14 @@
 | 682 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 683 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
 | 684 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 685 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 686 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
-| 687 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
-| 688 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
-| 689 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 690 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 691 | [City of Brass](games/c/city_of_brass.md) | 4.26 | 
-| 692 | [The Fall](games/t/the_fall.md) | 4.26 | 
+| 685 | [The Fall](games/t/the_fall.md) | 4.27 | 
+| 686 | [Parkitect](games/p/parkitect.md) | 4.27 | 
+| 687 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
+| 688 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
+| 689 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
+| 690 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 691 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 692 | [City of Brass](games/c/city_of_brass.md) | 4.26 | 
 | 693 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 
 | 694 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 695 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
