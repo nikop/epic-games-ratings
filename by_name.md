@@ -35,7 +35,7 @@
 | 33 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.50 | 
 | 34 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
 | 35 | [APE OUT](games/a/ape_out.md) | 4.69 | 
-| 36 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
+| 36 | [Aragami 2](games/a/aragami_2.md) | 4.54 | 
 | 37 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.63 | 
 | 38 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
 | 39 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
@@ -241,7 +241,7 @@
 | 239 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 240 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 241 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.74 | 
+| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
 | 243 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 244 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
 | 245 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -519,7 +519,7 @@
 | 517 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 518 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 519 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 520 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 520 | [RUINER](games/r/ruiner.md) | 4.54 | 
 | 521 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 522 | [Runbow](games/r/runbow.md) | 4.44 | 
 | 523 | [Sable](games/s/sable.md) | 4.56 | 
@@ -580,7 +580,7 @@
 | 578 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.35 | 
 | 579 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
 | 580 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.68 | 
-| 581 | [SpiderHeck](games/s/spiderheck.md) | 4.67 | 
+| 581 | [SpiderHeck](games/s/spiderheck.md) | 4.68 | 
 | 582 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 583 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 584 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
@@ -685,7 +685,7 @@
 | 683 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 684 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 685 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 686 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 686 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 687 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 688 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 689 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
@@ -786,6 +786,6 @@
 | 784 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 785 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 786 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 787 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.63 | 
+| 787 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.64 | 
 | 788 | [ZOMBI](games/z/zombi.md) | 4.35 | 
 | 789 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
