@@ -172,7 +172,7 @@
 | 170 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 171 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 172 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 173 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
+| 173 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
 | 174 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 175 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 176 | [Diabotical](games/d/diabotical.md) | 4.78 | 
@@ -231,7 +231,7 @@
 | 229 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 230 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 231 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
-| 232 | [Fez](games/f/fez.md) | 4.71 | 
+| 232 | [Fez](games/f/fez.md) | 4.72 | 
 | 233 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
 | 234 | [Figment](games/f/figment.md) | 4.43 | 
 | 235 | [Filament](games/f/filament.md) | 4.21 | 
@@ -309,7 +309,7 @@
 | 307 | [Huntdown](games/h/huntdown.md) | 4.80 | 
 | 308 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
 | 309 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
-| 310 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 
+| 310 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.76 | 
 | 311 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 312 | [Imagine Earth](games/i/imagine_earth.md) | 4.35 | 
 | 313 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
@@ -439,7 +439,7 @@
 | 437 | [Operation: Tango](games/o/operation__tango.md) | 4.67 | 
 | 438 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.23 | 
 | 439 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 
-| 440 | [Othercide](games/o/othercide.md) | 4.33 | 
+| 440 | [Othercide](games/o/othercide.md) | 4.34 | 
 | 441 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 442 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.66 | 
 | 443 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
@@ -587,7 +587,7 @@
 | 585 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.48 | 
 | 586 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
 | 587 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
-| 588 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
+| 588 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
 | 589 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 590 | [Starsand](games/s/starsand.md) | 4.29 | 
 | 591 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
