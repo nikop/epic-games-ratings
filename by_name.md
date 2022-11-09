@@ -177,7 +177,7 @@
 | 175 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 176 | [Diabotical](games/d/diabotical.md) | 4.78 | 
 | 177 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 
-| 178 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.40 | 
+| 178 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.41 | 
 | 179 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 180 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 181 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
@@ -238,7 +238,7 @@
 | 236 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 237 | [Firework](games/f/firework.md) | 4.88 | 
 | 238 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.34 | 
-| 239 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 239 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 240 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 241 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
@@ -258,7 +258,7 @@
 | 256 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.69 | 
 | 257 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
 | 258 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
-| 259 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
+| 259 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 260 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 261 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 262 | [Gloomhaven](games/g/gloomhaven.md) | 4.45 | 
@@ -491,10 +491,10 @@
 | 489 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 490 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 491 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 492 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
+| 492 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.47 | 
 | 493 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 494 | [Redout 2](games/r/redout_2.md) | 4.52 | 
-| 495 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
+| 495 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 496 | [Relicta](games/r/relicta.md) | 4.12 | 
 | 497 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 498 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.85 | 
@@ -532,7 +532,7 @@
 | 530 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.59 | 
 | 531 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 532 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 533 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 
+| 533 | [Saturnalia](games/s/saturnalia.md) | 4.27 | 
 | 534 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 535 | [Scorn](games/s/scorn.md) | 4.45 | 
 | 536 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
@@ -775,7 +775,7 @@
 | 773 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 774 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 775 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 776 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
+| 776 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 
 | 777 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 778 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
 | 779 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
