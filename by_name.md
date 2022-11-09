@@ -241,7 +241,7 @@
 | 239 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 240 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 241 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
+| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.73 | 
 | 243 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 244 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
 | 245 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -295,7 +295,7 @@
 | 293 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 294 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 295 | [Hob](games/h/hob.md) | 4.57 | 
-| 296 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.39 | 
+| 296 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.40 | 
 | 297 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 298 | [Horace](games/h/horace.md) | 4.57 | 
 | 299 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -432,7 +432,7 @@
 | 430 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 
 | 431 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
 | 432 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
-| 433 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
+| 433 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.46 | 
 | 434 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
 | 435 | [Old World](games/o/old_world.md) | 4.64 | 
 | 436 | [Ooblets](games/o/ooblets.md) | 4.87 | 
@@ -731,7 +731,7 @@
 | 729 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
 | 730 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 731 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 732 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
+| 732 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 733 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.78 | 
 | 734 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.39 | 
 | 735 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
