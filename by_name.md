@@ -187,7 +187,7 @@
 | 185 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
 | 186 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 187 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
-| 188 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
+| 188 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 189 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 190 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 191 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
@@ -280,7 +280,7 @@
 | 278 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.62 | 
 | 279 | [Hades](games/h/hades.md) | 4.92 | 
 | 280 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 281 | [Hammerting](games/h/hammerting.md) | 4.42 | 
+| 281 | [Hammerting](games/h/hammerting.md) | 4.44 | 
 | 282 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 283 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
 | 284 | [Haven](games/h/haven.md) | 4.75 | 
@@ -360,7 +360,7 @@
 | 358 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
 | 359 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 360 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 361 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
+| 361 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 362 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
 | 363 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 364 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
@@ -777,7 +777,7 @@
 | 775 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 776 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 
 | 777 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 778 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 778 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
 | 779 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 780 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 781 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 

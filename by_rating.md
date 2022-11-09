@@ -37,12 +37,12 @@
 | 35 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
 | 36 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 37 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
-| 38 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
-| 39 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 40 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
-| 41 | [Subnautica](games/s/subnautica.md) | 4.84 | 
-| 42 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
-| 43 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
+| 38 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 39 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
+| 40 | [Subnautica](games/s/subnautica.md) | 4.84 | 
+| 41 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
+| 42 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
+| 43 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 44 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
 | 45 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 46 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
@@ -383,12 +383,12 @@
 | 381 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.58 | 
 | 382 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 383 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 384 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 385 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
-| 386 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 387 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
-| 388 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 389 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
+| 384 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
+| 385 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 386 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 387 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 388 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
+| 389 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 390 | [Hob](games/h/hob.md) | 4.57 | 
 | 391 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
 | 392 | [Isonzo](games/i/isonzo.md) | 4.57 | 
@@ -396,12 +396,12 @@
 | 394 | [Horace](games/h/horace.md) | 4.57 | 
 | 395 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.57 | 
 | 396 | [NORCO](games/n/norco.md) | 4.57 | 
-| 397 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 398 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 399 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 400 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
-| 401 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 402 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
+| 397 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 398 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 399 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 400 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 401 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
+| 402 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 403 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 404 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 405 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
@@ -551,33 +551,33 @@
 | 549 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
 | 550 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 551 | [Train Valley](games/t/train_valley.md) | 4.44 | 
-| 552 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.44 | 
-| 553 | [Runbow](games/r/runbow.md) | 4.44 | 
-| 554 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 555 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
-| 556 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
-| 557 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 558 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
-| 559 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
-| 560 | [Figment](games/f/figment.md) | 4.43 | 
-| 561 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
-| 562 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
-| 563 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
-| 564 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
-| 565 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 566 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 567 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 568 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 569 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 570 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 571 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
-| 572 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
-| 573 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.42 | 
-| 574 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 575 | [Chorus](games/c/chorus.md) | 4.42 | 
-| 576 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.42 | 
-| 577 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 578 | [Hammerting](games/h/hammerting.md) | 4.42 | 
+| 552 | [Hammerting](games/h/hammerting.md) | 4.44 | 
+| 553 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.44 | 
+| 554 | [Runbow](games/r/runbow.md) | 4.44 | 
+| 555 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 556 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
+| 557 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
+| 558 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 559 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
+| 560 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
+| 561 | [Figment](games/f/figment.md) | 4.43 | 
+| 562 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
+| 563 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
+| 564 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
+| 565 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
+| 566 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 567 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 568 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 569 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 570 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 571 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 572 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
+| 573 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
+| 574 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.42 | 
+| 575 | [Good Company](games/g/good_company.md) | 4.42 | 
+| 576 | [Chorus](games/c/chorus.md) | 4.42 | 
+| 577 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.42 | 
+| 578 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 579 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 580 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 581 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
