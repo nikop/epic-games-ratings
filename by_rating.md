@@ -528,21 +528,21 @@
 | 526 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
 | 527 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
 | 528 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.46 | 
-| 529 | [SMITE](games/s/smite.md) | 4.45 | 
-| 530 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
-| 531 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 532 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 533 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 534 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 535 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 536 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 537 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 538 | [Death Coming](games/d/death_coming.md) | 4.45 | 
-| 539 | [Gloomhaven](games/g/gloomhaven.md) | 4.45 | 
-| 540 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
-| 541 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
-| 542 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
-| 543 | [Scorn](games/s/scorn.md) | 4.45 | 
+| 529 | [Scorn](games/s/scorn.md) | 4.46 | 
+| 530 | [SMITE](games/s/smite.md) | 4.45 | 
+| 531 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
+| 532 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 533 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 534 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 535 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 536 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 537 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 538 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 539 | [Death Coming](games/d/death_coming.md) | 4.45 | 
+| 540 | [Gloomhaven](games/g/gloomhaven.md) | 4.45 | 
+| 541 | [Little Inferno](games/l/little_inferno.md) | 4.45 | 
+| 542 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
+| 543 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
 | 544 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 545 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
 | 546 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
@@ -742,9 +742,9 @@
 | 740 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
 | 741 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 742 | [Relicta](games/r/relicta.md) | 4.12 | 
-| 743 | [Obduction](games/o/obduction.md) | 4.12 | 
-| 744 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
-| 745 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
+| 743 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
+| 744 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
+| 745 | [Obduction](games/o/obduction.md) | 4.11 | 
 | 746 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
 | 747 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
 | 748 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 

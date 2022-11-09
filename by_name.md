@@ -427,7 +427,7 @@
 | 425 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.80 | 
 | 426 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 427 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 428 | [Obduction](games/o/obduction.md) | 4.12 | 
+| 428 | [Obduction](games/o/obduction.md) | 4.11 | 
 | 429 | [Observation](games/o/observation.md) | 4.48 | 
 | 430 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 
 | 431 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
@@ -534,7 +534,7 @@
 | 532 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 533 | [Saturnalia](games/s/saturnalia.md) | 4.27 | 
 | 534 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 535 | [Scorn](games/s/scorn.md) | 4.45 | 
+| 535 | [Scorn](games/s/scorn.md) | 4.46 | 
 | 536 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
 | 537 | [Scrapnaut](games/s/scrapnaut.md) | 4.38 | 
 | 538 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
