@@ -241,7 +241,7 @@
 | 239 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 240 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 241 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
+| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.74 | 
 | 243 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 244 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
 | 245 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -506,7 +506,7 @@
 | 504 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 505 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 506 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 507 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.52 | 
+| 507 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.53 | 
 | 508 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 509 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 510 | [Road 96](games/r/road_96.md) | 4.58 | 

@@ -125,25 +125,25 @@
 | 123 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 124 | [Haven](games/h/haven.md) | 4.75 | 
 | 125 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.75 | 
-| 126 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
-| 127 | [Outlast](games/o/outlast.md) | 4.75 | 
-| 128 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 129 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 130 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 131 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
-| 132 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
-| 133 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
-| 134 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 135 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
-| 136 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 137 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
-| 138 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 139 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
-| 140 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
-| 141 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
-| 142 | [Revita](games/r/revita.md) | 4.74 | 
-| 143 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 144 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
+| 126 | [Outlast](games/o/outlast.md) | 4.75 | 
+| 127 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 128 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 129 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 130 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 131 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
+| 132 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
+| 133 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 134 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
+| 135 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 136 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
+| 137 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 138 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
+| 139 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
+| 140 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
+| 141 | [Revita](games/r/revita.md) | 4.74 | 
+| 142 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 143 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
+| 144 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.74 | 
 | 145 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 146 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 147 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
@@ -432,19 +432,19 @@
 | 430 | [The Medium](games/t/the_medium.md) | 4.54 | 
 | 431 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 432 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 433 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 434 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 435 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 436 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
-| 437 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 438 | [RUINER](games/r/ruiner.md) | 4.53 | 
-| 439 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
-| 440 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
-| 441 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 442 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 443 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 444 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 445 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.52 | 
+| 433 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.53 | 
+| 434 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 435 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 436 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 437 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
+| 438 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 439 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 440 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
+| 441 | [Aragami 2](games/a/aragami_2.md) | 4.53 | 
+| 442 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 443 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 444 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 445 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 446 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 447 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 448 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
