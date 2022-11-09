@@ -9,7 +9,7 @@
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
-| 10 | [ABZU](games/a/abzu.md) | 4.59 | 
+| 10 | [ABZU](games/a/abzu.md) | 4.60 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.50 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
@@ -227,7 +227,7 @@
 | 225 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
 | 226 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.75 | 
 | 227 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.08 | 
-| 228 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 228 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 229 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 230 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 231 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
@@ -241,7 +241,7 @@
 | 239 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 240 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 241 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
+| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 243 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 244 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
 | 245 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -276,7 +276,7 @@
 | 274 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 
 | 275 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 276 | [GRIME](games/g/grime.md) | 4.58 | 
-| 277 | [Grindstone](games/g/grindstone.md) | 4.82 | 
+| 277 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 278 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.62 | 
 | 279 | [Hades](games/h/hades.md) | 4.92 | 
 | 280 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
@@ -287,7 +287,7 @@
 | 285 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
 | 286 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.67 | 
 | 287 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 288 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
+| 288 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 289 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
 | 290 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
 | 291 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
