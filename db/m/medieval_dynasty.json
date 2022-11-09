@@ -813,7 +813,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Easy Combat",
@@ -825,6 +825,10 @@
     },
     {
       "Text": "This game is Educational",
+      "Count": 20
+    },
+    {
+      "Text": "This game has a Creative Community",
       "Count": 20
     }
   ]
