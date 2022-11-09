@@ -61,7 +61,7 @@
 | 59 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 
 | 60 | [Aztez](games/a/aztez.md) | 4.51 | 
 | 61 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 62 | [Backbone](games/b/backbone.md) | 4.41 | 
+| 62 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 63 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 64 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 65 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
@@ -484,7 +484,7 @@
 | 482 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 483 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 484 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 485 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
+| 485 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
 | 486 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
 | 487 | [Rayman Origins](games/r/rayman_origins.md) | 4.76 | 
 | 488 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
@@ -777,15 +777,16 @@
 | 775 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 776 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 777 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
-| 778 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 778 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
 | 779 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 780 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 781 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 782 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 783 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 784 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 785 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 786 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 787 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.64 | 
-| 788 | [ZOMBI](games/z/zombi.md) | 4.35 | 
-| 789 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 782 | [WRC Generations](games/w/wrc_generations.md) | 4.67 | 
+| 783 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 784 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 785 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 786 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 787 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 788 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.64 | 
+| 789 | [ZOMBI](games/z/zombi.md) | 4.35 | 
+| 790 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
