@@ -241,7 +241,7 @@
 | 239 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 240 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 241 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.77 | 
+| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 243 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 244 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
 | 245 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -281,7 +281,7 @@
 | 279 | [Hades](games/h/hades.md) | 4.92 | 
 | 280 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 281 | [Hammerting](games/h/hammerting.md) | 4.42 | 
-| 282 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 282 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 283 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
 | 284 | [Haven](games/h/haven.md) | 4.75 | 
 | 285 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
@@ -595,7 +595,7 @@
 | 593 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 594 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 595 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 596 | [STG Football](games/s/stg_football.md) | 4.58 | 
+| 596 | [STG Football](games/s/stg_football.md) | 4.59 | 
 | 597 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 598 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 599 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
@@ -726,13 +726,13 @@
 | 724 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 725 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
 | 726 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 727 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 727 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
 | 728 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
 | 729 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
 | 730 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 731 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 732 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 
-| 733 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.79 | 
+| 733 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.78 | 
 | 734 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.39 | 
 | 735 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
 | 736 | [UnMetal](games/u/unmetal.md) | 4.50 | 
