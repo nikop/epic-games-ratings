@@ -155,7 +155,7 @@
 | 153 | [Darkwood](games/d/darkwood.md) | 4.60 | 
 | 154 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
 | 155 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 156 | [Days Gone](games/d/days_gone.md) | 4.70 | 
+| 156 | [Days Gone](games/d/days_gone.md) | 4.69 | 
 | 157 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 158 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 159 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
@@ -227,14 +227,14 @@
 | 225 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
 | 226 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.75 | 
 | 227 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.08 | 
-| 228 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
+| 228 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 229 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 230 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 231 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
 | 232 | [Fez](games/f/fez.md) | 4.72 | 
 | 233 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
 | 234 | [Figment](games/f/figment.md) | 4.43 | 
-| 235 | [Filament](games/f/filament.md) | 4.21 | 
+| 235 | [Filament](games/f/filament.md) | 4.22 | 
 | 236 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 237 | [Firework](games/f/firework.md) | 4.88 | 
 | 238 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.34 | 
@@ -414,7 +414,7 @@
 | 412 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
 | 413 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 414 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 415 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 415 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
 | 416 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 417 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 
 | 418 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
@@ -777,7 +777,7 @@
 | 775 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 776 | [World of Goo](games/w/world_of_goo.md) | 4.75 | 
 | 777 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
-| 778 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
+| 778 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 779 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 780 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 781 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
