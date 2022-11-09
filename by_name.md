@@ -132,7 +132,7 @@
 | 130 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 131 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 132 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
-| 133 | [Cris Tales](games/c/cris_tales.md) | 4.38 | 
+| 133 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 134 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
 | 135 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
 | 136 | [CryoFall](games/c/cryofall.md) | 4.50 | 
@@ -191,7 +191,7 @@
 | 189 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 190 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 191 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 192 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
+| 192 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.28 | 
 | 193 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 194 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 195 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.48 | 
@@ -241,7 +241,7 @@
 | 239 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 240 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 241 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.74 | 
+| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.73 | 
 | 243 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 244 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
 | 245 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -255,7 +255,7 @@
 | 253 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
 | 254 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 255 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 256 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.70 | 
+| 256 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.69 | 
 | 257 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
 | 258 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
 | 259 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
@@ -469,9 +469,9 @@
 | 467 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 468 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 469 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 470 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
+| 470 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
 | 471 | [Pine](games/p/pine.md) | 4.14 | 
-| 472 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.42 | 
+| 472 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
 | 473 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 474 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
 | 475 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
