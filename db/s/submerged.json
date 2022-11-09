@@ -1,11 +1,11 @@
 {
   "ID": "96e94abcf61e4b84b1a771ac53c435e4",
   "Name": "Submerged",
-  "Rating": 4.07,
+  "Rating": 4.1,
   "NumberOfRatings": 27,
   "FirstSeen": "2022-07-22T20:27:56.7619059+00:00",
   "FirstSeenRating": "2022-09-05T04:31:47.8805067+00:00",
-  "LastChanged": "2022-11-05T10:32:26.7676187+00:00",
+  "LastChanged": "2022-11-09T10:58:19.4100334+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-05T04:31:47.8805069+00:00",
@@ -35,6 +35,11 @@
     {
       "Time": "2022-11-05T10:32:26.7676192+00:00",
       "Rating": 4.07,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T10:58:19.4100337+00:00",
+      "Rating": 4.1,
       "NumberOfRatings": null
     }
   ],

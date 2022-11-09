@@ -241,7 +241,7 @@
 | 239 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 240 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 241 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.73 | 
+| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.74 | 
 | 243 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 244 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
 | 245 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -352,7 +352,7 @@
 | 350 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.44 | 
 | 351 | [Lake](games/l/lake.md) | 4.08 | 
 | 352 | [Lamentum](games/l/lamentum.md) | 4.36 | 
-| 353 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 
+| 353 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
 | 354 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 355 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
 | 356 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 
@@ -454,7 +454,7 @@
 | 452 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
 | 453 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 454 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.51 | 
-| 455 | [Paradigm](games/p/paradigm.md) | 4.47 | 
+| 455 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 456 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 457 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
 | 458 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
@@ -517,7 +517,7 @@
 | 515 | [Rogue Lords](games/r/rogue_lords.md) | 4.69 | 
 | 516 | [Roguebook](games/r/roguebook.md) | 4.61 | 
 | 517 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 518 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
+| 518 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 519 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
 | 520 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 521 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
@@ -603,7 +603,7 @@
 | 601 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 602 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
 | 603 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
-| 604 | [Submerged](games/s/submerged.md) | 4.07 | 
+| 604 | [Submerged](games/s/submerged.md) | 4.10 | 
 | 605 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 606 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 607 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
@@ -667,7 +667,7 @@
 | 665 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 666 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.28 | 
 | 667 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
-| 668 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 
+| 668 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.20 | 
 | 669 | [The Surge](games/t/the_surge.md) | 4.52 | 
 | 670 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
 | 671 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
