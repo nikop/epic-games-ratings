@@ -74,7 +74,7 @@
 | 72 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 73 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 74 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
-| 75 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
+| 75 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.75 | 
 | 76 | [Before We Leave](games/b/before_we_leave.md) | 4.67 | 
 | 77 | [Beholder 3](games/b/beholder_3.md) | 4.44 | 
 | 78 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
@@ -130,7 +130,7 @@
 | 128 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
 | 129 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 130 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 131 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 131 | [Crayta](games/c/crayta.md) | 4.20 | 
 | 132 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
 | 133 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 134 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
@@ -227,7 +227,7 @@
 | 225 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
 | 226 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.75 | 
 | 227 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.08 | 
-| 228 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 228 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 229 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 230 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 231 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
@@ -358,7 +358,7 @@
 | 356 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 
 | 357 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 358 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
-| 359 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 359 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 360 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 361 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
 | 362 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
@@ -444,7 +444,7 @@
 | 442 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.66 | 
 | 443 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 444 | [Outlast](games/o/outlast.md) | 4.75 | 
-| 445 | [Outlast 2](games/o/outlast_2.md) | 4.78 | 
+| 445 | [Outlast 2](games/o/outlast_2.md) | 4.77 | 
 | 446 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 447 | [Outward](games/o/outward.md) | 4.54 | 
 | 448 | [Overcooked](games/o/overcooked.md) | 4.68 | 
@@ -571,7 +571,7 @@
 | 569 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 570 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 571 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 572 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 572 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
 | 573 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 574 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 575 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
