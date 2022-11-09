@@ -227,7 +227,7 @@
 | 225 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
 | 226 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.75 | 
 | 227 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.08 | 
-| 228 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
+| 228 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 229 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 230 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 231 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
@@ -286,7 +286,7 @@
 | 284 | [Haven](games/h/haven.md) | 4.75 | 
 | 285 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
 | 286 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.67 | 
-| 287 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 287 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 288 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
 | 289 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
 | 290 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
@@ -473,7 +473,7 @@
 | 471 | [Pine](games/p/pine.md) | 4.14 | 
 | 472 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
 | 473 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 474 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
+| 474 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 475 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 476 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 477 | [Prey](games/p/prey.md) | 4.61 | 

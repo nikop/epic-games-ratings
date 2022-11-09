@@ -156,14 +156,14 @@
 | 154 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
 | 155 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.73 | 
 | 156 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
-| 157 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 158 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 159 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
-| 160 | [Fez](games/f/fez.md) | 4.72 | 
-| 161 | [Northgard](games/n/northgard.md) | 4.72 | 
-| 162 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.72 | 
-| 163 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
-| 164 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
+| 157 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 158 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 159 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 160 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
+| 161 | [Fez](games/f/fez.md) | 4.72 | 
+| 162 | [Northgard](games/n/northgard.md) | 4.72 | 
+| 163 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.72 | 
+| 164 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
 | 165 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 166 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 167 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
@@ -424,19 +424,19 @@
 | 422 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 423 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 424 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 425 | [Outward](games/o/outward.md) | 4.54 | 
-| 426 | [RUINER](games/r/ruiner.md) | 4.54 | 
-| 427 | [Aragami 2](games/a/aragami_2.md) | 4.54 | 
-| 428 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
-| 429 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
-| 430 | [Warpips](games/w/warpips.md) | 4.54 | 
-| 431 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 432 | [The Medium](games/t/the_medium.md) | 4.54 | 
-| 433 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 434 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 435 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.53 | 
-| 436 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 437 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 425 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 426 | [Outward](games/o/outward.md) | 4.54 | 
+| 427 | [RUINER](games/r/ruiner.md) | 4.54 | 
+| 428 | [Aragami 2](games/a/aragami_2.md) | 4.54 | 
+| 429 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
+| 430 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
+| 431 | [Warpips](games/w/warpips.md) | 4.54 | 
+| 432 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 433 | [The Medium](games/t/the_medium.md) | 4.54 | 
+| 434 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 435 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 436 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.53 | 
+| 437 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 438 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 439 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
 | 440 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
@@ -784,7 +784,7 @@
 | 782 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.85 | 
 | 783 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 784 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
-| 785 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
+| 785 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 786 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 787 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 
 | 788 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.68 | 
