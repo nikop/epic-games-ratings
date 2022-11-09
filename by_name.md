@@ -18,7 +18,7 @@
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
 | 18 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
+| 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 
@@ -402,7 +402,7 @@
 | 400 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 401 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 402 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 403 | [Mutazione](games/m/mutazione.md) | 4.63 | 
+| 403 | [Mutazione](games/m/mutazione.md) | 4.64 | 
 | 404 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 405 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 406 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
@@ -495,7 +495,7 @@
 | 493 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 494 | [Redout 2](games/r/redout_2.md) | 4.52 | 
 | 495 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 496 | [Relicta](games/r/relicta.md) | 4.12 | 
+| 496 | [Relicta](games/r/relicta.md) | 4.13 | 
 | 497 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 498 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.85 | 
 | 499 | [Revita](games/r/revita.md) | 4.74 | 
@@ -549,7 +549,7 @@
 | 547 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 548 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.15 | 
 | 549 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 550 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
+| 550 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 551 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.40 | 
 | 552 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 553 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
@@ -699,7 +699,7 @@
 | 697 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 698 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
 | 699 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
-| 700 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
+| 700 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
 | 701 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 702 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 703 | [Torchlight](games/t/torchlight.md) | 4.38 | 

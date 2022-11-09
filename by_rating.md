@@ -279,15 +279,15 @@
 | 277 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 278 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
 | 279 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
-| 280 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.64 | 
-| 281 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 282 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 283 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 284 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 285 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 286 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 287 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
-| 288 | [Mutazione](games/m/mutazione.md) | 4.63 | 
+| 280 | [Mutazione](games/m/mutazione.md) | 4.64 | 
+| 281 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.64 | 
+| 282 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 283 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 284 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 285 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 286 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
+| 287 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 288 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 289 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.63 | 
 | 290 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 291 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
@@ -387,21 +387,21 @@
 | 385 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
 | 386 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 387 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
-| 388 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
-| 389 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 390 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
-| 391 | [Hob](games/h/hob.md) | 4.57 | 
-| 392 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
-| 393 | [Isonzo](games/i/isonzo.md) | 4.57 | 
-| 394 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 395 | [Horace](games/h/horace.md) | 4.57 | 
-| 396 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.57 | 
-| 397 | [NORCO](games/n/norco.md) | 4.57 | 
-| 398 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 399 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 400 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 401 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
-| 402 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 388 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 389 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
+| 390 | [Hob](games/h/hob.md) | 4.57 | 
+| 391 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
+| 392 | [Isonzo](games/i/isonzo.md) | 4.57 | 
+| 393 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 394 | [Horace](games/h/horace.md) | 4.57 | 
+| 395 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.57 | 
+| 396 | [NORCO](games/n/norco.md) | 4.57 | 
+| 397 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 398 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 399 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 400 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
+| 401 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 402 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
 | 403 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 404 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 405 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
@@ -546,17 +546,17 @@
 | 544 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 545 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
 | 546 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 547 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
-| 548 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 549 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
-| 550 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
-| 551 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
-| 552 | [Train Valley](games/t/train_valley.md) | 4.44 | 
-| 553 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.44 | 
-| 554 | [Runbow](games/r/runbow.md) | 4.44 | 
-| 555 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 556 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
-| 557 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
+| 547 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 548 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
+| 549 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
+| 550 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 551 | [Train Valley](games/t/train_valley.md) | 4.44 | 
+| 552 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.44 | 
+| 553 | [Runbow](games/r/runbow.md) | 4.44 | 
+| 554 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 555 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
+| 556 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
+| 557 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 558 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
 | 559 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
 | 560 | [Figment](games/f/figment.md) | 4.43 | 
@@ -738,10 +738,10 @@
 | 736 | [Pine](games/p/pine.md) | 4.14 | 
 | 737 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 738 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
-| 739 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
-| 740 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
-| 741 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
-| 742 | [Relicta](games/r/relicta.md) | 4.12 | 
+| 739 | [Relicta](games/r/relicta.md) | 4.13 | 
+| 740 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
+| 741 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
+| 742 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 743 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 744 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 745 | [Obduction](games/o/obduction.md) | 4.11 | 
@@ -761,10 +761,10 @@
 | 759 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 760 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 761 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.05 | 
-| 762 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
-| 763 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
-| 764 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 
-| 765 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.03 | 
+| 762 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
+| 763 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 
+| 764 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.03 | 
+| 765 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
 | 766 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 767 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 768 | [Flatout](games/f/flatout.md) | 4.00 | 
