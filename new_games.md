@@ -6,12 +6,12 @@
 | 4 | [Saturnalia](games/s/saturnalia.md) | 4.27 | 
 | 5 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
 | 6 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.39 | 
-| 7 | [STG Football](games/s/stg_football.md) | 4.59 | 
+| 7 | [STG Football](games/s/stg_football.md) | 4.60 | 
 | 8 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.83 | 
 | 9 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
 | 10 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 
 | 11 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.73 | 
-| 12 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 
+| 12 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 13 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 
 | 14 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.78 | 
 | 15 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 

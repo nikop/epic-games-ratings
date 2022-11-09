@@ -47,7 +47,7 @@
 | 45 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 46 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 47 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 48 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 48 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
 | 49 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
 | 50 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 51 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
@@ -75,7 +75,7 @@
 | 73 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 74 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
 | 75 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.75 | 
-| 76 | [Before We Leave](games/b/before_we_leave.md) | 4.67 | 
+| 76 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
 | 77 | [Beholder 3](games/b/beholder_3.md) | 4.44 | 
 | 78 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
 | 79 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
@@ -133,7 +133,7 @@
 | 131 | [Crayta](games/c/crayta.md) | 4.20 | 
 | 132 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
 | 133 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 134 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
+| 134 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 
 | 135 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
 | 136 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 137 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
@@ -205,7 +205,7 @@
 | 203 | [EVE Online](games/e/eve_online.md) | 4.28 | 
 | 204 | [Everything](games/e/everything.md) | 4.71 | 
 | 205 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
-| 206 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 
+| 206 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 207 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.62 | 
 | 208 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 209 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.56 | 
@@ -248,7 +248,7 @@
 | 246 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 247 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 248 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 249 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 249 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 250 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.22 | 
 | 251 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 252 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
@@ -506,7 +506,7 @@
 | 504 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 505 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 506 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 507 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.53 | 
+| 507 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.52 | 
 | 508 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 509 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 510 | [Road 96](games/r/road_96.md) | 4.58 | 
@@ -556,12 +556,12 @@
 | 554 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 555 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
 | 556 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 557 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
+| 557 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 558 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 559 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 560 | [Slipways](games/s/slipways.md) | 4.70 | 
 | 561 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 562 | [SMITE](games/s/smite.md) | 4.46 | 
+| 562 | [SMITE](games/s/smite.md) | 4.45 | 
 | 563 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 564 | [Solar Ash](games/s/solar_ash.md) | 4.62 | 
 | 565 | [Solitairica](games/s/solitairica.md) | 4.49 | 
@@ -587,7 +587,7 @@
 | 585 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.48 | 
 | 586 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
 | 587 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
-| 588 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
+| 588 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 589 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 590 | [Starsand](games/s/starsand.md) | 4.29 | 
 | 591 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
@@ -595,7 +595,7 @@
 | 593 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 594 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 595 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 596 | [STG Football](games/s/stg_football.md) | 4.59 | 
+| 596 | [STG Football](games/s/stg_football.md) | 4.60 | 
 | 597 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 598 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 599 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
@@ -776,7 +776,7 @@
 | 774 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 775 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 776 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 
-| 777 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
+| 777 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 778 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
 | 779 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 780 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
