@@ -437,17 +437,17 @@
 | 435 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 436 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 437 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 438 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 439 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
-| 440 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 441 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
-| 442 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 443 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 444 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 445 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 446 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.52 | 
-| 447 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 448 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 438 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
+| 439 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 440 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
+| 441 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 442 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 443 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 444 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 445 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.52 | 
+| 446 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 447 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 448 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 449 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
 | 450 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 451 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
@@ -698,16 +698,16 @@
 | 696 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 697 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 698 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
-| 699 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
-| 700 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
-| 701 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 702 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
-| 703 | [Tharsis](games/t/tharsis.md) | 4.23 | 
-| 704 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 705 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.23 | 
-| 706 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 707 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.22 | 
-| 708 | [Filament](games/f/filament.md) | 4.22 | 
+| 699 | [Filament](games/f/filament.md) | 4.24 | 
+| 700 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
+| 701 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
+| 702 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 703 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
+| 704 | [Tharsis](games/t/tharsis.md) | 4.23 | 
+| 705 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
+| 706 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.23 | 
+| 707 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 708 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.22 | 
 | 709 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
 | 710 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 711 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
@@ -766,9 +766,9 @@
 | 764 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 
 | 765 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.03 | 
 | 766 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 767 | [Flatout](games/f/flatout.md) | 4.00 | 
-| 768 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 769 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
+| 767 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
+| 768 | [Flatout](games/f/flatout.md) | 4.00 | 
+| 769 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 770 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 771 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 772 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.98 | 

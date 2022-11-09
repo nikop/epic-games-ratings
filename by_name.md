@@ -162,7 +162,7 @@
 | 160 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 161 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 162 | [Death's Door](games/d/death's_door.md) | 4.65 | 
-| 163 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 163 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
 | 164 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.42 | 
 | 165 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 166 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.56 | 
@@ -234,7 +234,7 @@
 | 232 | [Fez](games/f/fez.md) | 4.72 | 
 | 233 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
 | 234 | [Figment](games/f/figment.md) | 4.43 | 
-| 235 | [Filament](games/f/filament.md) | 4.22 | 
+| 235 | [Filament](games/f/filament.md) | 4.24 | 
 | 236 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 237 | [Firework](games/f/firework.md) | 4.88 | 
 | 238 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.34 | 
@@ -469,7 +469,7 @@
 | 467 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 468 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 469 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 470 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
+| 470 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 471 | [Pine](games/p/pine.md) | 4.14 | 
 | 472 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
 | 473 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
