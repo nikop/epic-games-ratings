@@ -94,14 +94,14 @@
 | 92 | [Diabotical](games/d/diabotical.md) | 4.78 | 
 | 93 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
 | 94 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 95 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 
-| 96 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
-| 97 | [Outlast 2](games/o/outlast_2.md) | 4.78 | 
-| 98 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
-| 99 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
-| 100 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.78 | 
-| 101 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 102 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
+| 95 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
+| 96 | [Outlast 2](games/o/outlast_2.md) | 4.78 | 
+| 97 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
+| 98 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
+| 99 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.78 | 
+| 100 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 101 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
+| 102 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 
 | 103 | [Superliminal](games/s/superliminal.md) | 4.77 | 
 | 104 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.77 | 
 | 105 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
@@ -297,28 +297,28 @@
 | 295 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 296 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 297 | [Solar Ash](games/s/solar_ash.md) | 4.62 | 
-| 298 | [Partisans 1941](games/p/partisans_1941.md) | 4.62 | 
-| 299 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
-| 300 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
-| 301 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.62 | 
-| 302 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
-| 303 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
-| 304 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.62 | 
-| 305 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 306 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 307 | [Prey](games/p/prey.md) | 4.61 | 
-| 308 | [Warframe](games/w/warframe.md) | 4.61 | 
-| 309 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 310 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 311 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 312 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
-| 313 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 314 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 315 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 316 | [20XX](games/2/20xx.md) | 4.61 | 
-| 317 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 318 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
-| 319 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
+| 298 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 
+| 299 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
+| 300 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.62 | 
+| 301 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
+| 302 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
+| 303 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.62 | 
+| 304 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 305 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 306 | [Prey](games/p/prey.md) | 4.61 | 
+| 307 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 308 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 309 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 310 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 311 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 312 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 313 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 314 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 315 | [20XX](games/2/20xx.md) | 4.61 | 
+| 316 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 317 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
+| 318 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
+| 319 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
 | 320 | [Roguebook](games/r/roguebook.md) | 4.61 | 
 | 321 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.61 | 
 | 322 | [Card Shark](games/c/card_shark.md) | 4.61 | 

@@ -335,7 +335,7 @@
 | 333 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 334 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 335 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 336 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 
+| 336 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 
 | 337 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
 | 338 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
 | 339 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
@@ -456,7 +456,7 @@
 | 454 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.51 | 
 | 455 | [Paradigm](games/p/paradigm.md) | 4.47 | 
 | 456 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 457 | [Partisans 1941](games/p/partisans_1941.md) | 4.62 | 
+| 457 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
 | 458 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 459 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
 | 460 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
