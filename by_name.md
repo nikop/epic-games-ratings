@@ -20,8 +20,8 @@
 | 18 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
-| 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
+| 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 
 | 23 | [Among Trees](games/a/among_trees.md) | 4.37 | 
 | 24 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 25 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
@@ -76,7 +76,7 @@
 | 74 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
 | 75 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.75 | 
 | 76 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
-| 77 | [Beholder 3](games/b/beholder_3.md) | 4.44 | 
+| 77 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
 | 78 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
 | 79 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 80 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
@@ -89,7 +89,7 @@
 | 87 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 88 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.37 | 
 | 89 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
-| 90 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 90 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 91 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 92 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 93 | [Breathedge](games/b/breathedge.md) | 4.59 | 
@@ -213,7 +213,7 @@
 | 211 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 212 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.83 | 
 | 213 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 
-| 214 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.73 | 
+| 214 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.74 | 
 | 215 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 216 | [Far Cry](games/f/far_cry.md) | 4.38 | 
 | 217 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
@@ -355,7 +355,7 @@
 | 353 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
 | 354 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 355 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
-| 356 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 
+| 356 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 357 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 358 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.51 | 
 | 359 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
@@ -517,7 +517,7 @@
 | 515 | [Rogue Lords](games/r/rogue_lords.md) | 4.69 | 
 | 516 | [Roguebook](games/r/roguebook.md) | 4.61 | 
 | 517 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 518 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
+| 518 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
 | 519 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
 | 520 | [RUINER](games/r/ruiner.md) | 4.54 | 
 | 521 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
@@ -579,7 +579,7 @@
 | 577 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 578 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.35 | 
 | 579 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
-| 580 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.68 | 
+| 580 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.71 | 
 | 581 | [SpiderHeck](games/s/spiderheck.md) | 4.68 | 
 | 582 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 583 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
@@ -589,7 +589,7 @@
 | 587 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
 | 588 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 589 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
-| 590 | [Starsand](games/s/starsand.md) | 4.29 | 
+| 590 | [Starsand](games/s/starsand.md) | 4.26 | 
 | 591 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 592 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 
 | 593 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
@@ -777,7 +777,7 @@
 | 775 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 776 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 
 | 777 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 778 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
+| 778 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 779 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 780 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 781 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
