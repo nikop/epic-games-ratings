@@ -1,8 +1,8 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.70 | 
+| 1 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
 | 2 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.38 | 
-| 3 | [WRC Generations](games/w/wrc_generations.md) | 4.67 | 
+| 3 | [WRC Generations](games/w/wrc_generations.md) | 4.69 | 
 | 4 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
 | 5 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 
 | 6 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 

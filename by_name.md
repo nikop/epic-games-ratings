@@ -144,7 +144,7 @@
 | 142 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 143 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 144 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
-| 145 | [Dark Deception](games/d/dark_deception.md) | 4.56 | 
+| 145 | [Dark Deception](games/d/dark_deception.md) | 4.58 | 
 | 146 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
 | 147 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 148 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -166,7 +166,7 @@
 | 164 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.42 | 
 | 165 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 166 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.56 | 
-| 167 | [Democracy 4](games/d/democracy_4.md) | 4.30 | 
+| 167 | [Democracy 4](games/d/democracy_4.md) | 4.31 | 
 | 168 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
 | 169 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
 | 170 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
@@ -176,7 +176,7 @@
 | 174 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 175 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 176 | [Diabotical](games/d/diabotical.md) | 4.78 | 
-| 177 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.55 | 
+| 177 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
 | 178 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.41 | 
 | 179 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 180 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
@@ -241,7 +241,7 @@
 | 239 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 240 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 241 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.70 | 
+| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
 | 243 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 244 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
 | 245 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -757,7 +757,7 @@
 | 755 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
 | 756 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.40 | 
 | 757 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
-| 758 | [Warpips](games/w/warpips.md) | 4.54 | 
+| 758 | [Warpips](games/w/warpips.md) | 4.55 | 
 | 759 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 760 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 761 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
@@ -778,11 +778,11 @@
 | 776 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 777 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 
 | 778 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 779 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 779 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
 | 780 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 781 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 782 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 783 | [WRC Generations](games/w/wrc_generations.md) | 4.67 | 
+| 783 | [WRC Generations](games/w/wrc_generations.md) | 4.69 | 
 | 784 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 785 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 786 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
