@@ -414,7 +414,7 @@
 | 412 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
 | 413 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 414 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 415 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
+| 415 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
 | 416 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 417 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 
 | 418 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
@@ -551,7 +551,7 @@
 | 549 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.53 | 
 | 550 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 551 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.40 | 
-| 552 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
+| 552 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 553 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 554 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 555 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
@@ -698,11 +698,11 @@
 | 696 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.29 | 
 | 697 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 698 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
-| 699 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
+| 699 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
 | 700 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
 | 701 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 702 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 703 | [Torchlight](games/t/torchlight.md) | 4.38 | 
+| 703 | [Torchlight](games/t/torchlight.md) | 4.37 | 
 | 704 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 705 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 706 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
@@ -777,7 +777,7 @@
 | 775 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 776 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 
 | 777 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 778 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
+| 778 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 779 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 780 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 781 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 

@@ -1,10 +1,10 @@
 {
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
-  "Rating": 3.97,
+  "Rating": 3.98,
   "NumberOfRatings": 12664,
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
-  "LastChanged": "2022-11-10T02:53:38.7998835+00:00",
+  "LastChanged": "2022-11-10T09:01:45.6584564+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:09.8321218+00:00",
@@ -3195,6 +3195,11 @@
       "Time": "2022-11-10T02:53:38.7998837+00:00",
       "Rating": 3.97,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T09:01:45.6584566+00:00",
+      "Rating": 3.98,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -3228,7 +3233,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 3159
+      "Count": 3177
     }
   ]
 }
