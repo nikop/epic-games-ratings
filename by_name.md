@@ -408,7 +408,7 @@
 | 406 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 407 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 408 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 409 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 409 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 410 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
 | 411 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 412 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
@@ -506,7 +506,7 @@
 | 504 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 505 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 506 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 507 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.52 | 
+| 507 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.51 | 
 | 508 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 509 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 510 | [Road 96](games/r/road_96.md) | 4.58 | 
@@ -541,7 +541,7 @@
 | 539 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 540 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 541 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
-| 542 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.75 | 
+| 542 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.74 | 
 | 543 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 544 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 545 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
@@ -689,7 +689,7 @@
 | 687 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 688 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 689 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
-| 690 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 690 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 691 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 692 | [Timberborn](games/t/timberborn.md) | 4.70 | 
 | 693 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
@@ -699,7 +699,7 @@
 | 697 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 698 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
 | 699 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
-| 700 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
+| 700 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.57 | 
 | 701 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 702 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 703 | [Torchlight](games/t/torchlight.md) | 4.37 | 

@@ -1,10 +1,10 @@
 {
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
-  "Rating": 4.75,
+  "Rating": 4.74,
   "NumberOfRatings": 495,
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
-  "LastChanged": "2022-10-25T19:33:06.5754713+00:00",
+  "LastChanged": "2022-11-10T13:39:26.8347502+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:59.8684255+00:00",
@@ -585,6 +585,11 @@
       "Time": "2022-10-25T19:33:06.5754715+00:00",
       "Rating": 4.75,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T13:39:26.8347504+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -615,6 +620,10 @@
     {
       "Text": "This game has Diverse Characters",
       "Count": 33
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Count": 20
     }
   ]
 }
