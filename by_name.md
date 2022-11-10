@@ -24,7 +24,7 @@
 | 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 23 | [Among Trees](games/a/among_trees.md) | 4.38 | 
 | 24 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 25 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
+| 25 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 26 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 27 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 28 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
@@ -127,7 +127,7 @@
 | 125 | [Coromon](games/c/coromon.md) | 4.65 | 
 | 126 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
 | 127 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
-| 128 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
+| 128 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
 | 129 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 130 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 131 | [Crayta](games/c/crayta.md) | 4.20 | 
@@ -203,7 +203,7 @@
 | 201 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 202 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 203 | [EVE Online](games/e/eve_online.md) | 4.28 | 
-| 204 | [Everything](games/e/everything.md) | 4.71 | 
+| 204 | [Everything](games/e/everything.md) | 4.64 | 
 | 205 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 206 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 207 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.62 | 
@@ -229,7 +229,7 @@
 | 227 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.09 | 
 | 228 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 229 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 230 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 230 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 231 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
 | 232 | [Fez](games/f/fez.md) | 4.72 | 
 | 233 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
@@ -241,7 +241,7 @@
 | 239 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 240 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 241 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
+| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
 | 243 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 244 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.41 | 
 | 245 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -256,7 +256,7 @@
 | 254 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 255 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 256 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.65 | 
-| 257 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
+| 257 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
 | 258 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
 | 259 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
 | 260 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -274,7 +274,7 @@
 | 272 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
 | 273 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 274 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 
-| 275 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 275 | [Griftlands](games/g/griftlands.md) | 4.80 | 
 | 276 | [GRIME](games/g/grime.md) | 4.58 | 
 | 277 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 278 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.62 | 
@@ -295,7 +295,7 @@
 | 293 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 294 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 295 | [Hob](games/h/hob.md) | 4.56 | 
-| 296 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.41 | 
+| 296 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.40 | 
 | 297 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 298 | [Horace](games/h/horace.md) | 4.57 | 
 | 299 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -315,7 +315,7 @@
 | 313 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
 | 314 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
 | 315 | [Industries of Titan](games/i/industries_of_titan.md) | 4.52 | 
-| 316 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 316 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 317 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 318 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
 | 319 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
@@ -558,7 +558,7 @@
 | 556 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 557 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
 | 558 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 559 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 559 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
 | 560 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 561 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 562 | [Slipways](games/s/slipways.md) | 4.70 | 

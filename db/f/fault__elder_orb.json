@@ -1,10 +1,10 @@
 {
   "ID": "644221d9c96142f9b149c983362c5074",
   "Name": "Fault: Elder Orb",
-  "Rating": 3.91,
+  "Rating": 3.92,
   "NumberOfRatings": 723,
   "FirstSeen": "2022-07-22T20:21:40.2503475+00:00",
-  "LastChanged": "2022-11-06T19:57:18.9439847+00:00",
+  "LastChanged": "2022-11-10T22:57:45.6186627+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:40.2503477+00:00",
@@ -1335,6 +1335,11 @@
       "Time": "2022-11-06T19:57:18.9439849+00:00",
       "Rating": 3.91,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T22:57:45.6186629+00:00",
+      "Rating": 3.92,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -1356,7 +1361,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 98
+      "Count": 99
     },
     {
       "Text": "This game is Highly Recommended",
