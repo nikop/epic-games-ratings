@@ -1,5 +1,5 @@
 # Alan Wake’s American Nightmare
-Rating: 4.18 (82)  (as of 23.09.2022)  
+Rating: 4.16 (82)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -52,3 +52,4 @@ Rating: 4.18 (82)  (as of 23.09.2022)
 | 2022-10-24 | 4.19 | - |
 | 2022-10-31 | 4.17 | - |
 | 2022-11-01 | 4.18 | - |
+| 2022-11-10 | 4.16 | - |

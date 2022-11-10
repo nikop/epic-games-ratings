@@ -16,7 +16,7 @@
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
-| 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
+| 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.16 | 
 | 18 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
@@ -33,7 +33,7 @@
 | 31 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
 | 32 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 33 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.50 | 
-| 34 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
+| 34 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
 | 35 | [APE OUT](games/a/ape_out.md) | 4.70 | 
 | 36 | [Aragami 2](games/a/aragami_2.md) | 4.54 | 
 | 37 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.63 | 
@@ -89,7 +89,7 @@
 | 87 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 88 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.37 | 
 | 89 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
-| 90 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 90 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 91 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 92 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 93 | [Breathedge](games/b/breathedge.md) | 4.59 | 
@@ -224,7 +224,7 @@
 | 222 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.40 | 
 | 223 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.68 | 
 | 224 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
-| 225 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
+| 225 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.75 | 
 | 226 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.75 | 
 | 227 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.09 | 
 | 228 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
@@ -241,7 +241,7 @@
 | 239 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 240 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 241 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
+| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.73 | 
 | 243 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 244 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.41 | 
 | 245 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -387,7 +387,7 @@
 | 385 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
 | 386 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 387 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 388 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 388 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 389 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 390 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 391 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
@@ -432,7 +432,7 @@
 | 430 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 
 | 431 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
 | 432 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
-| 433 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.46 | 
+| 433 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
 | 434 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
 | 435 | [Old World](games/o/old_world.md) | 4.64 | 
 | 436 | [Ooblets](games/o/ooblets.md) | 4.87 | 
@@ -462,7 +462,7 @@
 | 460 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 461 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 462 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 463 | [Patron](games/p/patron.md) | 3.92 | 
+| 463 | [Patron](games/p/patron.md) | 3.94 | 
 | 464 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 465 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 466 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
@@ -656,7 +656,7 @@
 | 654 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 655 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
 | 656 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
-| 657 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.46 | 
+| 657 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.47 | 
 | 658 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
 | 659 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.72 | 
 | 660 | [The Lion's Song](games/t/the_lion's_song.md) | 4.44 | 
