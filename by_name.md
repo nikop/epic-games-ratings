@@ -75,7 +75,7 @@
 | 73 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 74 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
 | 75 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.75 | 
-| 76 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
+| 76 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
 | 77 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
 | 78 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
 | 79 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
@@ -89,7 +89,7 @@
 | 87 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 88 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.37 | 
 | 89 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
-| 90 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
+| 90 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 91 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 92 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 93 | [Breathedge](games/b/breathedge.md) | 4.59 | 
@@ -234,7 +234,7 @@
 | 232 | [Fez](games/f/fez.md) | 4.72 | 
 | 233 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
 | 234 | [Figment](games/f/figment.md) | 4.43 | 
-| 235 | [Filament](games/f/filament.md) | 4.25 | 
+| 235 | [Filament](games/f/filament.md) | 4.27 | 
 | 236 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 237 | [Firework](games/f/firework.md) | 4.88 | 
 | 238 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.34 | 
@@ -533,7 +533,7 @@
 | 531 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.59 | 
 | 532 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 533 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 534 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 
+| 534 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 535 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 536 | [Scorn](games/s/scorn.md) | 4.46 | 
 | 537 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
@@ -708,7 +708,7 @@
 | 706 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 707 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 708 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
-| 709 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 709 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 710 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 711 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.47 | 
 | 712 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.71 | 
@@ -745,7 +745,7 @@
 | 743 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.77 | 
 | 744 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 745 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.18 | 
-| 746 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 746 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 747 | [Verdun](games/v/verdun.md) | 4.51 | 
 | 748 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 749 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
@@ -779,7 +779,7 @@
 | 777 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 778 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 
 | 779 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 780 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
+| 780 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 781 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 782 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 783 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 

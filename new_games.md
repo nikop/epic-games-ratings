@@ -5,7 +5,7 @@
 | 3 | [WRC Generations](games/w/wrc_generations.md) | 4.69 | 
 | 4 | [shapez](games/s/shapez.md) | 4.81 | 
 | 5 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
-| 6 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 
+| 6 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 7 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
 | 8 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.40 | 
 | 9 | [STG Football](games/s/stg_football.md) | 4.60 | 
