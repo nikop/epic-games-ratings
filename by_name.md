@@ -168,7 +168,7 @@
 | 166 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.56 | 
 | 167 | [Democracy 4](games/d/democracy_4.md) | 4.30 | 
 | 168 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
-| 169 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.59 | 
+| 169 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
 | 170 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 171 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 172 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
@@ -191,7 +191,7 @@
 | 189 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 190 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 191 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 192 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.28 | 
+| 192 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.30 | 
 | 193 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 194 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 195 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.48 | 
@@ -241,7 +241,7 @@
 | 239 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 240 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 241 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.73 | 
+| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.70 | 
 | 243 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 244 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
 | 245 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -742,7 +742,7 @@
 | 740 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 741 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.77 | 
 | 742 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 743 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
+| 743 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.18 | 
 | 744 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 745 | [Verdun](games/v/verdun.md) | 4.51 | 
 | 746 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 

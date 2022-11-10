@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.73 | 
+| 1 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.70 | 
 | 2 | [WRC Generations](games/w/wrc_generations.md) | 4.67 | 
 | 3 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
 | 4 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 
