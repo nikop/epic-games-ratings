@@ -54,7 +54,7 @@
 | 52 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.57 | 
 | 53 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
 | 54 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
-| 55 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 55 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 56 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 57 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 58 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
@@ -175,7 +175,7 @@
 | 173 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
 | 174 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 175 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 176 | [Diabotical](games/d/diabotical.md) | 4.78 | 
+| 176 | [Diabotical](games/d/diabotical.md) | 4.77 | 
 | 177 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
 | 178 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.41 | 
 | 179 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
@@ -234,14 +234,14 @@
 | 232 | [Fez](games/f/fez.md) | 4.72 | 
 | 233 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
 | 234 | [Figment](games/f/figment.md) | 4.43 | 
-| 235 | [Filament](games/f/filament.md) | 4.27 | 
+| 235 | [Filament](games/f/filament.md) | 4.26 | 
 | 236 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 237 | [Firework](games/f/firework.md) | 4.88 | 
 | 238 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.34 | 
 | 239 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 240 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 241 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
+| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
 | 243 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 244 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.41 | 
 | 245 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -350,7 +350,7 @@
 | 348 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
 | 349 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.59 | 
 | 350 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.44 | 
-| 351 | [Lake](games/l/lake.md) | 4.08 | 
+| 351 | [Lake](games/l/lake.md) | 4.04 | 
 | 352 | [Lamentum](games/l/lamentum.md) | 4.36 | 
 | 353 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
 | 354 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
@@ -586,7 +586,7 @@
 | 584 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 585 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 586 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
-| 587 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.48 | 
+| 587 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
 | 588 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
 | 589 | [Star Renegades](games/s/star_renegades.md) | 4.36 | 
 | 590 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
@@ -670,7 +670,7 @@
 | 668 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.28 | 
 | 669 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 670 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.20 | 
-| 671 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 671 | [The Surge](games/t/the_surge.md) | 4.51 | 
 | 672 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
 | 673 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 674 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
@@ -783,7 +783,7 @@
 | 781 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 782 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 783 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 784 | [WRC Generations](games/w/wrc_generations.md) | 4.69 | 
+| 784 | [WRC Generations](games/w/wrc_generations.md) | 4.63 | 
 | 785 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 786 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 787 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 

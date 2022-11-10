@@ -1,10 +1,10 @@
 {
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
-  "Rating": 4.27,
+  "Rating": 4.26,
   "FirstSeen": "2022-08-17T12:30:54.1950593+00:00",
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
-  "LastChanged": "2022-11-10T18:58:21.3193508+00:00",
+  "LastChanged": "2022-11-10T21:57:32.2695079+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-04T12:32:28.2806396+00:00",
@@ -70,12 +70,17 @@
       "Time": "2022-11-10T18:58:21.3193512+00:00",
       "Rating": 4.27,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T21:57:32.269508+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
-      "Count": 72
+      "Count": 107
     }
   ]
 }
