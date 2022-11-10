@@ -234,7 +234,7 @@
 | 232 | [Fez](games/f/fez.md) | 4.72 | 
 | 233 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
 | 234 | [Figment](games/f/figment.md) | 4.43 | 
-| 235 | [Filament](games/f/filament.md) | 4.24 | 
+| 235 | [Filament](games/f/filament.md) | 4.25 | 
 | 236 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 237 | [Firework](games/f/firework.md) | 4.88 | 
 | 238 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.34 | 
@@ -395,7 +395,7 @@
 | 393 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 394 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 395 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
-| 396 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
+| 396 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 397 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 398 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 399 | [Moving Out](games/m/moving_out.md) | 4.59 | 
@@ -469,8 +469,8 @@
 | 467 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 468 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 469 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 470 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
-| 471 | [Pine](games/p/pine.md) | 4.14 | 
+| 470 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
+| 471 | [Pine](games/p/pine.md) | 4.13 | 
 | 472 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
 | 473 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 474 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
@@ -571,7 +571,7 @@
 | 569 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 570 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 571 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 572 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
+| 572 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
 | 573 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 574 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 575 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
