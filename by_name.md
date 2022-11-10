@@ -15,7 +15,7 @@
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
-| 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.18 | 
 | 18 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
@@ -264,7 +264,7 @@
 | 262 | [Gloomhaven](games/g/gloomhaven.md) | 4.45 | 
 | 263 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 264 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
-| 265 | [Godfall](games/g/godfall.md) | 4.06 | 
+| 265 | [Godfall](games/g/godfall.md) | 4.05 | 
 | 266 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
 | 267 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
 | 268 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
@@ -325,7 +325,7 @@
 | 323 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 324 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 325 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
-| 326 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
+| 326 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 327 | [Journey](games/j/journey.md) | 4.76 | 
 | 328 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 329 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
@@ -481,7 +481,7 @@
 | 479 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.42 | 
 | 480 | [Quake](games/q/quake.md) | 4.81 | 
 | 481 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 482 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 482 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 483 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 484 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 485 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
@@ -551,7 +551,7 @@
 | 549 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 550 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 551 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.40 | 
-| 552 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
+| 552 | [Shop Titans](games/s/shop_titans.md) | 3.97 | 
 | 553 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 554 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 555 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
@@ -572,7 +572,7 @@
 | 570 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 571 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 572 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.78 | 
-| 573 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
+| 573 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 574 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 575 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
 | 576 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
