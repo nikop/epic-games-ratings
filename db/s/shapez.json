@@ -1,7 +1,16 @@
 {
   "ID": "315e6807f6684c279fc286d0fc36a44f",
   "Name": "shapez",
+  "Rating": 4.81,
   "FirstSeen": "2022-11-01T20:01:20.018196+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-11-10T15:57:35.7088081+00:00",
+  "LastChanged": "2022-11-10T15:57:35.7088083+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-11-10T15:57:35.7088088+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
