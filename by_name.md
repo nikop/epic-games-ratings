@@ -158,7 +158,7 @@
 | 156 | [Days Gone](games/d/days_gone.md) | 4.69 | 
 | 157 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 158 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 159 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
+| 159 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 160 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 161 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 162 | [Death's Door](games/d/death's_door.md) | 4.65 | 
@@ -186,7 +186,7 @@
 | 184 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 185 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
 | 186 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 187 | [DOOM II](games/d/doom_ii.md) | 4.81 | 
+| 187 | [DOOM II](games/d/doom_ii.md) | 4.76 | 
 | 188 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 189 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 190 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
@@ -286,7 +286,7 @@
 | 284 | [Haven](games/h/haven.md) | 4.75 | 
 | 285 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
 | 286 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.67 | 
-| 287 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 287 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 288 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 289 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
 | 290 | [Hero's Hour](games/h/hero's_hour.md) | 4.34 | 
@@ -458,7 +458,7 @@
 | 456 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 457 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 458 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 459 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 459 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 460 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 461 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 462 | [Patron](games/p/patron.md) | 3.92 | 
@@ -587,7 +587,7 @@
 | 585 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.48 | 
 | 586 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
 | 587 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
-| 588 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
+| 588 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
 | 589 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 590 | [Starsand](games/s/starsand.md) | 4.26 | 
 | 591 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
