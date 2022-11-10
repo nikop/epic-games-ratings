@@ -2,7 +2,7 @@
 | --- | ---- | ------ | 
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.21 | 
 | 2 | [20XX](games/2/20xx.md) | 4.61 | 
-| 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.37 | 
+| 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.38 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
@@ -226,7 +226,7 @@
 | 224 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
 | 225 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.74 | 
 | 226 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.75 | 
-| 227 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.08 | 
+| 227 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.09 | 
 | 228 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 229 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 230 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
@@ -258,7 +258,7 @@
 | 256 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.65 | 
 | 257 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
 | 258 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.43 | 
-| 259 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 259 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
 | 260 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 261 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 262 | [Gloomhaven](games/g/gloomhaven.md) | 4.45 | 
@@ -294,7 +294,7 @@
 | 292 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 293 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 294 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 295 | [Hob](games/h/hob.md) | 4.57 | 
+| 295 | [Hob](games/h/hob.md) | 4.56 | 
 | 296 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.40 | 
 | 297 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 298 | [Horace](games/h/horace.md) | 4.57 | 
@@ -537,7 +537,7 @@
 | 535 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 536 | [Scorn](games/s/scorn.md) | 4.46 | 
 | 537 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
-| 538 | [Scrapnaut](games/s/scrapnaut.md) | 4.38 | 
+| 538 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
 | 539 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 540 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 541 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
@@ -545,7 +545,7 @@
 | 543 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.74 | 
 | 544 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 545 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
-| 546 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
+| 546 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 547 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
 | 548 | [shapez](games/s/shapez.md) | 4.81 | 
 | 549 | [Sheltered](games/s/sheltered.md) | 4.42 | 
