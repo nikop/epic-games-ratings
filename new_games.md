@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
+| 1 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
 | 2 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.38 | 
 | 3 | [WRC Generations](games/w/wrc_generations.md) | 4.69 | 
 | 4 | [shapez](games/s/shapez.md) | 4.81 | 

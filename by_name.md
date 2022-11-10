@@ -21,7 +21,7 @@
 | 19 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
 | 20 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 21 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 
+| 22 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 23 | [Among Trees](games/a/among_trees.md) | 4.37 | 
 | 24 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 25 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
@@ -34,7 +34,7 @@
 | 32 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 33 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.50 | 
 | 34 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 
-| 35 | [APE OUT](games/a/ape_out.md) | 4.69 | 
+| 35 | [APE OUT](games/a/ape_out.md) | 4.70 | 
 | 36 | [Aragami 2](games/a/aragami_2.md) | 4.54 | 
 | 37 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.63 | 
 | 38 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
@@ -134,7 +134,7 @@
 | 132 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
 | 133 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 134 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 
-| 135 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 
+| 135 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 136 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 137 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 138 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.67 | 
@@ -155,7 +155,7 @@
 | 153 | [Darkwood](games/d/darkwood.md) | 4.60 | 
 | 154 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
 | 155 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 156 | [Days Gone](games/d/days_gone.md) | 4.69 | 
+| 156 | [Days Gone](games/d/days_gone.md) | 4.70 | 
 | 157 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 158 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 159 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
@@ -241,7 +241,7 @@
 | 239 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 240 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 241 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
+| 242 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
 | 243 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 244 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.41 | 
 | 245 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -271,7 +271,7 @@
 | 269 | [Gone Home](games/g/gone_home.md) | 4.14 | 
 | 270 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 271 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
-| 272 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
+| 272 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
 | 273 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 274 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 
 | 275 | [Griftlands](games/g/griftlands.md) | 4.81 | 
@@ -389,7 +389,7 @@
 | 387 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 388 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 389 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 390 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
+| 390 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 391 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
 | 392 | [Minit](games/m/minit.md) | 4.56 | 
 | 393 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
@@ -424,7 +424,7 @@
 | 422 | [No Straight Roads](games/n/no_straight_roads.md) | 4.70 | 
 | 423 | [NORCO](games/n/norco.md) | 4.57 | 
 | 424 | [Northgard](games/n/northgard.md) | 4.72 | 
-| 425 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.80 | 
+| 425 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
 | 426 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 427 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 428 | [Obduction](games/o/obduction.md) | 4.11 | 
@@ -563,7 +563,7 @@
 | 561 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 562 | [Slipways](games/s/slipways.md) | 4.70 | 
 | 563 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 564 | [SMITE](games/s/smite.md) | 4.45 | 
+| 564 | [SMITE](games/s/smite.md) | 4.46 | 
 | 565 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 566 | [Solar Ash](games/s/solar_ash.md) | 4.62 | 
 | 567 | [Solitairica](games/s/solitairica.md) | 4.49 | 
@@ -587,8 +587,8 @@
 | 585 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 586 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
 | 587 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.48 | 
-| 588 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
-| 589 | [Star Renegades](games/s/star_renegades.md) | 4.37 | 
+| 588 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
+| 589 | [Star Renegades](games/s/star_renegades.md) | 4.36 | 
 | 590 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
 | 591 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 592 | [Starsand](games/s/starsand.md) | 4.26 | 
@@ -659,7 +659,7 @@
 | 657 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.46 | 
 | 658 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
 | 659 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.72 | 
-| 660 | [The Lion's Song](games/t/the_lion's_song.md) | 4.46 | 
+| 660 | [The Lion's Song](games/t/the_lion's_song.md) | 4.44 | 
 | 661 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 662 | [The Medium](games/t/the_medium.md) | 4.54 | 
 | 663 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
