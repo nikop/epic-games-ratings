@@ -437,21 +437,21 @@
 | 435 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 436 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 437 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
-| 438 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 439 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
-| 440 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 441 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 442 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 443 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
-| 444 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 445 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.52 | 
-| 446 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 447 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 448 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
-| 449 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
-| 450 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 451 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
-| 452 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
+| 438 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.53 | 
+| 439 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 440 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
+| 441 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 442 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 443 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 444 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 445 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 446 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.52 | 
+| 447 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 448 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 449 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 450 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
+| 451 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 452 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
 | 453 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 454 | [Industries of Titan](games/i/industries_of_titan.md) | 4.52 | 
 | 455 | [The Surge](games/t/the_surge.md) | 4.52 | 
