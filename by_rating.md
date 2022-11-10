@@ -318,27 +318,27 @@
 | 316 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 317 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
 | 318 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
-| 319 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
-| 320 | [Roguebook](games/r/roguebook.md) | 4.61 | 
-| 321 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.61 | 
-| 322 | [Card Shark](games/c/card_shark.md) | 4.61 | 
-| 323 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
-| 324 | [Control](games/c/control.md) | 4.60 | 
-| 325 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 326 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 327 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 328 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 329 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
-| 330 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
-| 331 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
-| 332 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 333 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
-| 334 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 335 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 336 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
-| 337 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
-| 338 | [ABZU](games/a/abzu.md) | 4.60 | 
-| 339 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 319 | [Roguebook](games/r/roguebook.md) | 4.61 | 
+| 320 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.61 | 
+| 321 | [Card Shark](games/c/card_shark.md) | 4.61 | 
+| 322 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
+| 323 | [Control](games/c/control.md) | 4.60 | 
+| 324 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 325 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 326 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 327 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 328 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
+| 329 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
+| 330 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
+| 331 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 332 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
+| 333 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 334 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 335 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
+| 336 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
+| 337 | [ABZU](games/a/abzu.md) | 4.60 | 
+| 338 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 339 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 340 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
 | 341 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 342 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
@@ -351,8 +351,8 @@
 | 349 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
 | 350 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 351 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 352 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
-| 353 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
+| 352 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
+| 353 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 354 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
 | 355 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.59 | 
 | 356 | [RiME](games/r/rime.md) | 4.59 | 
@@ -371,9 +371,9 @@
 | 369 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 370 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 371 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 372 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
-| 373 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
-| 374 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
+| 372 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
+| 373 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
+| 374 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
 | 375 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 376 | [Road 96](games/r/road_96.md) | 4.58 | 
 | 377 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
@@ -685,13 +685,13 @@
 | 683 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 684 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.28 | 
 | 685 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 686 | [The Fall](games/t/the_fall.md) | 4.27 | 
-| 687 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 688 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
-| 689 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
-| 690 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 691 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 692 | [City of Brass](games/c/city_of_brass.md) | 4.26 | 
+| 686 | [Parkitect](games/p/parkitect.md) | 4.27 | 
+| 687 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
+| 688 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
+| 689 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 690 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 691 | [City of Brass](games/c/city_of_brass.md) | 4.26 | 
+| 692 | [The Fall](games/t/the_fall.md) | 4.26 | 
 | 693 | [Starsand](games/s/starsand.md) | 4.26 | 
 | 694 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 
 | 695 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 

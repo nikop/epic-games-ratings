@@ -456,7 +456,7 @@
 | 454 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.51 | 
 | 455 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 456 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 457 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
+| 457 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 458 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 459 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
 | 460 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
@@ -609,7 +609,7 @@
 | 607 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 608 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 609 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
-| 610 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 
+| 610 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 611 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
 | 612 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
 | 613 | [SUPERHOT](games/s/superhot.md) | 4.69 | 
@@ -646,7 +646,7 @@
 | 644 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 645 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 646 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
-| 647 | [The Fall](games/t/the_fall.md) | 4.27 | 
+| 647 | [The Fall](games/t/the_fall.md) | 4.26 | 
 | 648 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
 | 649 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.73 | 
 | 650 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
@@ -690,7 +690,7 @@
 | 688 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 689 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 690 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 691 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
+| 691 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 692 | [Timberborn](games/t/timberborn.md) | 4.70 | 
 | 693 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 694 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
