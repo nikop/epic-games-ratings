@@ -81,7 +81,7 @@
 | 79 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 80 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 81 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
-| 82 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 82 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
 | 83 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 84 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.29 | 
 | 85 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
@@ -556,7 +556,7 @@
 | 554 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 555 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 556 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 557 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
+| 557 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 
 | 558 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 559 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
 | 560 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 

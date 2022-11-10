@@ -267,20 +267,20 @@
 | 265 | [Coromon](games/c/coromon.md) | 4.65 | 
 | 266 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
 | 267 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.65 | 
-| 268 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 269 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 270 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 271 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 272 | [Old World](games/o/old_world.md) | 4.64 | 
-| 273 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 274 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 275 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 276 | [Limbo](games/l/limbo.md) | 4.64 | 
-| 277 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
-| 278 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
-| 279 | [Mutazione](games/m/mutazione.md) | 4.64 | 
-| 280 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.64 | 
-| 281 | [Everything](games/e/everything.md) | 4.64 | 
+| 268 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 269 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 270 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 271 | [Old World](games/o/old_world.md) | 4.64 | 
+| 272 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 273 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
+| 274 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
+| 275 | [Limbo](games/l/limbo.md) | 4.64 | 
+| 276 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
+| 277 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
+| 278 | [Mutazione](games/m/mutazione.md) | 4.64 | 
+| 279 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.64 | 
+| 280 | [Everything](games/e/everything.md) | 4.64 | 
+| 281 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
 | 282 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 283 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 284 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
@@ -491,20 +491,20 @@
 | 489 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.50 | 
 | 490 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.50 | 
 | 491 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
-| 492 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
-| 493 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 494 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 495 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
-| 496 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 497 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 498 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 499 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 500 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 501 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 502 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 503 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 504 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 505 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
+| 492 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 
+| 493 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
+| 494 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 495 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 496 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
+| 497 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 498 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 499 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 500 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 501 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 502 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 503 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 504 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 505 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 506 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
 | 507 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 508 | [Riverbond](games/r/riverbond.md) | 4.48 | 
