@@ -268,7 +268,7 @@
 | 266 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
 | 267 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
 | 268 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 269 | [Gone Home](games/g/gone_home.md) | 4.19 | 
+| 269 | [Gone Home](games/g/gone_home.md) | 4.14 | 
 | 270 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 271 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
 | 272 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
@@ -393,7 +393,7 @@
 | 391 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
 | 392 | [Minit](games/m/minit.md) | 4.55 | 
 | 393 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
-| 394 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
+| 394 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 395 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 396 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
 | 397 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
@@ -532,7 +532,7 @@
 | 530 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.59 | 
 | 531 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 532 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 533 | [Saturnalia](games/s/saturnalia.md) | 4.27 | 
+| 533 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 
 | 534 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 535 | [Scorn](games/s/scorn.md) | 4.46 | 
 | 536 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
@@ -770,7 +770,7 @@
 | 768 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
 | 769 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 770 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
-| 771 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 771 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 772 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 773 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 774 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
@@ -784,7 +784,7 @@
 | 782 | [WRC Generations](games/w/wrc_generations.md) | 4.67 | 
 | 783 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 784 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 785 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 785 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 786 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 787 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 788 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.64 | 
