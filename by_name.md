@@ -57,7 +57,7 @@
 | 55 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 56 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 57 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 58 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
+| 58 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 59 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 
 | 60 | [Aztez](games/a/aztez.md) | 4.51 | 
 | 61 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
@@ -394,7 +394,7 @@
 | 392 | [Minit](games/m/minit.md) | 4.55 | 
 | 393 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 394 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 395 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
+| 395 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 396 | [Mothergunship](games/m/mothergunship.md) | 4.41 | 
 | 397 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 398 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
@@ -547,7 +547,7 @@
 | 545 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 546 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
 | 547 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 548 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.15 | 
+| 548 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
 | 549 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.53 | 
 | 550 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 551 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.40 | 

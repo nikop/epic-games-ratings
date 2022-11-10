@@ -428,18 +428,18 @@
 | 426 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 427 | [Outward](games/o/outward.md) | 4.54 | 
 | 428 | [RUINER](games/r/ruiner.md) | 4.54 | 
-| 429 | [Aragami 2](games/a/aragami_2.md) | 4.54 | 
-| 430 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
-| 431 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
-| 432 | [Warpips](games/w/warpips.md) | 4.54 | 
-| 433 | [The Medium](games/t/the_medium.md) | 4.54 | 
-| 434 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 435 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 436 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 437 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
-| 438 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.53 | 
-| 439 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 440 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
+| 429 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
+| 430 | [Aragami 2](games/a/aragami_2.md) | 4.54 | 
+| 431 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
+| 432 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
+| 433 | [Warpips](games/w/warpips.md) | 4.54 | 
+| 434 | [The Medium](games/t/the_medium.md) | 4.54 | 
+| 435 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 436 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 437 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 438 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
+| 439 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.53 | 
+| 440 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 441 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 442 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 443 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
@@ -628,14 +628,14 @@
 | 626 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 627 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
 | 628 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
-| 629 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
-| 630 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
-| 631 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 
-| 632 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 633 | [Backbone](games/b/backbone.md) | 4.36 | 
-| 634 | [Lamentum](games/l/lamentum.md) | 4.36 | 
-| 635 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
-| 636 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 
+| 629 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
+| 630 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 
+| 631 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 632 | [Backbone](games/b/backbone.md) | 4.36 | 
+| 633 | [Lamentum](games/l/lamentum.md) | 4.36 | 
+| 634 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
+| 635 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 
+| 636 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 637 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
 | 638 | [Imagine Earth](games/i/imagine_earth.md) | 4.35 | 
 | 639 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.35 | 
@@ -733,9 +733,9 @@
 | 731 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 732 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
 | 733 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 
-| 734 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.15 | 
-| 735 | [Pine](games/p/pine.md) | 4.14 | 
-| 736 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
+| 734 | [Pine](games/p/pine.md) | 4.14 | 
+| 735 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
+| 736 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.14 | 
 | 737 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
 | 738 | [Gone Home](games/g/gone_home.md) | 4.14 | 
 | 739 | [Relicta](games/r/relicta.md) | 4.13 | 
