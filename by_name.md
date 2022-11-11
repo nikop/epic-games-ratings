@@ -74,7 +74,7 @@
 | 72 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 73 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 74 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 75 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
+| 75 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.66 | 
 | 76 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.75 | 
 | 77 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
 | 78 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
@@ -87,7 +87,7 @@
 | 85 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.29 | 
 | 86 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 87 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
-| 88 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
+| 88 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 89 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.37 | 
 | 90 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
 | 91 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
@@ -169,7 +169,7 @@
 | 167 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.56 | 
 | 168 | [Democracy 4](games/d/democracy_4.md) | 4.31 | 
 | 169 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
-| 170 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 
+| 170 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 171 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 172 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 173 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
@@ -257,7 +257,7 @@
 | 255 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 256 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 257 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.65 | 
-| 258 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
+| 258 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
 | 259 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 
 | 260 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
 | 261 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -287,7 +287,7 @@
 | 285 | [Haven](games/h/haven.md) | 4.75 | 
 | 286 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
 | 287 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.67 | 
-| 288 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 288 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 289 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 290 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
 | 291 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
@@ -362,7 +362,7 @@
 | 360 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 361 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 362 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 363 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
+| 363 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
 | 364 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
 | 365 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 366 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
@@ -457,7 +457,7 @@
 | 455 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 456 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.51 | 
 | 457 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 458 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
+| 458 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.29 | 
 | 459 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 460 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
 | 461 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
@@ -724,7 +724,7 @@
 | 722 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
 | 723 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 724 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 725 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 725 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 726 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
 | 727 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 728 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
