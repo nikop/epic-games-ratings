@@ -458,7 +458,7 @@
 | 456 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 457 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
 | 458 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 459 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 459 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
 | 460 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 461 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 462 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
@@ -581,7 +581,7 @@
 | 579 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
 | 580 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 581 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.35 | 
-| 582 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.52 | 
+| 582 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.44 | 
 | 583 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.71 | 
 | 584 | [SpiderHeck](games/s/spiderheck.md) | 4.68 | 
 | 585 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
@@ -649,7 +649,7 @@
 | 647 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 648 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 649 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
-| 650 | [The Fall](games/t/the_fall.md) | 4.26 | 
+| 650 | [The Fall](games/t/the_fall.md) | 4.27 | 
 | 651 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
 | 652 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.73 | 
 | 653 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
