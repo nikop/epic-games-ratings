@@ -25,7 +25,7 @@
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 24 | [Among Trees](games/a/among_trees.md) | 4.38 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
@@ -222,13 +222,13 @@
 | 220 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 221 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
 | 222 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 223 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.40 | 
+| 223 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
 | 224 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.68 | 
 | 225 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
 | 226 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.75 | 
 | 227 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.75 | 
-| 228 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.09 | 
-| 229 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
+| 228 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.10 | 
+| 229 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 230 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 231 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 232 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
@@ -322,7 +322,7 @@
 | 320 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
 | 321 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 322 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 323 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 323 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
 | 324 | [Ironcast](games/i/ironcast.md) | 3.88 | 
 | 325 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 326 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
@@ -430,7 +430,7 @@
 | 428 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 429 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 430 | [Obduction](games/o/obduction.md) | 4.11 | 
-| 431 | [Observation](games/o/observation.md) | 4.48 | 
+| 431 | [Observation](games/o/observation.md) | 4.50 | 
 | 432 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 
 | 433 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
 | 434 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
@@ -455,7 +455,7 @@
 | 453 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
 | 454 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
 | 455 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 456 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.51 | 
+| 456 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
 | 457 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 458 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.29 | 
 | 459 | [Parkitect](games/p/parkitect.md) | 4.27 | 
@@ -544,7 +544,7 @@
 | 542 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 543 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 544 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
-| 545 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.73 | 
+| 545 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.72 | 
 | 546 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 547 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 548 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
@@ -572,7 +572,7 @@
 | 570 | [SOMA](games/s/soma.md) | 4.65 | 
 | 571 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 572 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
-| 573 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 573 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 574 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 575 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 576 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
@@ -601,7 +601,7 @@
 | 599 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 600 | [STG Football](games/s/stg_football.md) | 4.61 | 
 | 601 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
-| 602 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
+| 602 | [Stories Untold](games/s/stories_untold.md) | 4.45 | 
 | 603 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.78 | 
 | 604 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 605 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
@@ -616,7 +616,7 @@
 | 614 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 615 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
 | 616 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
-| 617 | [SUPERHOT](games/s/superhot.md) | 4.69 | 
+| 617 | [SUPERHOT](games/s/superhot.md) | 4.70 | 
 | 618 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.61 | 
 | 619 | [Superliminal](games/s/superliminal.md) | 4.77 | 
 | 620 | [Supraland](games/s/supraland.md) | 4.61 | 
@@ -642,7 +642,7 @@
 | 640 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 641 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 642 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
-| 643 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
+| 643 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 644 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 645 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 646 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
@@ -702,7 +702,7 @@
 | 700 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.29 | 
 | 701 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 702 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
-| 703 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
+| 703 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
 | 704 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
 | 705 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 706 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
@@ -779,7 +779,7 @@
 | 777 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 778 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 779 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 780 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 
+| 780 | [World of Goo](games/w/world_of_goo.md) | 4.67 | 
 | 781 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 782 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 783 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
