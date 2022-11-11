@@ -175,21 +175,21 @@
 | 173 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.71 | 
 | 174 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 175 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 176 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
-| 177 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 178 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 179 | [Days Gone](games/d/days_gone.md) | 4.70 | 
-| 180 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
-| 181 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
-| 182 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 183 | [Timberborn](games/t/timberborn.md) | 4.70 | 
-| 184 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 185 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
-| 186 | [Fez](games/f/fez.md) | 4.70 | 
-| 187 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 188 | [Slipways](games/s/slipways.md) | 4.70 | 
-| 189 | [APE OUT](games/a/ape_out.md) | 4.70 | 
-| 190 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 
+| 176 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 177 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 178 | [Days Gone](games/d/days_gone.md) | 4.70 | 
+| 179 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
+| 180 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
+| 181 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 182 | [Timberborn](games/t/timberborn.md) | 4.70 | 
+| 183 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 184 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
+| 185 | [Fez](games/f/fez.md) | 4.70 | 
+| 186 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 187 | [Slipways](games/s/slipways.md) | 4.70 | 
+| 188 | [APE OUT](games/a/ape_out.md) | 4.70 | 
+| 189 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 
+| 190 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.70 | 
 | 191 | [No Straight Roads](games/n/no_straight_roads.md) | 4.70 | 
 | 192 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 193 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -336,23 +336,23 @@
 | 334 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 335 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 336 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 337 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
-| 338 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
-| 339 | [ABZU](games/a/abzu.md) | 4.60 | 
-| 340 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 341 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
-| 342 | [RiME](games/r/rime.md) | 4.60 | 
-| 343 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 344 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
-| 345 | [Darkwood](games/d/darkwood.md) | 4.60 | 
-| 346 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 347 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 348 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
-| 349 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 350 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 351 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 352 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 353 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 337 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
+| 338 | [ABZU](games/a/abzu.md) | 4.60 | 
+| 339 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 340 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
+| 341 | [RiME](games/r/rime.md) | 4.60 | 
+| 342 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
+| 343 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
+| 344 | [Darkwood](games/d/darkwood.md) | 4.60 | 
+| 345 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 346 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 347 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
+| 348 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 349 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 350 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 351 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 352 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 353 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 354 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
 | 355 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 356 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 

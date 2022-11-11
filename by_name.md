@@ -242,7 +242,7 @@
 | 240 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 241 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 242 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 243 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
+| 243 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.70 | 
 | 244 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 245 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.41 | 
 | 246 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -285,7 +285,7 @@
 | 283 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 284 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
 | 285 | [Haven](games/h/haven.md) | 4.75 | 
-| 286 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
+| 286 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 287 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.67 | 
 | 288 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 289 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
