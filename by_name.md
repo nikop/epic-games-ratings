@@ -38,7 +38,7 @@
 | 36 | [APE OUT](games/a/ape_out.md) | 4.70 | 
 | 37 | [Aragami 2](games/a/aragami_2.md) | 4.54 | 
 | 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.63 | 
-| 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.51 | 
+| 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
@@ -82,7 +82,7 @@
 | 80 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 81 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 82 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
-| 83 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
+| 83 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 84 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 85 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.29 | 
 | 86 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
@@ -389,7 +389,7 @@
 | 387 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 388 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 389 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
-| 390 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
+| 390 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 391 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 392 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
 | 393 | [Minit](games/m/minit.md) | 4.56 | 
@@ -486,7 +486,7 @@
 | 484 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 485 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 486 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 487 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
+| 487 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
 | 488 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
 | 489 | [Rayman Origins](games/r/rayman_origins.md) | 4.76 | 
 | 490 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
@@ -777,7 +777,7 @@
 | 775 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 776 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 777 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 778 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 778 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 779 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 
 | 780 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 781 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 

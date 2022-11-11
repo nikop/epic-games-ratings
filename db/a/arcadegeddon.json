@@ -1,10 +1,10 @@
 {
   "ID": "043ffc92cbd64a9fbc350ea68f415937",
   "Name": "Arcadegeddon",
-  "Rating": 4.51,
+  "Rating": 4.5,
   "NumberOfRatings": 801,
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
-  "LastChanged": "2022-11-06T08:01:36.9522365+00:00",
+  "LastChanged": "2022-11-11T05:12:14.8686326+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:13.3727466+00:00",
@@ -600,6 +600,11 @@
       "Time": "2022-11-06T08:01:36.9522367+00:00",
       "Rating": 4.51,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T05:12:14.8686329+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -645,7 +650,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 34
+      "Count": 36
     }
   ]
 }
