@@ -17,7 +17,7 @@
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.16 | 
-| 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.50 | 
+| 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.64 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
@@ -231,7 +231,7 @@
 | 229 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 230 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 231 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
-| 232 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
+| 232 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 233 | [Fez](games/f/fez.md) | 4.70 | 
 | 234 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
 | 235 | [Figment](games/f/figment.md) | 4.44 | 
@@ -535,7 +535,7 @@
 | 533 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.59 | 
 | 534 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 535 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 536 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
+| 536 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
 | 537 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 538 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 539 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
