@@ -1,10 +1,10 @@
 {
   "ID": "9cf250606722448887fa1447b1d9da06",
   "Name": "WRC 9 FIA World Rally Championship",
-  "Rating": 4.55,
+  "Rating": 4.54,
   "NumberOfRatings": 233,
   "FirstSeen": "2022-07-22T20:19:01.098445+00:00",
-  "LastChanged": "2022-11-08T10:56:51.0514302+00:00",
+  "LastChanged": "2022-11-11T07:56:57.9503984+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:01.0984452+00:00",
@@ -400,6 +400,11 @@
       "Time": "2022-11-08T10:56:51.0514304+00:00",
       "Rating": 4.55,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T07:56:57.9503985+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -421,7 +426,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Great for Quick Sessions",

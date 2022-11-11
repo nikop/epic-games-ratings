@@ -1,10 +1,10 @@
 {
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
-  "Rating": 4.5,
+  "Rating": 4.51,
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
-  "LastChanged": "2022-11-10T22:57:14.797379+00:00",
+  "LastChanged": "2022-11-11T07:56:49.7368416+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-19T03:31:00.7496554+00:00",
@@ -185,6 +185,11 @@
       "Time": "2022-11-10T22:57:14.7973792+00:00",
       "Rating": 4.5,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T07:56:49.7368417+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -218,7 +223,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 95
+      "Count": 101
     },
     {
       "Text": "This game is Highly Recommended",

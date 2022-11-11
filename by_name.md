@@ -105,7 +105,7 @@
 | 103 | [Card Shark](games/c/card_shark.md) | 4.61 | 
 | 104 | [CARRION](games/c/carrion.md) | 4.67 | 
 | 105 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
-| 106 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.58 | 
+| 106 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
 | 107 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 108 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 109 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
@@ -257,7 +257,7 @@
 | 255 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 256 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 257 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.65 | 
-| 258 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
+| 258 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
 | 259 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 
 | 260 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
 | 261 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -394,7 +394,7 @@
 | 392 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
 | 393 | [Minit](games/m/minit.md) | 4.56 | 
 | 394 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
-| 395 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 395 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 396 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 397 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 398 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
@@ -641,7 +641,7 @@
 | 639 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 640 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 641 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
-| 642 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 642 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
 | 643 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 644 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 645 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
@@ -767,7 +767,7 @@
 | 765 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 766 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 767 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 768 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
+| 768 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
 | 769 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
 | 770 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
 | 771 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
@@ -783,8 +783,8 @@
 | 781 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 782 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 783 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
-| 784 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 785 | [WRC Generations](games/w/wrc_generations.md) | 4.63 | 
+| 784 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
+| 785 | [WRC Generations](games/w/wrc_generations.md) | 4.62 | 
 | 786 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 787 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 788 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 

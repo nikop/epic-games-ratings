@@ -1,5 +1,5 @@
 # WRC 9 FIA World Rally Championship
-Rating: 4.55 (233)  (as of 23.09.2022)  
+Rating: 4.54 (233)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -68,3 +68,4 @@ Rating: 4.55 (233)  (as of 23.09.2022)
 | 2022-10-29 | 4.55 | - |
 | 2022-11-01 | 4.56 | - |
 | 2022-11-08 | 4.55 | - |
+| 2022-11-11 | 4.54 | - |
