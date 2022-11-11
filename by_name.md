@@ -298,7 +298,7 @@
 | 296 | [Hob](games/h/hob.md) | 4.56 | 
 | 297 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.41 | 
 | 298 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 299 | [Horace](games/h/horace.md) | 4.57 | 
+| 299 | [Horace](games/h/horace.md) | 4.58 | 
 | 300 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 301 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 302 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
@@ -521,7 +521,7 @@
 | 519 | [Roguebook](games/r/roguebook.md) | 4.61 | 
 | 520 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 521 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
-| 522 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 522 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 523 | [RUINER](games/r/ruiner.md) | 4.54 | 
 | 524 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 525 | [Runbow](games/r/runbow.md) | 4.44 | 
@@ -544,7 +544,7 @@
 | 542 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 543 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 544 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
-| 545 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.74 | 
+| 545 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.73 | 
 | 546 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 547 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 548 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
@@ -586,7 +586,7 @@
 | 584 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.71 | 
 | 585 | [SpiderHeck](games/s/spiderheck.md) | 4.68 | 
 | 586 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 587 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 587 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
 | 588 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
 | 589 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
 | 590 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
@@ -634,7 +634,7 @@
 | 632 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 633 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 634 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 635 | [Tharsis](games/t/tharsis.md) | 4.23 | 
+| 635 | [Tharsis](games/t/tharsis.md) | 4.24 | 
 | 636 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 637 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
 | 638 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
@@ -756,7 +756,7 @@
 | 754 | [Warface](games/w/warface.md) | 3.94 | 
 | 755 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 756 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 757 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 
+| 757 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 758 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
 | 759 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.40 | 
 | 760 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
