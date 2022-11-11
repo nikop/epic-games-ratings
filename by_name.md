@@ -204,7 +204,7 @@
 | 202 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 203 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 204 | [EVE Online](games/e/eve_online.md) | 4.28 | 
-| 205 | [Everything](games/e/everything.md) | 4.64 | 
+| 205 | [Everything](games/e/everything.md) | 4.65 | 
 | 206 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 207 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 208 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.62 | 
@@ -293,7 +293,7 @@
 | 291 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
 | 292 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
 | 293 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 294 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
+| 294 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.53 | 
 | 295 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 296 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 297 | [Hob](games/h/hob.md) | 4.56 | 
@@ -405,7 +405,7 @@
 | 403 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 404 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 405 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 406 | [Mutazione](games/m/mutazione.md) | 4.64 | 
+| 406 | [Mutazione](games/m/mutazione.md) | 4.65 | 
 | 407 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 408 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 409 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
@@ -467,7 +467,7 @@
 | 465 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 466 | [Patron](games/p/patron.md) | 3.94 | 
 | 467 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 468 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
+| 468 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 469 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
 | 470 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 471 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
@@ -697,7 +697,7 @@
 | 695 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 696 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 697 | [Timberborn](games/t/timberborn.md) | 4.70 | 
-| 698 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 698 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.44 | 
 | 699 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 700 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
 | 701 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.29 | 
@@ -782,7 +782,7 @@
 | 780 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 781 | [World of Goo](games/w/world_of_goo.md) | 4.67 | 
 | 782 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 783 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.57 | 
+| 783 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 784 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 785 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 786 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 

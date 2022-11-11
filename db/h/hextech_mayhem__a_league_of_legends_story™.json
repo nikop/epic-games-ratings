@@ -1,10 +1,10 @@
 {
   "ID": "c315a84ec4714288b34f7ac94ee2515d",
   "Name": "Hextech Mayhem: A League of Legends Story\u2122",
-  "Rating": 4.52,
+  "Rating": 4.53,
   "NumberOfRatings": 30,
   "FirstSeen": "2022-07-22T20:20:27.2641591+00:00",
-  "LastChanged": "2022-10-11T19:01:30.6396295+00:00",
+  "LastChanged": "2022-11-11T22:57:30.9485909+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-23T05:01:35.8669834+00:00",
@@ -84,6 +84,11 @@
     {
       "Time": "2022-10-11T19:01:30.6396297+00:00",
       "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T22:57:30.9485915+00:00",
+      "Rating": 4.53,
       "NumberOfRatings": null
     }
   ],
