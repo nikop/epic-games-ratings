@@ -96,7 +96,7 @@
 | 94 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 95 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
 | 96 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
-| 97 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
+| 97 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 98 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
 | 99 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 100 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.05 | 
@@ -195,7 +195,7 @@
 | 193 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.30 | 
 | 194 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 195 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
-| 196 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.48 | 
+| 196 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 197 | [ELEX](games/e/elex.md) | 4.38 | 
 | 198 | [ELEX II](games/e/elex_ii.md) | 4.22 | 
 | 199 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
@@ -256,7 +256,7 @@
 | 254 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
 | 255 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 256 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 257 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.65 | 
+| 257 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.68 | 
 | 258 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
 | 259 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 
 | 260 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
@@ -357,7 +357,7 @@
 | 355 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
 | 356 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 357 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
-| 358 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 358 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.43 | 
 | 359 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 360 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 361 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
@@ -526,7 +526,7 @@
 | 524 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 525 | [Runbow](games/r/runbow.md) | 4.44 | 
 | 526 | [Sable](games/s/sable.md) | 4.56 | 
-| 527 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
+| 527 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.79 | 
 | 528 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 529 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 530 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
@@ -549,7 +549,7 @@
 | 547 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 548 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 549 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
-| 550 | [shapez](games/s/shapez.md) | 4.81 | 
+| 550 | [shapez](games/s/shapez.md) | 4.74 | 
 | 551 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 552 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.15 | 
 | 553 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.53 | 
@@ -602,7 +602,7 @@
 | 600 | [STG Football](games/s/stg_football.md) | 4.61 | 
 | 601 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 602 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
-| 603 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 603 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.78 | 
 | 604 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 605 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.68 | 
 | 606 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 

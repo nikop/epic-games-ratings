@@ -1,5 +1,5 @@
 # Layers of Fear: Masterpiece Edition
-Rating: 4.45 (142)  (as of 23.09.2022)  
+Rating: 4.43 (142)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -63,3 +63,4 @@ Rating: 4.45 (142)  (as of 23.09.2022)
 | 2022-11-03 | 4.45 | - |
 | 2022-11-06 | 4.46 | - |
 | 2022-11-09 | 4.45 | - |
+| 2022-11-11 | 4.43 | - |
