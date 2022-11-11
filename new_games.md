@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.65 | 
-| 2 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.70 | 
+| 2 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
 | 3 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.29 | 
 | 4 | [WRC Generations](games/w/wrc_generations.md) | 4.62 | 
 | 5 | [shapez](games/s/shapez.md) | 4.74 | 
@@ -10,9 +10,9 @@
 | 8 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 
 | 9 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.41 | 
 | 10 | [STG Football](games/s/stg_football.md) | 4.59 | 
-| 11 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.83 | 
+| 11 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.84 | 
 | 12 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
-| 13 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 
+| 13 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.10 | 
 | 14 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.74 | 
 | 15 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 16 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 

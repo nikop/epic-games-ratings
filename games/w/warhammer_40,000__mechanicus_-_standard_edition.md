@@ -1,5 +1,5 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
-Rating: 4.40 (-)  (as of 23.09.2022)  
+Rating: 4.41 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,3 +12,4 @@ Rating: 4.40 (-)  (as of 23.09.2022)
 | 2022-11-04 | 4.38 | - |
 | 2022-11-05 | 4.39 | - |
 | 2022-11-06 | 4.40 | - |
+| 2022-11-11 | 4.41 | - |

@@ -32,7 +32,7 @@
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
-| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
+| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.66 | 
@@ -182,7 +182,7 @@
 | 180 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 181 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 182 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 183 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
+| 183 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 184 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
 | 185 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 
 | 186 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
@@ -212,7 +212,7 @@
 | 210 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 211 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 212 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 213 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.83 | 
+| 213 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.84 | 
 | 214 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 
 | 215 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.74 | 
 | 216 | [Family Man](games/f/family_man.md) | 4.17 | 
@@ -243,7 +243,7 @@
 | 241 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 242 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 243 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 244 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.70 | 
+| 244 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
 | 245 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 246 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.41 | 
 | 247 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -419,7 +419,7 @@
 | 417 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 418 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
 | 419 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 420 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 
+| 420 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.10 | 
 | 421 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 422 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 423 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -440,7 +440,7 @@
 | 438 | [Old World](games/o/old_world.md) | 4.64 | 
 | 439 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 440 | [Operation: Tango](games/o/operation__tango.md) | 4.67 | 
-| 441 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.23 | 
+| 441 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.26 | 
 | 442 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 
 | 443 | [Othercide](games/o/othercide.md) | 4.34 | 
 | 444 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
@@ -467,7 +467,7 @@
 | 465 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 466 | [Patron](games/p/patron.md) | 3.94 | 
 | 467 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 468 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 468 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 469 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
 | 470 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 471 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
@@ -492,7 +492,7 @@
 | 490 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
 | 491 | [Rayman Origins](games/r/rayman_origins.md) | 4.76 | 
 | 492 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
-| 493 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 493 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 494 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 495 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.40 | 
 | 496 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
@@ -759,7 +759,7 @@
 | 757 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 758 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 759 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
-| 760 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.40 | 
+| 760 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.41 | 
 | 761 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
 | 762 | [Warpips](games/w/warpips.md) | 4.55 | 
 | 763 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
