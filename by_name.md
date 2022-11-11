@@ -53,7 +53,7 @@
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.57 | 
-| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
+| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
 | 55 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 56 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 57 | [Automachef](games/a/automachef.md) | 4.32 | 
@@ -217,7 +217,7 @@
 | 215 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.74 | 
 | 216 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 217 | [Far Cry](games/f/far_cry.md) | 4.39 | 
-| 218 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.14 | 
+| 218 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.17 | 
 | 219 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 220 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 221 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
@@ -232,7 +232,7 @@
 | 230 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 231 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 232 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.58 | 
-| 233 | [Fez](games/f/fez.md) | 4.72 | 
+| 233 | [Fez](games/f/fez.md) | 4.70 | 
 | 234 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
 | 235 | [Figment](games/f/figment.md) | 4.44 | 
 | 236 | [Filament](games/f/filament.md) | 4.26 | 
@@ -294,7 +294,7 @@
 | 292 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 293 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 294 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 295 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 295 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 296 | [Hob](games/h/hob.md) | 4.56 | 
 | 297 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.41 | 
 | 298 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
@@ -303,7 +303,7 @@
 | 301 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 302 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 303 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 304 | [House Party](games/h/house_party.md) | 4.31 | 
+| 304 | [House Party](games/h/house_party.md) | 4.32 | 
 | 305 | [Hue](games/h/hue.md) | 4.55 | 
 | 306 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 307 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
