@@ -23,4 +23,3 @@
 | 21 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
 | 22 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.29 | 
 | 23 | [Darkwood](games/d/darkwood.md) | 4.60 | 
-| 24 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 

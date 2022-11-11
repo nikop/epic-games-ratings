@@ -239,7 +239,7 @@
 | 237 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 238 | [Firework](games/f/firework.md) | 4.88 | 
 | 239 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.34 | 
-| 240 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
+| 240 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 241 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 242 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 243 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
@@ -291,7 +291,7 @@
 | 289 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 290 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 291 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
-| 292 | [Hero's Hour](games/h/hero's_hour.md) | 4.33 | 
+| 292 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
 | 293 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 294 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.52 | 
 | 295 | [HITMAN](games/h/hitman.md) | 4.64 | 
@@ -482,7 +482,7 @@
 | 480 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 481 | [Prey](games/p/prey.md) | 4.61 | 
 | 482 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 483 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.42 | 
+| 483 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 484 | [Quake](games/q/quake.md) | 4.81 | 
 | 485 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 486 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
@@ -613,7 +613,7 @@
 | 611 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 612 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 613 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
-| 614 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
+| 614 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
 | 615 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 616 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
 | 617 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
@@ -630,7 +630,7 @@
 | 628 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 629 | [Tacoma](games/t/tacoma.md) | 4.33 | 
 | 630 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
-| 631 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.66 | 
+| 631 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.67 | 
 | 632 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
 | 633 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 634 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
@@ -691,7 +691,7 @@
 | 689 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 690 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 691 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
-| 692 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
+| 692 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 693 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 694 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 695 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
@@ -711,7 +711,7 @@
 | 709 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 710 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 711 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
-| 712 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
+| 712 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 713 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 714 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.47 | 
 | 715 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.73 | 
