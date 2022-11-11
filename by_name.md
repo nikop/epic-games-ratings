@@ -120,7 +120,7 @@
 | 118 | [City of Brass](games/c/city_of_brass.md) | 4.26 | 
 | 119 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 120 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 121 | [Conarium](games/c/conarium.md) | 3.89 | 
+| 121 | [Conarium](games/c/conarium.md) | 3.90 | 
 | 122 | [Control](games/c/control.md) | 4.60 | 
 | 123 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
 | 124 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
@@ -163,7 +163,7 @@
 | 161 | [Death Coming](games/d/death_coming.md) | 4.46 | 
 | 162 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 163 | [Death's Door](games/d/death's_door.md) | 4.65 | 
-| 164 | [DEATHLOOP](games/d/deathloop.md) | 4.52 | 
+| 164 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 165 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.42 | 
 | 166 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 167 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.56 | 
@@ -700,7 +700,7 @@
 | 698 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 699 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
 | 700 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.29 | 
-| 701 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 701 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 702 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
 | 703 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
 | 704 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.56 | 
@@ -730,7 +730,7 @@
 | 728 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 729 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
 | 730 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 731 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
+| 731 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 732 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
 | 733 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
 | 734 | [TUNIC](games/t/tunic.md) | 4.87 | 
