@@ -52,7 +52,7 @@
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.57 | 
+| 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.53 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
 | 55 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 56 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
@@ -62,13 +62,13 @@
 | 60 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 
 | 61 | [Aztez](games/a/aztez.md) | 4.52 | 
 | 62 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 63 | [Backbone](games/b/backbone.md) | 4.36 | 
+| 63 | [Backbone](games/b/backbone.md) | 4.35 | 
 | 64 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 65 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 66 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
 | 67 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 
 | 68 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
-| 69 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.39 | 
+| 69 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 70 | [Barony](games/b/barony.md) | 4.69 | 
 | 71 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
 | 72 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
@@ -156,7 +156,7 @@
 | 154 | [Darkwood](games/d/darkwood.md) | 4.60 | 
 | 155 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.41 | 
 | 156 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 157 | [Days Gone](games/d/days_gone.md) | 4.70 | 
+| 157 | [Days Gone](games/d/days_gone.md) | 4.69 | 
 | 158 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 159 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 160 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
@@ -242,7 +242,7 @@
 | 240 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 241 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 242 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 243 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.70 | 
+| 243 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.69 | 
 | 244 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 245 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.41 | 
 | 246 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -369,7 +369,7 @@
 | 367 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.03 | 
 | 368 | [Limbo](games/l/limbo.md) | 4.64 | 
 | 369 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
-| 370 | [Little Inferno](games/l/little_inferno.md) | 4.46 | 
+| 370 | [Little Inferno](games/l/little_inferno.md) | 4.47 | 
 | 371 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 372 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.46 | 
 | 373 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
@@ -592,7 +592,7 @@
 | 590 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
 | 591 | [Star Renegades](games/s/star_renegades.md) | 4.36 | 
 | 592 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
-| 593 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
+| 593 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 594 | [Starsand](games/s/starsand.md) | 4.26 | 
 | 595 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 596 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 
@@ -730,7 +730,7 @@
 | 728 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 729 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
 | 730 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 731 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 731 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
 | 732 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
 | 733 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
 | 734 | [TUNIC](games/t/tunic.md) | 4.87 | 
