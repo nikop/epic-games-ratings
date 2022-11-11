@@ -17,7 +17,7 @@
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.16 | 
-| 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.65 | 
+| 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.67 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
@@ -99,7 +99,7 @@
 | 97 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 98 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
 | 99 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 100 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.05 | 
+| 100 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.06 | 
 | 101 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 102 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
 | 103 | [Card Shark](games/c/card_shark.md) | 4.61 | 
@@ -243,7 +243,7 @@
 | 241 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 242 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 243 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 244 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
+| 244 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.70 | 
 | 245 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 246 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.41 | 
 | 247 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -325,7 +325,7 @@
 | 323 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 324 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
 | 325 | [Ironcast](games/i/ironcast.md) | 3.88 | 
-| 326 | [Isonzo](games/i/isonzo.md) | 4.57 | 
+| 326 | [Isonzo](games/i/isonzo.md) | 4.58 | 
 | 327 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 328 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 329 | [Journey](games/j/journey.md) | 4.76 | 
@@ -559,14 +559,14 @@
 | 557 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 558 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 559 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 560 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 
+| 560 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
 | 561 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 562 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
 | 563 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 564 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 565 | [Slipways](games/s/slipways.md) | 4.70 | 
 | 566 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 567 | [SMITE](games/s/smite.md) | 4.46 | 
+| 567 | [SMITE](games/s/smite.md) | 4.45 | 
 | 568 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 569 | [Solar Ash](games/s/solar_ash.md) | 4.62 | 
 | 570 | [Solitairica](games/s/solitairica.md) | 4.49 | 
@@ -593,7 +593,7 @@
 | 591 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
 | 592 | [Star Renegades](games/s/star_renegades.md) | 4.38 | 
 | 593 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
-| 594 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 594 | [Star Trek Online](games/s/star_trek_online.md) | 4.43 | 
 | 595 | [Starsand](games/s/starsand.md) | 4.26 | 
 | 596 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 597 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 
