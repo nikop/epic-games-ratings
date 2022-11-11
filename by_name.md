@@ -11,7 +11,7 @@
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.61 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.50 | 
+| 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.52 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
@@ -82,7 +82,7 @@
 | 80 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 81 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 82 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
-| 83 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
+| 83 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 84 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 85 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.29 | 
 | 86 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
@@ -96,7 +96,7 @@
 | 94 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 95 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.88 | 
 | 96 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
-| 97 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
+| 97 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 98 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
 | 99 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 100 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.05 | 
@@ -117,7 +117,7 @@
 | 115 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 116 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 117 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
-| 118 | [City of Brass](games/c/city_of_brass.md) | 4.26 | 
+| 118 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 119 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 120 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 121 | [Conarium](games/c/conarium.md) | 3.90 | 
@@ -332,7 +332,7 @@
 | 330 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
 | 331 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 332 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
-| 333 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 333 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 334 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 335 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.50 | 
 | 336 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
@@ -357,7 +357,7 @@
 | 355 | [Lamentum](games/l/lamentum.md) | 4.36 | 
 | 356 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
 | 357 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 358 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
+| 358 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
 | 359 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.43 | 
 | 360 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 361 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
@@ -412,7 +412,7 @@
 | 410 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 411 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 412 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 413 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
+| 413 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
 | 414 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 415 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
 | 416 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
