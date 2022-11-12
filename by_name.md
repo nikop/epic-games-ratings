@@ -228,7 +228,7 @@
 | 226 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.75 | 
 | 227 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.75 | 
 | 228 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.10 | 
-| 229 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 229 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 230 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 231 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 232 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
@@ -458,9 +458,9 @@
 | 456 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 457 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
 | 458 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 459 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.35 | 
+| 459 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.34 | 
 | 460 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 461 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
+| 461 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 462 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 463 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 464 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
@@ -489,7 +489,7 @@
 | 487 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 488 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 489 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
-| 490 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.46 | 
+| 490 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.47 | 
 | 491 | [Rayman Origins](games/r/rayman_origins.md) | 4.76 | 
 | 492 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
 | 493 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
@@ -566,7 +566,7 @@
 | 564 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 565 | [Slipways](games/s/slipways.md) | 4.70 | 
 | 566 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 567 | [SMITE](games/s/smite.md) | 4.46 | 
+| 567 | [SMITE](games/s/smite.md) | 4.45 | 
 | 568 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 569 | [Solar Ash](games/s/solar_ash.md) | 4.62 | 
 | 570 | [Solitairica](games/s/solitairica.md) | 4.49 | 
@@ -648,7 +648,7 @@
 | 646 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 647 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
 | 648 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
-| 649 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 649 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
 | 650 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 651 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 652 | [The Fall](games/t/the_fall.md) | 4.27 | 
@@ -765,8 +765,8 @@
 | 763 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 764 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 765 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
-| 766 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
-| 767 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
+| 766 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
+| 767 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 
 | 768 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 769 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 770 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
@@ -791,7 +791,7 @@
 | 789 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 790 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 791 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 792 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
+| 792 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 793 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.64 | 
 | 794 | [ZOMBI](games/z/zombi.md) | 4.35 | 
 | 795 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
