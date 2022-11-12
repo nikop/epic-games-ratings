@@ -203,7 +203,7 @@
 | 201 | [Encased](games/e/encased.md) | 4.41 | 
 | 202 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 203 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 204 | [EVE Online](games/e/eve_online.md) | 4.28 | 
+| 204 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 205 | [Everything](games/e/everything.md) | 4.65 | 
 | 206 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 207 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
@@ -213,14 +213,14 @@
 | 211 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 212 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 213 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.84 | 
-| 214 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 
+| 214 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 215 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.74 | 
 | 216 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 217 | [Far Cry](games/f/far_cry.md) | 4.39 | 
 | 218 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.17 | 
 | 219 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 220 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
-| 221 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.60 | 
+| 221 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 222 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 223 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.40 | 
 | 224 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.68 | 
@@ -243,7 +243,7 @@
 | 241 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 242 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 243 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 244 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.70 | 
+| 244 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
 | 245 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 246 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.41 | 
 | 247 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -317,7 +317,7 @@
 | 315 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
 | 316 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
 | 317 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
-| 318 | [Inscryption](games/i/inscryption.md) | 4.86 | 
+| 318 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 319 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 320 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
 | 321 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
@@ -392,7 +392,7 @@
 | 390 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 391 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 392 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
-| 393 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 393 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 394 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
 | 395 | [Minit](games/m/minit.md) | 4.56 | 
 | 396 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
@@ -411,7 +411,7 @@
 | 409 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 410 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 411 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 412 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 412 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 413 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
 | 414 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 415 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
@@ -541,7 +541,7 @@
 | 539 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 540 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
 | 541 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
-| 542 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
+| 542 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
 | 543 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 544 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 545 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
@@ -559,7 +559,7 @@
 | 557 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 558 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 559 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 560 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
+| 560 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 
 | 561 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 562 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
 | 563 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
@@ -677,7 +677,7 @@
 | 675 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
 | 676 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 677 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 678 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
+| 678 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 679 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 680 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
 | 681 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
@@ -786,7 +786,7 @@
 | 784 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 785 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 786 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 787 | [WRC Generations](games/w/wrc_generations.md) | 4.61 | 
+| 787 | [WRC Generations](games/w/wrc_generations.md) | 4.59 | 
 | 788 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 789 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 790 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 

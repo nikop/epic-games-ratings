@@ -1,10 +1,10 @@
 {
   "ID": "fa702d34a37248ba98fb17f680c085e3",
   "Name": "Fallout 3: Game of the Year Edition",
-  "Rating": 4.59,
+  "Rating": 4.6,
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2022-11-03T23:33:12.1737162+00:00",
+  "LastChanged": "2022-11-12T15:58:33.0856988+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-21T00:33:04.5526799+00:00",
@@ -114,6 +114,11 @@
     {
       "Time": "2022-11-03T23:33:12.1737166+00:00",
       "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T15:58:33.0856991+00:00",
+      "Rating": 4.6,
       "NumberOfRatings": null
     }
   ],
