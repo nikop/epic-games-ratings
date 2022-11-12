@@ -374,7 +374,7 @@
 | 372 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 373 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.40 | 
 | 374 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
-| 375 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
+| 375 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 376 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 377 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 378 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
@@ -441,7 +441,7 @@
 | 439 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 440 | [Operation: Tango](games/o/operation__tango.md) | 4.67 | 
 | 441 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.26 | 
-| 442 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 
+| 442 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.74 | 
 | 443 | [Othercide](games/o/othercide.md) | 4.34 | 
 | 444 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 445 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.66 | 
@@ -485,7 +485,7 @@
 | 483 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 484 | [Quake](games/q/quake.md) | 4.81 | 
 | 485 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 486 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 486 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 487 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 488 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 489 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
@@ -545,7 +545,7 @@
 | 543 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 544 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 545 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
-| 546 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.69 | 
+| 546 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
 | 547 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 548 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 549 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
@@ -779,7 +779,7 @@
 | 777 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 778 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 779 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 780 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 780 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 781 | [World of Goo](games/w/world_of_goo.md) | 4.68 | 
 | 782 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 783 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
@@ -790,7 +790,7 @@
 | 788 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 789 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 790 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 791 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 791 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
 | 792 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 793 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.64 | 
 | 794 | [ZOMBI](games/z/zombi.md) | 4.35 | 
