@@ -30,7 +30,7 @@
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
-| 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
@@ -258,7 +258,7 @@
 | 256 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 257 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 258 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.67 | 
-| 259 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
+| 259 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
 | 260 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 
 | 261 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 262 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -271,7 +271,7 @@
 | 269 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
 | 270 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 271 | [Gone Home](games/g/gone_home.md) | 4.14 | 
-| 272 | [Good Company](games/g/good_company.md) | 4.42 | 
+| 272 | [Good Company](games/g/good_company.md) | 4.43 | 
 | 273 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 274 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
 | 275 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
@@ -472,8 +472,8 @@
 | 470 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
 | 471 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 472 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 473 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 474 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
+| 473 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 474 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 475 | [Pine](games/p/pine.md) | 4.14 | 
 | 476 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
 | 477 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
@@ -525,7 +525,7 @@
 | 523 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
 | 524 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 525 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 526 | [Runbow](games/r/runbow.md) | 4.44 | 
+| 526 | [Runbow](games/r/runbow.md) | 4.45 | 
 | 527 | [Sable](games/s/sable.md) | 4.56 | 
 | 528 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.79 | 
 | 529 | [Saints Row](games/s/saints_row.md) | 3.78 | 
@@ -559,7 +559,7 @@
 | 557 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 558 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 559 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 560 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 
+| 560 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 
 | 561 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 562 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
 | 563 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
@@ -568,7 +568,7 @@
 | 566 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
 | 567 | [SMITE](games/s/smite.md) | 4.46 | 
 | 568 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 569 | [Solar Ash](games/s/solar_ash.md) | 4.62 | 
+| 569 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
 | 570 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 571 | [SOMA](games/s/soma.md) | 4.65 | 
 | 572 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
@@ -600,7 +600,7 @@
 | 598 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 599 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 600 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 601 | [STG Football](games/s/stg_football.md) | 4.62 | 
+| 601 | [STG Football](games/s/stg_football.md) | 4.63 | 
 | 602 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 603 | [Stories Untold](games/s/stories_untold.md) | 4.45 | 
 | 604 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.78 | 
@@ -786,7 +786,7 @@
 | 784 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 785 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 786 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 787 | [WRC Generations](games/w/wrc_generations.md) | 4.59 | 
+| 787 | [WRC Generations](games/w/wrc_generations.md) | 4.60 | 
 | 788 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 789 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 790 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
