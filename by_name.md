@@ -17,7 +17,7 @@
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.16 | 
-| 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.66 | 
+| 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.65 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
@@ -118,7 +118,7 @@
 | 116 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 117 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 118 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 119 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
+| 119 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
 | 120 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 121 | [Conarium](games/c/conarium.md) | 3.90 | 
 | 122 | [Control](games/c/control.md) | 4.60 | 
@@ -146,7 +146,7 @@
 | 144 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 145 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
 | 146 | [Dark Deception](games/d/dark_deception.md) | 4.58 | 
-| 147 | [Dark Deity](games/d/dark_deity.md) | 4.29 | 
+| 147 | [Dark Deity](games/d/dark_deity.md) | 4.28 | 
 | 148 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 149 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 150 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
@@ -182,7 +182,7 @@
 | 180 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 181 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 182 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 183 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
+| 183 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 184 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
 | 185 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 
 | 186 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
@@ -214,7 +214,7 @@
 | 212 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 213 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.84 | 
 | 214 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 215 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.74 | 
+| 215 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.75 | 
 | 216 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 217 | [Far Cry](games/f/far_cry.md) | 4.39 | 
 | 218 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.17 | 
@@ -238,7 +238,7 @@
 | 236 | [Filament](games/f/filament.md) | 4.26 | 
 | 237 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 238 | [Firework](games/f/firework.md) | 4.88 | 
-| 239 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.34 | 
+| 239 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 
 | 240 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 241 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 242 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
@@ -297,7 +297,7 @@
 | 295 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 296 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 297 | [Hob](games/h/hob.md) | 4.56 | 
-| 298 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.42 | 
+| 298 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.43 | 
 | 299 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 300 | [Horace](games/h/horace.md) | 4.58 | 
 | 301 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -325,7 +325,7 @@
 | 323 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 324 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
 | 325 | [Ironcast](games/i/ironcast.md) | 3.89 | 
-| 326 | [Isonzo](games/i/isonzo.md) | 4.58 | 
+| 326 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 327 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 328 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
 | 329 | [Journey](games/j/journey.md) | 4.76 | 
@@ -510,7 +510,7 @@
 | 508 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 509 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 510 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 511 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.51 | 
+| 511 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 512 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 513 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 514 | [Road 96](games/r/road_96.md) | 4.57 | 
@@ -566,7 +566,7 @@
 | 564 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 565 | [Slipways](games/s/slipways.md) | 4.70 | 
 | 566 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 567 | [SMITE](games/s/smite.md) | 4.45 | 
+| 567 | [SMITE](games/s/smite.md) | 4.46 | 
 | 568 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 569 | [Solar Ash](games/s/solar_ash.md) | 4.62 | 
 | 570 | [Solitairica](games/s/solitairica.md) | 4.49 | 
@@ -600,7 +600,7 @@
 | 598 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 599 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 600 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 601 | [STG Football](games/s/stg_football.md) | 4.61 | 
+| 601 | [STG Football](games/s/stg_football.md) | 4.62 | 
 | 602 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 603 | [Stories Untold](games/s/stories_untold.md) | 4.45 | 
 | 604 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.78 | 
@@ -662,7 +662,7 @@
 | 660 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.47 | 
 | 661 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
 | 662 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.72 | 
-| 663 | [The Lion's Song](games/t/the_lion's_song.md) | 4.44 | 
+| 663 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
 | 664 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 665 | [The Medium](games/t/the_medium.md) | 4.54 | 
 | 666 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
@@ -770,7 +770,7 @@
 | 768 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 769 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 770 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
-| 771 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 771 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 772 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
 | 773 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
 | 774 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
