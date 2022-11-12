@@ -1,10 +1,10 @@
 {
   "ID": "207b765975664e9db1e29129aafae69c",
   "Name": "Star Stable Online",
-  "Rating": 4.37,
+  "Rating": 4.38,
   "NumberOfRatings": 317,
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2022-11-10T07:56:52.3731929+00:00",
+  "LastChanged": "2022-11-12T11:56:59.078461+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:59.0360313+00:00",
@@ -675,6 +675,11 @@
       "Time": "2022-11-10T07:56:52.3731931+00:00",
       "Rating": 4.37,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T11:56:59.0784613+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -688,7 +693,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 64
+      "Count": 65
     },
     {
       "Text": "This game is Extremely Fun",
