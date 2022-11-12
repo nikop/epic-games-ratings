@@ -47,7 +47,7 @@
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
@@ -125,7 +125,7 @@
 | 123 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
 | 124 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 125 | [Core](games/c/core.md) | 4.39 | 
-| 126 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 126 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 127 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
 | 128 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
 | 129 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
@@ -203,7 +203,7 @@
 | 201 | [Encased](games/e/encased.md) | 4.41 | 
 | 202 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 203 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 204 | [EVE Online](games/e/eve_online.md) | 4.28 | 
+| 204 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 205 | [Everything](games/e/everything.md) | 4.65 | 
 | 206 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 207 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
@@ -251,7 +251,7 @@
 | 249 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 250 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 251 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 252 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.22 | 
+| 252 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.21 | 
 | 253 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 254 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 255 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
@@ -287,7 +287,7 @@
 | 285 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
 | 286 | [Haven](games/h/haven.md) | 4.75 | 
 | 287 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
-| 288 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.67 | 
+| 288 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.66 | 
 | 289 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 290 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 291 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
@@ -307,7 +307,7 @@
 | 305 | [House Party](games/h/house_party.md) | 4.32 | 
 | 306 | [Hue](games/h/hue.md) | 4.55 | 
 | 307 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 308 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
+| 308 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 309 | [Huntdown](games/h/huntdown.md) | 4.80 | 
 | 310 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
 | 311 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
@@ -363,7 +363,7 @@
 | 361 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 362 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 363 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 364 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
+| 364 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 365 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
 | 366 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 367 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
@@ -377,7 +377,7 @@
 | 375 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.13 | 
 | 376 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 377 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 378 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 378 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 379 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
 | 380 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 381 | [Mago](games/m/mago.md) | 4.86 | 
@@ -450,7 +450,7 @@
 | 448 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
 | 449 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 450 | [Outward](games/o/outward.md) | 4.54 | 
-| 451 | [Overcooked](games/o/overcooked.md) | 4.68 | 
+| 451 | [Overcooked](games/o/overcooked.md) | 4.67 | 
 | 452 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 453 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
 | 454 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
@@ -469,7 +469,7 @@
 | 467 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 468 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 469 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
-| 470 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
+| 470 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
 | 471 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 472 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 473 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
@@ -523,7 +523,7 @@
 | 521 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 522 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
 | 523 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 524 | [RUINER](games/r/ruiner.md) | 4.54 | 
+| 524 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 525 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 526 | [Runbow](games/r/runbow.md) | 4.44 | 
 | 527 | [Sable](games/s/sable.md) | 4.56 | 
@@ -532,7 +532,7 @@
 | 530 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 531 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
 | 532 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 533 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
+| 533 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 534 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.59 | 
 | 535 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 536 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
@@ -544,8 +544,8 @@
 | 542 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 543 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 544 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 545 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
-| 546 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.70 | 
+| 545 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
+| 546 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.69 | 
 | 547 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 548 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 549 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
