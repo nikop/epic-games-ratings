@@ -23,7 +23,7 @@
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 24 | [Among Trees](games/a/among_trees.md) | 4.38 | 
+| 24 | [Among Trees](games/a/among_trees.md) | 4.39 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
@@ -182,7 +182,7 @@
 | 180 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 181 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 182 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 183 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
+| 183 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
 | 184 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
 | 185 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 
 | 186 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
@@ -214,7 +214,7 @@
 | 212 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 213 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.84 | 
 | 214 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 215 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.75 | 
+| 215 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 216 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 217 | [Far Cry](games/f/far_cry.md) | 4.39 | 
 | 218 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.17 | 
@@ -228,7 +228,7 @@
 | 226 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.75 | 
 | 227 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.75 | 
 | 228 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.10 | 
-| 229 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
+| 229 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 230 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 231 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 232 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
@@ -329,7 +329,7 @@
 | 327 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 328 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.43 | 
 | 329 | [Journey](games/j/journey.md) | 4.76 | 
-| 330 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
+| 330 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 331 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 332 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 333 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
@@ -488,7 +488,7 @@
 | 486 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 487 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 488 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 489 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
+| 489 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
 | 490 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.47 | 
 | 491 | [Rayman Origins](games/r/rayman_origins.md) | 4.76 | 
 | 492 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
@@ -781,7 +781,7 @@
 | 779 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 780 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 781 | [World of Goo](games/w/world_of_goo.md) | 4.68 | 
-| 782 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 782 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 783 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 784 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 785 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
