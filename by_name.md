@@ -132,7 +132,7 @@
 | 130 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 131 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 132 | [Crayta](games/c/crayta.md) | 4.20 | 
-| 133 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
+| 133 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
 | 134 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 135 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 
 | 136 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
@@ -192,7 +192,7 @@
 | 190 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 191 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 192 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 193 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.30 | 
+| 193 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.31 | 
 | 194 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 195 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 196 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -257,7 +257,7 @@
 | 255 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
 | 256 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 257 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 258 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.68 | 
+| 258 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.67 | 
 | 259 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
 | 260 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 
 | 261 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
@@ -361,7 +361,7 @@
 | 359 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.43 | 
 | 360 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 361 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
-| 362 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
+| 362 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 363 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 364 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
 | 365 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
@@ -396,7 +396,7 @@
 | 394 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
 | 395 | [Minit](games/m/minit.md) | 4.56 | 
 | 396 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
-| 397 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
+| 397 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 398 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 399 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 400 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
@@ -467,7 +467,7 @@
 | 465 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 466 | [Patron](games/p/patron.md) | 3.94 | 
 | 467 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 468 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 468 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 469 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
 | 470 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 471 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
@@ -689,7 +689,7 @@
 | 687 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 688 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 689 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 690 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 690 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
 | 691 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 692 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 693 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
@@ -741,7 +741,7 @@
 | 739 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.39 | 
 | 740 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
 | 741 | [UnMetal](games/u/unmetal.md) | 4.50 | 
-| 742 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.50 | 
+| 742 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
 | 743 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 744 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
 | 745 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
