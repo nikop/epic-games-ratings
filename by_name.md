@@ -297,7 +297,7 @@
 | 295 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 296 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 297 | [Hob](games/h/hob.md) | 4.56 | 
-| 298 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.41 | 
+| 298 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.42 | 
 | 299 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 300 | [Horace](games/h/horace.md) | 4.58 | 
 | 301 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -338,7 +338,7 @@
 | 336 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 337 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 338 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 339 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 
+| 339 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 
 | 340 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
 | 341 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
 | 342 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
@@ -402,7 +402,7 @@
 | 400 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 401 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 402 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 403 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 403 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 404 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 405 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 406 | [Mutazione](games/m/mutazione.md) | 4.65 | 
@@ -545,7 +545,7 @@
 | 543 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 544 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 545 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
-| 546 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.72 | 
+| 546 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.71 | 
 | 547 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 548 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 549 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
@@ -600,7 +600,7 @@
 | 598 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 599 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 600 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 601 | [STG Football](games/s/stg_football.md) | 4.60 | 
+| 601 | [STG Football](games/s/stg_football.md) | 4.61 | 
 | 602 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 603 | [Stories Untold](games/s/stories_untold.md) | 4.45 | 
 | 604 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.78 | 
@@ -703,7 +703,7 @@
 | 701 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.29 | 
 | 702 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 703 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
-| 704 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 704 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
 | 705 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.55 | 
 | 706 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 707 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
