@@ -159,7 +159,7 @@
 | 157 | [Days Gone](games/d/days_gone.md) | 4.69 | 
 | 158 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 159 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 160 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
+| 160 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
 | 161 | [Death Coming](games/d/death_coming.md) | 4.46 | 
 | 162 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 163 | [Death's Door](games/d/death's_door.md) | 4.65 | 
@@ -251,7 +251,7 @@
 | 249 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 250 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 251 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 252 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.21 | 
+| 252 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.22 | 
 | 253 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 254 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 255 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
@@ -351,7 +351,7 @@
 | 349 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 350 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
 | 351 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 352 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.59 | 
+| 352 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
 | 353 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.44 | 
 | 354 | [Lake](games/l/lake.md) | 4.04 | 
 | 355 | [Lamentum](games/l/lamentum.md) | 4.36 | 
@@ -467,7 +467,7 @@
 | 465 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 466 | [Patron](games/p/patron.md) | 3.94 | 
 | 467 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 468 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
+| 468 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 469 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
 | 470 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
 | 471 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
@@ -541,7 +541,7 @@
 | 539 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 540 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
 | 541 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
-| 542 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
+| 542 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 543 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 544 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 545 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.79 | 
@@ -728,7 +728,7 @@
 | 726 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 727 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
 | 728 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 729 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 729 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
 | 730 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
 | 731 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
 | 732 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
