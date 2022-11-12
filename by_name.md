@@ -40,7 +40,7 @@
 | 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.64 | 
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
+| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.88 | 
 | 43 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
@@ -153,7 +153,7 @@
 | 151 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 152 | [Darksiders III](games/d/darksiders_iii.md) | 4.46 | 
 | 153 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
-| 154 | [Darkwood](games/d/darkwood.md) | 4.60 | 
+| 154 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 155 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.42 | 
 | 156 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 157 | [Days Gone](games/d/days_gone.md) | 4.69 | 
@@ -265,7 +265,7 @@
 | 263 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 264 | [Gloomhaven](games/g/gloomhaven.md) | 4.45 | 
 | 265 | [God of War](games/g/god_of_war.md) | 4.89 | 
-| 266 | [God's Trigger](games/g/god's_trigger.md) | 4.08 | 
+| 266 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 267 | [Godfall](games/g/godfall.md) | 4.05 | 
 | 268 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
 | 269 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
@@ -411,13 +411,13 @@
 | 409 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 410 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 411 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 412 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 412 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
 | 413 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
 | 414 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 415 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
 | 416 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 417 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 418 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.06 | 
+| 418 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
 | 419 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 420 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.10 | 
 | 421 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
@@ -765,7 +765,7 @@
 | 763 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 764 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 765 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
-| 766 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
+| 766 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
 | 767 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 
 | 768 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 769 | [Weird West](games/w/weird_west.md) | 4.45 | 
