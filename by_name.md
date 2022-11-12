@@ -166,7 +166,7 @@
 | 164 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 165 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.42 | 
 | 166 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 167 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.56 | 
+| 167 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.57 | 
 | 168 | [Democracy 4](games/d/democracy_4.md) | 4.31 | 
 | 169 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
 | 170 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
@@ -182,7 +182,7 @@
 | 180 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 181 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 182 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 183 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
+| 183 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
 | 184 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
 | 185 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 
 | 186 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
@@ -446,7 +446,7 @@
 | 444 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 445 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.66 | 
 | 446 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 447 | [Outlast](games/o/outlast.md) | 4.75 | 
+| 447 | [Outlast](games/o/outlast.md) | 4.74 | 
 | 448 | [Outlast 2](games/o/outlast_2.md) | 4.77 | 
 | 449 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 450 | [Outward](games/o/outward.md) | 4.54 | 
