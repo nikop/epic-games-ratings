@@ -68,7 +68,7 @@
 | 66 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
 | 67 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 
 | 68 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
-| 69 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 69 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.40 | 
 | 70 | [Barony](games/b/barony.md) | 4.69 | 
 | 71 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
 | 72 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
@@ -196,14 +196,14 @@
 | 194 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 195 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 196 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 197 | [ELEX](games/e/elex.md) | 4.38 | 
+| 197 | [ELEX](games/e/elex.md) | 4.39 | 
 | 198 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
 | 199 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 200 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
 | 201 | [Encased](games/e/encased.md) | 4.41 | 
 | 202 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 203 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 204 | [EVE Online](games/e/eve_online.md) | 4.27 | 
+| 204 | [EVE Online](games/e/eve_online.md) | 4.28 | 
 | 205 | [Everything](games/e/everything.md) | 4.65 | 
 | 206 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 207 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
@@ -332,7 +332,7 @@
 | 330 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
 | 331 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 332 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
-| 333 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 333 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 334 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 335 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.50 | 
 | 336 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
@@ -390,7 +390,7 @@
 | 388 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
 | 389 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 390 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 391 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 391 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 392 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 393 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 394 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
@@ -458,7 +458,7 @@
 | 456 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 457 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
 | 458 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 459 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.34 | 
+| 459 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.35 | 
 | 460 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 461 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 462 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
@@ -477,7 +477,7 @@
 | 475 | [Pine](games/p/pine.md) | 4.14 | 
 | 476 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
 | 477 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 478 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
+| 478 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
 | 479 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 480 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 481 | [Prey](games/p/prey.md) | 4.61 | 
@@ -643,7 +643,7 @@
 | 641 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 642 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 643 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
-| 644 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.45 | 
+| 644 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 645 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 646 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 647 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
@@ -785,7 +785,7 @@
 | 783 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 784 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 785 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
-| 786 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
+| 786 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 787 | [WRC Generations](games/w/wrc_generations.md) | 4.61 | 
 | 788 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 789 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 

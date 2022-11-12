@@ -1,10 +1,10 @@
 {
   "ID": "f93166410da745b58b1613db66141c02",
   "Name": "ELEX",
-  "Rating": 4.38,
+  "Rating": 4.39,
   "NumberOfRatings": 58,
   "FirstSeen": "2022-07-22T20:26:49.7646389+00:00",
-  "LastChanged": "2022-11-06T19:57:54.5426761+00:00",
+  "LastChanged": "2022-11-12T14:57:42.5917298+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-25T10:01:57.4129818+00:00",
@@ -220,7 +220,17 @@
       "Time": "2022-11-06T19:57:54.5426764+00:00",
       "Rating": 4.38,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T14:57:42.5917301+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Count": 20
+    }
+  ]
 }
