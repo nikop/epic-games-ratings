@@ -5,7 +5,7 @@
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.38 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
+| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
@@ -17,7 +17,7 @@
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.16 | 
-| 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.68 | 
+| 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.66 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
@@ -275,7 +275,7 @@
 | 273 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 274 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
 | 275 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 276 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 
+| 276 | [Gravewood High](games/g/gravewood_high.md) | 4.06 | 
 | 277 | [Griftlands](games/g/griftlands.md) | 4.80 | 
 | 278 | [GRIME](games/g/grime.md) | 4.58 | 
 | 279 | [Grindstone](games/g/grindstone.md) | 4.83 | 
@@ -467,7 +467,7 @@
 | 465 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 466 | [Patron](games/p/patron.md) | 3.94 | 
 | 467 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 468 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 468 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
 | 469 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
 | 470 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 471 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
@@ -545,7 +545,7 @@
 | 543 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 544 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 545 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
-| 546 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.70 | 
+| 546 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.69 | 
 | 547 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 548 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 549 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
@@ -725,7 +725,7 @@
 | 723 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
 | 724 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 725 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 726 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 726 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 727 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
 | 728 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 729 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 

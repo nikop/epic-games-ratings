@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.68 | 
+| 1 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.66 | 
 | 2 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.69 | 
 | 3 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.35 | 
 | 4 | [WRC Generations](games/w/wrc_generations.md) | 4.61 | 
@@ -18,7 +18,7 @@
 | 16 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.59 | 
 | 17 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.78 | 
 | 18 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
-| 19 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
+| 19 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 20 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 21 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
 | 22 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.29 | 
