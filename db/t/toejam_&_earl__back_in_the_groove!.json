@@ -1,10 +1,10 @@
 {
   "ID": "bd1047eb76fd4fd490fcb8f668e5deda",
   "Name": "ToeJam \u0026 Earl: Back in the Groove!",
-  "Rating": 4.29,
+  "Rating": 4.28,
   "FirstSeen": "2022-10-13T19:32:35.2294965+00:00",
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
-  "LastChanged": "2022-11-07T13:35:04.3724717+00:00",
+  "LastChanged": "2022-11-12T21:58:41.5362839+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-16T10:33:46.2619173+00:00",
@@ -144,6 +144,11 @@
     {
       "Time": "2022-11-07T13:35:04.372472+00:00",
       "Rating": 4.29,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T21:58:41.5362841+00:00",
+      "Rating": 4.28,
       "NumberOfRatings": null
     }
   ],

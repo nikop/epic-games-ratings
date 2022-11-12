@@ -32,7 +32,7 @@
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
-| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 
+| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.66 | 
@@ -59,7 +59,7 @@
 | 57 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 58 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 59 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
-| 60 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 
+| 60 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
 | 61 | [Aztez](games/a/aztez.md) | 4.52 | 
 | 62 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 63 | [Backbone](games/b/backbone.md) | 4.35 | 
@@ -86,7 +86,7 @@
 | 84 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 85 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.29 | 
 | 86 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
-| 87 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
+| 87 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.18 | 
 | 88 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 89 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.37 | 
 | 90 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
@@ -151,7 +151,7 @@
 | 149 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 150 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
 | 151 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 152 | [Darksiders III](games/d/darksiders_iii.md) | 4.46 | 
+| 152 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
 | 153 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
 | 154 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 155 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.42 | 
@@ -212,9 +212,9 @@
 | 210 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 211 | [Faeria](games/f/faeria.md) | 4.41 | 
 | 212 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 213 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.84 | 
+| 213 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.86 | 
 | 214 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 215 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
+| 215 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.75 | 
 | 216 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 217 | [Far Cry](games/f/far_cry.md) | 4.39 | 
 | 218 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.17 | 
@@ -510,7 +510,7 @@
 | 508 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 509 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 510 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 511 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 511 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.51 | 
 | 512 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 513 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 514 | [Road 96](games/r/road_96.md) | 4.57 | 
@@ -673,7 +673,7 @@
 | 671 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.28 | 
 | 672 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 673 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.21 | 
-| 674 | [The Surge](games/t/the_surge.md) | 4.51 | 
+| 674 | [The Surge](games/t/the_surge.md) | 4.50 | 
 | 675 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
 | 676 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 677 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
@@ -700,7 +700,7 @@
 | 698 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.44 | 
 | 699 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 700 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
-| 701 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.29 | 
+| 701 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.28 | 
 | 702 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 703 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
 | 704 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
