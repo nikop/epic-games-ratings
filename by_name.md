@@ -65,7 +65,7 @@
 | 63 | [Backbone](games/b/backbone.md) | 4.35 | 
 | 64 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 65 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 66 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
+| 66 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.88 | 
 | 67 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 
 | 68 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 69 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.40 | 
@@ -83,7 +83,7 @@
 | 81 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 82 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 83 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
-| 84 | [Black Book](games/b/black_book.md) | 4.87 | 
+| 84 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 85 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.29 | 
 | 86 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 87 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
@@ -168,7 +168,7 @@
 | 166 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 167 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.57 | 
 | 168 | [Democracy 4](games/d/democracy_4.md) | 4.31 | 
-| 169 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
+| 169 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 170 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 171 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 172 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
@@ -244,7 +244,7 @@
 | 242 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 243 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 244 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
-| 245 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 245 | [For The King](games/f/for_the_king.md) | 4.69 | 
 | 246 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.41 | 
 | 247 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 248 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
@@ -332,7 +332,7 @@
 | 330 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
 | 331 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 332 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
-| 333 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 333 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 334 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 335 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.50 | 
 | 336 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
@@ -411,7 +411,7 @@
 | 409 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 410 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 411 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 412 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 412 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
 | 413 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
 | 414 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 415 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
@@ -513,7 +513,7 @@
 | 511 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.51 | 
 | 512 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 513 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 514 | [Road 96](games/r/road_96.md) | 4.58 | 
+| 514 | [Road 96](games/r/road_96.md) | 4.57 | 
 | 515 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 516 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 517 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
@@ -573,7 +573,7 @@
 | 571 | [SOMA](games/s/soma.md) | 4.65 | 
 | 572 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 573 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
-| 574 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
+| 574 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 575 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 576 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 577 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
@@ -780,7 +780,7 @@
 | 778 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 779 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 780 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 781 | [World of Goo](games/w/world_of_goo.md) | 4.67 | 
+| 781 | [World of Goo](games/w/world_of_goo.md) | 4.68 | 
 | 782 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 783 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 784 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
