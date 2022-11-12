@@ -17,15 +17,15 @@
 | 15 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 16 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 17 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
-| 18 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
-| 19 | [Firework](games/f/firework.md) | 4.88 | 
-| 20 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 21 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 22 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 23 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
-| 24 | [TUNIC](games/t/tunic.md) | 4.87 | 
-| 25 | [Black Book](games/b/black_book.md) | 4.87 | 
-| 26 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
+| 18 | [Art of Rally](games/a/art_of_rally_1.md) | 4.88 | 
+| 19 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
+| 20 | [Firework](games/f/firework.md) | 4.88 | 
+| 21 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
+| 22 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 23 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 24 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
+| 25 | [TUNIC](games/t/tunic.md) | 4.87 | 
+| 26 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 27 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 28 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 29 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
@@ -105,19 +105,19 @@
 | 103 | [Superliminal](games/s/superliminal.md) | 4.77 | 
 | 104 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.77 | 
 | 105 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
-| 106 | [Outlast 2](games/o/outlast_2.md) | 4.77 | 
-| 107 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 108 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 110 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 111 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
-| 112 | [Journey](games/j/journey.md) | 4.76 | 
-| 113 | [DOOM II](games/d/doom_ii.md) | 4.76 | 
-| 114 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
-| 115 | [Rayman Origins](games/r/rayman_origins.md) | 4.76 | 
-| 116 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.76 | 
-| 117 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
-| 118 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.76 | 
+| 106 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 107 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 108 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 109 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
+| 110 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
+| 111 | [Journey](games/j/journey.md) | 4.76 | 
+| 112 | [DOOM II](games/d/doom_ii.md) | 4.76 | 
+| 113 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
+| 114 | [Rayman Origins](games/r/rayman_origins.md) | 4.76 | 
+| 115 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.76 | 
+| 116 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
+| 117 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.76 | 
+| 118 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
 | 119 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 120 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 121 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
@@ -424,19 +424,19 @@
 | 422 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 423 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 424 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 425 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
-| 426 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 427 | [Outward](games/o/outward.md) | 4.54 | 
-| 428 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 429 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
-| 430 | [RUINER](games/r/ruiner.md) | 4.54 | 
-| 431 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
-| 432 | [Aragami 2](games/a/aragami_2.md) | 4.54 | 
-| 433 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
-| 434 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
-| 435 | [The Medium](games/t/the_medium.md) | 4.54 | 
-| 436 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 437 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 425 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
+| 426 | [Outward](games/o/outward.md) | 4.54 | 
+| 427 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 428 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
+| 429 | [RUINER](games/r/ruiner.md) | 4.54 | 
+| 430 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
+| 431 | [Aragami 2](games/a/aragami_2.md) | 4.54 | 
+| 432 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
+| 433 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
+| 434 | [The Medium](games/t/the_medium.md) | 4.54 | 
+| 435 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 436 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 437 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 438 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 439 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 440 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
@@ -682,14 +682,14 @@
 | 680 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.29 | 
 | 681 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.29 | 
 | 682 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 683 | [EVE Online](games/e/eve_online.md) | 4.28 | 
-| 684 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
-| 685 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.28 | 
-| 686 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
-| 687 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 688 | [Starsand](games/s/starsand.md) | 4.28 | 
-| 689 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
-| 690 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
+| 683 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
+| 684 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.28 | 
+| 685 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
+| 686 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 687 | [Starsand](games/s/starsand.md) | 4.28 | 
+| 688 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
+| 689 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
+| 690 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 691 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 692 | [The Fall](games/t/the_fall.md) | 4.27 | 
 | 693 | [Parkitect](games/p/parkitect.md) | 4.27 | 
@@ -761,8 +761,8 @@
 | 759 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
 | 760 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
 | 761 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
-| 762 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
-| 763 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.06 | 
+| 762 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.06 | 
+| 763 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.06 | 
 | 764 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 765 | [Godfall](games/g/godfall.md) | 4.05 | 
 | 766 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 

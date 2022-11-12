@@ -41,7 +41,7 @@
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
-| 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
+| 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.88 | 
 | 43 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
@@ -55,7 +55,7 @@
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.53 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
 | 55 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
-| 56 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
+| 56 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 57 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 58 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 59 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
@@ -203,7 +203,7 @@
 | 201 | [Encased](games/e/encased.md) | 4.41 | 
 | 202 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 203 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 204 | [EVE Online](games/e/eve_online.md) | 4.28 | 
+| 204 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 205 | [Everything](games/e/everything.md) | 4.65 | 
 | 206 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 207 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
@@ -417,7 +417,7 @@
 | 415 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
 | 416 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 417 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 418 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
+| 418 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.06 | 
 | 419 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 420 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.10 | 
 | 421 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
@@ -447,7 +447,7 @@
 | 445 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.66 | 
 | 446 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 447 | [Outlast](games/o/outlast.md) | 4.74 | 
-| 448 | [Outlast 2](games/o/outlast_2.md) | 4.77 | 
+| 448 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
 | 449 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 450 | [Outward](games/o/outward.md) | 4.54 | 
 | 451 | [Overcooked](games/o/overcooked.md) | 4.68 | 
