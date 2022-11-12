@@ -272,18 +272,18 @@
 | 270 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
 | 271 | [Mutazione](games/m/mutazione.md) | 4.65 | 
 | 272 | [Everything](games/e/everything.md) | 4.65 | 
-| 273 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 274 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 275 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 276 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 277 | [Old World](games/o/old_world.md) | 4.64 | 
-| 278 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 279 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 280 | [Limbo](games/l/limbo.md) | 4.64 | 
-| 281 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
-| 282 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
-| 283 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.64 | 
-| 284 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.64 | 
+| 273 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 274 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 275 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 276 | [Old World](games/o/old_world.md) | 4.64 | 
+| 277 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 278 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
+| 279 | [Limbo](games/l/limbo.md) | 4.64 | 
+| 280 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
+| 281 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
+| 282 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.64 | 
+| 283 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.64 | 
+| 284 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
 | 285 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 286 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 287 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
@@ -299,28 +299,28 @@
 | 297 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 298 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 299 | [Solar Ash](games/s/solar_ash.md) | 4.62 | 
-| 300 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
-| 301 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.62 | 
-| 302 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
-| 303 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
-| 304 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.62 | 
-| 305 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 306 | [Prey](games/p/prey.md) | 4.61 | 
-| 307 | [Warframe](games/w/warframe.md) | 4.61 | 
-| 308 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 309 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 310 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 311 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
-| 312 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 313 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 314 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 315 | [20XX](games/2/20xx.md) | 4.61 | 
-| 316 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 317 | [ABZU](games/a/abzu.md) | 4.61 | 
-| 318 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
-| 319 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 320 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
-| 321 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
+| 300 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.62 | 
+| 301 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
+| 302 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
+| 303 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.62 | 
+| 304 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 305 | [Prey](games/p/prey.md) | 4.61 | 
+| 306 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 307 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 308 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 309 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 310 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 311 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 312 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 313 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 314 | [20XX](games/2/20xx.md) | 4.61 | 
+| 315 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 316 | [ABZU](games/a/abzu.md) | 4.61 | 
+| 317 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
+| 318 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 319 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
+| 320 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
+| 321 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 322 | [Roguebook](games/r/roguebook.md) | 4.61 | 
 | 323 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.61 | 
 | 324 | [Card Shark](games/c/card_shark.md) | 4.61 | 
