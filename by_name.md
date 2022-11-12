@@ -16,7 +16,7 @@
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.51 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.16 | 
+| 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.14 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.65 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
@@ -300,16 +300,16 @@
 | 298 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.43 | 
 | 299 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 300 | [Horace](games/h/horace.md) | 4.58 | 
-| 301 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
+| 301 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 302 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 303 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 304 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 305 | [House Party](games/h/house_party.md) | 4.32 | 
 | 306 | [Hue](games/h/hue.md) | 4.55 | 
 | 307 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 308 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 308 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 309 | [Huntdown](games/h/huntdown.md) | 4.80 | 
-| 310 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 310 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
 | 311 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
 | 312 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.76 | 
 | 313 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
@@ -341,7 +341,7 @@
 | 339 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 
 | 340 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
 | 341 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
-| 342 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
+| 342 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
 | 343 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
 | 344 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
 | 345 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.71 | 
@@ -411,7 +411,7 @@
 | 409 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 410 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 411 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 412 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 412 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 413 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
 | 414 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 415 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
@@ -597,7 +597,7 @@
 | 595 | [Starsand](games/s/starsand.md) | 4.28 | 
 | 596 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 597 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 
-| 598 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 598 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 599 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 600 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 601 | [STG Football](games/s/stg_football.md) | 4.62 | 
@@ -703,7 +703,7 @@
 | 701 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.29 | 
 | 702 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 703 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
-| 704 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
+| 704 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
 | 705 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.55 | 
 | 706 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 707 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 

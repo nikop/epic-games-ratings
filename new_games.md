@@ -21,4 +21,3 @@
 | 19 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 20 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 21 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
-| 22 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.29 | 
