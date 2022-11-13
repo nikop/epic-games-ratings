@@ -251,14 +251,14 @@
 | 249 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 250 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 251 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 252 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.22 | 
+| 252 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.21 | 
 | 253 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 254 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 255 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
 | 256 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 257 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 258 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.67 | 
-| 259 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
+| 258 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
+| 259 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
 | 260 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 
 | 261 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 262 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
