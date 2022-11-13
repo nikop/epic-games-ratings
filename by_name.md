@@ -17,7 +17,7 @@
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.14 | 
-| 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.64 | 
+| 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.65 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
@@ -174,7 +174,7 @@
 | 172 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 173 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 174 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
-| 175 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
+| 175 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.64 | 
 | 176 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 177 | [Diabotical](games/d/diabotical.md) | 4.77 | 
 | 178 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
@@ -228,7 +228,7 @@
 | 226 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.75 | 
 | 227 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.75 | 
 | 228 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.10 | 
-| 229 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
+| 229 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 230 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 231 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 232 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
@@ -260,7 +260,7 @@
 | 258 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 
 | 259 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
 | 260 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 
-| 261 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 261 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
 | 262 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 263 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 264 | [Gloomhaven](games/g/gloomhaven.md) | 4.45 | 
@@ -358,7 +358,7 @@
 | 356 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
 | 357 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 358 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
-| 359 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.43 | 
+| 359 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
 | 360 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 361 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 362 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
@@ -377,7 +377,7 @@
 | 375 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 376 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 377 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 378 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 378 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
 | 379 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
 | 380 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 381 | [Mago](games/m/mago.md) | 4.86 | 
@@ -402,7 +402,7 @@
 | 400 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 401 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 402 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 403 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 403 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 404 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 405 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 406 | [Mutazione](games/m/mutazione.md) | 4.65 | 
@@ -596,17 +596,17 @@
 | 594 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 595 | [Starsand](games/s/starsand.md) | 4.30 | 
 | 596 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
-| 597 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 
+| 597 | [Startup Panic](games/s/startup_panic.md) | 4.41 | 
 | 598 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 599 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 600 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 601 | [STG Football](games/s/stg_football.md) | 4.60 | 
 | 602 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
-| 603 | [Stories Untold](games/s/stories_untold.md) | 4.45 | 
+| 603 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
 | 604 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.78 | 
 | 605 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 606 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.70 | 
-| 607 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
+| 607 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
 | 608 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
 | 609 | [Submerged](games/s/submerged.md) | 4.10 | 
 | 610 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
