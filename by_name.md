@@ -131,7 +131,7 @@
 | 129 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
 | 130 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 131 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 132 | [Crayta](games/c/crayta.md) | 4.20 | 
+| 132 | [Crayta](games/c/crayta.md) | 4.18 | 
 | 133 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
 | 134 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 135 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 
@@ -309,7 +309,7 @@
 | 307 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 308 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 309 | [Huntdown](games/h/huntdown.md) | 4.81 | 
-| 310 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
+| 310 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
 | 311 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
 | 312 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.76 | 
 | 313 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
@@ -692,7 +692,7 @@
 | 690 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 691 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
 | 692 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
-| 693 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 693 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 694 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 695 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 696 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
@@ -721,7 +721,7 @@
 | 719 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 720 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 
 | 721 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 722 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 722 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
 | 723 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 724 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
 | 725 | [Transistor](games/t/transistor.md) | 4.60 | 
@@ -738,7 +738,7 @@
 | 736 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 737 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 738 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 739 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.78 | 
+| 739 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
 | 740 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.39 | 
 | 741 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 742 | [UnMetal](games/u/unmetal.md) | 4.50 | 
@@ -786,7 +786,7 @@
 | 784 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 785 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 786 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
-| 787 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
+| 787 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
 | 788 | [WRC Generations](games/w/wrc_generations.md) | 4.62 | 
 | 789 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 790 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
