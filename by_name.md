@@ -164,7 +164,7 @@
 | 162 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 163 | [Death's Door](games/d/death's_door.md) | 4.65 | 
 | 164 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 165 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.42 | 
+| 165 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.44 | 
 | 166 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 167 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.58 | 
 | 168 | [Democracy 4](games/d/democracy_4.md) | 4.31 | 
@@ -281,7 +281,7 @@
 | 279 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 280 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.62 | 
 | 281 | [Hades](games/h/hades.md) | 4.92 | 
-| 282 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 282 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.44 | 
 | 283 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 284 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 285 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
@@ -458,7 +458,7 @@
 | 456 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 457 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
 | 458 | [Paradigm](games/p/paradigm.md) | 4.47 | 
-| 459 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.32 | 
+| 459 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.33 | 
 | 460 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 461 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 462 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
@@ -488,7 +488,7 @@
 | 486 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 487 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 488 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 489 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
+| 489 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
 | 490 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.47 | 
 | 491 | [Rayman Origins](games/r/rayman_origins.md) | 4.76 | 
 | 492 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
@@ -541,7 +541,7 @@
 | 539 | [Scorn](games/s/scorn.md) | 4.46 | 
 | 540 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
 | 541 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
-| 542 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
+| 542 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
 | 543 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 544 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 545 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
@@ -615,7 +615,7 @@
 | 613 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 614 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
 | 615 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 616 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
+| 616 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
 | 617 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
 | 618 | [SUPERHOT](games/s/superhot.md) | 4.70 | 
 | 619 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.62 | 
@@ -702,13 +702,13 @@
 | 700 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 701 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
 | 702 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.28 | 
-| 703 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 703 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.55 | 
 | 704 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
 | 705 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
 | 706 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.54 | 
 | 707 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 708 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 709 | [Torchlight](games/t/torchlight.md) | 4.36 | 
+| 709 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 710 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 711 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 712 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
@@ -724,7 +724,7 @@
 | 722 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
 | 723 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 724 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
-| 725 | [Transistor](games/t/transistor.md) | 4.60 | 
+| 725 | [Transistor](games/t/transistor.md) | 4.61 | 
 | 726 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 727 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 728 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
