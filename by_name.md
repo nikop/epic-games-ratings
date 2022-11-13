@@ -29,7 +29,7 @@
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
-| 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
+| 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.49 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
@@ -55,7 +55,7 @@
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.53 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
 | 55 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
-| 56 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 56 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 57 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 58 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 59 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
@@ -133,7 +133,7 @@
 | 131 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 132 | [Crayta](games/c/crayta.md) | 4.20 | 
 | 133 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
-| 134 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 134 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 135 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 
 | 136 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 137 | [CryoFall](games/c/cryofall.md) | 4.50 | 
@@ -328,7 +328,7 @@
 | 326 | [Isonzo](games/i/isonzo.md) | 4.58 | 
 | 327 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 328 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 329 | [Journey](games/j/journey.md) | 4.76 | 
+| 329 | [Journey](games/j/journey.md) | 4.75 | 
 | 330 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 331 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 332 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
@@ -458,7 +458,7 @@
 | 456 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 457 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
 | 458 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 459 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.35 | 
+| 459 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.32 | 
 | 460 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 461 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 462 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
@@ -579,7 +579,7 @@
 | 577 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
 | 578 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 579 | [Space Punks](games/s/space_punks.md) | 4.18 | 
-| 580 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
+| 580 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 581 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
 | 582 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 583 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.35 | 
@@ -607,7 +607,7 @@
 | 605 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 606 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.70 | 
 | 607 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
-| 608 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
+| 608 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
 | 609 | [Submerged](games/s/submerged.md) | 4.10 | 
 | 610 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 611 | [Subnautica](games/s/subnautica.md) | 4.84 | 
@@ -786,7 +786,7 @@
 | 784 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 785 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 786 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 787 | [WRC Generations](games/w/wrc_generations.md) | 4.60 | 
+| 787 | [WRC Generations](games/w/wrc_generations.md) | 4.62 | 
 | 788 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 789 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 790 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
