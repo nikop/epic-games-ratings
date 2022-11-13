@@ -166,7 +166,7 @@
 | 164 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 165 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.42 | 
 | 166 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 167 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.57 | 
+| 167 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.58 | 
 | 168 | [Democracy 4](games/d/democracy_4.md) | 4.31 | 
 | 169 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 170 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
@@ -228,7 +228,7 @@
 | 226 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.75 | 
 | 227 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.75 | 
 | 228 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.10 | 
-| 229 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 229 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 230 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 231 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 232 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
@@ -295,7 +295,7 @@
 | 293 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 294 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.53 | 
 | 295 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 296 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 296 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 297 | [Hob](games/h/hob.md) | 4.56 | 
 | 298 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.43 | 
 | 299 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
@@ -618,7 +618,7 @@
 | 616 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
 | 617 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
 | 618 | [SUPERHOT](games/s/superhot.md) | 4.70 | 
-| 619 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.61 | 
+| 619 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.62 | 
 | 620 | [Superliminal](games/s/superliminal.md) | 4.77 | 
 | 621 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 622 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
