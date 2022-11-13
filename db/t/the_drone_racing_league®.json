@@ -373,7 +373,7 @@
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -394,6 +394,10 @@
     {
       "Text": "This game is Great for Beginners",
       "Count": 36
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 21
     }
   ]
 }
