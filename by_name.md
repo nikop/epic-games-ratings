@@ -89,7 +89,7 @@
 | 87 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 88 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 89 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.37 | 
-| 90 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
+| 90 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.82 | 
 | 91 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 92 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 93 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -235,7 +235,7 @@
 | 233 | [Fez](games/f/fez.md) | 4.71 | 
 | 234 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
 | 235 | [Figment](games/f/figment.md) | 4.43 | 
-| 236 | [Filament](games/f/filament.md) | 4.27 | 
+| 236 | [Filament](games/f/filament.md) | 4.28 | 
 | 237 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 238 | [Firework](games/f/firework.md) | 4.88 | 
 | 239 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 
@@ -393,7 +393,7 @@
 | 391 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 392 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 393 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
-| 394 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
+| 394 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
 | 395 | [Minit](games/m/minit.md) | 4.56 | 
 | 396 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 397 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
@@ -714,7 +714,7 @@
 | 712 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
 | 713 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 714 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 715 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.47 | 
+| 715 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.46 | 
 | 716 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.73 | 
 | 717 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 718 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
@@ -738,7 +738,7 @@
 | 736 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 737 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 738 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 739 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
+| 739 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.78 | 
 | 740 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.39 | 
 | 741 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 742 | [UnMetal](games/u/unmetal.md) | 4.50 | 
