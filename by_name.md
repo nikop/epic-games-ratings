@@ -174,7 +174,7 @@
 | 172 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 173 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 174 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
-| 175 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
+| 175 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.64 | 
 | 176 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 177 | [Diabotical](games/d/diabotical.md) | 4.77 | 
 | 178 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 

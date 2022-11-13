@@ -278,17 +278,17 @@
 | 276 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
 | 277 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 278 | [Limbo](games/l/limbo.md) | 4.64 | 
-| 279 | [Coromon](games/c/coromon.md) | 4.64 | 
-| 280 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
-| 281 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.64 | 
-| 282 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.64 | 
-| 283 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
-| 284 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 285 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 286 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 287 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 288 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
-| 289 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
+| 279 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.64 | 
+| 280 | [Coromon](games/c/coromon.md) | 4.64 | 
+| 281 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
+| 282 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.64 | 
+| 283 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.64 | 
+| 284 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
+| 285 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 286 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 287 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
+| 288 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 289 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
 | 290 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 291 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 292 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
