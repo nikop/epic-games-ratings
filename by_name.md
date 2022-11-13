@@ -55,7 +55,7 @@
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.53 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
 | 55 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
-| 56 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
+| 56 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 57 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 58 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 59 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
@@ -169,7 +169,7 @@
 | 167 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.58 | 
 | 168 | [Democracy 4](games/d/democracy_4.md) | 4.31 | 
 | 169 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 170 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
+| 170 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 
 | 171 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 172 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 173 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
@@ -177,7 +177,7 @@
 | 175 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 176 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 177 | [Diabotical](games/d/diabotical.md) | 4.77 | 
-| 178 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
+| 178 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
 | 179 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.41 | 
 | 180 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 181 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
@@ -368,7 +368,7 @@
 | 366 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 367 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 368 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.03 | 
-| 369 | [Limbo](games/l/limbo.md) | 4.64 | 
+| 369 | [Limbo](games/l/limbo.md) | 4.63 | 
 | 370 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
 | 371 | [Little Inferno](games/l/little_inferno.md) | 4.47 | 
 | 372 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
