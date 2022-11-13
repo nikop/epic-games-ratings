@@ -1,10 +1,10 @@
 {
   "ID": "94a50905f377470c84c8e4b7c38f9cdd",
   "Name": "DRAGON QUEST\u00AE XI S: Echoes of an Elusive Age\u2122",
-  "Rating": 4.84,
+  "Rating": 4.85,
   "NumberOfRatings": 306,
   "FirstSeen": "2022-07-22T20:19:40.4195288+00:00",
-  "LastChanged": "2022-11-09T23:57:07.9600498+00:00",
+  "LastChanged": "2022-11-13T14:57:27.0545808+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:40.4195291+00:00",
@@ -455,6 +455,11 @@
       "Time": "2022-11-09T23:57:07.9600499+00:00",
       "Rating": 4.84,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T14:57:27.0545811+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -484,7 +489,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 24
+      "Count": 26
     },
     {
       "Text": "This game is Great for Beginners",

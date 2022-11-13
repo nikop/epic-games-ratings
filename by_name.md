@@ -52,7 +52,7 @@
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.53 | 
+| 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.46 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 55 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 56 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
@@ -68,7 +68,7 @@
 | 66 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.88 | 
 | 67 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 
 | 68 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
-| 69 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.40 | 
+| 69 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.39 | 
 | 70 | [Barony](games/b/barony.md) | 4.69 | 
 | 71 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
 | 72 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
@@ -188,7 +188,7 @@
 | 186 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
 | 187 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 188 | [DOOM II](games/d/doom_ii.md) | 4.76 | 
-| 189 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
+| 189 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 190 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 191 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 192 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
@@ -257,7 +257,7 @@
 | 255 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
 | 256 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 257 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 258 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
+| 258 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 
 | 259 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
 | 260 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 
 | 261 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
@@ -370,7 +370,7 @@
 | 368 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.03 | 
 | 369 | [Limbo](games/l/limbo.md) | 4.63 | 
 | 370 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
-| 371 | [Little Inferno](games/l/little_inferno.md) | 4.47 | 
+| 371 | [Little Inferno](games/l/little_inferno.md) | 4.48 | 
 | 372 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 373 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.38 | 
 | 374 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.25 | 
@@ -411,7 +411,7 @@
 | 409 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 410 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 411 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 412 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 412 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 413 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
 | 414 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
 | 415 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
@@ -504,7 +504,7 @@
 | 502 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.85 | 
 | 503 | [Revita](games/r/revita.md) | 4.74 | 
 | 504 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 505 | [RiME](games/r/rime.md) | 4.60 | 
+| 505 | [RiME](games/r/rime.md) | 4.59 | 
 | 506 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 507 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 508 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -545,7 +545,7 @@
 | 543 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 544 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 545 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
-| 546 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
+| 546 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.64 | 
 | 547 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 548 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 549 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
@@ -585,7 +585,7 @@
 | 583 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.35 | 
 | 584 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.44 | 
 | 585 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.72 | 
-| 586 | [SpiderHeck](games/s/spiderheck.md) | 4.68 | 
+| 586 | [SpiderHeck](games/s/spiderheck.md) | 4.70 | 
 | 587 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 588 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 589 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
@@ -747,7 +747,7 @@
 | 745 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 746 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.77 | 
 | 747 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 748 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
+| 748 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.18 | 
 | 749 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 750 | [Verdun](games/v/verdun.md) | 4.51 | 
 | 751 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
@@ -783,7 +783,7 @@
 | 781 | [World of Goo](games/w/world_of_goo.md) | 4.68 | 
 | 782 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 783 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 784 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 784 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 785 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 786 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 787 | [WRC Generations](games/w/wrc_generations.md) | 4.62 | 
