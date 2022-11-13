@@ -1,10 +1,10 @@
 {
   "ID": "8ad9396e01f046aaa784a33f7e60dfbe",
   "Name": "Mafia III: Definitive Edition",
-  "Rating": 4.19,
+  "Rating": 4.18,
   "NumberOfRatings": 1289,
   "FirstSeen": "2022-07-22T20:19:34.9657602+00:00",
-  "LastChanged": "2022-11-12T13:17:47.8962878+00:00",
+  "LastChanged": "2022-11-13T13:18:18.4263966+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:34.9657605+00:00",
@@ -794,6 +794,11 @@
     {
       "Time": "2022-11-12T13:17:47.896288+00:00",
       "Rating": 4.19,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T13:18:18.4263971+00:00",
+      "Rating": 4.18,
       "NumberOfRatings": null
     }
   ],
