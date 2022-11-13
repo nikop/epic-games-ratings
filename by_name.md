@@ -23,13 +23,13 @@
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 24 | [Among Trees](games/a/among_trees.md) | 4.39 | 
+| 24 | [Among Trees](games/a/among_trees.md) | 4.40 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
-| 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.49 | 
+| 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.50 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
@@ -112,7 +112,7 @@
 | 110 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 111 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
 | 112 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 113 | [Chorus](games/c/chorus.md) | 4.43 | 
+| 113 | [Chorus](games/c/chorus.md) | 4.44 | 
 | 114 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.92 | 
 | 115 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 116 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
@@ -361,7 +361,7 @@
 | 359 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
 | 360 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 361 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
-| 362 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 362 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 363 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 364 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
 | 365 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
@@ -432,7 +432,7 @@
 | 430 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 431 | [Obduction](games/o/obduction.md) | 4.11 | 
 | 432 | [Observation](games/o/observation.md) | 4.50 | 
-| 433 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 
+| 433 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.44 | 
 | 434 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
 | 435 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
 | 436 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
@@ -538,7 +538,7 @@
 | 536 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 537 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
 | 538 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 539 | [Scorn](games/s/scorn.md) | 4.47 | 
+| 539 | [Scorn](games/s/scorn.md) | 4.46 | 
 | 540 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
 | 541 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
 | 542 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
@@ -675,7 +675,7 @@
 | 673 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 674 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.21 | 
 | 675 | [The Surge](games/t/the_surge.md) | 4.50 | 
-| 676 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
+| 676 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
 | 677 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 678 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 679 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
