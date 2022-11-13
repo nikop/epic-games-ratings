@@ -17,7 +17,7 @@
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.14 | 
-| 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.65 | 
+| 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.64 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
@@ -42,7 +42,7 @@
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.88 | 
-| 43 | [Ashen](games/a/ashen.md) | 4.29 | 
+| 43 | [Ashen](games/a/ashen.md) | 4.30 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
@@ -159,7 +159,7 @@
 | 157 | [Days Gone](games/d/days_gone.md) | 4.69 | 
 | 158 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 159 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 160 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 
+| 160 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 161 | [Death Coming](games/d/death_coming.md) | 4.46 | 
 | 162 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 163 | [Death's Door](games/d/death's_door.md) | 4.65 | 
@@ -174,7 +174,7 @@
 | 172 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 173 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 174 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
-| 175 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.64 | 
+| 175 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 176 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 177 | [Diabotical](games/d/diabotical.md) | 4.77 | 
 | 178 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
@@ -781,7 +781,7 @@
 | 779 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 780 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 781 | [World of Goo](games/w/world_of_goo.md) | 4.68 | 
-| 782 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
+| 782 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 783 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 784 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 785 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
