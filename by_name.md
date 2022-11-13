@@ -185,7 +185,7 @@
 | 183 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 184 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
 | 185 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 
-| 186 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
+| 186 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
 | 187 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 188 | [DOOM II](games/d/doom_ii.md) | 4.76 | 
 | 189 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
@@ -243,7 +243,7 @@
 | 241 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 242 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 243 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 244 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.69 | 
+| 244 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.70 | 
 | 245 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 246 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.41 | 
 | 247 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -377,7 +377,7 @@
 | 375 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 376 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 377 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 378 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 378 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 379 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
 | 380 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 381 | [Mago](games/m/mago.md) | 4.86 | 
@@ -467,7 +467,7 @@
 | 465 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 466 | [Patron](games/p/patron.md) | 3.94 | 
 | 467 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 468 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 
+| 468 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 469 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
 | 470 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 471 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
@@ -597,7 +597,7 @@
 | 595 | [Starsand](games/s/starsand.md) | 4.30 | 
 | 596 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 597 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 
-| 598 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 598 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 599 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 600 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 601 | [STG Football](games/s/stg_football.md) | 4.61 | 
@@ -607,7 +607,7 @@
 | 605 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 606 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.70 | 
 | 607 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.48 | 
-| 608 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
+| 608 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
 | 609 | [Submerged](games/s/submerged.md) | 4.10 | 
 | 610 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 611 | [Subnautica](games/s/subnautica.md) | 4.84 | 
@@ -758,7 +758,7 @@
 | 756 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 757 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 758 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 759 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
+| 759 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 760 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.41 | 
 | 761 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
 | 762 | [Warpips](games/w/warpips.md) | 4.55 | 
@@ -792,6 +792,6 @@
 | 790 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 791 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
 | 792 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 793 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.64 | 
+| 793 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.65 | 
 | 794 | [ZOMBI](games/z/zombi.md) | 4.35 | 
 | 795 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
