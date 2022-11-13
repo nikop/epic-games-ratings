@@ -31,7 +31,7 @@
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.49 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
-| 32 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
+| 32 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
@@ -113,7 +113,7 @@
 | 111 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
 | 112 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 113 | [Chorus](games/c/chorus.md) | 4.43 | 
-| 114 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.91 | 
+| 114 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.92 | 
 | 115 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 116 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 117 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
@@ -245,7 +245,7 @@
 | 243 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 244 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.70 | 
 | 245 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 246 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.41 | 
+| 246 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.40 | 
 | 247 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 248 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 249 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
@@ -308,7 +308,7 @@
 | 306 | [Hue](games/h/hue.md) | 4.55 | 
 | 307 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 308 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
-| 309 | [Huntdown](games/h/huntdown.md) | 4.80 | 
+| 309 | [Huntdown](games/h/huntdown.md) | 4.81 | 
 | 310 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
 | 311 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
 | 312 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.76 | 
@@ -340,7 +340,7 @@
 | 338 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 339 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 
 | 340 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
-| 341 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
+| 341 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 
 | 342 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
 | 343 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
 | 344 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
@@ -457,7 +457,7 @@
 | 455 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
 | 456 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 457 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
-| 458 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 458 | [Paradigm](games/p/paradigm.md) | 4.47 | 
 | 459 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.32 | 
 | 460 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 461 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
@@ -600,7 +600,7 @@
 | 598 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 599 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 600 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 601 | [STG Football](games/s/stg_football.md) | 4.61 | 
+| 601 | [STG Football](games/s/stg_football.md) | 4.60 | 
 | 602 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 603 | [Stories Untold](games/s/stories_untold.md) | 4.45 | 
 | 604 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.78 | 
@@ -619,7 +619,7 @@
 | 617 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
 | 618 | [SUPERHOT](games/s/superhot.md) | 4.70 | 
 | 619 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.62 | 
-| 620 | [Superliminal](games/s/superliminal.md) | 4.77 | 
+| 620 | [Superliminal](games/s/superliminal.md) | 4.78 | 
 | 621 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 622 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 623 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
