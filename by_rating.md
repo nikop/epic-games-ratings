@@ -399,25 +399,25 @@
 | 397 | [NORCO](games/n/norco.md) | 4.57 | 
 | 398 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 399 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 400 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 401 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 402 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 403 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
-| 404 | [Hob](games/h/hob.md) | 4.56 | 
-| 405 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 406 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
-| 407 | [Minit](games/m/minit.md) | 4.56 | 
-| 408 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
-| 409 | [Sable](games/s/sable.md) | 4.56 | 
-| 410 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
-| 411 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
-| 412 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
-| 413 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 
-| 414 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 415 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 416 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 417 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.55 | 
-| 418 | [Hue](games/h/hue.md) | 4.55 | 
+| 400 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 401 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 402 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
+| 403 | [Hob](games/h/hob.md) | 4.56 | 
+| 404 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 405 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
+| 406 | [Minit](games/m/minit.md) | 4.56 | 
+| 407 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
+| 408 | [Sable](games/s/sable.md) | 4.56 | 
+| 409 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
+| 410 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
+| 411 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
+| 412 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 
+| 413 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 414 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 415 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 416 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 417 | [Hue](games/h/hue.md) | 4.55 | 
+| 418 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 419 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 420 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 421 | [Souldiers](games/s/souldiers.md) | 4.55 | 
@@ -426,8 +426,8 @@
 | 424 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 425 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 426 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 427 | [Outward](games/o/outward.md) | 4.54 | 
-| 428 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 427 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.54 | 
+| 428 | [Outward](games/o/outward.md) | 4.54 | 
 | 429 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 430 | [Aragami 2](games/a/aragami_2.md) | 4.54 | 
 | 431 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
@@ -557,23 +557,23 @@
 | 555 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.44 | 
 | 556 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.44 | 
 | 557 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 558 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 559 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
-| 560 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.43 | 
-| 561 | [Figment](games/f/figment.md) | 4.43 | 
-| 562 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 563 | [Good Company](games/g/good_company.md) | 4.43 | 
-| 564 | [Chorus](games/c/chorus.md) | 4.43 | 
-| 565 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
-| 566 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
-| 567 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
-| 568 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 569 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 570 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 571 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 572 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 573 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 574 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 558 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
+| 559 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.43 | 
+| 560 | [Figment](games/f/figment.md) | 4.43 | 
+| 561 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 562 | [Good Company](games/g/good_company.md) | 4.43 | 
+| 563 | [Chorus](games/c/chorus.md) | 4.43 | 
+| 564 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
+| 565 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
+| 566 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
+| 567 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 568 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 569 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 570 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 571 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 572 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 573 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 574 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
 | 575 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.42 | 
 | 576 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 577 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
@@ -632,24 +632,24 @@
 | 630 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 631 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
 | 632 | [Torchlight](games/t/torchlight.md) | 4.36 | 
-| 633 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
-| 634 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
-| 635 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 
-| 636 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 637 | [Lamentum](games/l/lamentum.md) | 4.36 | 
-| 638 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
-| 639 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
-| 640 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
-| 641 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
-| 642 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 
-| 643 | [Imagine Earth](games/i/imagine_earth.md) | 4.35 | 
-| 644 | [Backbone](games/b/backbone.md) | 4.35 | 
-| 645 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.35 | 
-| 646 | [ZOMBI](games/z/zombi.md) | 4.35 | 
-| 647 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 648 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 
-| 649 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
-| 650 | [Tacoma](games/t/tacoma.md) | 4.34 | 
+| 633 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
+| 634 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 
+| 635 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 636 | [Lamentum](games/l/lamentum.md) | 4.36 | 
+| 637 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
+| 638 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
+| 639 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
+| 640 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
+| 641 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 
+| 642 | [Imagine Earth](games/i/imagine_earth.md) | 4.35 | 
+| 643 | [Backbone](games/b/backbone.md) | 4.35 | 
+| 644 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.35 | 
+| 645 | [ZOMBI](games/z/zombi.md) | 4.35 | 
+| 646 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 647 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 
+| 648 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
+| 649 | [Tacoma](games/t/tacoma.md) | 4.34 | 
+| 650 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 651 | [Othercide](games/o/othercide.md) | 4.34 | 
 | 652 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
 | 653 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 

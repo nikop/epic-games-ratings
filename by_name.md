@@ -53,7 +53,7 @@
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.53 | 
-| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
+| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 55 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 56 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 57 | [Automachef](games/a/automachef.md) | 4.32 | 
@@ -119,7 +119,7 @@
 | 117 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 118 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 119 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
-| 120 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 120 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 121 | [Conarium](games/c/conarium.md) | 3.90 | 
 | 122 | [Control](games/c/control.md) | 4.60 | 
 | 123 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
@@ -548,13 +548,13 @@
 | 546 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
 | 547 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 548 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
-| 549 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 549 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 550 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
 | 551 | [shapez](games/s/shapez.md) | 4.74 | 
 | 552 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 553 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.15 | 
 | 554 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 555 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 555 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
 | 556 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.38 | 
 | 557 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 558 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
@@ -704,7 +704,7 @@
 | 702 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 703 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
 | 704 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 705 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.55 | 
+| 705 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.54 | 
 | 706 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 707 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 708 | [Torchlight](games/t/torchlight.md) | 4.36 | 
