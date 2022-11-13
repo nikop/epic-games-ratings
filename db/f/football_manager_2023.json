@@ -1,10 +1,10 @@
 {
   "ID": "5c7a78e0c4d640898d690c5e38c0392f",
   "Name": "Football Manager 2023",
-  "Rating": 4.7,
+  "Rating": 4.69,
   "FirstSeen": "2022-11-08T02:50:04.1543779+00:00",
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
-  "LastChanged": "2022-11-13T02:48:28.4546131+00:00",
+  "LastChanged": "2022-11-13T10:58:20.6294547+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-08T17:57:47.9405888+00:00",
@@ -139,6 +139,11 @@
     {
       "Time": "2022-11-13T02:48:28.4546132+00:00",
       "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T10:58:20.629455+00:00",
+      "Rating": 4.69,
       "NumberOfRatings": null
     }
   ],

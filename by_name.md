@@ -243,7 +243,7 @@
 | 241 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 242 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 243 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 244 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.70 | 
+| 244 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.69 | 
 | 245 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 246 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.41 | 
 | 247 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -297,7 +297,7 @@
 | 295 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 296 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 297 | [Hob](games/h/hob.md) | 4.56 | 
-| 298 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.43 | 
+| 298 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.42 | 
 | 299 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 300 | [Horace](games/h/horace.md) | 4.58 | 
 | 301 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
