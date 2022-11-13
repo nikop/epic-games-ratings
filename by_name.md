@@ -30,7 +30,7 @@
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
-| 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
@@ -86,7 +86,7 @@
 | 84 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 85 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.29 | 
 | 86 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
-| 87 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.18 | 
+| 87 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 88 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 89 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.37 | 
 | 90 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
@@ -222,7 +222,7 @@
 | 220 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 221 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 222 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 223 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.40 | 
+| 223 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
 | 224 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.68 | 
 | 225 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
 | 226 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.75 | 
@@ -244,7 +244,7 @@
 | 242 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 243 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 244 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.70 | 
-| 245 | [For The King](games/f/for_the_king.md) | 4.69 | 
+| 245 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 246 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.41 | 
 | 247 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 248 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
@@ -325,7 +325,7 @@
 | 323 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 324 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
 | 325 | [Ironcast](games/i/ironcast.md) | 3.89 | 
-| 326 | [Isonzo](games/i/isonzo.md) | 4.57 | 
+| 326 | [Isonzo](games/i/isonzo.md) | 4.58 | 
 | 327 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 328 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 329 | [Journey](games/j/journey.md) | 4.76 | 
@@ -521,7 +521,7 @@
 | 519 | [Rogue Lords](games/r/rogue_lords.md) | 4.69 | 
 | 520 | [Roguebook](games/r/roguebook.md) | 4.61 | 
 | 521 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 522 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
+| 522 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 523 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 524 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 525 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
