@@ -20,4 +20,4 @@
 | 18 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
 | 19 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 20 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 21 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
+| 21 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.25 | 

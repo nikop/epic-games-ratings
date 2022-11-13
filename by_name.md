@@ -373,7 +373,7 @@
 | 371 | [Little Inferno](games/l/little_inferno.md) | 4.47 | 
 | 372 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 373 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.38 | 
-| 374 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
+| 374 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.25 | 
 | 375 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 376 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 377 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
