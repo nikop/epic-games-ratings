@@ -30,7 +30,7 @@
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.49 | 
-| 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
@@ -184,7 +184,7 @@
 | 182 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 183 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 184 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
-| 185 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 
+| 185 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 186 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
 | 187 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 188 | [DOOM II](games/d/doom_ii.md) | 4.76 | 
@@ -289,7 +289,7 @@
 | 287 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 288 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.66 | 
 | 289 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 290 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
+| 290 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
 | 291 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
 | 292 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
 | 293 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
@@ -413,7 +413,7 @@
 | 411 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 412 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 413 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
-| 414 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
+| 414 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
 | 415 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
 | 416 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 417 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
@@ -477,7 +477,7 @@
 | 475 | [Pine](games/p/pine.md) | 4.14 | 
 | 476 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
 | 477 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 478 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
+| 478 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 479 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 480 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 481 | [Prey](games/p/prey.md) | 4.61 | 
@@ -749,7 +749,7 @@
 | 747 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.77 | 
 | 748 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 749 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.18 | 
-| 750 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 750 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 751 | [Verdun](games/v/verdun.md) | 4.51 | 
 | 752 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 753 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 

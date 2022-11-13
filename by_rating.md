@@ -50,18 +50,18 @@
 | 48 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.84 | 
 | 49 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
 | 50 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 51 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
-| 52 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
-| 53 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 54 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
+| 51 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
+| 52 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
+| 53 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
+| 54 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 55 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 56 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 57 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 58 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
-| 59 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
-| 60 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
-| 61 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 62 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 
+| 58 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 59 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
+| 60 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
+| 61 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
+| 62 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 63 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
 | 64 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 65 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
@@ -477,13 +477,13 @@
 | 475 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 476 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 477 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
-| 478 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 479 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 480 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 481 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
-| 482 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 483 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
-| 484 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
+| 478 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
+| 479 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 480 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 481 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 482 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
+| 483 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 484 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 485 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
 | 486 | [The Surge](games/t/the_surge.md) | 4.50 | 
 | 487 | [CryoFall](games/c/cryofall.md) | 4.50 | 
@@ -587,16 +587,16 @@
 | 585 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
 | 586 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
 | 587 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.41 | 
-| 588 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 
-| 589 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
-| 590 | [Encased](games/e/encased.md) | 4.41 | 
-| 591 | [Startup Panic](games/s/startup_panic.md) | 4.41 | 
-| 592 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 593 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 594 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.41 | 
-| 595 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
-| 596 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 597 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 588 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
+| 589 | [Encased](games/e/encased.md) | 4.41 | 
+| 590 | [Startup Panic](games/s/startup_panic.md) | 4.41 | 
+| 591 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 592 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 593 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.41 | 
+| 594 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
+| 595 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 596 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 597 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
 | 598 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 599 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.40 | 
 | 600 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
@@ -659,10 +659,10 @@
 | 657 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
 | 658 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 659 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
-| 660 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 661 | [House Party](games/h/house_party.md) | 4.32 | 
-| 662 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.32 | 
-| 663 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 660 | [Vampyr](games/v/vampyr.md) | 4.32 | 
+| 661 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 662 | [House Party](games/h/house_party.md) | 4.32 | 
+| 663 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.32 | 
 | 664 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 665 | [Democracy 4](games/d/democracy_4.md) | 4.31 | 
 | 666 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
@@ -792,7 +792,7 @@
 | 790 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 791 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 792 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 793 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
+| 793 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 794 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.74 | 
 | 795 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.72 | 
 | 796 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
