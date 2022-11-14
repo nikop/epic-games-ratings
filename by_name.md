@@ -32,7 +32,7 @@
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.50 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.40 | 
-| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
+| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.37 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.66 | 
@@ -128,12 +128,12 @@
 | 126 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 127 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
 | 128 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
-| 129 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
+| 129 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 130 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
 | 131 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 132 | [Crayta](games/c/crayta.md) | 4.18 | 
 | 133 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
-| 134 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 134 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 135 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 
 | 136 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 137 | [CryoFall](games/c/cryofall.md) | 4.50 | 
@@ -243,7 +243,7 @@
 | 241 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 242 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 243 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 244 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.70 | 
+| 244 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
 | 245 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 246 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.40 | 
 | 247 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -396,7 +396,7 @@
 | 394 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
 | 395 | [Minit](games/m/minit.md) | 4.56 | 
 | 396 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
-| 397 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 397 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 398 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 399 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 400 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
@@ -791,7 +791,7 @@
 | 789 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 790 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 791 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 792 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
+| 792 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 793 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 794 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.65 | 
 | 795 | [ZOMBI](games/z/zombi.md) | 4.35 | 

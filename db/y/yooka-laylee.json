@@ -1,10 +1,10 @@
 {
   "ID": "131e306949034972959ca401ca27837e",
   "Name": "Yooka-Laylee",
-  "Rating": 4.26,
+  "Rating": 4.27,
   "NumberOfRatings": 366,
   "FirstSeen": "2022-07-22T20:17:33.9300447+00:00",
-  "LastChanged": "2022-11-12T23:56:44.8689204+00:00",
+  "LastChanged": "2022-11-14T23:57:11.2255914+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:33.930045+00:00",
@@ -459,6 +459,11 @@
     {
       "Time": "2022-11-12T23:56:44.8689205+00:00",
       "Rating": 4.26,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T23:57:11.2255916+00:00",
+      "Rating": 4.27,
       "NumberOfRatings": null
     }
   ],
