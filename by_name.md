@@ -10,7 +10,7 @@
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.61 | 
-| 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.52 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
@@ -97,7 +97,7 @@
 | 95 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 96 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 97 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
-| 98 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
+| 98 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.27 | 
 | 99 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 100 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.06 | 
 | 101 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
@@ -249,7 +249,7 @@
 | 247 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 248 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 249 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 250 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 250 | [FUSER™](games/f/fuser™.md) | 4.72 | 
 | 251 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 252 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.21 | 
 | 253 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
@@ -476,7 +476,7 @@
 | 474 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
 | 475 | [Pine](games/p/pine.md) | 4.14 | 
 | 476 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
-| 477 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
+| 477 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
 | 478 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 479 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 480 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
@@ -497,7 +497,7 @@
 | 495 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 496 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
 | 497 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
-| 498 | [Redout 2](games/r/redout_2.md) | 4.52 | 
+| 498 | [Redout 2](games/r/redout_2.md) | 4.54 | 
 | 499 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 500 | [Relicta](games/r/relicta.md) | 4.13 | 
 | 501 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
@@ -550,7 +550,7 @@
 | 548 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 549 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 550 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
-| 551 | [shapez](games/s/shapez.md) | 4.71 | 
+| 551 | [shapez](games/s/shapez.md) | 4.73 | 
 | 552 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 553 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.16 | 
 | 554 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
@@ -703,7 +703,7 @@
 | 701 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
 | 702 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.28 | 
 | 703 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 704 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
+| 704 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 705 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
 | 706 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.54 | 
 | 707 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
@@ -738,7 +738,7 @@
 | 736 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 737 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 738 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 739 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
+| 739 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.78 | 
 | 740 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.39 | 
 | 741 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 742 | [UnMetal](games/u/unmetal.md) | 4.50 | 
