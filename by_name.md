@@ -129,10 +129,10 @@
 | 127 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
 | 128 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
 | 129 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
-| 130 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
+| 130 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
 | 131 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 132 | [Crayta](games/c/crayta.md) | 4.18 | 
-| 133 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
+| 133 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
 | 134 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 135 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 
 | 136 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
@@ -332,7 +332,7 @@
 | 330 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 331 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 332 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
-| 333 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 333 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 334 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 335 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.50 | 
 | 336 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
@@ -376,7 +376,7 @@
 | 374 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.25 | 
 | 375 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 376 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 377 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 377 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
 | 378 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 379 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
 | 380 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
@@ -430,7 +430,7 @@
 | 428 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
 | 429 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 430 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 431 | [Obduction](games/o/obduction.md) | 4.11 | 
+| 431 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 432 | [Observation](games/o/observation.md) | 4.50 | 
 | 433 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.44 | 
 | 434 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
@@ -499,7 +499,7 @@
 | 497 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 498 | [Redout 2](games/r/redout_2.md) | 4.54 | 
 | 499 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 500 | [Relicta](games/r/relicta.md) | 4.13 | 
+| 500 | [Relicta](games/r/relicta.md) | 4.14 | 
 | 501 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 502 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.85 | 
 | 503 | [Revita](games/r/revita.md) | 4.74 | 
@@ -692,7 +692,7 @@
 | 690 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 691 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
 | 692 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
-| 693 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
+| 693 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 694 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 695 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 696 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
@@ -774,7 +774,7 @@
 | 772 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 773 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.75 | 
 | 774 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
-| 775 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 775 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
 | 776 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 777 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 778 | [Windbound](games/w/windbound.md) | 4.18 | 
