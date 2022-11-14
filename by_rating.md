@@ -727,12 +727,12 @@
 | 725 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
 | 726 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
 | 727 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
-| 728 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
-| 729 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 730 | [Space Punks](games/s/space_punks.md) | 4.18 | 
-| 731 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
-| 732 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.18 | 
-| 733 | [Crayta](games/c/crayta.md) | 4.18 | 
+| 728 | [Windbound](games/w/windbound.md) | 4.18 | 
+| 729 | [Space Punks](games/s/space_punks.md) | 4.18 | 
+| 730 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 731 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.18 | 
+| 732 | [Crayta](games/c/crayta.md) | 4.18 | 
+| 733 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.18 | 
 | 734 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
 | 735 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 736 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 

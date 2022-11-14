@@ -86,7 +86,7 @@
 | 84 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 85 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.29 | 
 | 86 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
-| 87 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
+| 87 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.18 | 
 | 88 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 89 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.37 | 
 | 90 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.82 | 
