@@ -1,10 +1,10 @@
 {
   "ID": "28ed8f56800c4bcc9eaa0c5264ec6917",
   "Name": "New Tales from the Borderlands",
-  "Rating": 4.1,
+  "Rating": 4.11,
   "FirstSeen": "2022-10-21T09:01:49.541257+00:00",
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
-  "LastChanged": "2022-11-11T21:58:10.2101645+00:00",
+  "LastChanged": "2022-11-14T18:59:02.9626312+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-25T21:05:10.6531952+00:00",
@@ -74,6 +74,11 @@
     {
       "Time": "2022-11-11T21:58:10.2101647+00:00",
       "Rating": 4.1,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T18:59:02.9626315+00:00",
+      "Rating": 4.11,
       "NumberOfRatings": null
     }
   ],

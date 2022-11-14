@@ -226,7 +226,7 @@
 | 224 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.68 | 
 | 225 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
 | 226 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.75 | 
-| 227 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.75 | 
+| 227 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.76 | 
 | 228 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.10 | 
 | 229 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 230 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
@@ -359,7 +359,7 @@
 | 357 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 358 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
 | 359 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
-| 360 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
+| 360 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 361 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 362 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 363 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
@@ -419,7 +419,7 @@
 | 417 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 418 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
 | 419 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 420 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.10 | 
+| 420 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.11 | 
 | 421 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 422 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 423 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -510,7 +510,7 @@
 | 508 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 509 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 510 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 511 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.51 | 
+| 511 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 512 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 513 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 514 | [Road 96](games/r/road_96.md) | 4.57 | 
@@ -671,7 +671,7 @@
 | 669 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
 | 670 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 671 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
-| 672 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.28 | 
+| 672 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.27 | 
 | 673 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 674 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.21 | 
 | 675 | [The Surge](games/t/the_surge.md) | 4.50 | 
@@ -712,7 +712,7 @@
 | 710 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 711 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 712 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
-| 713 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
+| 713 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 714 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 715 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.46 | 
 | 716 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.73 | 
@@ -763,7 +763,7 @@
 | 761 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.41 | 
 | 762 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
 | 763 | [Warpips](games/w/warpips.md) | 4.55 | 
-| 764 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 764 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.57 | 
 | 765 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 766 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
 | 767 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
