@@ -1,10 +1,10 @@
 {
   "ID": "2b352b4aea3849bd9519842dda263ac7",
   "Name": "CRSED: F.O.A.D.",
-  "Rating": 4.34,
+  "Rating": 4.35,
   "NumberOfRatings": 464,
   "FirstSeen": "2022-07-22T20:19:35.4348464+00:00",
-  "LastChanged": "2022-11-14T03:50:19.533185+00:00",
+  "LastChanged": "2022-11-14T13:38:31.8005483+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:35.4348467+00:00",
@@ -764,6 +764,11 @@
     {
       "Time": "2022-11-14T03:50:19.5331853+00:00",
       "Rating": 4.34,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T13:38:31.8005488+00:00",
+      "Rating": 4.35,
       "NumberOfRatings": null
     }
   ],

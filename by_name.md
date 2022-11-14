@@ -127,14 +127,14 @@
 | 125 | [Core](games/c/core.md) | 4.39 | 
 | 126 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 127 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
-| 128 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
+| 128 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
 | 129 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
 | 130 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 131 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 132 | [Crayta](games/c/crayta.md) | 4.18 | 
 | 133 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
 | 134 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 135 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 
+| 135 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 
 | 136 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 137 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 138 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
@@ -377,7 +377,7 @@
 | 375 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 376 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 377 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 378 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 
+| 378 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 379 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
 | 380 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 381 | [Mago](games/m/mago.md) | 4.86 | 
@@ -398,7 +398,7 @@
 | 396 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 397 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 398 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
-| 399 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
+| 399 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 400 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 401 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 402 | [Moving Out](games/m/moving_out.md) | 4.59 | 
@@ -473,7 +473,7 @@
 | 471 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 472 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 473 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 474 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
+| 474 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
 | 475 | [Pine](games/p/pine.md) | 4.14 | 
 | 476 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
 | 477 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
@@ -523,7 +523,7 @@
 | 521 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 522 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 523 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 524 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 524 | [RUINER](games/r/ruiner.md) | 4.54 | 
 | 525 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 526 | [Runbow](games/r/runbow.md) | 4.45 | 
 | 527 | [Sable](games/s/sable.md) | 4.57 | 
@@ -545,14 +545,14 @@
 | 543 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 544 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 545 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
-| 546 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
+| 546 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.64 | 
 | 547 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 548 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 549 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 550 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
 | 551 | [shapez](games/s/shapez.md) | 4.71 | 
 | 552 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 553 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.15 | 
+| 553 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.16 | 
 | 554 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 555 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 556 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.38 | 
@@ -573,7 +573,7 @@
 | 571 | [SOMA](games/s/soma.md) | 4.65 | 
 | 572 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 573 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
-| 574 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 574 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 575 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 576 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 577 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
@@ -698,7 +698,7 @@
 | 696 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 697 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 698 | [Timberborn](games/t/timberborn.md) | 4.70 | 
-| 699 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.44 | 
+| 699 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 700 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 701 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
 | 702 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.28 | 
@@ -750,7 +750,7 @@
 | 748 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 749 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.18 | 
 | 750 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 751 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 751 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 752 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 753 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 754 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
