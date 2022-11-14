@@ -687,18 +687,18 @@
 | 685 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 686 | [Dark Deity](games/d/dark_deity.md) | 4.28 | 
 | 687 | [Filament](games/f/filament.md) | 4.28 | 
-| 688 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
-| 689 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.28 | 
-| 690 | [EVE Online](games/e/eve_online.md) | 4.27 | 
-| 691 | [The Fall](games/t/the_fall.md) | 4.27 | 
-| 692 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 693 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
-| 694 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 695 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 696 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
-| 697 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
-| 698 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
-| 699 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.26 | 
+| 688 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.28 | 
+| 689 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
+| 690 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.28 | 
+| 691 | [EVE Online](games/e/eve_online.md) | 4.27 | 
+| 692 | [The Fall](games/t/the_fall.md) | 4.27 | 
+| 693 | [Parkitect](games/p/parkitect.md) | 4.27 | 
+| 694 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
+| 695 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 696 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 697 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
+| 698 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
+| 699 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 700 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 701 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 702 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.25 | 

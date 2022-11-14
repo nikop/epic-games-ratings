@@ -440,7 +440,7 @@
 | 438 | [Old World](games/o/old_world.md) | 4.64 | 
 | 439 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 440 | [Operation: Tango](games/o/operation__tango.md) | 4.67 | 
-| 441 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.26 | 
+| 441 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.28 | 
 | 442 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.74 | 
 | 443 | [Othercide](games/o/othercide.md) | 4.34 | 
 | 444 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
