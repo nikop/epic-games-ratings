@@ -23,7 +23,7 @@
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 24 | [Among Trees](games/a/among_trees.md) | 4.40 | 
+| 24 | [Among Trees](games/a/among_trees.md) | 4.39 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
@@ -55,7 +55,7 @@
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.46 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 55 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
-| 56 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
+| 56 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 57 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 58 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 59 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
@@ -482,7 +482,7 @@
 | 480 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 481 | [Prey](games/p/prey.md) | 4.61 | 
 | 482 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 483 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 483 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.41 | 
 | 484 | [Quake](games/q/quake.md) | 4.81 | 
 | 485 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 486 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
@@ -638,7 +638,7 @@
 | 636 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 637 | [Tharsis](games/t/tharsis.md) | 4.21 | 
 | 638 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 639 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
+| 639 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.63 | 
 | 640 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 641 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 642 | [The Captain](games/t/the_captain.md) | 4.44 | 
