@@ -113,20 +113,20 @@
 | 111 | [DOOM II](games/d/doom_ii.md) | 4.76 | 
 | 112 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 113 | [Rayman Origins](games/r/rayman_origins.md) | 4.76 | 
-| 114 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.76 | 
-| 115 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
-| 116 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.76 | 
-| 117 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.76 | 
-| 118 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
-| 119 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 120 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 121 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 123 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
-| 124 | [Journey](games/j/journey.md) | 4.75 | 
-| 125 | [Haven](games/h/haven.md) | 4.75 | 
-| 126 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.75 | 
-| 127 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.75 | 
+| 114 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.76 | 
+| 115 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.76 | 
+| 116 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
+| 117 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.76 | 
+| 118 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.76 | 
+| 119 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
+| 120 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 121 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 122 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 124 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
+| 125 | [Journey](games/j/journey.md) | 4.75 | 
+| 126 | [Haven](games/h/haven.md) | 4.75 | 
+| 127 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.75 | 
 | 128 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 129 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 130 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
