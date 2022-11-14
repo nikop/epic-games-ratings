@@ -693,26 +693,26 @@
 | 691 | [The Fall](games/t/the_fall.md) | 4.27 | 
 | 692 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 693 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
-| 694 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
-| 695 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 696 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 697 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
-| 698 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
-| 699 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.26 | 
-| 700 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
-| 701 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 702 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.25 | 
-| 703 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
-| 704 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 705 | [Tharsis](games/t/tharsis.md) | 4.24 | 
-| 706 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 707 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
-| 708 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
-| 709 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
-| 710 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 711 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
-| 712 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 713 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 694 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 695 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 696 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
+| 697 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
+| 698 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.26 | 
+| 699 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
+| 700 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 701 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.25 | 
+| 702 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
+| 703 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
+| 704 | [Tharsis](games/t/tharsis.md) | 4.24 | 
+| 705 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
+| 706 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
+| 707 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
+| 708 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
+| 709 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 710 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
+| 711 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
+| 712 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 713 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
 | 714 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 715 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 716 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 

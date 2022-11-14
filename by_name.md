@@ -369,7 +369,7 @@
 | 367 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 368 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.03 | 
 | 369 | [Limbo](games/l/limbo.md) | 4.63 | 
-| 370 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
+| 370 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
 | 371 | [Little Inferno](games/l/little_inferno.md) | 4.48 | 
 | 372 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 373 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.38 | 

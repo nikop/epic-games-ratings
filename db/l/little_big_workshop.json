@@ -1,10 +1,10 @@
 {
   "ID": "402982723c79438bab7bfe346c34b5b6",
   "Name": "Little Big Workshop",
-  "Rating": 4.27,
+  "Rating": 4.22,
   "FirstSeen": "2022-07-22T20:22:20.9578996+00:00",
   "FirstSeenRating": "2022-10-23T19:31:08.0358175+00:00",
-  "LastChanged": "2022-11-07T05:15:35.6078187+00:00",
+  "LastChanged": "2022-11-14T05:57:35.7178811+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-23T19:31:08.0358179+00:00",
@@ -19,6 +19,11 @@
     {
       "Time": "2022-11-07T05:15:35.607819+00:00",
       "Rating": 4.27,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T05:57:35.7178814+00:00",
+      "Rating": 4.22,
       "NumberOfRatings": null
     }
   ],
