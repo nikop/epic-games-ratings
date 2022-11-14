@@ -96,7 +96,7 @@
 | 94 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 95 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 96 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
-| 97 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
+| 97 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 98 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 99 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 100 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.06 | 
@@ -167,7 +167,7 @@
 | 165 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.44 | 
 | 166 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 167 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 
-| 168 | [Democracy 4](games/d/democracy_4.md) | 4.31 | 
+| 168 | [Democracy 4](games/d/democracy_4.md) | 4.32 | 
 | 169 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 170 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 
 | 171 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
@@ -485,7 +485,7 @@
 | 483 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 484 | [Quake](games/q/quake.md) | 4.81 | 
 | 485 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 486 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 486 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 487 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 488 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 489 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 

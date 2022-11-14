@@ -37,12 +37,12 @@
 | 35 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 36 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
 | 37 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 38 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
-| 39 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
-| 40 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 41 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
-| 42 | [Subnautica](games/s/subnautica.md) | 4.84 | 
-| 43 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
+| 38 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
+| 39 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 40 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
+| 41 | [Subnautica](games/s/subnautica.md) | 4.84 | 
+| 42 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
+| 43 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 44 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 45 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
 | 46 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
@@ -434,20 +434,20 @@
 | 432 | [RUINER](games/r/ruiner.md) | 4.54 | 
 | 433 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 434 | [Aragami 2](games/a/aragami_2.md) | 4.54 | 
-| 435 | [The Medium](games/t/the_medium.md) | 4.54 | 
-| 436 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 437 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 438 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 439 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 440 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 441 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
-| 442 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 443 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 444 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
-| 445 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
-| 446 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.53 | 
-| 447 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 448 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 435 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 436 | [The Medium](games/t/the_medium.md) | 4.54 | 
+| 437 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 438 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 439 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 440 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 441 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 442 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
+| 443 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 444 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 445 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
+| 446 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
+| 447 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.53 | 
+| 448 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 449 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 450 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 451 | [Verdun](games/v/verdun.md) | 4.52 | 
@@ -663,8 +663,8 @@
 | 661 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 662 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 663 | [House Party](games/h/house_party.md) | 4.32 | 
-| 664 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 665 | [Democracy 4](games/d/democracy_4.md) | 4.31 | 
+| 664 | [Democracy 4](games/d/democracy_4.md) | 4.32 | 
+| 665 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 666 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
 | 667 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.31 | 
 | 668 | [Fortnite](games/f/fortnite.md) | 4.30 | 
