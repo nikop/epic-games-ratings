@@ -258,7 +258,7 @@
 | 256 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 257 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 258 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 
-| 259 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
+| 259 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
 | 260 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 
 | 261 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
 | 262 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -436,7 +436,7 @@
 | 434 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
 | 435 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
 | 436 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
-| 437 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
+| 437 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 438 | [Old World](games/o/old_world.md) | 4.64 | 
 | 439 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 440 | [Operation: Tango](games/o/operation__tango.md) | 4.67 | 
@@ -485,7 +485,7 @@
 | 483 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
 | 484 | [Quake](games/q/quake.md) | 4.81 | 
 | 485 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 486 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 486 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 487 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 488 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 489 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
@@ -615,7 +615,7 @@
 | 613 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 614 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
 | 615 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 616 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
+| 616 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
 | 617 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
 | 618 | [SUPERHOT](games/s/superhot.md) | 4.70 | 
 | 619 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.62 | 
@@ -772,7 +772,7 @@
 | 770 | [Weird West](games/w/weird_west.md) | 4.44 | 
 | 771 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
 | 772 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
-| 773 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.74 | 
+| 773 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.75 | 
 | 774 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
 | 775 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 776 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
@@ -780,7 +780,7 @@
 | 778 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 779 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 780 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 781 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 781 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 782 | [World of Goo](games/w/world_of_goo.md) | 4.68 | 
 | 783 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 784 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
