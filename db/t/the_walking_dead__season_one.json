@@ -172,5 +172,10 @@
       "NumberOfRatings": null
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "In this game, your choices Impact the Story",
+      "Count": 20
+    }
+  ]
 }

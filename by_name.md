@@ -132,9 +132,9 @@
 | 130 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 131 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 132 | [Crayta](games/c/crayta.md) | 4.18 | 
-| 133 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
+| 133 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.30 | 
 | 134 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 135 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 
+| 135 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 
 | 136 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 137 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 138 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
@@ -270,7 +270,7 @@
 | 268 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
 | 269 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
 | 270 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 271 | [Gone Home](games/g/gone_home.md) | 4.14 | 
+| 271 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 272 | [Good Company](games/g/good_company.md) | 4.43 | 
 | 273 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
 | 274 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
@@ -679,7 +679,7 @@
 | 677 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 678 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 679 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 680 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
+| 680 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
 | 681 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
 | 682 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 683 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
@@ -742,7 +742,7 @@
 | 740 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.39 | 
 | 741 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 742 | [UnMetal](games/u/unmetal.md) | 4.50 | 
-| 743 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
+| 743 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.50 | 
 | 744 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 745 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
 | 746 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
