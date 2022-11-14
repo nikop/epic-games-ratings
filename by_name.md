@@ -20,7 +20,7 @@
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.65 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
-| 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
+| 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 24 | [Among Trees](games/a/among_trees.md) | 4.40 | 
@@ -30,7 +30,7 @@
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.50 | 
-| 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.40 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
@@ -123,7 +123,7 @@
 | 121 | [Conarium](games/c/conarium.md) | 3.90 | 
 | 122 | [Control](games/c/control.md) | 4.60 | 
 | 123 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
-| 124 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 124 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
 | 125 | [Core](games/c/core.md) | 4.39 | 
 | 126 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 127 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
@@ -357,7 +357,7 @@
 | 355 | [Lamentum](games/l/lamentum.md) | 4.36 | 
 | 356 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
 | 357 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 358 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
+| 358 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
 | 359 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
 | 360 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 361 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
@@ -681,7 +681,7 @@
 | 679 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 680 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
 | 681 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
-| 682 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 682 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 683 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 684 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.76 | 
 | 685 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
@@ -738,7 +738,7 @@
 | 736 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 737 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 738 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 739 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.78 | 
+| 739 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
 | 740 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.39 | 
 | 741 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 742 | [UnMetal](games/u/unmetal.md) | 4.50 | 
@@ -780,7 +780,7 @@
 | 778 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 779 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 780 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 781 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 781 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 782 | [World of Goo](games/w/world_of_goo.md) | 4.68 | 
 | 783 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 784 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
