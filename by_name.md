@@ -526,7 +526,7 @@
 | 524 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 525 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 526 | [Runbow](games/r/runbow.md) | 4.45 | 
-| 527 | [Sable](games/s/sable.md) | 4.56 | 
+| 527 | [Sable](games/s/sable.md) | 4.57 | 
 | 528 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.79 | 
 | 529 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 530 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -536,7 +536,7 @@
 | 534 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.59 | 
 | 535 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 536 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 537 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
+| 537 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 
 | 538 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 539 | [Scorn](games/s/scorn.md) | 4.46 | 
 | 540 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
@@ -547,14 +547,14 @@
 | 545 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
 | 546 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
 | 547 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
-| 548 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
+| 548 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 549 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 550 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
 | 551 | [shapez](games/s/shapez.md) | 4.71 | 
 | 552 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 553 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.15 | 
 | 554 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 555 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
+| 555 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 556 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.38 | 
 | 557 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 558 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
@@ -639,7 +639,7 @@
 | 637 | [Tharsis](games/t/tharsis.md) | 4.21 | 
 | 638 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 639 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
-| 640 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
+| 640 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 641 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 642 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 643 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 

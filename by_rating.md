@@ -4,7 +4,7 @@
 | 2 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.95 | 
 | 3 | [Hades](games/h/hades.md) | 4.92 | 
 | 4 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 5 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
+| 5 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 7 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 8 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
@@ -397,19 +397,19 @@
 | 395 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
 | 396 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 397 | [Road 96](games/r/road_96.md) | 4.57 | 
-| 398 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 
-| 399 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 
-| 400 | [NORCO](games/n/norco.md) | 4.57 | 
-| 401 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 402 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 403 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 404 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 405 | [Hob](games/h/hob.md) | 4.56 | 
-| 406 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 407 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
-| 408 | [Minit](games/m/minit.md) | 4.56 | 
-| 409 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
-| 410 | [Sable](games/s/sable.md) | 4.56 | 
+| 398 | [Sable](games/s/sable.md) | 4.57 | 
+| 399 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 
+| 400 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 
+| 401 | [NORCO](games/n/norco.md) | 4.57 | 
+| 402 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 403 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 404 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 405 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 406 | [Hob](games/h/hob.md) | 4.56 | 
+| 407 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 408 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
+| 409 | [Minit](games/m/minit.md) | 4.56 | 
+| 410 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 411 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
 | 412 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
 | 413 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 
@@ -561,31 +561,31 @@
 | 559 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.44 | 
 | 560 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.44 | 
 | 561 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 562 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
-| 563 | [Figment](games/f/figment.md) | 4.43 | 
-| 564 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
-| 565 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
-| 566 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
-| 567 | [Good Company](games/g/good_company.md) | 4.43 | 
-| 568 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
-| 569 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
-| 570 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
-| 571 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 572 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 573 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 574 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 575 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 576 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 577 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 578 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
+| 562 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 563 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
+| 564 | [Figment](games/f/figment.md) | 4.43 | 
+| 565 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
+| 566 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 
+| 567 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
+| 568 | [Good Company](games/g/good_company.md) | 4.43 | 
+| 569 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
+| 570 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
+| 571 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
+| 572 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 573 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 574 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 575 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 576 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 577 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 578 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 579 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.42 | 
-| 580 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
-| 581 | [Faeria](games/f/faeria.md) | 4.42 | 
-| 582 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 583 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.42 | 
-| 584 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 585 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 586 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
+| 580 | [Faeria](games/f/faeria.md) | 4.42 | 
+| 581 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 582 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.42 | 
+| 583 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 584 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
+| 585 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
+| 586 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 587 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
 | 588 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.41 | 
 | 589 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
@@ -699,10 +699,10 @@
 | 697 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
 | 698 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
 | 699 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
-| 700 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
-| 701 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 702 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.25 | 
-| 703 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
+| 700 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 
+| 701 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
+| 702 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 703 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.25 | 
 | 704 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 705 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
 | 706 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
