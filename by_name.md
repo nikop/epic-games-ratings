@@ -30,7 +30,7 @@
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.50 | 
-| 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
@@ -110,7 +110,7 @@
 | 108 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 109 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
 | 110 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 111 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
+| 111 | [Chernobylite](games/c/chernobylite.md) | 4.12 | 
 | 112 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 113 | [Chorus](games/c/chorus.md) | 4.44 | 
 | 114 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.92 | 
@@ -134,7 +134,7 @@
 | 132 | [Crayta](games/c/crayta.md) | 4.18 | 
 | 133 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
 | 134 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 135 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 
+| 135 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 
 | 136 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 137 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 138 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
@@ -458,7 +458,7 @@
 | 456 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 457 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
 | 458 | [Paradigm](games/p/paradigm.md) | 4.47 | 
-| 459 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.33 | 
+| 459 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.32 | 
 | 460 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 461 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 462 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
@@ -468,7 +468,7 @@
 | 466 | [Patron](games/p/patron.md) | 3.94 | 
 | 467 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 468 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 469 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
+| 469 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 470 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 471 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 472 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
@@ -522,7 +522,7 @@
 | 520 | [Roguebook](games/r/roguebook.md) | 4.61 | 
 | 521 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 522 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
-| 523 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 523 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
 | 524 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 525 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 526 | [Runbow](games/r/runbow.md) | 4.45 | 
@@ -545,7 +545,7 @@
 | 543 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 544 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 545 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
-| 546 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.64 | 
+| 546 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
 | 547 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 548 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 549 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
@@ -600,7 +600,7 @@
 | 598 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 599 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 600 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 601 | [STG Football](games/s/stg_football.md) | 4.60 | 
+| 601 | [STG Football](games/s/stg_football.md) | 4.61 | 
 | 602 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 603 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
 | 604 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.78 | 
@@ -612,7 +612,7 @@
 | 610 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 611 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 612 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 613 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
+| 613 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.67 | 
 | 614 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
 | 615 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 616 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
@@ -769,7 +769,7 @@
 | 767 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
 | 768 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 
 | 769 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 770 | [Weird West](games/w/weird_west.md) | 4.44 | 
+| 770 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 771 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
 | 772 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 773 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.75 | 
