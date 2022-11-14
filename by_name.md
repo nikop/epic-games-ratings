@@ -166,7 +166,7 @@
 | 164 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 165 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.44 | 
 | 166 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 167 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.58 | 
+| 167 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 
 | 168 | [Democracy 4](games/d/democracy_4.md) | 4.31 | 
 | 169 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 170 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 

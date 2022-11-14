@@ -363,28 +363,28 @@
 | 361 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
 | 362 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 363 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
-| 364 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.59 | 
-| 365 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 366 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 367 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 368 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
-| 369 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
-| 370 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 371 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 372 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
-| 373 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 374 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 375 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 376 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 377 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 378 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
-| 379 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
-| 380 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
-| 381 | [Isonzo](games/i/isonzo.md) | 4.58 | 
-| 382 | [Dark Deception](games/d/dark_deception.md) | 4.58 | 
-| 383 | [GRIME](games/g/grime.md) | 4.58 | 
-| 384 | [Horace](games/h/horace.md) | 4.58 | 
-| 385 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.58 | 
+| 364 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 
+| 365 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.59 | 
+| 366 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 367 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 368 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 369 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
+| 370 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 371 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 372 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 373 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
+| 374 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 375 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
+| 376 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 377 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
+| 378 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
+| 379 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
+| 380 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
+| 381 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
+| 382 | [Isonzo](games/i/isonzo.md) | 4.58 | 
+| 383 | [Dark Deception](games/d/dark_deception.md) | 4.58 | 
+| 384 | [GRIME](games/g/grime.md) | 4.58 | 
+| 385 | [Horace](games/h/horace.md) | 4.58 | 
 | 386 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 387 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 388 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
