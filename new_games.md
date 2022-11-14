@@ -2,7 +2,7 @@
 | --- | ---- | ------ | 
 | 1 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.65 | 
 | 2 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.70 | 
-| 3 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.32 | 
+| 3 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.33 | 
 | 4 | [WRC Generations](games/w/wrc_generations.md) | 4.64 | 
 | 5 | [shapez](games/s/shapez.md) | 4.71 | 
 | 6 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.79 | 

@@ -26,11 +26,11 @@
 | 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 25 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 26 | [TUNIC](games/t/tunic.md) | 4.87 | 
-| 27 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
-| 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 29 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 30 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
-| 31 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
+| 27 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
+| 28 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
+| 29 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 30 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 31 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
 | 32 | [Mago](games/m/mago.md) | 4.86 | 
 | 33 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 34 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
@@ -50,14 +50,14 @@
 | 48 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.84 | 
 | 49 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
 | 50 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 51 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
-| 52 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
-| 53 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 54 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
-| 55 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
-| 56 | [Grindstone](games/g/grindstone.md) | 4.83 | 
-| 57 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
-| 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 51 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
+| 52 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
+| 53 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
+| 54 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
+| 55 | [Grindstone](games/g/grindstone.md) | 4.83 | 
+| 56 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
+| 57 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 58 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 59 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 60 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
 | 61 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
@@ -504,14 +504,14 @@
 | 502 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
 | 503 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 504 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 505 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.49 | 
-| 506 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 507 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 508 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 509 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 510 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
-| 511 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 512 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 505 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 506 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.49 | 
+| 507 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 508 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 509 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 510 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 511 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
+| 512 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 513 | [Little Inferno](games/l/little_inferno.md) | 4.48 | 
 | 514 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 515 | [GigaBash](games/g/gigabash.md) | 4.48 | 
@@ -538,20 +538,20 @@
 | 536 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 537 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 538 | [Gloomhaven](games/g/gloomhaven.md) | 4.45 | 
-| 539 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
-| 540 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
-| 541 | [Runbow](games/r/runbow.md) | 4.45 | 
-| 542 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 543 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 544 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
-| 545 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 546 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.44 | 
-| 547 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 548 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 549 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 
-| 550 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.44 | 
-| 551 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
-| 552 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
+| 539 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
+| 540 | [Runbow](games/r/runbow.md) | 4.45 | 
+| 541 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 542 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 543 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
+| 544 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 545 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.44 | 
+| 546 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 547 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 548 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 
+| 549 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.44 | 
+| 550 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
+| 551 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
+| 552 | [The Lion's Song](games/t/the_lion's_song.md) | 4.44 | 
 | 553 | [Chorus](games/c/chorus.md) | 4.44 | 
 | 554 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 555 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.44 | 
@@ -658,11 +658,11 @@
 | 656 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 657 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
 | 658 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 659 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
-| 660 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 661 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 662 | [House Party](games/h/house_party.md) | 4.32 | 
-| 663 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.32 | 
+| 659 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.33 | 
+| 660 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
+| 661 | [Vampyr](games/v/vampyr.md) | 4.32 | 
+| 662 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 663 | [House Party](games/h/house_party.md) | 4.32 | 
 | 664 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 665 | [Democracy 4](games/d/democracy_4.md) | 4.31 | 
 | 666 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 

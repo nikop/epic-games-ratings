@@ -1,5 +1,5 @@
 # The Legend of Heroes: Trails of Cold Steel IV
-Rating: 4.86 (26)  (as of 23.09.2022)  
+Rating: 4.87 (26)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,3 +11,4 @@ Rating: 4.86 (26)  (as of 23.09.2022)
 | 2022-09-08 | 4.88 | 26 |
 | 2022-09-24 | 4.85 | - |
 | 2022-10-23 | 4.86 | - |
+| 2022-11-14 | 4.87 | - |

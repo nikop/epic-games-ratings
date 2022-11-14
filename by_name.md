@@ -30,7 +30,7 @@
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.50 | 
-| 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
@@ -392,7 +392,7 @@
 | 390 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 391 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 392 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
-| 393 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 393 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 394 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
 | 395 | [Minit](games/m/minit.md) | 4.56 | 
 | 396 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
@@ -458,7 +458,7 @@
 | 456 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 457 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
 | 458 | [Paradigm](games/p/paradigm.md) | 4.47 | 
-| 459 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.32 | 
+| 459 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.33 | 
 | 460 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 461 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 462 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
@@ -661,9 +661,9 @@
 | 659 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
 | 660 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
 | 661 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.47 | 
-| 662 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.86 | 
+| 662 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
 | 663 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.72 | 
-| 664 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
+| 664 | [The Lion's Song](games/t/the_lion's_song.md) | 4.44 | 
 | 665 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 666 | [The Medium](games/t/the_medium.md) | 4.54 | 
 | 667 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
