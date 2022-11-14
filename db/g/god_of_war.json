@@ -1679,7 +1679,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 1319
+      "Count": 1338
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1728,6 +1728,10 @@
     {
       "Text": "This game is Great for Beginners",
       "Count": 59
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 55
     }
   ]
 }
