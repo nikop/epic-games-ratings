@@ -1,10 +1,10 @@
 {
   "ID": "angelonia",
   "Name": "Watch Dogs 2 Standard Edition",
-  "Rating": 4.58,
+  "Rating": 4.57,
   "NumberOfRatings": 6460,
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2022-09-23T12:31:01.0699514+00:00",
+  "LastChanged": "2022-11-14T09:57:23.953561+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:47.2553497+00:00",
@@ -2310,6 +2310,11 @@
       "Time": "2022-09-23T12:31:01.0699515+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 6460
+    },
+    {
+      "Time": "2022-11-14T09:57:23.9535611+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [

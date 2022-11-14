@@ -162,7 +162,7 @@
 | 160 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 161 | [Death Coming](games/d/death_coming.md) | 4.46 | 
 | 162 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 163 | [Death's Door](games/d/death's_door.md) | 4.65 | 
+| 163 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 164 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 165 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.44 | 
 | 166 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
@@ -368,7 +368,7 @@
 | 366 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 367 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 368 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.03 | 
-| 369 | [Limbo](games/l/limbo.md) | 4.63 | 
+| 369 | [Limbo](games/l/limbo.md) | 4.62 | 
 | 370 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
 | 371 | [Little Inferno](games/l/little_inferno.md) | 4.48 | 
 | 372 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
@@ -615,7 +615,7 @@
 | 613 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.67 | 
 | 614 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
 | 615 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 616 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
+| 616 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
 | 617 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
 | 618 | [SUPERHOT](games/s/superhot.md) | 4.70 | 
 | 619 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.62 | 
@@ -763,7 +763,7 @@
 | 761 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.41 | 
 | 762 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
 | 763 | [Warpips](games/w/warpips.md) | 4.55 | 
-| 764 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 764 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.57 | 
 | 765 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 766 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
 | 767 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
