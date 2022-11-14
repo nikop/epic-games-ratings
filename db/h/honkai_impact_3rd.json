@@ -1,10 +1,10 @@
 {
   "ID": "d2d162953fec40e381867d7af8371362",
   "Name": "Honkai Impact 3rd",
-  "Rating": 4.42,
+  "Rating": 4.41,
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2022-11-13T10:57:13.251315+00:00",
+  "LastChanged": "2022-11-14T21:57:38.1379549+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-28T11:32:15.7744845+00:00",
@@ -134,6 +134,11 @@
     {
       "Time": "2022-11-13T10:57:13.2513153+00:00",
       "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T21:57:38.137955+00:00",
+      "Rating": 4.41,
       "NumberOfRatings": null
     }
   ],

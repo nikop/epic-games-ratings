@@ -76,7 +76,7 @@
 | 74 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 75 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.66 | 
 | 76 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.76 | 
-| 77 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 
+| 77 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
 | 78 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
 | 79 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
 | 80 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
@@ -297,7 +297,7 @@
 | 295 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 296 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 297 | [Hob](games/h/hob.md) | 4.56 | 
-| 298 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.42 | 
+| 298 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.41 | 
 | 299 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 300 | [Horace](games/h/horace.md) | 4.58 | 
 | 301 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
@@ -449,7 +449,7 @@
 | 447 | [Outlast](games/o/outlast.md) | 4.74 | 
 | 448 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
 | 449 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 450 | [Outward](games/o/outward.md) | 4.54 | 
+| 450 | [Outward](games/o/outward.md) | 4.55 | 
 | 451 | [Overcooked](games/o/overcooked.md) | 4.67 | 
 | 452 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 453 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
@@ -589,7 +589,7 @@
 | 587 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 588 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 589 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
-| 590 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.50 | 
+| 590 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.52 | 
 | 591 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
 | 592 | [Star Renegades](games/s/star_renegades.md) | 4.38 | 
 | 593 | [Star Stable Online](games/s/star_stable_online.md) | 4.38 | 
@@ -683,7 +683,7 @@
 | 681 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
 | 682 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 683 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 684 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.76 | 
+| 684 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.74 | 
 | 685 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
 | 686 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
 | 687 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
@@ -701,7 +701,7 @@
 | 699 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 700 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 701 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
-| 702 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.28 | 
+| 702 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.27 | 
 | 703 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 704 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 705 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 

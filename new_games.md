@@ -8,7 +8,7 @@
 | 6 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
 | 7 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
 | 8 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 
-| 9 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.42 | 
+| 9 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.41 | 
 | 10 | [STG Football](games/s/stg_football.md) | 4.61 | 
 | 11 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.84 | 
 | 12 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 

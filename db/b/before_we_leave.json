@@ -1,10 +1,10 @@
 {
   "ID": "61449320f87347a8bf02159cbf8adb7f",
   "Name": "Before We Leave",
-  "Rating": 4.65,
+  "Rating": 4.63,
   "NumberOfRatings": 73,
   "FirstSeen": "2022-07-22T20:29:09.2176269+00:00",
-  "LastChanged": "2022-11-13T02:48:59.8435225+00:00",
+  "LastChanged": "2022-11-14T21:58:28.8005047+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:09.2176275+00:00",
@@ -224,6 +224,11 @@
     {
       "Time": "2022-11-13T02:48:59.8435227+00:00",
       "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T21:58:28.8005051+00:00",
+      "Rating": 4.63,
       "NumberOfRatings": null
     }
   ],

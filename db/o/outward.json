@@ -1,10 +1,10 @@
 {
   "ID": "viola",
   "Name": "Outward",
-  "Rating": 4.54,
+  "Rating": 4.55,
   "NumberOfRatings": 266,
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
-  "LastChanged": "2022-10-28T01:02:15.8621847+00:00",
+  "LastChanged": "2022-11-14T21:58:00.6133622+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:22.1140755+00:00",
@@ -364,6 +364,11 @@
     {
       "Time": "2022-10-28T01:02:15.8621852+00:00",
       "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T21:58:00.6133623+00:00",
+      "Rating": 4.55,
       "NumberOfRatings": null
     }
   ],
