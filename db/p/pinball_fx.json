@@ -1,10 +1,10 @@
 {
   "ID": "c11f80fe3b674a2bbf60e4c46d588a54",
   "Name": "Pinball FX",
-  "Rating": 4,
+  "Rating": 3.99,
   "NumberOfRatings": 756,
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
-  "LastChanged": "2022-11-15T13:25:29.4414514+00:00",
+  "LastChanged": "2022-11-15T20:57:01.3316684+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:22.620981+00:00",
@@ -1065,6 +1065,11 @@
       "Time": "2022-11-15T13:25:29.4414515+00:00",
       "Rating": 4,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T20:57:01.3316687+00:00",
+      "Rating": 3.99,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -1118,7 +1123,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 78
+      "Count": 79
     }
   ]
 }

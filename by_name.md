@@ -23,7 +23,7 @@
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 24 | [Among Trees](games/a/among_trees.md) | 4.39 | 
+| 24 | [Among Trees](games/a/among_trees.md) | 4.38 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
@@ -47,7 +47,7 @@
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.50 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
@@ -94,7 +94,7 @@
 | 92 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 93 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 94 | [Breathedge](games/b/breathedge.md) | 4.59 | 
-| 95 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
+| 95 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 96 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 97 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 98 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.27 | 
@@ -144,7 +144,7 @@
 | 142 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 143 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 144 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
-| 145 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
+| 145 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
 | 146 | [Dark Deception](games/d/dark_deception.md) | 4.58 | 
 | 147 | [Dark Deity](games/d/dark_deity.md) | 4.28 | 
 | 148 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
@@ -176,7 +176,7 @@
 | 174 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
 | 175 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.64 | 
 | 176 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 177 | [Diabotical](games/d/diabotical.md) | 4.77 | 
+| 177 | [Diabotical](games/d/diabotical.md) | 4.76 | 
 | 178 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
 | 179 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.41 | 
 | 180 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
@@ -185,7 +185,7 @@
 | 183 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 184 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
 | 185 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
-| 186 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
+| 186 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
 | 187 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 188 | [DOOM II](games/d/doom_ii.md) | 4.76 | 
 | 189 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
@@ -325,7 +325,7 @@
 | 323 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 324 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
 | 325 | [Ironcast](games/i/ironcast.md) | 3.89 | 
-| 326 | [Isonzo](games/i/isonzo.md) | 4.58 | 
+| 326 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 327 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 328 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 329 | [Journey](games/j/journey.md) | 4.76 | 
@@ -472,8 +472,8 @@
 | 470 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 471 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 472 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 473 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 474 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
+| 473 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 474 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
 | 475 | [Pine](games/p/pine.md) | 4.13 | 
 | 476 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
 | 477 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
@@ -711,7 +711,7 @@
 | 709 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 710 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 711 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 712 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
+| 712 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 713 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 714 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 715 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.46 | 
