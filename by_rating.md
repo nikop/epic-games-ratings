@@ -468,20 +468,20 @@
 | 466 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 467 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.52 | 
 | 468 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 469 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.51 | 
-| 470 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 471 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
-| 472 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 473 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 474 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
-| 475 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
-| 476 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 477 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 478 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
-| 479 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
-| 480 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
-| 481 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 482 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 469 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 470 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 471 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 472 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 473 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
+| 474 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
+| 475 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 476 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 477 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
+| 478 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
+| 479 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
+| 480 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 481 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 482 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 483 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 484 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
 | 485 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
@@ -714,15 +714,15 @@
 | 712 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
 | 713 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 714 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
-| 715 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.21 | 
-| 716 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
-| 717 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.21 | 
-| 718 | [Tharsis](games/t/tharsis.md) | 4.21 | 
-| 719 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
-| 720 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.21 | 
-| 721 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 722 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 723 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 715 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 716 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.21 | 
+| 717 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
+| 718 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.21 | 
+| 719 | [Tharsis](games/t/tharsis.md) | 4.21 | 
+| 720 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
+| 721 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.21 | 
+| 722 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 723 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 724 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 725 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
 | 726 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 

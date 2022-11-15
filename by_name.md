@@ -250,7 +250,7 @@
 | 248 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 249 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 250 | [FUSER™](games/f/fuser™.md) | 4.72 | 
-| 251 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 251 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 252 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.21 | 
 | 253 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 254 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
@@ -510,7 +510,7 @@
 | 508 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 509 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 510 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 511 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.51 | 
+| 511 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 512 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 513 | [Riverbond](games/r/riverbond.md) | 4.47 | 
 | 514 | [Road 96](games/r/road_96.md) | 4.57 | 
