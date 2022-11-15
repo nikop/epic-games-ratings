@@ -254,7 +254,7 @@
 | 252 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.21 | 
 | 253 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 254 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 255 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
+| 255 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
 | 256 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 257 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 258 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.59 | 
@@ -304,7 +304,7 @@
 | 302 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 303 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 304 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 305 | [House Party](games/h/house_party.md) | 4.32 | 
+| 305 | [House Party](games/h/house_party.md) | 4.30 | 
 | 306 | [Hue](games/h/hue.md) | 4.55 | 
 | 307 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 308 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
@@ -409,7 +409,7 @@
 | 407 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 408 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 409 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 410 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 410 | [MythForce](games/m/mythforce.md) | 4.50 | 
 | 411 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 412 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 413 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
@@ -550,7 +550,7 @@
 | 548 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 549 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 550 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
-| 551 | [shapez](games/s/shapez.md) | 4.73 | 
+| 551 | [shapez](games/s/shapez.md) | 4.71 | 
 | 552 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 553 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.16 | 
 | 554 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
@@ -563,7 +563,7 @@
 | 561 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 562 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
 | 563 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 564 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 564 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
 | 565 | [Slipways](games/s/slipways.md) | 4.71 | 
 | 566 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
 | 567 | [SMITE](games/s/smite.md) | 4.46 | 
@@ -671,7 +671,7 @@
 | 669 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
 | 670 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 671 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
-| 672 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.27 | 
+| 672 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.28 | 
 | 673 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 674 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.21 | 
 | 675 | [The Surge](games/t/the_surge.md) | 4.50 | 
@@ -712,7 +712,7 @@
 | 710 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 711 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 712 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
-| 713 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
+| 713 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 714 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 715 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.46 | 
 | 716 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.73 | 

@@ -1,10 +1,10 @@
 {
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
-  "Rating": 4.51,
+  "Rating": 4.5,
   "NumberOfRatings": 285,
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
-  "LastChanged": "2022-11-03T03:02:54.4246754+00:00",
+  "LastChanged": "2022-11-15T18:58:02.5696127+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:19.2920773+00:00",
@@ -440,6 +440,11 @@
       "Time": "2022-11-03T03:02:54.4246758+00:00",
       "Rating": 4.51,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T18:58:02.569613+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -449,7 +454,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Great for Beginners",
