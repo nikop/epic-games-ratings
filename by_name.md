@@ -40,7 +40,7 @@
 | 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.64 | 
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
+| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.88 | 
 | 43 | [Ashen](games/a/ashen.md) | 4.30 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
@@ -272,7 +272,7 @@
 | 270 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 271 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 272 | [Good Company](games/g/good_company.md) | 4.43 | 
-| 273 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
+| 273 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 274 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
 | 275 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 276 | [Gravewood High](games/g/gravewood_high.md) | 4.06 | 
@@ -332,7 +332,7 @@
 | 330 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 331 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 332 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
-| 333 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 333 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 334 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 335 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.50 | 
 | 336 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
@@ -639,7 +639,7 @@
 | 637 | [Tharsis](games/t/tharsis.md) | 4.21 | 
 | 638 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 639 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.63 | 
-| 640 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
+| 640 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 641 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 642 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 643 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 

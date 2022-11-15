@@ -4,7 +4,7 @@
 | 2 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.95 | 
 | 3 | [Hades](games/h/hades.md) | 4.92 | 
 | 4 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 5 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
+| 5 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 7 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 8 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
@@ -664,10 +664,10 @@
 | 662 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 663 | [House Party](games/h/house_party.md) | 4.32 | 
 | 664 | [Democracy 4](games/d/democracy_4.md) | 4.32 | 
-| 665 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 666 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
-| 667 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 668 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 665 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 666 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 667 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
+| 668 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 669 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 670 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 671 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
@@ -693,12 +693,12 @@
 | 691 | [The Fall](games/t/the_fall.md) | 4.27 | 
 | 692 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 693 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.27 | 
-| 694 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
-| 695 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.27 | 
-| 696 | [EVE Online](games/e/eve_online.md) | 4.26 | 
-| 697 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 698 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
-| 699 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
+| 694 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.27 | 
+| 695 | [EVE Online](games/e/eve_online.md) | 4.26 | 
+| 696 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 697 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
+| 698 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
+| 699 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 700 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 701 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.25 | 
 | 702 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
@@ -751,9 +751,9 @@
 | 749 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
 | 750 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 751 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
-| 752 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
-| 753 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.11 | 
-| 754 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
+| 752 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
+| 753 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
+| 754 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.11 | 
 | 755 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 756 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.10 | 
 | 757 | [Submerged](games/s/submerged.md) | 4.10 | 
