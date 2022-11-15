@@ -139,7 +139,7 @@
 | 137 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 138 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 139 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.67 | 
-| 140 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 140 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
 | 141 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 142 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 143 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
@@ -279,7 +279,7 @@
 | 277 | [Griftlands](games/g/griftlands.md) | 4.80 | 
 | 278 | [GRIME](games/g/grime.md) | 4.58 | 
 | 279 | [Grindstone](games/g/grindstone.md) | 4.83 | 
-| 280 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.62 | 
+| 280 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 281 | [Hades](games/h/hades.md) | 4.92 | 
 | 282 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.44 | 
 | 283 | [Hammerting](games/h/hammerting.md) | 4.38 | 
@@ -340,7 +340,7 @@
 | 338 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 339 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 
 | 340 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
-| 341 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 
+| 341 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
 | 342 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
 | 343 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
 | 344 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
@@ -367,7 +367,7 @@
 | 365 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
 | 366 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 367 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 368 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.03 | 
+| 368 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.02 | 
 | 369 | [Limbo](games/l/limbo.md) | 4.63 | 
 | 370 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
 | 371 | [Little Inferno](games/l/little_inferno.md) | 4.48 | 
@@ -400,7 +400,7 @@
 | 398 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 399 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 400 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 401 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 401 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
 | 402 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 403 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 404 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
@@ -524,7 +524,7 @@
 | 522 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 523 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 524 | [RUINER](games/r/ruiner.md) | 4.54 | 
-| 525 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 525 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 526 | [Runbow](games/r/runbow.md) | 4.45 | 
 | 527 | [Sable](games/s/sable.md) | 4.57 | 
 | 528 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.79 | 
@@ -541,7 +541,7 @@
 | 539 | [Scorn](games/s/scorn.md) | 4.46 | 
 | 540 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
 | 541 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
-| 542 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
+| 542 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
 | 543 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 544 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 545 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
@@ -592,7 +592,7 @@
 | 590 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.52 | 
 | 591 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
 | 592 | [Star Renegades](games/s/star_renegades.md) | 4.38 | 
-| 593 | [Star Stable Online](games/s/star_stable_online.md) | 4.38 | 
+| 593 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
 | 594 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 595 | [Starsand](games/s/starsand.md) | 4.30 | 
 | 596 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
