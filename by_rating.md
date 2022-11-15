@@ -714,15 +714,15 @@
 | 712 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
 | 713 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 714 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
-| 715 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 716 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.21 | 
-| 717 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
-| 718 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.21 | 
-| 719 | [Tharsis](games/t/tharsis.md) | 4.21 | 
-| 720 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
-| 721 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.21 | 
-| 722 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 723 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 715 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.21 | 
+| 716 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
+| 717 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.21 | 
+| 718 | [Tharsis](games/t/tharsis.md) | 4.21 | 
+| 719 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
+| 720 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.21 | 
+| 721 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 722 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 723 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 724 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 725 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
 | 726 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
