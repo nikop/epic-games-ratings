@@ -110,7 +110,7 @@
 | 108 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 109 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
 | 110 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 111 | [Chernobylite](games/c/chernobylite.md) | 4.12 | 
+| 111 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
 | 112 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 113 | [Chorus](games/c/chorus.md) | 4.44 | 
 | 114 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.92 | 
@@ -154,7 +154,7 @@
 | 152 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
 | 153 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
 | 154 | [Darkwood](games/d/darkwood.md) | 4.61 | 
-| 155 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.42 | 
+| 155 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.43 | 
 | 156 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 157 | [Days Gone](games/d/days_gone.md) | 4.69 | 
 | 158 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
@@ -270,7 +270,7 @@
 | 268 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
 | 269 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
 | 270 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 271 | [Gone Home](games/g/gone_home.md) | 4.15 | 
+| 271 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 272 | [Good Company](games/g/good_company.md) | 4.43 | 
 | 273 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
 | 274 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
@@ -512,7 +512,7 @@
 | 510 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 511 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.51 | 
 | 512 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
-| 513 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 513 | [Riverbond](games/r/riverbond.md) | 4.47 | 
 | 514 | [Road 96](games/r/road_96.md) | 4.57 | 
 | 515 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 516 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
@@ -522,7 +522,7 @@
 | 520 | [Roguebook](games/r/roguebook.md) | 4.61 | 
 | 521 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 522 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
-| 523 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 523 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 524 | [RUINER](games/r/ruiner.md) | 4.54 | 
 | 525 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
 | 526 | [Runbow](games/r/runbow.md) | 4.45 | 
@@ -712,7 +712,7 @@
 | 710 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 711 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 712 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
-| 713 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 713 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
 | 714 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 715 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.46 | 
 | 716 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.73 | 

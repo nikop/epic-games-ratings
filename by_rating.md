@@ -287,17 +287,17 @@
 | 285 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
 | 286 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 287 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 288 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 289 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 290 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 291 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 292 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
-| 293 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
-| 294 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.63 | 
-| 295 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 296 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 297 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
-| 298 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 288 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
+| 289 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 290 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
+| 291 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
+| 292 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.63 | 
+| 293 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 294 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 295 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
+| 296 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
+| 297 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 298 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 299 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 300 | [Limbo](games/l/limbo.md) | 4.62 | 
 | 301 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
@@ -511,12 +511,12 @@
 | 509 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 510 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 511 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
-| 512 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 513 | [Little Inferno](games/l/little_inferno.md) | 4.48 | 
-| 514 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
-| 515 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 516 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 517 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 512 | [Little Inferno](games/l/little_inferno.md) | 4.48 | 
+| 513 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
+| 514 | [GigaBash](games/g/gigabash.md) | 4.48 | 
+| 515 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 516 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 517 | [Riverbond](games/r/riverbond.md) | 4.47 | 
 | 518 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 519 | [Paradigm](games/p/paradigm.md) | 4.47 | 
 | 520 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
@@ -564,19 +564,19 @@
 | 562 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 563 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
 | 564 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 565 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
-| 566 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
-| 567 | [Good Company](games/g/good_company.md) | 4.43 | 
-| 568 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
-| 569 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
-| 570 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
-| 571 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
-| 572 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 573 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 574 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 575 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 576 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 577 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.42 | 
+| 565 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.43 | 
+| 566 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
+| 567 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
+| 568 | [Good Company](games/g/good_company.md) | 4.43 | 
+| 569 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
+| 570 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
+| 571 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
+| 572 | [Rumbleverse™](games/r/rumbleverse™.md) | 4.42 | 
+| 573 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 574 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 575 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 576 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 577 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 578 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 579 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 580 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
@@ -739,14 +739,14 @@
 | 737 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.17 | 
 | 738 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 739 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.16 | 
-| 740 | [Gone Home](games/g/gone_home.md) | 4.15 | 
+| 740 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 741 | [Pine](games/p/pine.md) | 4.14 | 
 | 742 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 743 | [Relicta](games/r/relicta.md) | 4.14 | 
 | 744 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.14 | 
-| 745 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
-| 746 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
-| 747 | [Chernobylite](games/c/chernobylite.md) | 4.12 | 
+| 745 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
+| 746 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
+| 747 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 748 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
 | 749 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
 | 750 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
