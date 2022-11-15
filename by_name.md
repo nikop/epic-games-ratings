@@ -49,10 +49,10 @@
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.49 | 
-| 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
+| 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.46 | 
+| 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.48 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 55 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 56 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
@@ -137,7 +137,7 @@
 | 135 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 
 | 136 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 137 | [CryoFall](games/c/cryofall.md) | 4.50 | 
-| 138 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 
+| 138 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 139 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.67 | 
 | 140 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 141 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
@@ -216,7 +216,7 @@
 | 214 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 215 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 216 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 217 | [Far Cry](games/f/far_cry.md) | 4.39 | 
+| 217 | [Far Cry](games/f/far_cry.md) | 4.41 | 
 | 218 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.17 | 
 | 219 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 220 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
@@ -350,7 +350,7 @@
 | 348 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
 | 349 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 350 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
-| 351 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 351 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 352 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
 | 353 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.44 | 
 | 354 | [Lake](games/l/lake.md) | 4.04 | 
@@ -492,7 +492,7 @@
 | 490 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.47 | 
 | 491 | [Rayman Origins](games/r/rayman_origins.md) | 4.76 | 
 | 492 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
-| 493 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
+| 493 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 494 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 495 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 496 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
