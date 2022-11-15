@@ -577,13 +577,13 @@
 | 575 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 576 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 577 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 578 | [Faeria](games/f/faeria.md) | 4.42 | 
-| 579 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
-| 580 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 581 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 582 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 583 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
-| 584 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
+| 578 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
+| 579 | [Faeria](games/f/faeria.md) | 4.42 | 
+| 580 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
+| 581 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 582 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 583 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
+| 584 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
 | 585 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
 | 586 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.41 | 
 | 587 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.41 | 
