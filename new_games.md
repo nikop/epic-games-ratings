@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.64 | 
+| 1 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
 | 2 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
 | 3 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.35 | 
 | 4 | [WRC Generations](games/w/wrc_generations.md) | 4.67 | 

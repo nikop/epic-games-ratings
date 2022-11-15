@@ -17,7 +17,7 @@
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.14 | 
-| 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.64 | 
+| 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
@@ -40,7 +40,7 @@
 | 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.64 | 
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
+| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.88 | 
 | 43 | [Ashen](games/a/ashen.md) | 4.30 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
@@ -50,7 +50,7 @@
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.50 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
-| 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.48 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
@@ -200,7 +200,7 @@
 | 198 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
 | 199 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 200 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
-| 201 | [Encased](games/e/encased.md) | 4.41 | 
+| 201 | [Encased](games/e/encased.md) | 4.38 | 
 | 202 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 203 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 204 | [EVE Online](games/e/eve_online.md) | 4.26 | 
@@ -397,7 +397,7 @@
 | 395 | [Minit](games/m/minit.md) | 4.56 | 
 | 396 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.85 | 
 | 397 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
-| 398 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
+| 398 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 399 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 400 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 401 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
@@ -552,7 +552,7 @@
 | 550 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
 | 551 | [shapez](games/s/shapez.md) | 4.71 | 
 | 552 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 553 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.16 | 
+| 553 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.15 | 
 | 554 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 555 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 556 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.38 | 
