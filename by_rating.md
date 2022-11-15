@@ -752,10 +752,10 @@
 | 750 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 751 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 752 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 
-| 753 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
-| 754 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.11 | 
-| 755 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 756 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.10 | 
+| 753 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.11 | 
+| 754 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
+| 755 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.11 | 
+| 756 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 757 | [Submerged](games/s/submerged.md) | 4.10 | 
 | 758 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
 | 759 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
