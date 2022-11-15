@@ -104,7 +104,7 @@
 | 102 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
 | 103 | [Card Shark](games/c/card_shark.md) | 4.61 | 
 | 104 | [CARRION](games/c/carrion.md) | 4.67 | 
-| 105 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
+| 105 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
 | 106 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
 | 107 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 108 | [Celeste](games/c/celeste.md) | 4.92 | 
@@ -144,7 +144,7 @@
 | 142 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 143 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 144 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
-| 145 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.59 | 
+| 145 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
 | 146 | [Dark Deception](games/d/dark_deception.md) | 4.58 | 
 | 147 | [Dark Deity](games/d/dark_deity.md) | 4.28 | 
 | 148 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
@@ -563,7 +563,7 @@
 | 561 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 562 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
 | 563 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 564 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
+| 564 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 565 | [Slipways](games/s/slipways.md) | 4.71 | 
 | 566 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
 | 567 | [SMITE](games/s/smite.md) | 4.46 | 
@@ -770,7 +770,7 @@
 | 768 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 
 | 769 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
 | 770 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 771 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
+| 771 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.13 | 
 | 772 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 773 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.75 | 
 | 774 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
