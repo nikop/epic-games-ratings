@@ -376,7 +376,7 @@
 | 374 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.25 | 
 | 375 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 376 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 377 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
+| 377 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 378 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 379 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
 | 380 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
@@ -458,7 +458,7 @@
 | 456 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 457 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
 | 458 | [Paradigm](games/p/paradigm.md) | 4.47 | 
-| 459 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.35 | 
+| 459 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.36 | 
 | 460 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 461 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 462 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
@@ -472,7 +472,7 @@
 | 470 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 471 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 472 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 473 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 473 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 474 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
 | 475 | [Pine](games/p/pine.md) | 4.13 | 
 | 476 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
@@ -708,7 +708,7 @@
 | 706 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.54 | 
 | 707 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 708 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 709 | [Torchlight](games/t/torchlight.md) | 4.35 | 
+| 709 | [Torchlight](games/t/torchlight.md) | 4.36 | 
 | 710 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 711 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 712 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
