@@ -474,7 +474,7 @@
 | 472 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 473 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 474 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
-| 475 | [Pine](games/p/pine.md) | 4.14 | 
+| 475 | [Pine](games/p/pine.md) | 4.13 | 
 | 476 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
 | 477 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
 | 478 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
@@ -545,7 +545,7 @@
 | 543 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 544 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 545 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
-| 546 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.64 | 
+| 546 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
 | 547 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 548 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 549 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
@@ -669,7 +669,7 @@
 | 667 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
 | 668 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 669 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
-| 670 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
+| 670 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 671 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 672 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.27 | 
 | 673 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 

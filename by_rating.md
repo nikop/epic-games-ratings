@@ -148,18 +148,18 @@
 | 146 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 147 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 148 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 149 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
-| 150 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
-| 151 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
-| 152 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.73 | 
-| 153 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.73 | 
-| 154 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
-| 155 | [shapez](games/s/shapez.md) | 4.73 | 
-| 156 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
-| 157 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 158 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 159 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 160 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
+| 149 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 150 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
+| 151 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
+| 152 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
+| 153 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.73 | 
+| 154 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.73 | 
+| 155 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
+| 156 | [shapez](games/s/shapez.md) | 4.73 | 
+| 157 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
+| 158 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 159 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 160 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 161 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
 | 162 | [FUSER™](games/f/fuser™.md) | 4.72 | 
 | 163 | [Northgard](games/n/northgard.md) | 4.72 | 
@@ -261,20 +261,20 @@
 | 259 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 260 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
 | 261 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 262 | [SOMA](games/s/soma.md) | 4.65 | 
-| 263 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 264 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
-| 265 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
-| 266 | [Mutazione](games/m/mutazione.md) | 4.65 | 
-| 267 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.65 | 
-| 268 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.65 | 
-| 269 | [Everything](games/e/everything.md) | 4.65 | 
-| 270 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 271 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 272 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 273 | [Old World](games/o/old_world.md) | 4.64 | 
-| 274 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 275 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.64 | 
+| 262 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
+| 263 | [SOMA](games/s/soma.md) | 4.65 | 
+| 264 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 265 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
+| 266 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
+| 267 | [Mutazione](games/m/mutazione.md) | 4.65 | 
+| 268 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.65 | 
+| 269 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.65 | 
+| 270 | [Everything](games/e/everything.md) | 4.65 | 
+| 271 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 272 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 273 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 274 | [Old World](games/o/old_world.md) | 4.64 | 
+| 275 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
 | 276 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 277 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 278 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.64 | 
@@ -740,10 +740,10 @@
 | 738 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 739 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.16 | 
 | 740 | [Gone Home](games/g/gone_home.md) | 4.16 | 
-| 741 | [Pine](games/p/pine.md) | 4.14 | 
-| 742 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
-| 743 | [Relicta](games/r/relicta.md) | 4.14 | 
-| 744 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.14 | 
+| 741 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
+| 742 | [Relicta](games/r/relicta.md) | 4.14 | 
+| 743 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.14 | 
+| 744 | [Pine](games/p/pine.md) | 4.13 | 
 | 745 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
 | 746 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
 | 747 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
