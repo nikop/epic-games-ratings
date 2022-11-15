@@ -48,7 +48,7 @@
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.49 | 
+| 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.50 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
@@ -297,7 +297,7 @@
 | 295 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 296 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 297 | [Hob](games/h/hob.md) | 4.56 | 
-| 298 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.41 | 
+| 298 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.42 | 
 | 299 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 300 | [Horace](games/h/horace.md) | 4.58 | 
 | 301 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
@@ -545,7 +545,7 @@
 | 543 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 544 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 545 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
-| 546 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
+| 546 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.64 | 
 | 547 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 548 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 549 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
@@ -573,7 +573,7 @@
 | 571 | [SOMA](games/s/soma.md) | 4.65 | 
 | 572 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 573 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
-| 574 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
+| 574 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 575 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 576 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 577 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
