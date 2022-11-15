@@ -614,19 +614,19 @@
 | 612 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 613 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
 | 614 | [Among Trees](games/a/among_trees.md) | 4.38 | 
-| 615 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.38 | 
-| 616 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.38 | 
-| 617 | [Encased](games/e/encased.md) | 4.38 | 
-| 618 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 619 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.38 | 
-| 620 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
-| 621 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 622 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.38 | 
-| 623 | [Star Renegades](games/s/star_renegades.md) | 4.38 | 
-| 624 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 625 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 626 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
-| 627 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.37 | 
+| 615 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.38 | 
+| 616 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.38 | 
+| 617 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.38 | 
+| 618 | [Encased](games/e/encased.md) | 4.38 | 
+| 619 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 620 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.38 | 
+| 621 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
+| 622 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 623 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.38 | 
+| 624 | [Star Renegades](games/s/star_renegades.md) | 4.38 | 
+| 625 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 626 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 627 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
 | 628 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
 | 629 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 630 | [Paladins](games/p/paladins.md) | 4.36 | 
@@ -650,12 +650,12 @@
 | 648 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 649 | [ZOMBI](games/z/zombi.md) | 4.35 | 
 | 650 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 651 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
-| 652 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
-| 653 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
-| 654 | [Othercide](games/o/othercide.md) | 4.34 | 
-| 655 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
-| 656 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
+| 651 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 652 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
+| 653 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
+| 654 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
+| 655 | [Othercide](games/o/othercide.md) | 4.34 | 
+| 656 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
 | 657 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 658 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
 | 659 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
@@ -698,13 +698,13 @@
 | 696 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 697 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
 | 698 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
-| 699 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
-| 700 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 701 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.25 | 
-| 702 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
-| 703 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 704 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
-| 705 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
+| 699 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.26 | 
+| 700 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 701 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 702 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.25 | 
+| 703 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
+| 704 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
+| 705 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 706 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
 | 707 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 708 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
