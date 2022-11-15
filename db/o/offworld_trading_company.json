@@ -1,10 +1,10 @@
 {
   "ID": "e8882546f28e4832af823c646aed232e",
   "Name": "Offworld Trading Company",
-  "Rating": 4.29,
+  "Rating": 4.28,
   "NumberOfRatings": 432,
   "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
-  "LastChanged": "2022-11-13T23:58:20.1638777+00:00",
+  "LastChanged": "2022-11-15T19:57:24.2136613+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:30.0277811+00:00",
@@ -575,6 +575,11 @@
       "Time": "2022-11-13T23:58:20.1638779+00:00",
       "Rating": 4.29,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T19:57:24.2136615+00:00",
+      "Rating": 4.28,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -596,7 +601,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 30
+      "Count": 32
     },
     {
       "Text": "This game is Extremely Fun",

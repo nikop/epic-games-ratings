@@ -132,7 +132,7 @@
 | 130 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
 | 131 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 132 | [Crayta](games/c/crayta.md) | 4.18 | 
-| 133 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.29 | 
+| 133 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
 | 134 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 135 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 
 | 136 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
@@ -257,7 +257,7 @@
 | 255 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
 | 256 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 257 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 258 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.59 | 
+| 258 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 
 | 259 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
 | 260 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 
 | 261 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
@@ -291,7 +291,7 @@
 | 289 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 290 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
 | 291 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
-| 292 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
+| 292 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 293 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 294 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.53 | 
 | 295 | [HITMAN](games/h/hitman.md) | 4.64 | 
@@ -309,7 +309,7 @@
 | 307 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 308 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 309 | [Huntdown](games/h/huntdown.md) | 4.81 | 
-| 310 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 310 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
 | 311 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
 | 312 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.76 | 
 | 313 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
@@ -332,7 +332,7 @@
 | 330 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 331 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 332 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
-| 333 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 333 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 334 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 335 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.50 | 
 | 336 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
@@ -363,7 +363,7 @@
 | 361 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 362 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 363 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 364 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
+| 364 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 365 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
 | 366 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 367 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
@@ -436,7 +436,7 @@
 | 434 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
 | 435 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
 | 436 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 437 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 437 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
 | 438 | [Old World](games/o/old_world.md) | 4.64 | 
 | 439 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 440 | [Operation: Tango](games/o/operation__tango.md) | 4.67 | 
@@ -458,7 +458,7 @@
 | 456 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 457 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
 | 458 | [Paradigm](games/p/paradigm.md) | 4.47 | 
-| 459 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.34 | 
+| 459 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.35 | 
 | 460 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 461 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 462 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
@@ -774,7 +774,7 @@
 | 772 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 773 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.75 | 
 | 774 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
-| 775 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 775 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 776 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 777 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 778 | [Windbound](games/w/windbound.md) | 4.18 | 
