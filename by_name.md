@@ -336,7 +336,7 @@
 | 334 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 335 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.50 | 
 | 336 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 337 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 337 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.53 | 
 | 338 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 339 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 
 | 340 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
@@ -359,7 +359,7 @@
 | 357 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 358 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
 | 359 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
-| 360 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 360 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 361 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 362 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 363 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
@@ -368,7 +368,7 @@
 | 366 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 367 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 368 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.03 | 
-| 369 | [Limbo](games/l/limbo.md) | 4.62 | 
+| 369 | [Limbo](games/l/limbo.md) | 4.63 | 
 | 370 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
 | 371 | [Little Inferno](games/l/little_inferno.md) | 4.48 | 
 | 372 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
@@ -395,7 +395,7 @@
 | 393 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 394 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
 | 395 | [Minit](games/m/minit.md) | 4.56 | 
-| 396 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
+| 396 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.85 | 
 | 397 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 398 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 399 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 

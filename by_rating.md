@@ -288,18 +288,18 @@
 | 286 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 287 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 288 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 289 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 290 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
-| 291 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
-| 292 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.63 | 
-| 293 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 294 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 295 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
-| 296 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
-| 297 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 298 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 299 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
-| 300 | [Limbo](games/l/limbo.md) | 4.62 | 
+| 289 | [Limbo](games/l/limbo.md) | 4.63 | 
+| 290 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 291 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
+| 292 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
+| 293 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.63 | 
+| 294 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 295 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 296 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
+| 297 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.62 | 
+| 298 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 299 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 300 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 301 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
 | 302 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.62 | 
 | 303 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.62 | 
@@ -442,20 +442,20 @@
 | 440 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 441 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 442 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 443 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
-| 444 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 445 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 446 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
-| 447 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
-| 448 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.53 | 
-| 449 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 450 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 451 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 452 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 453 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 454 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 455 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 456 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 443 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.53 | 
+| 444 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
+| 445 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 446 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 447 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
+| 448 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
+| 449 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.53 | 
+| 450 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 451 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 452 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 453 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 454 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 455 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 456 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 457 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 458 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 459 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
@@ -706,11 +706,11 @@
 | 704 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 705 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 
 | 706 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
-| 707 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 708 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
-| 709 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 710 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 711 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 707 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
+| 708 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 709 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
+| 710 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
+| 711 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 712 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
 | 713 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 714 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
@@ -788,8 +788,8 @@
 | 786 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 787 | [Conarium](games/c/conarium.md) | 3.90 | 
 | 788 | [Ironcast](games/i/ironcast.md) | 3.89 | 
-| 789 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.85 | 
-| 790 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
+| 789 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.85 | 
+| 790 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.85 | 
 | 791 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
 | 792 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 793 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
