@@ -151,7 +151,7 @@
 | 149 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 150 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
 | 151 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 152 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
+| 152 | [Darksiders III](games/d/darksiders_iii.md) | 4.46 | 
 | 153 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.58 | 
 | 154 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 155 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.43 | 
@@ -204,7 +204,7 @@
 | 202 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 203 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 204 | [EVE Online](games/e/eve_online.md) | 4.26 | 
-| 205 | [Everything](games/e/everything.md) | 4.65 | 
+| 205 | [Everything](games/e/everything.md) | 4.67 | 
 | 206 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 207 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 208 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.62 | 
@@ -243,7 +243,7 @@
 | 241 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 242 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 243 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 244 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
+| 244 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.70 | 
 | 245 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 246 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.40 | 
 | 247 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -473,7 +473,7 @@
 | 471 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 472 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 473 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 474 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
+| 474 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 475 | [Pine](games/p/pine.md) | 4.13 | 
 | 476 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
 | 477 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
@@ -545,7 +545,7 @@
 | 543 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 544 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 545 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
-| 546 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
+| 546 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.64 | 
 | 547 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 548 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 549 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
@@ -744,7 +744,7 @@
 | 742 | [UnMetal](games/u/unmetal.md) | 4.50 | 
 | 743 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.50 | 
 | 744 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 745 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.68 | 
+| 745 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 746 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 747 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.77 | 
 | 748 | [VALORANT](games/v/valorant.md) | 4.55 | 
@@ -792,7 +792,7 @@
 | 790 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 791 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 792 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 793 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 793 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
 | 794 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.65 | 
 | 795 | [ZOMBI](games/z/zombi.md) | 4.35 | 
 | 796 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
