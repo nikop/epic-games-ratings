@@ -152,7 +152,7 @@
 | 150 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
 | 151 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 152 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
-| 153 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.57 | 
+| 153 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.58 | 
 | 154 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 155 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.43 | 
 | 156 | [Dauntless](games/d/dauntless.md) | 4.53 | 
@@ -597,7 +597,7 @@
 | 595 | [Starsand](games/s/starsand.md) | 4.30 | 
 | 596 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 597 | [Startup Panic](games/s/startup_panic.md) | 4.41 | 
-| 598 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 598 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 599 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 600 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 601 | [STG Football](games/s/stg_football.md) | 4.61 | 
@@ -787,7 +787,7 @@
 | 785 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 786 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 787 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
-| 788 | [WRC Generations](games/w/wrc_generations.md) | 4.64 | 
+| 788 | [WRC Generations](games/w/wrc_generations.md) | 4.67 | 
 | 789 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 790 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 791 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
