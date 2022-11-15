@@ -30,7 +30,7 @@
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.50 | 
-| 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.40 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.37 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
@@ -160,7 +160,7 @@
 | 158 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 159 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 160 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
-| 161 | [Death Coming](games/d/death_coming.md) | 4.46 | 
+| 161 | [Death Coming](games/d/death_coming.md) | 4.44 | 
 | 162 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 163 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 164 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
@@ -203,7 +203,7 @@
 | 201 | [Encased](games/e/encased.md) | 4.41 | 
 | 202 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 203 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 204 | [EVE Online](games/e/eve_online.md) | 4.27 | 
+| 204 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 205 | [Everything](games/e/everything.md) | 4.65 | 
 | 206 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
 | 207 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
@@ -212,7 +212,7 @@
 | 210 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 211 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 212 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 213 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.84 | 
+| 213 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.85 | 
 | 214 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 215 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 216 | [Family Man](games/f/family_man.md) | 4.17 | 
@@ -234,12 +234,12 @@
 | 232 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 233 | [Fez](games/f/fez.md) | 4.71 | 
 | 234 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
-| 235 | [Figment](games/f/figment.md) | 4.43 | 
+| 235 | [Figment](games/f/figment.md) | 4.44 | 
 | 236 | [Filament](games/f/filament.md) | 4.28 | 
 | 237 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 238 | [Firework](games/f/firework.md) | 4.88 | 
 | 239 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 
-| 240 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 240 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 241 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 242 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 243 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
@@ -320,7 +320,7 @@
 | 318 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 319 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 320 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
-| 321 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
+| 321 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 322 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 323 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 324 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
@@ -510,7 +510,7 @@
 | 508 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 509 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 510 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 511 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 511 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.51 | 
 | 512 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 513 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 514 | [Road 96](games/r/road_96.md) | 4.57 | 
@@ -612,7 +612,7 @@
 | 610 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 611 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 612 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 613 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.67 | 
+| 613 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 614 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
 | 615 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 616 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
@@ -629,7 +629,7 @@
 | 627 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
 | 628 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 629 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 630 | [Tacoma](games/t/tacoma.md) | 4.34 | 
+| 630 | [Tacoma](games/t/tacoma.md) | 4.35 | 
 | 631 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
 | 632 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.67 | 
 | 633 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
@@ -768,7 +768,7 @@
 | 766 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
 | 767 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
 | 768 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 
-| 769 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
+| 769 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
 | 770 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 771 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
 | 772 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
@@ -785,7 +785,7 @@
 | 783 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 784 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 785 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
-| 786 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
+| 786 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 787 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
 | 788 | [WRC Generations](games/w/wrc_generations.md) | 4.64 | 
 | 789 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 

@@ -1727,7 +1727,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 94
+      "Count": 96
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1744,6 +1744,10 @@
     {
       "Text": "This game has Quickly Understood Controls",
       "Count": 77
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 29
     }
   ]
 }
