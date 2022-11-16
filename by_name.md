@@ -303,7 +303,7 @@
 | 301 | [Horace](games/h/horace.md) | 4.58 | 
 | 302 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 303 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 304 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 304 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 305 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 306 | [House Party](games/h/house_party.md) | 4.30 | 
 | 307 | [Hue](games/h/hue.md) | 4.55 | 
@@ -364,7 +364,7 @@
 | 362 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 363 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 364 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 365 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
+| 365 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
 | 366 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
 | 367 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 368 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
@@ -435,7 +435,7 @@
 | 433 | [Observation](games/o/observation.md) | 4.50 | 
 | 434 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.44 | 
 | 435 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
-| 436 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
+| 436 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.74 | 
 | 437 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
 | 438 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
 | 439 | [Old World](games/o/old_world.md) | 4.64 | 
@@ -511,7 +511,7 @@
 | 509 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 510 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 511 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 512 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 512 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.51 | 
 | 513 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 514 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 515 | [Road 96](games/r/road_96.md) | 4.58 | 
@@ -676,7 +676,7 @@
 | 674 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 675 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 
 | 676 | [The Surge](games/t/the_surge.md) | 4.50 | 
-| 677 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
+| 677 | [The Surge 2](games/t/the_surge_2.md) | 4.14 | 
 | 678 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 679 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 680 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
@@ -693,7 +693,7 @@
 | 691 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 692 | [The World Next Door](games/t/the_world_next_door.md) | 4.09 | 
 | 693 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
-| 694 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 694 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 695 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 696 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 697 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
