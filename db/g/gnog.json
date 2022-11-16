@@ -1,7 +1,16 @@
 {
   "ID": "19078740fbcc4eada59a5a4ae7b3724c",
   "Name": "GNOG",
+  "Rating": 4.7,
   "FirstSeen": "2022-07-22T20:23:24.0704964+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-11-16T04:59:22.0834451+00:00",
+  "LastChanged": "2022-11-16T04:59:22.0834455+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-11-16T04:59:22.0834457+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
