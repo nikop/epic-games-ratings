@@ -42,7 +42,7 @@
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.88 | 
-| 43 | [Ashen](games/a/ashen.md) | 4.30 | 
+| 43 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
@@ -86,7 +86,7 @@
 | 84 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 85 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.29 | 
 | 86 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
-| 87 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.18 | 
+| 87 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 88 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 89 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.38 | 
 | 90 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.82 | 
@@ -443,7 +443,7 @@
 | 441 | [Operation: Tango](games/o/operation__tango.md) | 4.67 | 
 | 442 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.28 | 
 | 443 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.74 | 
-| 444 | [Othercide](games/o/othercide.md) | 4.34 | 
+| 444 | [Othercide](games/o/othercide.md) | 4.35 | 
 | 445 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 446 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.66 | 
 | 447 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
@@ -546,7 +546,7 @@
 | 544 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 545 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 546 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
-| 547 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.64 | 
+| 547 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
 | 548 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 549 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 550 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
@@ -586,7 +586,7 @@
 | 584 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.35 | 
 | 585 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.44 | 
 | 586 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.72 | 
-| 587 | [SpiderHeck](games/s/spiderheck.md) | 4.70 | 
+| 587 | [SpiderHeck](games/s/spiderheck.md) | 4.71 | 
 | 588 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 589 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 590 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
@@ -792,7 +792,7 @@
 | 790 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 791 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 792 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 793 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 793 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
 | 794 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
 | 795 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.65 | 
 | 796 | [ZOMBI](games/z/zombi.md) | 4.35 | 
