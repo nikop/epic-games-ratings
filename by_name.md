@@ -19,7 +19,7 @@
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.14 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
+| 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.02 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
@@ -263,7 +263,7 @@
 | 261 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
 | 262 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 263 | [GigaBash](games/g/gigabash.md) | 4.48 | 
-| 264 | [Gloomhaven](games/g/gloomhaven.md) | 4.45 | 
+| 264 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 265 | [GNOG](games/g/gnog.md) | 4.70 | 
 | 266 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 267 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
@@ -351,8 +351,8 @@
 | 349 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
 | 350 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 351 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
-| 352 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 353 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.58 | 
+| 352 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 353 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.59 | 
 | 354 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.44 | 
 | 355 | [Lake](games/l/lake.md) | 4.04 | 
 | 356 | [Lamentum](games/l/lamentum.md) | 4.36 | 
@@ -447,7 +447,7 @@
 | 445 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 446 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.66 | 
 | 447 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 448 | [Outlast](games/o/outlast.md) | 4.74 | 
+| 448 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 449 | [Outlast 2](games/o/outlast_2.md) | 4.74 | 
 | 450 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 451 | [Outward](games/o/outward.md) | 4.55 | 
@@ -725,7 +725,7 @@
 | 723 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
 | 724 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 725 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
-| 726 | [Transistor](games/t/transistor.md) | 4.61 | 
+| 726 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 727 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 728 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 729 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
@@ -788,7 +788,7 @@
 | 786 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 787 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 788 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 789 | [WRC Generations](games/w/wrc_generations.md) | 4.63 | 
+| 789 | [WRC Generations](games/w/wrc_generations.md) | 4.64 | 
 | 790 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 791 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 792 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 

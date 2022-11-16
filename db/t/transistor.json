@@ -1,10 +1,10 @@
 {
   "ID": "bc81d1e7d1794d3a94e4dbf26e92166d",
   "Name": "Transistor",
-  "Rating": 4.61,
+  "Rating": 4.62,
   "NumberOfRatings": 123,
   "FirstSeen": "2022-07-22T20:25:51.9037164+00:00",
-  "LastChanged": "2022-11-13T22:59:12.9246885+00:00",
+  "LastChanged": "2022-11-16T22:57:43.3213335+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:51.9037167+00:00",
@@ -249,6 +249,11 @@
     {
       "Time": "2022-11-13T22:59:12.9246889+00:00",
       "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T22:57:43.3213337+00:00",
+      "Rating": 4.62,
       "NumberOfRatings": null
     }
   ],
