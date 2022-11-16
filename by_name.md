@@ -49,7 +49,7 @@
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.49 | 
-| 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
+| 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.48 | 
@@ -374,7 +374,7 @@
 | 372 | [Little Inferno](games/l/little_inferno.md) | 4.48 | 
 | 373 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 374 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.38 | 
-| 375 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.25 | 
+| 375 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.22 | 
 | 376 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 377 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 378 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
@@ -448,7 +448,7 @@
 | 446 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.66 | 
 | 447 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 448 | [Outlast](games/o/outlast.md) | 4.74 | 
-| 449 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
+| 449 | [Outlast 2](games/o/outlast_2.md) | 4.74 | 
 | 450 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 451 | [Outward](games/o/outward.md) | 4.55 | 
 | 452 | [Overcooked](games/o/overcooked.md) | 4.67 | 
@@ -469,7 +469,7 @@
 | 467 | [Patron](games/p/patron.md) | 3.94 | 
 | 468 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 469 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 470 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 470 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
 | 471 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 472 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 473 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
@@ -574,7 +574,7 @@
 | 572 | [SOMA](games/s/soma.md) | 4.65 | 
 | 573 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 574 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
-| 575 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 575 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 576 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 577 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 578 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
@@ -749,7 +749,7 @@
 | 747 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 748 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.77 | 
 | 749 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 750 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.18 | 
+| 750 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
 | 751 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 752 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 753 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
