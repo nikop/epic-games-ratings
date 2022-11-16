@@ -235,7 +235,7 @@
 | 233 | [Fez](games/f/fez.md) | 4.71 | 
 | 234 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
 | 235 | [Figment](games/f/figment.md) | 4.44 | 
-| 236 | [Filament](games/f/filament.md) | 4.28 | 
+| 236 | [Filament](games/f/filament.md) | 4.29 | 
 | 237 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 238 | [Firework](games/f/firework.md) | 4.88 | 
 | 239 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 
@@ -325,7 +325,7 @@
 | 323 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 324 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 325 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
-| 326 | [Ironcast](games/i/ironcast.md) | 3.89 | 
+| 326 | [Ironcast](games/i/ironcast.md) | 3.90 | 
 | 327 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 328 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 329 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
@@ -373,7 +373,7 @@
 | 371 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
 | 372 | [Little Inferno](games/l/little_inferno.md) | 4.47 | 
 | 373 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 374 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.38 | 
+| 374 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 375 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.22 | 
 | 376 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 377 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
@@ -433,7 +433,7 @@
 | 431 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 432 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 433 | [Observation](games/o/observation.md) | 4.50 | 
-| 434 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.44 | 
+| 434 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
 | 435 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
 | 436 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.74 | 
 | 437 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
@@ -459,7 +459,7 @@
 | 457 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 458 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
 | 459 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 460 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
+| 460 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.36 | 
 | 461 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 462 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 463 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
@@ -511,7 +511,7 @@
 | 509 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 510 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 511 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 512 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.51 | 
+| 512 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 513 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 514 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 515 | [Road 96](games/r/road_96.md) | 4.58 | 
@@ -539,7 +539,7 @@
 | 537 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 538 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 
 | 539 | [Scavengers](games/s/scavengers.md) | 4.17 | 
-| 540 | [Scorn](games/s/scorn.md) | 4.46 | 
+| 540 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 541 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
 | 542 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
 | 543 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
@@ -554,13 +554,13 @@
 | 552 | [shapez](games/s/shapez.md) | 4.71 | 
 | 553 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 554 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.15 | 
-| 555 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
+| 555 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
 | 556 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
 | 557 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.38 | 
 | 558 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 559 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 560 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 561 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 
+| 561 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
 | 562 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 563 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
 | 564 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
@@ -623,7 +623,7 @@
 | 621 | [Superliminal](games/s/superliminal.md) | 4.78 | 
 | 622 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 623 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 624 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
+| 624 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
 | 625 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 626 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 627 | [Suzerain](games/s/suzerain.md) | 4.70 | 
@@ -632,7 +632,7 @@
 | 630 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 631 | [Tacoma](games/t/tacoma.md) | 4.36 | 
 | 632 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
-| 633 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.67 | 
+| 633 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
 | 634 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.52 | 
 | 635 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 636 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
@@ -660,7 +660,7 @@
 | 658 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.95 | 
 | 659 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 660 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
-| 661 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
+| 661 | [The Last Campfire](games/t/the_last_campfire.md) | 4.85 | 
 | 662 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.47 | 
 | 663 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
 | 664 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.72 | 

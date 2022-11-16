@@ -1,5 +1,5 @@
 # Tales from the Borderlands
-Rating: 4.67 (31)  (as of 23.09.2022)  
+Rating: 4.68 (31)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -31,3 +31,4 @@ Rating: 4.67 (31)  (as of 23.09.2022)
 | 2022-11-04 | 4.69 | - |
 | 2022-11-07 | 4.66 | - |
 | 2022-11-11 | 4.67 | - |
+| 2022-11-16 | 4.68 | - |

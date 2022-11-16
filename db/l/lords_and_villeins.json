@@ -1,11 +1,11 @@
 {
   "ID": "c61c00b965d9424b955ca4bd570b5b2d",
   "Name": "Lords and Villeins",
-  "Rating": 4.38,
+  "Rating": 4.41,
   "NumberOfRatings": 21,
   "FirstSeen": "2022-07-22T20:28:09.8590739+00:00",
   "FirstSeenRating": "2022-09-13T22:32:26.3381653+00:00",
-  "LastChanged": "2022-11-13T02:48:41.4267531+00:00",
+  "LastChanged": "2022-11-16T20:58:17.9373204+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-13T22:32:26.3381656+00:00",
@@ -35,6 +35,11 @@
     {
       "Time": "2022-11-13T02:48:41.426911+00:00",
       "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T20:58:17.9373205+00:00",
+      "Rating": 4.41,
       "NumberOfRatings": null
     }
   ],

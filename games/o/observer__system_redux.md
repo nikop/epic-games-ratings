@@ -1,5 +1,5 @@
 # Observer: System Redux
-Rating: 4.44 (-)  (as of 23.09.2022)  
+Rating: 4.46 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -8,3 +8,4 @@ Rating: 4.44 (-)  (as of 23.09.2022)
 | 2022-10-29 | 4.36 | - |
 | 2022-11-01 | 4.39 | - |
 | 2022-11-13 | 4.44 | - |
+| 2022-11-16 | 4.46 | - |
