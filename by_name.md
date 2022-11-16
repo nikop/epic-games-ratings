@@ -317,7 +317,7 @@
 | 315 | [Imagine Earth](games/i/imagine_earth.md) | 4.35 | 
 | 316 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
 | 317 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
-| 318 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
+| 318 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 319 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 320 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 321 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
@@ -633,7 +633,7 @@
 | 631 | [Tacoma](games/t/tacoma.md) | 4.36 | 
 | 632 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
 | 633 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.67 | 
-| 634 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
+| 634 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.52 | 
 | 635 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 636 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 637 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
@@ -724,7 +724,7 @@
 | 722 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 723 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
 | 724 | [Train Valley](games/t/train_valley.md) | 4.44 | 
-| 725 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
+| 725 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 726 | [Transistor](games/t/transistor.md) | 4.61 | 
 | 727 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 728 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 

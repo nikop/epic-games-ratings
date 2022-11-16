@@ -444,19 +444,19 @@
 | 442 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 443 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 444 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.53 | 
-| 445 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
-| 446 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 447 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 448 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
-| 449 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
-| 450 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.53 | 
-| 451 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 452 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 453 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 454 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 455 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 456 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 457 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
+| 445 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 446 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 447 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
+| 448 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
+| 449 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.53 | 
+| 450 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 451 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 452 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 453 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 454 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 455 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 456 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
+| 457 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.52 | 
 | 458 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 459 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
 | 460 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
@@ -476,16 +476,16 @@
 | 474 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
 | 475 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
 | 476 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 477 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
-| 478 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
-| 479 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
-| 480 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 481 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 482 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 483 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 484 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
-| 485 | [MythForce](games/m/mythforce.md) | 4.50 | 
-| 486 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 477 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
+| 478 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
+| 479 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 480 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 481 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 482 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 483 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
+| 484 | [MythForce](games/m/mythforce.md) | 4.50 | 
+| 485 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 486 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 487 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 488 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
 | 489 | [The Surge](games/t/the_surge.md) | 4.50 | 
@@ -762,9 +762,9 @@
 | 760 | [The World Next Door](games/t/the_world_next_door.md) | 4.09 | 
 | 761 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 762 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
-| 763 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
-| 764 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
-| 765 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
+| 763 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
+| 764 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
+| 765 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 766 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.06 | 
 | 767 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 768 | [Godfall](games/g/godfall.md) | 4.05 | 
