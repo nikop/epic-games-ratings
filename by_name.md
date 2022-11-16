@@ -187,7 +187,7 @@
 | 185 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 186 | [DOOM 3](games/d/doom_3.md) | 4.64 | 
 | 187 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 188 | [DOOM II](games/d/doom_ii.md) | 4.76 | 
+| 188 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 189 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
 | 190 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 191 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
