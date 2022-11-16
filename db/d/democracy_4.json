@@ -1,10 +1,10 @@
 {
   "ID": "74b602736d704ed2a5915c31319d99f6",
   "Name": "Democracy 4",
-  "Rating": 4.32,
+  "Rating": 4.33,
   "NumberOfRatings": 46,
   "FirstSeen": "2022-07-22T20:25:46.6765497+00:00",
-  "LastChanged": "2022-11-14T14:57:07.1435863+00:00",
+  "LastChanged": "2022-11-16T15:57:06.4897789+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:46.67655+00:00",
@@ -169,6 +169,11 @@
     {
       "Time": "2022-11-14T14:57:07.1435865+00:00",
       "Rating": 4.32,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T15:57:06.4897789+00:00",
+      "Rating": 4.33,
       "NumberOfRatings": null
     }
   ],

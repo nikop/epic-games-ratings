@@ -31,7 +31,7 @@
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.50 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 32 | [Anno 2070](games/a/anno_2070.md) | 4.43 | 
+| 32 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.38 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
@@ -62,7 +62,7 @@
 | 60 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
 | 61 | [Aztez](games/a/aztez.md) | 4.52 | 
 | 62 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 63 | [Backbone](games/b/backbone.md) | 4.35 | 
+| 63 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 64 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 65 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 66 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.88 | 
@@ -167,7 +167,7 @@
 | 165 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.44 | 
 | 166 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 167 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 
-| 168 | [Democracy 4](games/d/democracy_4.md) | 4.32 | 
+| 168 | [Democracy 4](games/d/democracy_4.md) | 4.33 | 
 | 169 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 170 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 
 | 171 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
@@ -188,11 +188,11 @@
 | 186 | [DOOM 3](games/d/doom_3.md) | 4.64 | 
 | 187 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 188 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
-| 189 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
+| 189 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 190 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 191 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 192 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 193 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.29 | 
+| 193 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.30 | 
 | 194 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 195 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.77 | 
 | 196 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -371,7 +371,7 @@
 | 369 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.02 | 
 | 370 | [Limbo](games/l/limbo.md) | 4.63 | 
 | 371 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
-| 372 | [Little Inferno](games/l/little_inferno.md) | 4.48 | 
+| 372 | [Little Inferno](games/l/little_inferno.md) | 4.47 | 
 | 373 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 374 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.38 | 
 | 375 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.22 | 
@@ -458,7 +458,7 @@
 | 456 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
 | 457 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 458 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
-| 459 | [Paradigm](games/p/paradigm.md) | 4.47 | 
+| 459 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 460 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
 | 461 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 462 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
@@ -694,7 +694,7 @@
 | 692 | [The World Next Door](games/t/the_world_next_door.md) | 4.09 | 
 | 693 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 694 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 695 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
+| 695 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 696 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 697 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 698 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
@@ -739,7 +739,7 @@
 | 737 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 738 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 739 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 740 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.78 | 
+| 740 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
 | 741 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.39 | 
 | 742 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 743 | [UnMetal](games/u/unmetal.md) | 4.50 | 
