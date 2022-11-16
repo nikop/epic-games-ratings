@@ -243,7 +243,7 @@
 | 241 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 242 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 243 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 244 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.70 | 
+| 244 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
 | 245 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 246 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.40 | 
 | 247 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -441,7 +441,7 @@
 | 439 | [Old World](games/o/old_world.md) | 4.64 | 
 | 440 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 441 | [Operation: Tango](games/o/operation__tango.md) | 4.67 | 
-| 442 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.28 | 
+| 442 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.30 | 
 | 443 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.74 | 
 | 444 | [Othercide](games/o/othercide.md) | 4.35 | 
 | 445 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
@@ -537,7 +537,7 @@
 | 535 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.59 | 
 | 536 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 537 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 538 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
+| 538 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 
 | 539 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 540 | [Scorn](games/s/scorn.md) | 4.46 | 
 | 541 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
@@ -788,7 +788,7 @@
 | 786 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 787 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 788 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 789 | [WRC Generations](games/w/wrc_generations.md) | 4.67 | 
+| 789 | [WRC Generations](games/w/wrc_generations.md) | 4.63 | 
 | 790 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 791 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 792 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
