@@ -473,7 +473,7 @@
 | 471 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 472 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 473 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 474 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 474 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 475 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
 | 476 | [Pine](games/p/pine.md) | 4.13 | 
 | 477 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
@@ -531,7 +531,7 @@
 | 529 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.79 | 
 | 530 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 531 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 532 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.77 | 
+| 532 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
 | 533 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 534 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 535 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.59 | 
@@ -667,7 +667,7 @@
 | 665 | [The Lion's Song](games/t/the_lion's_song.md) | 4.44 | 
 | 666 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 667 | [The Medium](games/t/the_medium.md) | 4.56 | 
-| 668 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
+| 668 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 669 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 670 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
 | 671 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 

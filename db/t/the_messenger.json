@@ -1,10 +1,10 @@
 {
   "ID": "752368fdba244e9386023cfb2b9d6ceb",
   "Name": "The Messenger",
-  "Rating": 4.78,
+  "Rating": 4.79,
   "NumberOfRatings": 561,
   "FirstSeen": "2022-07-22T20:18:54.3850647+00:00",
-  "LastChanged": "2022-10-30T22:30:41.6188254+00:00",
+  "LastChanged": "2022-11-16T08:56:57.7479896+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:54.3850649+00:00",
@@ -515,6 +515,11 @@
       "Time": "2022-10-30T22:30:41.6188257+00:00",
       "Rating": 4.78,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T08:56:57.74799+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -524,7 +529,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 20
+      "Count": 21
     }
   ]
 }
