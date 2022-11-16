@@ -48,7 +48,7 @@
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.50 | 
+| 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.49 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
@@ -377,7 +377,7 @@
 | 375 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.25 | 
 | 376 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
 | 377 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 378 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 378 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
 | 379 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 380 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
 | 381 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
@@ -412,7 +412,7 @@
 | 410 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 411 | [MythForce](games/m/mythforce.md) | 4.50 | 
 | 412 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 413 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 413 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
 | 414 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
 | 415 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
 | 416 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
@@ -489,7 +489,7 @@
 | 487 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 488 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 489 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 490 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
+| 490 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
 | 491 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.47 | 
 | 492 | [Rayman Origins](games/r/rayman_origins.md) | 4.76 | 
 | 493 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 

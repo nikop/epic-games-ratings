@@ -486,27 +486,27 @@
 | 484 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
 | 485 | [MythForce](games/m/mythforce.md) | 4.50 | 
 | 486 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 487 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.50 | 
-| 488 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
-| 489 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
-| 490 | [The Surge](games/t/the_surge.md) | 4.50 | 
-| 491 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.50 | 
-| 492 | [CryoFall](games/c/cryofall.md) | 4.50 | 
-| 493 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.50 | 
-| 494 | [UnMetal](games/u/unmetal.md) | 4.50 | 
-| 495 | [Observation](games/o/observation.md) | 4.50 | 
-| 496 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.50 | 
-| 497 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 
-| 498 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 499 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 500 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
-| 501 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 502 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 503 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 504 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
-| 505 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 506 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 507 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 487 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
+| 488 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
+| 489 | [The Surge](games/t/the_surge.md) | 4.50 | 
+| 490 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.50 | 
+| 491 | [CryoFall](games/c/cryofall.md) | 4.50 | 
+| 492 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.50 | 
+| 493 | [UnMetal](games/u/unmetal.md) | 4.50 | 
+| 494 | [Observation](games/o/observation.md) | 4.50 | 
+| 495 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.50 | 
+| 496 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 
+| 497 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 498 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 499 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
+| 500 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 501 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 502 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 503 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
+| 504 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 505 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 506 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 507 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.49 | 
 | 508 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 509 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 510 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
@@ -529,11 +529,11 @@
 | 527 | [SMITE](games/s/smite.md) | 4.46 | 
 | 528 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 529 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 530 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
-| 531 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
-| 532 | [Darksiders III](games/d/darksiders_iii.md) | 4.46 | 
-| 533 | [Scorn](games/s/scorn.md) | 4.46 | 
-| 534 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 530 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
+| 531 | [Darksiders III](games/d/darksiders_iii.md) | 4.46 | 
+| 532 | [Scorn](games/s/scorn.md) | 4.46 | 
+| 533 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 534 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
 | 535 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 536 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
 | 537 | [Gloomhaven](games/g/gloomhaven.md) | 4.45 | 
@@ -563,19 +563,19 @@
 | 561 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.44 | 
 | 562 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.44 | 
 | 563 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 564 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 565 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.43 | 
-| 566 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
-| 567 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
-| 568 | [Good Company](games/g/good_company.md) | 4.43 | 
-| 569 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
-| 570 | [Anno 2070](games/a/anno_2070.md) | 4.43 | 
-| 571 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
-| 572 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 573 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 574 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 575 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 576 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 564 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
+| 565 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 566 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.43 | 
+| 567 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
+| 568 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
+| 569 | [Good Company](games/g/good_company.md) | 4.43 | 
+| 570 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
+| 571 | [Anno 2070](games/a/anno_2070.md) | 4.43 | 
+| 572 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.43 | 
+| 573 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 574 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 575 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 576 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 577 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 578 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 579 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
@@ -597,13 +597,13 @@
 | 595 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 596 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 597 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.41 | 
-| 598 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
-| 599 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
-| 600 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
-| 601 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
-| 602 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 603 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.40 | 
-| 604 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 598 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 599 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
+| 600 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 601 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
+| 602 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
+| 603 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 604 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.40 | 
 | 605 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 606 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 607 | [Core](games/c/core.md) | 4.39 | 
