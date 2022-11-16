@@ -2,7 +2,7 @@
 | --- | ---- | ------ | 
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.21 | 
 | 2 | [20XX](games/2/20xx.md) | 4.62 | 
-| 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.38 | 
+| 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.36 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
@@ -139,13 +139,13 @@
 | 137 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 138 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 139 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.67 | 
-| 140 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
+| 140 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 141 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 142 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 143 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 144 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
 | 145 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
-| 146 | [Dark Deception](games/d/dark_deception.md) | 4.58 | 
+| 146 | [Dark Deception](games/d/dark_deception.md) | 4.59 | 
 | 147 | [Dark Deity](games/d/dark_deity.md) | 4.28 | 
 | 148 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 149 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -704,7 +704,7 @@
 | 702 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
 | 703 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.27 | 
 | 704 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 705 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
+| 705 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.33 | 
 | 706 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
 | 707 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.54 | 
 | 708 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
@@ -764,7 +764,7 @@
 | 762 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.41 | 
 | 763 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
 | 764 | [Warpips](games/w/warpips.md) | 4.55 | 
-| 765 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.57 | 
+| 765 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 766 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 767 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
 | 768 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 

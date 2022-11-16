@@ -346,6 +346,10 @@
     {
       "Text": "This game has Competitive Players",
       "Count": 20
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 20
     }
   ]
 }
