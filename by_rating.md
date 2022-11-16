@@ -119,15 +119,15 @@
 | 117 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.76 | 
 | 118 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.76 | 
 | 119 | [Outlast 2](games/o/outlast_2.md) | 4.76 | 
-| 120 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 121 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 123 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
-| 124 | [Haven](games/h/haven.md) | 4.75 | 
-| 125 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.75 | 
-| 126 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
-| 127 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
-| 128 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
+| 120 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 121 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 122 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 124 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
+| 125 | [Haven](games/h/haven.md) | 4.75 | 
+| 126 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.75 | 
+| 127 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
+| 128 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 129 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 130 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 131 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
@@ -411,18 +411,18 @@
 | 409 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 410 | [Minit](games/m/minit.md) | 4.56 | 
 | 411 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
-| 412 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
-| 413 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
-| 414 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 
-| 415 | [The Medium](games/t/the_medium.md) | 4.56 | 
-| 416 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 417 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 418 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 419 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 420 | [Hue](games/h/hue.md) | 4.55 | 
-| 421 | [Outward](games/o/outward.md) | 4.55 | 
-| 422 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 423 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 412 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 413 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
+| 414 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
+| 415 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 
+| 416 | [The Medium](games/t/the_medium.md) | 4.56 | 
+| 417 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 418 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 419 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 420 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 421 | [Hue](games/h/hue.md) | 4.55 | 
+| 422 | [Outward](games/o/outward.md) | 4.55 | 
+| 423 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 424 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 425 | [Warpips](games/w/warpips.md) | 4.55 | 
 | 426 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
@@ -763,9 +763,9 @@
 | 761 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 762 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
 | 763 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
-| 764 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
-| 765 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.06 | 
-| 766 | [Gravewood High](games/g/gravewood_high.md) | 4.06 | 
+| 764 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
+| 765 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
+| 766 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.06 | 
 | 767 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 768 | [Godfall](games/g/godfall.md) | 4.05 | 
 | 769 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
@@ -791,9 +791,9 @@
 | 789 | [Ironcast](games/i/ironcast.md) | 3.89 | 
 | 790 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.85 | 
 | 791 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.85 | 
-| 792 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
-| 793 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 794 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
+| 792 | [Saints Row](games/s/saints_row.md) | 3.78 | 
+| 793 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
+| 794 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.77 | 
 | 795 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.74 | 
 | 796 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.72 | 
 | 797 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 

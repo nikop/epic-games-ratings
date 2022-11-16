@@ -194,7 +194,7 @@
 | 192 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 193 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.29 | 
 | 194 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 195 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.80 | 
+| 195 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.77 | 
 | 196 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 197 | [ELEX](games/e/elex.md) | 4.39 | 
 | 198 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
@@ -276,7 +276,7 @@
 | 274 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
 | 275 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
 | 276 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 277 | [Gravewood High](games/g/gravewood_high.md) | 4.06 | 
+| 277 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
 | 278 | [Griftlands](games/g/griftlands.md) | 4.80 | 
 | 279 | [GRIME](games/g/grime.md) | 4.58 | 
 | 280 | [Grindstone](games/g/grindstone.md) | 4.83 | 
@@ -401,7 +401,7 @@
 | 399 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 400 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 401 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 402 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
+| 402 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 403 | [Moving Out](games/m/moving_out.md) | 4.59 | 
 | 404 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 405 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
@@ -727,7 +727,7 @@
 | 725 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
 | 726 | [Transistor](games/t/transistor.md) | 4.61 | 
 | 727 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 728 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 728 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 729 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
 | 730 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 731 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
