@@ -23,7 +23,7 @@
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 24 | [Among Trees](games/a/among_trees.md) | 4.38 | 
+| 24 | [Among Trees](games/a/among_trees.md) | 4.37 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
@@ -65,7 +65,7 @@
 | 63 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 64 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 65 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 66 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.88 | 
+| 66 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
 | 67 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 
 | 68 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 69 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
@@ -245,7 +245,7 @@
 | 243 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 244 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
 | 245 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 246 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.40 | 
+| 246 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 247 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 248 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 249 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
@@ -341,7 +341,7 @@
 | 339 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 340 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 
 | 341 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
-| 342 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
+| 342 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 
 | 343 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
 | 344 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
 | 345 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
@@ -368,7 +368,7 @@
 | 366 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
 | 367 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
 | 368 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 369 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.02 | 
+| 369 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.03 | 
 | 370 | [Limbo](games/l/limbo.md) | 4.63 | 
 | 371 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
 | 372 | [Little Inferno](games/l/little_inferno.md) | 4.47 | 
@@ -514,7 +514,7 @@
 | 512 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 513 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 514 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 515 | [Road 96](games/r/road_96.md) | 4.57 | 
+| 515 | [Road 96](games/r/road_96.md) | 4.58 | 
 | 516 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 517 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 518 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
@@ -533,7 +533,7 @@
 | 531 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 532 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
 | 533 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 534 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
+| 534 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 535 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.59 | 
 | 536 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 537 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
@@ -618,7 +618,7 @@
 | 616 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 617 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
 | 618 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
-| 619 | [SUPERHOT](games/s/superhot.md) | 4.70 | 
+| 619 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
 | 620 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.63 | 
 | 621 | [Superliminal](games/s/superliminal.md) | 4.78 | 
 | 622 | [Supraland](games/s/supraland.md) | 4.61 | 
@@ -786,7 +786,7 @@
 | 784 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 785 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 786 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
-| 787 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
+| 787 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 788 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 789 | [WRC Generations](games/w/wrc_generations.md) | 4.63 | 
 | 790 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
