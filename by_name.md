@@ -10,7 +10,7 @@
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.61 | 
-| 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
+| 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.52 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
@@ -32,7 +32,7 @@
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.50 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 
-| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.38 | 
+| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.39 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.66 | 
@@ -177,7 +177,7 @@
 | 175 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.64 | 
 | 176 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 177 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 178 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
+| 178 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
 | 179 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.41 | 
 | 180 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 181 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
@@ -667,7 +667,7 @@
 | 665 | [The Lion's Song](games/t/the_lion's_song.md) | 4.44 | 
 | 666 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 667 | [The Medium](games/t/the_medium.md) | 4.56 | 
-| 668 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
+| 668 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
 | 669 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 670 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
 | 671 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
@@ -706,7 +706,7 @@
 | 704 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 705 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.33 | 
 | 706 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 707 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.54 | 
+| 707 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 708 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 709 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 710 | [Torchlight](games/t/torchlight.md) | 4.36 | 
