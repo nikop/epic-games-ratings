@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.21 | 
-| 2 | [20XX](games/2/20xx.md) | 4.61 | 
+| 2 | [20XX](games/2/20xx.md) | 4.62 | 
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.38 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
@@ -272,7 +272,7 @@
 | 270 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 271 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 272 | [Good Company](games/g/good_company.md) | 4.43 | 
-| 273 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 273 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
 | 274 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
 | 275 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 276 | [Gravewood High](games/g/gravewood_high.md) | 4.06 | 
@@ -458,7 +458,7 @@
 | 456 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 457 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
 | 458 | [Paradigm](games/p/paradigm.md) | 4.47 | 
-| 459 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.36 | 
+| 459 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
 | 460 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 461 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 462 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
@@ -548,7 +548,7 @@
 | 546 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.64 | 
 | 547 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 548 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
-| 549 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
+| 549 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 550 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
 | 551 | [shapez](games/s/shapez.md) | 4.71 | 
 | 552 | [Sheltered](games/s/sheltered.md) | 4.42 | 
@@ -563,7 +563,7 @@
 | 561 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 562 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
 | 563 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 564 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.81 | 
+| 564 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 565 | [Slipways](games/s/slipways.md) | 4.71 | 
 | 566 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
 | 567 | [SMITE](games/s/smite.md) | 4.46 | 
@@ -597,7 +597,7 @@
 | 595 | [Starsand](games/s/starsand.md) | 4.30 | 
 | 596 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 597 | [Startup Panic](games/s/startup_panic.md) | 4.41 | 
-| 598 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 598 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 599 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 600 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 601 | [STG Football](games/s/stg_football.md) | 4.61 | 
@@ -629,7 +629,7 @@
 | 627 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
 | 628 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 629 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 630 | [Tacoma](games/t/tacoma.md) | 4.35 | 
+| 630 | [Tacoma](games/t/tacoma.md) | 4.36 | 
 | 631 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
 | 632 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.67 | 
 | 633 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
