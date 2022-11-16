@@ -47,7 +47,7 @@
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.50 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
@@ -110,7 +110,7 @@
 | 108 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 109 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
 | 110 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 111 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
+| 111 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 112 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 113 | [Chorus](games/c/chorus.md) | 4.44 | 
 | 114 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.92 | 
@@ -235,7 +235,7 @@
 | 233 | [Fez](games/f/fez.md) | 4.71 | 
 | 234 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
 | 235 | [Figment](games/f/figment.md) | 4.44 | 
-| 236 | [Filament](games/f/filament.md) | 4.28 | 
+| 236 | [Filament](games/f/filament.md) | 4.29 | 
 | 237 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 238 | [Firework](games/f/firework.md) | 4.88 | 
 | 239 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 
@@ -426,7 +426,7 @@
 | 424 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 425 | [No Straight Roads](games/n/no_straight_roads.md) | 4.70 | 
 | 426 | [NORCO](games/n/norco.md) | 4.57 | 
-| 427 | [Northgard](games/n/northgard.md) | 4.72 | 
+| 427 | [Northgard](games/n/northgard.md) | 4.73 | 
 | 428 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
 | 429 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 430 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
@@ -512,7 +512,7 @@
 | 510 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 511 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 512 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
-| 513 | [Riverbond](games/r/riverbond.md) | 4.47 | 
+| 513 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 514 | [Road 96](games/r/road_96.md) | 4.57 | 
 | 515 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 516 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
@@ -679,7 +679,7 @@
 | 677 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 678 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 679 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 680 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
+| 680 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.63 | 
 | 681 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
 | 682 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 683 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
@@ -688,9 +688,9 @@
 | 686 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
 | 687 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
 | 688 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
-| 689 | [The Witness](games/t/the_witness.md) | 4.71 | 
+| 689 | [The Witness](games/t/the_witness.md) | 4.70 | 
 | 690 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 691 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 
+| 691 | [The World Next Door](games/t/the_world_next_door.md) | 4.09 | 
 | 692 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 693 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 694 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
@@ -786,7 +786,7 @@
 | 784 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 785 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 786 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
-| 787 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
+| 787 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 788 | [WRC Generations](games/w/wrc_generations.md) | 4.67 | 
 | 789 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 790 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
