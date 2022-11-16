@@ -8,7 +8,7 @@
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
+| 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.61 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.52 | 
@@ -87,7 +87,7 @@
 | 85 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.29 | 
 | 86 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 87 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
-| 88 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
+| 88 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 89 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.38 | 
 | 90 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.82 | 
 | 91 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
@@ -124,7 +124,7 @@
 | 122 | [Control](games/c/control.md) | 4.60 | 
 | 123 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
 | 124 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 125 | [Core](games/c/core.md) | 4.39 | 
+| 125 | [Core](games/c/core.md) | 4.38 | 
 | 126 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 127 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
 | 128 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
@@ -185,7 +185,7 @@
 | 183 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
 | 184 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
 | 185 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
-| 186 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
+| 186 | [DOOM 3](games/d/doom_3.md) | 4.64 | 
 | 187 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 188 | [DOOM II](games/d/doom_ii.md) | 4.76 | 
 | 189 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.85 | 
@@ -356,7 +356,7 @@
 | 354 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.44 | 
 | 355 | [Lake](games/l/lake.md) | 4.04 | 
 | 356 | [Lamentum](games/l/lamentum.md) | 4.36 | 
-| 357 | [Last Day of June](games/l/last_day_of_june.md) | 4.66 | 
+| 357 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
 | 358 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 359 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
 | 360 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
@@ -533,7 +533,7 @@
 | 531 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 532 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
 | 533 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 534 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 534 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
 | 535 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.59 | 
 | 536 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 537 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
@@ -555,7 +555,7 @@
 | 553 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 554 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.15 | 
 | 555 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.52 | 
-| 556 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 556 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
 | 557 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.38 | 
 | 558 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 559 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
@@ -674,7 +674,7 @@
 | 672 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 673 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.28 | 
 | 674 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
-| 675 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.21 | 
+| 675 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 
 | 676 | [The Surge](games/t/the_surge.md) | 4.50 | 
 | 677 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
 | 678 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
