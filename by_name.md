@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.21 | 
-| 2 | [20XX](games/2/20xx.md) | 4.61 | 
+| 2 | [20XX](games/2/20xx.md) | 4.62 | 
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.37 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
@@ -10,12 +10,12 @@
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.61 | 
-| 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.52 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.14 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
@@ -32,7 +32,7 @@
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.50 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 
-| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.39 | 
+| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.38 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.66 | 
@@ -119,7 +119,7 @@
 | 117 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 118 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 119 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 120 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
+| 120 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 
 | 121 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 122 | [Conarium](games/c/conarium.md) | 3.90 | 
 | 123 | [Control](games/c/control.md) | 4.60 | 
@@ -224,7 +224,7 @@
 | 222 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 223 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 224 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 225 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
+| 225 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
 | 226 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.68 | 
 | 227 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
 | 228 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.76 | 
@@ -256,7 +256,7 @@
 | 254 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.21 | 
 | 255 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 256 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 257 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
+| 257 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 258 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 259 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 260 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
@@ -468,7 +468,7 @@
 | 466 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 467 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 468 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 469 | [Patron](games/p/patron.md) | 3.94 | 
+| 469 | [Patron](games/p/patron.md) | 3.96 | 
 | 470 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 471 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 472 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
@@ -694,7 +694,7 @@
 | 692 | [The Witness](games/t/the_witness.md) | 4.70 | 
 | 693 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 694 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
-| 695 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
+| 695 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 696 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 697 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 698 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
@@ -770,7 +770,7 @@
 | 768 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 769 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
 | 770 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
-| 771 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 
+| 771 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 772 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
 | 773 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 774 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.09 | 
