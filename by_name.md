@@ -286,7 +286,7 @@
 | 284 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 285 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 286 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
-| 287 | [Haven](games/h/haven.md) | 4.75 | 
+| 287 | [Haven](games/h/haven.md) | 4.76 | 
 | 288 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 289 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.66 | 
 | 290 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
@@ -311,7 +311,7 @@
 | 309 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 310 | [Huntdown](games/h/huntdown.md) | 4.81 | 
 | 311 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
-| 312 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.60 | 
+| 312 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.62 | 
 | 313 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.76 | 
 | 314 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 315 | [Imagine Earth](games/i/imagine_earth.md) | 4.35 | 
@@ -389,7 +389,7 @@
 | 387 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 388 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 389 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 390 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 390 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 391 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 392 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 393 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
@@ -543,9 +543,9 @@
 | 541 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
 | 542 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
 | 543 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
-| 544 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
+| 544 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.60 | 
 | 545 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 546 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.80 | 
+| 546 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.77 | 
 | 547 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
 | 548 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 549 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
@@ -582,7 +582,7 @@
 | 580 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 581 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 582 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
-| 583 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 583 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 584 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.35 | 
 | 585 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.44 | 
 | 586 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.72 | 
@@ -769,7 +769,7 @@
 | 767 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
 | 768 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
 | 769 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 
-| 770 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 
+| 770 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
 | 771 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 772 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.13 | 
 | 773 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
