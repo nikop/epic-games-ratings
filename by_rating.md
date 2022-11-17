@@ -773,8 +773,8 @@
 | 771 | [Lake](games/l/lake.md) | 4.04 | 
 | 772 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.03 | 
 | 773 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.02 | 
-| 774 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
-| 775 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 
+| 774 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.02 | 
+| 775 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
 | 776 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 777 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 778 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
