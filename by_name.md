@@ -47,7 +47,7 @@
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.49 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
@@ -99,7 +99,7 @@
 | 97 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 98 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.27 | 
 | 99 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 100 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.06 | 
+| 100 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.07 | 
 | 101 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 102 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
 | 103 | [Card Shark](games/c/card_shark.md) | 4.61 | 
@@ -513,7 +513,7 @@
 | 511 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 512 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 513 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
-| 514 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 514 | [Riverbond](games/r/riverbond.md) | 4.47 | 
 | 515 | [Road 96](games/r/road_96.md) | 4.58 | 
 | 516 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 517 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
@@ -533,7 +533,7 @@
 | 531 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 532 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
 | 533 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 534 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 534 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
 | 535 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.59 | 
 | 536 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 537 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
@@ -691,7 +691,7 @@
 | 689 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 690 | [The Witness](games/t/the_witness.md) | 4.70 | 
 | 691 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 692 | [The World Next Door](games/t/the_world_next_door.md) | 4.09 | 
+| 692 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
 | 693 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 694 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 695 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
