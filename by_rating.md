@@ -290,23 +290,23 @@
 | 288 | [Limbo](games/l/limbo.md) | 4.63 | 
 | 289 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 290 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
-| 291 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.63 | 
-| 292 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
-| 293 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.63 | 
-| 294 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 295 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.63 | 
-| 296 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
-| 297 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
-| 298 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 299 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 300 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
-| 301 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 302 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 303 | [20XX](games/2/20xx.md) | 4.62 | 
-| 304 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
-| 305 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
-| 306 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 307 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
+| 291 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
+| 292 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.63 | 
+| 293 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 294 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.63 | 
+| 295 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
+| 296 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
+| 297 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 298 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 299 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
+| 300 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 301 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 302 | [20XX](games/2/20xx.md) | 4.62 | 
+| 303 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
+| 304 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 305 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 306 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
+| 307 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
 | 308 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.62 | 
 | 309 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
 | 310 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.62 | 
