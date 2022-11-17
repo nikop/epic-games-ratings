@@ -385,7 +385,7 @@
 | 383 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 384 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 385 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
-| 386 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 386 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 387 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 388 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 389 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
@@ -601,7 +601,7 @@
 | 599 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 600 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 601 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 602 | [STG Football](games/s/stg_football.md) | 4.61 | 
+| 602 | [STG Football](games/s/stg_football.md) | 4.59 | 
 | 603 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
 | 604 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
 | 605 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
