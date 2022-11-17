@@ -50,7 +50,7 @@
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.49 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
-| 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
+| 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.49 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
@@ -176,7 +176,7 @@
 | 174 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 175 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 176 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.59 | 
-| 177 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.64 | 
+| 177 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 178 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 179 | [Diabotical](games/d/diabotical.md) | 4.76 | 
 | 180 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
@@ -184,7 +184,7 @@
 | 182 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 183 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 184 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 185 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
+| 185 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 186 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
 | 187 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 188 | [DOOM 3](games/d/doom_3.md) | 4.64 | 
@@ -539,7 +539,7 @@
 | 537 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.59 | 
 | 538 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 539 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 540 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 
+| 540 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 541 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 542 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 543 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
@@ -575,7 +575,7 @@
 | 573 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 574 | [SOMA](games/s/soma.md) | 4.65 | 
 | 575 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 576 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
+| 576 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
 | 577 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 578 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 579 | [Souldiers](games/s/souldiers.md) | 4.55 | 
@@ -674,7 +674,7 @@
 | 672 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
 | 673 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 674 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
-| 675 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.28 | 
+| 675 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.27 | 
 | 676 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 677 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 
 | 678 | [The Surge](games/t/the_surge.md) | 4.50 | 
@@ -694,7 +694,7 @@
 | 692 | [The Witness](games/t/the_witness.md) | 4.70 | 
 | 693 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 694 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
-| 695 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 695 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
 | 696 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 697 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 698 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
