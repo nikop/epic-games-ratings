@@ -290,7 +290,7 @@
 | 288 | [Haven](games/h/haven.md) | 4.76 | 
 | 289 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 290 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.66 | 
-| 291 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 291 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 292 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
 | 293 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
 | 294 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
@@ -487,7 +487,7 @@
 | 485 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.41 | 
 | 486 | [Quake](games/q/quake.md) | 4.81 | 
 | 487 | [Rage 2](games/r/rage_2.md) | 4.29 | 
-| 488 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 488 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 489 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 490 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 491 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
