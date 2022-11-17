@@ -52,7 +52,7 @@
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.48 | 
+| 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.49 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
 | 55 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 56 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
@@ -200,7 +200,7 @@
 | 198 | [ELEX](games/e/elex.md) | 4.39 | 
 | 199 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
 | 200 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 201 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
+| 201 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 202 | [Encased](games/e/encased.md) | 4.38 | 
 | 203 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 204 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
@@ -449,7 +449,7 @@
 | 447 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.66 | 
 | 448 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 449 | [Outlast](games/o/outlast.md) | 4.74 | 
-| 450 | [Outlast 2](games/o/outlast_2.md) | 4.74 | 
+| 450 | [Outlast 2](games/o/outlast_2.md) | 4.73 | 
 | 451 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 452 | [Outward](games/o/outward.md) | 4.55 | 
 | 453 | [Overcooked](games/o/overcooked.md) | 4.67 | 
@@ -497,7 +497,7 @@
 | 495 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 496 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 497 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 498 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
+| 498 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 499 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 500 | [Redout 2](games/r/redout_2.md) | 4.54 | 
 | 501 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
@@ -561,7 +561,7 @@
 | 559 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 560 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 561 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 562 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
+| 562 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 
 | 563 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 564 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
 | 565 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
@@ -590,11 +590,11 @@
 | 588 | [SpiderHeck](games/s/spiderheck.md) | 4.73 | 
 | 589 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 590 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 591 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
+| 591 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 
 | 592 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.52 | 
 | 593 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
 | 594 | [Star Renegades](games/s/star_renegades.md) | 4.38 | 
-| 595 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
+| 595 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 596 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 597 | [Starsand](games/s/starsand.md) | 4.30 | 
 | 598 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
@@ -707,7 +707,7 @@
 | 705 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 706 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.33 | 
 | 707 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 708 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.54 | 
+| 708 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 709 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 710 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 711 | [Torchlight](games/t/torchlight.md) | 4.36 | 

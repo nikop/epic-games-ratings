@@ -1,5 +1,5 @@
 # Asterigos: Curse of the Stars
-Rating: 4.48 (-)  (as of 23.09.2022)  
+Rating: 4.49 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -17,3 +17,4 @@ Rating: 4.48 (-)  (as of 23.09.2022)
 | 2022-11-11 | 4.53 | - |
 | 2022-11-13 | 4.46 | - |
 | 2022-11-15 | 4.48 | - |
+| 2022-11-17 | 4.49 | - |
