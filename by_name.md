@@ -32,7 +32,7 @@
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.50 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 
-| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.38 | 
+| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.39 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.66 | 
@@ -169,7 +169,7 @@
 | 167 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.44 | 
 | 168 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 169 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 
-| 170 | [Democracy 4](games/d/democracy_4.md) | 4.33 | 
+| 170 | [Democracy 4](games/d/democracy_4.md) | 4.34 | 
 | 171 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 172 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 
 | 173 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
@@ -268,7 +268,7 @@
 | 266 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 267 | [GNOG](games/g/gnog.md) | 4.70 | 
 | 268 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.82 | 
-| 269 | [God of War](games/g/god_of_war.md) | 4.89 | 
+| 269 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 270 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 271 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 272 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
@@ -354,7 +354,7 @@
 | 352 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 353 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 354 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
-| 355 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
+| 355 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 356 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 357 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.44 | 
 | 358 | [Lake](games/l/lake.md) | 4.04 | 
@@ -725,7 +725,7 @@
 | 723 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 724 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.02 | 
 | 725 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 726 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
+| 726 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 727 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 728 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 729 | [Transistor](games/t/transistor.md) | 4.62 | 
@@ -744,7 +744,7 @@
 | 742 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 743 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
 | 744 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.39 | 
-| 745 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
+| 745 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
 | 746 | [UnMetal](games/u/unmetal.md) | 4.50 | 
 | 747 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.50 | 
 | 748 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
