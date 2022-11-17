@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.21 | 
-| 2 | [20XX](games/2/20xx.md) | 4.62 | 
+| 2 | [20XX](games/2/20xx.md) | 4.61 | 
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.36 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
@@ -50,7 +50,7 @@
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.49 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
-| 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
+| 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.58 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.48 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
@@ -123,7 +123,7 @@
 | 121 | [Conarium](games/c/conarium.md) | 3.90 | 
 | 122 | [Control](games/c/control.md) | 4.60 | 
 | 123 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
-| 124 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 124 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
 | 125 | [Core](games/c/core.md) | 4.38 | 
 | 126 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 127 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
@@ -448,7 +448,7 @@
 | 446 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 447 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.66 | 
 | 448 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 449 | [Outlast](games/o/outlast.md) | 4.73 | 
+| 449 | [Outlast](games/o/outlast.md) | 4.74 | 
 | 450 | [Outlast 2](games/o/outlast_2.md) | 4.74 | 
 | 451 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 452 | [Outward](games/o/outward.md) | 4.55 | 
@@ -549,7 +549,7 @@
 | 547 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.77 | 
 | 548 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
 | 549 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
-| 550 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
+| 550 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 551 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 552 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
 | 553 | [shapez](games/s/shapez.md) | 4.71 | 
@@ -693,7 +693,7 @@
 | 691 | [The Witness](games/t/the_witness.md) | 4.70 | 
 | 692 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 693 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
-| 694 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 
+| 694 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 695 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 696 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 697 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 

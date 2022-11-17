@@ -1,10 +1,10 @@
 {
   "ID": "a8400ce7530e4479b32dcaf0e92fce57",
   "Name": "Shadowrun Returns",
-  "Rating": 4.42,
+  "Rating": 4.41,
   "NumberOfRatings": 324,
   "FirstSeen": "2022-07-22T20:28:49.5317648+00:00",
-  "LastChanged": "2022-11-15T11:57:38.4574169+00:00",
+  "LastChanged": "2022-11-17T13:22:34.7425006+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:49.531765+00:00",
@@ -445,12 +445,17 @@
       "Time": "2022-11-15T11:57:38.4574172+00:00",
       "Rating": 4.42,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T13:22:34.7425008+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 58
+      "Count": 61
     }
   ]
 }

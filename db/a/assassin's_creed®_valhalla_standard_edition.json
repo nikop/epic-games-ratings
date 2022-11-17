@@ -1,10 +1,10 @@
 {
   "ID": "400347196e674de89c23cc2a7f2121db",
   "Name": "Assassin\u0027s Creed\u00AE Valhalla Standard Edition",
-  "Rating": 4.59,
+  "Rating": 4.58,
   "NumberOfRatings": 12317,
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2022-11-15T21:57:26.3039809+00:00",
+  "LastChanged": "2022-11-17T13:21:54.8618774+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:17.7160411+00:00",
@@ -3099,6 +3099,11 @@
     {
       "Time": "2022-11-15T21:57:26.3039811+00:00",
       "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T13:21:54.8618775+00:00",
+      "Rating": 4.58,
       "NumberOfRatings": null
     }
   ],
