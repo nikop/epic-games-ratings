@@ -77,7 +77,7 @@
 | 75 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.66 | 
 | 76 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.76 | 
 | 77 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
-| 78 | [Beholder 3](games/b/beholder_3.md) | 4.41 | 
+| 78 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
 | 79 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
 | 80 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 81 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
@@ -151,7 +151,7 @@
 | 149 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 150 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
 | 151 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 152 | [Darksiders III](games/d/darksiders_iii.md) | 4.46 | 
+| 152 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
 | 153 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.58 | 
 | 154 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 155 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.43 | 
@@ -412,7 +412,7 @@
 | 410 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 411 | [MythForce](games/m/mythforce.md) | 4.50 | 
 | 412 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 413 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 413 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 414 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
 | 415 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
 | 416 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
@@ -633,7 +633,7 @@
 | 631 | [Tacoma](games/t/tacoma.md) | 4.36 | 
 | 632 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
 | 633 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
-| 634 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.52 | 
+| 634 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
 | 635 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 636 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 637 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
@@ -701,7 +701,7 @@
 | 699 | [Timberborn](games/t/timberborn.md) | 4.70 | 
 | 700 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.44 | 
 | 701 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 702 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
+| 702 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
 | 703 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.28 | 
 | 704 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 705 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.33 | 
