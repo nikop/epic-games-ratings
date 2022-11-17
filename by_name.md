@@ -11,7 +11,7 @@
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.61 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
-| 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.52 | 
+| 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
@@ -76,7 +76,7 @@
 | 74 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 75 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.66 | 
 | 76 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.76 | 
-| 77 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
+| 77 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
 | 78 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
 | 79 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
 | 80 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
@@ -84,7 +84,7 @@
 | 82 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 83 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
 | 84 | [Black Book](games/b/black_book.md) | 4.88 | 
-| 85 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.29 | 
+| 85 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.24 | 
 | 86 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 87 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 88 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
@@ -245,7 +245,7 @@
 | 243 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 244 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 245 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 246 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
+| 246 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
 | 247 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 248 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 249 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -336,7 +336,7 @@
 | 334 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 335 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 336 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
-| 337 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 337 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 338 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 339 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.50 | 
 | 340 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
@@ -351,7 +351,7 @@
 | 349 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.71 | 
 | 350 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 351 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
-| 352 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 352 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 353 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 354 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
 | 355 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.51 | 
@@ -473,7 +473,7 @@
 | 471 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 472 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 473 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
-| 474 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
+| 474 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
 | 475 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 476 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 477 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
@@ -486,7 +486,7 @@
 | 484 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 485 | [Prey](games/p/prey.md) | 4.61 | 
 | 486 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 487 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.41 | 
+| 487 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 488 | [Quake](games/q/quake.md) | 4.81 | 
 | 489 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 490 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
@@ -651,7 +651,7 @@
 | 649 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 650 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 651 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
-| 652 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.85 | 
+| 652 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
 | 653 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 654 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
 | 655 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
@@ -705,7 +705,7 @@
 | 703 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.44 | 
 | 704 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 705 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
-| 706 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.28 | 
+| 706 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.30 | 
 | 707 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 708 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.33 | 
 | 709 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 

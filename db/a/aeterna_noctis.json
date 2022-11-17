@@ -1,11 +1,11 @@
 {
   "ID": "4b9bd8b8a4804e088d3412062a4f0251",
   "Name": "Aeterna Noctis",
-  "Rating": 4.52,
+  "Rating": 4.53,
   "NumberOfRatings": 21,
   "FirstSeen": "2022-07-22T20:17:49.6622036+00:00",
   "FirstSeenRating": "2022-09-14T16:00:55.3418121+00:00",
-  "LastChanged": "2022-11-11T20:57:11.5237387+00:00",
+  "LastChanged": "2022-11-17T21:56:59.1798713+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-14T16:00:55.3418126+00:00",
@@ -40,6 +40,11 @@
     {
       "Time": "2022-11-11T20:57:11.5237391+00:00",
       "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T21:56:59.1798716+00:00",
+      "Rating": 4.53,
       "NumberOfRatings": null
     }
   ],
