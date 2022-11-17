@@ -414,7 +414,7 @@
 | 412 | [MythForce](games/m/mythforce.md) | 4.50 | 
 | 413 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 414 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 415 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
+| 415 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 416 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
 | 417 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
 | 418 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
@@ -680,7 +680,7 @@
 | 678 | [The Surge 2](games/t/the_surge_2.md) | 4.14 | 
 | 679 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 680 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 681 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 681 | [The Tenants](games/t/the_tenants.md) | 4.52 | 
 | 682 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
 | 683 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
 | 684 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 

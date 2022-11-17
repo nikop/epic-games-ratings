@@ -444,21 +444,21 @@
 | 442 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.53 | 
 | 443 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
 | 444 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 445 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 446 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
-| 447 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
-| 448 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
-| 449 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.53 | 
-| 450 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 451 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
-| 452 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
-| 453 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 454 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 455 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 456 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
-| 457 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 458 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
-| 459 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
+| 445 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
+| 446 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
+| 447 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
+| 448 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.53 | 
+| 449 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 450 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
+| 451 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 452 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 453 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 454 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 455 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
+| 456 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
+| 457 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
+| 458 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
+| 459 | [The Tenants](games/t/the_tenants.md) | 4.52 | 
 | 460 | [Aztez](games/a/aztez.md) | 4.52 | 
 | 461 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 462 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
@@ -759,9 +759,9 @@
 | 757 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 758 | [Submerged](games/s/submerged.md) | 4.10 | 
 | 759 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 760 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.09 | 
-| 761 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 762 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
+| 760 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
+| 761 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.09 | 
+| 762 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 763 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
 | 764 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.07 | 
 | 765 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
