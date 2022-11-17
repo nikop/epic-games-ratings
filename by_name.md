@@ -19,7 +19,7 @@
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.13 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.02 | 
+| 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.01 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 
@@ -227,7 +227,7 @@
 | 225 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
 | 226 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.68 | 
 | 227 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
-| 228 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.76 | 
+| 228 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
 | 229 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.76 | 
 | 230 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.11 | 
 | 231 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
@@ -433,7 +433,7 @@
 | 431 | [Northgard](games/n/northgard.md) | 4.73 | 
 | 432 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
 | 433 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
-| 434 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
+| 434 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
 | 435 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 436 | [Observation](games/o/observation.md) | 4.52 | 
 | 437 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
@@ -450,7 +450,7 @@
 | 448 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 449 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.66 | 
 | 450 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 451 | [Outlast](games/o/outlast.md) | 4.74 | 
+| 451 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 452 | [Outlast 2](games/o/outlast_2.md) | 4.73 | 
 | 453 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 454 | [Outward](games/o/outward.md) | 4.55 | 
