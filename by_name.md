@@ -361,7 +361,7 @@
 | 359 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 360 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
 | 361 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
-| 362 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 362 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 363 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 364 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 365 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
@@ -486,7 +486,7 @@
 | 484 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 485 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.41 | 
 | 486 | [Quake](games/q/quake.md) | 4.81 | 
-| 487 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 487 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 488 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 489 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 490 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 

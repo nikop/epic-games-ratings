@@ -677,12 +677,12 @@
 | 675 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.30 | 
 | 676 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.30 | 
 | 677 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
-| 678 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 679 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
-| 680 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 681 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.29 | 
-| 682 | [Filament](games/f/filament.md) | 4.29 | 
-| 683 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 678 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 679 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
+| 680 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 681 | [Ashen](games/a/ashen.md) | 4.29 | 
+| 682 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.29 | 
+| 683 | [Filament](games/f/filament.md) | 4.29 | 
 | 684 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
 | 685 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.28 | 
 | 686 | [Steelrising](games/s/steelrising.md) | 4.28 | 
@@ -706,11 +706,11 @@
 | 704 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 705 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 706 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
-| 707 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 708 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
-| 709 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 710 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 711 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 707 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
+| 708 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 709 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
+| 710 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
+| 711 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 712 | [Tharsis](games/t/tharsis.md) | 4.22 | 
 | 713 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
 | 714 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.22 | 
