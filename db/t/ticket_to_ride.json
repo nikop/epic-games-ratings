@@ -1,10 +1,10 @@
 {
   "ID": "b4d9169e1b8548f2babec33107253309",
   "Name": "Ticket to Ride",
-  "Rating": 4.59,
+  "Rating": 4.58,
   "NumberOfRatings": 167,
   "FirstSeen": "2022-07-22T20:20:53.9949813+00:00",
-  "LastChanged": "2022-11-10T05:57:05.7298081+00:00",
+  "LastChanged": "2022-11-17T17:57:32.2208504+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:53.9949816+00:00",
@@ -380,6 +380,11 @@
       "Time": "2022-11-10T05:57:05.7298085+00:00",
       "Rating": 4.59,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T17:57:32.2208511+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -397,7 +402,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game is Extremely Fun",

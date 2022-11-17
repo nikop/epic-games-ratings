@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
-| 2 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
+| 2 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
 | 3 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.36 | 
 | 4 | [WRC Generations](games/w/wrc_generations.md) | 4.64 | 
 | 5 | [shapez](games/s/shapez.md) | 4.71 | 
@@ -17,4 +17,3 @@
 | 15 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 16 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 17 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
-| 18 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 

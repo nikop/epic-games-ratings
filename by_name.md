@@ -2,7 +2,7 @@
 | --- | ---- | ------ | 
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.21 | 
 | 2 | [20XX](games/2/20xx.md) | 4.61 | 
-| 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.36 | 
+| 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.37 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
@@ -22,7 +22,7 @@
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.02 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
+| 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 
 | 24 | [Among Trees](games/a/among_trees.md) | 4.37 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
@@ -53,7 +53,7 @@
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.49 | 
-| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.34 | 
+| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
 | 55 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 56 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 57 | [Automachef](games/a/automachef.md) | 4.32 | 
@@ -230,7 +230,7 @@
 | 228 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.76 | 
 | 229 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.76 | 
 | 230 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.11 | 
-| 231 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 231 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 232 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 233 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 234 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
@@ -245,7 +245,7 @@
 | 243 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 244 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 245 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 246 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
+| 246 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
 | 247 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 248 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 249 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -268,8 +268,8 @@
 | 266 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 267 | [GNOG](games/g/gnog.md) | 4.70 | 
 | 268 | [God of War](games/g/god_of_war.md) | 4.89 | 
-| 269 | [God's Trigger](games/g/god's_trigger.md) | 4.09 | 
-| 270 | [Godfall](games/g/godfall.md) | 4.05 | 
+| 269 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
+| 270 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 271 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
 | 272 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
 | 273 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
@@ -368,7 +368,7 @@
 | 366 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 367 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
 | 368 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
-| 369 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
+| 369 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 370 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 371 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.03 | 
 | 372 | [Limbo](games/l/limbo.md) | 4.63 | 
@@ -434,7 +434,7 @@
 | 432 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 433 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 434 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 435 | [Observation](games/o/observation.md) | 4.50 | 
+| 435 | [Observation](games/o/observation.md) | 4.52 | 
 | 436 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
 | 437 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
 | 438 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.74 | 
@@ -475,8 +475,8 @@
 | 473 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 474 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 475 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 476 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 477 | [Pinball FX](games/p/pinball_fx.md) | 3.99 | 
+| 476 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 477 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 478 | [Pine](games/p/pine.md) | 4.13 | 
 | 479 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
 | 480 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
@@ -555,7 +555,7 @@
 | 553 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
 | 554 | [shapez](games/s/shapez.md) | 4.71 | 
 | 555 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 556 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.15 | 
+| 556 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.16 | 
 | 557 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
 | 558 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
 | 559 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.38 | 
@@ -605,7 +605,7 @@
 | 603 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 604 | [STG Football](games/s/stg_football.md) | 4.59 | 
 | 605 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
-| 606 | [Stories Untold](games/s/stories_untold.md) | 4.47 | 
+| 606 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 607 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 608 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 609 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.70 | 
@@ -699,7 +699,7 @@
 | 697 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 698 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 699 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
-| 700 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
+| 700 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 701 | [Timberborn](games/t/timberborn.md) | 4.70 | 
 | 702 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.44 | 
 | 703 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
