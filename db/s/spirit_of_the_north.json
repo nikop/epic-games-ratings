@@ -1,11 +1,11 @@
 {
   "ID": "6098a8c7375c43458a22163a637c0c2f",
   "Name": "Spirit of the North",
-  "Rating": 4.35,
+  "Rating": 4.36,
   "NumberOfRatings": 1175,
   "FirstSeen": "2022-07-22T20:24:16.4673584+00:00",
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
-  "LastChanged": "2022-11-17T15:57:47.2377996+00:00",
+  "LastChanged": "2022-11-17T19:57:58.1206465+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-16T15:31:24.9636046+00:00",
@@ -270,6 +270,11 @@
     {
       "Time": "2022-11-17T15:57:47.2377997+00:00",
       "Rating": 4.35,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T19:57:58.1206469+00:00",
+      "Rating": 4.36,
       "NumberOfRatings": null
     }
   ],

@@ -5,7 +5,7 @@
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.37 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
@@ -16,7 +16,7 @@
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
-| 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.14 | 
+| 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.13 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.02 | 
@@ -85,7 +85,7 @@
 | 83 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
 | 84 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 85 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.29 | 
-| 86 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
+| 86 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 87 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 88 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 89 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.38 | 
@@ -260,7 +260,7 @@
 | 258 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 259 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
 | 260 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
-| 261 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 
+| 261 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
 | 262 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 
 | 263 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
 | 264 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -590,7 +590,7 @@
 | 588 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.72 | 
 | 589 | [SpiderHeck](games/s/spiderheck.md) | 4.73 | 
 | 590 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 591 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.35 | 
+| 591 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 592 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 
 | 593 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.52 | 
 | 594 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
@@ -650,13 +650,13 @@
 | 648 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 649 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 650 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
-| 651 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
+| 651 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.85 | 
 | 652 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 653 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
 | 654 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 655 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 656 | [The Fall](games/t/the_fall.md) | 4.28 | 
-| 657 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 
+| 657 | [The First Tree](games/t/the_first_tree.md) | 4.06 | 
 | 658 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.73 | 
 | 659 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
 | 660 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.95 | 
@@ -666,10 +666,10 @@
 | 664 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.47 | 
 | 665 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
 | 666 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.72 | 
-| 667 | [The Lion's Song](games/t/the_lion's_song.md) | 4.44 | 
+| 667 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 
 | 668 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 669 | [The Medium](games/t/the_medium.md) | 4.56 | 
-| 670 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
+| 670 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 671 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 672 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
 | 673 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 

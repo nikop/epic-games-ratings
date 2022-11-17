@@ -1,10 +1,10 @@
 {
   "ID": "64ae027afbd145d9b6e62bd96967fe66",
   "Name": "A Plague Tale: Requiem",
-  "Rating": 4.74,
+  "Rating": 4.73,
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
-  "LastChanged": "2022-11-12T09:57:17.504838+00:00",
+  "LastChanged": "2022-11-17T19:57:42.1727715+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-19T08:31:07.2693345+00:00",
@@ -140,12 +140,17 @@
       "Time": "2022-11-12T09:57:17.5048382+00:00",
       "Rating": 4.74,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T19:57:42.1727717+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 279
+      "Count": 283
     }
   ]
 }
