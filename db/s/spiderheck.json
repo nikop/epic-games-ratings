@@ -1,10 +1,10 @@
 {
   "ID": "e22c6cc3c9ec427a9fa3483b021be55f",
   "Name": "SpiderHeck",
-  "Rating": 4.71,
+  "Rating": 4.73,
   "FirstSeen": "2022-09-24T13:08:00.324402+00:00",
   "FirstSeenRating": "2022-10-29T16:32:51.4515319+00:00",
-  "LastChanged": "2022-11-16T07:58:59.6199554+00:00",
+  "LastChanged": "2022-11-17T07:58:01.6742072+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-29T16:32:51.4515323+00:00",
@@ -39,6 +39,11 @@
     {
       "Time": "2022-11-16T07:58:59.6199557+00:00",
       "Rating": 4.71,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T07:58:01.6742074+00:00",
+      "Rating": 4.73,
       "NumberOfRatings": null
     }
   ],

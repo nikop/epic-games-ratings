@@ -174,7 +174,7 @@
 | 172 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 173 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 174 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 175 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
+| 175 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.59 | 
 | 176 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.64 | 
 | 177 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 178 | [Diabotical](games/d/diabotical.md) | 4.76 | 
@@ -454,7 +454,7 @@
 | 452 | [Outward](games/o/outward.md) | 4.55 | 
 | 453 | [Overcooked](games/o/overcooked.md) | 4.67 | 
 | 454 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 455 | [OVERPASS™](games/o/overpass™.md) | 4.29 | 
+| 455 | [OVERPASS™](games/o/overpass™.md) | 4.32 | 
 | 456 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
 | 457 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
 | 458 | [Paladins](games/p/paladins.md) | 4.36 | 
@@ -543,7 +543,7 @@
 | 541 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 542 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
 | 543 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
-| 544 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
+| 544 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 545 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.60 | 
 | 546 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 547 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.77 | 
@@ -587,7 +587,7 @@
 | 585 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.35 | 
 | 586 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.44 | 
 | 587 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.72 | 
-| 588 | [SpiderHeck](games/s/spiderheck.md) | 4.71 | 
+| 588 | [SpiderHeck](games/s/spiderheck.md) | 4.73 | 
 | 589 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 590 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 591 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
@@ -671,7 +671,7 @@
 | 669 | [The Messenger](games/t/the_messenger.md) | 4.78 | 
 | 670 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 671 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
-| 672 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 672 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 673 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 674 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.28 | 
 | 675 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
@@ -772,7 +772,7 @@
 | 770 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 
 | 771 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
 | 772 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 773 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.13 | 
+| 773 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.09 | 
 | 774 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 775 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.75 | 
 | 776 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
