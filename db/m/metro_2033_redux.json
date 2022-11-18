@@ -1,10 +1,10 @@
 {
   "ID": "petunia",
   "Name": "Metro 2033 Redux",
-  "Rating": 4.69,
+  "Rating": 4.7,
   "NumberOfRatings": 5684,
   "FirstSeen": "2022-07-22T20:19:16.3934902+00:00",
-  "LastChanged": "2022-11-17T15:57:25.4184404+00:00",
+  "LastChanged": "2022-11-18T13:21:33.9642894+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:16.3934904+00:00",
@@ -735,6 +735,11 @@
       "Time": "2022-11-17T15:57:25.4184405+00:00",
       "Rating": 4.69,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T13:21:33.9642895+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -748,6 +753,10 @@
     },
     {
       "Text": "This game has Amazing Characters",
+      "Count": 20
+    },
+    {
+      "Text": "This game is Extremely Fun",
       "Count": 20
     }
   ]

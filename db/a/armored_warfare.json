@@ -1,10 +1,10 @@
 {
   "ID": "870929e8b7fb4e2b986c1a3f0a6ff38d",
   "Name": "Armored Warfare",
-  "Rating": 4.11,
+  "Rating": 4.1,
   "NumberOfRatings": 458,
   "FirstSeen": "2022-07-22T20:16:52.6557809+00:00",
-  "LastChanged": "2022-11-17T06:56:46.234453+00:00",
+  "LastChanged": "2022-11-18T13:21:20.0598256+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:52.6557814+00:00",
@@ -710,6 +710,11 @@
       "Time": "2022-11-17T06:56:46.2344531+00:00",
       "Rating": 4.11,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T13:21:20.0598258+00:00",
+      "Rating": 4.1,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -743,7 +748,7 @@
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has a Competitive Community",
