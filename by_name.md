@@ -106,7 +106,7 @@
 | 104 | [CARRION](games/c/carrion.md) | 4.67 | 
 | 105 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 106 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
-| 107 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 107 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
 | 108 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 109 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
 | 110 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
@@ -245,7 +245,7 @@
 | 243 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 244 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 245 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 246 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
+| 246 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
 | 247 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 248 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 249 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -267,7 +267,7 @@
 | 265 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 266 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 267 | [GNOG](games/g/gnog.md) | 4.70 | 
-| 268 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
+| 268 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 269 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 270 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 271 | [Godfall](games/g/godfall.md) | 4.06 | 
@@ -452,7 +452,7 @@
 | 450 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 451 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 452 | [Outlast 2](games/o/outlast_2.md) | 4.73 | 
-| 453 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 453 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 454 | [Outward](games/o/outward.md) | 4.55 | 
 | 455 | [Overcooked](games/o/overcooked.md) | 4.67 | 
 | 456 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
@@ -496,7 +496,7 @@
 | 494 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.47 | 
 | 495 | [Rayman Origins](games/r/rayman_origins.md) | 4.76 | 
 | 496 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
-| 497 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
+| 497 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 498 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 499 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 500 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
@@ -562,7 +562,7 @@
 | 560 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.38 | 
 | 561 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 562 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 563 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 563 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 564 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 
 | 565 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 566 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 

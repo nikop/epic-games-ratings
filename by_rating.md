@@ -27,11 +27,11 @@
 | 25 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 
 | 26 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 27 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
-| 28 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
-| 29 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
-| 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 31 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 32 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
+| 28 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
+| 29 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 30 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 31 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.86 | 
+| 32 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 33 | [Mago](games/m/mago.md) | 4.86 | 
 | 34 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 35 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
@@ -66,13 +66,13 @@
 | 64 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 65 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
 | 66 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
-| 67 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 68 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 69 | [Quake](games/q/quake.md) | 4.81 | 
-| 70 | [Huntdown](games/h/huntdown.md) | 4.81 | 
-| 71 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
-| 72 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 73 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 67 | [Sifu](games/s/sifu.md) | 4.81 | 
+| 68 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 69 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 70 | [Quake](games/q/quake.md) | 4.81 | 
+| 71 | [Huntdown](games/h/huntdown.md) | 4.81 | 
+| 72 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
+| 73 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 74 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 75 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 76 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
@@ -109,19 +109,19 @@
 | 107 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 108 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 109 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 110 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 111 | [Journey](games/j/journey.md) | 4.76 | 
-| 112 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
-| 113 | [Haven](games/h/haven.md) | 4.76 | 
-| 114 | [Rayman Origins](games/r/rayman_origins.md) | 4.76 | 
-| 115 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.76 | 
-| 116 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
-| 117 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.76 | 
-| 118 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.76 | 
-| 119 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 120 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 121 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 110 | [Journey](games/j/journey.md) | 4.76 | 
+| 111 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
+| 112 | [Haven](games/h/haven.md) | 4.76 | 
+| 113 | [Rayman Origins](games/r/rayman_origins.md) | 4.76 | 
+| 114 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.76 | 
+| 115 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
+| 116 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.76 | 
+| 117 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.76 | 
+| 118 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 120 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 121 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 122 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
 | 123 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 124 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 125 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
@@ -165,19 +165,19 @@
 | 163 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
 | 164 | [FUSER™](games/f/fuser™.md) | 4.72 | 
 | 165 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.72 | 
-| 166 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
-| 167 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
-| 168 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 169 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 170 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
-| 171 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
-| 172 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
-| 173 | [Fez](games/f/fez.md) | 4.71 | 
-| 174 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.71 | 
-| 175 | [Townscaper](games/t/townscaper.md) | 4.71 | 
-| 176 | [Slipways](games/s/slipways.md) | 4.71 | 
-| 177 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 178 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
+| 166 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
+| 167 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 168 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 169 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
+| 170 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
+| 171 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
+| 172 | [Fez](games/f/fez.md) | 4.71 | 
+| 173 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.71 | 
+| 174 | [Townscaper](games/t/townscaper.md) | 4.71 | 
+| 175 | [Slipways](games/s/slipways.md) | 4.71 | 
+| 176 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 177 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
+| 178 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
 | 179 | [shapez](games/s/shapez.md) | 4.71 | 
 | 180 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 181 | [For The King](games/f/for_the_king.md) | 4.70 | 
@@ -567,18 +567,18 @@
 | 565 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.44 | 
 | 566 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.44 | 
 | 567 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 568 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
-| 569 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 570 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.43 | 
-| 571 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
-| 572 | [Good Company](games/g/good_company.md) | 4.43 | 
-| 573 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
-| 574 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
-| 575 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.43 | 
-| 576 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 577 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 578 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 579 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 568 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
+| 569 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
+| 570 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 571 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.43 | 
+| 572 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
+| 573 | [Good Company](games/g/good_company.md) | 4.43 | 
+| 574 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
+| 575 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
+| 576 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.43 | 
+| 577 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 578 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 579 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 580 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 581 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 582 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
@@ -671,15 +671,15 @@
 | 669 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 670 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
 | 671 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 672 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
-| 673 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
-| 674 | [House Party](games/h/house_party.md) | 4.30 | 
-| 675 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
-| 676 | [Starsand](games/s/starsand.md) | 4.30 | 
-| 677 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.30 | 
-| 678 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
-| 679 | [Rage 2](games/r/rage_2.md) | 4.29 | 
-| 680 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
+| 672 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
+| 673 | [House Party](games/h/house_party.md) | 4.30 | 
+| 674 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
+| 675 | [Starsand](games/s/starsand.md) | 4.30 | 
+| 676 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.30 | 
+| 677 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
+| 678 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 679 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
+| 680 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 681 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 
 | 682 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 683 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.29 | 
