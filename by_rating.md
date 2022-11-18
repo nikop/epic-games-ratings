@@ -441,20 +441,20 @@
 | 439 | [Redout 2](games/r/redout_2.md) | 4.54 | 
 | 440 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 441 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 442 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 443 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
-| 444 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.53 | 
-| 445 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
-| 446 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 447 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 448 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
-| 449 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
-| 450 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
-| 451 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.53 | 
-| 452 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 453 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 454 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
-| 455 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.52 | 
+| 442 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
+| 443 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 444 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
+| 445 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.53 | 
+| 446 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
+| 447 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 448 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 449 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
+| 450 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
+| 451 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
+| 452 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.53 | 
+| 453 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 454 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
+| 455 | [RAILGRADE](games/r/railgrade.md) | 4.53 | 
 | 456 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 457 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 458 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
@@ -638,16 +638,16 @@
 | 636 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 637 | [Torchlight](games/t/torchlight.md) | 4.36 | 
 | 638 | [Tacoma](games/t/tacoma.md) | 4.36 | 
-| 639 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
-| 640 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
-| 641 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 
-| 642 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 643 | [Backbone](games/b/backbone.md) | 4.36 | 
-| 644 | [Lamentum](games/l/lamentum.md) | 4.36 | 
-| 645 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.36 | 
-| 646 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
-| 647 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 
-| 648 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
+| 639 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
+| 640 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
+| 641 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
+| 642 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 
+| 643 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 644 | [Backbone](games/b/backbone.md) | 4.36 | 
+| 645 | [Lamentum](games/l/lamentum.md) | 4.36 | 
+| 646 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.36 | 
+| 647 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
+| 648 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 
 | 649 | [Othercide](games/o/othercide.md) | 4.35 | 
 | 650 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 
 | 651 | [Imagine Earth](games/i/imagine_earth.md) | 4.35 | 
