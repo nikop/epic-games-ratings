@@ -99,14 +99,14 @@
 | 97 | [Superliminal](games/s/superliminal.md) | 4.78 | 
 | 98 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 99 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
-| 100 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 101 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
-| 102 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 103 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 
-| 104 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.77 | 
-| 105 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
-| 106 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 107 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 100 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
+| 101 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 102 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
+| 103 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
+| 104 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 
+| 105 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.77 | 
+| 106 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
+| 107 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 108 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 109 | [Diabotical](games/d/diabotical.md) | 4.76 | 
 | 110 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
@@ -165,19 +165,19 @@
 | 163 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
 | 164 | [FUSER™](games/f/fuser™.md) | 4.72 | 
 | 165 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.72 | 
-| 166 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
-| 167 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 168 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 169 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
-| 170 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
-| 171 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
-| 172 | [Fez](games/f/fez.md) | 4.71 | 
-| 173 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.71 | 
-| 174 | [Townscaper](games/t/townscaper.md) | 4.71 | 
-| 175 | [Slipways](games/s/slipways.md) | 4.71 | 
-| 176 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 177 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
-| 178 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
+| 166 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
+| 167 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
+| 168 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 169 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 170 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
+| 171 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
+| 172 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
+| 173 | [Fez](games/f/fez.md) | 4.71 | 
+| 174 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.71 | 
+| 175 | [Townscaper](games/t/townscaper.md) | 4.71 | 
+| 176 | [Slipways](games/s/slipways.md) | 4.71 | 
+| 177 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 178 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 179 | [shapez](games/s/shapez.md) | 4.71 | 
 | 180 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 181 | [For The King](games/f/for_the_king.md) | 4.70 | 
@@ -346,19 +346,19 @@
 | 344 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
 | 345 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.60 | 
 | 346 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 347 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 348 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 349 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 350 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 351 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
-| 352 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 353 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
-| 354 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 355 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 356 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 357 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 358 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
-| 359 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.59 | 
+| 347 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
+| 348 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
+| 349 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
+| 350 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 351 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 352 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
+| 353 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 354 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
+| 355 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 356 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 357 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 358 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 359 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 360 | [RiME](games/r/rime.md) | 4.59 | 
 | 361 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 362 | [Dark Deception](games/d/dark_deception.md) | 4.59 | 
@@ -568,19 +568,19 @@
 | 566 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.44 | 
 | 567 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 568 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
-| 569 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.43 | 
-| 570 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
-| 571 | [Good Company](games/g/good_company.md) | 4.43 | 
-| 572 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
-| 573 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
-| 574 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.43 | 
-| 575 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 576 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 577 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 578 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 579 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 580 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 581 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
+| 569 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 570 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.43 | 
+| 571 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
+| 572 | [Good Company](games/g/good_company.md) | 4.43 | 
+| 573 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
+| 574 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
+| 575 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.43 | 
+| 576 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 577 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 578 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 579 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 580 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 581 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 582 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
 | 583 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 584 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 
@@ -760,9 +760,9 @@
 | 758 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.11 | 
 | 759 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 760 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
-| 761 | [Submerged](games/s/submerged.md) | 4.10 | 
-| 762 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
-| 763 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.09 | 
+| 761 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
+| 762 | [Submerged](games/s/submerged.md) | 4.10 | 
+| 763 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 764 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 765 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
 | 766 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.07 | 

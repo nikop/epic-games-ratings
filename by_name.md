@@ -90,7 +90,7 @@
 | 88 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 89 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.38 | 
 | 90 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.82 | 
-| 91 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 91 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 92 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 93 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 94 | [Breathedge](games/b/breathedge.md) | 4.59 | 
@@ -175,7 +175,7 @@
 | 173 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 174 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 175 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 176 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.59 | 
+| 176 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
 | 177 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 178 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 179 | [Diabotical](games/d/diabotical.md) | 4.76 | 
@@ -245,7 +245,7 @@
 | 243 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 244 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 245 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 246 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
+| 246 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
 | 247 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 248 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 249 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -558,7 +558,7 @@
 | 556 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 557 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.16 | 
 | 558 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
-| 559 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 
+| 559 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 560 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.38 | 
 | 561 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 562 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
@@ -774,7 +774,7 @@
 | 772 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 773 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
 | 774 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 775 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.09 | 
+| 775 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
 | 776 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 777 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.75 | 
 | 778 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
