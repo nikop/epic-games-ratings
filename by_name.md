@@ -49,7 +49,7 @@
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.49 | 
-| 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
+| 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.49 | 
@@ -268,7 +268,7 @@
 | 266 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 267 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 268 | [GNOG](games/g/gnog.md) | 4.70 | 
-| 269 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 
+| 269 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 270 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 271 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 272 | [Godfall](games/g/godfall.md) | 4.06 | 
@@ -477,7 +477,7 @@
 | 475 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
 | 476 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 477 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 478 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 478 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 479 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 480 | [Pine](games/p/pine.md) | 4.13 | 
 | 481 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.44 | 
@@ -489,7 +489,7 @@
 | 487 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 488 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 489 | [Quake](games/q/quake.md) | 4.81 | 
-| 490 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 490 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 491 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 492 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 493 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
@@ -765,7 +765,7 @@
 | 763 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 764 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 765 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
-| 766 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.41 | 
+| 766 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
 | 767 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
 | 768 | [Warpips](games/w/warpips.md) | 4.56 | 
 | 769 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
