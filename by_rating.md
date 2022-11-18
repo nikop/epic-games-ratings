@@ -528,14 +528,14 @@
 | 526 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
 | 527 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 528 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
-| 529 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 530 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 531 | [SMITE](games/s/smite.md) | 4.46 | 
-| 532 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 533 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 534 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
-| 535 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 
-| 536 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
+| 529 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 530 | [SMITE](games/s/smite.md) | 4.46 | 
+| 531 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 532 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 533 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
+| 534 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 
+| 535 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
+| 536 | [Scorn](games/s/scorn.md) | 4.46 | 
 | 537 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 538 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
 | 539 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
@@ -605,13 +605,13 @@
 | 603 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 604 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
 | 605 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 606 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 607 | [Hammerting](games/h/hammerting.md) | 4.40 | 
-| 608 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 609 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 610 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 611 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
-| 612 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.39 | 
+| 606 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.40 | 
+| 607 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 608 | [Hammerting](games/h/hammerting.md) | 4.40 | 
+| 609 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 610 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 611 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 612 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
 | 613 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 614 | [Encased](games/e/encased.md) | 4.39 | 
 | 615 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 

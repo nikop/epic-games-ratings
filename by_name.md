@@ -32,7 +32,7 @@
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.50 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 
-| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.39 | 
+| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.40 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.66 | 
@@ -543,7 +543,7 @@
 | 541 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 542 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 543 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 544 | [Scorn](games/s/scorn.md) | 4.47 | 
+| 544 | [Scorn](games/s/scorn.md) | 4.46 | 
 | 545 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
 | 546 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
 | 547 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
