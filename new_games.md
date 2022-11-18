@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.82 | 
+| 1 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.92 | 
 | 2 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
 | 3 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
 | 4 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.36 | 

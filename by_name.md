@@ -207,7 +207,7 @@
 | 205 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 206 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 207 | [Everything](games/e/everything.md) | 4.67 | 
-| 208 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.49 | 
+| 208 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.48 | 
 | 209 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 210 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.62 | 
 | 211 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
@@ -267,7 +267,7 @@
 | 265 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 266 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 267 | [GNOG](games/g/gnog.md) | 4.70 | 
-| 268 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.82 | 
+| 268 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.92 | 
 | 269 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 270 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 271 | [Godfall](games/g/godfall.md) | 4.06 | 
@@ -570,7 +570,7 @@
 | 568 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 569 | [Slipways](games/s/slipways.md) | 4.71 | 
 | 570 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 571 | [SMITE](games/s/smite.md) | 4.46 | 
+| 571 | [SMITE](games/s/smite.md) | 4.45 | 
 | 572 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 573 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
 | 574 | [Solitairica](games/s/solitairica.md) | 4.49 | 
@@ -658,7 +658,7 @@
 | 656 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 657 | [The Fall](games/t/the_fall.md) | 4.28 | 
 | 658 | [The First Tree](games/t/the_first_tree.md) | 4.06 | 
-| 659 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.73 | 
+| 659 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
 | 660 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
 | 661 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.95 | 
 | 662 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
@@ -752,7 +752,7 @@
 | 750 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 751 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.77 | 
 | 752 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 753 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
+| 753 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.18 | 
 | 754 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 755 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 756 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
