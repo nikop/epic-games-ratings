@@ -78,20 +78,20 @@
 | 76 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 77 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 78 | [Griftlands](games/g/griftlands.md) | 4.80 | 
-| 79 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
-| 80 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 81 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
-| 82 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.80 | 
-| 83 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 84 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 85 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 86 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 87 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
-| 88 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 89 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
-| 90 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 91 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 92 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 80 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
+| 81 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.80 | 
+| 82 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 83 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 84 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
+| 85 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 86 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
+| 87 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
+| 88 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
+| 89 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 90 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
+| 91 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 92 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 93 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 94 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 95 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
@@ -356,28 +356,28 @@
 | 354 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
 | 355 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 356 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 357 | [Moving Out](games/m/moving_out.md) | 4.59 | 
-| 358 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 359 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
-| 360 | [RiME](games/r/rime.md) | 4.59 | 
-| 361 | [Breathedge](games/b/breathedge.md) | 4.59 | 
-| 362 | [Dark Deception](games/d/dark_deception.md) | 4.59 | 
-| 363 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
-| 364 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
-| 365 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
-| 366 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 
-| 367 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.59 | 
-| 368 | [STG Football](games/s/stg_football.md) | 4.59 | 
-| 369 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 370 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 371 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 372 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 373 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 374 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
-| 375 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 376 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 377 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 378 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.58 | 
+| 357 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 358 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
+| 359 | [RiME](games/r/rime.md) | 4.59 | 
+| 360 | [Breathedge](games/b/breathedge.md) | 4.59 | 
+| 361 | [Dark Deception](games/d/dark_deception.md) | 4.59 | 
+| 362 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
+| 363 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 364 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
+| 365 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 
+| 366 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.59 | 
+| 367 | [STG Football](games/s/stg_football.md) | 4.59 | 
+| 368 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 369 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 370 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 371 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
+| 372 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 373 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
+| 374 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
+| 375 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
+| 376 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 377 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.58 | 
+| 378 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 379 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 380 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 381 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
@@ -414,19 +414,19 @@
 | 412 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 413 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
 | 414 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
-| 415 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 
-| 416 | [The Medium](games/t/the_medium.md) | 4.56 | 
-| 417 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 418 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 419 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 420 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 421 | [Hue](games/h/hue.md) | 4.55 | 
-| 422 | [Outward](games/o/outward.md) | 4.55 | 
-| 423 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 424 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 425 | [Warpips](games/w/warpips.md) | 4.55 | 
-| 426 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 427 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
+| 415 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
+| 416 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 
+| 417 | [The Medium](games/t/the_medium.md) | 4.56 | 
+| 418 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 419 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 420 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 421 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 422 | [Hue](games/h/hue.md) | 4.55 | 
+| 423 | [Outward](games/o/outward.md) | 4.55 | 
+| 424 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
+| 425 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 426 | [Warpips](games/w/warpips.md) | 4.55 | 
+| 427 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 428 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 429 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 430 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
@@ -664,10 +664,10 @@
 | 662 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 663 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.33 | 
 | 664 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
-| 665 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 666 | [Automachef](games/a/automachef.md) | 4.32 | 
-| 667 | [OVERPASS™](games/o/overpass™.md) | 4.32 | 
-| 668 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 665 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 666 | [OVERPASS™](games/o/overpass™.md) | 4.32 | 
+| 667 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 668 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 669 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 670 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
 | 671 | [Fortnite](games/f/fortnite.md) | 4.30 | 

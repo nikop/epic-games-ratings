@@ -259,7 +259,7 @@
 | 257 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 258 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 259 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 260 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
+| 260 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
 | 261 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
 | 262 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 
 | 263 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
@@ -405,7 +405,7 @@
 | 403 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 404 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 405 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 406 | [Moving Out](games/m/moving_out.md) | 4.59 | 
+| 406 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 407 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 408 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 409 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
@@ -652,7 +652,7 @@
 | 650 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 651 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 652 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
-| 653 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
+| 653 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 654 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
 | 655 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 656 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
@@ -753,7 +753,7 @@
 | 751 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.77 | 
 | 752 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 753 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.18 | 
-| 754 | [Vampyr](games/v/vampyr.md) | 4.32 | 
+| 754 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 755 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 756 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 757 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
