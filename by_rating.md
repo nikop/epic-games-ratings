@@ -4,30 +4,30 @@
 | 2 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.95 | 
 | 3 | [Hades](games/h/hades.md) | 4.92 | 
 | 4 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 5 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.92 | 
-| 6 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
-| 7 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
-| 8 | [God of War](games/g/god_of_war.md) | 4.90 | 
-| 9 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 10 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
-| 11 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
-| 12 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
-| 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 
-| 14 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
-| 15 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 16 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 17 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
-| 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
-| 19 | [Black Book](games/b/black_book.md) | 4.88 | 
-| 20 | [Art of Rally](games/a/art_of_rally_1.md) | 4.88 | 
-| 21 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
-| 22 | [Firework](games/f/firework.md) | 4.88 | 
-| 23 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 24 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 25 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 26 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 
-| 27 | [TUNIC](games/t/tunic.md) | 4.87 | 
-| 28 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
+| 5 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
+| 6 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
+| 7 | [God of War](games/g/god_of_war.md) | 4.90 | 
+| 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
+| 9 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
+| 10 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
+| 11 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
+| 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 
+| 13 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
+| 14 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
+| 15 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
+| 16 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
+| 17 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
+| 18 | [Black Book](games/b/black_book.md) | 4.88 | 
+| 19 | [Art of Rally](games/a/art_of_rally_1.md) | 4.88 | 
+| 20 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
+| 21 | [Firework](games/f/firework.md) | 4.88 | 
+| 22 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
+| 23 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 25 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 
+| 26 | [TUNIC](games/t/tunic.md) | 4.87 | 
+| 27 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
+| 28 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
 | 29 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 31 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 

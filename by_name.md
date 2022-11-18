@@ -267,7 +267,7 @@
 | 265 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 266 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 267 | [GNOG](games/g/gnog.md) | 4.70 | 
-| 268 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.92 | 
+| 268 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
 | 269 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 270 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 271 | [Godfall](games/g/godfall.md) | 4.06 | 
