@@ -16,7 +16,7 @@
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.13 | 
+| 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.01 | 
@@ -77,7 +77,7 @@
 | 75 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.66 | 
 | 77 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.76 | 
-| 78 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
+| 78 | [Before We Leave](games/b/before_we_leave.md) | 4.62 | 
 | 79 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
 | 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
 | 81 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
@@ -206,7 +206,7 @@
 | 204 | [Encased](games/e/encased.md) | 4.39 | 
 | 205 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 206 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 207 | [EVE Online](games/e/eve_online.md) | 4.26 | 
+| 207 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 208 | [Everything](games/e/everything.md) | 4.67 | 
 | 209 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.47 | 
 | 210 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
@@ -236,7 +236,7 @@
 | 234 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 235 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 236 | [Fez](games/f/fez.md) | 4.71 | 
-| 237 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
+| 237 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
 | 238 | [Figment](games/f/figment.md) | 4.44 | 
 | 239 | [Filament](games/f/filament.md) | 4.30 | 
 | 240 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
@@ -244,7 +244,7 @@
 | 242 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 
 | 243 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 244 | [Flatout](games/f/flatout.md) | 4.00 | 
-| 245 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
+| 245 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
 | 246 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 247 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
 | 248 | [For The King](games/f/for_the_king.md) | 4.70 | 
@@ -277,7 +277,7 @@
 | 275 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 276 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 277 | [Good Company](games/g/good_company.md) | 4.43 | 
-| 278 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 278 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
 | 279 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
 | 280 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 281 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
@@ -432,9 +432,9 @@
 | 430 | [No Straight Roads](games/n/no_straight_roads.md) | 4.70 | 
 | 431 | [NORCO](games/n/norco.md) | 4.57 | 
 | 432 | [Northgard](games/n/northgard.md) | 4.73 | 
-| 433 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
+| 433 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.82 | 
 | 434 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
-| 435 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
+| 435 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 436 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 437 | [Observation](games/o/observation.md) | 4.52 | 
 | 438 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
@@ -564,7 +564,7 @@
 | 562 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 563 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 564 | [Sifu](games/s/sifu.md) | 4.81 | 
-| 565 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 
+| 565 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
 | 566 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 567 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
 | 568 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
@@ -606,7 +606,7 @@
 | 604 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 605 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 606 | [STG Football](games/s/stg_football.md) | 4.59 | 
-| 607 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.56 | 
+| 607 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.54 | 
 | 608 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 609 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 610 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
@@ -699,7 +699,7 @@
 | 697 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 698 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 699 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
-| 700 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
+| 700 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 701 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 702 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 703 | [Timberborn](games/t/timberborn.md) | 4.70 | 
@@ -755,7 +755,7 @@
 | 753 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 754 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.18 | 
 | 755 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 756 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 756 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 757 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 758 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 759 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
@@ -767,7 +767,7 @@
 | 765 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
 | 766 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.41 | 
 | 767 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
-| 768 | [Warpips](games/w/warpips.md) | 4.55 | 
+| 768 | [Warpips](games/w/warpips.md) | 4.56 | 
 | 769 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 770 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 771 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
