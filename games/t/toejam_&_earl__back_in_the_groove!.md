@@ -1,5 +1,5 @@
 # ToeJam & Earl: Back in the Groove!
-Rating: 4.30 (-)  (as of 23.09.2022)  
+Rating: 4.29 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -26,3 +26,4 @@ Rating: 4.30 (-)  (as of 23.09.2022)
 | 2022-11-14 | 4.27 | - |
 | 2022-11-16 | 4.28 | - |
 | 2022-11-17 | 4.30 | - |
+| 2022-11-18 | 4.29 | - |

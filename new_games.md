@@ -6,7 +6,7 @@
 | 4 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.36 | 
 | 5 | [WRC Generations](games/w/wrc_generations.md) | 4.64 | 
 | 6 | [shapez](games/s/shapez.md) | 4.71 | 
-| 7 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.79 | 
+| 7 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.80 | 
 | 8 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 9 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 
 | 10 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.43 | 

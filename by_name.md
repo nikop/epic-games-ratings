@@ -55,7 +55,7 @@
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.49 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
 | 55 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
-| 56 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 56 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 57 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 58 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 59 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
@@ -90,11 +90,11 @@
 | 88 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 89 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.38 | 
 | 90 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.82 | 
-| 91 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
+| 91 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 92 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 93 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 94 | [Breathedge](games/b/breathedge.md) | 4.59 | 
-| 95 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
+| 95 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 96 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 97 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 98 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.27 | 
@@ -286,7 +286,7 @@
 | 284 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 285 | [Hades](games/h/hades.md) | 4.92 | 
 | 286 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.44 | 
-| 287 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 287 | [Hammerting](games/h/hammerting.md) | 4.40 | 
 | 288 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 289 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
 | 290 | [Haven](games/h/haven.md) | 4.76 | 
@@ -362,8 +362,8 @@
 | 360 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
 | 361 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 362 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
-| 363 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.44 | 
-| 364 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 363 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 364 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 365 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 366 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 367 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
@@ -464,7 +464,7 @@
 | 462 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 463 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.36 | 
 | 464 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 465 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 465 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
 | 466 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 467 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 468 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
@@ -496,7 +496,7 @@
 | 494 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.47 | 
 | 495 | [Rayman Origins](games/r/rayman_origins.md) | 4.76 | 
 | 496 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
-| 497 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 497 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 498 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 499 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 500 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
@@ -531,7 +531,7 @@
 | 529 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 530 | [Runbow](games/r/runbow.md) | 4.45 | 
 | 531 | [Sable](games/s/sable.md) | 4.57 | 
-| 532 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.79 | 
+| 532 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.80 | 
 | 533 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 534 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 535 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
@@ -548,7 +548,7 @@
 | 546 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 547 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.60 | 
 | 548 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 549 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.77 | 
+| 549 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
 | 550 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
 | 551 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 552 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
@@ -705,7 +705,7 @@
 | 703 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.44 | 
 | 704 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 705 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
-| 706 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.30 | 
+| 706 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.29 | 
 | 707 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 708 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.33 | 
 | 709 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
@@ -725,7 +725,7 @@
 | 723 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 724 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.02 | 
 | 725 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 726 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 726 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
 | 727 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 728 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 729 | [Transistor](games/t/transistor.md) | 4.62 | 
