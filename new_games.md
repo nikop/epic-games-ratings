@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
+| 1 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 
 | 2 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 3 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.43 | 
 | 4 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
@@ -13,7 +13,7 @@
 | 11 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.44 | 
 | 12 | [STG Football](games/s/stg_football.md) | 4.59 | 
 | 13 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.85 | 
-| 14 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
+| 14 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 15 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.11 | 
 | 16 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 17 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 

@@ -1,10 +1,10 @@
 {
   "ID": "54090fbc182e44d79b2872f24994c190",
   "Name": "Tom Clancy\u0027s Splinter Cell",
-  "Rating": 4.33,
+  "Rating": 4.25,
   "FirstSeen": "2022-07-22T20:23:41.3316811+00:00",
   "FirstSeenRating": "2022-10-05T15:02:18.5896958+00:00",
-  "LastChanged": "2022-11-16T17:57:15.7754894+00:00",
+  "LastChanged": "2022-11-18T17:58:02.5590254+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-05T15:02:18.5896963+00:00",
@@ -39,6 +39,11 @@
     {
       "Time": "2022-11-16T17:57:15.7754896+00:00",
       "Rating": 4.33,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T17:58:02.5590256+00:00",
+      "Rating": 4.25,
       "NumberOfRatings": null
     }
   ],

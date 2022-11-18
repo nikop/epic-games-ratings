@@ -356,6 +356,10 @@
     {
       "Text": "This game has Challenging Combat",
       "Count": 22
+    },
+    {
+      "Text": "This game is Educational",
+      "Count": 20
     }
   ]
 }

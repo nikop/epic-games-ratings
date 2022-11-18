@@ -1,10 +1,10 @@
 {
   "ID": "a83aedcdb7304b51802d41c5ca308ef2",
   "Name": "Farmer\u0027s Dynasty",
-  "Rating": 4.11,
+  "Rating": 4.12,
   "NumberOfRatings": 64,
   "FirstSeen": "2022-07-22T20:23:48.9867279+00:00",
-  "LastChanged": "2022-11-15T13:57:55.8113033+00:00",
+  "LastChanged": "2022-11-18T17:58:03.3642297+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:48.9867282+00:00",
@@ -214,6 +214,11 @@
     {
       "Time": "2022-11-15T13:57:55.8113036+00:00",
       "Rating": 4.11,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T17:58:03.3642299+00:00",
+      "Rating": 4.12,
       "NumberOfRatings": null
     }
   ],
