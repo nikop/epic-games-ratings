@@ -479,7 +479,7 @@
 | 477 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 478 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 479 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
-| 480 | [Pine](games/p/pine.md) | 4.13 | 
+| 480 | [Pine](games/p/pine.md) | 4.14 | 
 | 481 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.44 | 
 | 482 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
 | 483 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
@@ -499,7 +499,7 @@
 | 497 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
 | 498 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 499 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
-| 500 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
+| 500 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 
 | 501 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 502 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 503 | [Redout 2](games/r/redout_2.md) | 4.54 | 
@@ -605,7 +605,7 @@
 | 603 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 604 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 605 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 606 | [STG Football](games/s/stg_football.md) | 4.59 | 
+| 606 | [STG Football](games/s/stg_football.md) | 4.58 | 
 | 607 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.54 | 
 | 608 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 609 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
@@ -703,7 +703,7 @@
 | 701 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 702 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
 | 703 | [Timberborn](games/t/timberborn.md) | 4.70 | 
-| 704 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.44 | 
+| 704 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 705 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 706 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
 | 707 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.30 | 
@@ -747,7 +747,7 @@
 | 745 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.39 | 
 | 746 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
 | 747 | [UnMetal](games/u/unmetal.md) | 4.50 | 
-| 748 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.50 | 
+| 748 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.51 | 
 | 749 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 750 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 751 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
