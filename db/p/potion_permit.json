@@ -1,10 +1,10 @@
 {
   "ID": "c4395ba88061417a8ac6bd3fdc7fba79",
   "Name": "Potion Permit",
-  "Rating": 3.78,
+  "Rating": 3.76,
   "FirstSeen": "2022-09-23T04:00:21.3687329+00:00",
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
-  "LastChanged": "2022-11-13T18:57:07.9569333+00:00",
+  "LastChanged": "2022-11-18T18:56:52.9496835+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-26T13:31:30.2639771+00:00",
@@ -244,6 +244,11 @@
     {
       "Time": "2022-11-13T18:57:07.9569334+00:00",
       "Rating": 3.78,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T18:56:52.9496837+00:00",
+      "Rating": 3.76,
       "NumberOfRatings": null
     }
   ],

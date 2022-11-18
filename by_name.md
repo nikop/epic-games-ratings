@@ -10,12 +10,12 @@
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.61 | 
-| 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
+| 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
+| 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.13 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
@@ -246,7 +246,7 @@
 | 244 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 245 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 246 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 247 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
+| 247 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
 | 248 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 249 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 250 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -293,8 +293,8 @@
 | 291 | [Haven](games/h/haven.md) | 4.76 | 
 | 292 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 293 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 294 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 295 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
+| 294 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 295 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
 | 296 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
 | 297 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 298 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
@@ -328,7 +328,7 @@
 | 326 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 327 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 328 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 329 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
+| 329 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 330 | [Ironcast](games/i/ironcast.md) | 3.90 | 
 | 331 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 332 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
@@ -362,7 +362,7 @@
 | 360 | [Lamentum](games/l/lamentum.md) | 4.36 | 
 | 361 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
 | 362 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 363 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
+| 363 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
 | 364 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 365 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 366 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
@@ -393,7 +393,7 @@
 | 391 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 392 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 393 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 394 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
+| 394 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 395 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 396 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 397 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
@@ -452,7 +452,7 @@
 | 450 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.66 | 
 | 451 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 452 | [Outlast](games/o/outlast.md) | 4.74 | 
-| 453 | [Outlast 2](games/o/outlast_2.md) | 4.73 | 
+| 453 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
 | 454 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 455 | [Outward](games/o/outward.md) | 4.55 | 
 | 456 | [Overcooked](games/o/overcooked.md) | 4.67 | 
@@ -477,12 +477,12 @@
 | 475 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
 | 476 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 477 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 478 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 478 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 479 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 480 | [Pine](games/p/pine.md) | 4.13 | 
 | 481 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.44 | 
 | 482 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
-| 483 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
+| 483 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
 | 484 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 485 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 486 | [Prey](games/p/prey.md) | 4.61 | 
@@ -589,7 +589,7 @@
 | 587 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 588 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.35 | 
 | 589 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.44 | 
-| 590 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.72 | 
+| 590 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.74 | 
 | 591 | [SpiderHeck](games/s/spiderheck.md) | 4.73 | 
 | 592 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 593 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
@@ -706,7 +706,7 @@
 | 704 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.44 | 
 | 705 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 706 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
-| 707 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.29 | 
+| 707 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.30 | 
 | 708 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 709 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.25 | 
 | 710 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
@@ -719,7 +719,7 @@
 | 717 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 718 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 719 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 720 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
+| 720 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
 | 721 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.73 | 
 | 722 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 723 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.26 | 
@@ -754,7 +754,7 @@
 | 752 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.77 | 
 | 753 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 754 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.18 | 
-| 755 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 755 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 756 | [Verdun](games/v/verdun.md) | 4.51 | 
 | 757 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 758 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
@@ -771,7 +771,7 @@
 | 769 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 770 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 771 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
-| 772 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.26 | 
+| 772 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
 | 773 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 774 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
 | 775 | [Weird West](games/w/weird_west.md) | 4.45 | 
