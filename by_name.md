@@ -23,7 +23,7 @@
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 
-| 24 | [Among Trees](games/a/among_trees.md) | 4.37 | 
+| 24 | [Among Trees](games/a/among_trees.md) | 4.36 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
@@ -128,7 +128,7 @@
 | 126 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
 | 127 | [Core](games/c/core.md) | 4.38 | 
 | 128 | [Coromon](games/c/coromon.md) | 4.64 | 
-| 129 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.57 | 
+| 129 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.63 | 
 | 130 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
 | 131 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 132 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
@@ -238,7 +238,7 @@
 | 236 | [Fez](games/f/fez.md) | 4.71 | 
 | 237 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
 | 238 | [Figment](games/f/figment.md) | 4.44 | 
-| 239 | [Filament](games/f/filament.md) | 4.29 | 
+| 239 | [Filament](games/f/filament.md) | 4.30 | 
 | 240 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 241 | [Firework](games/f/firework.md) | 4.88 | 
 | 242 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 
@@ -542,7 +542,7 @@
 | 540 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 541 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 542 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
-| 543 | [Scavengers](games/s/scavengers.md) | 4.17 | 
+| 543 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 544 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 545 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
 | 546 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
@@ -747,7 +747,7 @@
 | 745 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.39 | 
 | 746 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
 | 747 | [UnMetal](games/u/unmetal.md) | 4.50 | 
-| 748 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.50 | 
+| 748 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.51 | 
 | 749 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 750 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 751 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
@@ -792,7 +792,7 @@
 | 790 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 791 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 792 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 793 | [WRC Generations](games/w/wrc_generations.md) | 4.64 | 
+| 793 | [WRC Generations](games/w/wrc_generations.md) | 4.61 | 
 | 794 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 795 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 796 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 

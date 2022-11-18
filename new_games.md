@@ -5,7 +5,7 @@
 | 3 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.43 | 
 | 4 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
 | 5 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.36 | 
-| 6 | [WRC Generations](games/w/wrc_generations.md) | 4.64 | 
+| 6 | [WRC Generations](games/w/wrc_generations.md) | 4.61 | 
 | 7 | [shapez](games/s/shapez.md) | 4.70 | 
 | 8 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.80 | 
 | 9 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
