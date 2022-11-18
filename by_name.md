@@ -47,7 +47,7 @@
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.49 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
@@ -114,7 +114,7 @@
 | 112 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 113 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
 | 114 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 115 | [Chorus](games/c/chorus.md) | 4.44 | 
+| 115 | [Chorus](games/c/chorus.md) | 4.45 | 
 | 116 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.92 | 
 | 117 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 118 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
@@ -474,7 +474,7 @@
 | 472 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 473 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 474 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
-| 475 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
+| 475 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 476 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 477 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 478 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
@@ -483,7 +483,7 @@
 | 481 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.44 | 
 | 482 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
 | 483 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
-| 484 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 484 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 485 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 486 | [Prey](games/p/prey.md) | 4.61 | 
 | 487 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -498,7 +498,7 @@
 | 496 | [Rayman Origins](games/r/rayman_origins.md) | 4.76 | 
 | 497 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
 | 498 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
-| 499 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 499 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
 | 500 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 501 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 502 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
