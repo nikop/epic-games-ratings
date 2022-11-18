@@ -1,10 +1,10 @@
 {
   "ID": "24b9b5e323bc40eea252a10cdd3b2f10",
   "Name": "League of Legends",
-  "Rating": 4.23,
+  "Rating": 4.22,
   "NumberOfRatings": 10796,
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2022-11-18T02:45:33.8063682+00:00",
+  "LastChanged": "2022-11-18T15:58:22.8806797+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:19.1268614+00:00",
@@ -3389,6 +3389,11 @@
     {
       "Time": "2022-11-18T02:45:33.8063685+00:00",
       "Rating": 4.23,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T15:58:22.8806798+00:00",
+      "Rating": 4.22,
       "NumberOfRatings": null
     }
   ],

@@ -28,7 +28,7 @@
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 
+| 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.50 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 
@@ -195,7 +195,7 @@
 | 193 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 194 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 195 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 196 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.29 | 
+| 196 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 
 | 197 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 198 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.77 | 
 | 199 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -292,7 +292,7 @@
 | 290 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
 | 291 | [Haven](games/h/haven.md) | 4.76 | 
 | 292 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
-| 293 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.66 | 
+| 293 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 294 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 295 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
 | 296 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
@@ -302,7 +302,7 @@
 | 300 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 301 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 302 | [Hob](games/h/hob.md) | 4.56 | 
-| 303 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.43 | 
+| 303 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.44 | 
 | 304 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 305 | [Horace](games/h/horace.md) | 4.58 | 
 | 306 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
@@ -364,7 +364,7 @@
 | 362 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 363 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
 | 364 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 365 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
+| 365 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 366 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 367 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 368 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
@@ -375,7 +375,7 @@
 | 373 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.03 | 
 | 374 | [Limbo](games/l/limbo.md) | 4.63 | 
 | 375 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
-| 376 | [Little Inferno](games/l/little_inferno.md) | 4.47 | 
+| 376 | [Little Inferno](games/l/little_inferno.md) | 4.48 | 
 | 377 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 378 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 379 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.24 | 
@@ -440,7 +440,7 @@
 | 438 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
 | 439 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
 | 440 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.74 | 
-| 441 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
+| 441 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
 | 442 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
 | 443 | [Old World](games/o/old_world.md) | 4.64 | 
 | 444 | [Ooblets](games/o/ooblets.md) | 4.87 | 
@@ -480,7 +480,7 @@
 | 478 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 479 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 480 | [Pine](games/p/pine.md) | 4.13 | 
-| 481 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.43 | 
+| 481 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.44 | 
 | 482 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
 | 483 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 484 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
@@ -660,7 +660,7 @@
 | 658 | [The Fall](games/t/the_fall.md) | 4.28 | 
 | 659 | [The First Tree](games/t/the_first_tree.md) | 4.06 | 
 | 660 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
-| 661 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
+| 661 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
 | 662 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.95 | 
 | 663 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 664 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
@@ -755,7 +755,7 @@
 | 753 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 754 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.18 | 
 | 755 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 756 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 756 | [Verdun](games/v/verdun.md) | 4.51 | 
 | 757 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 758 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 759 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
