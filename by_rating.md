@@ -17,15 +17,15 @@
 | 15 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 16 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 17 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
-| 18 | [Black Book](games/b/black_book.md) | 4.88 | 
-| 19 | [Art of Rally](games/a/art_of_rally_1.md) | 4.88 | 
-| 20 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
-| 21 | [Firework](games/f/firework.md) | 4.88 | 
-| 22 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 23 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 25 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 
-| 26 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
+| 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
+| 19 | [Black Book](games/b/black_book.md) | 4.88 | 
+| 20 | [Art of Rally](games/a/art_of_rally_1.md) | 4.88 | 
+| 21 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
+| 22 | [Firework](games/f/firework.md) | 4.88 | 
+| 23 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
+| 24 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 25 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 26 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 
 | 27 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 28 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
 | 29 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
@@ -742,7 +742,7 @@
 | 740 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.17 | 
 | 741 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 742 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.16 | 
-| 743 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 743 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 744 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 745 | [Relicta](games/r/relicta.md) | 4.14 | 
 | 746 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 

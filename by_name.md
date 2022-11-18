@@ -54,7 +54,7 @@
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.49 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.35 | 
-| 55 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
+| 55 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 56 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 57 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 58 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
@@ -274,7 +274,7 @@
 | 272 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
 | 273 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
 | 274 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 275 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 275 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 276 | [Good Company](games/g/good_company.md) | 4.43 | 
 | 277 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
 | 278 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
