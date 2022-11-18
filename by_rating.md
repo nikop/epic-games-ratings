@@ -614,13 +614,13 @@
 | 612 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.39 | 
 | 613 | [ELEX](games/e/elex.md) | 4.39 | 
 | 614 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
-| 615 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 616 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.39 | 
-| 617 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
-| 618 | [Core](games/c/core.md) | 4.38 | 
-| 619 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
-| 620 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.38 | 
-| 621 | [Encased](games/e/encased.md) | 4.38 | 
+| 615 | [Encased](games/e/encased.md) | 4.39 | 
+| 616 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 617 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.39 | 
+| 618 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.38 | 
+| 619 | [Core](games/c/core.md) | 4.38 | 
+| 620 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
+| 621 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.38 | 
 | 622 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 623 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.38 | 
 | 624 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
