@@ -74,17 +74,17 @@
 | 72 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 73 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 74 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 75 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.80 | 
-| 76 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 77 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
-| 78 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 79 | [Griftlands](games/g/griftlands.md) | 4.80 | 
-| 80 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
-| 81 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 82 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
-| 83 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.80 | 
-| 84 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 85 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 75 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 76 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
+| 77 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 78 | [Griftlands](games/g/griftlands.md) | 4.80 | 
+| 79 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
+| 80 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 81 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
+| 82 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.80 | 
+| 83 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 84 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 85 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 86 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 87 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
 | 88 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
@@ -296,20 +296,20 @@
 | 294 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 295 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.63 | 
 | 296 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 297 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
-| 298 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
-| 299 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 300 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 301 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
-| 302 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 303 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 304 | [20XX](games/2/20xx.md) | 4.62 | 
-| 305 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
-| 306 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 307 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
-| 308 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
-| 309 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.62 | 
-| 310 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.62 | 
+| 297 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
+| 298 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 299 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 300 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
+| 301 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 302 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 303 | [20XX](games/2/20xx.md) | 4.62 | 
+| 304 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 305 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 306 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
+| 307 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
+| 308 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.62 | 
+| 309 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.62 | 
+| 310 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 311 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 312 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 313 | [Prey](games/p/prey.md) | 4.61 | 
@@ -381,19 +381,19 @@
 | 379 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 380 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 381 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
-| 382 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
-| 383 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
-| 384 | [Road 96](games/r/road_96.md) | 4.58 | 
-| 385 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
-| 386 | [GRIME](games/g/grime.md) | 4.58 | 
-| 387 | [Horace](games/h/horace.md) | 4.58 | 
-| 388 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 389 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 390 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 391 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
-| 392 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
-| 393 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 394 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.57 | 
+| 382 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
+| 383 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
+| 384 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
+| 385 | [Road 96](games/r/road_96.md) | 4.58 | 
+| 386 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
+| 387 | [GRIME](games/g/grime.md) | 4.58 | 
+| 388 | [Horace](games/h/horace.md) | 4.58 | 
+| 389 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 390 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 391 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 392 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 393 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
+| 394 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
 | 395 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
 | 396 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 397 | [Isonzo](games/i/isonzo.md) | 4.57 | 
