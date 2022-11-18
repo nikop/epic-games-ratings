@@ -1,14 +1,19 @@
 {
   "ID": "69d28f650ce14cb8af5ca19212a4b4b8",
   "Name": "Dark Light",
-  "Rating": 4.2,
+  "Rating": 4.24,
   "FirstSeen": "2022-07-22T20:32:51.3406723+00:00",
   "FirstSeenRating": "2022-11-17T06:58:12.9972323+00:00",
-  "LastChanged": "2022-11-17T06:58:12.9972325+00:00",
+  "LastChanged": "2022-11-18T06:57:45.8600726+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-17T06:58:12.9972326+00:00",
       "Rating": 4.2,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T06:57:45.8600729+00:00",
+      "Rating": 4.24,
       "NumberOfRatings": null
     }
   ],

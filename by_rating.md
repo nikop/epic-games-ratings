@@ -542,23 +542,23 @@
 | 540 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 541 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 542 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 543 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
-| 544 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
-| 545 | [Runbow](games/r/runbow.md) | 4.45 | 
-| 546 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 547 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 548 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
-| 549 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 550 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.44 | 
-| 551 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 552 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 553 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 
-| 554 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
-| 555 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
-| 556 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.44 | 
-| 557 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
-| 558 | [Figment](games/f/figment.md) | 4.44 | 
-| 559 | [Death Coming](games/d/death_coming.md) | 4.44 | 
+| 543 | [Death Coming](games/d/death_coming.md) | 4.45 | 
+| 544 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
+| 545 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
+| 546 | [Runbow](games/r/runbow.md) | 4.45 | 
+| 547 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 548 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 549 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
+| 550 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 551 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.44 | 
+| 552 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 553 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 554 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 
+| 555 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
+| 556 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.44 | 
+| 557 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.44 | 
+| 558 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
+| 559 | [Figment](games/f/figment.md) | 4.44 | 
 | 560 | [Chorus](games/c/chorus.md) | 4.44 | 
 | 561 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 
 | 562 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.44 | 
@@ -667,10 +667,10 @@
 | 665 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 666 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 667 | [OVERPASS™](games/o/overpass™.md) | 4.32 | 
-| 668 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 669 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
-| 670 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 671 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 668 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 669 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 670 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
+| 671 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 672 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 673 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
 | 674 | [House Party](games/h/house_party.md) | 4.30 | 
@@ -706,28 +706,28 @@
 | 704 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 705 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 706 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.24 | 
-| 707 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
-| 708 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
-| 709 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
-| 710 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 711 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
-| 712 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 713 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 714 | [Tharsis](games/t/tharsis.md) | 4.22 | 
-| 715 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
-| 716 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.22 | 
-| 717 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
-| 718 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
-| 719 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 720 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.21 | 
-| 721 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
-| 722 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
-| 723 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.21 | 
-| 724 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 725 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 726 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 727 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
-| 728 | [Dark Light](games/d/dark_light.md) | 4.20 | 
+| 707 | [Dark Light](games/d/dark_light.md) | 4.24 | 
+| 708 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
+| 709 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
+| 710 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
+| 711 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 712 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
+| 713 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
+| 714 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 715 | [Tharsis](games/t/tharsis.md) | 4.22 | 
+| 716 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
+| 717 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.22 | 
+| 718 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
+| 719 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
+| 720 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 721 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.21 | 
+| 722 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
+| 723 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
+| 724 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.21 | 
+| 725 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 726 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 727 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 728 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
 | 729 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 730 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 
 | 731 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 

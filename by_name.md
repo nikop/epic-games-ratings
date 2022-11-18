@@ -148,7 +148,7 @@
 | 146 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
 | 147 | [Dark Deception](games/d/dark_deception.md) | 4.59 | 
 | 148 | [Dark Deity](games/d/dark_deity.md) | 4.28 | 
-| 149 | [Dark Light](games/d/dark_light.md) | 4.20 | 
+| 149 | [Dark Light](games/d/dark_light.md) | 4.24 | 
 | 150 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 151 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 152 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
@@ -162,7 +162,7 @@
 | 160 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 161 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 162 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
-| 163 | [Death Coming](games/d/death_coming.md) | 4.44 | 
+| 163 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 164 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 165 | [Death's Door](games/d/death's_door.md) | 4.65 | 
 | 166 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
@@ -336,7 +336,7 @@
 | 334 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 335 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 336 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
-| 337 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 337 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 338 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 339 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.50 | 
 | 340 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
