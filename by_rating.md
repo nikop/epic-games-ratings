@@ -93,11 +93,11 @@
 | 91 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 92 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 93 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
-| 94 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 95 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 96 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 97 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 
-| 98 | [Superliminal](games/s/superliminal.md) | 4.78 | 
+| 94 | [Superliminal](games/s/superliminal.md) | 4.79 | 
+| 95 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 96 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 97 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
+| 98 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 
 | 99 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 100 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
 | 101 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
@@ -573,19 +573,19 @@
 | 571 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 572 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
 | 573 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 574 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
-| 575 | [Good Company](games/g/good_company.md) | 4.43 | 
-| 576 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
-| 577 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.43 | 
-| 578 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 579 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 580 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 581 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 582 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 
-| 583 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 584 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 585 | [Faeria](games/f/faeria.md) | 4.42 | 
-| 586 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
+| 574 | [Good Company](games/g/good_company.md) | 4.43 | 
+| 575 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
+| 576 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.43 | 
+| 577 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 578 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 579 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 580 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 581 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 
+| 582 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 583 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 584 | [Faeria](games/f/faeria.md) | 4.42 | 
+| 585 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
+| 586 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
 | 587 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 
 | 588 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 589 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 

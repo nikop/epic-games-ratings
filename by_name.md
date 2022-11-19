@@ -399,7 +399,7 @@
 | 397 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 398 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 399 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 400 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
+| 400 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
 | 401 | [Minit](games/m/minit.md) | 4.56 | 
 | 402 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.85 | 
 | 403 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
@@ -625,7 +625,7 @@
 | 623 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
 | 624 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
 | 625 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.63 | 
-| 626 | [Superliminal](games/s/superliminal.md) | 4.78 | 
+| 626 | [Superliminal](games/s/superliminal.md) | 4.79 | 
 | 627 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 628 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 629 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
