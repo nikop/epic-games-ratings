@@ -1,10 +1,10 @@
 {
   "ID": "eb9117fdc2a1493ba4e8a4e1d2286e2f",
   "Name": "Pathway",
-  "Rating": 4.44,
+  "Rating": 4.45,
   "NumberOfRatings": 425,
   "FirstSeen": "2022-07-22T20:28:48.5183295+00:00",
-  "LastChanged": "2022-11-03T03:02:46.8619281+00:00",
+  "LastChanged": "2022-11-19T14:58:07.4076764+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:48.5183297+00:00",
@@ -424,6 +424,11 @@
     {
       "Time": "2022-11-03T03:02:46.8619283+00:00",
       "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T14:58:07.4076766+00:00",
+      "Rating": 4.45,
       "NumberOfRatings": null
     }
   ],

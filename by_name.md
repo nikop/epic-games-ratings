@@ -109,7 +109,7 @@
 | 107 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
 | 108 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
 | 109 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 110 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.34 | 
+| 110 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 111 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 112 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 113 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
@@ -152,7 +152,7 @@
 | 150 | [Dark Light](games/d/dark_light.md) | 4.24 | 
 | 151 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 152 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 153 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
+| 153 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
 | 154 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 155 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
 | 156 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.58 | 
@@ -220,7 +220,7 @@
 | 218 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 219 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 220 | [Far Cry](games/f/far_cry.md) | 4.41 | 
-| 221 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.18 | 
+| 221 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.19 | 
 | 222 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 223 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 224 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
@@ -268,7 +268,7 @@
 | 266 | [GigaBash](games/g/gigabash.md) | 4.50 | 
 | 267 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 268 | [GNOG](games/g/gnog.md) | 4.70 | 
-| 269 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
+| 269 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
 | 270 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 271 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 272 | [Godfall](games/g/godfall.md) | 4.06 | 
@@ -470,7 +470,7 @@
 | 468 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 469 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 470 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 471 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 471 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 472 | [Patron](games/p/patron.md) | 3.96 | 
 | 473 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 474 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
@@ -501,7 +501,7 @@
 | 499 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 500 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
 | 501 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 
-| 502 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 502 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
 | 503 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 504 | [Redout 2](games/r/redout_2.md) | 4.54 | 
 | 505 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
@@ -533,7 +533,7 @@
 | 531 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 532 | [Runbow](games/r/runbow.md) | 4.45 | 
 | 533 | [Sable](games/s/sable.md) | 4.57 | 
-| 534 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.80 | 
+| 534 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.81 | 
 | 535 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 536 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 537 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
@@ -544,14 +544,14 @@
 | 542 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 543 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 544 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 545 | [Scorn](games/s/scorn.md) | 4.46 | 
+| 545 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 546 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
 | 547 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
 | 548 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 549 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 550 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 551 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.76 | 
-| 552 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
+| 552 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
 | 553 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 554 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 555 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
@@ -598,7 +598,7 @@
 | 596 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.52 | 
 | 597 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
 | 598 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
-| 599 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
+| 599 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 600 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 601 | [Starsand](games/s/starsand.md) | 4.30 | 
 | 602 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
@@ -786,7 +786,7 @@
 | 784 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 785 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 786 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 787 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 787 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 788 | [World of Goo](games/w/world_of_goo.md) | 4.68 | 
 | 789 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 790 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
