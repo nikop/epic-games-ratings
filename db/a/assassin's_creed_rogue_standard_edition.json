@@ -1,10 +1,10 @@
 {
   "ID": "34f7e1e275924bb6a90074920f9c1696",
   "Name": "Assassin\u0027s Creed Rogue Standard Edition",
-  "Rating": 4.6,
+  "Rating": 4.61,
   "NumberOfRatings": 305,
   "FirstSeen": "2022-07-22T20:29:01.0113458+00:00",
-  "LastChanged": "2022-11-05T09:32:28.2937156+00:00",
+  "LastChanged": "2022-11-19T13:15:39.2731239+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:01.011346+00:00",
@@ -385,6 +385,11 @@
       "Time": "2022-11-05T09:32:28.2937158+00:00",
       "Rating": 4.6,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T13:15:39.2731242+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -394,7 +399,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 35
+      "Count": 36
     }
   ]
 }

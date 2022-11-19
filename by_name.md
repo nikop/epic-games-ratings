@@ -45,7 +45,7 @@
 | 43 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.61 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.49 | 
@@ -231,7 +231,7 @@
 | 229 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
 | 230 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.76 | 
 | 231 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.12 | 
-| 232 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 232 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 233 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 234 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 235 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
@@ -246,7 +246,7 @@
 | 244 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 245 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
 | 246 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 247 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
+| 247 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
 | 248 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 249 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 250 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -302,7 +302,7 @@
 | 300 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 301 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 302 | [Hob](games/h/hob.md) | 4.56 | 
-| 303 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.44 | 
+| 303 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.43 | 
 | 304 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 305 | [Horace](games/h/horace.md) | 4.58 | 
 | 306 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
@@ -423,7 +423,7 @@
 | 421 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
 | 422 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 423 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 424 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.06 | 
+| 424 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
 | 425 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 426 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.11 | 
 | 427 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
@@ -442,7 +442,7 @@
 | 440 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
 | 441 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.74 | 
 | 442 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
-| 443 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 
+| 443 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 444 | [Old World](games/o/old_world.md) | 4.64 | 
 | 445 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 446 | [Operation: Tango](games/o/operation__tango.md) | 4.67 | 
@@ -456,7 +456,7 @@
 | 454 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
 | 455 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 456 | [Outward](games/o/outward.md) | 4.55 | 
-| 457 | [Overcooked](games/o/overcooked.md) | 4.67 | 
+| 457 | [Overcooked](games/o/overcooked.md) | 4.68 | 
 | 458 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 459 | [OVERPASS™](games/o/overpass™.md) | 4.32 | 
 | 460 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
@@ -666,7 +666,7 @@
 | 664 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 665 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 666 | [The Last Campfire](games/t/the_last_campfire.md) | 4.85 | 
-| 667 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 
+| 667 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
 | 668 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
 | 669 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.72 | 
 | 670 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 
@@ -725,7 +725,7 @@
 | 723 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 724 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.26 | 
 | 725 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 726 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.02 | 
+| 726 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.98 | 
 | 727 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 728 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
 | 729 | [Train Valley](games/t/train_valley.md) | 4.44 | 
@@ -766,7 +766,7 @@
 | 764 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 765 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 766 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
-| 767 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.41 | 
+| 767 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
 | 768 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
 | 769 | [Warpips](games/w/warpips.md) | 4.56 | 
 | 770 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
@@ -779,7 +779,7 @@
 | 777 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
 | 778 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 779 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.75 | 
-| 780 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
+| 780 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.52 | 
 | 781 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 782 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 783 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
@@ -793,7 +793,7 @@
 | 791 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 792 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 793 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 794 | [WRC Generations](games/w/wrc_generations.md) | 4.61 | 
+| 794 | [WRC Generations](games/w/wrc_generations.md) | 4.54 | 
 | 795 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 796 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 797 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
