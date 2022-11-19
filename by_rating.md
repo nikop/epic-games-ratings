@@ -6,10 +6,10 @@
 | 4 | [Hades](games/h/hades.md) | 4.92 | 
 | 5 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 6 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
-| 7 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
-| 8 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
-| 9 | [God of War](games/g/god_of_war.md) | 4.90 | 
-| 10 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
+| 7 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
+| 8 | [God of War](games/g/god_of_war.md) | 4.90 | 
+| 9 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
+| 10 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 11 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 12 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 
@@ -424,15 +424,15 @@
 | 422 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 423 | [Hue](games/h/hue.md) | 4.55 | 
 | 424 | [Outward](games/o/outward.md) | 4.55 | 
-| 425 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 426 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 427 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 428 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 429 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 430 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 431 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
-| 432 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 433 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 425 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
+| 426 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
+| 427 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 428 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
+| 429 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 430 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 431 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 432 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
+| 433 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 434 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
 | 435 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 436 | [Aragami 2](games/a/aragami_2.md) | 4.54 | 
@@ -537,19 +537,19 @@
 | 535 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 
 | 536 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
 | 537 | [Scorn](games/s/scorn.md) | 4.46 | 
-| 538 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 539 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
-| 540 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 541 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 542 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 543 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 544 | [Figment](games/f/figment.md) | 4.45 | 
-| 545 | [Death Coming](games/d/death_coming.md) | 4.45 | 
-| 546 | [Chorus](games/c/chorus.md) | 4.45 | 
-| 547 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
-| 548 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
-| 549 | [Runbow](games/r/runbow.md) | 4.45 | 
-| 550 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 538 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 539 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 540 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
+| 541 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 542 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 543 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 544 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 545 | [Figment](games/f/figment.md) | 4.45 | 
+| 546 | [Death Coming](games/d/death_coming.md) | 4.45 | 
+| 547 | [Chorus](games/c/chorus.md) | 4.45 | 
+| 548 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
+| 549 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
+| 550 | [Runbow](games/r/runbow.md) | 4.45 | 
 | 551 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 552 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
 | 553 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
@@ -590,17 +590,17 @@
 | 588 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 589 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 590 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 591 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
-| 592 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 593 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
-| 594 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
-| 595 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.41 | 
-| 596 | [Far Cry](games/f/far_cry.md) | 4.41 | 
-| 597 | [Startup Panic](games/s/startup_panic.md) | 4.41 | 
-| 598 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 599 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 600 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 601 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 591 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 592 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
+| 593 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
+| 594 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.41 | 
+| 595 | [Far Cry](games/f/far_cry.md) | 4.41 | 
+| 596 | [Startup Panic](games/s/startup_panic.md) | 4.41 | 
+| 597 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 598 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
+| 599 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 600 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 601 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.41 | 
 | 602 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
 | 603 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 604 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 

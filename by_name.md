@@ -88,7 +88,7 @@
 | 86 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.24 | 
 | 87 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 89 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
+| 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.38 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.82 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
@@ -554,7 +554,7 @@
 | 552 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 553 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 554 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
-| 555 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 555 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 556 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
 | 557 | [shapez](games/s/shapez.md) | 4.70 | 
 | 558 | [Sheltered](games/s/sheltered.md) | 4.42 | 
@@ -766,7 +766,7 @@
 | 764 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 765 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 766 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
-| 767 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
+| 767 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.41 | 
 | 768 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
 | 769 | [Warpips](games/w/warpips.md) | 4.56 | 
 | 770 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
@@ -786,7 +786,7 @@
 | 784 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 785 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 786 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 787 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 787 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 788 | [World of Goo](games/w/world_of_goo.md) | 4.68 | 
 | 789 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 790 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
