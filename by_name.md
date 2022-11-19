@@ -53,7 +53,7 @@
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.49 | 
-| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
+| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.38 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.43 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
@@ -67,7 +67,7 @@
 | 65 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 66 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 67 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
-| 68 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 
+| 68 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 
 | 69 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 70 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 71 | [Barony](games/b/barony.md) | 4.69 | 
@@ -86,7 +86,7 @@
 | 84 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
 | 85 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 86 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.24 | 
-| 87 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
+| 87 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.38 | 
@@ -121,7 +121,7 @@
 | 119 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 120 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 121 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
-| 122 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 122 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 123 | [Conarium](games/c/conarium.md) | 3.90 | 
 | 124 | [Control](games/c/control.md) | 4.60 | 
 | 125 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
@@ -343,7 +343,7 @@
 | 341 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 342 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 343 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 344 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 
+| 344 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.79 | 
 | 345 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
 | 346 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 
 | 347 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
@@ -598,7 +598,7 @@
 | 596 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.52 | 
 | 597 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
 | 598 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
-| 599 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
+| 599 | [Star Stable Online](games/s/star_stable_online.md) | 4.35 | 
 | 600 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 601 | [Starsand](games/s/starsand.md) | 4.30 | 
 | 602 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
@@ -664,7 +664,7 @@
 | 662 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
 | 663 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.95 | 
 | 664 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
-| 665 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
+| 665 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 666 | [The Last Campfire](games/t/the_last_campfire.md) | 4.85 | 
 | 667 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 
 | 668 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
@@ -702,7 +702,7 @@
 | 700 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 701 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 702 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
-| 703 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.58 | 
+| 703 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 704 | [Timberborn](games/t/timberborn.md) | 4.70 | 
 | 705 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 706 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
