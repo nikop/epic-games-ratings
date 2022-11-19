@@ -17,7 +17,7 @@
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 
-| 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
+| 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.61 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.01 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
@@ -208,7 +208,7 @@
 | 206 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 207 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 208 | [Everything](games/e/everything.md) | 4.67 | 
-| 209 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.47 | 
+| 209 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.46 | 
 | 210 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 211 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 212 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
@@ -231,7 +231,7 @@
 | 229 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
 | 230 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.76 | 
 | 231 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.12 | 
-| 232 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
+| 232 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 233 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 234 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 235 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
@@ -257,7 +257,7 @@
 | 255 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.21 | 
 | 256 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
 | 257 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 258 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
+| 258 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
 | 259 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 260 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 261 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
@@ -268,7 +268,7 @@
 | 266 | [GigaBash](games/g/gigabash.md) | 4.48 | 
 | 267 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 268 | [GNOG](games/g/gnog.md) | 4.70 | 
-| 269 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
+| 269 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 270 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 271 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 272 | [Godfall](games/g/godfall.md) | 4.06 | 
@@ -280,7 +280,7 @@
 | 278 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
 | 279 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
 | 280 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 281 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
+| 281 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 282 | [Griftlands](games/g/griftlands.md) | 4.80 | 
 | 283 | [GRIME](games/g/grime.md) | 4.58 | 
 | 284 | [Grindstone](games/g/grindstone.md) | 4.83 | 
@@ -490,7 +490,7 @@
 | 488 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 489 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 490 | [Quake](games/q/quake.md) | 4.81 | 
-| 491 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 491 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 492 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 493 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 494 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
@@ -756,7 +756,7 @@
 | 754 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 755 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
 | 756 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 757 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 757 | [Verdun](games/v/verdun.md) | 4.51 | 
 | 758 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 759 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 760 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
