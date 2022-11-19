@@ -31,7 +31,7 @@
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 32 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 
+| 32 | [Anno 2070](games/a/anno_2070.md) | 4.47 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.40 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
@@ -302,7 +302,7 @@
 | 300 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 301 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 302 | [Hob](games/h/hob.md) | 4.56 | 
-| 303 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.43 | 
+| 303 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.44 | 
 | 304 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 305 | [Horace](games/h/horace.md) | 4.58 | 
 | 306 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
@@ -364,7 +364,7 @@
 | 362 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 363 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
 | 364 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 365 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 365 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 366 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 367 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 368 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
@@ -398,7 +398,7 @@
 | 396 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 397 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 398 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
-| 399 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 399 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 400 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
 | 401 | [Minit](games/m/minit.md) | 4.54 | 
 | 402 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.85 | 
@@ -454,7 +454,7 @@
 | 452 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 453 | [Outlast](games/o/outlast.md) | 4.74 | 
 | 454 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 455 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
+| 455 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 456 | [Outward](games/o/outward.md) | 4.55 | 
 | 457 | [Overcooked](games/o/overcooked.md) | 4.68 | 
 | 458 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
@@ -463,7 +463,7 @@
 | 461 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
 | 462 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 463 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
-| 464 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 464 | [Paradigm](games/p/paradigm.md) | 4.49 | 
 | 465 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.36 | 
 | 466 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 467 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
@@ -490,7 +490,7 @@
 | 488 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 489 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 490 | [Quake](games/q/quake.md) | 4.81 | 
-| 491 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 491 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 492 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 493 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 494 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
@@ -505,7 +505,7 @@
 | 503 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 504 | [Redout 2](games/r/redout_2.md) | 4.54 | 
 | 505 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 506 | [Relicta](games/r/relicta.md) | 4.15 | 
+| 506 | [Relicta](games/r/relicta.md) | 4.14 | 
 | 507 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 508 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.85 | 
 | 509 | [Revita](games/r/revita.md) | 4.74 | 
@@ -551,7 +551,7 @@
 | 549 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 550 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 551 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.76 | 
-| 552 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
+| 552 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 553 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 554 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 555 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
@@ -699,7 +699,7 @@
 | 697 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
 | 698 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 699 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
-| 700 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
+| 700 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 701 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 702 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 703 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
@@ -793,7 +793,7 @@
 | 791 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 792 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 793 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 794 | [WRC Generations](games/w/wrc_generations.md) | 4.54 | 
+| 794 | [WRC Generations](games/w/wrc_generations.md) | 4.56 | 
 | 795 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 796 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 797 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
