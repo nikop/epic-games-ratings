@@ -19,8 +19,8 @@
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.01 | 
-| 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
+| 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.02 | 
+| 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 24 | [Among Trees](games/a/among_trees.md) | 4.36 | 
@@ -213,7 +213,7 @@
 | 211 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 212 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 213 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
-| 214 | [Faeria](games/f/faeria.md) | 4.42 | 
+| 214 | [Faeria](games/f/faeria.md) | 4.43 | 
 | 215 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 216 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.81 | 
 | 217 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
@@ -322,7 +322,7 @@
 | 320 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
 | 321 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
 | 322 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
-| 323 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 323 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 324 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 325 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
 | 326 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
@@ -475,7 +475,7 @@
 | 473 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 474 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 475 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
-| 476 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
+| 476 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
 | 477 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 478 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 479 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
@@ -576,7 +576,7 @@
 | 574 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 575 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
 | 576 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 577 | [SOMA](games/s/soma.md) | 4.65 | 
+| 577 | [SOMA](games/s/soma.md) | 4.64 | 
 | 578 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 579 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
 | 580 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
@@ -595,7 +595,7 @@
 | 593 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 594 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 595 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
-| 596 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.52 | 
+| 596 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.54 | 
 | 597 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
 | 598 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
 | 599 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
