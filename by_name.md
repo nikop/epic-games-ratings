@@ -148,7 +148,7 @@
 | 146 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 147 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
 | 148 | [Dark Deception](games/d/dark_deception.md) | 4.59 | 
-| 149 | [Dark Deity](games/d/dark_deity.md) | 4.08 | 
+| 149 | [Dark Deity](games/d/dark_deity.md) | 4.03 | 
 | 150 | [Dark Light](games/d/dark_light.md) | 4.24 | 
 | 151 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 152 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -176,7 +176,7 @@
 | 174 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 175 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 176 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 177 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
+| 177 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.59 | 
 | 178 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 179 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 180 | [Diabotical](games/d/diabotical.md) | 4.76 | 
@@ -320,7 +320,7 @@
 | 318 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 319 | [Imagine Earth](games/i/imagine_earth.md) | 4.35 | 
 | 320 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
-| 321 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
+| 321 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
 | 322 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
 | 323 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 324 | [INSIDE](games/i/inside.md) | 4.69 | 
@@ -341,7 +341,7 @@
 | 339 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 340 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.50 | 
 | 341 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 342 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.53 | 
+| 342 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 343 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 344 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 
 | 345 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
@@ -357,7 +357,7 @@
 | 355 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
 | 356 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 357 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 358 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.44 | 
+| 358 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
 | 359 | [Lake](games/l/lake.md) | 4.04 | 
 | 360 | [Lamentum](games/l/lamentum.md) | 4.36 | 
 | 361 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
@@ -400,7 +400,7 @@
 | 398 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 399 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 400 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
-| 401 | [Minit](games/m/minit.md) | 4.56 | 
+| 401 | [Minit](games/m/minit.md) | 4.54 | 
 | 402 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.85 | 
 | 403 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 404 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
@@ -432,7 +432,7 @@
 | 430 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 431 | [No Straight Roads](games/n/no_straight_roads.md) | 4.70 | 
 | 432 | [NORCO](games/n/norco.md) | 4.59 | 
-| 433 | [Northgard](games/n/northgard.md) | 4.73 | 
+| 433 | [Northgard](games/n/northgard.md) | 4.72 | 
 | 434 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.82 | 
 | 435 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 436 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
@@ -606,7 +606,7 @@
 | 604 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 605 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 606 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 607 | [STG Football](games/s/stg_football.md) | 4.58 | 
+| 607 | [STG Football](games/s/stg_football.md) | 4.59 | 
 | 608 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.54 | 
 | 609 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 610 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
@@ -736,7 +736,7 @@
 | 734 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
 | 735 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 736 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
-| 737 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
+| 737 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.62 | 
 | 738 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
 | 739 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
 | 740 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
@@ -776,7 +776,7 @@
 | 774 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 775 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
 | 776 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 777 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
+| 777 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
 | 778 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 779 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.75 | 
 | 780 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.56 | 
