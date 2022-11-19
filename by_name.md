@@ -45,7 +45,7 @@
 | 43 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.61 | 
+| 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.49 | 
@@ -114,7 +114,7 @@
 | 112 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 113 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
 | 114 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 115 | [Chorus](games/c/chorus.md) | 4.45 | 
+| 115 | [Chorus](games/c/chorus.md) | 4.44 | 
 | 116 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.92 | 
 | 117 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 118 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
@@ -262,7 +262,7 @@
 | 260 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 261 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
 | 262 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
-| 263 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 
+| 263 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.45 | 
 | 264 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
 | 265 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 266 | [GigaBash](games/g/gigabash.md) | 4.50 | 
@@ -404,7 +404,7 @@
 | 402 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.85 | 
 | 403 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 404 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
-| 405 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
+| 405 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
 | 406 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 407 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 408 | [Moving Out](games/m/moving_out.md) | 4.58 | 
@@ -466,7 +466,7 @@
 | 464 | [Paradigm](games/p/paradigm.md) | 4.49 | 
 | 465 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.36 | 
 | 466 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 467 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 467 | [Partisans 1941](games/p/partisans_1941.md) | 4.58 | 
 | 468 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 469 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 470 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
@@ -551,7 +551,7 @@
 | 549 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 550 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 551 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.76 | 
-| 552 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
+| 552 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
 | 553 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 554 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 555 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
@@ -793,7 +793,7 @@
 | 791 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 792 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 793 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 794 | [WRC Generations](games/w/wrc_generations.md) | 4.57 | 
+| 794 | [WRC Generations](games/w/wrc_generations.md) | 4.56 | 
 | 795 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 796 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 797 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
