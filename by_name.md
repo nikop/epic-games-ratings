@@ -206,7 +206,7 @@
 | 204 | [Encased](games/e/encased.md) | 4.39 | 
 | 205 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 206 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 207 | [EVE Online](games/e/eve_online.md) | 4.26 | 
+| 207 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 208 | [Everything](games/e/everything.md) | 4.67 | 
 | 209 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.47 | 
 | 210 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
@@ -349,7 +349,7 @@
 | 347 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
 | 348 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
 | 349 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
-| 350 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.71 | 
+| 350 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.72 | 
 | 351 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 352 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
 | 353 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
@@ -431,7 +431,7 @@
 | 429 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 430 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 431 | [No Straight Roads](games/n/no_straight_roads.md) | 4.70 | 
-| 432 | [NORCO](games/n/norco.md) | 4.57 | 
+| 432 | [NORCO](games/n/norco.md) | 4.59 | 
 | 433 | [Northgard](games/n/northgard.md) | 4.73 | 
 | 434 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.82 | 
 | 435 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
@@ -642,7 +642,7 @@
 | 640 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 641 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 642 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 643 | [Tharsis](games/t/tharsis.md) | 4.22 | 
+| 643 | [Tharsis](games/t/tharsis.md) | 4.16 | 
 | 644 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 645 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.61 | 
 | 646 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
@@ -658,7 +658,7 @@
 | 656 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
 | 657 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 658 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
-| 659 | [The Fall](games/t/the_fall.md) | 4.28 | 
+| 659 | [The Fall](games/t/the_fall.md) | 4.29 | 
 | 660 | [The First Tree](games/t/the_first_tree.md) | 4.06 | 
 | 661 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
 | 662 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
@@ -676,7 +676,7 @@
 | 674 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 675 | [The Pathless](games/t/the_pathless.md) | 4.70 | 
 | 676 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
-| 677 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
+| 677 | [The Silent Age](games/t/the_silent_age.md) | 4.45 | 
 | 678 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.27 | 
 | 679 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 680 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 
