@@ -148,7 +148,7 @@
 | 146 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 147 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
 | 148 | [Dark Deception](games/d/dark_deception.md) | 4.59 | 
-| 149 | [Dark Deity](games/d/dark_deity.md) | 4.03 | 
+| 149 | [Dark Deity](games/d/dark_deity.md) | 3.98 | 
 | 150 | [Dark Light](games/d/dark_light.md) | 4.24 | 
 | 151 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 152 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -590,7 +590,7 @@
 | 588 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 589 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.35 | 
 | 590 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.44 | 
-| 591 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.74 | 
+| 591 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.75 | 
 | 592 | [SpiderHeck](games/s/spiderheck.md) | 4.73 | 
 | 593 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 594 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
@@ -694,7 +694,7 @@
 | 692 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
 | 693 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
 | 694 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
-| 695 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 695 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 696 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 697 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
 | 698 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
@@ -707,7 +707,7 @@
 | 705 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 706 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 707 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
-| 708 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.30 | 
+| 708 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.29 | 
 | 709 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 710 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.25 | 
 | 711 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
@@ -720,7 +720,7 @@
 | 718 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 719 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 720 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 721 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
+| 721 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
 | 722 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.73 | 
 | 723 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 724 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.26 | 
