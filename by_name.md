@@ -47,7 +47,7 @@
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.49 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
@@ -268,7 +268,7 @@
 | 266 | [GigaBash](games/g/gigabash.md) | 4.50 | 
 | 267 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 268 | [GNOG](games/g/gnog.md) | 4.70 | 
-| 269 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
+| 269 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.88 | 
 | 270 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 271 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 272 | [Godfall](games/g/godfall.md) | 4.06 | 
@@ -329,7 +329,7 @@
 | 327 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 328 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 329 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
-| 330 | [Ironcast](games/i/ironcast.md) | 3.90 | 
+| 330 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 331 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 332 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 333 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
@@ -564,7 +564,7 @@
 | 562 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.38 | 
 | 563 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 564 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 565 | [Sifu](games/s/sifu.md) | 4.81 | 
+| 565 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 566 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
 | 567 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 568 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
@@ -746,7 +746,7 @@
 | 744 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 745 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
 | 746 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.39 | 
-| 747 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.58 | 
+| 747 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 748 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 749 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.51 | 
 | 750 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
