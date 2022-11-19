@@ -226,7 +226,7 @@
     },
     {
       "Text": "This game is Educational",
-      "Count": 31
+      "Count": 34
     },
     {
       "Text": "This game has Competitive Players",
@@ -239,6 +239,10 @@
     {
       "Text": "This game is Highly Recommended",
       "Count": 24
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Count": 36
     }
   ]
 }

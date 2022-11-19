@@ -17,7 +17,7 @@
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 
-| 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.61 | 
+| 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.01 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
@@ -128,7 +128,7 @@
 | 126 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
 | 127 | [Core](games/c/core.md) | 4.38 | 
 | 128 | [Coromon](games/c/coromon.md) | 4.64 | 
-| 129 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.63 | 
+| 129 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.69 | 
 | 130 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
 | 131 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 132 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
@@ -393,7 +393,7 @@
 | 391 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 392 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.94 | 
 | 393 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 394 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
+| 394 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 395 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 396 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 397 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
@@ -462,7 +462,7 @@
 | 460 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
 | 461 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
 | 462 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 463 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
+| 463 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.54 | 
 | 464 | [Paradigm](games/p/paradigm.md) | 4.49 | 
 | 465 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.36 | 
 | 466 | [Parkitect](games/p/parkitect.md) | 4.27 | 
@@ -489,7 +489,7 @@
 | 487 | [Prey](games/p/prey.md) | 4.61 | 
 | 488 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 489 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 490 | [Quake](games/q/quake.md) | 4.81 | 
+| 490 | [Quake](games/q/quake.md) | 4.82 | 
 | 491 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 492 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 493 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
@@ -542,7 +542,7 @@
 | 540 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.59 | 
 | 541 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 542 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 543 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
+| 543 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
 | 544 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 545 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 546 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
@@ -578,7 +578,7 @@
 | 576 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 577 | [SOMA](games/s/soma.md) | 4.65 | 
 | 578 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 579 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
+| 579 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
 | 580 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 581 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 582 | [Souldiers](games/s/souldiers.md) | 4.55 | 
@@ -602,7 +602,7 @@
 | 600 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 601 | [Starsand](games/s/starsand.md) | 4.30 | 
 | 602 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
-| 603 | [Startup Panic](games/s/startup_panic.md) | 4.41 | 
+| 603 | [Startup Panic](games/s/startup_panic.md) | 4.35 | 
 | 604 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 605 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 606 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
@@ -656,7 +656,7 @@
 | 654 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
 | 655 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 656 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
-| 657 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 657 | [The Escapists 2](games/t/the_escapists_2.md) | 4.57 | 
 | 658 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 659 | [The Fall](games/t/the_fall.md) | 4.29 | 
 | 660 | [The First Tree](games/t/the_first_tree.md) | 4.06 | 
@@ -677,10 +677,10 @@
 | 675 | [The Pathless](games/t/the_pathless.md) | 4.70 | 
 | 676 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 677 | [The Silent Age](games/t/the_silent_age.md) | 4.45 | 
-| 678 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.27 | 
+| 678 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.26 | 
 | 679 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 680 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 
-| 681 | [The Surge](games/t/the_surge.md) | 4.50 | 
+| 681 | [The Surge](games/t/the_surge.md) | 4.51 | 
 | 682 | [The Surge 2](games/t/the_surge_2.md) | 4.14 | 
 | 683 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 684 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
@@ -706,7 +706,7 @@
 | 704 | [Timberborn](games/t/timberborn.md) | 4.70 | 
 | 705 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 706 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 707 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 
+| 707 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
 | 708 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.30 | 
 | 709 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 710 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.25 | 
