@@ -314,7 +314,7 @@
 | 312 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 313 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 314 | [Huntdown](games/h/huntdown.md) | 4.81 | 
-| 315 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
+| 315 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
 | 316 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.62 | 
 | 317 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.64 | 
 | 318 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
@@ -438,7 +438,7 @@
 | 436 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
 | 437 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 438 | [Observation](games/o/observation.md) | 4.53 | 
-| 439 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
+| 439 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
 | 440 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
 | 441 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
 | 442 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
@@ -628,7 +628,7 @@
 | 626 | [Superliminal](games/s/superliminal.md) | 4.79 | 
 | 627 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 628 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 629 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
+| 629 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.45 | 
 | 630 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 631 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 632 | [Suzerain](games/s/suzerain.md) | 4.70 | 
@@ -793,7 +793,7 @@
 | 791 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 792 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 793 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 794 | [WRC Generations](games/w/wrc_generations.md) | 4.56 | 
+| 794 | [WRC Generations](games/w/wrc_generations.md) | 4.57 | 
 | 795 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 796 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 797 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 

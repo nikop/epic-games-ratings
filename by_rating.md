@@ -159,17 +159,17 @@
 | 157 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
 | 158 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 159 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 160 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.72 | 
-| 161 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
-| 162 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
-| 163 | [FUSER™](games/f/fuser™.md) | 4.72 | 
-| 164 | [Northgard](games/n/northgard.md) | 4.72 | 
-| 165 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.72 | 
-| 166 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
-| 167 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 168 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 169 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
-| 170 | [The Witness](games/t/the_witness.md) | 4.71 | 
+| 160 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
+| 161 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
+| 162 | [FUSER™](games/f/fuser™.md) | 4.72 | 
+| 163 | [Northgard](games/n/northgard.md) | 4.72 | 
+| 164 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.72 | 
+| 165 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
+| 166 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 167 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 168 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
+| 169 | [The Witness](games/t/the_witness.md) | 4.71 | 
+| 170 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
 | 171 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 172 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
 | 173 | [Fez](games/f/fez.md) | 4.71 | 
@@ -402,21 +402,21 @@
 | 400 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 401 | [Breathedge](games/b/breathedge.md) | 4.57 | 
 | 402 | [Sable](games/s/sable.md) | 4.57 | 
-| 403 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 404 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 405 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 406 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 407 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 408 | [Hob](games/h/hob.md) | 4.56 | 
-| 409 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 410 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
-| 411 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
-| 412 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
-| 413 | [Warpips](games/w/warpips.md) | 4.56 | 
-| 414 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
-| 415 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 
-| 416 | [The Medium](games/t/the_medium.md) | 4.56 | 
-| 417 | [WRC Generations](games/w/wrc_generations.md) | 4.56 | 
+| 403 | [WRC Generations](games/w/wrc_generations.md) | 4.57 | 
+| 404 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 405 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 406 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 407 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 408 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 409 | [Hob](games/h/hob.md) | 4.56 | 
+| 410 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 411 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
+| 412 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 413 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
+| 414 | [Warpips](games/w/warpips.md) | 4.56 | 
+| 415 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
+| 416 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 
+| 417 | [The Medium](games/t/the_medium.md) | 4.56 | 
 | 418 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 419 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 420 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
@@ -522,12 +522,12 @@
 | 520 | [Little Inferno](games/l/little_inferno.md) | 4.48 | 
 | 521 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.48 | 
 | 522 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
-| 523 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 524 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 525 | [Riverbond](games/r/riverbond.md) | 4.47 | 
-| 526 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
-| 527 | [Anno 2070](games/a/anno_2070.md) | 4.47 | 
-| 528 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
+| 523 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
+| 524 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 525 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 526 | [Riverbond](games/r/riverbond.md) | 4.47 | 
+| 527 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
+| 528 | [Anno 2070](games/a/anno_2070.md) | 4.47 | 
 | 529 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 530 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 531 | [SMITE](games/s/smite.md) | 4.46 | 
@@ -535,20 +535,20 @@
 | 533 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 534 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
 | 535 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
-| 536 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
-| 537 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.45 | 
-| 538 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 539 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 540 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 541 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 542 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 543 | [Figment](games/f/figment.md) | 4.45 | 
-| 544 | [Death Coming](games/d/death_coming.md) | 4.45 | 
-| 545 | [Chorus](games/c/chorus.md) | 4.45 | 
-| 546 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
-| 547 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
-| 548 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
-| 549 | [The Silent Age](games/t/the_silent_age.md) | 4.45 | 
+| 536 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.45 | 
+| 537 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 538 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 539 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 540 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 541 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 542 | [Figment](games/f/figment.md) | 4.45 | 
+| 543 | [Death Coming](games/d/death_coming.md) | 4.45 | 
+| 544 | [Chorus](games/c/chorus.md) | 4.45 | 
+| 545 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
+| 546 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
+| 547 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
+| 548 | [The Silent Age](games/t/the_silent_age.md) | 4.45 | 
+| 549 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.45 | 
 | 550 | [Runbow](games/r/runbow.md) | 4.45 | 
 | 551 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 552 | [The Captain](games/t/the_captain.md) | 4.44 | 
