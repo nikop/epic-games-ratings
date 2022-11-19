@@ -29,7 +29,7 @@
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
-| 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.50 | 
+| 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.40 | 
@@ -466,7 +466,7 @@
 | 464 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 465 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.36 | 
 | 466 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 467 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
+| 467 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 468 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 469 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 470 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
@@ -494,9 +494,9 @@
 | 492 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 493 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 494 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 495 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
+| 495 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
 | 496 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.48 | 
-| 497 | [Rayman Origins](games/r/rayman_origins.md) | 4.76 | 
+| 497 | [Rayman Origins](games/r/rayman_origins.md) | 4.77 | 
 | 498 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
 | 499 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 500 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
