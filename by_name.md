@@ -2,7 +2,7 @@
 | --- | ---- | ------ | 
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.21 | 
 | 2 | [20XX](games/2/20xx.md) | 4.62 | 
-| 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.37 | 
+| 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.33 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
@@ -20,9 +20,9 @@
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.01 | 
-| 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
+| 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 
+| 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 24 | [Among Trees](games/a/among_trees.md) | 4.36 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
@@ -208,7 +208,7 @@
 | 206 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 207 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 208 | [Everything](games/e/everything.md) | 4.67 | 
-| 209 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.46 | 
+| 209 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.45 | 
 | 210 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 211 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 212 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
@@ -364,7 +364,7 @@
 | 362 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 363 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
 | 364 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 365 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
+| 365 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 366 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 367 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 368 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
@@ -391,7 +391,7 @@
 | 389 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
 | 390 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 391 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 392 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.94 | 
+| 392 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 393 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 394 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 395 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
@@ -437,7 +437,7 @@
 | 435 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 436 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
 | 437 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 438 | [Observation](games/o/observation.md) | 4.52 | 
+| 438 | [Observation](games/o/observation.md) | 4.53 | 
 | 439 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
 | 440 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
 | 441 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.74 | 
