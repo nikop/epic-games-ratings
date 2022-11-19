@@ -1,10 +1,10 @@
 {
   "ID": "489c2ca47aaa4190b694184b979d3b23",
   "Name": "The First Tree",
-  "Rating": 4.06,
+  "Rating": 4.01,
   "NumberOfRatings": 56,
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
-  "LastChanged": "2022-11-17T19:58:23.9886286+00:00",
+  "LastChanged": "2022-11-19T19:58:26.3702057+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:16.3923771+00:00",
@@ -179,6 +179,11 @@
     {
       "Time": "2022-11-17T19:58:23.9886289+00:00",
       "Rating": 4.06,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T19:58:26.3702064+00:00",
+      "Rating": 4.01,
       "NumberOfRatings": null
     }
   ],

@@ -16,7 +16,7 @@
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 
+| 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.01 | 
@@ -77,7 +77,7 @@
 | 75 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.66 | 
 | 77 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.76 | 
-| 78 | [Before We Leave](games/b/before_we_leave.md) | 4.62 | 
+| 78 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
 | 79 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
 | 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
 | 81 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
@@ -102,7 +102,7 @@
 | 100 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 101 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.07 | 
 | 102 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 103 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
+| 103 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 104 | [Card Shark](games/c/card_shark.md) | 4.61 | 
 | 105 | [CARRION](games/c/carrion.md) | 4.66 | 
 | 106 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
@@ -293,10 +293,10 @@
 | 291 | [Haven](games/h/haven.md) | 4.76 | 
 | 292 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 293 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 294 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 295 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.52 | 
+| 294 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 295 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
 | 296 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
-| 297 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
+| 297 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
 | 298 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 299 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.53 | 
 | 300 | [HITMAN](games/h/hitman.md) | 4.64 | 
@@ -440,7 +440,7 @@
 | 438 | [Observation](games/o/observation.md) | 4.53 | 
 | 439 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
 | 440 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
-| 441 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.74 | 
+| 441 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
 | 442 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
 | 443 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 444 | [Old World](games/o/old_world.md) | 4.64 | 
@@ -607,7 +607,7 @@
 | 605 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 606 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 607 | [STG Football](games/s/stg_football.md) | 4.59 | 
-| 608 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.54 | 
+| 608 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
 | 609 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 610 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 611 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
@@ -659,7 +659,7 @@
 | 657 | [The Escapists 2](games/t/the_escapists_2.md) | 4.57 | 
 | 658 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 659 | [The Fall](games/t/the_fall.md) | 4.29 | 
-| 660 | [The First Tree](games/t/the_first_tree.md) | 4.06 | 
+| 660 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 
 | 661 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
 | 662 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
 | 663 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.95 | 
@@ -668,7 +668,7 @@
 | 666 | [The Last Campfire](games/t/the_last_campfire.md) | 4.85 | 
 | 667 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
 | 668 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
-| 669 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.72 | 
+| 669 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 
 | 670 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 
 | 671 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 672 | [The Medium](games/t/the_medium.md) | 4.56 | 
@@ -760,7 +760,7 @@
 | 758 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 759 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 760 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 761 | [War Mongrels](games/w/war_mongrels.md) | 4.36 | 
+| 761 | [War Mongrels](games/w/war_mongrels.md) | 4.35 | 
 | 762 | [Warface](games/w/warface.md) | 3.94 | 
 | 763 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 764 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
