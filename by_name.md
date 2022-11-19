@@ -87,7 +87,7 @@
 | 85 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 86 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.24 | 
 | 87 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
+| 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.38 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.82 | 
@@ -104,7 +104,7 @@
 | 102 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 103 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
 | 104 | [Card Shark](games/c/card_shark.md) | 4.61 | 
-| 105 | [CARRION](games/c/carrion.md) | 4.67 | 
+| 105 | [CARRION](games/c/carrion.md) | 4.66 | 
 | 106 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 107 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
 | 108 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
@@ -157,7 +157,7 @@
 | 155 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
 | 156 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.58 | 
 | 157 | [Darkwood](games/d/darkwood.md) | 4.61 | 
-| 158 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.43 | 
+| 158 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
 | 159 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 160 | [Days Gone](games/d/days_gone.md) | 4.69 | 
 | 161 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
@@ -206,7 +206,7 @@
 | 204 | [Encased](games/e/encased.md) | 4.39 | 
 | 205 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 206 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 207 | [EVE Online](games/e/eve_online.md) | 4.27 | 
+| 207 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 208 | [Everything](games/e/everything.md) | 4.67 | 
 | 209 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.47 | 
 | 210 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
@@ -215,7 +215,7 @@
 | 213 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 214 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 215 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 216 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.85 | 
+| 216 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.81 | 
 | 217 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 218 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 219 | [Family Man](games/f/family_man.md) | 4.17 | 
@@ -551,7 +551,7 @@
 | 549 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.60 | 
 | 550 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 551 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.76 | 
-| 552 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
+| 552 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 553 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 554 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 555 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
@@ -602,7 +602,7 @@
 | 600 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 601 | [Starsand](games/s/starsand.md) | 4.30 | 
 | 602 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
-| 603 | [Startup Panic](games/s/startup_panic.md) | 4.35 | 
+| 603 | [Startup Panic](games/s/startup_panic.md) | 4.41 | 
 | 604 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 605 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 606 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
@@ -754,7 +754,7 @@
 | 752 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 753 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.77 | 
 | 754 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 755 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.18 | 
+| 755 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
 | 756 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 757 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 758 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
