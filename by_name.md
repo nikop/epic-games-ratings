@@ -152,7 +152,7 @@
 | 150 | [Dark Light](games/d/dark_light.md) | 4.24 | 
 | 151 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 152 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 153 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
+| 153 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 154 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 155 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
 | 156 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.58 | 
@@ -394,7 +394,7 @@
 | 392 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.94 | 
 | 393 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 394 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.64 | 
-| 395 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 395 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 396 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 397 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 398 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
@@ -480,7 +480,7 @@
 | 478 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 479 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 480 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
-| 481 | [Pine](games/p/pine.md) | 4.14 | 
+| 481 | [Pine](games/p/pine.md) | 4.13 | 
 | 482 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.44 | 
 | 483 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
 | 484 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
