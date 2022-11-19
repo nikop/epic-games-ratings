@@ -327,24 +327,24 @@
 | 325 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 326 | [ABZU](games/a/abzu.md) | 4.61 | 
 | 327 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
-| 328 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
-| 329 | [Roguebook](games/r/roguebook.md) | 4.61 | 
-| 330 | [Card Shark](games/c/card_shark.md) | 4.61 | 
-| 331 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.61 | 
-| 332 | [Darkwood](games/d/darkwood.md) | 4.61 | 
-| 333 | [WRC Generations](games/w/wrc_generations.md) | 4.61 | 
-| 334 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
-| 335 | [Control](games/c/control.md) | 4.60 | 
-| 336 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 337 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 338 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 339 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 340 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
-| 341 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 342 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
-| 343 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 344 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
-| 345 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.60 | 
+| 328 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
+| 329 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 
+| 330 | [Roguebook](games/r/roguebook.md) | 4.61 | 
+| 331 | [Card Shark](games/c/card_shark.md) | 4.61 | 
+| 332 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.61 | 
+| 333 | [Darkwood](games/d/darkwood.md) | 4.61 | 
+| 334 | [WRC Generations](games/w/wrc_generations.md) | 4.61 | 
+| 335 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
+| 336 | [Control](games/c/control.md) | 4.60 | 
+| 337 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 338 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 339 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 340 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 341 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
+| 342 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 343 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
+| 344 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 345 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.60 | 
 | 346 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
 | 347 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
 | 348 | [RiME](games/r/rime.md) | 4.60 | 

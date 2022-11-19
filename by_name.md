@@ -548,7 +548,7 @@
 | 546 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
 | 547 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
 | 548 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
-| 549 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.60 | 
+| 549 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 550 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 551 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.76 | 
 | 552 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
