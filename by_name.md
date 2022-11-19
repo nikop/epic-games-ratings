@@ -138,7 +138,7 @@
 | 136 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 137 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 
 | 138 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 139 | [CryoFall](games/c/cryofall.md) | 4.50 | 
+| 139 | [CryoFall](games/c/cryofall.md) | 4.51 | 
 | 140 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 141 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.67 | 
 | 142 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
@@ -265,7 +265,7 @@
 | 263 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 
 | 264 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
 | 265 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 266 | [GigaBash](games/g/gigabash.md) | 4.48 | 
+| 266 | [GigaBash](games/g/gigabash.md) | 4.50 | 
 | 267 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 268 | [GNOG](games/g/gnog.md) | 4.70 | 
 | 269 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
@@ -359,7 +359,7 @@
 | 357 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 358 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
 | 359 | [Lake](games/l/lake.md) | 4.04 | 
-| 360 | [Lamentum](games/l/lamentum.md) | 4.36 | 
+| 360 | [Lamentum](games/l/lamentum.md) | 4.35 | 
 | 361 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
 | 362 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 363 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
@@ -404,7 +404,7 @@
 | 402 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.85 | 
 | 403 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 404 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
-| 405 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 405 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 406 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 407 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 408 | [Moving Out](games/m/moving_out.md) | 4.58 | 
@@ -529,7 +529,7 @@
 | 527 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 528 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 529 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 530 | [RUINER](games/r/ruiner.md) | 4.52 | 
+| 530 | [RUINER](games/r/ruiner.md) | 4.51 | 
 | 531 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 532 | [Runbow](games/r/runbow.md) | 4.45 | 
 | 533 | [Sable](games/s/sable.md) | 4.57 | 
@@ -556,7 +556,7 @@
 | 554 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 555 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 556 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
-| 557 | [shapez](games/s/shapez.md) | 4.70 | 
+| 557 | [shapez](games/s/shapez.md) | 4.71 | 
 | 558 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 559 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.16 | 
 | 560 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
