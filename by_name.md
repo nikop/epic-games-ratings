@@ -23,7 +23,7 @@
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 24 | [Among Trees](games/a/among_trees.md) | 4.36 | 
+| 24 | [Among Trees](games/a/among_trees.md) | 4.38 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
@@ -54,7 +54,7 @@
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.49 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.38 | 
-| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.43 | 
+| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.45 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.32 | 
@@ -136,7 +136,7 @@
 | 134 | [Crayta](games/c/crayta.md) | 4.18 | 
 | 135 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
 | 136 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 137 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 
+| 137 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
 | 138 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 139 | [CryoFall](games/c/cryofall.md) | 4.51 | 
 | 140 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
@@ -148,7 +148,7 @@
 | 146 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 147 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
 | 148 | [Dark Deception](games/d/dark_deception.md) | 4.59 | 
-| 149 | [Dark Deity](games/d/dark_deity.md) | 3.98 | 
+| 149 | [Dark Deity](games/d/dark_deity.md) | 3.99 | 
 | 150 | [Dark Light](games/d/dark_light.md) | 4.24 | 
 | 151 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 152 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -325,12 +325,12 @@
 | 323 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 324 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 325 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
-| 326 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
+| 326 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 327 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 328 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 329 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 330 | [Ironcast](games/i/ironcast.md) | 3.91 | 
-| 331 | [Isonzo](games/i/isonzo.md) | 4.57 | 
+| 331 | [Isonzo](games/i/isonzo.md) | 4.58 | 
 | 332 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 333 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 334 | [Journey](games/j/journey.md) | 4.76 | 
@@ -417,7 +417,7 @@
 | 415 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 416 | [MythForce](games/m/mythforce.md) | 4.50 | 
 | 417 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 418 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 418 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
 | 419 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 420 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
 | 421 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
@@ -484,7 +484,7 @@
 | 482 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.44 | 
 | 483 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
 | 484 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
-| 485 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 485 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 486 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 487 | [Prey](games/p/prey.md) | 4.61 | 
 | 488 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -567,7 +567,7 @@
 | 565 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 566 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
 | 567 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 568 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
+| 568 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 569 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 570 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 571 | [Slipways](games/s/slipways.md) | 4.71 | 
@@ -635,7 +635,7 @@
 | 633 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
 | 634 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 635 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 636 | [Tacoma](games/t/tacoma.md) | 4.37 | 
+| 636 | [Tacoma](games/t/tacoma.md) | 4.38 | 
 | 637 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
 | 638 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 639 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
@@ -732,7 +732,7 @@
 | 730 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 731 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 732 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 733 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 733 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 734 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
 | 735 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 736 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 

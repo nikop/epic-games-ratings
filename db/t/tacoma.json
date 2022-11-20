@@ -1,10 +1,10 @@
 {
   "ID": "675f47ac5d5847f59badceea5b0950cf",
   "Name": "Tacoma",
-  "Rating": 4.37,
+  "Rating": 4.38,
   "NumberOfRatings": 60,
   "FirstSeen": "2022-07-22T20:22:50.2049994+00:00",
-  "LastChanged": "2022-11-19T02:30:48.2143889+00:00",
+  "LastChanged": "2022-11-20T02:44:26.6247579+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:50.2049997+00:00",
@@ -214,6 +214,11 @@
     {
       "Time": "2022-11-19T02:30:48.2143891+00:00",
       "Rating": 4.37,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T02:44:26.6247581+00:00",
+      "Rating": 4.38,
       "NumberOfRatings": null
     }
   ],

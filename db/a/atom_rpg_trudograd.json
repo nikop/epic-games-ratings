@@ -1,14 +1,19 @@
 {
   "ID": "41591febb4a74d7faa39819d5788f7d0",
   "Name": "ATOM RPG Trudograd",
-  "Rating": 4.43,
+  "Rating": 4.45,
   "FirstSeen": "2022-11-08T13:31:16.6189198+00:00",
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
-  "LastChanged": "2022-11-18T14:57:38.1372528+00:00",
+  "LastChanged": "2022-11-20T02:44:58.5919488+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-18T14:57:38.137253+00:00",
       "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T02:44:58.591949+00:00",
+      "Rating": 4.45,
       "NumberOfRatings": null
     }
   ],
