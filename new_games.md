@@ -14,4 +14,3 @@
 | 12 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.44 | 
 | 13 | [STG Football](games/s/stg_football.md) | 4.60 | 
 | 14 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.81 | 
-| 15 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 

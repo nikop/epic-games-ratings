@@ -148,7 +148,7 @@
 | 146 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 147 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
 | 148 | [Dark Deception](games/d/dark_deception.md) | 4.59 | 
-| 149 | [Dark Deity](games/d/dark_deity.md) | 3.98 | 
+| 149 | [Dark Deity](games/d/dark_deity.md) | 3.97 | 
 | 150 | [Dark Light](games/d/dark_light.md) | 4.24 | 
 | 151 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 152 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -180,7 +180,7 @@
 | 178 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 179 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 180 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 181 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
+| 181 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
 | 182 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.41 | 
 | 183 | [Disco Elysium](games/d/disco_elysium.md) | 4.88 | 
 | 184 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 

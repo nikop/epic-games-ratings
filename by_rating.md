@@ -437,21 +437,21 @@
 | 435 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
 | 436 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 437 | [Aragami 2](games/a/aragami_2.md) | 4.54 | 
-| 438 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.54 | 
-| 439 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 440 | [Redout 2](games/r/redout_2.md) | 4.54 | 
-| 441 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.54 | 
-| 442 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 443 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 444 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 445 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 446 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 447 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
-| 448 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
-| 449 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 450 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 451 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
-| 452 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
+| 438 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
+| 439 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.54 | 
+| 440 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 441 | [Redout 2](games/r/redout_2.md) | 4.54 | 
+| 442 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.54 | 
+| 443 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 444 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 445 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
+| 446 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 447 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 448 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
+| 449 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
+| 450 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 451 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 452 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
 | 453 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.53 | 
 | 454 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 455 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.53 | 
@@ -784,7 +784,7 @@
 | 782 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 783 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 784 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.98 | 
-| 785 | [Dark Deity](games/d/dark_deity.md) | 3.98 | 
+| 785 | [Dark Deity](games/d/dark_deity.md) | 3.97 | 
 | 786 | [Patron](games/p/patron.md) | 3.96 | 
 | 787 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
 | 788 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
