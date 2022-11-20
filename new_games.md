@@ -15,4 +15,3 @@
 | 13 | [STG Football](games/s/stg_football.md) | 4.60 | 
 | 14 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.81 | 
 | 15 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
-| 16 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.11 | 

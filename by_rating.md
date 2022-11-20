@@ -607,26 +607,26 @@
 | 605 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
 | 606 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 607 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 608 | [Hammerting](games/h/hammerting.md) | 4.40 | 
-| 609 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 610 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
-| 611 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 612 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
-| 613 | [Encased](games/e/encased.md) | 4.39 | 
-| 614 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 615 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.39 | 
-| 616 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
-| 617 | [Core](games/c/core.md) | 4.38 | 
-| 618 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
-| 619 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
-| 620 | [Among Trees](games/a/among_trees.md) | 4.38 | 
-| 621 | [Tacoma](games/t/tacoma.md) | 4.38 | 
-| 622 | [ELEX](games/e/elex.md) | 4.38 | 
-| 623 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.38 | 
-| 624 | [ATOM RPG](games/a/atom_rpg.md) | 4.38 | 
-| 625 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
-| 626 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 627 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.38 | 
+| 608 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.40 | 
+| 609 | [Hammerting](games/h/hammerting.md) | 4.40 | 
+| 610 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 611 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
+| 612 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 613 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
+| 614 | [Encased](games/e/encased.md) | 4.39 | 
+| 615 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 616 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.39 | 
+| 617 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
+| 618 | [Core](games/c/core.md) | 4.38 | 
+| 619 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
+| 620 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 621 | [Among Trees](games/a/among_trees.md) | 4.38 | 
+| 622 | [Tacoma](games/t/tacoma.md) | 4.38 | 
+| 623 | [ELEX](games/e/elex.md) | 4.38 | 
+| 624 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.38 | 
+| 625 | [ATOM RPG](games/a/atom_rpg.md) | 4.38 | 
+| 626 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
+| 627 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 628 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 629 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
 | 630 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
@@ -644,16 +644,16 @@
 | 642 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 643 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 644 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.36 | 
-| 645 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
-| 646 | [Othercide](games/o/othercide.md) | 4.35 | 
-| 647 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
-| 648 | [War Mongrels](games/w/war_mongrels.md) | 4.35 | 
-| 649 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 
-| 650 | [Startup Panic](games/s/startup_panic.md) | 4.35 | 
-| 651 | [Imagine Earth](games/i/imagine_earth.md) | 4.35 | 
-| 652 | [Lamentum](games/l/lamentum.md) | 4.35 | 
-| 653 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.35 | 
-| 654 | [ZOMBI](games/z/zombi.md) | 4.35 | 
+| 645 | [Othercide](games/o/othercide.md) | 4.35 | 
+| 646 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
+| 647 | [War Mongrels](games/w/war_mongrels.md) | 4.35 | 
+| 648 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 
+| 649 | [Startup Panic](games/s/startup_panic.md) | 4.35 | 
+| 650 | [Imagine Earth](games/i/imagine_earth.md) | 4.35 | 
+| 651 | [Lamentum](games/l/lamentum.md) | 4.35 | 
+| 652 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.35 | 
+| 653 | [ZOMBI](games/z/zombi.md) | 4.35 | 
+| 654 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 655 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 656 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 657 | [Democracy 4](games/d/democracy_4.md) | 4.34 | 

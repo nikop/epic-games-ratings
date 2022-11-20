@@ -89,7 +89,7 @@
 | 87 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
-| 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.38 | 
+| 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.40 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -312,7 +312,7 @@
 | 310 | [House Party](games/h/house_party.md) | 4.30 | 
 | 311 | [Hue](games/h/hue.md) | 4.55 | 
 | 312 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 313 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
+| 313 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 314 | [Huntdown](games/h/huntdown.md) | 4.82 | 
 | 315 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
 | 316 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.62 | 
