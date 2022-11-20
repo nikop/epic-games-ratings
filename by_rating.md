@@ -568,15 +568,15 @@
 | 566 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.44 | 
 | 567 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.44 | 
 | 568 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 569 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.43 | 
-| 570 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
-| 571 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 572 | [Faeria](games/f/faeria.md) | 4.43 | 
-| 573 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
-| 574 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
-| 575 | [Good Company](games/g/good_company.md) | 4.43 | 
-| 576 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
-| 577 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 569 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
+| 570 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 571 | [Faeria](games/f/faeria.md) | 4.43 | 
+| 572 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
+| 573 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
+| 574 | [Good Company](games/g/good_company.md) | 4.43 | 
+| 575 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
+| 576 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 577 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.42 | 
 | 578 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 579 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 580 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
@@ -774,8 +774,8 @@
 | 772 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 773 | [Lake](games/l/lake.md) | 4.04 | 
 | 774 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.03 | 
-| 775 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.02 | 
-| 776 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
+| 775 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
+| 776 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.01 | 
 | 777 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 
 | 778 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
 | 779 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 

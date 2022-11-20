@@ -19,7 +19,7 @@
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.02 | 
+| 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.01 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
@@ -208,7 +208,7 @@
 | 206 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 207 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 208 | [Everything](games/e/everything.md) | 4.68 | 
-| 209 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.43 | 
+| 209 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.42 | 
 | 210 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 211 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 212 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
