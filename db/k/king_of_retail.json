@@ -1,7 +1,16 @@
 {
   "ID": "695337c5e45f4fe69d68f5593197a41e",
   "Name": "King of Retail",
+  "Rating": 4.75,
   "FirstSeen": "2022-09-15T05:32:17.2030911+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-11-20T11:58:32.3978616+00:00",
+  "LastChanged": "2022-11-20T11:58:32.3978618+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-11-20T11:58:32.397862+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
