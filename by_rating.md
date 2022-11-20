@@ -66,12 +66,12 @@
 | 64 | [Quake](games/q/quake.md) | 4.82 | 
 | 65 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
 | 66 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
-| 67 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
-| 68 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.82 | 
-| 69 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 70 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 71 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.81 | 
-| 72 | [Huntdown](games/h/huntdown.md) | 4.81 | 
+| 67 | [Huntdown](games/h/huntdown.md) | 4.82 | 
+| 68 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
+| 69 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.82 | 
+| 70 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 71 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 72 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.81 | 
 | 73 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.81 | 
 | 74 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 75 | [Sifu](games/s/sifu.md) | 4.80 | 
@@ -241,18 +241,18 @@
 | 239 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
 | 240 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 241 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
-| 242 | [Operation: Tango](games/o/operation__tango.md) | 4.67 | 
-| 243 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
-| 244 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 245 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
-| 246 | [Everything](games/e/everything.md) | 4.67 | 
-| 247 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 248 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 249 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
-| 250 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 251 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
-| 252 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
-| 253 | [CARRION](games/c/carrion.md) | 4.66 | 
+| 242 | [CARRION](games/c/carrion.md) | 4.67 | 
+| 243 | [Operation: Tango](games/o/operation__tango.md) | 4.67 | 
+| 244 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
+| 245 | [Eastward](games/e/eastward.md) | 4.67 | 
+| 246 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
+| 247 | [Everything](games/e/everything.md) | 4.67 | 
+| 248 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 249 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 250 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 251 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 252 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
+| 253 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 254 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.66 | 
 | 255 | [APE OUT](games/a/ape_out.md) | 4.66 | 
 | 256 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.66 | 

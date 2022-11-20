@@ -104,7 +104,7 @@
 | 102 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 103 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 104 | [Card Shark](games/c/card_shark.md) | 4.61 | 
-| 105 | [CARRION](games/c/carrion.md) | 4.66 | 
+| 105 | [CARRION](games/c/carrion.md) | 4.67 | 
 | 106 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 107 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
 | 108 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
@@ -313,7 +313,7 @@
 | 311 | [Hue](games/h/hue.md) | 4.55 | 
 | 312 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 313 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
-| 314 | [Huntdown](games/h/huntdown.md) | 4.81 | 
+| 314 | [Huntdown](games/h/huntdown.md) | 4.82 | 
 | 315 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
 | 316 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.62 | 
 | 317 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.64 | 
