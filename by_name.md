@@ -20,7 +20,7 @@
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.02 | 
-| 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
+| 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 24 | [Among Trees](games/a/among_trees.md) | 4.38 | 
@@ -52,7 +52,7 @@
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.49 | 
+| 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.44 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.38 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.45 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
@@ -291,7 +291,7 @@
 | 289 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 290 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
 | 291 | [Haven](games/h/haven.md) | 4.76 | 
-| 292 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
+| 292 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
 | 293 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 294 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 295 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
@@ -365,7 +365,7 @@
 | 363 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 364 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
 | 365 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 366 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 366 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 367 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 368 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 369 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
@@ -471,7 +471,7 @@
 | 469 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 470 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 471 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 472 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 472 | [Pathway](games/p/pathway.md) | 4.44 | 
 | 473 | [Patron](games/p/patron.md) | 3.96 | 
 | 474 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 475 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
@@ -545,7 +545,7 @@
 | 543 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 544 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
 | 545 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 546 | [Scorn](games/s/scorn.md) | 4.47 | 
+| 546 | [Scorn](games/s/scorn.md) | 4.46 | 
 | 547 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
 | 548 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
 | 549 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
@@ -787,7 +787,7 @@
 | 785 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 786 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 787 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 788 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 788 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 789 | [World of Goo](games/w/world_of_goo.md) | 4.68 | 
 | 790 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 791 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
