@@ -167,20 +167,20 @@
 | 165 | [FUSER™](games/f/fuser™.md) | 4.72 | 
 | 166 | [Northgard](games/n/northgard.md) | 4.72 | 
 | 167 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.72 | 
-| 168 | [shapez](games/s/shapez.md) | 4.72 | 
-| 169 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 170 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 171 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
-| 172 | [The Witness](games/t/the_witness.md) | 4.71 | 
-| 173 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
-| 174 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
-| 175 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
-| 176 | [Townscaper](games/t/townscaper.md) | 4.71 | 
-| 177 | [Slipways](games/s/slipways.md) | 4.71 | 
-| 178 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 
-| 179 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 180 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
-| 181 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
+| 168 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
+| 169 | [shapez](games/s/shapez.md) | 4.72 | 
+| 170 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 171 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 172 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
+| 173 | [The Witness](games/t/the_witness.md) | 4.71 | 
+| 174 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 175 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
+| 176 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
+| 177 | [Townscaper](games/t/townscaper.md) | 4.71 | 
+| 178 | [Slipways](games/s/slipways.md) | 4.71 | 
+| 179 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 
+| 180 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 181 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 182 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
 | 183 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 184 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
