@@ -606,7 +606,7 @@
 | 604 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 605 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 606 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
-| 607 | [STG Football](games/s/stg_football.md) | 4.59 | 
+| 607 | [STG Football](games/s/stg_football.md) | 4.60 | 
 | 608 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
 | 609 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 610 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
@@ -655,7 +655,7 @@
 | 653 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 654 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
 | 655 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
-| 656 | [The Escapists](games/t/the_escapists.md) | 4.51 | 
+| 656 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 657 | [The Escapists 2](games/t/the_escapists_2.md) | 4.57 | 
 | 658 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 659 | [The Fall](games/t/the_fall.md) | 4.29 | 
@@ -765,7 +765,7 @@
 | 763 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 764 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 765 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 766 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
+| 766 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 
 | 767 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
 | 768 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
 | 769 | [Warpips](games/w/warpips.md) | 4.56 | 
