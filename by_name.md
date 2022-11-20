@@ -32,7 +32,7 @@
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.48 | 
-| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.41 | 
+| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.66 | 
@@ -54,7 +54,7 @@
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.44 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.38 | 
-| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.45 | 
+| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.48 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.32 | 
@@ -136,7 +136,7 @@
 | 134 | [Crayta](games/c/crayta.md) | 4.18 | 
 | 135 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
 | 136 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 137 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
+| 137 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 
 | 138 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 139 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 140 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
@@ -292,7 +292,7 @@
 | 290 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
 | 291 | [Haven](games/h/haven.md) | 4.76 | 
 | 292 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
-| 293 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
+| 293 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.66 | 
 | 294 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 295 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
 | 296 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
@@ -363,7 +363,7 @@
 | 361 | [Lamentum](games/l/lamentum.md) | 4.35 | 
 | 362 | [Last Day of June](games/l/last_day_of_june.md) | 4.61 | 
 | 363 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 364 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
+| 364 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 365 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 366 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 367 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
@@ -376,7 +376,7 @@
 | 374 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.03 | 
 | 375 | [Limbo](games/l/limbo.md) | 4.63 | 
 | 376 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
-| 377 | [Little Inferno](games/l/little_inferno.md) | 4.48 | 
+| 377 | [Little Inferno](games/l/little_inferno.md) | 4.49 | 
 | 378 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 379 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 380 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.24 | 
@@ -520,7 +520,7 @@
 | 518 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 519 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
 | 520 | [Riverbond](games/r/riverbond.md) | 4.47 | 
-| 521 | [Road 96](games/r/road_96.md) | 4.58 | 
+| 521 | [Road 96](games/r/road_96.md) | 4.59 | 
 | 522 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 523 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 524 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
@@ -557,7 +557,7 @@
 | 555 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 556 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 557 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
-| 558 | [shapez](games/s/shapez.md) | 4.71 | 
+| 558 | [shapez](games/s/shapez.md) | 4.72 | 
 | 559 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 560 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.17 | 
 | 561 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
@@ -798,7 +798,7 @@
 | 796 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 797 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 798 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 799 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
+| 799 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
 | 800 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
 | 801 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.66 | 
 | 802 | [ZOMBI](games/z/zombi.md) | 4.35 | 
