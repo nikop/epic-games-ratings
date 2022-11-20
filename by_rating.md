@@ -308,27 +308,27 @@
 | 306 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 307 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.62 | 
 | 308 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
-| 309 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
-| 310 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.62 | 
-| 311 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
-| 312 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 313 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 314 | [Prey](games/p/prey.md) | 4.61 | 
-| 315 | [Warframe](games/w/warframe.md) | 4.61 | 
-| 316 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 317 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 318 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 319 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 320 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
-| 321 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
-| 322 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 323 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 324 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 325 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 326 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
-| 327 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 328 | [ABZU](games/a/abzu.md) | 4.61 | 
-| 329 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
+| 309 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.62 | 
+| 310 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
+| 311 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 312 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 313 | [Prey](games/p/prey.md) | 4.61 | 
+| 314 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 315 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 316 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 317 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 318 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 319 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
+| 320 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 321 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 322 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 323 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 324 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 325 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
+| 326 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 327 | [ABZU](games/a/abzu.md) | 4.61 | 
+| 328 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
+| 329 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 330 | [Roguebook](games/r/roguebook.md) | 4.61 | 
 | 331 | [Card Shark](games/c/card_shark.md) | 4.61 | 
 | 332 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.61 | 
