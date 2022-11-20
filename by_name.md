@@ -172,7 +172,7 @@
 | 170 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 
 | 171 | [Democracy 4](games/d/democracy_4.md) | 4.34 | 
 | 172 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 173 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 
+| 173 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 174 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 175 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 176 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
@@ -398,7 +398,7 @@
 | 396 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 397 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 398 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
-| 399 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 399 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 400 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
 | 401 | [Minit](games/m/minit.md) | 4.55 | 
 | 402 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.85 | 

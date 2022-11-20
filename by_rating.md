@@ -388,32 +388,32 @@
 | 386 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.58 | 
 | 387 | [GRIME](games/g/grime.md) | 4.58 | 
 | 388 | [Horace](games/h/horace.md) | 4.58 | 
-| 389 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 390 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 391 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 392 | [The Escapists 2](games/t/the_escapists_2.md) | 4.57 | 
-| 393 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
-| 394 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 395 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
-| 396 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 397 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
-| 398 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 399 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 400 | [Breathedge](games/b/breathedge.md) | 4.57 | 
-| 401 | [Sable](games/s/sable.md) | 4.57 | 
-| 402 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 403 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 404 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 405 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 406 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 407 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 408 | [Hob](games/h/hob.md) | 4.56 | 
-| 409 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 410 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
-| 411 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
-| 412 | [Warpips](games/w/warpips.md) | 4.56 | 
-| 413 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
-| 414 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 
+| 389 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
+| 390 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 391 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 392 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 393 | [The Escapists 2](games/t/the_escapists_2.md) | 4.57 | 
+| 394 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 395 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 396 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
+| 397 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 398 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
+| 399 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 400 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 401 | [Breathedge](games/b/breathedge.md) | 4.57 | 
+| 402 | [Sable](games/s/sable.md) | 4.57 | 
+| 403 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 404 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 405 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 406 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 407 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 408 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 409 | [Hob](games/h/hob.md) | 4.56 | 
+| 410 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 411 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
+| 412 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
+| 413 | [Warpips](games/w/warpips.md) | 4.56 | 
+| 414 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
 | 415 | [The Medium](games/t/the_medium.md) | 4.56 | 
 | 416 | [WRC Generations](games/w/wrc_generations.md) | 4.56 | 
 | 417 | [VALORANT](games/v/valorant.md) | 4.55 | 
@@ -509,15 +509,15 @@
 | 507 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 508 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 509 | [Paradigm](games/p/paradigm.md) | 4.49 | 
-| 510 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.49 | 
-| 511 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
-| 512 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 513 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 514 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
-| 515 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.49 | 
-| 516 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 517 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 
-| 518 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
+| 510 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 511 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.49 | 
+| 512 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
+| 513 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 514 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 515 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
+| 516 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.49 | 
+| 517 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 518 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 
 | 519 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 520 | [Little Inferno](games/l/little_inferno.md) | 4.48 | 
 | 521 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.48 | 
