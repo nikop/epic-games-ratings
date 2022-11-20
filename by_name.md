@@ -32,7 +32,7 @@
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.47 | 
-| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.40 | 
+| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.41 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.66 | 
@@ -96,7 +96,7 @@
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 95 | [Breathedge](games/b/breathedge.md) | 4.57 | 
 | 96 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
-| 97 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
+| 97 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
 | 98 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 99 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.28 | 
 | 100 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
@@ -165,7 +165,7 @@
 | 163 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 164 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 165 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 166 | [Death's Door](games/d/death's_door.md) | 4.65 | 
+| 166 | [Death's Door](games/d/death's_door.md) | 4.64 | 
 | 167 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 168 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.44 | 
 | 169 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
@@ -182,7 +182,7 @@
 | 180 | [Diabotical](games/d/diabotical.md) | 4.76 | 
 | 181 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
 | 182 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.41 | 
-| 183 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 183 | [Disco Elysium](games/d/disco_elysium.md) | 4.88 | 
 | 184 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 185 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 186 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
@@ -564,7 +564,7 @@
 | 562 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.38 | 
 | 563 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 564 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 565 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 565 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 566 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
 | 567 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 568 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
@@ -575,7 +575,7 @@
 | 573 | [SMITE](games/s/smite.md) | 4.46 | 
 | 574 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 575 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
-| 576 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 576 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 577 | [SOMA](games/s/soma.md) | 4.64 | 
 | 578 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 579 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 

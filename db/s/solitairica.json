@@ -1,10 +1,10 @@
 {
   "ID": "e0172a81e4f0430e88c3156bdadfd088",
   "Name": "Solitairica",
-  "Rating": 4.49,
+  "Rating": 4.5,
   "NumberOfRatings": 474,
   "FirstSeen": "2022-07-22T20:20:54.4785127+00:00",
-  "LastChanged": "2022-10-14T20:01:44.8957444+00:00",
+  "LastChanged": "2022-11-20T07:57:16.0883047+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:54.478513+00:00",
@@ -650,6 +650,11 @@
       "Time": "2022-10-14T20:01:44.8957447+00:00",
       "Rating": 4.49,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T07:57:16.088305+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -659,7 +664,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 49
+      "Count": 51
     },
     {
       "Text": "This game is Relaxing",
