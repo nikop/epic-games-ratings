@@ -87,10 +87,10 @@
 | 85 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 86 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.24 | 
 | 87 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
-| 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.38 | 
-| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.82 | 
+| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -176,7 +176,7 @@
 | 174 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 175 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 176 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 177 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.59 | 
+| 177 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.58 | 
 | 178 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 179 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 180 | [Diabotical](games/d/diabotical.md) | 4.76 | 
@@ -400,7 +400,7 @@
 | 398 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 399 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.48 | 
 | 400 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
-| 401 | [Minit](games/m/minit.md) | 4.54 | 
+| 401 | [Minit](games/m/minit.md) | 4.55 | 
 | 402 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.85 | 
 | 403 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 404 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
@@ -773,7 +773,7 @@
 | 771 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 772 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
 | 773 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
-| 774 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
+| 774 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.53 | 
 | 775 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
 | 776 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 777 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
