@@ -56,18 +56,18 @@
 | 54 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
 | 55 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 56 | [Grindstone](games/g/grindstone.md) | 4.83 | 
-| 57 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
-| 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 59 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 60 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
-| 61 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
-| 62 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
-| 63 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 64 | [Quake](games/q/quake.md) | 4.82 | 
-| 65 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
-| 66 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
-| 67 | [Huntdown](games/h/huntdown.md) | 4.82 | 
-| 68 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
+| 57 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.83 | 
+| 58 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
+| 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 60 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 61 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
+| 62 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
+| 63 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
+| 64 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 65 | [Quake](games/q/quake.md) | 4.82 | 
+| 66 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
+| 67 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
+| 68 | [Huntdown](games/h/huntdown.md) | 4.82 | 
 | 69 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.82 | 
 | 70 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 71 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
@@ -495,33 +495,33 @@
 | 493 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 494 | [MythForce](games/m/mythforce.md) | 4.50 | 
 | 495 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 496 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
-| 497 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
-| 498 | [CryoFall](games/c/cryofall.md) | 4.50 | 
-| 499 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
-| 500 | [GigaBash](games/g/gigabash.md) | 4.50 | 
-| 501 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.50 | 
-| 502 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
-| 503 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 504 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 505 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 506 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 507 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
-| 508 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 509 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 510 | [Paradigm](games/p/paradigm.md) | 4.49 | 
-| 511 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 512 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.49 | 
+| 496 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.50 | 
+| 497 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
+| 498 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
+| 499 | [CryoFall](games/c/cryofall.md) | 4.50 | 
+| 500 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
+| 501 | [GigaBash](games/g/gigabash.md) | 4.50 | 
+| 502 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.50 | 
+| 503 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
+| 504 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 505 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 506 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 507 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 508 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
+| 509 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 510 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 511 | [Paradigm](games/p/paradigm.md) | 4.49 | 
+| 512 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 513 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
 | 514 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 515 | [Little Inferno](games/l/little_inferno.md) | 4.49 | 
 | 516 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 517 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 518 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
-| 519 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 520 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 
-| 521 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.48 | 
-| 522 | [Anno 2070](games/a/anno_2070.md) | 4.48 | 
+| 518 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 519 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 
+| 520 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.48 | 
+| 521 | [Anno 2070](games/a/anno_2070.md) | 4.48 | 
+| 522 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 523 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 524 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.48 | 
 | 525 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
@@ -747,9 +747,9 @@
 | 745 | [Tharsis](games/t/tharsis.md) | 4.15 | 
 | 746 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 747 | [Relicta](games/r/relicta.md) | 4.14 | 
-| 748 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
-| 749 | [The Surge 2](games/t/the_surge_2.md) | 4.14 | 
-| 750 | [Pine](games/p/pine.md) | 4.13 | 
+| 748 | [The Surge 2](games/t/the_surge_2.md) | 4.14 | 
+| 749 | [Pine](games/p/pine.md) | 4.13 | 
+| 750 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
 | 751 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
 | 752 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 753 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.12 | 

@@ -48,7 +48,7 @@
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.49 | 
+| 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.50 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
@@ -111,7 +111,7 @@
 | 109 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 110 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 111 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 112 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
+| 112 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
 | 113 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
 | 114 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 115 | [Chorus](games/c/chorus.md) | 4.44 | 
@@ -392,7 +392,7 @@
 | 390 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
 | 391 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 392 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 393 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
+| 393 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.83 | 
 | 394 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 395 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 396 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
@@ -609,7 +609,7 @@
 | 607 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
 | 608 | [STG Football](games/s/stg_football.md) | 4.60 | 
 | 609 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
-| 610 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
+| 610 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 611 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 612 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 613 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.70 | 
