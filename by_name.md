@@ -255,7 +255,7 @@
 | 253 | [FUSER™](games/f/fuser™.md) | 4.72 | 
 | 254 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 255 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.21 | 
-| 256 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.44 | 
+| 256 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.46 | 
 | 257 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 258 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
 | 259 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
@@ -460,7 +460,7 @@
 | 458 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 459 | [OVERPASS™](games/o/overpass™.md) | 4.32 | 
 | 460 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 461 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
+| 461 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 462 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 463 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.54 | 
 | 464 | [Paradigm](games/p/paradigm.md) | 4.49 | 
@@ -624,7 +624,7 @@
 | 622 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
 | 623 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
 | 624 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
-| 625 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.63 | 
+| 625 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.64 | 
 | 626 | [Superliminal](games/s/superliminal.md) | 4.79 | 
 | 627 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 628 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
@@ -782,7 +782,7 @@
 | 780 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.52 | 
 | 781 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 782 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
-| 783 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
+| 783 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 784 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 785 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 786 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
