@@ -138,7 +138,7 @@
 | 136 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 137 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
 | 138 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 139 | [CryoFall](games/c/cryofall.md) | 4.51 | 
+| 139 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 140 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 141 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.67 | 
 | 142 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
@@ -530,7 +530,7 @@
 | 528 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 529 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 530 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 531 | [RUINER](games/r/ruiner.md) | 4.51 | 
+| 531 | [RUINER](games/r/ruiner.md) | 4.52 | 
 | 532 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 533 | [Runbow](games/r/runbow.md) | 4.45 | 
 | 534 | [Sable](games/s/sable.md) | 4.57 | 

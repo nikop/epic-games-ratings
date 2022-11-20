@@ -466,38 +466,38 @@
 | 464 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
 | 465 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 466 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
-| 467 | [Aztez](games/a/aztez.md) | 4.52 | 
-| 468 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
-| 469 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
-| 470 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.52 | 
-| 471 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 472 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
-| 473 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 474 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 475 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 476 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 477 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 478 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
-| 479 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
-| 480 | [RUINER](games/r/ruiner.md) | 4.51 | 
+| 467 | [RUINER](games/r/ruiner.md) | 4.52 | 
+| 468 | [Aztez](games/a/aztez.md) | 4.52 | 
+| 469 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
+| 470 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
+| 471 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.52 | 
+| 472 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 473 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
+| 474 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 475 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 476 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 477 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 478 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 479 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
+| 480 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
 | 481 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
 | 482 | [The Surge](games/t/the_surge.md) | 4.51 | 
 | 483 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.51 | 
-| 484 | [CryoFall](games/c/cryofall.md) | 4.51 | 
-| 485 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 486 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
-| 487 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 488 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 489 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 490 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 491 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
-| 492 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
-| 493 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 494 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 495 | [MythForce](games/m/mythforce.md) | 4.50 | 
-| 496 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 497 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
-| 498 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
+| 484 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 485 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
+| 486 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 487 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 488 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 489 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 490 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
+| 491 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
+| 492 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 493 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 494 | [MythForce](games/m/mythforce.md) | 4.50 | 
+| 495 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 496 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
+| 497 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
+| 498 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 499 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
 | 500 | [GigaBash](games/g/gigabash.md) | 4.50 | 
 | 501 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.50 | 
