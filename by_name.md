@@ -9,7 +9,7 @@
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
-| 10 | [ABZU](games/a/abzu.md) | 4.61 | 
+| 10 | [ABZU](games/a/abzu.md) | 4.62 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
@@ -35,7 +35,7 @@
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
-| 36 | [APE OUT](games/a/ape_out.md) | 4.66 | 
+| 36 | [APE OUT](games/a/ape_out.md) | 4.67 | 
 | 37 | [Aragami 2](games/a/aragami_2.md) | 4.54 | 
 | 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.64 | 
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
@@ -206,7 +206,7 @@
 | 204 | [Encased](games/e/encased.md) | 4.39 | 
 | 205 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 206 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 207 | [EVE Online](games/e/eve_online.md) | 4.27 | 
+| 207 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 208 | [Everything](games/e/everything.md) | 4.68 | 
 | 209 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.43 | 
 | 210 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
@@ -277,7 +277,7 @@
 | 275 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 276 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 277 | [Good Company](games/g/good_company.md) | 4.43 | 
-| 278 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
+| 278 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 279 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
 | 280 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 281 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -400,7 +400,7 @@
 | 398 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 399 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 400 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 401 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.42 | 
+| 401 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
 | 402 | [Minit](games/m/minit.md) | 4.55 | 
 | 403 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.85 | 
 | 404 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
@@ -484,7 +484,7 @@
 | 482 | [Pine](games/p/pine.md) | 4.13 | 
 | 483 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.44 | 
 | 484 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
-| 485 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
+| 485 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
 | 486 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 487 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 488 | [Prey](games/p/prey.md) | 4.61 | 
@@ -591,7 +591,7 @@
 | 589 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 590 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.35 | 
 | 591 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.33 | 
-| 592 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.75 | 
+| 592 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.76 | 
 | 593 | [SpiderHeck](games/s/spiderheck.md) | 4.73 | 
 | 594 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 595 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
