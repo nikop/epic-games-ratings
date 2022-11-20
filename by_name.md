@@ -148,7 +148,7 @@
 | 146 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 147 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
 | 148 | [Dark Deception](games/d/dark_deception.md) | 4.59 | 
-| 149 | [Dark Deity](games/d/dark_deity.md) | 3.99 | 
+| 149 | [Dark Deity](games/d/dark_deity.md) | 3.98 | 
 | 150 | [Dark Light](games/d/dark_light.md) | 4.24 | 
 | 151 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 152 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -474,7 +474,7 @@
 | 472 | [Patron](games/p/patron.md) | 3.96 | 
 | 473 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 474 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 475 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
+| 475 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 476 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
 | 477 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 478 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
@@ -642,7 +642,7 @@
 | 640 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 641 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 642 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 643 | [Tharsis](games/t/tharsis.md) | 4.16 | 
+| 643 | [Tharsis](games/t/tharsis.md) | 4.15 | 
 | 644 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 645 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.61 | 
 | 646 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
@@ -658,7 +658,7 @@
 | 656 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 657 | [The Escapists 2](games/t/the_escapists_2.md) | 4.57 | 
 | 658 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
-| 659 | [The Fall](games/t/the_fall.md) | 4.29 | 
+| 659 | [The Fall](games/t/the_fall.md) | 4.28 | 
 | 660 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 
 | 661 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
 | 662 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 

@@ -445,20 +445,20 @@
 | 443 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 444 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 445 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 446 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
-| 447 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
-| 448 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
-| 449 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 450 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
-| 451 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
-| 452 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.53 | 
-| 453 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 454 | [Observation](games/o/observation.md) | 4.53 | 
-| 455 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 456 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 457 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 458 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 459 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
+| 446 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 447 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
+| 448 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
+| 449 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 450 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 451 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
+| 452 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
+| 453 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.53 | 
+| 454 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 455 | [Observation](games/o/observation.md) | 4.53 | 
+| 456 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
+| 457 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 458 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 459 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 460 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 461 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 462 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
@@ -684,12 +684,12 @@
 | 682 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 683 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 684 | [Ashen](games/a/ashen.md) | 4.29 | 
-| 685 | [The Fall](games/t/the_fall.md) | 4.29 | 
-| 686 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
-| 687 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.29 | 
-| 688 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 689 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 690 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
+| 685 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 686 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.29 | 
+| 687 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 688 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 689 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
+| 690 | [The Fall](games/t/the_fall.md) | 4.28 | 
 | 691 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.28 | 
 | 692 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 693 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
@@ -742,8 +742,8 @@
 | 740 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 
 | 741 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 742 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.16 | 
-| 743 | [Tharsis](games/t/tharsis.md) | 4.16 | 
-| 744 | [Gone Home](games/g/gone_home.md) | 4.15 | 
+| 743 | [Gone Home](games/g/gone_home.md) | 4.15 | 
+| 744 | [Tharsis](games/t/tharsis.md) | 4.15 | 
 | 745 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 746 | [Relicta](games/r/relicta.md) | 4.14 | 
 | 747 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
@@ -780,10 +780,10 @@
 | 778 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 779 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 780 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 781 | [Dark Deity](games/d/dark_deity.md) | 3.99 | 
-| 782 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
-| 783 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
-| 784 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.98 | 
+| 781 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
+| 782 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
+| 783 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.98 | 
+| 784 | [Dark Deity](games/d/dark_deity.md) | 3.98 | 
 | 785 | [Patron](games/p/patron.md) | 3.96 | 
 | 786 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
 | 787 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
