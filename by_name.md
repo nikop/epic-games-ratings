@@ -124,7 +124,7 @@
 | 122 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 123 | [Conarium](games/c/conarium.md) | 3.94 | 
 | 124 | [Control](games/c/control.md) | 4.60 | 
-| 125 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.88 | 
+| 125 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 126 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
 | 127 | [Core](games/c/core.md) | 4.38 | 
 | 128 | [Coromon](games/c/coromon.md) | 4.64 | 
@@ -208,7 +208,7 @@
 | 206 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 207 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 208 | [Everything](games/e/everything.md) | 4.68 | 
-| 209 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.44 | 
+| 209 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.43 | 
 | 210 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 211 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 212 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
@@ -231,7 +231,7 @@
 | 229 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
 | 230 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.76 | 
 | 231 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.12 | 
-| 232 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
+| 232 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 233 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 234 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 235 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
@@ -253,7 +253,7 @@
 | 251 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 252 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 253 | [FUSER™](games/f/fuser™.md) | 4.72 | 
-| 254 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 254 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 255 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.21 | 
 | 256 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.46 | 
 | 257 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
@@ -448,7 +448,7 @@
 | 446 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 447 | [Operation: Tango](games/o/operation__tango.md) | 4.67 | 
 | 448 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.30 | 
-| 449 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.74 | 
+| 449 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.73 | 
 | 450 | [Othercide](games/o/othercide.md) | 4.35 | 
 | 451 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 452 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.66 | 
@@ -590,7 +590,7 @@
 | 588 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
 | 589 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 590 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.35 | 
-| 591 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.44 | 
+| 591 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.33 | 
 | 592 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.75 | 
 | 593 | [SpiderHeck](games/s/spiderheck.md) | 4.73 | 
 | 594 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
@@ -684,7 +684,7 @@
 | 682 | [The Surge](games/t/the_surge.md) | 4.51 | 
 | 683 | [The Surge 2](games/t/the_surge_2.md) | 4.14 | 
 | 684 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
-| 685 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 685 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.73 | 
 | 686 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 687 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 688 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
