@@ -207,7 +207,7 @@
 | 205 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 206 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 207 | [EVE Online](games/e/eve_online.md) | 4.27 | 
-| 208 | [Everything](games/e/everything.md) | 4.67 | 
+| 208 | [Everything](games/e/everything.md) | 4.68 | 
 | 209 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.44 | 
 | 210 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 211 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
@@ -559,10 +559,10 @@
 | 557 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
 | 558 | [shapez](games/s/shapez.md) | 4.71 | 
 | 559 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 560 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.16 | 
+| 560 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.17 | 
 | 561 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
 | 562 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 563 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.38 | 
+| 563 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.39 | 
 | 564 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 565 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 566 | [Sifu](games/s/sifu.md) | 4.81 | 
@@ -619,7 +619,7 @@
 | 617 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 618 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 619 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 620 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
+| 620 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.67 | 
 | 621 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
 | 622 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 623 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
@@ -675,7 +675,7 @@
 | 673 | [The Medium](games/t/the_medium.md) | 4.56 | 
 | 674 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 675 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 676 | [The Pathless](games/t/the_pathless.md) | 4.70 | 
+| 676 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
 | 677 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
 | 678 | [The Silent Age](games/t/the_silent_age.md) | 4.45 | 
 | 679 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.26 | 
@@ -757,7 +757,7 @@
 | 755 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 756 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
 | 757 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 758 | [Verdun](games/v/verdun.md) | 4.51 | 
+| 758 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 759 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 760 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 761 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
@@ -768,7 +768,7 @@
 | 766 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 767 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 
 | 768 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
-| 769 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.56 | 
+| 769 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.57 | 
 | 770 | [Warpips](games/w/warpips.md) | 4.56 | 
 | 771 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 772 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
