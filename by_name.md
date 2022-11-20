@@ -125,7 +125,7 @@
 | 123 | [Conarium](games/c/conarium.md) | 3.94 | 
 | 124 | [Control](games/c/control.md) | 4.60 | 
 | 125 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
-| 126 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
+| 126 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 127 | [Core](games/c/core.md) | 4.38 | 
 | 128 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 129 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.69 | 
@@ -301,7 +301,7 @@
 | 299 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.53 | 
 | 300 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 301 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 302 | [Hob](games/h/hob.md) | 4.56 | 
+| 302 | [Hob](games/h/hob.md) | 4.57 | 
 | 303 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.44 | 
 | 304 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 305 | [Horace](games/h/horace.md) | 4.58 | 
@@ -367,7 +367,7 @@
 | 365 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 366 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 367 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
-| 368 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
+| 368 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 369 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 370 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
 | 371 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
@@ -412,7 +412,7 @@
 | 410 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 411 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 412 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 413 | [Mutazione](games/m/mutazione.md) | 4.65 | 
+| 413 | [Mutazione](games/m/mutazione.md) | 4.63 | 
 | 414 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 415 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 416 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
@@ -739,7 +739,7 @@
 | 737 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
 | 738 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.62 | 
 | 739 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 740 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 740 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
 | 741 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
 | 742 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
 | 743 | [TUNIC](games/t/tunic.md) | 4.87 | 
