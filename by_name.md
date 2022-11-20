@@ -15,7 +15,7 @@
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
@@ -148,7 +148,7 @@
 | 146 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 147 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
 | 148 | [Dark Deception](games/d/dark_deception.md) | 4.59 | 
-| 149 | [Dark Deity](games/d/dark_deity.md) | 3.97 | 
+| 149 | [Dark Deity](games/d/dark_deity.md) | 3.98 | 
 | 150 | [Dark Light](games/d/dark_light.md) | 4.24 | 
 | 151 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 152 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -206,7 +206,7 @@
 | 204 | [Encased](games/e/encased.md) | 4.39 | 
 | 205 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 206 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 207 | [EVE Online](games/e/eve_online.md) | 4.26 | 
+| 207 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 208 | [Everything](games/e/everything.md) | 4.68 | 
 | 209 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.43 | 
 | 210 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
@@ -277,7 +277,7 @@
 | 275 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 276 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 277 | [Good Company](games/g/good_company.md) | 4.43 | 
-| 278 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 278 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
 | 279 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
 | 280 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 281 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -296,7 +296,7 @@
 | 294 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 295 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
 | 296 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
-| 297 | [Hero's Hour](games/h/hero's_hour.md) | 4.35 | 
+| 297 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 298 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 299 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.53 | 
 | 300 | [HITMAN](games/h/hitman.md) | 4.64 | 
@@ -434,7 +434,7 @@
 | 432 | [No Straight Roads](games/n/no_straight_roads.md) | 4.70 | 
 | 433 | [NORCO](games/n/norco.md) | 4.59 | 
 | 434 | [Northgard](games/n/northgard.md) | 4.72 | 
-| 435 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.82 | 
+| 435 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.83 | 
 | 436 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 437 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
 | 438 | [Obduction](games/o/obduction.md) | 4.10 | 
@@ -560,7 +560,7 @@
 | 558 | [shapez](games/s/shapez.md) | 4.72 | 
 | 559 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 560 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.17 | 
-| 561 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.51 | 
+| 561 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
 | 562 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 563 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.39 | 
 | 564 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
@@ -711,7 +711,7 @@
 | 709 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.29 | 
 | 710 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 711 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.25 | 
-| 712 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 712 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
 | 713 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 714 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 715 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
@@ -787,7 +787,7 @@
 | 785 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 786 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 787 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 788 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 788 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 789 | [World of Goo](games/w/world_of_goo.md) | 4.68 | 
 | 790 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 791 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
