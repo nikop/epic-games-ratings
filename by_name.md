@@ -49,7 +49,7 @@
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.50 | 
-| 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 
+| 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.44 | 
@@ -189,7 +189,7 @@
 | 187 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 188 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 189 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
-| 190 | [DOOM 3](games/d/doom_3.md) | 4.64 | 
+| 190 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
 | 191 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 192 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 193 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
@@ -393,7 +393,7 @@
 | 391 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
 | 392 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 393 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 394 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.83 | 
+| 394 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.81 | 
 | 395 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 396 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 397 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
@@ -419,7 +419,7 @@
 | 417 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 418 | [MythForce](games/m/mythforce.md) | 4.50 | 
 | 419 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 420 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 420 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
 | 421 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 422 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
 | 423 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
@@ -465,7 +465,7 @@
 | 463 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 464 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 465 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.54 | 
-| 466 | [Paradigm](games/p/paradigm.md) | 4.49 | 
+| 466 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 467 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.36 | 
 | 468 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 469 | [Partisans 1941](games/p/partisans_1941.md) | 4.58 | 
