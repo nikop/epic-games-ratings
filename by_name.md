@@ -28,7 +28,7 @@
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
@@ -176,7 +176,7 @@
 | 174 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 175 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 176 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
-| 177 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 177 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 178 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.58 | 
 | 179 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 180 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -208,7 +208,7 @@
 | 206 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 207 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 208 | [EVE Online](games/e/eve_online.md) | 4.26 | 
-| 209 | [Everything](games/e/everything.md) | 4.68 | 
+| 209 | [Everything](games/e/everything.md) | 4.65 | 
 | 210 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.42 | 
 | 211 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 212 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
@@ -247,13 +247,13 @@
 | 245 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 246 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
 | 247 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 248 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
+| 248 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
 | 249 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 250 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 251 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 252 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 253 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 254 | [FUSER™](games/f/fuser™.md) | 4.72 | 
+| 254 | [FUSER™](games/f/fuser™.md) | 4.73 | 
 | 255 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 256 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.21 | 
 | 257 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.46 | 
@@ -278,7 +278,7 @@
 | 276 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 277 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 278 | [Good Company](games/g/good_company.md) | 4.43 | 
-| 279 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 279 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
 | 280 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
 | 281 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 282 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -497,7 +497,7 @@
 | 495 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 496 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 497 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
-| 498 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.48 | 
+| 498 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.49 | 
 | 499 | [Rayman Origins](games/r/rayman_origins.md) | 4.77 | 
 | 500 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
 | 501 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
@@ -753,7 +753,7 @@
 | 751 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.51 | 
 | 752 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 753 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 754 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 754 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.83 | 
 | 755 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.77 | 
 | 756 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 757 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
@@ -781,7 +781,7 @@
 | 779 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
 | 780 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 781 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.75 | 
-| 782 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.52 | 
+| 782 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.49 | 
 | 783 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 784 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 785 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
