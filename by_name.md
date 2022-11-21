@@ -201,7 +201,7 @@
 | 199 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.77 | 
 | 200 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 201 | [ELEX](games/e/elex.md) | 4.38 | 
-| 202 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
+| 202 | [ELEX II](games/e/elex_ii.md) | 4.24 | 
 | 203 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 204 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 205 | [Encased](games/e/encased.md) | 4.39 | 
@@ -340,7 +340,7 @@
 | 338 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 339 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 340 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 341 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.50 | 
+| 341 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.52 | 
 | 342 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 343 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 344 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
@@ -638,7 +638,7 @@
 | 636 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 637 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 638 | [Tacoma](games/t/tacoma.md) | 4.38 | 
-| 639 | [Tails of Iron](games/t/tails_of_iron.md) | 4.73 | 
+| 639 | [Tails of Iron](games/t/tails_of_iron.md) | 4.74 | 
 | 640 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 641 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
 | 642 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
@@ -686,7 +686,7 @@
 | 684 | [The Surge 2](games/t/the_surge_2.md) | 4.15 | 
 | 685 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 686 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.73 | 
-| 687 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 687 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
 | 688 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 689 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
 | 690 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
