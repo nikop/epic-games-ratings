@@ -54,7 +54,7 @@
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.44 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.38 | 
-| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.48 | 
+| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.32 | 
@@ -148,7 +148,7 @@
 | 146 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 147 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
 | 148 | [Dark Deception](games/d/dark_deception.md) | 4.59 | 
-| 149 | [Dark Deity](games/d/dark_deity.md) | 3.98 | 
+| 149 | [Dark Deity](games/d/dark_deity.md) | 3.99 | 
 | 150 | [Dark Light](games/d/dark_light.md) | 4.24 | 
 | 151 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 152 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -217,7 +217,7 @@
 | 215 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 216 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.81 | 
 | 217 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 218 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
+| 218 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
 | 219 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 220 | [Far Cry](games/f/far_cry.md) | 4.41 | 
 | 221 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.19 | 
@@ -237,7 +237,7 @@
 | 235 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
 | 236 | [Fez](games/f/fez.md) | 4.72 | 
 | 237 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
-| 238 | [Figment](games/f/figment.md) | 4.45 | 
+| 238 | [Figment](games/f/figment.md) | 4.44 | 
 | 239 | [Filament](games/f/filament.md) | 4.30 | 
 | 240 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 241 | [Firework](games/f/firework.md) | 4.88 | 
@@ -246,7 +246,7 @@
 | 244 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 245 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
 | 246 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 247 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
+| 247 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.71 | 
 | 248 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 249 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 250 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -287,7 +287,7 @@
 | 285 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 286 | [Hades](games/h/hades.md) | 4.92 | 
 | 287 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.44 | 
-| 288 | [Hammerting](games/h/hammerting.md) | 4.40 | 
+| 288 | [Hammerting](games/h/hammerting.md) | 4.42 | 
 | 289 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 290 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
 | 291 | [Haven](games/h/haven.md) | 4.76 | 
@@ -392,7 +392,7 @@
 | 390 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
 | 391 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 392 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 393 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.84 | 
+| 393 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.83 | 
 | 394 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 395 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 396 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
@@ -573,7 +573,7 @@
 | 571 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 572 | [Slipways](games/s/slipways.md) | 4.71 | 
 | 573 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 574 | [SMITE](games/s/smite.md) | 4.46 | 
+| 574 | [SMITE](games/s/smite.md) | 4.45 | 
 | 575 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 576 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
 | 577 | [Solitairica](games/s/solitairica.md) | 4.50 | 
@@ -584,7 +584,7 @@
 | 582 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 583 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 584 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
-| 585 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
+| 585 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 586 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 587 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 588 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
