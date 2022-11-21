@@ -23,7 +23,7 @@
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 24 | [Among Trees](games/a/among_trees.md) | 4.37 | 
+| 24 | [Among Trees](games/a/among_trees.md) | 4.38 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
@@ -71,7 +71,7 @@
 | 69 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 70 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 71 | [Barony](games/b/barony.md) | 4.69 | 
-| 72 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
+| 72 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.32 | 
 | 73 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 74 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 75 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
@@ -176,7 +176,7 @@
 | 174 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 175 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 176 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
-| 177 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 177 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 178 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.58 | 
 | 179 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 180 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -209,7 +209,7 @@
 | 207 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 208 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 209 | [Everything](games/e/everything.md) | 4.65 | 
-| 210 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.42 | 
+| 210 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.41 | 
 | 211 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 212 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 213 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
@@ -404,7 +404,7 @@
 | 402 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
 | 403 | [Minit](games/m/minit.md) | 4.55 | 
 | 404 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.85 | 
-| 405 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
+| 405 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 406 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 407 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 408 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
@@ -643,7 +643,7 @@
 | 641 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
 | 642 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 643 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 644 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 644 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.85 | 
 | 645 | [Tharsis](games/t/tharsis.md) | 4.13 | 
 | 646 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 647 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.61 | 
@@ -654,7 +654,7 @@
 | 652 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 653 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 654 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 655 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
+| 655 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 656 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
 | 657 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 658 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
@@ -708,7 +708,7 @@
 | 706 | [Timberborn](games/t/timberborn.md) | 4.70 | 
 | 707 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 708 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 709 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.65 | 
+| 709 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
 | 710 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.30 | 
 | 711 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 712 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.25 | 
@@ -733,7 +733,7 @@
 | 731 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 732 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 733 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 734 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
+| 734 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
 | 735 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 736 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
 | 737 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
@@ -800,7 +800,7 @@
 | 798 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.54 | 
 | 799 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 800 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
-| 801 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
+| 801 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
 | 802 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
 | 803 | [ZOMBI](games/z/zombi.md) | 4.35 | 
 | 804 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
