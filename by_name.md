@@ -183,7 +183,7 @@
 | 181 | [Diabotical](games/d/diabotical.md) | 4.76 | 
 | 182 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
 | 183 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.41 | 
-| 184 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 184 | [Disco Elysium](games/d/disco_elysium.md) | 4.88 | 
 | 185 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 186 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 187 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
@@ -278,7 +278,7 @@
 | 276 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 277 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 278 | [Good Company](games/g/good_company.md) | 4.43 | 
-| 279 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
+| 279 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 280 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
 | 281 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 282 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -319,7 +319,7 @@
 | 317 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.62 | 
 | 318 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.64 | 
 | 319 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 320 | [Imagine Earth](games/i/imagine_earth.md) | 4.35 | 
+| 320 | [Imagine Earth](games/i/imagine_earth.md) | 4.33 | 
 | 321 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
 | 322 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
 | 323 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
@@ -366,7 +366,7 @@
 | 364 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 365 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 366 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 367 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
+| 367 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 368 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 369 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 370 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
@@ -553,7 +553,7 @@
 | 551 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 552 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 553 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.77 | 
-| 554 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
+| 554 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
 | 555 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 556 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 557 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
@@ -708,7 +708,7 @@
 | 706 | [Timberborn](games/t/timberborn.md) | 4.70 | 
 | 707 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 708 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 709 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
+| 709 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.65 | 
 | 710 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.30 | 
 | 711 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 712 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.25 | 
