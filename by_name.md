@@ -176,7 +176,7 @@
 | 174 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 175 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 176 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
-| 177 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 177 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 178 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.58 | 
 | 179 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 180 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -220,7 +220,7 @@
 | 218 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 219 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
 | 220 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 221 | [Far Cry](games/f/far_cry.md) | 4.41 | 
+| 221 | [Far Cry](games/f/far_cry.md) | 4.39 | 
 | 222 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.19 | 
 | 223 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 224 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
@@ -502,7 +502,7 @@
 | 500 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
 | 501 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 502 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
-| 503 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 
+| 503 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 504 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
 | 505 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 506 | [Redout 2](games/r/redout_2.md) | 4.54 | 

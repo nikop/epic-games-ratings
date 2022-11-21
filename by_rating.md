@@ -484,24 +484,24 @@
 | 482 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.51 | 
 | 483 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 484 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
-| 485 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 486 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 487 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 488 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 489 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
-| 490 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 491 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 492 | [MythForce](games/m/mythforce.md) | 4.50 | 
-| 493 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 494 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
-| 495 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.50 | 
-| 496 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
-| 497 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
-| 498 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
-| 499 | [GigaBash](games/g/gigabash.md) | 4.50 | 
-| 500 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
-| 501 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 502 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 485 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 486 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 487 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 488 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
+| 489 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 490 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 491 | [MythForce](games/m/mythforce.md) | 4.50 | 
+| 492 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 493 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
+| 494 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.50 | 
+| 495 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
+| 496 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
+| 497 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
+| 498 | [GigaBash](games/g/gigabash.md) | 4.50 | 
+| 499 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
+| 500 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 501 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 502 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 503 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 504 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 505 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
@@ -581,40 +581,40 @@
 | 579 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 580 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 581 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 582 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 
-| 583 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 584 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 585 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
-| 586 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 
-| 587 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
-| 588 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 
-| 589 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
-| 590 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 591 | [Hammerting](games/h/hammerting.md) | 4.42 | 
-| 592 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
-| 593 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 582 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 583 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 584 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
+| 585 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 
+| 586 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
+| 587 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 
+| 588 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
+| 589 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 590 | [Hammerting](games/h/hammerting.md) | 4.42 | 
+| 591 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
+| 592 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 593 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 594 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 595 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
 | 596 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.41 | 
-| 597 | [Far Cry](games/f/far_cry.md) | 4.41 | 
-| 598 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 599 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 600 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 601 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 602 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
-| 603 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 604 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
-| 605 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 606 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 607 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.40 | 
-| 608 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 609 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 610 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
-| 611 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 612 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
-| 613 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
-| 614 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.39 | 
-| 615 | [Encased](games/e/encased.md) | 4.39 | 
+| 597 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 598 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
+| 599 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 600 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 601 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
+| 602 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 603 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
+| 604 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 605 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 606 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.40 | 
+| 607 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 608 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 609 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
+| 610 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 611 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
+| 612 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
+| 613 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.39 | 
+| 614 | [Encased](games/e/encased.md) | 4.39 | 
+| 615 | [Far Cry](games/f/far_cry.md) | 4.39 | 
 | 616 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 617 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.39 | 
 | 618 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
