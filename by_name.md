@@ -23,7 +23,7 @@
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 24 | [Among Trees](games/a/among_trees.md) | 4.38 | 
+| 24 | [Among Trees](games/a/among_trees.md) | 4.37 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
@@ -314,7 +314,7 @@
 | 312 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 313 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 314 | [Huntdown](games/h/huntdown.md) | 4.82 | 
-| 315 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 315 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 316 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.62 | 
 | 317 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.64 | 
 | 318 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
@@ -380,7 +380,7 @@
 | 378 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 379 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 380 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.24 | 
-| 381 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.11 | 
+| 381 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.12 | 
 | 382 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 383 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
 | 384 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
@@ -392,7 +392,7 @@
 | 390 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
 | 391 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 392 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 393 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.83 | 
+| 393 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.84 | 
 | 394 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 395 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 396 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
@@ -405,7 +405,7 @@
 | 403 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.85 | 
 | 404 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 405 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
-| 406 | [Mothergunship](games/m/mothergunship.md) | 4.40 | 
+| 406 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 407 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 408 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 409 | [Moving Out](games/m/moving_out.md) | 4.58 | 
@@ -534,7 +534,7 @@
 | 532 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 533 | [Runbow](games/r/runbow.md) | 4.45 | 
 | 534 | [Sable](games/s/sable.md) | 4.57 | 
-| 535 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.81 | 
+| 535 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
 | 536 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 537 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 538 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
@@ -579,7 +579,7 @@
 | 577 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 578 | [SOMA](games/s/soma.md) | 4.64 | 
 | 579 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 580 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
+| 580 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
 | 581 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 582 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 583 | [Souldiers](games/s/souldiers.md) | 4.55 | 
@@ -657,7 +657,7 @@
 | 655 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
 | 656 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 657 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 658 | [The Escapists 2](games/t/the_escapists_2.md) | 4.57 | 
+| 658 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 659 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 660 | [The Fall](games/t/the_fall.md) | 4.28 | 
 | 661 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 
@@ -676,13 +676,13 @@
 | 674 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 675 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 676 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
-| 677 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.72 | 
+| 677 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 678 | [The Silent Age](games/t/the_silent_age.md) | 4.45 | 
 | 679 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.26 | 
 | 680 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 681 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 
 | 682 | [The Surge](games/t/the_surge.md) | 4.51 | 
-| 683 | [The Surge 2](games/t/the_surge_2.md) | 4.14 | 
+| 683 | [The Surge 2](games/t/the_surge_2.md) | 4.15 | 
 | 684 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 685 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.73 | 
 | 686 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
@@ -722,7 +722,7 @@
 | 720 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 721 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 722 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
-| 723 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.73 | 
+| 723 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
 | 724 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 725 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.26 | 
 | 726 | [Trackmania](games/t/trackmania.md) | 4.67 | 
