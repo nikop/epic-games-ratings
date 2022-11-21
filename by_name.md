@@ -31,7 +31,7 @@
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 32 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
+| 32 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
@@ -183,7 +183,7 @@
 | 181 | [Diabotical](games/d/diabotical.md) | 4.76 | 
 | 182 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
 | 183 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.41 | 
-| 184 | [Disco Elysium](games/d/disco_elysium.md) | 4.88 | 
+| 184 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 185 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 186 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 187 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
@@ -322,7 +322,7 @@
 | 320 | [Imagine Earth](games/i/imagine_earth.md) | 4.33 | 
 | 321 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
 | 322 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 323 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
+| 323 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 324 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 325 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 326 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
@@ -348,7 +348,7 @@
 | 346 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
 | 347 | [King of Retail](games/k/king_of_retail.md) | 4.75 | 
 | 348 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 
-| 349 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
+| 349 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.83 | 
 | 350 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
 | 351 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
 | 352 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.72 | 
@@ -584,7 +584,7 @@
 | 582 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 583 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 584 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 585 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.79 | 
+| 585 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
 | 586 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 587 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 588 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
