@@ -137,19 +137,19 @@
 | 135 | [Crayta](games/c/crayta.md) | 4.18 | 
 | 136 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
 | 137 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
-| 138 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 
+| 138 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
 | 139 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 140 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 141 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 142 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.67 | 
-| 143 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 143 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
 | 144 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 145 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 146 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 147 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 148 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
 | 149 | [Dark Deception](games/d/dark_deception.md) | 4.59 | 
-| 150 | [Dark Deity](games/d/dark_deity.md) | 4.00 | 
+| 150 | [Dark Deity](games/d/dark_deity.md) | 4.01 | 
 | 151 | [Dark Light](games/d/dark_light.md) | 4.27 | 
 | 152 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 153 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -196,7 +196,7 @@
 | 194 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 195 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 196 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 197 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 
+| 197 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
 | 198 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 199 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.77 | 
 | 200 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -278,7 +278,7 @@
 | 276 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 277 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 278 | [Good Company](games/g/good_company.md) | 4.43 | 
-| 279 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 279 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
 | 280 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
 | 281 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 282 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -546,7 +546,7 @@
 | 544 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 545 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
 | 546 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 547 | [Scorn](games/s/scorn.md) | 4.46 | 
+| 547 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 548 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
 | 549 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
 | 550 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
@@ -738,7 +738,7 @@
 | 736 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
 | 737 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 738 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
-| 739 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.62 | 
+| 739 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
 | 740 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
 | 741 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
 | 742 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 

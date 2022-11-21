@@ -174,7 +174,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 307
+      "Count": 323
     },
     {
       "Text": "This game has Diverse Characters",
@@ -199,6 +199,10 @@
     {
       "Text": "This game is Extremely Fun",
       "Count": 21
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 20
     }
   ]
 }
