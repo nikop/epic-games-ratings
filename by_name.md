@@ -31,7 +31,7 @@
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 32 | [Anno 2070](games/a/anno_2070.md) | 4.48 | 
+| 32 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
@@ -337,7 +337,7 @@
 | 335 | [Journey](games/j/journey.md) | 4.76 | 
 | 336 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 337 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 338 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
+| 338 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 339 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 340 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 341 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.52 | 
@@ -419,7 +419,7 @@
 | 417 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 418 | [MythForce](games/m/mythforce.md) | 4.50 | 
 | 419 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 420 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 420 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 421 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 422 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
 | 423 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
@@ -448,7 +448,7 @@
 | 446 | [Old World](games/o/old_world.md) | 4.64 | 
 | 447 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 448 | [Operation: Tango](games/o/operation__tango.md) | 4.67 | 
-| 449 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.30 | 
+| 449 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.32 | 
 | 450 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.73 | 
 | 451 | [Othercide](games/o/othercide.md) | 4.35 | 
 | 452 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
@@ -553,7 +553,7 @@
 | 551 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 552 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 553 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.76 | 
-| 554 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
+| 554 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 555 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 556 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 557 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
@@ -607,7 +607,7 @@
 | 605 | [Startup Panic](games/s/startup_panic.md) | 4.35 | 
 | 606 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 607 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 608 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.63 | 
+| 608 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
 | 609 | [STG Football](games/s/stg_football.md) | 4.60 | 
 | 610 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
 | 611 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
@@ -709,7 +709,7 @@
 | 707 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 708 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 709 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
-| 710 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.29 | 
+| 710 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.30 | 
 | 711 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 712 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.25 | 
 | 713 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
