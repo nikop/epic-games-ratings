@@ -70,11 +70,11 @@
 | 68 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
 | 69 | [Huntdown](games/h/huntdown.md) | 4.82 | 
 | 70 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
-| 71 | [Sifu](games/s/sifu.md) | 4.81 | 
-| 72 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 73 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 74 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.81 | 
-| 75 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 71 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 72 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 73 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.81 | 
+| 74 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 75 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 76 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 77 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 78 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
@@ -508,16 +508,16 @@
 | 506 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 507 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
 | 508 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 509 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
-| 510 | [Paradigm](games/p/paradigm.md) | 4.49 | 
-| 511 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 512 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
-| 513 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 514 | [Little Inferno](games/l/little_inferno.md) | 4.49 | 
-| 515 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 516 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 517 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 518 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.48 | 
+| 509 | [Paradigm](games/p/paradigm.md) | 4.49 | 
+| 510 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 511 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
+| 512 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 513 | [Little Inferno](games/l/little_inferno.md) | 4.49 | 
+| 514 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 515 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 516 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 517 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.48 | 
+| 518 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 519 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 
 | 520 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.48 | 
 | 521 | [Anno 2070](games/a/anno_2070.md) | 4.48 | 
@@ -533,17 +533,17 @@
 | 531 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 532 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 533 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
-| 534 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
-| 535 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.46 | 
-| 536 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
-| 537 | [Scorn](games/s/scorn.md) | 4.46 | 
-| 538 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 539 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 540 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.45 | 
-| 541 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 542 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 543 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 544 | [Death Coming](games/d/death_coming.md) | 4.45 | 
+| 534 | [Death Coming](games/d/death_coming.md) | 4.46 | 
+| 535 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
+| 536 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.46 | 
+| 537 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
+| 538 | [Scorn](games/s/scorn.md) | 4.46 | 
+| 539 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 540 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 541 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.45 | 
+| 542 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 543 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 544 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 545 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
 | 546 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 547 | [The Silent Age](games/t/the_silent_age.md) | 4.45 | 
@@ -699,12 +699,12 @@
 | 697 | [The Fall](games/t/the_fall.md) | 4.27 | 
 | 698 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 699 | [Dark Light](games/d/dark_light.md) | 4.27 | 
-| 700 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
-| 701 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 702 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.26 | 
-| 703 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
-| 704 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.26 | 
-| 705 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 
+| 700 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 701 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.26 | 
+| 702 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
+| 703 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.26 | 
+| 704 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 
+| 705 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 706 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 707 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
 | 708 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.25 | 

@@ -97,7 +97,7 @@
 | 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.32 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.57 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
-| 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.49 | 
+| 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 99 | [Bugsnax](games/b/bugsnax.md) | 4.84 | 
 | 100 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.28 | 
 | 101 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
@@ -164,7 +164,7 @@
 | 162 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 163 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 164 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
-| 165 | [Death Coming](games/d/death_coming.md) | 4.45 | 
+| 165 | [Death Coming](games/d/death_coming.md) | 4.46 | 
 | 166 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 167 | [Death's Door](games/d/death's_door.md) | 4.64 | 
 | 168 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
@@ -278,7 +278,7 @@
 | 276 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 277 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 278 | [Good Company](games/g/good_company.md) | 4.43 | 
-| 279 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
+| 279 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 280 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
 | 281 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 282 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -566,7 +566,7 @@
 | 564 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.39 | 
 | 565 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 566 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 567 | [Sifu](games/s/sifu.md) | 4.81 | 
+| 567 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 568 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
 | 569 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 570 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
