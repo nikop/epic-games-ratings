@@ -1,10 +1,10 @@
 {
   "ID": "eddb735dde6b47cda8193f2643cff886",
   "Name": "Blasphemous",
-  "Rating": 4.9,
+  "Rating": 4.91,
   "NumberOfRatings": 205,
   "FirstSeen": "2022-07-22T20:20:14.5456165+00:00",
-  "LastChanged": "2022-11-19T04:57:03.8917919+00:00",
+  "LastChanged": "2022-11-21T22:57:09.8463435+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:14.5456168+00:00",
@@ -324,6 +324,11 @@
     {
       "Time": "2022-11-19T04:57:03.891792+00:00",
       "Rating": 4.9,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T22:57:09.8463438+00:00",
+      "Rating": 4.91,
       "NumberOfRatings": null
     }
   ],

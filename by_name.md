@@ -88,7 +88,7 @@
 | 86 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.24 | 
 | 87 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
+| 89 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.40 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
@@ -176,7 +176,7 @@
 | 174 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 175 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 176 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
-| 177 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 177 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 178 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.58 | 
 | 179 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 180 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -481,7 +481,7 @@
 | 479 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 480 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 481 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 482 | [Pinball FX](games/p/pinball_fx.md) | 4.01 | 
+| 482 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 483 | [Pine](games/p/pine.md) | 4.13 | 
 | 484 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.44 | 
 | 485 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
@@ -631,7 +631,7 @@
 | 629 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 630 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 631 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.45 | 
-| 632 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 632 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 
 | 633 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 634 | [Suzerain](games/s/suzerain.md) | 4.70 | 
 | 635 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
