@@ -78,7 +78,7 @@
 | 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.66 | 
 | 77 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.76 | 
 | 78 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
-| 79 | [Beholder 3](games/b/beholder_3.md) | 4.43 | 
+| 79 | [Beholder 3](games/b/beholder_3.md) | 4.45 | 
 | 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
 | 81 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 82 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
@@ -182,7 +182,7 @@
 | 180 | [Diabotical](games/d/diabotical.md) | 4.76 | 
 | 181 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
 | 182 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.41 | 
-| 183 | [Disco Elysium](games/d/disco_elysium.md) | 4.88 | 
+| 183 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 184 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 185 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 186 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
@@ -373,7 +373,7 @@
 | 371 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
 | 372 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 373 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 374 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.03 | 
+| 374 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 
 | 375 | [Limbo](games/l/limbo.md) | 4.63 | 
 | 376 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
 | 377 | [Little Inferno](games/l/little_inferno.md) | 4.49 | 
@@ -625,7 +625,7 @@
 | 623 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
 | 624 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
 | 625 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
-| 626 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.64 | 
+| 626 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.65 | 
 | 627 | [Superliminal](games/s/superliminal.md) | 4.79 | 
 | 628 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 629 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
@@ -783,7 +783,7 @@
 | 781 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.52 | 
 | 782 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 783 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
-| 784 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
+| 784 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 785 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 786 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 787 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
