@@ -148,8 +148,8 @@
 | 146 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 147 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
 | 148 | [Dark Deception](games/d/dark_deception.md) | 4.59 | 
-| 149 | [Dark Deity](games/d/dark_deity.md) | 3.99 | 
-| 150 | [Dark Light](games/d/dark_light.md) | 4.24 | 
+| 149 | [Dark Deity](games/d/dark_deity.md) | 4.00 | 
+| 150 | [Dark Light](games/d/dark_light.md) | 4.27 | 
 | 151 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 152 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 153 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
@@ -272,7 +272,7 @@
 | 270 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 271 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 272 | [Godfall](games/g/godfall.md) | 4.06 | 
-| 273 | [Godlike Burger](games/g/godlike_burger.md) | 4.24 | 
+| 273 | [Godlike Burger](games/g/godlike_burger.md) | 4.15 | 
 | 274 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
 | 275 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 276 | [Gone Home](games/g/gone_home.md) | 4.15 | 
@@ -455,7 +455,7 @@
 | 453 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 454 | [Outlast](games/o/outlast.md) | 4.74 | 
 | 455 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 456 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 456 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 457 | [Outward](games/o/outward.md) | 4.55 | 
 | 458 | [Overcooked](games/o/overcooked.md) | 4.68 | 
 | 459 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
@@ -573,7 +573,7 @@
 | 571 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 572 | [Slipways](games/s/slipways.md) | 4.71 | 
 | 573 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 574 | [SMITE](games/s/smite.md) | 4.45 | 
+| 574 | [SMITE](games/s/smite.md) | 4.46 | 
 | 575 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 576 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
 | 577 | [Solitairica](games/s/solitairica.md) | 4.50 | 
