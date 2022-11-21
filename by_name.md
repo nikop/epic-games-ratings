@@ -355,7 +355,7 @@
 | 353 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
 | 354 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 355 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 356 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
+| 356 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.63 | 
 | 357 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 358 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 359 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
@@ -661,7 +661,7 @@
 | 659 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 660 | [The Fall](games/t/the_fall.md) | 4.28 | 
 | 661 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 
-| 662 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
+| 662 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
 | 663 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
 | 664 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.95 | 
 | 665 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
