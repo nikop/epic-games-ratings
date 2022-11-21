@@ -79,7 +79,7 @@
 | 77 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.76 | 
 | 78 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
 | 79 | [Beholder 3](games/b/beholder_3.md) | 4.45 | 
-| 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
+| 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
 | 81 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 82 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 83 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
@@ -254,7 +254,7 @@
 | 252 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 253 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 254 | [FUSER™](games/f/fuser™.md) | 4.73 | 
-| 255 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 255 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 256 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.21 | 
 | 257 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.46 | 
 | 258 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
@@ -337,7 +337,7 @@
 | 335 | [Journey](games/j/journey.md) | 4.76 | 
 | 336 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 337 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 338 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 338 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 339 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 340 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 341 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.52 | 
@@ -427,7 +427,7 @@
 | 425 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 426 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
 | 427 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 428 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.11 | 
+| 428 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.12 | 
 | 429 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 430 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 431 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -481,7 +481,7 @@
 | 479 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 480 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 481 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 482 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
+| 482 | [Pinball FX](games/p/pinball_fx.md) | 4.01 | 
 | 483 | [Pine](games/p/pine.md) | 4.13 | 
 | 484 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.44 | 
 | 485 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
@@ -592,7 +592,7 @@
 | 590 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 591 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.35 | 
 | 592 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.33 | 
-| 593 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.76 | 
+| 593 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 
 | 594 | [SpiderHeck](games/s/spiderheck.md) | 4.73 | 
 | 595 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 596 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
@@ -797,7 +797,7 @@
 | 795 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 796 | [WRC Generations](games/w/wrc_generations.md) | 4.56 | 
 | 797 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 798 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 798 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.54 | 
 | 799 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 800 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
 | 801 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
