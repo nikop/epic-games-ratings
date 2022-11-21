@@ -81,6 +81,10 @@
     {
       "Text": "This game is Highly Recommended",
       "Count": 21
+    },
+    {
+      "Text": "This game is Educational",
+      "Count": 25
     }
   ]
 }

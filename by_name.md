@@ -126,7 +126,7 @@
 | 124 | [Conarium](games/c/conarium.md) | 3.94 | 
 | 125 | [Control](games/c/control.md) | 4.60 | 
 | 126 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
-| 127 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 127 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
 | 128 | [Core](games/c/core.md) | 4.38 | 
 | 129 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 130 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.69 | 
@@ -243,7 +243,7 @@
 | 241 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 242 | [Firework](games/f/firework.md) | 4.88 | 
 | 243 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 
-| 244 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 244 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 245 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 246 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
 | 247 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
@@ -293,7 +293,7 @@
 | 291 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
 | 292 | [Haven](games/h/haven.md) | 4.76 | 
 | 293 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
-| 294 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.66 | 
+| 294 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 295 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 296 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
 | 297 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
@@ -377,7 +377,7 @@
 | 375 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 
 | 376 | [Limbo](games/l/limbo.md) | 4.63 | 
 | 377 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
-| 378 | [Little Inferno](games/l/little_inferno.md) | 4.49 | 
+| 378 | [Little Inferno](games/l/little_inferno.md) | 4.50 | 
 | 379 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 380 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 381 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.24 | 
@@ -552,7 +552,7 @@
 | 550 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 551 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 552 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 553 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.76 | 
+| 553 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.77 | 
 | 554 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 555 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 556 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
@@ -778,7 +778,7 @@
 | 776 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.53 | 
 | 777 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
 | 778 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 779 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
+| 779 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
 | 780 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 781 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.75 | 
 | 782 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.49 | 
@@ -799,8 +799,8 @@
 | 797 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 798 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 799 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 800 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 800 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
 | 801 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
-| 802 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.66 | 
+| 802 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
 | 803 | [ZOMBI](games/z/zombi.md) | 4.35 | 
 | 804 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
