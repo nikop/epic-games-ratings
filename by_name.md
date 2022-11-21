@@ -131,7 +131,7 @@
 | 129 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 130 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.69 | 
 | 131 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
-| 132 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
+| 132 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
 | 133 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
 | 134 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 135 | [Crayta](games/c/crayta.md) | 4.18 | 
@@ -255,7 +255,7 @@
 | 253 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 254 | [FUSER™](games/f/fuser™.md) | 4.73 | 
 | 255 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 256 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.21 | 
+| 256 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
 | 257 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.46 | 
 | 258 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 259 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
@@ -413,7 +413,7 @@
 | 411 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 412 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 413 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.48 | 
-| 414 | [Mutazione](games/m/mutazione.md) | 4.63 | 
+| 414 | [Mutazione](games/m/mutazione.md) | 4.64 | 
 | 415 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
 | 416 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 417 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
@@ -506,7 +506,7 @@
 | 504 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
 | 505 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 506 | [Redout 2](games/r/redout_2.md) | 4.54 | 
-| 507 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 507 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
 | 508 | [Relicta](games/r/relicta.md) | 4.14 | 
 | 509 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 510 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.85 | 
