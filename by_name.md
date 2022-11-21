@@ -139,7 +139,7 @@
 | 137 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 138 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 
 | 139 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 140 | [CryoFall](games/c/cryofall.md) | 4.50 | 
+| 140 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 141 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 142 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.67 | 
 | 143 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
@@ -176,7 +176,7 @@
 | 174 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 175 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 176 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
-| 177 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 177 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 178 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.58 | 
 | 179 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 180 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -540,7 +540,7 @@
 | 538 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 539 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
 | 540 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 541 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
+| 541 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 542 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.59 | 
 | 543 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 544 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
