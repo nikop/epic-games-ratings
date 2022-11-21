@@ -17,7 +17,7 @@
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
-| 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
+| 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.61 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.01 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
@@ -59,7 +59,7 @@
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.32 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
+| 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.55 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.52 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
@@ -207,7 +207,7 @@
 | 205 | [Encased](games/e/encased.md) | 4.39 | 
 | 206 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 207 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 208 | [EVE Online](games/e/eve_online.md) | 4.27 | 
+| 208 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 209 | [Everything](games/e/everything.md) | 4.68 | 
 | 210 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.42 | 
 | 211 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 

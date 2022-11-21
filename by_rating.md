@@ -310,29 +310,29 @@
 | 308 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.62 | 
 | 309 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 310 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.62 | 
-| 311 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
-| 312 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 313 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 314 | [Prey](games/p/prey.md) | 4.61 | 
-| 315 | [Warframe](games/w/warframe.md) | 4.61 | 
-| 316 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 317 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 318 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 319 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 320 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
-| 321 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
-| 322 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
-| 323 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 324 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 325 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 326 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
-| 327 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 328 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
-| 329 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
-| 330 | [Roguebook](games/r/roguebook.md) | 4.61 | 
-| 331 | [Last Day of June](games/l/last_day_of_june.md) | 4.61 | 
-| 332 | [Card Shark](games/c/card_shark.md) | 4.61 | 
-| 333 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.61 | 
+| 311 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 312 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 313 | [Prey](games/p/prey.md) | 4.61 | 
+| 314 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 315 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 316 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 317 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 318 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 319 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
+| 320 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 321 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 322 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 323 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 324 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
+| 325 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
+| 326 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 327 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
+| 328 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
+| 329 | [Roguebook](games/r/roguebook.md) | 4.61 | 
+| 330 | [Last Day of June](games/l/last_day_of_june.md) | 4.61 | 
+| 331 | [Card Shark](games/c/card_shark.md) | 4.61 | 
+| 332 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.61 | 
+| 333 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.61 | 
 | 334 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 335 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 336 | [Control](games/c/control.md) | 4.60 | 
@@ -424,18 +424,18 @@
 | 422 | [Outward](games/o/outward.md) | 4.55 | 
 | 423 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 424 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 425 | [Minit](games/m/minit.md) | 4.55 | 
-| 426 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
-| 427 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
-| 428 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 429 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 430 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 431 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 432 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
-| 433 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 434 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 435 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
-| 436 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
+| 425 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.55 | 
+| 426 | [Minit](games/m/minit.md) | 4.55 | 
+| 427 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
+| 428 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 429 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 430 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 431 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 432 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 433 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
+| 434 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
+| 435 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 436 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
 | 437 | [Aragami 2](games/a/aragami_2.md) | 4.54 | 
 | 438 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
 | 439 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
@@ -692,13 +692,13 @@
 | 690 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 691 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
 | 692 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.28 | 
-| 693 | [EVE Online](games/e/eve_online.md) | 4.27 | 
-| 694 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
-| 695 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
-| 696 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
-| 697 | [The Fall](games/t/the_fall.md) | 4.27 | 
-| 698 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 699 | [Dark Light](games/d/dark_light.md) | 4.27 | 
+| 693 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
+| 694 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.27 | 
+| 695 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
+| 696 | [The Fall](games/t/the_fall.md) | 4.27 | 
+| 697 | [Parkitect](games/p/parkitect.md) | 4.27 | 
+| 698 | [Dark Light](games/d/dark_light.md) | 4.27 | 
+| 699 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 700 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 701 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.26 | 
 | 702 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
