@@ -84,17 +84,17 @@
 | 82 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 83 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 84 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
-| 85 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 86 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 87 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 88 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 89 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
-| 90 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 91 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
-| 92 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 93 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.79 | 
-| 94 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
-| 95 | [Superliminal](games/s/superliminal.md) | 4.79 | 
+| 85 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 86 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
+| 87 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 88 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
+| 89 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
+| 90 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
+| 91 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 92 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.79 | 
+| 93 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
+| 94 | [Superliminal](games/s/superliminal.md) | 4.79 | 
+| 95 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 96 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 97 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 98 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
@@ -427,16 +427,16 @@
 | 425 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
 | 426 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.55 | 
 | 427 | [Minit](games/m/minit.md) | 4.55 | 
-| 428 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
-| 429 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
-| 430 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 431 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 432 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 433 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 434 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
-| 435 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 436 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 437 | [Aragami 2](games/a/aragami_2.md) | 4.54 | 
+| 428 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 
+| 429 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
+| 430 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 431 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 432 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 433 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 434 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 435 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
+| 436 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
+| 437 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 438 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.54 | 
 | 439 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
 | 440 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
@@ -776,11 +776,11 @@
 | 774 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 
 | 775 | [Lake](games/l/lake.md) | 4.04 | 
 | 776 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
-| 777 | [Dark Deity](games/d/dark_deity.md) | 4.02 | 
-| 778 | [Pinball FX](games/p/pinball_fx.md) | 4.01 | 
-| 779 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.01 | 
-| 780 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 
-| 781 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
+| 777 | [Pinball FX](games/p/pinball_fx.md) | 4.01 | 
+| 778 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.01 | 
+| 779 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 
+| 780 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
+| 781 | [Dark Deity](games/d/dark_deity.md) | 4.01 | 
 | 782 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 783 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 784 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 

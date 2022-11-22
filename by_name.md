@@ -36,7 +36,7 @@
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.67 | 
-| 37 | [Aragami 2](games/a/aragami_2.md) | 4.54 | 
+| 37 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 
 | 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.64 | 
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
@@ -149,7 +149,7 @@
 | 147 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 148 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
 | 149 | [Dark Deception](games/d/dark_deception.md) | 4.59 | 
-| 150 | [Dark Deity](games/d/dark_deity.md) | 4.02 | 
+| 150 | [Dark Deity](games/d/dark_deity.md) | 4.01 | 
 | 151 | [Dark Light](games/d/dark_light.md) | 4.27 | 
 | 152 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 153 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -301,7 +301,7 @@
 | 299 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 300 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.53 | 
 | 301 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 302 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 302 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 303 | [Hob](games/h/hob.md) | 4.57 | 
 | 304 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.44 | 
 | 305 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
