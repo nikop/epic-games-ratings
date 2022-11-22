@@ -103,29 +103,29 @@
 | 101 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 102 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 103 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 104 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.77 | 
-| 105 | [Rayman Origins](games/r/rayman_origins.md) | 4.77 | 
-| 106 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.77 | 
-| 107 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
-| 108 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 109 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 110 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 111 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 112 | [Journey](games/j/journey.md) | 4.76 | 
-| 113 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
-| 114 | [Haven](games/h/haven.md) | 4.76 | 
-| 115 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.76 | 
-| 116 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
-| 117 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.76 | 
-| 118 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 120 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 121 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 122 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
-| 123 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
-| 124 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 125 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
-| 126 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
+| 104 | [Rayman Origins](games/r/rayman_origins.md) | 4.77 | 
+| 105 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.77 | 
+| 106 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
+| 107 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 108 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 109 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 110 | [Diabotical](games/d/diabotical.md) | 4.76 | 
+| 111 | [Journey](games/j/journey.md) | 4.76 | 
+| 112 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
+| 113 | [Haven](games/h/haven.md) | 4.76 | 
+| 114 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.76 | 
+| 115 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
+| 116 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.76 | 
+| 117 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 119 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 120 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 121 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
+| 122 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 123 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 124 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
+| 125 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
+| 126 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
 | 127 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.75 | 
 | 128 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
 | 129 | [King of Retail](games/k/king_of_retail.md) | 4.75 | 
@@ -526,14 +526,14 @@
 | 524 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 525 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 526 | [Riverbond](games/r/riverbond.md) | 4.47 | 
-| 527 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
-| 528 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
-| 529 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 530 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 531 | [SMITE](games/s/smite.md) | 4.46 | 
-| 532 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 533 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 534 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
+| 527 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
+| 528 | [Scorn](games/s/scorn.md) | 4.47 | 
+| 529 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 530 | [SMITE](games/s/smite.md) | 4.46 | 
+| 531 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 532 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 533 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
+| 534 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
 | 535 | [Death Coming](games/d/death_coming.md) | 4.46 | 
 | 536 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 537 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.46 | 
@@ -777,11 +777,11 @@
 | 775 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 776 | [Lake](games/l/lake.md) | 4.04 | 
 | 777 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
-| 778 | [Pinball FX](games/p/pinball_fx.md) | 4.01 | 
-| 779 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.01 | 
-| 780 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 
-| 781 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
-| 782 | [Dark Deity](games/d/dark_deity.md) | 4.01 | 
+| 778 | [Dark Deity](games/d/dark_deity.md) | 4.02 | 
+| 779 | [Pinball FX](games/p/pinball_fx.md) | 4.01 | 
+| 780 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.01 | 
+| 781 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 
+| 782 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
 | 783 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 784 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 785 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 

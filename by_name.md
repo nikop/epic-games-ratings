@@ -49,7 +49,7 @@
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.50 | 
-| 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
+| 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.44 | 
@@ -149,7 +149,7 @@
 | 147 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 148 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
 | 149 | [Dark Deception](games/d/dark_deception.md) | 4.59 | 
-| 150 | [Dark Deity](games/d/dark_deity.md) | 4.01 | 
+| 150 | [Dark Deity](games/d/dark_deity.md) | 4.02 | 
 | 151 | [Dark Light](games/d/dark_light.md) | 4.27 | 
 | 152 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 153 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -552,7 +552,7 @@
 | 550 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 551 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 552 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 553 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.77 | 
+| 553 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
 | 554 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 555 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 556 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
