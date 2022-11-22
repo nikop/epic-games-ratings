@@ -424,18 +424,18 @@
 | 422 | [Outward](games/o/outward.md) | 4.55 | 
 | 423 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 424 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 425 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.55 | 
-| 426 | [Minit](games/m/minit.md) | 4.55 | 
-| 427 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
-| 428 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
-| 429 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 430 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 431 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 432 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 433 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
-| 434 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 435 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 436 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
+| 425 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
+| 426 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.55 | 
+| 427 | [Minit](games/m/minit.md) | 4.55 | 
+| 428 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
+| 429 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 430 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 431 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 432 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 433 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 434 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
+| 435 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
+| 436 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 437 | [Aragami 2](games/a/aragami_2.md) | 4.54 | 
 | 438 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.54 | 
 | 439 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
@@ -544,37 +544,37 @@
 | 542 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 543 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 544 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 545 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
-| 546 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
-| 547 | [The Silent Age](games/t/the_silent_age.md) | 4.45 | 
-| 548 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.45 | 
-| 549 | [Beholder 3](games/b/beholder_3.md) | 4.45 | 
-| 550 | [Runbow](games/r/runbow.md) | 4.45 | 
-| 551 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 552 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 553 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 554 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 555 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 556 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
-| 557 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
-| 558 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.44 | 
-| 559 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
-| 560 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
-| 561 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
-| 562 | [Figment](games/f/figment.md) | 4.44 | 
-| 563 | [Chorus](games/c/chorus.md) | 4.44 | 
-| 564 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.44 | 
-| 565 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.44 | 
-| 566 | [Train Valley](games/t/train_valley.md) | 4.44 | 
-| 567 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.44 | 
-| 568 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.44 | 
-| 569 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 570 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
-| 571 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
-| 572 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 573 | [Faeria](games/f/faeria.md) | 4.43 | 
-| 574 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
-| 575 | [Good Company](games/g/good_company.md) | 4.43 | 
+| 545 | [Figment](games/f/figment.md) | 4.45 | 
+| 546 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
+| 547 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
+| 548 | [The Silent Age](games/t/the_silent_age.md) | 4.45 | 
+| 549 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.45 | 
+| 550 | [Beholder 3](games/b/beholder_3.md) | 4.45 | 
+| 551 | [Runbow](games/r/runbow.md) | 4.45 | 
+| 552 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 553 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 554 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 555 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 556 | [Pathway](games/p/pathway.md) | 4.44 | 
+| 557 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
+| 558 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
+| 559 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.44 | 
+| 560 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
+| 561 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
+| 562 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
+| 563 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.44 | 
+| 564 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.44 | 
+| 565 | [Train Valley](games/t/train_valley.md) | 4.44 | 
+| 566 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.44 | 
+| 567 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.44 | 
+| 568 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 569 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
+| 570 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
+| 571 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 572 | [Faeria](games/f/faeria.md) | 4.43 | 
+| 573 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
+| 574 | [Good Company](games/g/good_company.md) | 4.43 | 
+| 575 | [Chorus](games/c/chorus.md) | 4.43 | 
 | 576 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 577 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 578 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 

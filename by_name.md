@@ -115,7 +115,7 @@
 | 113 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
 | 114 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
 | 115 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 116 | [Chorus](games/c/chorus.md) | 4.44 | 
+| 116 | [Chorus](games/c/chorus.md) | 4.43 | 
 | 117 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.92 | 
 | 118 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 119 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
@@ -238,7 +238,7 @@
 | 236 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
 | 237 | [Fez](games/f/fez.md) | 4.72 | 
 | 238 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
-| 239 | [Figment](games/f/figment.md) | 4.44 | 
+| 239 | [Figment](games/f/figment.md) | 4.45 | 
 | 240 | [Filament](games/f/filament.md) | 4.30 | 
 | 241 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 242 | [Firework](games/f/firework.md) | 4.88 | 
@@ -729,7 +729,7 @@
 | 727 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 728 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.98 | 
 | 729 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 730 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
+| 730 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
 | 731 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 732 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 733 | [Transistor](games/t/transistor.md) | 4.62 | 
