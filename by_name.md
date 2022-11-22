@@ -20,7 +20,7 @@
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.61 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.01 | 
-| 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
+| 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 24 | [Among Trees](games/a/among_trees.md) | 4.39 | 
@@ -53,7 +53,7 @@
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.44 | 
-| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.38 | 
+| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.37 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
@@ -268,12 +268,12 @@
 | 266 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 267 | [GigaBash](games/g/gigabash.md) | 4.50 | 
 | 268 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
-| 269 | [GNOG](games/g/gnog.md) | 4.70 | 
+| 269 | [GNOG](games/g/gnog.md) | 4.67 | 
 | 270 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.88 | 
 | 271 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 272 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 273 | [Godfall](games/g/godfall.md) | 4.06 | 
-| 274 | [Godlike Burger](games/g/godlike_burger.md) | 4.15 | 
+| 274 | [Godlike Burger](games/g/godlike_burger.md) | 4.19 | 
 | 275 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
 | 276 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 277 | [Gone Home](games/g/gone_home.md) | 4.15 | 
@@ -374,7 +374,7 @@
 | 372 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
 | 373 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 374 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 375 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 
+| 375 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 376 | [Limbo](games/l/limbo.md) | 4.63 | 
 | 377 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
 | 378 | [Little Inferno](games/l/little_inferno.md) | 4.50 | 
@@ -608,7 +608,7 @@
 | 606 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 607 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 608 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
-| 609 | [STG Football](games/s/stg_football.md) | 4.60 | 
+| 609 | [STG Football](games/s/stg_football.md) | 4.61 | 
 | 610 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
 | 611 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 612 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
@@ -695,7 +695,7 @@
 | 693 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
 | 694 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
 | 695 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
-| 696 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 
+| 696 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 697 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 698 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 699 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
