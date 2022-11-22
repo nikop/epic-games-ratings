@@ -1,11 +1,11 @@
 {
   "ID": "8767c1c91fc847cbafbfa232c695276f",
   "Name": "Valiant Hearts: The Great War",
-  "Rating": 4.77,
+  "Rating": 4.78,
   "NumberOfRatings": 30,
   "FirstSeen": "2022-07-22T20:32:07.3987444+00:00",
   "FirstSeenRating": "2022-09-02T13:33:41.2971392+00:00",
-  "LastChanged": "2022-11-06T15:58:48.605212+00:00",
+  "LastChanged": "2022-11-22T17:59:27.7409079+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-02T13:33:41.2971394+00:00",
@@ -90,6 +90,11 @@
     {
       "Time": "2022-11-06T15:58:48.6052122+00:00",
       "Rating": 4.77,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T17:59:27.7409082+00:00",
+      "Rating": 4.78,
       "NumberOfRatings": null
     }
   ],

@@ -171,7 +171,7 @@
 | 169 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.44 | 
 | 170 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 171 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 
-| 172 | [Democracy 4](games/d/democracy_4.md) | 4.34 | 
+| 172 | [Democracy 4](games/d/democracy_4.md) | 4.35 | 
 | 173 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
 | 174 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 175 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
@@ -670,7 +670,7 @@
 | 668 | [The Last Campfire](games/t/the_last_campfire.md) | 4.85 | 
 | 669 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
 | 670 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
-| 671 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 
+| 671 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
 | 672 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 
 | 673 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 674 | [The Medium](games/t/the_medium.md) | 4.56 | 
@@ -711,7 +711,7 @@
 | 709 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
 | 710 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.31 | 
 | 711 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 712 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.25 | 
+| 712 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.28 | 
 | 713 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
 | 714 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 715 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
@@ -754,7 +754,7 @@
 | 752 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 753 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 754 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.83 | 
-| 755 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.77 | 
+| 755 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.78 | 
 | 756 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 757 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
 | 758 | [Vampyr](games/v/vampyr.md) | 4.32 | 
@@ -789,7 +789,7 @@
 | 787 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 788 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 789 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 790 | [World of Goo](games/w/world_of_goo.md) | 4.68 | 
+| 790 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 
 | 791 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 792 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 793 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
