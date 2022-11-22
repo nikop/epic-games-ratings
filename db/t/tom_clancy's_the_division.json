@@ -445,6 +445,10 @@
     {
       "Text": "This game has Great Boss Battles",
       "Count": 100
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Count": 20
     }
   ]
 }

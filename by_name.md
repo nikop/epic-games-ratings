@@ -189,7 +189,7 @@
 | 187 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 188 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 189 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
-| 190 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
+| 190 | [DOOM 3](games/d/doom_3.md) | 4.64 | 
 | 191 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 192 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 193 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
@@ -321,7 +321,7 @@
 | 319 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 320 | [Imagine Earth](games/i/imagine_earth.md) | 4.33 | 
 | 321 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
-| 322 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
+| 322 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
 | 323 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 324 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 325 | [INSIDE](games/i/inside.md) | 4.69 | 
@@ -420,7 +420,7 @@
 | 418 | [MythForce](games/m/mythforce.md) | 4.50 | 
 | 419 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 420 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
-| 421 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
+| 421 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.07 | 
 | 422 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
 | 423 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
 | 424 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
@@ -709,7 +709,7 @@
 | 707 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 708 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 709 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
-| 710 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.30 | 
+| 710 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.31 | 
 | 711 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 712 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.25 | 
 | 713 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
@@ -775,7 +775,7 @@
 | 773 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 774 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
 | 775 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
-| 776 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.53 | 
+| 776 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 777 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
 | 778 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 779 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
