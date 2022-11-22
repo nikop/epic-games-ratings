@@ -159,18 +159,18 @@
 | 157 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
 | 158 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.73 | 
 | 159 | [SpiderHeck](games/s/spiderheck.md) | 4.73 | 
-| 160 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 161 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 162 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
-| 163 | [Fez](games/f/fez.md) | 4.72 | 
-| 164 | [Northgard](games/n/northgard.md) | 4.72 | 
-| 165 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.72 | 
-| 166 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
-| 167 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
-| 168 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
-| 169 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
-| 170 | [shapez](games/s/shapez.md) | 4.72 | 
-| 171 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
+| 160 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 161 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 162 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 163 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
+| 164 | [Fez](games/f/fez.md) | 4.72 | 
+| 165 | [Northgard](games/n/northgard.md) | 4.72 | 
+| 166 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.72 | 
+| 167 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
+| 168 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
+| 169 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
+| 170 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
+| 171 | [shapez](games/s/shapez.md) | 4.72 | 
 | 172 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 173 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 174 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
@@ -346,21 +346,21 @@
 | 344 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
 | 345 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 346 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
-| 347 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
-| 348 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
-| 349 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 350 | [RiME](games/r/rime.md) | 4.60 | 
-| 351 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 352 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
-| 353 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 354 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 355 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 356 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
-| 357 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 358 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
-| 359 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 360 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 361 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 347 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
+| 348 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 349 | [RiME](games/r/rime.md) | 4.60 | 
+| 350 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
+| 351 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
+| 352 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
+| 353 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 354 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 355 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
+| 356 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 357 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
+| 358 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 359 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 360 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 361 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
 | 362 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 363 | [Road 96](games/r/road_96.md) | 4.59 | 
 | 364 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 

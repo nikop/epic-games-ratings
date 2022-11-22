@@ -45,7 +45,7 @@
 | 43 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.50 | 
@@ -232,7 +232,7 @@
 | 230 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
 | 231 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.76 | 
 | 232 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.12 | 
-| 233 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
+| 233 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 234 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 235 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 236 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
