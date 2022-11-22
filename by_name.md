@@ -566,7 +566,7 @@
 | 564 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.39 | 
 | 565 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 566 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 567 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 567 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 568 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
 | 569 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 570 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 

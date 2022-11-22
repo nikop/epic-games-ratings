@@ -69,12 +69,12 @@
 | 67 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
 | 68 | [Huntdown](games/h/huntdown.md) | 4.82 | 
 | 69 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
-| 70 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 71 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 72 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.81 | 
-| 73 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.81 | 
-| 74 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 75 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 70 | [Sifu](games/s/sifu.md) | 4.81 | 
+| 71 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 72 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 73 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.81 | 
+| 74 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.81 | 
+| 75 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 76 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 77 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 78 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
