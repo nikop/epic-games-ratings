@@ -204,7 +204,7 @@
 | 202 | [ELEX II](games/e/elex_ii.md) | 4.24 | 
 | 203 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 204 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 205 | [Encased](games/e/encased.md) | 4.39 | 
+| 205 | [Encased](games/e/encased.md) | 4.37 | 
 | 206 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 207 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 208 | [EVE Online](games/e/eve_online.md) | 4.26 | 
@@ -274,7 +274,7 @@
 | 272 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 273 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 274 | [Godlike Burger](games/g/godlike_burger.md) | 4.19 | 
-| 275 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.91 | 
+| 275 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
 | 276 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 277 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 278 | [Good Company](games/g/good_company.md) | 4.43 | 
@@ -371,7 +371,7 @@
 | 369 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 370 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 371 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
-| 372 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
+| 372 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 373 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 374 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 375 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
@@ -468,7 +468,7 @@
 | 466 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 467 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.36 | 
 | 468 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 469 | [Partisans 1941](games/p/partisans_1941.md) | 4.58 | 
+| 469 | [Partisans 1941](games/p/partisans_1941.md) | 4.57 | 
 | 470 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 471 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 472 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
@@ -566,7 +566,7 @@
 | 564 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.40 | 
 | 565 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 566 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 567 | [Sifu](games/s/sifu.md) | 4.81 | 
+| 567 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 568 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
 | 569 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 570 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
@@ -663,7 +663,7 @@
 | 661 | [The Fall](games/t/the_fall.md) | 4.27 | 
 | 662 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 
 | 663 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
-| 664 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
+| 664 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
 | 665 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.95 | 
 | 666 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 667 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
@@ -729,7 +729,7 @@
 | 727 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 728 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.98 | 
 | 729 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 730 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
+| 730 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
 | 731 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 732 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 733 | [Transistor](games/t/transistor.md) | 4.62 | 
