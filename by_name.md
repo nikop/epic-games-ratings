@@ -32,7 +32,7 @@
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
-| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
+| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.41 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.67 | 
@@ -383,9 +383,9 @@
 | 381 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.24 | 
 | 382 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.12 | 
 | 383 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 384 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
+| 384 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 385 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 386 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.36 | 
+| 386 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 387 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 388 | [Mago](games/m/mago.md) | 4.86 | 
 | 389 | [Maneater](games/m/maneater.md) | 4.49 | 
@@ -393,7 +393,7 @@
 | 391 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
 | 392 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 393 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 394 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.81 | 
+| 394 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 395 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 396 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 397 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
@@ -427,7 +427,7 @@
 | 425 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 426 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
 | 427 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 428 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.12 | 
+| 428 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 
 | 429 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 430 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 431 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -574,7 +574,7 @@
 | 572 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 573 | [Slipways](games/s/slipways.md) | 4.71 | 
 | 574 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 575 | [SMITE](games/s/smite.md) | 4.46 | 
+| 575 | [SMITE](games/s/smite.md) | 4.45 | 
 | 576 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 577 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
 | 578 | [Solitairica](games/s/solitairica.md) | 4.50 | 
@@ -746,7 +746,7 @@
 | 744 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 745 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 746 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 747 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
+| 747 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
 | 748 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.39 | 
 | 749 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 750 | [UnMetal](games/u/unmetal.md) | 4.51 | 
