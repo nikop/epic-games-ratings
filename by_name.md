@@ -31,7 +31,7 @@
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 32 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
+| 32 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.41 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
@@ -54,7 +54,7 @@
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.44 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.37 | 
-| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
+| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.42 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.33 | 
@@ -87,7 +87,7 @@
 | 85 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 86 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.24 | 
 | 87 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
-| 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.40 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
@@ -201,7 +201,7 @@
 | 199 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.77 | 
 | 200 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 201 | [ELEX](games/e/elex.md) | 4.38 | 
-| 202 | [ELEX II](games/e/elex_ii.md) | 4.24 | 
+| 202 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
 | 203 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 204 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 205 | [Encased](games/e/encased.md) | 4.37 | 
@@ -232,7 +232,7 @@
 | 230 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
 | 231 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.76 | 
 | 232 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.12 | 
-| 233 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 233 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 234 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 235 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 236 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
@@ -247,7 +247,7 @@
 | 245 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 246 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
 | 247 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 248 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
+| 248 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.73 | 
 | 249 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 250 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 251 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -302,7 +302,7 @@
 | 300 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.53 | 
 | 301 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 302 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 303 | [Hob](games/h/hob.md) | 4.57 | 
+| 303 | [Hob](games/h/hob.md) | 4.56 | 
 | 304 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.44 | 
 | 305 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 306 | [Horace](games/h/horace.md) | 4.58 | 
@@ -337,7 +337,7 @@
 | 335 | [Journey](games/j/journey.md) | 4.76 | 
 | 336 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 337 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 338 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
+| 338 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 339 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 340 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 341 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.52 | 
@@ -544,7 +544,7 @@
 | 542 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.59 | 
 | 543 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 544 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 545 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
+| 545 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 
 | 546 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 547 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 548 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
@@ -631,7 +631,7 @@
 | 629 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 630 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 631 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.45 | 
-| 632 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 
+| 632 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 633 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 634 | [Suzerain](games/s/suzerain.md) | 4.70 | 
 | 635 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
@@ -671,7 +671,7 @@
 | 669 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
 | 670 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
 | 671 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 672 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 
+| 672 | [The Lion's Song](games/t/the_lion's_song.md) | 4.43 | 
 | 673 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 674 | [The Medium](games/t/the_medium.md) | 4.56 | 
 | 675 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
@@ -794,7 +794,7 @@
 | 792 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 793 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 794 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
-| 795 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
+| 795 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
 | 796 | [WRC Generations](games/w/wrc_generations.md) | 4.56 | 
 | 797 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 798 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.54 | 

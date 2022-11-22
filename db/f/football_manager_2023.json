@@ -1,10 +1,10 @@
 {
   "ID": "5c7a78e0c4d640898d690c5e38c0392f",
   "Name": "Football Manager 2023",
-  "Rating": 4.72,
+  "Rating": 4.73,
   "FirstSeen": "2022-11-08T02:50:04.1543779+00:00",
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
-  "LastChanged": "2022-11-21T13:29:48.0816584+00:00",
+  "LastChanged": "2022-11-22T20:58:00.3391166+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-08T17:57:47.9405888+00:00",
@@ -220,12 +220,17 @@
       "Time": "2022-11-21T13:29:48.0816588+00:00",
       "Rating": 4.72,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T20:58:00.339117+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Amazing Characters",
-      "Count": 43
+      "Count": 48
     },
     {
       "Text": "This game is Relaxing",
@@ -253,7 +258,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 30
+      "Count": 33
     },
     {
       "Text": "This game has Unique Visuals",
