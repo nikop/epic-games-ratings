@@ -433,7 +433,7 @@
 | 431 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 432 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 433 | [No Straight Roads](games/n/no_straight_roads.md) | 4.70 | 
-| 434 | [NORCO](games/n/norco.md) | 4.59 | 
+| 434 | [NORCO](games/n/norco.md) | 4.57 | 
 | 435 | [Northgard](games/n/northgard.md) | 4.72 | 
 | 436 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.83 | 
 | 437 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
@@ -803,4 +803,4 @@
 | 801 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
 | 802 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
 | 803 | [ZOMBI](games/z/zombi.md) | 4.35 | 
-| 804 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 804 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.67 | 

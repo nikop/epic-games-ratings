@@ -1,10 +1,10 @@
 {
   "ID": "dfd2530e80e4425d801913b0879be444",
   "Name": "Zombie Army 4: Dead War",
-  "Rating": 4.68,
+  "Rating": 4.67,
   "NumberOfRatings": 743,
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
-  "LastChanged": "2022-10-25T03:00:21.5812167+00:00",
+  "LastChanged": "2022-11-22T08:57:24.8717849+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:25.2322254+00:00",
@@ -1059,6 +1059,11 @@
     {
       "Time": "2022-10-25T03:00:21.581217+00:00",
       "Rating": 4.68,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T08:57:24.8717851+00:00",
+      "Rating": 4.67,
       "NumberOfRatings": null
     }
   ],
