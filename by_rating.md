@@ -84,17 +84,17 @@
 | 82 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 83 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 84 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
-| 85 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 86 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 87 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 88 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
-| 89 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 90 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
-| 91 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 92 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.79 | 
-| 93 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
-| 94 | [Superliminal](games/s/superliminal.md) | 4.79 | 
-| 95 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 85 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 86 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 87 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
+| 88 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 89 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
+| 90 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
+| 91 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
+| 92 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 93 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.79 | 
+| 94 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
+| 95 | [Superliminal](games/s/superliminal.md) | 4.79 | 
 | 96 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 97 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 98 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
@@ -279,17 +279,17 @@
 | 277 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 278 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
 | 279 | [SOMA](games/s/soma.md) | 4.64 | 
-| 280 | [Death's Door](games/d/death's_door.md) | 4.64 | 
-| 281 | [Coromon](games/c/coromon.md) | 4.64 | 
-| 282 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
-| 283 | [Mutazione](games/m/mutazione.md) | 4.64 | 
-| 284 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.64 | 
-| 285 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.64 | 
-| 286 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
-| 287 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 288 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 289 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 290 | [Limbo](games/l/limbo.md) | 4.63 | 
+| 280 | [Limbo](games/l/limbo.md) | 4.64 | 
+| 281 | [Death's Door](games/d/death's_door.md) | 4.64 | 
+| 282 | [Coromon](games/c/coromon.md) | 4.64 | 
+| 283 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
+| 284 | [Mutazione](games/m/mutazione.md) | 4.64 | 
+| 285 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.64 | 
+| 286 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.64 | 
+| 287 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
+| 288 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 289 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 290 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 291 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 292 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
 | 293 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 

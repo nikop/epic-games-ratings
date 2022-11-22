@@ -301,7 +301,7 @@
 | 299 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 300 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.53 | 
 | 301 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 302 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 302 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 303 | [Hob](games/h/hob.md) | 4.57 | 
 | 304 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.44 | 
 | 305 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
@@ -375,7 +375,7 @@
 | 373 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 374 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 375 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
-| 376 | [Limbo](games/l/limbo.md) | 4.63 | 
+| 376 | [Limbo](games/l/limbo.md) | 4.64 | 
 | 377 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
 | 378 | [Little Inferno](games/l/little_inferno.md) | 4.50 | 
 | 379 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
