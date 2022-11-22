@@ -41,7 +41,7 @@
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
-| 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.88 | 
+| 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
 | 43 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
@@ -130,7 +130,7 @@
 | 128 | [Core](games/c/core.md) | 4.38 | 
 | 129 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 130 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.69 | 
-| 131 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 
+| 131 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
 | 132 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
 | 133 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
 | 134 | [Crashlands](games/c/crashlands.md) | 4.66 | 
@@ -139,7 +139,7 @@
 | 137 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 138 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
 | 139 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 140 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 140 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 141 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 142 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.67 | 
 | 143 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
@@ -261,7 +261,7 @@
 | 259 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
 | 260 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 261 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 262 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
+| 262 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 
 | 263 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
 | 264 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.45 | 
 | 265 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
