@@ -943,11 +943,15 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game is Highly Recommended",
       "Count": 23
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Count": 32
     }
   ]
 }

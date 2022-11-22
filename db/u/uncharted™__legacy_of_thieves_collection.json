@@ -185,7 +185,7 @@
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 362
+      "Count": 367
     },
     {
       "Text": "This game has Diverse Characters",
@@ -194,6 +194,10 @@
     {
       "Text": "This game is Highly Recommended",
       "Count": 24
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 20
     }
   ]
 }

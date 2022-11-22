@@ -35,7 +35,7 @@
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.41 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
-| 36 | [APE OUT](games/a/ape_out.md) | 4.67 | 
+| 36 | [APE OUT](games/a/ape_out.md) | 4.65 | 
 | 37 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 
 | 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.64 | 
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
@@ -57,7 +57,7 @@
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
-| 58 | [Automachef](games/a/automachef.md) | 4.32 | 
+| 58 | [Automachef](games/a/automachef.md) | 4.33 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.55 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
@@ -149,7 +149,7 @@
 | 147 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 148 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
 | 149 | [Dark Deception](games/d/dark_deception.md) | 4.59 | 
-| 150 | [Dark Deity](games/d/dark_deity.md) | 4.02 | 
+| 150 | [Dark Deity](games/d/dark_deity.md) | 4.01 | 
 | 151 | [Dark Light](games/d/dark_light.md) | 4.27 | 
 | 152 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 153 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -207,7 +207,7 @@
 | 205 | [Encased](games/e/encased.md) | 4.37 | 
 | 206 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 207 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 208 | [EVE Online](games/e/eve_online.md) | 4.26 | 
+| 208 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 209 | [Everything](games/e/everything.md) | 4.65 | 
 | 210 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.41 | 
 | 211 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
@@ -221,7 +221,7 @@
 | 219 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
 | 220 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 221 | [Far Cry](games/f/far_cry.md) | 4.39 | 
-| 222 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.19 | 
+| 222 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
 | 223 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 224 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 225 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
@@ -255,7 +255,7 @@
 | 253 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 254 | [FUSER™](games/f/fuser™.md) | 4.73 | 
 | 255 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 256 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
+| 256 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.21 | 
 | 257 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.46 | 
 | 258 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 259 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
@@ -295,7 +295,7 @@
 | 293 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
 | 294 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 295 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 296 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
+| 296 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 297 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
 | 298 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 299 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
@@ -322,7 +322,7 @@
 | 320 | [Imagine Earth](games/i/imagine_earth.md) | 4.33 | 
 | 321 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
 | 322 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
-| 323 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 323 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
 | 324 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 325 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 326 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
@@ -473,7 +473,7 @@
 | 471 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 472 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 473 | [Pathway](games/p/pathway.md) | 4.44 | 
-| 474 | [Patron](games/p/patron.md) | 3.96 | 
+| 474 | [Patron](games/p/patron.md) | 3.90 | 
 | 475 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 476 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 477 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
@@ -712,7 +712,7 @@
 | 710 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.31 | 
 | 711 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 712 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.28 | 
-| 713 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
+| 713 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
 | 714 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 715 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 716 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
