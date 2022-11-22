@@ -183,7 +183,7 @@
 | 181 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 182 | [Diabotical](games/d/diabotical.md) | 4.76 | 
 | 183 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
-| 184 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.41 | 
+| 184 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.40 | 
 | 185 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 186 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 187 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
@@ -338,7 +338,7 @@
 | 336 | [Journey](games/j/journey.md) | 4.76 | 
 | 337 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 338 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 339 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 339 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 340 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 341 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 342 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.52 | 
@@ -482,7 +482,7 @@
 | 480 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 481 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 482 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 483 | [Pinball FX](games/p/pinball_fx.md) | 4.01 | 
+| 483 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 484 | [Pine](games/p/pine.md) | 4.13 | 
 | 485 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.44 | 
 | 486 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
@@ -696,7 +696,7 @@
 | 694 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
 | 695 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
 | 696 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
-| 697 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
+| 697 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 
 | 698 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 699 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 700 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 

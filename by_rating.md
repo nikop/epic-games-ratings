@@ -7,10 +7,10 @@
 | 5 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 6 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 7 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
-| 8 | [God of War](games/g/god_of_war.md) | 4.90 | 
-| 9 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 10 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
-| 11 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
+| 8 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 
+| 9 | [God of War](games/g/god_of_war.md) | 4.90 | 
+| 10 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
+| 11 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 13 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
 | 14 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
@@ -133,19 +133,19 @@
 | 131 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 132 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 133 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 134 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 135 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
-| 136 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
-| 137 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
-| 138 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
-| 139 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
-| 140 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 141 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.74 | 
-| 142 | [Revita](games/r/revita.md) | 4.74 | 
-| 143 | [Outlast](games/o/outlast.md) | 4.74 | 
-| 144 | [Tails of Iron](games/t/tails_of_iron.md) | 4.74 | 
-| 145 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 146 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 134 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 135 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
+| 136 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
+| 137 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
+| 138 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
+| 139 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 140 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.74 | 
+| 141 | [Revita](games/r/revita.md) | 4.74 | 
+| 142 | [Outlast](games/o/outlast.md) | 4.74 | 
+| 143 | [Tails of Iron](games/t/tails_of_iron.md) | 4.74 | 
+| 144 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 145 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 146 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 147 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 148 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 149 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
@@ -595,16 +595,16 @@
 | 593 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
 | 594 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 595 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
-| 596 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.41 | 
-| 597 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.41 | 
-| 598 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
-| 599 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 600 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 601 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 602 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 603 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.41 | 
-| 604 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
-| 605 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
+| 596 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.41 | 
+| 597 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
+| 598 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 599 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
+| 600 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 601 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 602 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.41 | 
+| 603 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 604 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
+| 605 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.40 | 
 | 606 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
 | 607 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 608 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.40 | 
@@ -778,11 +778,11 @@
 | 776 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 777 | [Lake](games/l/lake.md) | 4.04 | 
 | 778 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
-| 779 | [Pinball FX](games/p/pinball_fx.md) | 4.01 | 
-| 780 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.01 | 
-| 781 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 
-| 782 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
-| 783 | [Dark Deity](games/d/dark_deity.md) | 4.01 | 
+| 779 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.01 | 
+| 780 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 
+| 781 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
+| 782 | [Dark Deity](games/d/dark_deity.md) | 4.01 | 
+| 783 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 784 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 785 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 786 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
