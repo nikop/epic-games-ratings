@@ -1,14 +1,19 @@
 {
   "ID": "6ad92d14cc544743831d4f70c964d39d",
   "Name": "SpellForce 3: Fallen God",
-  "Rating": 4.35,
+  "Rating": 4.41,
   "FirstSeen": "2022-07-22T20:22:03.4681811+00:00",
   "FirstSeenRating": "2022-11-09T02:57:52.8290852+00:00",
-  "LastChanged": "2022-11-09T02:57:52.8290853+00:00",
+  "LastChanged": "2022-11-22T13:21:13.9718843+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-09T02:57:52.8290854+00:00",
       "Rating": 4.35,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T13:21:13.9718844+00:00",
+      "Rating": 4.41,
       "NumberOfRatings": null
     }
   ],

@@ -1,10 +1,10 @@
 {
   "ID": "caf357c955344eaeaaaddb3c8357dbdf",
   "Name": "Alba - A Wildlife Adventure",
-  "Rating": 4.61,
+  "Rating": 4.62,
   "FirstSeen": "2022-11-10T18:58:33.905763+00:00",
   "FirstSeenRating": "2022-11-11T04:24:09.6035921+00:00",
-  "LastChanged": "2022-11-21T10:57:44.2825311+00:00",
+  "LastChanged": "2022-11-22T13:21:29.5503034+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-11T04:24:09.6035924+00:00",
@@ -79,6 +79,11 @@
     {
       "Time": "2022-11-21T10:57:44.2825312+00:00",
       "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T13:21:29.5503035+00:00",
+      "Rating": 4.62,
       "NumberOfRatings": null
     }
   ],

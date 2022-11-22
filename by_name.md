@@ -17,7 +17,7 @@
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
-| 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.61 | 
+| 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.01 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
@@ -126,7 +126,7 @@
 | 124 | [Conarium](games/c/conarium.md) | 3.94 | 
 | 125 | [Control](games/c/control.md) | 4.60 | 
 | 126 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
-| 127 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
+| 127 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 128 | [Core](games/c/core.md) | 4.38 | 
 | 129 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 130 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.69 | 
@@ -320,7 +320,7 @@
 | 318 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.64 | 
 | 319 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 320 | [Imagine Earth](games/i/imagine_earth.md) | 4.33 | 
-| 321 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 
+| 321 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
 | 322 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
 | 323 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 324 | [Inscryption](games/i/inscryption.md) | 4.86 | 
@@ -362,7 +362,7 @@
 | 360 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
 | 361 | [Lake](games/l/lake.md) | 4.04 | 
 | 362 | [Lamentum](games/l/lamentum.md) | 4.35 | 
-| 363 | [Last Day of June](games/l/last_day_of_june.md) | 4.61 | 
+| 363 | [Last Day of June](games/l/last_day_of_june.md) | 4.62 | 
 | 364 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 365 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 366 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
@@ -455,7 +455,7 @@
 | 453 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.66 | 
 | 454 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 455 | [Outlast](games/o/outlast.md) | 4.74 | 
-| 456 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
+| 456 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
 | 457 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 458 | [Outward](games/o/outward.md) | 4.55 | 
 | 459 | [Overcooked](games/o/overcooked.md) | 4.68 | 
@@ -563,7 +563,7 @@
 | 561 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.17 | 
 | 562 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
 | 563 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 564 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.39 | 
+| 564 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.40 | 
 | 565 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 566 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 567 | [Sifu](games/s/sifu.md) | 4.81 | 
@@ -590,7 +590,7 @@
 | 588 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 589 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
 | 590 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 591 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.35 | 
+| 591 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.41 | 
 | 592 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.33 | 
 | 593 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 
 | 594 | [SpiderHeck](games/s/spiderheck.md) | 4.73 | 
@@ -681,7 +681,7 @@
 | 679 | [The Silent Age](games/t/the_silent_age.md) | 4.45 | 
 | 680 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.26 | 
 | 681 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
-| 682 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 
+| 682 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
 | 683 | [The Surge](games/t/the_surge.md) | 4.51 | 
 | 684 | [The Surge 2](games/t/the_surge_2.md) | 4.16 | 
 | 685 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
@@ -802,5 +802,6 @@
 | 800 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
 | 801 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
 | 802 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
-| 803 | [ZOMBI](games/z/zombi.md) | 4.35 | 
-| 804 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.67 | 
+| 803 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.65 | 
+| 804 | [ZOMBI](games/z/zombi.md) | 4.35 | 
+| 805 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.67 | 
