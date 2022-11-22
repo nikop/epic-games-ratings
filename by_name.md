@@ -6,7 +6,7 @@
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
-| 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
+| 7 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.62 | 
@@ -23,7 +23,7 @@
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 24 | [Among Trees](games/a/among_trees.md) | 4.38 | 
+| 24 | [Among Trees](games/a/among_trees.md) | 4.39 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
@@ -40,7 +40,7 @@
 | 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.64 | 
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 
+| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.88 | 
 | 43 | [Ashen](games/a/ashen.md) | 4.29 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
@@ -149,7 +149,7 @@
 | 147 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 148 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
 | 149 | [Dark Deception](games/d/dark_deception.md) | 4.59 | 
-| 150 | [Dark Deity](games/d/dark_deity.md) | 4.01 | 
+| 150 | [Dark Deity](games/d/dark_deity.md) | 4.02 | 
 | 151 | [Dark Light](games/d/dark_light.md) | 4.27 | 
 | 152 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 153 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -235,7 +235,7 @@
 | 233 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 234 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 235 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
-| 236 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.59 | 
+| 236 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
 | 237 | [Fez](games/f/fez.md) | 4.72 | 
 | 238 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
 | 239 | [Figment](games/f/figment.md) | 4.44 | 
@@ -481,7 +481,7 @@
 | 479 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 480 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 481 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 482 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
+| 482 | [Pinball FX](games/p/pinball_fx.md) | 4.01 | 
 | 483 | [Pine](games/p/pine.md) | 4.13 | 
 | 484 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.44 | 
 | 485 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
@@ -540,7 +540,7 @@
 | 538 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 539 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
 | 540 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 541 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 541 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
 | 542 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.59 | 
 | 543 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 544 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
@@ -553,7 +553,7 @@
 | 551 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 552 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 553 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.77 | 
-| 554 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
+| 554 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 555 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 556 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 557 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
@@ -602,7 +602,7 @@
 | 600 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
 | 601 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 602 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 603 | [Starsand](games/s/starsand.md) | 4.30 | 
+| 603 | [Starsand](games/s/starsand.md) | 4.26 | 
 | 604 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 605 | [Startup Panic](games/s/startup_panic.md) | 4.35 | 
 | 606 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
@@ -683,7 +683,7 @@
 | 681 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 682 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 
 | 683 | [The Surge](games/t/the_surge.md) | 4.51 | 
-| 684 | [The Surge 2](games/t/the_surge_2.md) | 4.15 | 
+| 684 | [The Surge 2](games/t/the_surge_2.md) | 4.16 | 
 | 685 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 686 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.73 | 
 | 687 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
@@ -695,7 +695,7 @@
 | 693 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
 | 694 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
 | 695 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
-| 696 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
+| 696 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 
 | 697 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 698 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 699 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
@@ -740,7 +740,7 @@
 | 738 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
 | 739 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
 | 740 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
-| 741 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
+| 741 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 742 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
 | 743 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
 | 744 | [TUNIC](games/t/tunic.md) | 4.87 | 
