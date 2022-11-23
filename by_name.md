@@ -256,8 +256,8 @@
 | 254 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 255 | [FUSER™](games/f/fuser™.md) | 4.73 | 
 | 256 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 257 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.21 | 
-| 258 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.46 | 
+| 257 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
+| 258 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.47 | 
 | 259 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 260 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
 | 261 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
@@ -375,7 +375,7 @@
 | 373 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 374 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 375 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 376 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
+| 376 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 
 | 377 | [Limbo](games/l/limbo.md) | 4.64 | 
 | 378 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
 | 379 | [Little Inferno](games/l/little_inferno.md) | 4.50 | 
@@ -575,7 +575,7 @@
 | 573 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 574 | [Slipways](games/s/slipways.md) | 4.71 | 
 | 575 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 576 | [SMITE](games/s/smite.md) | 4.45 | 
+| 576 | [SMITE](games/s/smite.md) | 4.46 | 
 | 577 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 578 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
 | 579 | [Solitairica](games/s/solitairica.md) | 4.50 | 

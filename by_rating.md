@@ -528,16 +528,16 @@
 | 526 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 527 | [Riverbond](games/r/riverbond.md) | 4.47 | 
 | 528 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
-| 529 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 530 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 531 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 532 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 533 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
-| 534 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
-| 535 | [Death Coming](games/d/death_coming.md) | 4.46 | 
-| 536 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
-| 537 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.46 | 
-| 538 | [SMITE](games/s/smite.md) | 4.45 | 
+| 529 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.47 | 
+| 530 | [Scorn](games/s/scorn.md) | 4.47 | 
+| 531 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 532 | [SMITE](games/s/smite.md) | 4.46 | 
+| 533 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 534 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 535 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
+| 536 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
+| 537 | [Death Coming](games/d/death_coming.md) | 4.46 | 
+| 538 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 539 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 540 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 541 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
@@ -722,15 +722,15 @@
 | 720 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 721 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 722 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 723 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.21 | 
-| 724 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
-| 725 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
-| 726 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
-| 727 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
-| 728 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.21 | 
-| 729 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 730 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 731 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 723 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
+| 724 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
+| 725 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
+| 726 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
+| 727 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.21 | 
+| 728 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 729 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 730 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 731 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
 | 732 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
 | 733 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
 | 734 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
@@ -774,8 +774,8 @@
 | 772 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 773 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 774 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 775 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
-| 776 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.05 | 
+| 775 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.05 | 
+| 776 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 
 | 777 | [Lake](games/l/lake.md) | 4.04 | 
 | 778 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 779 | [Dark Deity](games/d/dark_deity.md) | 4.02 | 
