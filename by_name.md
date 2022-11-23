@@ -15,7 +15,7 @@
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
+| 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
@@ -382,7 +382,7 @@
 | 380 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 381 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 382 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.24 | 
-| 383 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.12 | 
+| 383 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.05 | 
 | 384 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 385 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 386 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
@@ -467,7 +467,7 @@
 | 465 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 466 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.54 | 
 | 467 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 468 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.36 | 
+| 468 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
 | 469 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 470 | [Partisans 1941](games/p/partisans_1941.md) | 4.57 | 
 | 471 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
@@ -581,7 +581,7 @@
 | 579 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 580 | [SOMA](games/s/soma.md) | 4.64 | 
 | 581 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 582 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.44 | 
+| 582 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
 | 583 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 584 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 585 | [Souldiers](games/s/souldiers.md) | 4.55 | 
