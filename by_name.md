@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.21 | 
-| 2 | [20XX](games/2/20xx.md) | 4.62 | 
+| 2 | [20XX](games/2/20xx.md) | 4.61 | 
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.33 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
@@ -368,7 +368,7 @@
 | 366 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 367 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 368 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 369 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
+| 369 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 370 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 371 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 372 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
@@ -569,7 +569,7 @@
 | 567 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 568 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 569 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 570 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 
+| 570 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 
 | 571 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 572 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 573 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
@@ -645,7 +645,7 @@
 | 643 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
 | 644 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 645 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 646 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.85 | 
+| 646 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 647 | [Tharsis](games/t/tharsis.md) | 4.13 | 
 | 648 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
 | 649 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.61 | 
@@ -696,7 +696,7 @@
 | 694 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.74 | 
 | 695 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
 | 696 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
-| 697 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
+| 697 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.82 | 
 | 698 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 
 | 699 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 700 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
