@@ -548,7 +548,7 @@
 | 546 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 
 | 547 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 548 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 549 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
+| 549 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
 | 550 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
 | 551 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 552 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
@@ -699,7 +699,7 @@
 | 697 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 
 | 698 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 699 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 700 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 
+| 700 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
 | 701 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 702 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 703 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
