@@ -112,7 +112,7 @@
 | 110 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 113 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
+| 113 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 114 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
 | 115 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 116 | [Chorus](games/c/chorus.md) | 4.43 | 
@@ -284,7 +284,7 @@
 | 282 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
 | 283 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 284 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
-| 285 | [Griftlands](games/g/griftlands.md) | 4.80 | 
+| 285 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 286 | [GRIME](games/g/grime.md) | 4.58 | 
 | 287 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 288 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
@@ -303,7 +303,7 @@
 | 301 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 302 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.53 | 
 | 303 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 304 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 304 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 305 | [Hob](games/h/hob.md) | 4.56 | 
 | 306 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.44 | 
 | 307 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
@@ -360,7 +360,7 @@
 | 358 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 359 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.63 | 
 | 360 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 361 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 361 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
 | 362 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
 | 363 | [Lake](games/l/lake.md) | 4.04 | 
 | 364 | [Lamentum](games/l/lamentum.md) | 4.35 | 
@@ -494,13 +494,13 @@
 | 492 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 493 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 494 | [Quake](games/q/quake.md) | 4.82 | 
-| 495 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 495 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 496 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 497 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 498 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 499 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
 | 500 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.49 | 
-| 501 | [Rayman Origins](games/r/rayman_origins.md) | 4.77 | 
+| 501 | [Rayman Origins](games/r/rayman_origins.md) | 4.78 | 
 | 502 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
 | 503 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 504 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
@@ -595,7 +595,7 @@
 | 593 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.41 | 
 | 594 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.33 | 
 | 595 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 
-| 596 | [SpiderHeck](games/s/spiderheck.md) | 4.73 | 
+| 596 | [SpiderHeck](games/s/spiderheck.md) | 4.75 | 
 | 597 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 598 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 599 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
@@ -797,7 +797,7 @@
 | 795 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 796 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 797 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 798 | [WRC Generations](games/w/wrc_generations.md) | 4.58 | 
+| 798 | [WRC Generations](games/w/wrc_generations.md) | 4.59 | 
 | 799 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 800 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.54 | 
 | 801 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
