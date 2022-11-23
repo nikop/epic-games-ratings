@@ -150,11 +150,11 @@
 | 148 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 149 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
 | 150 | [Dark Deception](games/d/dark_deception.md) | 4.59 | 
-| 151 | [Dark Deity](games/d/dark_deity.md) | 4.02 | 
+| 151 | [Dark Deity](games/d/dark_deity.md) | 4.04 | 
 | 152 | [Dark Light](games/d/dark_light.md) | 4.27 | 
 | 153 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 154 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 155 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
+| 155 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 156 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 157 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
 | 158 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.58 | 
@@ -331,7 +331,7 @@
 | 329 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 330 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 331 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 332 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 332 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
 | 333 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 334 | [Isonzo](games/i/isonzo.md) | 4.58 | 
 | 335 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
@@ -368,7 +368,7 @@
 | 366 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 367 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 368 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 369 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 369 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 370 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 371 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 372 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
@@ -395,7 +395,7 @@
 | 393 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
 | 394 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 395 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 396 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
+| 396 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.83 | 
 | 397 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 398 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 399 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
@@ -494,7 +494,7 @@
 | 492 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 493 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 494 | [Quake](games/q/quake.md) | 4.82 | 
-| 495 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 495 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 496 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 497 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 498 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
@@ -568,7 +568,7 @@
 | 566 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.40 | 
 | 567 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 568 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 569 | [Sifu](games/s/sifu.md) | 4.81 | 
+| 569 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 570 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 
 | 571 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 572 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
@@ -657,7 +657,7 @@
 | 655 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 656 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 657 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 658 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
+| 658 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
 | 659 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 660 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 661 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
@@ -681,7 +681,7 @@
 | 679 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
 | 680 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 681 | [The Silent Age](games/t/the_silent_age.md) | 4.45 | 
-| 682 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.26 | 
+| 682 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 683 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 684 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
 | 685 | [The Surge](games/t/the_surge.md) | 4.51 | 
