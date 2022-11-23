@@ -142,7 +142,7 @@
 | 140 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 141 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 142 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 143 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
+| 143 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.67 | 
 | 144 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
 | 145 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 146 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
@@ -280,7 +280,7 @@
 | 278 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 279 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 280 | [Good Company](games/g/good_company.md) | 4.43 | 
-| 281 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
+| 281 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 282 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
 | 283 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 284 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -368,7 +368,7 @@
 | 366 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 367 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 368 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 369 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
+| 369 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 370 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 371 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 372 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
@@ -439,7 +439,7 @@
 | 437 | [Northgard](games/n/northgard.md) | 4.72 | 
 | 438 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.83 | 
 | 439 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
-| 440 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
+| 440 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 441 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 442 | [Observation](games/o/observation.md) | 4.53 | 
 | 443 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
@@ -696,7 +696,7 @@
 | 694 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.74 | 
 | 695 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
 | 696 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
-| 697 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
+| 697 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.82 | 
 | 698 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 
 | 699 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 700 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
@@ -790,7 +790,7 @@
 | 788 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 789 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 790 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 791 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 791 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 792 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 
 | 793 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 794 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
