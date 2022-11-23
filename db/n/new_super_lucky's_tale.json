@@ -1,7 +1,16 @@
 {
   "ID": "d3288d6aaf794eb4821bab4c5ba08a0a",
   "Name": "New Super Lucky\u0027s Tale",
+  "Rating": 4.6,
   "FirstSeen": "2022-07-22T20:23:51.2940988+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-11-23T20:58:08.5109445+00:00",
+  "LastChanged": "2022-11-23T20:58:08.5109446+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-11-23T20:58:08.5109446+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
