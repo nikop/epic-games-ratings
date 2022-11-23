@@ -8,7 +8,7 @@
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
+| 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.62 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
@@ -307,7 +307,7 @@
 | 305 | [Hob](games/h/hob.md) | 4.56 | 
 | 306 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.44 | 
 | 307 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 308 | [Horace](games/h/horace.md) | 4.58 | 
+| 308 | [Horace](games/h/horace.md) | 4.56 | 
 | 309 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 310 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 311 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
@@ -410,7 +410,7 @@
 | 408 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 409 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 410 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 411 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
+| 411 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 412 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 413 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 414 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
@@ -563,7 +563,7 @@
 | 561 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
 | 562 | [shapez](games/s/shapez.md) | 4.72 | 
 | 563 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 564 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.17 | 
+| 564 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.18 | 
 | 565 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
 | 566 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 567 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.40 | 
@@ -581,7 +581,7 @@
 | 579 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 580 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
 | 581 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 582 | [SOMA](games/s/soma.md) | 4.64 | 
+| 582 | [SOMA](games/s/soma.md) | 4.65 | 
 | 583 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 584 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
 | 585 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
@@ -749,7 +749,7 @@
 | 747 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 748 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 749 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 750 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
+| 750 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
 | 751 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.39 | 
 | 752 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 753 | [UnMetal](games/u/unmetal.md) | 4.51 | 
@@ -807,4 +807,4 @@
 | 805 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
 | 806 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.65 | 
 | 807 | [ZOMBI](games/z/zombi.md) | 4.35 | 
-| 808 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.67 | 
+| 808 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
