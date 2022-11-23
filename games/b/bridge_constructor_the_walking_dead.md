@@ -1,5 +1,5 @@
 # Bridge Constructor The Walking Dead
-Rating: 3.93 (104)  (as of 23.09.2022)  
+Rating: 3.91 (104)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -54,3 +54,4 @@ Rating: 3.93 (104)  (as of 23.09.2022)
 | 2022-11-13 | 3.91 | - |
 | 2022-11-15 | 3.92 | - |
 | 2022-11-18 | 3.93 | - |
+| 2022-11-23 | 3.91 | - |

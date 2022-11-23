@@ -1,10 +1,10 @@
 {
   "ID": "2a09fb19b47f46dfb11ebd382f132a8f",
   "Name": "Marvel\u0027s Guardians of the Galaxy",
-  "Rating": 4.73,
+  "Rating": 4.74,
   "NumberOfRatings": 898,
   "FirstSeen": "2022-07-22T20:24:01.0577713+00:00",
-  "LastChanged": "2022-11-17T05:57:31.9263904+00:00",
+  "LastChanged": "2022-11-23T02:24:49.2227572+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:01.0577718+00:00",
@@ -729,6 +729,11 @@
     {
       "Time": "2022-11-17T05:57:31.9263907+00:00",
       "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T02:24:49.2227575+00:00",
+      "Rating": 4.74,
       "NumberOfRatings": null
     }
   ],
