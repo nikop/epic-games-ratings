@@ -394,7 +394,7 @@
 | 392 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
 | 393 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
 | 394 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 395 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
+| 395 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.83 | 
 | 396 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 397 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 398 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
@@ -688,7 +688,7 @@
 | 686 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 687 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.73 | 
 | 688 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
-| 689 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
+| 689 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
 | 690 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
 | 691 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 692 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
@@ -789,7 +789,7 @@
 | 787 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 788 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 789 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 790 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 790 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 791 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 
 | 792 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 793 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 

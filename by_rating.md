@@ -58,17 +58,17 @@
 | 56 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 57 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 58 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.83 | 
-| 59 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.83 | 
-| 60 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
-| 61 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 62 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 63 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
-| 64 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
-| 65 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
-| 66 | [Quake](games/q/quake.md) | 4.82 | 
-| 67 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
-| 68 | [Huntdown](games/h/huntdown.md) | 4.82 | 
-| 69 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
+| 59 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.83 | 
+| 60 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.83 | 
+| 61 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
+| 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 63 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 64 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
+| 65 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
+| 66 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
+| 67 | [Quake](games/q/quake.md) | 4.82 | 
+| 68 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
+| 69 | [Huntdown](games/h/huntdown.md) | 4.82 | 
 | 70 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
 | 71 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 72 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
@@ -331,24 +331,24 @@
 | 329 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 330 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
 | 331 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
-| 332 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
-| 333 | [Roguebook](games/r/roguebook.md) | 4.61 | 
-| 334 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.61 | 
-| 335 | [Darkwood](games/d/darkwood.md) | 4.61 | 
-| 336 | [STG Football](games/s/stg_football.md) | 4.61 | 
-| 337 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
-| 338 | [Control](games/c/control.md) | 4.60 | 
-| 339 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 340 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 341 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 342 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 343 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
-| 344 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
-| 345 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 346 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
-| 347 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
-| 348 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 349 | [RiME](games/r/rime.md) | 4.60 | 
+| 332 | [Roguebook](games/r/roguebook.md) | 4.61 | 
+| 333 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.61 | 
+| 334 | [Darkwood](games/d/darkwood.md) | 4.61 | 
+| 335 | [STG Football](games/s/stg_football.md) | 4.61 | 
+| 336 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
+| 337 | [Control](games/c/control.md) | 4.60 | 
+| 338 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 339 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 340 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 341 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 342 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
+| 343 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
+| 344 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 345 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
+| 346 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
+| 347 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 348 | [RiME](games/r/rime.md) | 4.60 | 
+| 349 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
 | 350 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 351 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
 | 352 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
@@ -538,21 +538,21 @@
 | 536 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 537 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.46 | 
 | 538 | [SMITE](games/s/smite.md) | 4.45 | 
-| 539 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 540 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 541 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 542 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.45 | 
-| 543 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 544 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 545 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 546 | [Figment](games/f/figment.md) | 4.45 | 
-| 547 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
-| 548 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
-| 549 | [The Silent Age](games/t/the_silent_age.md) | 4.45 | 
-| 550 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.45 | 
-| 551 | [Beholder 3](games/b/beholder_3.md) | 4.45 | 
-| 552 | [Runbow](games/r/runbow.md) | 4.45 | 
-| 553 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 539 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 540 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 541 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 542 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 543 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.45 | 
+| 544 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 545 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 546 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 547 | [Figment](games/f/figment.md) | 4.45 | 
+| 548 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
+| 549 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
+| 550 | [The Silent Age](games/t/the_silent_age.md) | 4.45 | 
+| 551 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.45 | 
+| 552 | [Beholder 3](games/b/beholder_3.md) | 4.45 | 
+| 553 | [Runbow](games/r/runbow.md) | 4.45 | 
 | 554 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 555 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 556 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
