@@ -32,7 +32,7 @@
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
-| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.41 | 
+| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.65 | 
@@ -86,7 +86,7 @@
 | 84 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
 | 85 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 86 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.24 | 
-| 87 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
+| 87 | [Blair Witch](games/b/blair_witch.md) | 4.10 | 
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.40 | 
@@ -271,7 +271,7 @@
 | 269 | [GigaBash](games/g/gigabash.md) | 4.50 | 
 | 270 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 271 | [GNOG](games/g/gnog.md) | 4.67 | 
-| 272 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.88 | 
+| 272 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
 | 273 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 274 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 275 | [Godfall](games/g/godfall.md) | 4.06 | 
@@ -576,7 +576,7 @@
 | 574 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 575 | [Slipways](games/s/slipways.md) | 4.71 | 
 | 576 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 577 | [SMITE](games/s/smite.md) | 4.45 | 
+| 577 | [SMITE](games/s/smite.md) | 4.46 | 
 | 578 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 579 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
 | 580 | [Solitairica](games/s/solitairica.md) | 4.50 | 
