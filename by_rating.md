@@ -165,20 +165,20 @@
 | 163 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
 | 164 | [Northgard](games/n/northgard.md) | 4.72 | 
 | 165 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.72 | 
-| 166 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
-| 167 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
-| 168 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
-| 169 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
-| 170 | [shapez](games/s/shapez.md) | 4.72 | 
-| 171 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 172 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 173 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
-| 174 | [The Witness](games/t/the_witness.md) | 4.71 | 
-| 175 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
-| 176 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
-| 177 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
-| 178 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 179 | [Townscaper](games/t/townscaper.md) | 4.71 | 
+| 166 | [Townscaper](games/t/townscaper.md) | 4.72 | 
+| 167 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
+| 168 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
+| 169 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
+| 170 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
+| 171 | [shapez](games/s/shapez.md) | 4.72 | 
+| 172 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 173 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 174 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
+| 175 | [The Witness](games/t/the_witness.md) | 4.71 | 
+| 176 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 177 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
+| 178 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
+| 179 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 180 | [Slipways](games/s/slipways.md) | 4.71 | 
 | 181 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 
 | 182 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
@@ -426,20 +426,20 @@
 | 424 | [Outward](games/o/outward.md) | 4.55 | 
 | 425 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 426 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 427 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.55 | 
-| 428 | [Minit](games/m/minit.md) | 4.55 | 
-| 429 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 
-| 430 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
-| 431 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 432 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 433 | [Colt Canyon](games/c/colt_canyon.md) | 4.55 | 
-| 434 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 435 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 436 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 437 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
-| 438 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 439 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 440 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
+| 427 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
+| 428 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.55 | 
+| 429 | [Minit](games/m/minit.md) | 4.55 | 
+| 430 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 
+| 431 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
+| 432 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 433 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
+| 434 | [Colt Canyon](games/c/colt_canyon.md) | 4.55 | 
+| 435 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 436 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 437 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 438 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
+| 439 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
+| 440 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 441 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.54 | 
 | 442 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
 | 443 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
@@ -697,15 +697,15 @@
 | 695 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 696 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
 | 697 | [The Fall](games/t/the_fall.md) | 4.27 | 
-| 698 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 699 | [Dark Light](games/d/dark_light.md) | 4.27 | 
-| 700 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
-| 701 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
-| 702 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 703 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
-| 704 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.26 | 
-| 705 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
-| 706 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.26 | 
+| 698 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
+| 699 | [Parkitect](games/p/parkitect.md) | 4.27 | 
+| 700 | [Dark Light](games/d/dark_light.md) | 4.27 | 
+| 701 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
+| 702 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
+| 703 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 704 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
+| 705 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.26 | 
+| 706 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 707 | [Starsand](games/s/starsand.md) | 4.26 | 
 | 708 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 
 | 709 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
