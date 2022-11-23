@@ -205,7 +205,7 @@
 | 203 | [ELEX](games/e/elex.md) | 4.38 | 
 | 204 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
 | 205 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 206 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 206 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 
 | 207 | [Encased](games/e/encased.md) | 4.37 | 
 | 208 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 209 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
@@ -442,7 +442,7 @@
 | 440 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 441 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 442 | [Obduction](games/o/obduction.md) | 4.09 | 
-| 443 | [Observation](games/o/observation.md) | 4.53 | 
+| 443 | [Observation](games/o/observation.md) | 4.54 | 
 | 444 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
 | 445 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
 | 446 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
@@ -689,7 +689,7 @@
 | 687 | [The Surge 2](games/t/the_surge_2.md) | 4.16 | 
 | 688 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 689 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.73 | 
-| 690 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
+| 690 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 691 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
 | 692 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
 | 693 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
@@ -735,7 +735,7 @@
 | 733 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
 | 734 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 735 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
-| 736 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 736 | [Transistor](games/t/transistor.md) | 4.63 | 
 | 737 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
 | 738 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 739 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
@@ -765,7 +765,7 @@
 | 763 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 764 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 765 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 766 | [War Mongrels](games/w/war_mongrels.md) | 4.35 | 
+| 766 | [War Mongrels](games/w/war_mongrels.md) | 4.33 | 
 | 767 | [Warface](games/w/warface.md) | 3.94 | 
 | 768 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 769 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
