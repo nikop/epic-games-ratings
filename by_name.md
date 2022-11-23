@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.18 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.28 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.57 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
@@ -149,7 +149,7 @@
 | 147 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 148 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 149 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
-| 150 | [Dark Deception](games/d/dark_deception.md) | 4.59 | 
+| 150 | [Dark Deception](games/d/dark_deception.md) | 4.60 | 
 | 151 | [Dark Deity](games/d/dark_deity.md) | 4.04 | 
 | 152 | [Dark Light](games/d/dark_light.md) | 4.27 | 
 | 153 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
@@ -245,11 +245,11 @@
 | 243 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 244 | [Firework](games/f/firework.md) | 4.88 | 
 | 245 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 
-| 246 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
+| 246 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
 | 247 | [Flatout](games/f/flatout.md) | 4.05 | 
 | 248 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
 | 249 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 250 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
+| 250 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.73 | 
 | 251 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 252 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 253 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -273,7 +273,7 @@
 | 271 | [GNOG](games/g/gnog.md) | 4.67 | 
 | 272 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
 | 273 | [God of War](games/g/god_of_war.md) | 4.90 | 
-| 274 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
+| 274 | [God's Trigger](games/g/god's_trigger.md) | 4.11 | 
 | 275 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 276 | [Godlike Burger](games/g/godlike_burger.md) | 4.19 | 
 | 277 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
@@ -412,7 +412,7 @@
 | 410 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 411 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
 | 412 | [Moving Out](games/m/moving_out.md) | 4.58 | 
-| 413 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 413 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 414 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 415 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.48 | 
 | 416 | [Mutazione](games/m/mutazione.md) | 4.64 | 
@@ -617,7 +617,7 @@
 | 615 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 616 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.70 | 
 | 617 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
-| 618 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
+| 618 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
 | 619 | [Submerged](games/s/submerged.md) | 4.10 | 
 | 620 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 621 | [Subnautica](games/s/subnautica.md) | 4.84 | 
@@ -713,7 +713,7 @@
 | 711 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
 | 712 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.31 | 
 | 713 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 714 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.28 | 
+| 714 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.27 | 
 | 715 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
 | 716 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 717 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
