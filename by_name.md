@@ -177,7 +177,7 @@
 | 175 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 176 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 177 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
-| 178 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 178 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 179 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.58 | 
 | 180 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 181 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -575,7 +575,7 @@
 | 573 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 574 | [Slipways](games/s/slipways.md) | 4.71 | 
 | 575 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 576 | [SMITE](games/s/smite.md) | 4.46 | 
+| 576 | [SMITE](games/s/smite.md) | 4.45 | 
 | 577 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 578 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
 | 579 | [Solitairica](games/s/solitairica.md) | 4.50 | 
@@ -606,7 +606,7 @@
 | 604 | [Starsand](games/s/starsand.md) | 4.26 | 
 | 605 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 606 | [Startup Panic](games/s/startup_panic.md) | 4.35 | 
-| 607 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 607 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 608 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 609 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
 | 610 | [STG Football](games/s/stg_football.md) | 4.61 | 
@@ -795,7 +795,7 @@
 | 793 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 794 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 795 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
-| 796 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
+| 796 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 797 | [WRC Generations](games/w/wrc_generations.md) | 4.58 | 
 | 798 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 799 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.54 | 

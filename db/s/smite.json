@@ -1,10 +1,10 @@
 {
   "ID": "076207fa2b5c4803a636af606c3c28b7",
   "Name": "SMITE",
-  "Rating": 4.46,
+  "Rating": 4.45,
   "NumberOfRatings": 6749,
   "FirstSeen": "2022-07-22T20:18:32.4644513+00:00",
-  "LastChanged": "2022-11-23T05:56:53.2359817+00:00",
+  "LastChanged": "2022-11-23T06:57:19.1258054+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:32.4644518+00:00",
@@ -2919,6 +2919,11 @@
     {
       "Time": "2022-11-23T05:56:53.2359818+00:00",
       "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T06:57:19.1258056+00:00",
+      "Rating": 4.45,
       "NumberOfRatings": null
     }
   ],
