@@ -140,7 +140,7 @@
 | 138 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
 | 139 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
 | 140 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 141 | [CryoFall](games/c/cryofall.md) | 4.50 | 
+| 141 | [CryoFall](games/c/cryofall.md) | 4.51 | 
 | 142 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 143 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.67 | 
 | 144 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
@@ -198,7 +198,7 @@
 | 196 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 197 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 198 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 199 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
+| 199 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 
 | 200 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 201 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.77 | 
 | 202 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -406,11 +406,11 @@
 | 404 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
 | 405 | [Minit](games/m/minit.md) | 4.55 | 
 | 406 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.85 | 
-| 407 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 407 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 408 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 409 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 410 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 411 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
+| 411 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 412 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 413 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 414 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
@@ -440,7 +440,7 @@
 | 438 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.83 | 
 | 439 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 440 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 441 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 441 | [Obduction](games/o/obduction.md) | 4.09 | 
 | 442 | [Observation](games/o/observation.md) | 4.53 | 
 | 443 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
 | 444 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
@@ -576,7 +576,7 @@
 | 574 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 575 | [Slipways](games/s/slipways.md) | 4.71 | 
 | 576 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 577 | [SMITE](games/s/smite.md) | 4.46 | 
+| 577 | [SMITE](games/s/smite.md) | 4.45 | 
 | 578 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 579 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
 | 580 | [Solitairica](games/s/solitairica.md) | 4.50 | 
@@ -740,7 +740,7 @@
 | 738 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
 | 739 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 740 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
-| 741 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
+| 741 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.62 | 
 | 742 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
 | 743 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 744 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
@@ -772,7 +772,7 @@
 | 770 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 
 | 771 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
 | 772 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.57 | 
-| 773 | [Warpips](games/w/warpips.md) | 4.56 | 
+| 773 | [Warpips](games/w/warpips.md) | 4.57 | 
 | 774 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 775 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 776 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
