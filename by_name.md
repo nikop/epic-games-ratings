@@ -32,7 +32,7 @@
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
-| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
+| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.41 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.65 | 
@@ -67,7 +67,7 @@
 | 65 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 66 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 67 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
-| 68 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 
+| 68 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.69 | 
 | 69 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 70 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 71 | [Barony](games/b/barony.md) | 4.69 | 
@@ -108,7 +108,7 @@
 | 106 | [CARRION](games/c/carrion.md) | 4.67 | 
 | 107 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 108 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
-| 109 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
+| 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 110 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
@@ -246,7 +246,7 @@
 | 244 | [Firework](games/f/firework.md) | 4.88 | 
 | 245 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 
 | 246 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
-| 247 | [Flatout](games/f/flatout.md) | 4.00 | 
+| 247 | [Flatout](games/f/flatout.md) | 4.05 | 
 | 248 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
 | 249 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 250 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
@@ -801,8 +801,8 @@
 | 799 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 800 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.54 | 
 | 801 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 802 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
-| 803 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
+| 802 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 
+| 803 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
 | 804 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
 | 805 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.65 | 
 | 806 | [ZOMBI](games/z/zombi.md) | 4.35 | 
