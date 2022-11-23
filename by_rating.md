@@ -104,12 +104,12 @@
 | 102 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 103 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 104 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 105 | [Rayman Origins](games/r/rayman_origins.md) | 4.77 | 
-| 106 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 107 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 108 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 109 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 110 | [Journey](games/j/journey.md) | 4.76 | 
+| 105 | [Journey](games/j/journey.md) | 4.77 | 
+| 106 | [Rayman Origins](games/r/rayman_origins.md) | 4.77 | 
+| 107 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 108 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 109 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 110 | [Diabotical](games/d/diabotical.md) | 4.76 | 
 | 111 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 112 | [Haven](games/h/haven.md) | 4.76 | 
 | 113 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.76 | 
@@ -156,19 +156,19 @@
 | 154 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 155 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 156 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
-| 157 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.73 | 
-| 158 | [SpiderHeck](games/s/spiderheck.md) | 4.73 | 
-| 159 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 160 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 161 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
-| 162 | [Fez](games/f/fez.md) | 4.72 | 
-| 163 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
-| 164 | [Northgard](games/n/northgard.md) | 4.72 | 
-| 165 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.72 | 
-| 166 | [Townscaper](games/t/townscaper.md) | 4.72 | 
-| 167 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
-| 168 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
-| 169 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
+| 157 | [SpiderHeck](games/s/spiderheck.md) | 4.73 | 
+| 158 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 159 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 160 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
+| 161 | [Fez](games/f/fez.md) | 4.72 | 
+| 162 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
+| 163 | [Northgard](games/n/northgard.md) | 4.72 | 
+| 164 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.72 | 
+| 165 | [Townscaper](games/t/townscaper.md) | 4.72 | 
+| 166 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
+| 167 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
+| 168 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
+| 169 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
 | 170 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
 | 171 | [shapez](games/s/shapez.md) | 4.72 | 
 | 172 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 

@@ -248,7 +248,7 @@
 | 246 | [Flatout](games/f/flatout.md) | 4.00 | 
 | 247 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
 | 248 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 249 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.73 | 
+| 249 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
 | 250 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 251 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 252 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -335,7 +335,7 @@
 | 333 | [Isonzo](games/i/isonzo.md) | 4.58 | 
 | 334 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 335 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 336 | [Journey](games/j/journey.md) | 4.76 | 
+| 336 | [Journey](games/j/journey.md) | 4.77 | 
 | 337 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 338 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 339 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 

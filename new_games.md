@@ -5,7 +5,7 @@
 | 3 | [Brawlhalla](games/b/brawlhalla.md) | 4.18 | 
 | 4 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 5 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.42 | 
-| 6 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.73 | 
+| 6 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.72 | 
 | 7 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
 | 8 | [WRC Generations](games/w/wrc_generations.md) | 4.58 | 
 | 9 | [shapez](games/s/shapez.md) | 4.72 | 
