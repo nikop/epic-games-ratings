@@ -350,7 +350,7 @@
 | 348 | [King of Retail](games/k/king_of_retail.md) | 4.75 | 
 | 349 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 
 | 350 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.83 | 
-| 351 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
+| 351 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.70 | 
 | 352 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
 | 353 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.72 | 
 | 354 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
@@ -388,7 +388,7 @@
 | 386 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 387 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 388 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 389 | [Mago](games/m/mago.md) | 4.86 | 
+| 389 | [Mago](games/m/mago.md) | 4.87 | 
 | 390 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 391 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 392 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 

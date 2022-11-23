@@ -28,10 +28,10 @@
 | 26 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 27 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 28 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
-| 29 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
-| 30 | [Inscryption](games/i/inscryption.md) | 4.86 | 
-| 31 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 32 | [Mago](games/m/mago.md) | 4.86 | 
+| 29 | [Mago](games/m/mago.md) | 4.87 | 
+| 30 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
+| 31 | [Inscryption](games/i/inscryption.md) | 4.86 | 
+| 32 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 33 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 34 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 35 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
@@ -155,42 +155,42 @@
 | 153 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
 | 154 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 155 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
-| 156 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 
-| 157 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
-| 158 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.73 | 
-| 159 | [SpiderHeck](games/s/spiderheck.md) | 4.73 | 
-| 160 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 161 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 162 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
-| 163 | [Fez](games/f/fez.md) | 4.72 | 
-| 164 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
-| 165 | [Northgard](games/n/northgard.md) | 4.72 | 
-| 166 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.72 | 
-| 167 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
-| 168 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
-| 169 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
-| 170 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
-| 171 | [shapez](games/s/shapez.md) | 4.72 | 
-| 172 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 173 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 174 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
-| 175 | [The Witness](games/t/the_witness.md) | 4.71 | 
-| 176 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
-| 177 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
-| 178 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
-| 179 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 180 | [Townscaper](games/t/townscaper.md) | 4.71 | 
-| 181 | [Slipways](games/s/slipways.md) | 4.71 | 
-| 182 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 
-| 183 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 184 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 185 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
-| 186 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 187 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 188 | [Timberborn](games/t/timberborn.md) | 4.70 | 
-| 189 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 190 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 191 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.70 | 
+| 156 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
+| 157 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.73 | 
+| 158 | [SpiderHeck](games/s/spiderheck.md) | 4.73 | 
+| 159 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 160 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 161 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
+| 162 | [Fez](games/f/fez.md) | 4.72 | 
+| 163 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
+| 164 | [Northgard](games/n/northgard.md) | 4.72 | 
+| 165 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.72 | 
+| 166 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
+| 167 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
+| 168 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
+| 169 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
+| 170 | [shapez](games/s/shapez.md) | 4.72 | 
+| 171 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 172 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 173 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
+| 174 | [The Witness](games/t/the_witness.md) | 4.71 | 
+| 175 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 176 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
+| 177 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
+| 178 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 179 | [Townscaper](games/t/townscaper.md) | 4.71 | 
+| 180 | [Slipways](games/s/slipways.md) | 4.71 | 
+| 181 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 
+| 182 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 183 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 184 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
+| 185 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 186 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 187 | [Timberborn](games/t/timberborn.md) | 4.70 | 
+| 188 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 189 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
+| 190 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.70 | 
+| 191 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.70 | 
 | 192 | [No Straight Roads](games/n/no_straight_roads.md) | 4.70 | 
 | 193 | [Suzerain](games/s/suzerain.md) | 4.70 | 
 | 194 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
