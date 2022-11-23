@@ -1,10 +1,10 @@
 {
   "ID": "7e1b3a8e19c949c0bfaed0424a8c4bb5",
   "Name": "Pine",
-  "Rating": 4.13,
+  "Rating": 4.14,
   "NumberOfRatings": 694,
   "FirstSeen": "2022-07-22T20:23:31.2285518+00:00",
-  "LastChanged": "2022-11-19T05:57:12.8497685+00:00",
+  "LastChanged": "2022-11-23T14:58:56.603249+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:31.2285522+00:00",
@@ -544,6 +544,11 @@
     {
       "Time": "2022-11-19T05:57:12.8497688+00:00",
       "Rating": 4.13,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T14:58:56.6032494+00:00",
+      "Rating": 4.14,
       "NumberOfRatings": null
     }
   ],

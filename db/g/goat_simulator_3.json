@@ -1,10 +1,10 @@
 {
   "ID": "50bbaf85f4454b1c88786efeede5b302",
   "Name": "Goat Simulator 3",
-  "Rating": 4.87,
+  "Rating": 4.88,
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
-  "LastChanged": "2022-11-23T10:57:40.0655239+00:00",
+  "LastChanged": "2022-11-23T14:58:28.0868767+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-17T20:57:24.0090353+00:00",
@@ -59,6 +59,11 @@
     {
       "Time": "2022-11-23T10:57:40.0655239+00:00",
       "Rating": 4.87,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T14:58:28.086877+00:00",
+      "Rating": 4.88,
       "NumberOfRatings": null
     }
   ],

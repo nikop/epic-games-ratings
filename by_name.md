@@ -211,7 +211,7 @@
 | 209 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 210 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 211 | [Everything](games/e/everything.md) | 4.65 | 
-| 212 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.41 | 
+| 212 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.40 | 
 | 213 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 214 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 215 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
@@ -222,7 +222,7 @@
 | 220 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 221 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
 | 222 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 223 | [Far Cry](games/f/far_cry.md) | 4.39 | 
+| 223 | [Far Cry](games/f/far_cry.md) | 4.40 | 
 | 224 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
 | 225 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 226 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
@@ -271,7 +271,7 @@
 | 269 | [GigaBash](games/g/gigabash.md) | 4.50 | 
 | 270 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 271 | [GNOG](games/g/gnog.md) | 4.67 | 
-| 272 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
+| 272 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.88 | 
 | 273 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 274 | [God's Trigger](games/g/god's_trigger.md) | 4.10 | 
 | 275 | [Godfall](games/g/godfall.md) | 4.06 | 
@@ -393,9 +393,9 @@
 | 391 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 392 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 393 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
-| 394 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.74 | 
+| 394 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 395 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 396 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.83 | 
+| 396 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 397 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 398 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 399 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
@@ -470,7 +470,7 @@
 | 468 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 469 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
 | 470 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 471 | [Partisans 1941](games/p/partisans_1941.md) | 4.57 | 
+| 471 | [Partisans 1941](games/p/partisans_1941.md) | 4.58 | 
 | 472 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 473 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 474 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
@@ -484,7 +484,7 @@
 | 482 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 483 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 484 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
-| 485 | [Pine](games/p/pine.md) | 4.13 | 
+| 485 | [Pine](games/p/pine.md) | 4.14 | 
 | 486 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.44 | 
 | 487 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
 | 488 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
@@ -568,7 +568,7 @@
 | 566 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.40 | 
 | 567 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 568 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 569 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 569 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 570 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 
 | 571 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 572 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
@@ -665,7 +665,7 @@
 | 663 | [The Fall](games/t/the_fall.md) | 4.27 | 
 | 664 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 
 | 665 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
-| 666 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
+| 666 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
 | 667 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.95 | 
 | 668 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 669 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
@@ -696,7 +696,7 @@
 | 694 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.74 | 
 | 695 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
 | 696 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.84 | 
-| 697 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.82 | 
+| 697 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
 | 698 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 
 | 699 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 700 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
