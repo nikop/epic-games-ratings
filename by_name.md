@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.29 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.31 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.57 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
@@ -150,7 +150,7 @@
 | 148 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 149 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
 | 150 | [Dark Deception](games/d/dark_deception.md) | 4.60 | 
-| 151 | [Dark Deity](games/d/dark_deity.md) | 4.06 | 
+| 151 | [Dark Deity](games/d/dark_deity.md) | 4.07 | 
 | 152 | [Dark Light](games/d/dark_light.md) | 4.25 | 
 | 153 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 154 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -292,7 +292,7 @@
 | 290 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.44 | 
 | 291 | [Hammerting](games/h/hammerting.md) | 4.42 | 
 | 292 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 293 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
+| 293 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
 | 294 | [Haven](games/h/haven.md) | 4.76 | 
 | 295 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
 | 296 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
@@ -410,7 +410,7 @@
 | 408 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 409 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 410 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 411 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
+| 411 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 412 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 413 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 414 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
@@ -489,7 +489,7 @@
 | 487 | [Pine](games/p/pine.md) | 4.14 | 
 | 488 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.44 | 
 | 489 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
-| 490 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
+| 490 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 491 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 492 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 493 | [Prey](games/p/prey.md) | 4.61 | 
@@ -687,7 +687,7 @@
 | 685 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
 | 686 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
 | 687 | [The Surge](games/t/the_surge.md) | 4.51 | 
-| 688 | [The Surge 2](games/t/the_surge_2.md) | 4.16 | 
+| 688 | [The Surge 2](games/t/the_surge_2.md) | 4.17 | 
 | 689 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 690 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.73 | 
 | 691 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
@@ -803,7 +803,7 @@
 | 801 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 802 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.54 | 
 | 803 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 804 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 
+| 804 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
 | 805 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
 | 806 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
 | 807 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.65 | 
