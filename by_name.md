@@ -32,7 +32,7 @@
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
-| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
+| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.65 | 
@@ -116,7 +116,7 @@
 | 114 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
 | 115 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 116 | [Chorus](games/c/chorus.md) | 4.43 | 
-| 117 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.92 | 
+| 117 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 3.96 | 
 | 118 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 119 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 120 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
@@ -150,7 +150,7 @@
 | 148 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 149 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
 | 150 | [Dark Deception](games/d/dark_deception.md) | 4.60 | 
-| 151 | [Dark Deity](games/d/dark_deity.md) | 4.05 | 
+| 151 | [Dark Deity](games/d/dark_deity.md) | 4.06 | 
 | 152 | [Dark Light](games/d/dark_light.md) | 4.25 | 
 | 153 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 154 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -266,7 +266,7 @@
 | 264 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 
 | 265 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
 | 266 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.45 | 
-| 267 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
+| 267 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 268 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 269 | [GigaBash](games/g/gigabash.md) | 4.50 | 
 | 270 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
@@ -317,7 +317,7 @@
 | 315 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 316 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 317 | [Huntdown](games/h/huntdown.md) | 4.82 | 
-| 318 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 318 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 319 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.62 | 
 | 320 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.64 | 
 | 321 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
@@ -368,7 +368,7 @@
 | 366 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 367 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 368 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 369 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 369 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 370 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 371 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 372 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
@@ -779,7 +779,7 @@
 | 777 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
 | 778 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
 | 779 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 780 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
+| 780 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 781 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 782 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
 | 783 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
