@@ -1,10 +1,10 @@
 {
   "ID": "c42b08b655c04a64a0535331629d4b6d",
   "Name": "Bugsnax",
-  "Rating": 4.84,
+  "Rating": 4.85,
   "NumberOfRatings": 425,
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
-  "LastChanged": "2022-11-14T14:57:48.1906671+00:00",
+  "LastChanged": "2022-11-24T19:58:18.7798597+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:14.968778+00:00",
@@ -480,12 +480,17 @@
       "Time": "2022-11-14T14:57:48.1906671+00:00",
       "Rating": 4.84,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T19:58:18.77986+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has Amazing Storytelling",
