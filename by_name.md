@@ -19,7 +19,7 @@
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.61 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.01 | 
+| 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.02 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
@@ -45,7 +45,7 @@
 | 43 | [Ashen](games/a/ashen.md) | 4.30 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
@@ -60,7 +60,7 @@
 | 58 | [Automachef](games/a/automachef.md) | 4.33 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
-| 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
+| 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.51 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 64 | [Backbone](games/b/backbone.md) | 4.36 | 
@@ -238,7 +238,7 @@
 | 236 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 237 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 238 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
-| 239 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
+| 239 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.61 | 
 | 240 | [Fez](games/f/fez.md) | 4.72 | 
 | 241 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
 | 242 | [Figment](games/f/figment.md) | 4.45 | 
@@ -265,7 +265,7 @@
 | 263 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 264 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 265 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 
-| 266 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 266 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
 | 267 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.45 | 
 | 268 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
 | 269 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -308,7 +308,7 @@
 | 306 | [Hob](games/h/hob.md) | 4.56 | 
 | 307 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.44 | 
 | 308 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 309 | [Horace](games/h/horace.md) | 4.56 | 
+| 309 | [Horace](games/h/horace.md) | 4.55 | 
 | 310 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 311 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 312 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
@@ -804,7 +804,7 @@
 | 802 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 803 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.54 | 
 | 804 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 805 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
+| 805 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 
 | 806 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
 | 807 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
 | 808 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.65 | 
