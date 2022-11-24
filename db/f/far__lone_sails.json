@@ -1,11 +1,11 @@
 {
   "ID": "64f6e25cee7441e9967524a50b08dddd",
   "Name": "FAR: Lone Sails",
-  "Rating": 4.76,
+  "Rating": 4.73,
   "NumberOfRatings": 25,
   "FirstSeen": "2022-07-22T20:17:14.0049461+00:00",
   "FirstSeenRating": "2022-08-23T01:00:21.0913154+00:00",
-  "LastChanged": "2022-11-14T18:57:54.5730983+00:00",
+  "LastChanged": "2022-11-24T18:57:17.2918639+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-23T01:00:21.0913162+00:00",
@@ -55,6 +55,11 @@
     {
       "Time": "2022-11-14T18:57:54.5730985+00:00",
       "Rating": 4.76,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T18:57:17.2918641+00:00",
+      "Rating": 4.73,
       "NumberOfRatings": null
     }
   ],

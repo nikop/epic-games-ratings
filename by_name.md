@@ -72,7 +72,7 @@
 | 70 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 71 | [Barony](games/b/barony.md) | 4.69 | 
 | 72 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.32 | 
-| 73 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
+| 73 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
 | 74 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 75 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.66 | 
@@ -181,7 +181,7 @@
 | 179 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.59 | 
 | 180 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 181 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 182 | [Diabotical](games/d/diabotical.md) | 4.76 | 
+| 182 | [Diabotical](games/d/diabotical.md) | 4.75 | 
 | 183 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 184 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
 | 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.40 | 
@@ -232,8 +232,8 @@
 | 230 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.68 | 
 | 231 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
 | 232 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
-| 233 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.76 | 
-| 234 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.12 | 
+| 233 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
+| 234 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.13 | 
 | 235 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 236 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 237 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
@@ -312,7 +312,7 @@
 | 310 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 311 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 312 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 313 | [House Party](games/h/house_party.md) | 4.30 | 
+| 313 | [House Party](games/h/house_party.md) | 4.29 | 
 | 314 | [Hue](games/h/hue.md) | 4.55 | 
 | 315 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 316 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
@@ -659,7 +659,7 @@
 | 657 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 658 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 659 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 660 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.83 | 
+| 660 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
 | 661 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 662 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 663 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
