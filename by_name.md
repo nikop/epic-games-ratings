@@ -548,7 +548,7 @@
 | 546 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.59 | 
 | 547 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 548 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 549 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 
+| 549 | [Saturnalia](games/s/saturnalia.md) | 4.27 | 
 | 550 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 551 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 552 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
@@ -570,7 +570,7 @@
 | 568 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.40 | 
 | 569 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 570 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 571 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 571 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 572 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 
 | 573 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 574 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
@@ -748,7 +748,7 @@
 | 746 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
 | 747 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
 | 748 | [TUNIC](games/t/tunic.md) | 4.87 | 
-| 749 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
+| 749 | [Twin Mirror](games/t/twin_mirror.md) | 4.23 | 
 | 750 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 751 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
 | 752 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.40 | 

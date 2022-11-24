@@ -69,13 +69,13 @@
 | 67 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.82 | 
 | 68 | [Huntdown](games/h/huntdown.md) | 4.82 | 
 | 69 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
-| 70 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 71 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 72 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 73 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 
-| 74 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.81 | 
-| 75 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 76 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 70 | [Sifu](games/s/sifu.md) | 4.81 | 
+| 71 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 72 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 73 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 74 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 
+| 75 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.81 | 
+| 76 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 77 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 78 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 79 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
@@ -699,26 +699,26 @@
 | 697 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
 | 698 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 699 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 700 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.27 | 
-| 701 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 702 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
+| 700 | [Saturnalia](games/s/saturnalia.md) | 4.27 | 
+| 701 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.27 | 
+| 702 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 703 | [Starsand](games/s/starsand.md) | 4.26 | 
 | 704 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 
 | 705 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
-| 706 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 
-| 707 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
-| 708 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 
-| 709 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 710 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 711 | [Dark Light](games/d/dark_light.md) | 4.25 | 
-| 712 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.25 | 
-| 713 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 714 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.24 | 
-| 715 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
-| 716 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.24 | 
-| 717 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
-| 718 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 719 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
+| 706 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
+| 707 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 
+| 708 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 709 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 710 | [Dark Light](games/d/dark_light.md) | 4.25 | 
+| 711 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.25 | 
+| 712 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
+| 713 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.24 | 
+| 714 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
+| 715 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.24 | 
+| 716 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
+| 717 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 718 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
+| 719 | [Twin Mirror](games/t/twin_mirror.md) | 4.23 | 
 | 720 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
 | 721 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 722 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
