@@ -18,12 +18,12 @@
 | 16 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 17 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
-| 19 | [Black Book](games/b/black_book.md) | 4.88 | 
-| 20 | [Firework](games/f/firework.md) | 4.88 | 
-| 21 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 22 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 23 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 24 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
+| 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
+| 20 | [Black Book](games/b/black_book.md) | 4.88 | 
+| 21 | [Firework](games/f/firework.md) | 4.88 | 
+| 22 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
+| 23 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 25 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 26 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 27 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
@@ -429,54 +429,54 @@
 | 427 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 428 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 429 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
-| 430 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.55 | 
-| 431 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 
-| 432 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
-| 433 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 434 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 435 | [Colt Canyon](games/c/colt_canyon.md) | 4.55 | 
+| 430 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 
+| 431 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
+| 432 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 433 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
+| 434 | [Colt Canyon](games/c/colt_canyon.md) | 4.55 | 
+| 435 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
 | 436 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 437 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 438 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 439 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 440 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 441 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 442 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.54 | 
-| 443 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
-| 444 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
-| 445 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.54 | 
-| 446 | [Observation](games/o/observation.md) | 4.54 | 
-| 447 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 448 | [Redout 2](games/r/redout_2.md) | 4.54 | 
-| 449 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.54 | 
-| 450 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 451 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 452 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 453 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 454 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 455 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
-| 456 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.53 | 
-| 457 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
-| 458 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
-| 459 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 460 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 461 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.53 | 
-| 462 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 463 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 464 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 465 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 466 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 467 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 468 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 469 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 470 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
-| 471 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
-| 472 | [RUINER](games/r/ruiner.md) | 4.52 | 
-| 473 | [Aztez](games/a/aztez.md) | 4.52 | 
-| 474 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
-| 475 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 476 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
-| 477 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.52 | 
+| 442 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
+| 443 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.54 | 
+| 444 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
+| 445 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
+| 446 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.54 | 
+| 447 | [Observation](games/o/observation.md) | 4.54 | 
+| 448 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 449 | [Redout 2](games/r/redout_2.md) | 4.54 | 
+| 450 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.54 | 
+| 451 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 452 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 453 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
+| 454 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 455 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 456 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
+| 457 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.53 | 
+| 458 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
+| 459 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
+| 460 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 461 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 462 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.53 | 
+| 463 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 464 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
+| 465 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 466 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 467 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 468 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 469 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 470 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
+| 471 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
+| 472 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
+| 473 | [RUINER](games/r/ruiner.md) | 4.52 | 
+| 474 | [Aztez](games/a/aztez.md) | 4.52 | 
+| 475 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
+| 476 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 477 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 478 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 479 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 480 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
@@ -723,10 +723,10 @@
 | 721 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 722 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
 | 723 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
-| 724 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
-| 725 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
-| 726 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
-| 727 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
+| 724 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
+| 725 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
+| 726 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
+| 727 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 728 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 729 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 730 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 

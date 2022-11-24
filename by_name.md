@@ -3,7 +3,7 @@
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
 | 2 | [20XX](games/2/20xx.md) | 4.61 | 
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.33 | 
-| 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
+| 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
@@ -55,11 +55,11 @@
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.44 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.37 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.42 | 
-| 56 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
+| 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.33 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.55 | 
+| 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.52 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
@@ -342,7 +342,7 @@
 | 340 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 341 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 342 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 343 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.52 | 
+| 343 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
 | 344 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 345 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.53 | 
 | 346 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
