@@ -1,10 +1,10 @@
 {
   "ID": "ff52981b1d9947978153c7a7f8bc6d90",
   "Name": "Disco Elysium",
-  "Rating": 4.87,
+  "Rating": 4.88,
   "NumberOfRatings": 1611,
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
-  "LastChanged": "2022-11-21T21:57:11.3942976+00:00",
+  "LastChanged": "2022-11-24T21:57:15.2163145+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:46.370963+00:00",
@@ -909,6 +909,11 @@
     {
       "Time": "2022-11-21T21:57:11.3942979+00:00",
       "Rating": 4.87,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T21:57:15.2163146+00:00",
+      "Rating": 4.88,
       "NumberOfRatings": null
     }
   ],

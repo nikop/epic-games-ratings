@@ -18,7 +18,7 @@
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.61 | 
-| 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
+| 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.01 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
@@ -185,7 +185,7 @@
 | 183 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 184 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
 | 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.40 | 
-| 186 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 186 | [Disco Elysium](games/d/disco_elysium.md) | 4.88 | 
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.74 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
@@ -316,7 +316,7 @@
 | 314 | [House Party](games/h/house_party.md) | 4.29 | 
 | 315 | [Hue](games/h/hue.md) | 4.55 | 
 | 316 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 317 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 317 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 318 | [Huntdown](games/h/huntdown.md) | 4.82 | 
 | 319 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 320 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.62 | 
@@ -340,12 +340,12 @@
 | 338 | [Journey](games/j/journey.md) | 4.77 | 
 | 339 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 340 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 341 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
+| 341 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 342 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 343 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 344 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
 | 345 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 346 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.53 | 
+| 346 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 347 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 348 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 349 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
@@ -393,10 +393,10 @@
 | 391 | [Mago](games/m/mago.md) | 4.87 | 
 | 392 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 393 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
-| 394 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
+| 394 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.15 | 
 | 395 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 396 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 397 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.83 | 
+| 397 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.84 | 
 | 398 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 399 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 400 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
@@ -444,7 +444,7 @@
 | 442 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 443 | [Obduction](games/o/obduction.md) | 4.09 | 
 | 444 | [Observation](games/o/observation.md) | 4.54 | 
-| 445 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
+| 445 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
 | 446 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.81 | 
 | 447 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
 | 448 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
@@ -458,7 +458,7 @@
 | 456 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 457 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.66 | 
 | 458 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 459 | [Outlast](games/o/outlast.md) | 4.74 | 
+| 459 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 460 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
 | 461 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 462 | [Outward](games/o/outward.md) | 4.55 | 
@@ -672,7 +672,7 @@
 | 670 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.95 | 
 | 671 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 672 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 673 | [The Last Campfire](games/t/the_last_campfire.md) | 4.85 | 
+| 673 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
 | 674 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
 | 675 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
 | 676 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
@@ -698,7 +698,7 @@
 | 696 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 697 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.74 | 
 | 698 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
-| 699 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 
+| 699 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.82 | 
 | 700 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.82 | 
 | 701 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 702 | [The Witness](games/t/the_witness.md) | 4.71 | 
