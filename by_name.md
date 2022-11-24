@@ -524,7 +524,7 @@
 | 522 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 523 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 524 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
-| 525 | [Riverbond](games/r/riverbond.md) | 4.47 | 
+| 525 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 526 | [Road 96](games/r/road_96.md) | 4.59 | 
 | 527 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 528 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
@@ -693,7 +693,7 @@
 | 691 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 692 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
 | 693 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
-| 694 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
+| 694 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 695 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 696 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.74 | 
 | 697 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 

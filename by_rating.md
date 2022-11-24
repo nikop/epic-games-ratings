@@ -521,14 +521,14 @@
 | 519 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.49 | 
 | 520 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 521 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
-| 522 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 523 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
-| 524 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
-| 525 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
-| 526 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
-| 527 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 528 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 529 | [Riverbond](games/r/riverbond.md) | 4.47 | 
+| 522 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 523 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 524 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
+| 525 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
+| 526 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
+| 527 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
+| 528 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 529 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 530 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 531 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 532 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
@@ -695,14 +695,14 @@
 | 693 | [The Fall](games/t/the_fall.md) | 4.28 | 
 | 694 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.28 | 
 | 695 | [EVE Online](games/e/eve_online.md) | 4.27 | 
-| 696 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
-| 697 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
-| 698 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
-| 699 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 700 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
-| 701 | [Saturnalia](games/s/saturnalia.md) | 4.27 | 
-| 702 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.27 | 
-| 703 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 696 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
+| 697 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
+| 698 | [Parkitect](games/p/parkitect.md) | 4.27 | 
+| 699 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
+| 700 | [Saturnalia](games/s/saturnalia.md) | 4.27 | 
+| 701 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.27 | 
+| 702 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 703 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 704 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
 | 705 | [Starsand](games/s/starsand.md) | 4.26 | 
 | 706 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
