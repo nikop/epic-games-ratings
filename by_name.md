@@ -32,7 +32,7 @@
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
-| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
+| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.65 | 
@@ -64,7 +64,7 @@
 | 62 | [Aztez](games/a/aztez.md) | 4.52 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 64 | [Backbone](games/b/backbone.md) | 4.36 | 
-| 65 | [Bad North](games/b/bad_north.md) | 4.67 | 
+| 65 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 66 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 67 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
 | 68 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.69 | 
@@ -154,7 +154,7 @@
 | 152 | [Dark Light](games/d/dark_light.md) | 4.25 | 
 | 153 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 154 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 155 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
+| 155 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 
 | 156 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 157 | [Darksiders III](games/d/darksiders_iii.md) | 4.46 | 
 | 158 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.58 | 
@@ -228,7 +228,7 @@
 | 226 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 227 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 228 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 229 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
+| 229 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
 | 230 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.68 | 
 | 231 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
 | 232 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
@@ -303,7 +303,7 @@
 | 301 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 302 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.53 | 
 | 303 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 304 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 304 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 305 | [Hob](games/h/hob.md) | 4.56 | 
 | 306 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.44 | 
 | 307 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
@@ -372,7 +372,7 @@
 | 370 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
 | 371 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 372 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 373 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
+| 373 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
 | 374 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 375 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 376 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
