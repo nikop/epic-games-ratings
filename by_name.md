@@ -53,7 +53,7 @@
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.44 | 
-| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.37 | 
+| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.38 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.42 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
@@ -178,7 +178,7 @@
 | 176 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 177 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
 | 178 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 179 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.58 | 
+| 179 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.59 | 
 | 180 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 181 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 182 | [Diabotical](games/d/diabotical.md) | 4.76 | 
@@ -211,7 +211,7 @@
 | 209 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 210 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 211 | [Everything](games/e/everything.md) | 4.65 | 
-| 212 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.40 | 
+| 212 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.39 | 
 | 213 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 214 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 215 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
@@ -273,7 +273,7 @@
 | 271 | [GNOG](games/g/gnog.md) | 4.67 | 
 | 272 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
 | 273 | [God of War](games/g/god_of_war.md) | 4.90 | 
-| 274 | [God's Trigger](games/g/god's_trigger.md) | 4.11 | 
+| 274 | [God's Trigger](games/g/god's_trigger.md) | 4.12 | 
 | 275 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 276 | [Godlike Burger](games/g/godlike_burger.md) | 4.19 | 
 | 277 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
@@ -294,7 +294,7 @@
 | 292 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 293 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
 | 294 | [Haven](games/h/haven.md) | 4.76 | 
-| 295 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
+| 295 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 296 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 297 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 298 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
@@ -379,7 +379,7 @@
 | 377 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 
 | 378 | [Limbo](games/l/limbo.md) | 4.64 | 
 | 379 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
-| 380 | [Little Inferno](games/l/little_inferno.md) | 4.50 | 
+| 380 | [Little Inferno](games/l/little_inferno.md) | 4.52 | 
 | 381 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 382 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 383 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.24 | 
@@ -684,7 +684,7 @@
 | 682 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 683 | [The Silent Age](games/t/the_silent_age.md) | 4.45 | 
 | 684 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 685 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 
+| 685 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 686 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
 | 687 | [The Surge](games/t/the_surge.md) | 4.51 | 
 | 688 | [The Surge 2](games/t/the_surge_2.md) | 4.17 | 
@@ -793,7 +793,7 @@
 | 791 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 792 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 793 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 794 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 
+| 794 | [World of Goo](games/w/world_of_goo.md) | 4.68 | 
 | 795 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 796 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 797 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
