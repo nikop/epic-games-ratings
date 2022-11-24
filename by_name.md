@@ -10,7 +10,7 @@
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.62 | 
-| 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
@@ -37,7 +37,7 @@
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.65 | 
 | 37 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 
-| 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.64 | 
+| 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
@@ -171,13 +171,13 @@
 | 169 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 170 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.44 | 
 | 171 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 172 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 
+| 172 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.60 | 
 | 173 | [Democracy 4](games/d/democracy_4.md) | 4.35 | 
 | 174 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
 | 175 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 176 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 177 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
-| 178 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 178 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 179 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.58 | 
 | 180 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 181 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -225,7 +225,7 @@
 | 223 | [Far Cry](games/f/far_cry.md) | 4.40 | 
 | 224 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
 | 225 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 226 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 226 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 227 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 228 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 229 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
@@ -410,7 +410,7 @@
 | 408 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 409 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 410 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 411 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 411 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
 | 412 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 413 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 414 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
@@ -463,7 +463,7 @@
 | 461 | [Outward](games/o/outward.md) | 4.55 | 
 | 462 | [Overcooked](games/o/overcooked.md) | 4.68 | 
 | 463 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 464 | [OVERPASS™](games/o/overpass™.md) | 4.32 | 
+| 464 | [OVERPASS™](games/o/overpass™.md) | 4.17 | 
 | 465 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
 | 466 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 467 | [Paladins](games/p/paladins.md) | 4.36 | 
@@ -630,7 +630,7 @@
 | 628 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
 | 629 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
 | 630 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
-| 631 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.65 | 
+| 631 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.66 | 
 | 632 | [Superliminal](games/s/superliminal.md) | 4.79 | 
 | 633 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 634 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
