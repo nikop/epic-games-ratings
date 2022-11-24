@@ -64,7 +64,7 @@
 | 62 | [Aztez](games/a/aztez.md) | 4.52 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 64 | [Backbone](games/b/backbone.md) | 4.36 | 
-| 65 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 65 | [Bad North](games/b/bad_north.md) | 4.67 | 
 | 66 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 67 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
 | 68 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.69 | 
@@ -177,7 +177,7 @@
 | 175 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 176 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 177 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
-| 178 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 178 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 179 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.58 | 
 | 180 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 181 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -609,7 +609,7 @@
 | 607 | [Starsand](games/s/starsand.md) | 4.26 | 
 | 608 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 609 | [Startup Panic](games/s/startup_panic.md) | 4.35 | 
-| 610 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 610 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 611 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 612 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
 | 613 | [STG Football](games/s/stg_football.md) | 4.62 | 
@@ -751,7 +751,7 @@
 | 749 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 750 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 751 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
-| 752 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.39 | 
+| 752 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.40 | 
 | 753 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 754 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 755 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.51 | 
