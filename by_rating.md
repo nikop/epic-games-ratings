@@ -699,12 +699,12 @@
 | 697 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
 | 698 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 699 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 700 | [Saturnalia](games/s/saturnalia.md) | 4.27 | 
-| 701 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.27 | 
-| 702 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 703 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
-| 704 | [Starsand](games/s/starsand.md) | 4.26 | 
-| 705 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 
+| 700 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
+| 701 | [Saturnalia](games/s/saturnalia.md) | 4.27 | 
+| 702 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.27 | 
+| 703 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 704 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 
+| 705 | [Starsand](games/s/starsand.md) | 4.26 | 
 | 706 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 707 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 708 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
