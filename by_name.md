@@ -404,7 +404,7 @@
 | 402 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 403 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 404 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
-| 405 | [Minit](games/m/minit.md) | 4.55 | 
+| 405 | [Minit](games/m/minit.md) | 4.56 | 
 | 406 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.85 | 
 | 407 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 408 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
@@ -544,7 +544,7 @@
 | 542 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 543 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
 | 544 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 545 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
+| 545 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 546 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.59 | 
 | 547 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 548 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
@@ -556,7 +556,7 @@
 | 554 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 555 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 556 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 557 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
+| 557 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.73 | 
 | 558 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 559 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 560 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
