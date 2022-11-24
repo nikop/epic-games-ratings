@@ -1,7 +1,16 @@
 {
   "ID": "1dcddbcc334945c48353b75a8fce5e5e",
   "Name": "Dishonored 2",
+  "Rating": 4.74,
   "FirstSeen": "2022-11-05T14:01:17.2849219+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-11-24T20:57:28.2064365+00:00",
+  "LastChanged": "2022-11-24T20:57:28.2064366+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-11-24T20:57:28.2064368+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
