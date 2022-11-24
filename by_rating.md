@@ -102,13 +102,13 @@
 | 100 | [Rayman Origins](games/r/rayman_origins.md) | 4.78 | 
 | 101 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.78 | 
 | 102 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
-| 103 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 104 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
-| 105 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 106 | [Journey](games/j/journey.md) | 4.77 | 
-| 107 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
-| 108 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 109 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 103 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
+| 104 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 105 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
+| 106 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
+| 107 | [Journey](games/j/journey.md) | 4.77 | 
+| 108 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
+| 109 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 110 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 111 | [Diabotical](games/d/diabotical.md) | 4.76 | 
 | 112 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
@@ -723,18 +723,18 @@
 | 721 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
 | 722 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 723 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
-| 724 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 725 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
-| 726 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
-| 727 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
-| 728 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
-| 729 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.21 | 
-| 730 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 731 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 732 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 733 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
-| 734 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
-| 735 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
+| 724 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
+| 725 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
+| 726 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
+| 727 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.21 | 
+| 728 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 729 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 730 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 731 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 732 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
+| 733 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
+| 734 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
+| 735 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 736 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
 | 737 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 738 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 

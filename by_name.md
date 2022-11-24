@@ -87,11 +87,11 @@
 | 85 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 86 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.24 | 
 | 87 | [Blair Witch](games/b/blair_witch.md) | 4.10 | 
-| 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
+| 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.40 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
-| 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.29 | 
@@ -256,7 +256,7 @@
 | 254 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 255 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 256 | [FUSER™](games/f/fuser™.md) | 4.73 | 
-| 257 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 257 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 258 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
 | 259 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.47 | 
 | 260 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
