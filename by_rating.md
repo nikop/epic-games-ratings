@@ -396,22 +396,22 @@
 | 394 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 395 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 396 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
-| 397 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 398 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
-| 399 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
-| 400 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 401 | [Breathedge](games/b/breathedge.md) | 4.57 | 
-| 402 | [Sable](games/s/sable.md) | 4.57 | 
-| 403 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.57 | 
-| 404 | [Warpips](games/w/warpips.md) | 4.57 | 
-| 405 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 
-| 406 | [NORCO](games/n/norco.md) | 4.57 | 
-| 407 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 408 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 409 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 410 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 411 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 412 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 397 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
+| 398 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
+| 399 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 400 | [Breathedge](games/b/breathedge.md) | 4.57 | 
+| 401 | [Sable](games/s/sable.md) | 4.57 | 
+| 402 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.57 | 
+| 403 | [Warpips](games/w/warpips.md) | 4.57 | 
+| 404 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 
+| 405 | [NORCO](games/n/norco.md) | 4.57 | 
+| 406 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 407 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 408 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 409 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 410 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 411 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 412 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
 | 413 | [Hob](games/h/hob.md) | 4.56 | 
 | 414 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 415 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.56 | 
