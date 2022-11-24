@@ -263,10 +263,10 @@
 | 261 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
 | 262 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 263 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 264 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 
+| 264 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 
 | 265 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
 | 266 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.45 | 
-| 267 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 267 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
 | 268 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 269 | [GigaBash](games/g/gigabash.md) | 4.50 | 
 | 270 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
@@ -533,7 +533,7 @@
 | 531 | [Rogue Lords](games/r/rogue_lords.md) | 4.69 | 
 | 532 | [Roguebook](games/r/roguebook.md) | 4.61 | 
 | 533 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 534 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
+| 534 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
 | 535 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 536 | [RUINER](games/r/ruiner.md) | 4.52 | 
 | 537 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
@@ -664,7 +664,7 @@
 | 662 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 663 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 664 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
-| 665 | [The Fall](games/t/the_fall.md) | 4.27 | 
+| 665 | [The Fall](games/t/the_fall.md) | 4.28 | 
 | 666 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 
 | 667 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
 | 668 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
