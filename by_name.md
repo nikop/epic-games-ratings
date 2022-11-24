@@ -86,7 +86,7 @@
 | 84 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
 | 85 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 86 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.24 | 
-| 87 | [Blair Witch](games/b/blair_witch.md) | 4.10 | 
+| 87 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.40 | 
@@ -128,7 +128,7 @@
 | 126 | [Control](games/c/control.md) | 4.60 | 
 | 127 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 128 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 129 | [Core](games/c/core.md) | 4.39 | 
+| 129 | [Core](games/c/core.md) | 4.38 | 
 | 130 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 131 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.69 | 
 | 132 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
@@ -150,7 +150,7 @@
 | 148 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 149 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
 | 150 | [Dark Deception](games/d/dark_deception.md) | 4.60 | 
-| 151 | [Dark Deity](games/d/dark_deity.md) | 4.07 | 
+| 151 | [Dark Deity](games/d/dark_deity.md) | 4.08 | 
 | 152 | [Dark Light](games/d/dark_light.md) | 4.25 | 
 | 153 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 154 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -437,16 +437,16 @@
 | 435 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 436 | [No Straight Roads](games/n/no_straight_roads.md) | 4.70 | 
 | 437 | [NORCO](games/n/norco.md) | 4.57 | 
-| 438 | [Northgard](games/n/northgard.md) | 4.72 | 
+| 438 | [Northgard](games/n/northgard.md) | 4.73 | 
 | 439 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.83 | 
 | 440 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 441 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 442 | [Obduction](games/o/obduction.md) | 4.09 | 
 | 443 | [Observation](games/o/observation.md) | 4.54 | 
 | 444 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
-| 445 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.82 | 
+| 445 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.81 | 
 | 446 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
-| 447 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
+| 447 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
 | 448 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 449 | [Old World](games/o/old_world.md) | 4.64 | 
 | 450 | [Ooblets](games/o/ooblets.md) | 4.87 | 
@@ -559,7 +559,7 @@
 | 557 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.73 | 
 | 558 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 559 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
-| 560 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
+| 560 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 561 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 562 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
 | 563 | [shapez](games/s/shapez.md) | 4.72 | 
@@ -782,7 +782,7 @@
 | 780 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 781 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 782 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 783 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
+| 783 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
 | 784 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 785 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.75 | 
 | 786 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.49 | 
@@ -799,7 +799,7 @@
 | 797 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
 | 798 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 799 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 800 | [WRC Generations](games/w/wrc_generations.md) | 4.59 | 
+| 800 | [WRC Generations](games/w/wrc_generations.md) | 4.60 | 
 | 801 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 802 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.54 | 
 | 803 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
