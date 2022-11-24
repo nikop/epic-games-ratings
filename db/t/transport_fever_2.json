@@ -1,10 +1,10 @@
 {
   "ID": "1760fff3738043f2870594d94487fa4b",
   "Name": "Transport Fever 2",
-  "Rating": 4.7,
+  "Rating": 4.69,
   "NumberOfRatings": 180,
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
-  "LastChanged": "2022-11-21T20:57:02.3749802+00:00",
+  "LastChanged": "2022-11-24T11:57:20.2016049+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:50.1070656+00:00",
@@ -250,6 +250,11 @@
       "Time": "2022-11-21T20:57:02.3749804+00:00",
       "Rating": 4.7,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T11:57:20.2016054+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -267,7 +272,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Relaxing",

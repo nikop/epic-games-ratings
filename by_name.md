@@ -258,7 +258,7 @@
 | 256 | [FUSER™](games/f/fuser™.md) | 4.73 | 
 | 257 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 258 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
-| 259 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.47 | 
+| 259 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.49 | 
 | 260 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 261 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
 | 262 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
@@ -346,7 +346,7 @@
 | 344 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 345 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.53 | 
 | 346 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 347 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.79 | 
+| 347 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 348 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
 | 349 | [King of Retail](games/k/king_of_retail.md) | 4.75 | 
 | 350 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 
@@ -539,7 +539,7 @@
 | 537 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 538 | [Runbow](games/r/runbow.md) | 4.45 | 
 | 539 | [Sable](games/s/sable.md) | 4.57 | 
-| 540 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
+| 540 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.83 | 
 | 541 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 542 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 543 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
@@ -737,7 +737,7 @@
 | 735 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 736 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 737 | [Transistor](games/t/transistor.md) | 4.63 | 
-| 738 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
+| 738 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 739 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 740 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
 | 741 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
@@ -788,7 +788,7 @@
 | 786 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.49 | 
 | 787 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 788 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
-| 789 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
+| 789 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 790 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 791 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 792 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
