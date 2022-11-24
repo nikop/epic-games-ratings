@@ -105,13 +105,13 @@
 | 103 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 104 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 105 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
-| 106 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 107 | [Journey](games/j/journey.md) | 4.77 | 
-| 108 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
-| 109 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 110 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 111 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 112 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 
+| 106 | [Journey](games/j/journey.md) | 4.77 | 
+| 107 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
+| 108 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 109 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 110 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 111 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 
+| 112 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
 | 113 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 114 | [Haven](games/h/haven.md) | 4.76 | 
 | 115 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
@@ -595,15 +595,15 @@
 | 593 | [Hammerting](games/h/hammerting.md) | 4.42 | 
 | 594 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
 | 595 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 596 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
-| 597 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 598 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 599 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 600 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 601 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.41 | 
-| 602 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
-| 603 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
-| 604 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 596 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
+| 597 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
+| 598 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 599 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
+| 600 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 601 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 602 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.41 | 
+| 603 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 604 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
 | 605 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.40 | 
 | 606 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
 | 607 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
@@ -682,14 +682,14 @@
 | 680 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 681 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
 | 682 | [Ashen](games/a/ashen.md) | 4.30 | 
-| 683 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
-| 684 | [Filament](games/f/filament.md) | 4.30 | 
-| 685 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
-| 686 | [Rage 2](games/r/rage_2.md) | 4.29 | 
-| 687 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 688 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
-| 689 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 690 | [House Party](games/h/house_party.md) | 4.29 | 
+| 683 | [Filament](games/f/filament.md) | 4.30 | 
+| 684 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
+| 685 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 686 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
+| 687 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 688 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 689 | [House Party](games/h/house_party.md) | 4.29 | 
+| 690 | [Speed Brawl](games/s/speed_brawl.md) | 4.29 | 
 | 691 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 692 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 693 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 

@@ -143,7 +143,7 @@
 | 141 | [CryoFall](games/c/cryofall.md) | 4.51 | 
 | 142 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 143 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.67 | 
-| 144 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 144 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
 | 145 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 146 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 147 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
@@ -578,7 +578,7 @@
 | 576 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 577 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 578 | [Slipways](games/s/slipways.md) | 4.71 | 
-| 579 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
+| 579 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
 | 580 | [SMITE](games/s/smite.md) | 4.45 | 
 | 581 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 582 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
@@ -592,7 +592,7 @@
 | 590 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
 | 591 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 592 | [Space Punks](games/s/space_punks.md) | 4.18 | 
-| 593 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
+| 593 | [Speed Brawl](games/s/speed_brawl.md) | 4.29 | 
 | 594 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
 | 595 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 596 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.41 | 
