@@ -170,7 +170,7 @@
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 757
+      "Count": 780
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -198,7 +198,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 27
+      "Count": 30
     },
     {
       "Text": "This game is Great for Beginners",
@@ -206,7 +206,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 25
+      "Count": 28
     },
     {
       "Text": "This game has Amazing Characters",
@@ -215,6 +215,10 @@
     {
       "Text": "This game has a Kind Community",
       "Count": 22
+    },
+    {
+      "Text": "This game has Beautiful Visuals",
+      "Count": 23
     }
   ]
 }

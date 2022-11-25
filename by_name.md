@@ -29,7 +29,7 @@
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
-| 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
+| 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
@@ -73,7 +73,7 @@
 | 71 | [Barony](games/b/barony.md) | 4.69 | 
 | 72 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.32 | 
 | 73 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
-| 74 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 74 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.78 | 
 | 75 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
 | 77 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.76 | 
@@ -172,12 +172,12 @@
 | 170 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.44 | 
 | 171 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 172 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.60 | 
-| 173 | [Democracy 4](games/d/democracy_4.md) | 4.35 | 
+| 173 | [Democracy 4](games/d/democracy_4.md) | 4.36 | 
 | 174 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
 | 175 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 176 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 177 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
-| 178 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 178 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 179 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.59 | 
 | 180 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 181 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -189,14 +189,14 @@
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 190 | [Divine Knockout](games/d/divine_knockout.md) | 4.64 | 
+| 190 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 191 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 192 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 193 | [DOOM 3](games/d/doom_3.md) | 4.64 | 
 | 194 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 195 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 196 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 197 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 197 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
 | 198 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 199 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 200 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 
@@ -304,7 +304,7 @@
 | 302 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 303 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.54 | 
 | 304 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 305 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 305 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 306 | [Hob](games/h/hob.md) | 4.57 | 
 | 307 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.44 | 
 | 308 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
@@ -350,7 +350,7 @@
 | 348 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 349 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
 | 350 | [King of Retail](games/k/king_of_retail.md) | 4.75 | 
-| 351 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 
+| 351 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
 | 352 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.83 | 
 | 353 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.70 | 
 | 354 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
@@ -431,7 +431,7 @@
 | 429 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
 | 430 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 431 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.60 | 
-| 432 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 
+| 432 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.03 | 
 | 433 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 434 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.74 | 
 | 435 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -531,7 +531,7 @@
 | 529 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 530 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 531 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 532 | [Rogue Lords](games/r/rogue_lords.md) | 4.69 | 
+| 532 | [Rogue Lords](games/r/rogue_lords.md) | 4.67 | 
 | 533 | [Roguebook](games/r/roguebook.md) | 4.62 | 
 | 534 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 535 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
@@ -558,14 +558,14 @@
 | 556 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 557 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 558 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.74 | 
-| 559 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
+| 559 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
 | 560 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 561 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 562 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 563 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
 | 564 | [shapez](games/s/shapez.md) | 4.72 | 
 | 565 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 566 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.18 | 
+| 566 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 
 | 567 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
 | 568 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 569 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.40 | 
@@ -638,7 +638,7 @@
 | 636 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 637 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.45 | 
 | 638 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 639 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 639 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.48 | 
 | 640 | [Suzerain](games/s/suzerain.md) | 4.70 | 
 | 641 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
 | 642 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
@@ -700,7 +700,7 @@
 | 698 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.74 | 
 | 699 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
 | 700 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.82 | 
-| 701 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.82 | 
+| 701 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.83 | 
 | 702 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 703 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 704 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
@@ -712,7 +712,7 @@
 | 710 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 711 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 712 | [Timberborn](games/t/timberborn.md) | 4.71 | 
-| 713 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 713 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.44 | 
 | 714 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 715 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
 | 716 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.31 | 

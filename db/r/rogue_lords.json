@@ -1,10 +1,10 @@
 {
   "ID": "e901b6ea77454b0e9d944976a975165c",
   "Name": "Rogue Lords",
-  "Rating": 4.69,
+  "Rating": 4.67,
   "NumberOfRatings": 38,
   "FirstSeen": "2022-07-22T20:17:30.3189892+00:00",
-  "LastChanged": "2022-11-07T05:56:46.036961+00:00",
+  "LastChanged": "2022-11-25T18:57:10.0091481+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:30.3189894+00:00",
@@ -109,6 +109,11 @@
     {
       "Time": "2022-11-07T05:56:46.0369611+00:00",
       "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T18:57:10.0091483+00:00",
+      "Rating": 4.67,
       "NumberOfRatings": null
     }
   ],
