@@ -1,7 +1,16 @@
 {
   "ID": "9afcf28baab84109ad3bc8038d07e7c1",
   "Name": "Trials Fusion: Standard Edition",
+  "Rating": 4.7,
   "FirstSeen": "2022-07-22T20:26:51.793317+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-11-25T02:22:23.776689+00:00",
+  "LastChanged": "2022-11-25T02:22:23.7766891+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-11-25T02:22:23.7766893+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
