@@ -27,7 +27,7 @@
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
@@ -155,7 +155,7 @@
 | 153 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 154 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 155 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 
-| 156 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 156 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.62 | 
 | 157 | [Darksiders III](games/d/darksiders_iii.md) | 4.46 | 
 | 158 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.58 | 
 | 159 | [Darkwood](games/d/darkwood.md) | 4.61 | 
@@ -177,7 +177,7 @@
 | 175 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 176 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 177 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
-| 178 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 178 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 179 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.59 | 
 | 180 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 181 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -340,7 +340,7 @@
 | 338 | [Journey](games/j/journey.md) | 4.77 | 
 | 339 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 340 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 341 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
+| 341 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 342 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 343 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 344 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
@@ -487,7 +487,7 @@
 | 485 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 486 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 487 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
-| 488 | [Pine](games/p/pine.md) | 4.14 | 
+| 488 | [Pine](games/p/pine.md) | 4.13 | 
 | 489 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.45 | 
 | 490 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
 | 491 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
@@ -784,7 +784,7 @@
 | 782 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 783 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 784 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 785 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
+| 785 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.13 | 
 | 786 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 787 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.76 | 
 | 788 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.49 | 
@@ -801,7 +801,7 @@
 | 799 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
 | 800 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 801 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
-| 802 | [WRC Generations](games/w/wrc_generations.md) | 4.61 | 
+| 802 | [WRC Generations](games/w/wrc_generations.md) | 4.59 | 
 | 803 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 804 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.54 | 
 | 805 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
