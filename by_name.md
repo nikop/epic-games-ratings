@@ -29,7 +29,7 @@
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
-| 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
@@ -340,7 +340,7 @@
 | 338 | [Journey](games/j/journey.md) | 4.77 | 
 | 339 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 340 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 341 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 341 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 342 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 343 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 344 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
@@ -433,7 +433,7 @@
 | 431 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.60 | 
 | 432 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 
 | 433 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 434 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 434 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.74 | 
 | 435 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 436 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 437 | [No Straight Roads](games/n/no_straight_roads.md) | 4.70 | 
@@ -628,7 +628,7 @@
 | 626 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 627 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
 | 628 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 629 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
+| 629 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
 | 630 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
 | 631 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
 | 632 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.66 | 
@@ -683,7 +683,7 @@
 | 681 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 682 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
 | 683 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
-| 684 | [The Silent Age](games/t/the_silent_age.md) | 4.45 | 
+| 684 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 685 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 686 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 687 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
