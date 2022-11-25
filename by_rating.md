@@ -617,11 +617,11 @@
 | 615 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.39 | 
 | 616 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 617 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 618 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
-| 619 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
-| 620 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 621 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
-| 622 | [Core](games/c/core.md) | 4.38 | 
+| 618 | [Core](games/c/core.md) | 4.39 | 
+| 619 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
+| 620 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
+| 621 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 622 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
 | 623 | [Among Trees](games/a/among_trees.md) | 4.38 | 
 | 624 | [Tacoma](games/t/tacoma.md) | 4.38 | 
 | 625 | [ELEX](games/e/elex.md) | 4.38 | 
@@ -786,9 +786,9 @@
 | 784 | [Lake](games/l/lake.md) | 4.04 | 
 | 785 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.02 | 
 | 786 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
-| 787 | [Pinball FX](games/p/pinball_fx.md) | 4.01 | 
-| 788 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 
-| 789 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
+| 787 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 
+| 788 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
+| 789 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 790 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.00 | 
 | 791 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 792 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 

@@ -128,7 +128,7 @@
 | 126 | [Control](games/c/control.md) | 4.60 | 
 | 127 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 128 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 129 | [Core](games/c/core.md) | 4.38 | 
+| 129 | [Core](games/c/core.md) | 4.39 | 
 | 130 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 131 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.69 | 
 | 132 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
@@ -486,7 +486,7 @@
 | 484 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 485 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 486 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 487 | [Pinball FX](games/p/pinball_fx.md) | 4.01 | 
+| 487 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 488 | [Pine](games/p/pine.md) | 4.14 | 
 | 489 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.45 | 
 | 490 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
