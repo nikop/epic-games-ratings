@@ -150,7 +150,7 @@
 | 148 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 149 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
 | 150 | [Dark Deception](games/d/dark_deception.md) | 4.60 | 
-| 151 | [Dark Deity](games/d/dark_deity.md) | 4.10 | 
+| 151 | [Dark Deity](games/d/dark_deity.md) | 4.09 | 
 | 152 | [Dark Light](games/d/dark_light.md) | 4.25 | 
 | 153 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 154 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -305,7 +305,7 @@
 | 303 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.54 | 
 | 304 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 305 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 306 | [Hob](games/h/hob.md) | 4.56 | 
+| 306 | [Hob](games/h/hob.md) | 4.57 | 
 | 307 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.44 | 
 | 308 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 309 | [Horace](games/h/horace.md) | 4.55 | 
@@ -413,7 +413,7 @@
 | 411 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 412 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 413 | [Moving Out](games/m/moving_out.md) | 4.58 | 
-| 414 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 414 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 415 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 416 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 417 | [Mutazione](games/m/mutazione.md) | 4.64 | 
@@ -497,7 +497,7 @@
 | 495 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 496 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 497 | [Quake](games/q/quake.md) | 4.82 | 
-| 498 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 498 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 499 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 500 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 501 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 

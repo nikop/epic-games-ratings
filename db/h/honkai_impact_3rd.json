@@ -186,7 +186,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 28
+      "Count": 30
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -202,7 +202,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 24
+      "Count": 28
     },
     {
       "Text": "This game is Relaxing",
@@ -211,6 +211,10 @@
     {
       "Text": "This game has Amazing Characters",
       "Count": 25
+    },
+    {
+      "Text": "This game has a Kind Community",
+      "Count": 22
     }
   ]
 }
