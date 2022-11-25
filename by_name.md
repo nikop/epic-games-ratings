@@ -137,10 +137,10 @@
 | 135 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 136 | [Crayta](games/c/crayta.md) | 4.18 | 
 | 137 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
-| 138 | [Cris Tales](games/c/cris_tales.md) | 4.37 | 
+| 138 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 139 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
 | 140 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 141 | [CryoFall](games/c/cryofall.md) | 4.51 | 
+| 141 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 142 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 143 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.67 | 
 | 144 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
@@ -229,7 +229,7 @@
 | 227 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 228 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 229 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 230 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 230 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
 | 231 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.68 | 
 | 232 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
 | 233 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
@@ -242,7 +242,7 @@
 | 240 | [Fez](games/f/fez.md) | 4.72 | 
 | 241 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
 | 242 | [Figment](games/f/figment.md) | 4.45 | 
-| 243 | [Filament](games/f/filament.md) | 4.30 | 
+| 243 | [Filament](games/f/filament.md) | 4.31 | 
 | 244 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 245 | [Firework](games/f/firework.md) | 4.88 | 
 | 246 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 
@@ -340,7 +340,7 @@
 | 338 | [Journey](games/j/journey.md) | 4.77 | 
 | 339 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 340 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 341 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 341 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 342 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 343 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 344 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
@@ -525,7 +525,7 @@
 | 523 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 524 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 525 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
-| 526 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 526 | [Riverbond](games/r/riverbond.md) | 4.47 | 
 | 527 | [Road 96](games/r/road_96.md) | 4.59 | 
 | 528 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 529 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
@@ -659,7 +659,7 @@
 | 657 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 658 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 659 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
-| 660 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 660 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 661 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
 | 662 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 663 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
@@ -687,7 +687,7 @@
 | 685 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 686 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 687 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
-| 688 | [The Surge](games/t/the_surge.md) | 4.51 | 
+| 688 | [The Surge](games/t/the_surge.md) | 4.52 | 
 | 689 | [The Surge 2](games/t/the_surge_2.md) | 4.17 | 
 | 690 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 691 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.73 | 
