@@ -87,7 +87,7 @@
 | 85 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 86 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.24 | 
 | 87 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
-| 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.40 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
@@ -221,7 +221,7 @@
 | 219 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 220 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.81 | 
 | 221 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 222 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
+| 222 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 223 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 224 | [Far Cry](games/f/far_cry.md) | 4.40 | 
 | 225 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 

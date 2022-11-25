@@ -171,16 +171,16 @@
 | 169 | [Townscaper](games/t/townscaper.md) | 4.72 | 
 | 170 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
 | 171 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
-| 172 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
-| 173 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
-| 174 | [shapez](games/s/shapez.md) | 4.72 | 
-| 175 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 176 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 177 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
-| 178 | [The Witness](games/t/the_witness.md) | 4.71 | 
-| 179 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 180 | [Slipways](games/s/slipways.md) | 4.71 | 
-| 181 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 172 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
+| 173 | [shapez](games/s/shapez.md) | 4.72 | 
+| 174 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 175 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 176 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
+| 177 | [The Witness](games/t/the_witness.md) | 4.71 | 
+| 178 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 179 | [Slipways](games/s/slipways.md) | 4.71 | 
+| 180 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 181 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 182 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 183 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 184 | [For The King](games/f/for_the_king.md) | 4.70 | 
@@ -727,16 +727,16 @@
 | 725 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 726 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 727 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
-| 728 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
-| 729 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 730 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 731 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 732 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 733 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 734 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
-| 735 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
-| 736 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
-| 737 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 728 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
+| 729 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
+| 730 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 731 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 732 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 733 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 734 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 735 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
+| 736 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
+| 737 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
 | 738 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
 | 739 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 740 | [Windbound](games/w/windbound.md) | 4.19 | 
