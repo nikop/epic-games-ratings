@@ -73,7 +73,7 @@
 | 71 | [Barony](games/b/barony.md) | 4.69 | 
 | 72 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.32 | 
 | 73 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
-| 74 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.78 | 
+| 74 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 75 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
 | 77 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.76 | 
@@ -416,7 +416,7 @@
 | 414 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 415 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 416 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 417 | [Mutazione](games/m/mutazione.md) | 4.64 | 
+| 417 | [Mutazione](games/m/mutazione.md) | 4.63 | 
 | 418 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.41 | 
 | 419 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 420 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
@@ -578,10 +578,10 @@
 | 576 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 577 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 578 | [Slipways](games/s/slipways.md) | 4.71 | 
-| 579 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
+| 579 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
 | 580 | [SMITE](games/s/smite.md) | 4.45 | 
 | 581 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 582 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
+| 582 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
 | 583 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 584 | [SOMA](games/s/soma.md) | 4.65 | 
 | 585 | [Somerville](games/s/somerville.md) | 4.24 | 
@@ -593,7 +593,7 @@
 | 591 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
 | 592 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 593 | [Space Punks](games/s/space_punks.md) | 4.18 | 
-| 594 | [Speed Brawl](games/s/speed_brawl.md) | 4.29 | 
+| 594 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 595 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
 | 596 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 597 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.41 | 
@@ -608,7 +608,7 @@
 | 606 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
 | 607 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 608 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 609 | [Starsand](games/s/starsand.md) | 4.26 | 
+| 609 | [Starsand](games/s/starsand.md) | 4.25 | 
 | 610 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 611 | [Startup Panic](games/s/startup_panic.md) | 4.35 | 
 | 612 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
@@ -683,7 +683,7 @@
 | 681 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 682 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 683 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
-| 684 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 684 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.74 | 
 | 685 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 686 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 687 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
