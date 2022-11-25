@@ -16,7 +16,7 @@
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
-| 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
+| 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.61 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.02 | 
@@ -40,12 +40,12 @@
 | 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
 | 43 | [Ashen](games/a/ashen.md) | 4.30 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
@@ -54,7 +54,7 @@
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.44 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.39 | 
-| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.36 | 
+| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.34 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.33 | 
@@ -157,7 +157,7 @@
 | 155 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 
 | 156 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.62 | 
 | 157 | [Darksiders III](games/d/darksiders_iii.md) | 4.46 | 
-| 158 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.58 | 
+| 158 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
 | 159 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 160 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
 | 161 | [Dauntless](games/d/dauntless.md) | 4.53 | 
@@ -340,7 +340,7 @@
 | 338 | [Journey](games/j/journey.md) | 4.77 | 
 | 339 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 340 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 341 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
+| 341 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 342 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 343 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 344 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
@@ -615,7 +615,7 @@
 | 613 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 614 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
 | 615 | [STG Football](games/s/stg_football.md) | 4.62 | 
-| 616 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
+| 616 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 617 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 618 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 619 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
@@ -677,7 +677,7 @@
 | 675 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
 | 676 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
 | 677 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 678 | [The Lion's Song](games/t/the_lion's_song.md) | 4.43 | 
+| 678 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 
 | 679 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 680 | [The Medium](games/t/the_medium.md) | 4.56 | 
 | 681 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
@@ -706,7 +706,7 @@
 | 704 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 705 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
 | 706 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 707 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
+| 707 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
 | 708 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 709 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 710 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
@@ -714,7 +714,7 @@
 | 712 | [Timberborn](games/t/timberborn.md) | 4.71 | 
 | 713 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.44 | 
 | 714 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 715 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
+| 715 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.64 | 
 | 716 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.31 | 
 | 717 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 718 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.27 | 
@@ -799,7 +799,7 @@
 | 797 | [World of Goo](games/w/world_of_goo.md) | 4.68 | 
 | 798 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 799 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 800 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.53 | 
+| 800 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 801 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 802 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
 | 803 | [WRC Generations](games/w/wrc_generations.md) | 4.59 | 
