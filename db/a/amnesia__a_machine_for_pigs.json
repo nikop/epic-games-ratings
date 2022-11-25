@@ -1,10 +1,10 @@
 {
   "ID": "8de58df378c34407b6db0388e0470a45",
   "Name": "Amnesia: A Machine for Pigs",
-  "Rating": 4.02,
+  "Rating": 4.03,
   "NumberOfRatings": 197,
   "FirstSeen": "2022-07-22T20:28:01.9575759+00:00",
-  "LastChanged": "2022-11-24T22:57:44.8931646+00:00",
+  "LastChanged": "2022-11-25T22:57:59.580355+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:01.9575762+00:00",
@@ -374,6 +374,11 @@
     {
       "Time": "2022-11-24T22:57:44.893165+00:00",
       "Rating": 4.02,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T22:57:59.5803552+00:00",
+      "Rating": 4.03,
       "NumberOfRatings": null
     }
   ],

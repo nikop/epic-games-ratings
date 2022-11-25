@@ -19,7 +19,7 @@
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.61 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.02 | 
+| 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
@@ -250,7 +250,7 @@
 | 248 | [Flatout](games/f/flatout.md) | 4.05 | 
 | 249 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
 | 250 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.74 | 
+| 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.73 | 
 | 252 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 253 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 254 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -488,14 +488,14 @@
 | 486 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 487 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 488 | [Pine](games/p/pine.md) | 4.13 | 
-| 489 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.45 | 
+| 489 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.44 | 
 | 490 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
 | 491 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 492 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 493 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 494 | [Prey](games/p/prey.md) | 4.61 | 
 | 495 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 496 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 496 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.38 | 
 | 497 | [Quake](games/q/quake.md) | 4.82 | 
 | 498 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 499 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
@@ -506,7 +506,7 @@
 | 504 | [Rayman Origins](games/r/rayman_origins.md) | 4.78 | 
 | 505 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
 | 506 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
-| 507 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
+| 507 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 508 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 
 | 509 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
 | 510 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
@@ -614,7 +614,7 @@
 | 612 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 613 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 614 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
-| 615 | [STG Football](games/s/stg_football.md) | 4.62 | 
+| 615 | [STG Football](games/s/stg_football.md) | 4.63 | 
 | 616 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 617 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 618 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
@@ -689,7 +689,7 @@
 | 687 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 688 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 689 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 690 | [The Surge 2](games/t/the_surge_2.md) | 4.17 | 
+| 690 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
 | 691 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 692 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.73 | 
 | 693 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
@@ -738,7 +738,7 @@
 | 736 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
 | 737 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 738 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
-| 739 | [Transistor](games/t/transistor.md) | 4.63 | 
+| 739 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 740 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 741 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 742 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
