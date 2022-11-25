@@ -124,7 +124,7 @@
 | 122 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
 | 123 | [Colt Canyon](games/c/colt_canyon.md) | 4.55 | 
 | 124 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 125 | [Conarium](games/c/conarium.md) | 3.94 | 
+| 125 | [Conarium](games/c/conarium.md) | 3.91 | 
 | 126 | [Control](games/c/control.md) | 4.60 | 
 | 127 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 128 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
@@ -206,7 +206,7 @@
 | 204 | [ELEX](games/e/elex.md) | 4.38 | 
 | 205 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
 | 206 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 207 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 
+| 207 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
 | 208 | [Encased](games/e/encased.md) | 4.37 | 
 | 209 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 210 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
@@ -223,7 +223,7 @@
 | 221 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 222 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 223 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 224 | [Far Cry](games/f/far_cry.md) | 4.40 | 
+| 224 | [Far Cry](games/f/far_cry.md) | 4.41 | 
 | 225 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
 | 226 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 227 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
@@ -517,7 +517,7 @@
 | 515 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.85 | 
 | 516 | [Revita](games/r/revita.md) | 4.74 | 
 | 517 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 518 | [RiME](games/r/rime.md) | 4.60 | 
+| 518 | [RiME](games/r/rime.md) | 4.61 | 
 | 519 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 520 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 521 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -557,10 +557,10 @@
 | 555 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
 | 556 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 557 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 558 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.73 | 
-| 559 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
+| 558 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.74 | 
+| 559 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 560 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
-| 561 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
+| 561 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 562 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 563 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
 | 564 | [shapez](games/s/shapez.md) | 4.72 | 
@@ -621,7 +621,7 @@
 | 619 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.70 | 
 | 620 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
 | 621 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
-| 622 | [Submerged](games/s/submerged.md) | 4.10 | 
+| 622 | [Submerged](games/s/submerged.md) | 4.13 | 
 | 623 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 624 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 625 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
@@ -662,7 +662,7 @@
 | 660 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 661 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
 | 662 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
-| 663 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 663 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 664 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 665 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 666 | [The Fall](games/t/the_fall.md) | 4.27 | 
@@ -694,7 +694,7 @@
 | 692 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 693 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 694 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
-| 695 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 695 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 696 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 697 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.74 | 
 | 698 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
