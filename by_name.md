@@ -36,7 +36,7 @@
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.65 | 
-| 37 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 
+| 37 | [Aragami 2](games/a/aragami_2.md) | 4.56 | 
 | 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
@@ -173,7 +173,7 @@
 | 171 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 172 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.60 | 
 | 173 | [Democracy 4](games/d/democracy_4.md) | 4.36 | 
-| 174 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 
+| 174 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 175 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 176 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 177 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
@@ -238,7 +238,7 @@
 | 236 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 237 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 238 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
-| 239 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.61 | 
+| 239 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.62 | 
 | 240 | [Fez](games/f/fez.md) | 4.72 | 
 | 241 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
 | 242 | [Figment](games/f/figment.md) | 4.45 | 
@@ -454,7 +454,7 @@
 | 452 | [Operation: Tango](games/o/operation__tango.md) | 4.67 | 
 | 453 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.32 | 
 | 454 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.73 | 
-| 455 | [Othercide](games/o/othercide.md) | 4.35 | 
+| 455 | [Othercide](games/o/othercide.md) | 4.37 | 
 | 456 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 457 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.66 | 
 | 458 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
@@ -701,7 +701,7 @@
 | 699 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
 | 700 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.82 | 
 | 701 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.83 | 
-| 702 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 
+| 702 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 703 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 704 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 705 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
