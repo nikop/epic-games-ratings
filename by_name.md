@@ -185,7 +185,7 @@
 | 183 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 184 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
 | 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.40 | 
-| 186 | [Disco Elysium](games/d/disco_elysium.md) | 4.88 | 
+| 186 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.74 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
@@ -405,7 +405,7 @@
 | 403 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 404 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 405 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
-| 406 | [Minit](games/m/minit.md) | 4.56 | 
+| 406 | [Minit](games/m/minit.md) | 4.54 | 
 | 407 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 408 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 409 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
@@ -707,7 +707,7 @@
 | 705 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 706 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 707 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
-| 708 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
+| 708 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 709 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 710 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 711 | [Timberborn](games/t/timberborn.md) | 4.70 | 

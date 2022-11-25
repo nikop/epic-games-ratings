@@ -16,13 +16,13 @@
 | 14 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
 | 15 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 16 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 17 | [Disco Elysium](games/d/disco_elysium.md) | 4.88 | 
-| 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
-| 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
-| 20 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
-| 21 | [Black Book](games/b/black_book.md) | 4.88 | 
-| 22 | [Firework](games/f/firework.md) | 4.88 | 
-| 23 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
+| 17 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
+| 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
+| 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
+| 20 | [Black Book](games/b/black_book.md) | 4.88 | 
+| 21 | [Firework](games/f/firework.md) | 4.88 | 
+| 22 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
+| 23 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 25 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 26 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
@@ -258,19 +258,19 @@
 | 256 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.66 | 
 | 257 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.66 | 
 | 258 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
-| 259 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 260 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 261 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 262 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 263 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 264 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 265 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
-| 266 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 267 | [SOMA](games/s/soma.md) | 4.65 | 
-| 268 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 269 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
-| 270 | [APE OUT](games/a/ape_out.md) | 4.65 | 
-| 271 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
+| 259 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 260 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 261 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 262 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 263 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 264 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 265 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 266 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 267 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
+| 268 | [SOMA](games/s/soma.md) | 4.65 | 
+| 269 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 270 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
+| 271 | [APE OUT](games/a/ape_out.md) | 4.65 | 
 | 272 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
 | 273 | [Everything](games/e/everything.md) | 4.65 | 
 | 274 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.65 | 
@@ -420,30 +420,30 @@
 | 418 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 419 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
 | 420 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
-| 421 | [Minit](games/m/minit.md) | 4.56 | 
-| 422 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
-| 423 | [The Medium](games/t/the_medium.md) | 4.56 | 
-| 424 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 425 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 426 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 427 | [Hue](games/h/hue.md) | 4.55 | 
-| 428 | [Outward](games/o/outward.md) | 4.55 | 
-| 429 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 430 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
-| 431 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 
-| 432 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
-| 433 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 434 | [Horace](games/h/horace.md) | 4.55 | 
-| 435 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 436 | [Colt Canyon](games/c/colt_canyon.md) | 4.55 | 
-| 437 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
-| 438 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 439 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 440 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 441 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
-| 442 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 443 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 444 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
+| 421 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 422 | [The Medium](games/t/the_medium.md) | 4.56 | 
+| 423 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 424 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 425 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 426 | [Hue](games/h/hue.md) | 4.55 | 
+| 427 | [Outward](games/o/outward.md) | 4.55 | 
+| 428 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
+| 429 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
+| 430 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 
+| 431 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.55 | 
+| 432 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 433 | [Horace](games/h/horace.md) | 4.55 | 
+| 434 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
+| 435 | [Colt Canyon](games/c/colt_canyon.md) | 4.55 | 
+| 436 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
+| 437 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 438 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 439 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 440 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
+| 441 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
+| 442 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 443 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
+| 444 | [Minit](games/m/minit.md) | 4.54 | 
 | 445 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.54 | 
 | 446 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
 | 447 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
