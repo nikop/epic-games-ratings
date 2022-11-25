@@ -1,14 +1,19 @@
 {
   "ID": "ae51a606e31f409bac9e0216f3e757a2",
   "Name": "Yuppie Psycho: Executive Edition",
-  "Rating": 4.65,
+  "Rating": 4.67,
   "FirstSeen": "2022-07-22T20:28:59.2965185+00:00",
   "FirstSeenRating": "2022-11-22T13:21:53.1522337+00:00",
-  "LastChanged": "2022-11-22T13:21:53.1522338+00:00",
+  "LastChanged": "2022-11-25T13:58:06.5030323+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-22T13:21:53.1522339+00:00",
       "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T13:58:06.5030326+00:00",
+      "Rating": 4.67,
       "NumberOfRatings": null
     }
   ],
