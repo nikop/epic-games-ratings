@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.35 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.37 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.57 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
@@ -304,7 +304,7 @@
 | 302 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 303 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.54 | 
 | 304 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 305 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 305 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 306 | [Hob](games/h/hob.md) | 4.57 | 
 | 307 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.44 | 
 | 308 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
@@ -325,7 +325,7 @@
 | 323 | [Imagine Earth](games/i/imagine_earth.md) | 4.33 | 
 | 324 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
 | 325 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
-| 326 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
+| 326 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 327 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 328 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 329 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
@@ -402,7 +402,7 @@
 | 400 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 401 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 402 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
-| 403 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
+| 403 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.83 | 
 | 404 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 405 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
 | 406 | [Minit](games/m/minit.md) | 4.54 | 
@@ -428,7 +428,7 @@
 | 426 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
 | 427 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 428 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 429 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.07 | 
+| 429 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
 | 430 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 431 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.60 | 
 | 432 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 
@@ -461,7 +461,7 @@
 | 459 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 460 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
 | 461 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
-| 462 | [Outward](games/o/outward.md) | 4.55 | 
+| 462 | [Outward](games/o/outward.md) | 4.56 | 
 | 463 | [Overcooked](games/o/overcooked.md) | 4.68 | 
 | 464 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 465 | [OVERPASS™](games/o/overpass™.md) | 4.17 | 
@@ -470,7 +470,7 @@
 | 468 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 469 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.54 | 
 | 470 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 471 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
+| 471 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.36 | 
 | 472 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 473 | [Partisans 1941](games/p/partisans_1941.md) | 4.58 | 
 | 474 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.25 | 
@@ -502,7 +502,7 @@
 | 500 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 501 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
 | 502 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.47 | 
-| 503 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.49 | 
+| 503 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 504 | [Rayman Origins](games/r/rayman_origins.md) | 4.78 | 
 | 505 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
 | 506 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
@@ -546,7 +546,7 @@
 | 544 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
 | 545 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 546 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 547 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.59 | 
+| 547 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.61 | 
 | 548 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 549 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 550 | [Saturnalia](games/s/saturnalia.md) | 4.27 | 
@@ -586,7 +586,7 @@
 | 584 | [SOMA](games/s/soma.md) | 4.65 | 
 | 585 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 586 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
-| 587 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
+| 587 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 588 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 589 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 590 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
@@ -686,13 +686,13 @@
 | 684 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 685 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 686 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 687 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
+| 687 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 688 | [The Surge](games/t/the_surge.md) | 4.51 | 
 | 689 | [The Surge 2](games/t/the_surge_2.md) | 4.17 | 
 | 690 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 691 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.73 | 
 | 692 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 693 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
+| 693 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 694 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
 | 695 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 696 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
