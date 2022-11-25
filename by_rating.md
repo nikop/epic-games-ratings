@@ -287,21 +287,21 @@
 | 285 | [Coromon](games/c/coromon.md) | 4.64 | 
 | 286 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
 | 287 | [Mutazione](games/m/mutazione.md) | 4.64 | 
-| 288 | [GNOG](games/g/gnog.md) | 4.64 | 
-| 289 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.64 | 
-| 290 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
-| 291 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 292 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 293 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
-| 294 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 295 | [ABZU](games/a/abzu.md) | 4.63 | 
-| 296 | [Transistor](games/t/transistor.md) | 4.63 | 
-| 297 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
-| 298 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
-| 299 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.63 | 
-| 300 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
-| 301 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 302 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
+| 288 | [Divine Knockout](games/d/divine_knockout.md) | 4.64 | 
+| 289 | [GNOG](games/g/gnog.md) | 4.64 | 
+| 290 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.64 | 
+| 291 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
+| 292 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 293 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 294 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 295 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 296 | [ABZU](games/a/abzu.md) | 4.63 | 
+| 297 | [Transistor](games/t/transistor.md) | 4.63 | 
+| 298 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
+| 299 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
+| 300 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.63 | 
+| 301 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
+| 302 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 303 | [Card Shark](games/c/card_shark.md) | 4.63 | 
 | 304 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 305 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
@@ -769,9 +769,9 @@
 | 767 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
 | 768 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
 | 769 | [Submerged](games/s/submerged.md) | 4.10 | 
-| 770 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
-| 771 | [Obduction](games/o/obduction.md) | 4.09 | 
-| 772 | [Dark Deity](games/d/dark_deity.md) | 4.09 | 
+| 770 | [Dark Deity](games/d/dark_deity.md) | 4.10 | 
+| 771 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 772 | [Obduction](games/o/obduction.md) | 4.09 | 
 | 773 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 774 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.08 | 
 | 775 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 
