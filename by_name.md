@@ -48,12 +48,12 @@
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
+| 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.44 | 
-| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.38 | 
+| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.39 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.36 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
@@ -89,7 +89,7 @@
 | 87 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
-| 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.40 | 
+| 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.41 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -333,7 +333,7 @@
 | 331 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 332 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 333 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 334 | [Ironcast](games/i/ironcast.md) | 3.91 | 
+| 334 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 335 | [Isonzo](games/i/isonzo.md) | 4.58 | 
 | 336 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 337 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
@@ -441,7 +441,7 @@
 | 439 | [Northgard](games/n/northgard.md) | 4.73 | 
 | 440 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.83 | 
 | 441 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
-| 442 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
+| 442 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
 | 443 | [Obduction](games/o/obduction.md) | 4.09 | 
 | 444 | [Observation](games/o/observation.md) | 4.54 | 
 | 445 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
@@ -543,7 +543,7 @@
 | 541 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.83 | 
 | 542 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 543 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 544 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.75 | 
+| 544 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
 | 545 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 546 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 547 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.59 | 
@@ -554,11 +554,11 @@
 | 552 | [Scorn](games/s/scorn.md) | 4.48 | 
 | 553 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
 | 554 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
-| 555 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
+| 555 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
 | 556 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 557 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 558 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.73 | 
-| 559 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
+| 559 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
 | 560 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 561 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 562 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
