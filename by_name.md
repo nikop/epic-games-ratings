@@ -250,7 +250,7 @@
 | 248 | [Flatout](games/f/flatout.md) | 4.05 | 
 | 249 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
 | 250 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.73 | 
+| 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.74 | 
 | 252 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 253 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 254 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -271,7 +271,7 @@
 | 269 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 270 | [GigaBash](games/g/gigabash.md) | 4.50 | 
 | 271 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
-| 272 | [GNOG](games/g/gnog.md) | 4.67 | 
+| 272 | [GNOG](games/g/gnog.md) | 4.64 | 
 | 273 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
 | 274 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 275 | [God's Trigger](games/g/god's_trigger.md) | 4.12 | 
@@ -665,7 +665,7 @@
 | 663 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 664 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 665 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
-| 666 | [The Fall](games/t/the_fall.md) | 4.28 | 
+| 666 | [The Fall](games/t/the_fall.md) | 4.27 | 
 | 667 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 
 | 668 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
 | 669 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
