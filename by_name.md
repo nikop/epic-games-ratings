@@ -9,7 +9,7 @@
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 10 | [ABZU](games/a/abzu.md) | 4.63 | 
+| 10 | [ABZU](games/a/abzu.md) | 4.62 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
@@ -255,7 +255,7 @@
 | 253 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 254 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 255 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 256 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 256 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.81 | 
 | 257 | [FUSER™](games/f/fuser™.md) | 4.73 | 
 | 258 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 259 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
@@ -265,11 +265,11 @@
 | 263 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 264 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 265 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 
-| 266 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 
+| 266 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 267 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.45 | 
 | 268 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
 | 269 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 270 | [GigaBash](games/g/gigabash.md) | 4.50 | 
+| 270 | [GigaBash](games/g/gigabash.md) | 4.52 | 
 | 271 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 272 | [GNOG](games/g/gnog.md) | 4.64 | 
 | 273 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
@@ -333,7 +333,7 @@
 | 331 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 332 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 333 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 334 | [Ironcast](games/i/ironcast.md) | 3.92 | 
+| 334 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 335 | [Isonzo](games/i/isonzo.md) | 4.58 | 
 | 336 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 337 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
@@ -417,7 +417,7 @@
 | 415 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 416 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 417 | [Mutazione](games/m/mutazione.md) | 4.64 | 
-| 418 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 
+| 418 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.41 | 
 | 419 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 420 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 421 | [MythForce](games/m/mythforce.md) | 4.50 | 
@@ -472,7 +472,7 @@
 | 470 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 471 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.36 | 
 | 472 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 473 | [Partisans 1941](games/p/partisans_1941.md) | 4.58 | 
+| 473 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 474 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.25 | 
 | 475 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 476 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
@@ -587,7 +587,7 @@
 | 585 | [Somerville](games/s/somerville.md) | 4.24 | 
 | 586 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 587 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
-| 588 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 588 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 589 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 590 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 591 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
@@ -667,7 +667,7 @@
 | 665 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 666 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 667 | [The Fall](games/t/the_fall.md) | 4.27 | 
-| 668 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 
+| 668 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 669 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
 | 670 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
 | 671 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.95 | 
@@ -701,7 +701,7 @@
 | 699 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
 | 700 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.82 | 
 | 701 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.83 | 
-| 702 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
+| 702 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 
 | 703 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 704 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 705 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
