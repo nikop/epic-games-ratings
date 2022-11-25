@@ -347,23 +347,23 @@
 | 345 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 346 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
 | 347 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 348 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
-| 349 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
-| 350 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 351 | [RiME](games/r/rime.md) | 4.60 | 
-| 352 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
-| 353 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 354 | [Dark Deception](games/d/dark_deception.md) | 4.60 | 
-| 355 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.60 | 
-| 356 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 357 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.60 | 
-| 358 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 359 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 360 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
-| 361 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 362 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
-| 363 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 364 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 348 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
+| 349 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 350 | [RiME](games/r/rime.md) | 4.60 | 
+| 351 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.60 | 
+| 352 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
+| 353 | [Dark Deception](games/d/dark_deception.md) | 4.60 | 
+| 354 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.60 | 
+| 355 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
+| 356 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.60 | 
+| 357 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 358 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 359 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
+| 360 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 361 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
+| 362 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 363 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 364 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 365 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 366 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
 | 367 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
@@ -707,16 +707,16 @@
 | 705 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 706 | [Starsand](games/s/starsand.md) | 4.26 | 
 | 707 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
-| 708 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
-| 709 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 
-| 710 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 711 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 712 | [Dark Light](games/d/dark_light.md) | 4.25 | 
-| 713 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.25 | 
-| 714 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 715 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.24 | 
-| 716 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
-| 717 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.24 | 
+| 708 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.26 | 
+| 709 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
+| 710 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 
+| 711 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 712 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 713 | [Dark Light](games/d/dark_light.md) | 4.25 | 
+| 714 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.25 | 
+| 715 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
+| 716 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.24 | 
+| 717 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
 | 718 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 719 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 720 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
@@ -779,8 +779,8 @@
 | 777 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.07 | 
 | 778 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 779 | [Godfall](games/g/godfall.md) | 4.06 | 
-| 780 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 781 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.05 | 
+| 780 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.06 | 
+| 781 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 782 | [Flatout](games/f/flatout.md) | 4.05 | 
 | 783 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 
 | 784 | [Lake](games/l/lake.md) | 4.04 | 
