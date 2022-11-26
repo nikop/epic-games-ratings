@@ -14,4 +14,3 @@
 | 12 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.83 | 
 | 13 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
 | 14 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 
-| 15 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.44 | 

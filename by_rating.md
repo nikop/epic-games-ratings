@@ -254,17 +254,17 @@
 | 252 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 253 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 254 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 255 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.66 | 
-| 256 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
-| 257 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 258 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 259 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 260 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 261 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
-| 262 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 263 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 264 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
-| 265 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
+| 255 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
+| 256 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.66 | 
+| 257 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
+| 258 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 259 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 260 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 261 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 262 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 263 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 264 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 265 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 266 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 267 | [SOMA](games/s/soma.md) | 4.65 | 
 | 268 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
@@ -399,22 +399,22 @@
 | 397 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 398 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 399 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
-| 400 | [Hob](games/h/hob.md) | 4.57 | 
-| 401 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 402 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
-| 403 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 404 | [Breathedge](games/b/breathedge.md) | 4.57 | 
-| 405 | [Sable](games/s/sable.md) | 4.57 | 
-| 406 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.57 | 
-| 407 | [Warpips](games/w/warpips.md) | 4.57 | 
-| 408 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 
-| 409 | [NORCO](games/n/norco.md) | 4.57 | 
-| 410 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 411 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 412 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 413 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 414 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 415 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
+| 400 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 401 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
+| 402 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 403 | [Breathedge](games/b/breathedge.md) | 4.57 | 
+| 404 | [Sable](games/s/sable.md) | 4.57 | 
+| 405 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.57 | 
+| 406 | [Warpips](games/w/warpips.md) | 4.57 | 
+| 407 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 
+| 408 | [NORCO](games/n/norco.md) | 4.57 | 
+| 409 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 410 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 411 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 412 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 413 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 414 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
+| 415 | [Hob](games/h/hob.md) | 4.56 | 
 | 416 | [Outward](games/o/outward.md) | 4.56 | 
 | 417 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 418 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
@@ -612,23 +612,23 @@
 | 610 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.40 | 
 | 611 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
 | 612 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 613 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.40 | 
-| 614 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 615 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
-| 616 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 617 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
-| 618 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
-| 619 | [Tacoma](games/t/tacoma.md) | 4.39 | 
-| 620 | [ATOM RPG](games/a/atom_rpg.md) | 4.39 | 
-| 621 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
-| 622 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 623 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
-| 624 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.38 | 
-| 625 | [Core](games/c/core.md) | 4.38 | 
-| 626 | [Among Trees](games/a/among_trees.md) | 4.38 | 
-| 627 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.38 | 
-| 628 | [ELEX](games/e/elex.md) | 4.38 | 
-| 629 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
+| 613 | [Anno 2070](games/a/anno_2070.md) | 4.40 | 
+| 614 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.40 | 
+| 615 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 616 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
+| 617 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 618 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
+| 619 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
+| 620 | [Tacoma](games/t/tacoma.md) | 4.39 | 
+| 621 | [ATOM RPG](games/a/atom_rpg.md) | 4.39 | 
+| 622 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
+| 623 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 624 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
+| 625 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.38 | 
+| 626 | [Core](games/c/core.md) | 4.38 | 
+| 627 | [Among Trees](games/a/among_trees.md) | 4.38 | 
+| 628 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.38 | 
+| 629 | [ELEX](games/e/elex.md) | 4.38 | 
 | 630 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 631 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
 | 632 | [Brawlhalla](games/b/brawlhalla.md) | 4.38 | 

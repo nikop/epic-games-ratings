@@ -31,7 +31,7 @@
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 32 | [Anno 2070](games/a/anno_2070.md) | 4.38 | 
+| 32 | [Anno 2070](games/a/anno_2070.md) | 4.40 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
@@ -305,7 +305,7 @@
 | 303 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.54 | 
 | 304 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 305 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 306 | [Hob](games/h/hob.md) | 4.57 | 
+| 306 | [Hob](games/h/hob.md) | 4.56 | 
 | 307 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.44 | 
 | 308 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 309 | [Horace](games/h/horace.md) | 4.55 | 
@@ -558,7 +558,7 @@
 | 556 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 557 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 558 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.74 | 
-| 559 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
+| 559 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 560 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 561 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 562 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
