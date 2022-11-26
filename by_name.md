@@ -96,7 +96,7 @@
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.38 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.57 | 
-| 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
+| 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 99 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 100 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.28 | 
@@ -186,13 +186,13 @@
 | 184 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
 | 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.40 | 
 | 186 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
+| 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 190 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 191 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 192 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
-| 193 | [DOOM 3](games/d/doom_3.md) | 4.64 | 
+| 193 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
 | 194 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 195 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 196 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
@@ -232,7 +232,7 @@
 | 230 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
 | 231 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.68 | 
 | 232 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
-| 233 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
+| 233 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
 | 234 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
 | 235 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.13 | 
 | 236 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
@@ -318,7 +318,7 @@
 | 316 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 317 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 318 | [Huntdown](games/h/huntdown.md) | 4.82 | 
-| 319 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
+| 319 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
 | 320 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.62 | 
 | 321 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.64 | 
 | 322 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
@@ -370,7 +370,7 @@
 | 368 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 369 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 370 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
-| 371 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.52 | 
+| 371 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
 | 372 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 373 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 374 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
@@ -456,7 +456,7 @@
 | 454 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.73 | 
 | 455 | [Othercide](games/o/othercide.md) | 4.37 | 
 | 456 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 457 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.66 | 
+| 457 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 458 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 459 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 460 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
@@ -571,7 +571,7 @@
 | 569 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.40 | 
 | 570 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 571 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 572 | [Sifu](games/s/sifu.md) | 4.81 | 
+| 572 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 573 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 
 | 574 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 575 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
@@ -586,7 +586,7 @@
 | 584 | [SOMA](games/s/soma.md) | 4.65 | 
 | 585 | [Somerville](games/s/somerville.md) | 4.24 | 
 | 586 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 587 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
+| 587 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
 | 588 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 589 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 590 | [Souldiers](games/s/souldiers.md) | 4.55 | 
@@ -604,7 +604,7 @@
 | 602 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 603 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
 | 604 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.54 | 
-| 605 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 
+| 605 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
 | 606 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
 | 607 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 608 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
@@ -646,7 +646,7 @@
 | 644 | [Tacoma](games/t/tacoma.md) | 4.38 | 
 | 645 | [Tails of Iron](games/t/tails_of_iron.md) | 4.74 | 
 | 646 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 647 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 
+| 647 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 648 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 649 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 650 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
@@ -665,7 +665,7 @@
 | 663 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 664 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 665 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 666 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
+| 666 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
 | 667 | [The Fall](games/t/the_fall.md) | 4.27 | 
 | 668 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 669 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
@@ -711,7 +711,7 @@
 | 709 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 710 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 711 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
-| 712 | [Timberborn](games/t/timberborn.md) | 4.71 | 
+| 712 | [Timberborn](games/t/timberborn.md) | 4.70 | 
 | 713 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.44 | 
 | 714 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 715 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.64 | 

@@ -1,10 +1,10 @@
 {
   "ID": "3a1067df83654812b976101174e1904f",
   "Name": "Timberborn",
-  "Rating": 4.71,
+  "Rating": 4.7,
   "NumberOfRatings": 640,
   "FirstSeen": "2022-07-22T20:21:12.1167851+00:00",
-  "LastChanged": "2022-11-25T17:57:28.1274137+00:00",
+  "LastChanged": "2022-11-26T02:14:10.9323697+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:12.1167854+00:00",
@@ -839,6 +839,11 @@
     {
       "Time": "2022-11-25T17:57:28.1274139+00:00",
       "Rating": 4.71,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T02:14:10.9323698+00:00",
+      "Rating": 4.7,
       "NumberOfRatings": null
     }
   ],
