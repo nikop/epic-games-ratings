@@ -1,5 +1,5 @@
 # SpellForce 3: Versus Edition
-Rating: 3.77 (66)  (as of 23.09.2022)  
+Rating: 3.78 (66)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -55,3 +55,4 @@ Rating: 3.77 (66)  (as of 23.09.2022)
 | 2022-11-19 | 3.75 | - |
 | 2022-11-20 | 3.76 | - |
 | 2022-11-21 | 3.77 | - |
+| 2022-11-26 | 3.78 | - |

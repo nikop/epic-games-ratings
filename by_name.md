@@ -58,10 +58,10 @@
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.33 | 
-| 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 59 | [Aven Colony](games/a/aven_colony.md) | 4.21 | 
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
-| 62 | [Aztez](games/a/aztez.md) | 4.51 | 
+| 62 | [Aztez](games/a/aztez.md) | 4.50 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 64 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 65 | [Bad North](games/b/bad_north.md) | 4.68 | 
@@ -149,7 +149,7 @@
 | 147 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 148 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 149 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
-| 150 | [Dark Deception](games/d/dark_deception.md) | 4.60 | 
+| 150 | [Dark Deception](games/d/dark_deception.md) | 4.61 | 
 | 151 | [Dark Deity](games/d/dark_deity.md) | 4.12 | 
 | 152 | [Dark Light](games/d/dark_light.md) | 4.25 | 
 | 153 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
@@ -306,7 +306,7 @@
 | 304 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 305 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 306 | [Hob](games/h/hob.md) | 4.56 | 
-| 307 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.44 | 
+| 307 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.45 | 
 | 308 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 309 | [Horace](games/h/horace.md) | 4.55 | 
 | 310 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -531,7 +531,7 @@
 | 529 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 530 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 531 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 532 | [Rogue Lords](games/r/rogue_lords.md) | 4.67 | 
+| 532 | [Rogue Lords](games/r/rogue_lords.md) | 4.68 | 
 | 533 | [Roguebook](games/r/roguebook.md) | 4.62 | 
 | 534 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 535 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.68 | 
@@ -557,10 +557,10 @@
 | 555 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
 | 556 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 557 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 558 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.74 | 
+| 558 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
 | 559 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
 | 560 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
-| 561 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
+| 561 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 562 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 563 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
 | 564 | [shapez](games/s/shapez.md) | 4.72 | 
@@ -574,7 +574,7 @@
 | 572 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 573 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 
 | 574 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 575 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 575 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
 | 576 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 577 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 578 | [Slipways](games/s/slipways.md) | 4.71 | 
@@ -598,7 +598,7 @@
 | 596 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 597 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
 | 598 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.37 | 
-| 599 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 
+| 599 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 600 | [SpiderHeck](games/s/spiderheck.md) | 4.75 | 
 | 601 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 602 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
