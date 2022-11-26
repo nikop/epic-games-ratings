@@ -393,40 +393,40 @@
 | 391 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 392 | [Isonzo](games/i/isonzo.md) | 4.58 | 
 | 393 | [GRIME](games/g/grime.md) | 4.58 | 
-| 394 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 
-| 395 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
-| 396 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 397 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 398 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 399 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
-| 400 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
-| 401 | [Hob](games/h/hob.md) | 4.57 | 
-| 402 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 403 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
-| 404 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 405 | [Breathedge](games/b/breathedge.md) | 4.57 | 
-| 406 | [Sable](games/s/sable.md) | 4.57 | 
-| 407 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.57 | 
-| 408 | [Warpips](games/w/warpips.md) | 4.57 | 
+| 394 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
+| 395 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 396 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 397 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 398 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 399 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
+| 400 | [Hob](games/h/hob.md) | 4.57 | 
+| 401 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 402 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
+| 403 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 404 | [Breathedge](games/b/breathedge.md) | 4.57 | 
+| 405 | [Sable](games/s/sable.md) | 4.57 | 
+| 406 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.57 | 
+| 407 | [Warpips](games/w/warpips.md) | 4.57 | 
+| 408 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 
 | 409 | [NORCO](games/n/norco.md) | 4.57 | 
 | 410 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 411 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 412 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 413 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 414 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 415 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 416 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
-| 417 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 418 | [Outward](games/o/outward.md) | 4.56 | 
-| 419 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
-| 420 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
-| 421 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
-| 422 | [Aragami 2](games/a/aragami_2.md) | 4.56 | 
-| 423 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
-| 424 | [The Medium](games/t/the_medium.md) | 4.56 | 
-| 425 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 426 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 427 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 412 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 413 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 414 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 415 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
+| 416 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 417 | [Outward](games/o/outward.md) | 4.56 | 
+| 418 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
+| 419 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
+| 420 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
+| 421 | [Aragami 2](games/a/aragami_2.md) | 4.56 | 
+| 422 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 423 | [The Medium](games/t/the_medium.md) | 4.56 | 
+| 424 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 425 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 426 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 427 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 428 | [Hue](games/h/hue.md) | 4.55 | 
 | 429 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 430 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
@@ -537,15 +537,15 @@
 | 535 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 536 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 537 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 538 | [Darksiders III](games/d/darksiders_iii.md) | 4.46 | 
-| 539 | [Death Coming](games/d/death_coming.md) | 4.46 | 
-| 540 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
-| 541 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
-| 542 | [SMITE](games/s/smite.md) | 4.45 | 
-| 543 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 544 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 545 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 546 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.45 | 
+| 538 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 539 | [Darksiders III](games/d/darksiders_iii.md) | 4.46 | 
+| 540 | [Death Coming](games/d/death_coming.md) | 4.46 | 
+| 541 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
+| 542 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
+| 543 | [SMITE](games/s/smite.md) | 4.45 | 
+| 544 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 545 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 546 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 547 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
 | 548 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 549 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
