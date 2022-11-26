@@ -75,7 +75,7 @@
 | 73 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
 | 74 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.78 | 
 | 75 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
+| 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
 | 77 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.76 | 
 | 78 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
 | 79 | [Beholder 3](games/b/beholder_3.md) | 4.45 | 
@@ -596,8 +596,8 @@
 | 594 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 595 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
 | 596 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 597 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.41 | 
-| 598 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.35 | 
+| 597 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
+| 598 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.37 | 
 | 599 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 
 | 600 | [SpiderHeck](games/s/spiderheck.md) | 4.75 | 
 | 601 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
@@ -627,7 +627,7 @@
 | 625 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 626 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 627 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.67 | 
-| 628 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
+| 628 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
 | 629 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 630 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
 | 631 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
@@ -753,7 +753,7 @@
 | 751 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 752 | [Twin Mirror](games/t/twin_mirror.md) | 4.23 | 
 | 753 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 754 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
+| 754 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
 | 755 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.40 | 
 | 756 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 757 | [UnMetal](games/u/unmetal.md) | 4.51 | 
