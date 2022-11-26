@@ -31,7 +31,7 @@
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 32 | [Anno 2070](games/a/anno_2070.md) | 4.40 | 
+| 32 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
@@ -260,7 +260,7 @@
 | 258 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 259 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
 | 260 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.49 | 
-| 261 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 261 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
 | 262 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 263 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 264 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
@@ -380,7 +380,7 @@
 | 378 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 
 | 379 | [Limbo](games/l/limbo.md) | 4.64 | 
 | 380 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
-| 381 | [Little Inferno](games/l/little_inferno.md) | 4.54 | 
+| 381 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 
 | 382 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 383 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 384 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.26 | 
@@ -402,7 +402,7 @@
 | 400 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 401 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 402 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
-| 403 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.83 | 
+| 403 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 404 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 405 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
 | 406 | [Minit](games/m/minit.md) | 4.54 | 
@@ -461,7 +461,7 @@
 | 459 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 460 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
 | 461 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
-| 462 | [Outward](games/o/outward.md) | 4.56 | 
+| 462 | [Outward](games/o/outward.md) | 4.55 | 
 | 463 | [Overcooked](games/o/overcooked.md) | 4.68 | 
 | 464 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 465 | [OVERPASS™](games/o/overpass™.md) | 4.17 | 
@@ -558,7 +558,7 @@
 | 556 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 557 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 558 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.74 | 
-| 559 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
+| 559 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
 | 560 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
 | 561 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 
 | 562 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
