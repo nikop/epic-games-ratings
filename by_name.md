@@ -136,7 +136,7 @@
 | 134 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
 | 135 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 136 | [Crayta](games/c/crayta.md) | 4.18 | 
-| 137 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.28 | 
+| 137 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 138 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 139 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
 | 140 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
@@ -159,7 +159,7 @@
 | 157 | [Darksiders III](games/d/darksiders_iii.md) | 4.46 | 
 | 158 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
 | 159 | [Darkwood](games/d/darkwood.md) | 4.61 | 
-| 160 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
+| 160 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
 | 161 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 162 | [Days Gone](games/d/days_gone.md) | 4.69 | 
 | 163 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
@@ -294,7 +294,7 @@
 | 292 | [Hammerting](games/h/hammerting.md) | 4.42 | 
 | 293 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 294 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
-| 295 | [Haven](games/h/haven.md) | 4.76 | 
+| 295 | [Haven](games/h/haven.md) | 4.77 | 
 | 296 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 297 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 298 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
@@ -373,7 +373,7 @@
 | 371 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
 | 372 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 373 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 374 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
+| 374 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
 | 375 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 376 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 377 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
@@ -626,7 +626,7 @@
 | 624 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 625 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 626 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 627 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
+| 627 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.67 | 
 | 628 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
 | 629 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 630 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
@@ -643,7 +643,7 @@
 | 641 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
 | 642 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 643 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 644 | [Tacoma](games/t/tacoma.md) | 4.38 | 
+| 644 | [Tacoma](games/t/tacoma.md) | 4.39 | 
 | 645 | [Tails of Iron](games/t/tails_of_iron.md) | 4.74 | 
 | 646 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 647 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
