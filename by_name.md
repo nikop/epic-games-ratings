@@ -88,7 +88,7 @@
 | 86 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.24 | 
 | 87 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
-| 89 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
+| 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.41 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
@@ -224,7 +224,7 @@
 | 222 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
 | 223 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 224 | [Far Cry](games/f/far_cry.md) | 4.41 | 
-| 225 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
+| 225 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.19 | 
 | 226 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 227 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
 | 228 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
@@ -588,7 +588,7 @@
 | 586 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 587 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
 | 588 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 589 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
+| 589 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 590 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 591 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
 | 592 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
@@ -682,7 +682,7 @@
 | 680 | [The Medium](games/t/the_medium.md) | 4.59 | 
 | 681 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 682 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 683 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
+| 683 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 684 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 685 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 686 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
@@ -804,7 +804,7 @@
 | 802 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
 | 803 | [WRC Generations](games/w/wrc_generations.md) | 4.53 | 
 | 804 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 805 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.54 | 
+| 805 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 806 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 807 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 
 | 808 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
