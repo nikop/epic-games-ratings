@@ -363,7 +363,7 @@
 | 361 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 362 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
 | 363 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
-| 364 | [Lake](games/l/lake.md) | 4.04 | 
+| 364 | [Lake](games/l/lake.md) | 4.07 | 
 | 365 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 366 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
 | 367 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
@@ -497,7 +497,7 @@
 | 495 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 496 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.38 | 
 | 497 | [Quake](games/q/quake.md) | 4.82 | 
-| 498 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 498 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 499 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 500 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 501 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
@@ -583,11 +583,11 @@
 | 581 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 582 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
 | 583 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 584 | [SOMA](games/s/soma.md) | 4.65 | 
+| 584 | [SOMA](games/s/soma.md) | 4.64 | 
 | 585 | [Somerville](games/s/somerville.md) | 4.24 | 
 | 586 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 587 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
-| 588 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
+| 588 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 589 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 590 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 591 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
@@ -683,7 +683,7 @@
 | 681 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 682 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 683 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
-| 684 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
+| 684 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.74 | 
 | 685 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 686 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 687 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
