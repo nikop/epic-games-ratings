@@ -187,7 +187,7 @@
 | 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.40 | 
 | 186 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 
+| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.82 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 190 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 191 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
@@ -212,7 +212,7 @@
 | 210 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 211 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 212 | [Everything](games/e/everything.md) | 4.65 | 
-| 213 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.39 | 
+| 213 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.38 | 
 | 214 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 215 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.62 | 
 | 216 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
@@ -286,7 +286,7 @@
 | 284 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 285 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 286 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 287 | [GRIME](games/g/grime.md) | 4.58 | 
+| 287 | [GRIME](games/g/grime.md) | 4.59 | 
 | 288 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 289 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 290 | [Hades](games/h/hades.md) | 4.92 | 
@@ -390,7 +390,7 @@
 | 388 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 389 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 390 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 391 | [Mago](games/m/mago.md) | 4.87 | 
+| 391 | [Mago](games/m/mago.md) | 4.88 | 
 | 392 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 393 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 394 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.15 | 
@@ -614,7 +614,7 @@
 | 612 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 613 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 614 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
-| 615 | [STG Football](games/s/stg_football.md) | 4.63 | 
+| 615 | [STG Football](games/s/stg_football.md) | 4.60 | 
 | 616 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 617 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
 | 618 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
@@ -629,7 +629,7 @@
 | 627 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.67 | 
 | 628 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
 | 629 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 630 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
+| 630 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
 | 631 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
 | 632 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
 | 633 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.66 | 
@@ -683,7 +683,7 @@
 | 681 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 682 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 683 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
-| 684 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.74 | 
+| 684 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.73 | 
 | 685 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 686 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 687 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
@@ -802,7 +802,7 @@
 | 800 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 801 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 802 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
-| 803 | [WRC Generations](games/w/wrc_generations.md) | 4.59 | 
+| 803 | [WRC Generations](games/w/wrc_generations.md) | 4.53 | 
 | 804 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 805 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.54 | 
 | 806 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
