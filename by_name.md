@@ -21,7 +21,7 @@
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
-| 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.55 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 24 | [Among Trees](games/a/among_trees.md) | 4.38 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
@@ -290,7 +290,7 @@
 | 288 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 289 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 290 | [Hades](games/h/hades.md) | 4.92 | 
-| 291 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.44 | 
+| 291 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 292 | [Hammerting](games/h/hammerting.md) | 4.42 | 
 | 293 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 294 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
@@ -707,7 +707,7 @@
 | 705 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
 | 706 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 707 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
-| 708 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
+| 708 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 709 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 710 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 711 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
@@ -722,7 +722,7 @@
 | 720 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 721 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 722 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 723 | [Torchlight](games/t/torchlight.md) | 4.37 | 
+| 723 | [Torchlight](games/t/torchlight.md) | 4.36 | 
 | 724 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 725 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 726 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
