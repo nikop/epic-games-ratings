@@ -1,10 +1,10 @@
 {
   "ID": "f696430be718494fac1d6542cfb22542",
   "Name": "Marvel\u2019s Spider-Man: Miles Morales",
-  "Rating": 4.84,
+  "Rating": 4.83,
   "FirstSeen": "2022-11-18T19:57:18.4413349+00:00",
   "FirstSeenRating": "2022-11-19T02:30:31.0923375+00:00",
-  "LastChanged": "2022-11-24T21:57:16.0537029+00:00",
+  "LastChanged": "2022-11-26T22:57:02.7139781+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-19T02:30:31.0923377+00:00",
@@ -59,6 +59,11 @@
     {
       "Time": "2022-11-24T21:57:16.053703+00:00",
       "Rating": 4.84,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T22:57:02.7139782+00:00",
+      "Rating": 4.83,
       "NumberOfRatings": null
     }
   ],

@@ -19,7 +19,7 @@
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.61 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
+| 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.02 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.55 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
@@ -30,7 +30,7 @@
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
@@ -135,7 +135,7 @@
 | 133 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
 | 134 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
 | 135 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 136 | [Crayta](games/c/crayta.md) | 4.18 | 
+| 136 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 137 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 138 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 139 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
@@ -396,7 +396,7 @@
 | 394 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.15 | 
 | 395 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 396 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 397 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.84 | 
+| 397 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.83 | 
 | 398 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 399 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 400 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
@@ -488,7 +488,7 @@
 | 486 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 487 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 488 | [Pine](games/p/pine.md) | 4.13 | 
-| 489 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.44 | 
+| 489 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.45 | 
 | 490 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
 | 491 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 492 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
@@ -524,7 +524,7 @@
 | 522 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 523 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 524 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 525 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.86 | 
+| 525 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
 | 526 | [Riverbond](games/r/riverbond.md) | 4.47 | 
 | 527 | [Road 96](games/r/road_96.md) | 4.59 | 
 | 528 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
@@ -554,7 +554,7 @@
 | 552 | [Scorn](games/s/scorn.md) | 4.48 | 
 | 553 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
 | 554 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
-| 555 | [Second Extinction™](games/s/second_extinction™.md) | 4.13 | 
+| 555 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 556 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 557 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 558 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
@@ -738,7 +738,7 @@
 | 736 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
 | 737 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 738 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
-| 739 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 739 | [Transistor](games/t/transistor.md) | 4.63 | 
 | 740 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 741 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 742 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
@@ -774,7 +774,7 @@
 | 772 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 773 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 774 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 775 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 
+| 775 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
 | 776 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
 | 777 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.57 | 
 | 778 | [Warpips](games/w/warpips.md) | 4.57 | 

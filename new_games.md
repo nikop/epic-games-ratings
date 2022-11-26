@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.84 | 
+| 1 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.83 | 
 | 2 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
 | 3 | [Brawlhalla](games/b/brawlhalla.md) | 4.42 | 
 | 4 | [Somerville](games/s/somerville.md) | 4.24 | 
