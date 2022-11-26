@@ -171,16 +171,16 @@
 | 169 | [Townscaper](games/t/townscaper.md) | 4.72 | 
 | 170 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
 | 171 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
-| 172 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
-| 173 | [shapez](games/s/shapez.md) | 4.72 | 
-| 174 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 175 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 176 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
-| 177 | [The Witness](games/t/the_witness.md) | 4.71 | 
-| 178 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
-| 179 | [Slipways](games/s/slipways.md) | 4.71 | 
-| 180 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 181 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
+| 172 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
+| 173 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
+| 174 | [shapez](games/s/shapez.md) | 4.72 | 
+| 175 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 176 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 177 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
+| 178 | [The Witness](games/t/the_witness.md) | 4.71 | 
+| 179 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 180 | [Slipways](games/s/slipways.md) | 4.71 | 
+| 181 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 182 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 183 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 184 | [For The King](games/f/for_the_king.md) | 4.70 | 
