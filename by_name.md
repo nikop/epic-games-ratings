@@ -32,7 +32,7 @@
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.40 | 
-| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
+| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.65 | 
@@ -40,7 +40,7 @@
 | 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
+| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
 | 43 | [Ashen](games/a/ashen.md) | 4.30 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
@@ -73,7 +73,7 @@
 | 71 | [Barony](games/b/barony.md) | 4.69 | 
 | 72 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.32 | 
 | 73 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
-| 74 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 74 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.78 | 
 | 75 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.67 | 
 | 77 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.76 | 
@@ -250,7 +250,7 @@
 | 248 | [Flatout](games/f/flatout.md) | 4.05 | 
 | 249 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
 | 250 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.73 | 
+| 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.74 | 
 | 252 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 253 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 254 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -309,7 +309,7 @@
 | 307 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.44 | 
 | 308 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 309 | [Horace](games/h/horace.md) | 4.55 | 
-| 310 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
+| 310 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 311 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 312 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 313 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
@@ -365,7 +365,7 @@
 | 363 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
 | 364 | [Lake](games/l/lake.md) | 4.04 | 
 | 365 | [Lamentum](games/l/lamentum.md) | 4.35 | 
-| 366 | [Last Day of June](games/l/last_day_of_june.md) | 4.62 | 
+| 366 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
 | 367 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 368 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 369 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
@@ -475,7 +475,7 @@
 | 473 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 474 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.25 | 
 | 475 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 476 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 476 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
 | 477 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 478 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 479 | [Patron](games/p/patron.md) | 3.90 | 
@@ -491,7 +491,7 @@
 | 489 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.44 | 
 | 490 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
 | 491 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
-| 492 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 492 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 493 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 494 | [Prey](games/p/prey.md) | 4.61 | 
 | 495 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -501,7 +501,7 @@
 | 499 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 500 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 501 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 502 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.47 | 
+| 502 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
 | 503 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 504 | [Rayman Origins](games/r/rayman_origins.md) | 4.78 | 
 | 505 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
@@ -621,7 +621,7 @@
 | 619 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 620 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.70 | 
 | 621 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
-| 622 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
+| 622 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
 | 623 | [Submerged](games/s/submerged.md) | 4.13 | 
 | 624 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 625 | [Subnautica](games/s/subnautica.md) | 4.84 | 
@@ -711,7 +711,7 @@
 | 709 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 710 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 711 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
-| 712 | [Timberborn](games/t/timberborn.md) | 4.70 | 
+| 712 | [Timberborn](games/t/timberborn.md) | 4.71 | 
 | 713 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.44 | 
 | 714 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 715 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.64 | 
@@ -726,14 +726,14 @@
 | 724 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 725 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 726 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
-| 727 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 727 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.64 | 
 | 728 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 729 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
 | 730 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
 | 731 | [Townscaper](games/t/townscaper.md) | 4.72 | 
 | 732 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 733 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 734 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.98 | 
+| 734 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 
 | 735 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 736 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
 | 737 | [Train Valley](games/t/train_valley.md) | 4.44 | 
