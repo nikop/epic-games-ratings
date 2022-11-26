@@ -354,7 +354,7 @@
 | 352 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.83 | 
 | 353 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.70 | 
 | 354 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
-| 355 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.72 | 
+| 355 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.73 | 
 | 356 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 357 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
 | 358 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
@@ -470,7 +470,7 @@
 | 468 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 469 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.54 | 
 | 470 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 471 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.36 | 
+| 471 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
 | 472 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 473 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 474 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.25 | 
@@ -674,7 +674,7 @@
 | 672 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 673 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 674 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
-| 675 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.45 | 
+| 675 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
 | 676 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
 | 677 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
 | 678 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 
