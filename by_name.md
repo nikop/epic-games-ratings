@@ -196,7 +196,7 @@
 | 194 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 195 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 196 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 197 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
+| 197 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 198 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 199 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 200 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 
@@ -279,7 +279,7 @@
 | 277 | [Godlike Burger](games/g/godlike_burger.md) | 4.19 | 
 | 278 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
 | 279 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 280 | [Gone Home](games/g/gone_home.md) | 4.15 | 
+| 280 | [Gone Home](games/g/gone_home.md) | 4.14 | 
 | 281 | [Good Company](games/g/good_company.md) | 4.43 | 
 | 282 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 283 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
