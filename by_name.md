@@ -27,7 +27,7 @@
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.35 | 
+| 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
@@ -210,11 +210,11 @@
 | 208 | [Encased](games/e/encased.md) | 4.37 | 
 | 209 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 210 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 211 | [EVE Online](games/e/eve_online.md) | 4.27 | 
+| 211 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 212 | [Everything](games/e/everything.md) | 4.65 | 
 | 213 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.38 | 
 | 214 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 215 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.62 | 
+| 215 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 216 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 217 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 218 | [Faeria](games/f/faeria.md) | 4.44 | 
@@ -304,7 +304,7 @@
 | 302 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 303 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.54 | 
 | 304 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 305 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 305 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 306 | [Hob](games/h/hob.md) | 4.56 | 
 | 307 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.44 | 
 | 308 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
@@ -340,7 +340,7 @@
 | 338 | [Journey](games/j/journey.md) | 4.77 | 
 | 339 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 340 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 341 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 341 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 342 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 343 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 344 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
@@ -376,7 +376,7 @@
 | 374 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
 | 375 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 376 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 377 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 377 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.41 | 
 | 378 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 
 | 379 | [Limbo](games/l/limbo.md) | 4.64 | 
 | 380 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
@@ -549,7 +549,7 @@
 | 547 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.61 | 
 | 548 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 549 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 550 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
+| 550 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 551 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 552 | [Scorn](games/s/scorn.md) | 4.48 | 
 | 553 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
@@ -587,7 +587,7 @@
 | 585 | [Somerville](games/s/somerville.md) | 4.24 | 
 | 586 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 587 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
-| 588 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
+| 588 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 589 | [Sonic Origins](games/s/sonic_origins.md) | 4.52 | 
 | 590 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 591 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
@@ -630,7 +630,7 @@
 | 628 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
 | 629 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 630 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
-| 631 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.76 | 
+| 631 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.74 | 
 | 632 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
 | 633 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.66 | 
 | 634 | [Superliminal](games/s/superliminal.md) | 4.79 | 
@@ -784,7 +784,7 @@
 | 782 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
 | 783 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 784 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 785 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 785 | [Weird West](games/w/weird_west.md) | 4.46 | 
 | 786 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
 | 787 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 788 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.76 | 
