@@ -48,7 +48,7 @@
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
@@ -129,7 +129,7 @@
 | 127 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 128 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 129 | [Core](games/c/core.md) | 4.38 | 
-| 130 | [Coromon](games/c/coromon.md) | 4.64 | 
+| 130 | [Coromon](games/c/coromon.md) | 4.65 | 
 | 131 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.69 | 
 | 132 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
 | 133 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
@@ -217,7 +217,7 @@
 | 215 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.62 | 
 | 216 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 217 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
-| 218 | [Faeria](games/f/faeria.md) | 4.43 | 
+| 218 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 219 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 220 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.81 | 
 | 221 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
@@ -261,7 +261,7 @@
 | 259 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
 | 260 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.49 | 
 | 261 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 262 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
+| 262 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 263 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 264 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 265 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 
@@ -592,7 +592,7 @@
 | 590 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 591 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
 | 592 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
-| 593 | [Space Punks](games/s/space_punks.md) | 4.18 | 
+| 593 | [Space Punks](games/s/space_punks.md) | 4.19 | 
 | 594 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 595 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
 | 596 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
@@ -617,7 +617,7 @@
 | 615 | [STG Football](games/s/stg_football.md) | 4.60 | 
 | 616 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 617 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
-| 618 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 618 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
 | 619 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 620 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.70 | 
 | 621 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
@@ -679,7 +679,7 @@
 | 677 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
 | 678 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 
 | 679 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 680 | [The Medium](games/t/the_medium.md) | 4.56 | 
+| 680 | [The Medium](games/t/the_medium.md) | 4.59 | 
 | 681 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 682 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 683 | [The Pathless](games/t/the_pathless.md) | 4.69 | 
