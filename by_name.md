@@ -23,7 +23,7 @@
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.55 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 24 | [Among Trees](games/a/among_trees.md) | 4.38 | 
+| 24 | [Among Trees](games/a/among_trees.md) | 4.37 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
@@ -128,7 +128,7 @@
 | 126 | [Control](games/c/control.md) | 4.60 | 
 | 127 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 128 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 129 | [Core](games/c/core.md) | 4.39 | 
+| 129 | [Core](games/c/core.md) | 4.38 | 
 | 130 | [Coromon](games/c/coromon.md) | 4.65 | 
 | 131 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.69 | 
 | 132 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
@@ -140,7 +140,7 @@
 | 138 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 139 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
 | 140 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 141 | [CryoFall](games/c/cryofall.md) | 4.50 | 
+| 141 | [CryoFall](games/c/cryofall.md) | 4.51 | 
 | 142 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 143 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.67 | 
 | 144 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
@@ -644,7 +644,7 @@
 | 642 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 643 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 644 | [Tacoma](games/t/tacoma.md) | 4.39 | 
-| 645 | [Tails of Iron](games/t/tails_of_iron.md) | 4.74 | 
+| 645 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
 | 646 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 647 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 648 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 

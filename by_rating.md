@@ -127,24 +127,24 @@
 | 125 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
 | 126 | [King of Retail](games/k/king_of_retail.md) | 4.75 | 
 | 127 | [SpiderHeck](games/s/spiderheck.md) | 4.75 | 
-| 128 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
-| 129 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 130 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 131 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 132 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
-| 133 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.74 | 
-| 134 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
-| 135 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
-| 136 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
-| 137 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
-| 138 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
-| 139 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
-| 140 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 141 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.74 | 
-| 142 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.74 | 
-| 143 | [Revita](games/r/revita.md) | 4.74 | 
-| 144 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.74 | 
-| 145 | [Tails of Iron](games/t/tails_of_iron.md) | 4.74 | 
+| 128 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
+| 129 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
+| 130 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 131 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 132 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 133 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 134 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.74 | 
+| 135 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
+| 136 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
+| 137 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
+| 138 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
+| 139 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
+| 140 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
+| 141 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 142 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.74 | 
+| 143 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.74 | 
+| 144 | [Revita](games/r/revita.md) | 4.74 | 
+| 145 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.74 | 
 | 146 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 147 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 148 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
@@ -488,19 +488,19 @@
 | 486 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 487 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 488 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.51 | 
-| 489 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 490 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 491 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 492 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 493 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
-| 494 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 495 | [MythForce](games/m/mythforce.md) | 4.50 | 
-| 496 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
-| 497 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 498 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
-| 499 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
-| 500 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 501 | [CryoFall](games/c/cryofall.md) | 4.50 | 
+| 489 | [CryoFall](games/c/cryofall.md) | 4.51 | 
+| 490 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 491 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 492 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 493 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 494 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
+| 495 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 496 | [MythForce](games/m/mythforce.md) | 4.50 | 
+| 497 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
+| 498 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 499 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
+| 500 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
+| 501 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 502 | [Aztez](games/a/aztez.md) | 4.50 | 
 | 503 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 
 | 504 | [Maneater](games/m/maneater.md) | 4.49 | 
@@ -616,25 +616,25 @@
 | 614 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 615 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 616 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 617 | [Core](games/c/core.md) | 4.39 | 
-| 618 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
-| 619 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
-| 620 | [Tacoma](games/t/tacoma.md) | 4.39 | 
-| 621 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
-| 622 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
-| 623 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 624 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
-| 625 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
-| 626 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.38 | 
+| 617 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
+| 618 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
+| 619 | [Tacoma](games/t/tacoma.md) | 4.39 | 
+| 620 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
+| 621 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
+| 622 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 623 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
+| 624 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
+| 625 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.38 | 
+| 626 | [Core](games/c/core.md) | 4.38 | 
 | 627 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
-| 628 | [Among Trees](games/a/among_trees.md) | 4.38 | 
-| 629 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.38 | 
-| 630 | [ELEX](games/e/elex.md) | 4.38 | 
-| 631 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 632 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
-| 633 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 634 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 635 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 628 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.38 | 
+| 629 | [ELEX](games/e/elex.md) | 4.38 | 
+| 630 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 631 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
+| 632 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 633 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 634 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 635 | [Among Trees](games/a/among_trees.md) | 4.37 | 
 | 636 | [Encased](games/e/encased.md) | 4.37 | 
 | 637 | [Othercide](games/o/othercide.md) | 4.37 | 
 | 638 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
