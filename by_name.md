@@ -53,7 +53,7 @@
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 
-| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.39 | 
+| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.34 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
@@ -187,7 +187,7 @@
 | 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.40 | 
 | 186 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.82 | 
+| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.84 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 190 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 191 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
@@ -587,7 +587,7 @@
 | 585 | [Somerville](games/s/somerville.md) | 4.24 | 
 | 586 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 587 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
-| 588 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 588 | [Sonic Mania](games/s/sonic_mania.md) | 4.80 | 
 | 589 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 590 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 591 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
@@ -677,7 +677,7 @@
 | 675 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
 | 676 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
 | 677 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 678 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 
+| 678 | [The Lion's Song](games/t/the_lion's_song.md) | 4.44 | 
 | 679 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 680 | [The Medium](games/t/the_medium.md) | 4.59 | 
 | 681 | [The Messenger](games/t/the_messenger.md) | 4.79 | 

@@ -8,9 +8,7 @@
 | 6 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.34 | 
 | 7 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.74 | 
 | 8 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
-| 9 | [Dishonored 2](games/d/dishonored_2.md) | 4.82 | 
+| 9 | [Dishonored 2](games/d/dishonored_2.md) | 4.84 | 
 | 10 | [WRC Generations](games/w/wrc_generations.md) | 4.53 | 
 | 11 | [shapez](games/s/shapez.md) | 4.72 | 
 | 12 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.83 | 
-| 13 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
-| 14 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 
