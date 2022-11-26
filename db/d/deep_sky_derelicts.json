@@ -1,11 +1,11 @@
 {
   "ID": "093251d750d4445e8c7fc1f5a17c9531",
   "Name": "Deep Sky Derelicts",
-  "Rating": 4.44,
+  "Rating": 4.45,
   "NumberOfRatings": 37,
   "FirstSeen": "2022-07-22T20:19:46.8611038+00:00",
   "FirstSeenRating": "2022-08-03T14:00:54.5917999+00:00",
-  "LastChanged": "2022-11-13T22:57:46.5623851+00:00",
+  "LastChanged": "2022-11-26T15:57:20.7896094+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-03T14:00:54.5918001+00:00",
@@ -85,6 +85,11 @@
     {
       "Time": "2022-11-13T22:57:46.5623853+00:00",
       "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T15:57:20.7896097+00:00",
+      "Rating": 4.45,
       "NumberOfRatings": null
     }
   ],

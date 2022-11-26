@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.38 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.42 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.57 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
@@ -169,7 +169,7 @@
 | 167 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 168 | [Death's Door](games/d/death's_door.md) | 4.64 | 
 | 169 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 170 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.44 | 
+| 170 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.45 | 
 | 171 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 172 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.60 | 
 | 173 | [Democracy 4](games/d/democracy_4.md) | 4.36 | 
@@ -196,7 +196,7 @@
 | 194 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 195 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 196 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 197 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 197 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
 | 198 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 199 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 200 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
@@ -364,7 +364,7 @@
 | 362 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
 | 363 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
 | 364 | [Lake](games/l/lake.md) | 4.04 | 
-| 365 | [Lamentum](games/l/lamentum.md) | 4.35 | 
+| 365 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 366 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
 | 367 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 368 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
@@ -413,7 +413,7 @@
 | 411 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 412 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 413 | [Moving Out](games/m/moving_out.md) | 4.58 | 
-| 414 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 414 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 415 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 416 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 417 | [Mutazione](games/m/mutazione.md) | 4.63 | 
@@ -785,7 +785,7 @@
 | 783 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 784 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 785 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 786 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.13 | 
+| 786 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
 | 787 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 788 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.76 | 
 | 789 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.49 | 
@@ -795,7 +795,7 @@
 | 793 | [Windbound](games/w/windbound.md) | 4.19 | 
 | 794 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 795 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 796 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 796 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
 | 797 | [World of Goo](games/w/world_of_goo.md) | 4.68 | 
 | 798 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 799 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
