@@ -568,15 +568,15 @@
 | 566 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.44 | 
 | 567 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.44 | 
 | 568 | [Train Valley](games/t/train_valley.md) | 4.44 | 
-| 569 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.44 | 
-| 570 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.44 | 
-| 571 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 572 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
-| 573 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 574 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
-| 575 | [Good Company](games/g/good_company.md) | 4.43 | 
-| 576 | [Chorus](games/c/chorus.md) | 4.43 | 
-| 577 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
+| 569 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.44 | 
+| 570 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 571 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
+| 572 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 573 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
+| 574 | [Good Company](games/g/good_company.md) | 4.43 | 
+| 575 | [Chorus](games/c/chorus.md) | 4.43 | 
+| 576 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
+| 577 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 
 | 578 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 579 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 580 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
@@ -616,16 +616,16 @@
 | 614 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 615 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 616 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 617 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
-| 618 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
-| 619 | [Tacoma](games/t/tacoma.md) | 4.39 | 
-| 620 | [ATOM RPG](games/a/atom_rpg.md) | 4.39 | 
-| 621 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
-| 622 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 623 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
-| 624 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
-| 625 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.38 | 
-| 626 | [Core](games/c/core.md) | 4.38 | 
+| 617 | [Core](games/c/core.md) | 4.39 | 
+| 618 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
+| 619 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
+| 620 | [Tacoma](games/t/tacoma.md) | 4.39 | 
+| 621 | [ATOM RPG](games/a/atom_rpg.md) | 4.39 | 
+| 622 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
+| 623 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 624 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
+| 625 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
+| 626 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.38 | 
 | 627 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
 | 628 | [Among Trees](games/a/among_trees.md) | 4.38 | 
 | 629 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.38 | 
@@ -766,11 +766,11 @@
 | 764 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 765 | [God's Trigger](games/g/god's_trigger.md) | 4.12 | 
 | 766 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
-| 767 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
-| 768 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
-| 769 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
-| 770 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
-| 771 | [Dark Deity](games/d/dark_deity.md) | 4.11 | 
+| 767 | [Dark Deity](games/d/dark_deity.md) | 4.12 | 
+| 768 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
+| 769 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
+| 770 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
+| 771 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
 | 772 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 773 | [Obduction](games/o/obduction.md) | 4.09 | 
 | 774 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
