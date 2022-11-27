@@ -47,8 +47,8 @@
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
+| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.55 | 
+| 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
@@ -646,7 +646,7 @@
 | 644 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 645 | [Tacoma](games/t/tacoma.md) | 4.39 | 
 | 646 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
-| 647 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
+| 647 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.70 | 
 | 648 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 649 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 650 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
