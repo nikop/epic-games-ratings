@@ -489,19 +489,19 @@
 | 487 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 488 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.51 | 
 | 489 | [CryoFall](games/c/cryofall.md) | 4.51 | 
-| 490 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 491 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 492 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 493 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 494 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
-| 495 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 496 | [MythForce](games/m/mythforce.md) | 4.50 | 
-| 497 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
-| 498 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 499 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
-| 500 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
-| 501 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 502 | [Aztez](games/a/aztez.md) | 4.50 | 
+| 490 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 491 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 492 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 493 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
+| 494 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 495 | [MythForce](games/m/mythforce.md) | 4.50 | 
+| 496 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
+| 497 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 498 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
+| 499 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
+| 500 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 501 | [Aztez](games/a/aztez.md) | 4.50 | 
+| 502 | [UnMetal](games/u/unmetal.md) | 4.50 | 
 | 503 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 
 | 504 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 505 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
@@ -538,19 +538,19 @@
 | 536 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 537 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
 | 538 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
-| 539 | [Weird West](games/w/weird_west.md) | 4.46 | 
-| 540 | [Darksiders III](games/d/darksiders_iii.md) | 4.46 | 
-| 541 | [Death Coming](games/d/death_coming.md) | 4.46 | 
-| 542 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
-| 543 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
-| 544 | [SMITE](games/s/smite.md) | 4.45 | 
-| 545 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
-| 546 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 547 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 548 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
-| 549 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 550 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 551 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 539 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 
+| 540 | [Weird West](games/w/weird_west.md) | 4.46 | 
+| 541 | [Darksiders III](games/d/darksiders_iii.md) | 4.46 | 
+| 542 | [Death Coming](games/d/death_coming.md) | 4.46 | 
+| 543 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
+| 544 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
+| 545 | [SMITE](games/s/smite.md) | 4.45 | 
+| 546 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 547 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 548 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 549 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
+| 550 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 551 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 552 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
 | 553 | [Figment](games/f/figment.md) | 4.45 | 
 | 554 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.45 | 
@@ -760,11 +760,11 @@
 | 758 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
 | 759 | [Gone Home](games/g/gone_home.md) | 4.14 | 
 | 760 | [Pine](games/p/pine.md) | 4.13 | 
-| 761 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.13 | 
-| 762 | [Tharsis](games/t/tharsis.md) | 4.13 | 
-| 763 | [Submerged](games/s/submerged.md) | 4.13 | 
-| 764 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
-| 765 | [God's Trigger](games/g/god's_trigger.md) | 4.12 | 
+| 761 | [God's Trigger](games/g/god's_trigger.md) | 4.13 | 
+| 762 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.13 | 
+| 763 | [Tharsis](games/t/tharsis.md) | 4.13 | 
+| 764 | [Submerged](games/s/submerged.md) | 4.13 | 
+| 765 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 766 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
 | 767 | [Dark Deity](games/d/dark_deity.md) | 4.12 | 
 | 768 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 

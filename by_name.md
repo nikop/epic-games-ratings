@@ -274,7 +274,7 @@
 | 272 | [GNOG](games/g/gnog.md) | 4.64 | 
 | 273 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
 | 274 | [God of War](games/g/god_of_war.md) | 4.90 | 
-| 275 | [God's Trigger](games/g/god's_trigger.md) | 4.12 | 
+| 275 | [God's Trigger](games/g/god's_trigger.md) | 4.13 | 
 | 276 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 277 | [Godlike Burger](games/g/godlike_burger.md) | 4.19 | 
 | 278 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
@@ -368,7 +368,7 @@
 | 366 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
 | 367 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 368 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
-| 369 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 369 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 
 | 370 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 371 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
 | 372 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
@@ -756,7 +756,7 @@
 | 754 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
 | 755 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.40 | 
 | 756 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
-| 757 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 757 | [UnMetal](games/u/unmetal.md) | 4.50 | 
 | 758 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.51 | 
 | 759 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 760 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
