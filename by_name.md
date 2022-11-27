@@ -52,7 +52,7 @@
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 
+| 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.37 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.39 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
@@ -131,7 +131,7 @@
 | 129 | [Core](games/c/core.md) | 4.38 | 
 | 130 | [Coromon](games/c/coromon.md) | 4.65 | 
 | 131 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.69 | 
-| 132 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
+| 132 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 133 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 134 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
 | 135 | [Crashlands](games/c/crashlands.md) | 4.66 | 
@@ -154,7 +154,7 @@
 | 152 | [Dark Light](games/d/dark_light.md) | 4.25 | 
 | 153 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 154 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 155 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 
+| 155 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
 | 156 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 157 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
 | 158 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
@@ -386,7 +386,7 @@
 | 384 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.26 | 
 | 385 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.06 | 
 | 386 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 387 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 387 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
 | 388 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 389 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 390 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
@@ -497,7 +497,7 @@
 | 495 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 496 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.38 | 
 | 497 | [Quake](games/q/quake.md) | 4.82 | 
-| 498 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 498 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 499 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 500 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 501 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
@@ -517,7 +517,7 @@
 | 515 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.85 | 
 | 516 | [Revita](games/r/revita.md) | 4.74 | 
 | 517 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 518 | [RiME](games/r/rime.md) | 4.61 | 
+| 518 | [RiME](games/r/rime.md) | 4.60 | 
 | 519 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 520 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 521 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -622,7 +622,7 @@
 | 620 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.70 | 
 | 621 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
 | 622 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
-| 623 | [Submerged](games/s/submerged.md) | 4.13 | 
+| 623 | [Submerged](games/s/submerged.md) | 4.16 | 
 | 624 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 625 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 626 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
@@ -663,7 +663,7 @@
 | 661 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 662 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
 | 663 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
-| 664 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 664 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 665 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 666 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
 | 667 | [The Fall](games/t/the_fall.md) | 4.27 | 
@@ -694,7 +694,7 @@
 | 692 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.73 | 
 | 693 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 694 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
-| 695 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
+| 695 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 4.00 | 
 | 696 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 697 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 698 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.74 | 
@@ -712,7 +712,7 @@
 | 710 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 711 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 712 | [Timberborn](games/t/timberborn.md) | 4.71 | 
-| 713 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.44 | 
+| 713 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 714 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 715 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.64 | 
 | 716 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.31 | 
