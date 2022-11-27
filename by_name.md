@@ -48,7 +48,7 @@
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
+| 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
@@ -261,7 +261,7 @@
 | 259 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.21 | 
 | 260 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.49 | 
 | 261 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
-| 262 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
+| 262 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
 | 263 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 264 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 265 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 
@@ -313,7 +313,7 @@
 | 311 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 312 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
 | 313 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 314 | [House Party](games/h/house_party.md) | 4.29 | 
+| 314 | [House Party](games/h/house_party.md) | 4.30 | 
 | 315 | [Hue](games/h/hue.md) | 4.55 | 
 | 316 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 317 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
@@ -378,7 +378,7 @@
 | 376 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 377 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.41 | 
 | 378 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 
-| 379 | [Limbo](games/l/limbo.md) | 4.64 | 
+| 379 | [Limbo](games/l/limbo.md) | 4.63 | 
 | 380 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
 | 381 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 
 | 382 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
@@ -574,7 +574,7 @@
 | 572 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 573 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 
 | 574 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
-| 575 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
+| 575 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 576 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 577 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 578 | [Slipways](games/s/slipways.md) | 4.71 | 

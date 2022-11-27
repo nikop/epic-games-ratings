@@ -284,17 +284,17 @@
 | 282 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 283 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
 | 284 | [SOMA](games/s/soma.md) | 4.64 | 
-| 285 | [Limbo](games/l/limbo.md) | 4.64 | 
-| 286 | [Death's Door](games/d/death's_door.md) | 4.64 | 
-| 287 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
-| 288 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.64 | 
-| 289 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
-| 290 | [GNOG](games/g/gnog.md) | 4.64 | 
-| 291 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.64 | 
-| 292 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
-| 293 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
-| 294 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 295 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 285 | [Death's Door](games/d/death's_door.md) | 4.64 | 
+| 286 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
+| 287 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.64 | 
+| 288 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
+| 289 | [GNOG](games/g/gnog.md) | 4.64 | 
+| 290 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.64 | 
+| 291 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
+| 292 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
+| 293 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 294 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 295 | [Limbo](games/l/limbo.md) | 4.63 | 
 | 296 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 297 | [Transistor](games/t/transistor.md) | 4.63 | 
 | 298 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
@@ -524,21 +524,21 @@
 | 522 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.48 | 
 | 523 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 524 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 525 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
-| 526 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.48 | 
-| 527 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
-| 528 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
-| 529 | [Scorn](games/s/scorn.md) | 4.48 | 
-| 530 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 531 | [Riverbond](games/r/riverbond.md) | 4.47 | 
-| 532 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
-| 533 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
-| 534 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
-| 535 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 536 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 537 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 538 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 539 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
+| 525 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.48 | 
+| 526 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
+| 527 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
+| 528 | [Scorn](games/s/scorn.md) | 4.48 | 
+| 529 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 530 | [Riverbond](games/r/riverbond.md) | 4.47 | 
+| 531 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
+| 532 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
+| 533 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
+| 534 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 535 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 536 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 537 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 538 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
+| 539 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
 | 540 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 
 | 541 | [Weird West](games/w/weird_west.md) | 4.46 | 
 | 542 | [Death Coming](games/d/death_coming.md) | 4.46 | 
@@ -611,14 +611,14 @@
 | 609 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
 | 610 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.40 | 
 | 611 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
-| 612 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.40 | 
-| 613 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 614 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
-| 615 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 616 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
-| 617 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
-| 618 | [Tacoma](games/t/tacoma.md) | 4.39 | 
-| 619 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
+| 612 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
+| 613 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.40 | 
+| 614 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 615 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
+| 616 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 617 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
+| 618 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
+| 619 | [Tacoma](games/t/tacoma.md) | 4.39 | 
 | 620 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
 | 621 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 622 | [Brawlhalla](games/b/brawlhalla.md) | 4.39 | 
@@ -683,14 +683,14 @@
 | 681 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.31 | 
 | 682 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 683 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
-| 684 | [Ashen](games/a/ashen.md) | 4.30 | 
-| 685 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
-| 686 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.30 | 
+| 684 | [House Party](games/h/house_party.md) | 4.30 | 
+| 685 | [Ashen](games/a/ashen.md) | 4.30 | 
+| 686 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 687 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
 | 688 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 689 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 690 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 691 | [House Party](games/h/house_party.md) | 4.29 | 
+| 691 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 692 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 693 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 694 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.28 | 
