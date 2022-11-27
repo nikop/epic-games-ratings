@@ -1,10 +1,10 @@
 {
   "ID": "27d2f156f77b4202b9bc78e40a408b03",
   "Name": "Where The Water Tastes Like Wine",
-  "Rating": 4.49,
+  "Rating": 4.48,
   "NumberOfRatings": 34,
   "FirstSeen": "2022-07-22T20:27:08.2507114+00:00",
-  "LastChanged": "2022-11-21T13:30:04.2901129+00:00",
+  "LastChanged": "2022-11-27T02:26:39.3382676+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:08.2507117+00:00",
@@ -104,6 +104,11 @@
     {
       "Time": "2022-11-21T13:30:04.2901133+00:00",
       "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T02:26:39.3382677+00:00",
+      "Rating": 4.48,
       "NumberOfRatings": null
     }
   ],

@@ -6,7 +6,7 @@
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
-| 7 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
+| 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.62 | 
@@ -22,7 +22,7 @@
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.02 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.55 | 
-| 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
+| 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.31 | 
 | 24 | [Among Trees](games/a/among_trees.md) | 4.37 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
@@ -72,7 +72,7 @@
 | 70 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 71 | [Barony](games/b/barony.md) | 4.69 | 
 | 72 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.32 | 
-| 73 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
+| 73 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 74 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.78 | 
 | 75 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
@@ -132,7 +132,7 @@
 | 130 | [Coromon](games/c/coromon.md) | 4.65 | 
 | 131 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.69 | 
 | 132 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
-| 133 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 
+| 133 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 134 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
 | 135 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 136 | [Crayta](games/c/crayta.md) | 4.19 | 
@@ -308,7 +308,7 @@
 | 306 | [Hob](games/h/hob.md) | 4.56 | 
 | 307 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.45 | 
 | 308 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 309 | [Horace](games/h/horace.md) | 4.55 | 
+| 309 | [Horace](games/h/horace.md) | 4.53 | 
 | 310 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 311 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 312 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
@@ -406,7 +406,7 @@
 | 404 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 405 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
 | 406 | [Minit](games/m/minit.md) | 4.54 | 
-| 407 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
+| 407 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.85 | 
 | 408 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 409 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 410 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
@@ -415,7 +415,7 @@
 | 413 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 414 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 415 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 416 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 416 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.48 | 
 | 417 | [Mutazione](games/m/mutazione.md) | 4.63 | 
 | 418 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.41 | 
 | 419 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
@@ -649,7 +649,7 @@
 | 647 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 648 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 649 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 650 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 650 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.85 | 
 | 651 | [Tharsis](games/t/tharsis.md) | 4.13 | 
 | 652 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
 | 653 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.61 | 
@@ -788,7 +788,7 @@
 | 786 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
 | 787 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 788 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.76 | 
-| 789 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.49 | 
+| 789 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.48 | 
 | 790 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 791 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 792 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
