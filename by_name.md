@@ -61,7 +61,7 @@
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.21 | 
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
-| 62 | [Aztez](games/a/aztez.md) | 4.50 | 
+| 62 | [Aztez](games/a/aztez.md) | 4.51 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 64 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 65 | [Bad North](games/b/bad_north.md) | 4.68 | 
@@ -115,7 +115,7 @@
 | 113 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 114 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
 | 115 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 116 | [Chorus](games/c/chorus.md) | 4.43 | 
+| 116 | [Chorus](games/c/chorus.md) | 4.44 | 
 | 117 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.00 | 
 | 118 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 119 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
@@ -151,7 +151,7 @@
 | 149 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
 | 150 | [Dark Deception](games/d/dark_deception.md) | 4.61 | 
 | 151 | [Dark Deity](games/d/dark_deity.md) | 4.13 | 
-| 152 | [Dark Light](games/d/dark_light.md) | 4.25 | 
+| 152 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 153 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 154 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 155 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
@@ -177,7 +177,7 @@
 | 175 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 176 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 
 | 177 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
-| 178 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 178 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 179 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
 | 180 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 181 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -650,7 +650,7 @@
 | 648 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 649 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 650 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.85 | 
-| 651 | [Tharsis](games/t/tharsis.md) | 4.13 | 
+| 651 | [Tharsis](games/t/tharsis.md) | 4.14 | 
 | 652 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
 | 653 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.61 | 
 | 654 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
