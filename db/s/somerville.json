@@ -1,14 +1,19 @@
 {
   "ID": "70f113623e4e48c481c1908cfe002c98",
   "Name": "Somerville",
-  "Rating": 4.24,
+  "Rating": 4.3,
   "FirstSeen": "2022-11-15T21:57:56.5143092+00:00",
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
-  "LastChanged": "2022-11-25T17:58:18.0029628+00:00",
+  "LastChanged": "2022-11-27T17:57:49.0288556+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-25T17:58:18.002963+00:00",
       "Rating": 4.24,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T17:57:49.0288568+00:00",
+      "Rating": 4.3,
       "NumberOfRatings": null
     }
   ],

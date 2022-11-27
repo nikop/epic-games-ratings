@@ -87,7 +87,7 @@
 | 85 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 86 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.24 | 
 | 87 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
-| 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
+| 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.43 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
@@ -178,7 +178,7 @@
 | 176 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 
 | 177 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
 | 178 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 179 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.59 | 
+| 179 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
 | 180 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 181 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 182 | [Diabotical](games/d/diabotical.md) | 4.75 | 
@@ -264,7 +264,7 @@
 | 262 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
 | 263 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 264 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 265 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 
+| 265 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 
 | 266 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 267 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
 | 268 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
@@ -376,7 +376,7 @@
 | 374 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
 | 375 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 376 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 377 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.41 | 
+| 377 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 378 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 
 | 379 | [Limbo](games/l/limbo.md) | 4.63 | 
 | 380 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
@@ -584,7 +584,7 @@
 | 582 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
 | 583 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 584 | [SOMA](games/s/soma.md) | 4.64 | 
-| 585 | [Somerville](games/s/somerville.md) | 4.24 | 
+| 585 | [Somerville](games/s/somerville.md) | 4.30 | 
 | 586 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 587 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
 | 588 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
