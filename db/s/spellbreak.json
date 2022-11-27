@@ -1,10 +1,10 @@
 {
   "ID": "newt",
   "Name": "Spellbreak",
-  "Rating": 4.62,
+  "Rating": 4.63,
   "NumberOfRatings": 1020,
   "FirstSeen": "2022-07-22T20:17:52.3619822+00:00",
-  "LastChanged": "2022-11-01T19:00:34.1628241+00:00",
+  "LastChanged": "2022-11-27T04:57:00.2312938+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:52.3619825+00:00",
@@ -679,6 +679,11 @@
     {
       "Time": "2022-11-01T19:00:34.1628246+00:00",
       "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T04:57:00.2312943+00:00",
+      "Rating": 4.63,
       "NumberOfRatings": null
     }
   ],

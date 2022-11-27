@@ -294,20 +294,20 @@
 | 292 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
 | 293 | [MudRunner](games/m/mudrunner.md) | 4.63 | 
 | 294 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 295 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 296 | [Transistor](games/t/transistor.md) | 4.63 | 
-| 297 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
-| 298 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
-| 299 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.63 | 
-| 300 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
-| 301 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 302 | [Mutazione](games/m/mutazione.md) | 4.63 | 
-| 303 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
-| 304 | [Card Shark](games/c/card_shark.md) | 4.63 | 
-| 305 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
-| 306 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 307 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 308 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
+| 295 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 296 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 297 | [Transistor](games/t/transistor.md) | 4.63 | 
+| 298 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
+| 299 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
+| 300 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.63 | 
+| 301 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
+| 302 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
+| 303 | [Mutazione](games/m/mutazione.md) | 4.63 | 
+| 304 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
+| 305 | [Card Shark](games/c/card_shark.md) | 4.63 | 
+| 306 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
+| 307 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 308 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 309 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.62 | 
 | 310 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 311 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
@@ -753,12 +753,12 @@
 | 751 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 752 | [OVERPASS™](games/o/overpass™.md) | 4.17 | 
 | 753 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
-| 754 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.15 | 
-| 755 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
-| 756 | [Relicta](games/r/relicta.md) | 4.14 | 
-| 757 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
-| 758 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
-| 759 | [Gone Home](games/g/gone_home.md) | 4.14 | 
+| 754 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 755 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.15 | 
+| 756 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
+| 757 | [Relicta](games/r/relicta.md) | 4.14 | 
+| 758 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
+| 759 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
 | 760 | [Pine](games/p/pine.md) | 4.13 | 
 | 761 | [God's Trigger](games/g/god's_trigger.md) | 4.13 | 
 | 762 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.13 | 

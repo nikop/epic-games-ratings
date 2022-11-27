@@ -279,7 +279,7 @@
 | 277 | [Godlike Burger](games/g/godlike_burger.md) | 4.19 | 
 | 278 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
 | 279 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 280 | [Gone Home](games/g/gone_home.md) | 4.14 | 
+| 280 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 281 | [Good Company](games/g/good_company.md) | 4.43 | 
 | 282 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 283 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
@@ -594,7 +594,7 @@
 | 592 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 593 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 594 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
-| 595 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
+| 595 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 596 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 597 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
 | 598 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.37 | 
