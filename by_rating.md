@@ -151,37 +151,37 @@
 | 149 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 150 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 151 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.73 | 
-| 152 | [FUSER™](games/f/fuser™.md) | 4.73 | 
-| 153 | [Northgard](games/n/northgard.md) | 4.73 | 
-| 154 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
-| 155 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
-| 156 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.73 | 
-| 157 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
-| 158 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
-| 159 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
-| 160 | [Outlast](games/o/outlast.md) | 4.73 | 
-| 161 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 162 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 163 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 164 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 165 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
-| 166 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
-| 167 | [Fez](games/f/fez.md) | 4.72 | 
-| 168 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
+| 152 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
+| 153 | [FUSER™](games/f/fuser™.md) | 4.73 | 
+| 154 | [Northgard](games/n/northgard.md) | 4.73 | 
+| 155 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
+| 156 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
+| 157 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.73 | 
+| 158 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
+| 159 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
+| 160 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
+| 161 | [Outlast](games/o/outlast.md) | 4.73 | 
+| 162 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 163 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 164 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 165 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 166 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
+| 167 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
+| 168 | [Fez](games/f/fez.md) | 4.72 | 
 | 169 | [Townscaper](games/t/townscaper.md) | 4.72 | 
 | 170 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
 | 171 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
-| 172 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
-| 173 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
-| 174 | [shapez](games/s/shapez.md) | 4.72 | 
-| 175 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 176 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 177 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
-| 178 | [Timberborn](games/t/timberborn.md) | 4.71 | 
-| 179 | [The Witness](games/t/the_witness.md) | 4.71 | 
-| 180 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
-| 181 | [Slipways](games/s/slipways.md) | 4.71 | 
-| 182 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 172 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
+| 173 | [shapez](games/s/shapez.md) | 4.72 | 
+| 174 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 175 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 176 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
+| 177 | [Timberborn](games/t/timberborn.md) | 4.71 | 
+| 178 | [The Witness](games/t/the_witness.md) | 4.71 | 
+| 179 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 180 | [Slipways](games/s/slipways.md) | 4.71 | 
+| 181 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 182 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 183 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 184 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 185 | [For The King](games/f/for_the_king.md) | 4.70 | 
@@ -739,14 +739,14 @@
 | 737 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
 | 738 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 739 | [Windbound](games/w/windbound.md) | 4.19 | 
-| 740 | [Space Punks](games/s/space_punks.md) | 4.19 | 
-| 741 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 742 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
-| 743 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
-| 744 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 
-| 745 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 746 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.19 | 
-| 747 | [Godlike Burger](games/g/godlike_burger.md) | 4.19 | 
+| 740 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 741 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
+| 742 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
+| 743 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 
+| 744 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 745 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.19 | 
+| 746 | [Godlike Burger](games/g/godlike_burger.md) | 4.19 | 
+| 747 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 748 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 749 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
 | 750 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 

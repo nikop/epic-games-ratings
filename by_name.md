@@ -221,7 +221,7 @@
 | 219 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 220 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.81 | 
 | 221 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 222 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
+| 222 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 223 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 224 | [Far Cry](games/f/far_cry.md) | 4.41 | 
 | 225 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.19 | 
@@ -552,7 +552,7 @@
 | 550 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 551 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 552 | [Scorn](games/s/scorn.md) | 4.48 | 
-| 553 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.72 | 
+| 553 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
 | 554 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
 | 555 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 556 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
@@ -592,7 +592,7 @@
 | 590 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 591 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
 | 592 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
-| 593 | [Space Punks](games/s/space_punks.md) | 4.19 | 
+| 593 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 594 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 595 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
 | 596 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
