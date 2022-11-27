@@ -1,5 +1,5 @@
 # Sherlock Holmes Chapter One
-Rating: 4.50 (179)  (as of 23.09.2022)  
+Rating: 4.49 (179)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -55,3 +55,4 @@ Rating: 4.50 (179)  (as of 23.09.2022)
 | 2022-11-13 | 4.52 | - |
 | 2022-11-16 | 4.51 | - |
 | 2022-11-20 | 4.50 | - |
+| 2022-11-27 | 4.49 | - |
