@@ -430,19 +430,19 @@
 | 428 | [Outward](games/o/outward.md) | 4.55 | 
 | 429 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 430 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
-| 431 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 432 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 433 | [Colt Canyon](games/c/colt_canyon.md) | 4.55 | 
-| 434 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
-| 435 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 436 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 437 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 438 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
-| 439 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 440 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 441 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 442 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
-| 443 | [Minit](games/m/minit.md) | 4.54 | 
+| 431 | [Minit](games/m/minit.md) | 4.55 | 
+| 432 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 433 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
+| 434 | [Colt Canyon](games/c/colt_canyon.md) | 4.55 | 
+| 435 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
+| 436 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 437 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 438 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 439 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
+| 440 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
+| 441 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 442 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 443 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 444 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 
 | 445 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
 | 446 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.54 | 
@@ -532,15 +532,15 @@
 | 530 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 531 | [Riverbond](games/r/riverbond.md) | 4.47 | 
 | 532 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
-| 533 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
-| 534 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 535 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 536 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 537 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 538 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
-| 539 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 
-| 540 | [Weird West](games/w/weird_west.md) | 4.46 | 
-| 541 | [Darksiders III](games/d/darksiders_iii.md) | 4.46 | 
+| 533 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
+| 534 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
+| 535 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 536 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 537 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 538 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 539 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
+| 540 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 
+| 541 | [Weird West](games/w/weird_west.md) | 4.46 | 
 | 542 | [Death Coming](games/d/death_coming.md) | 4.46 | 
 | 543 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 544 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
@@ -571,17 +571,17 @@
 | 569 | [The Lion's Song](games/t/the_lion's_song.md) | 4.44 | 
 | 570 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 571 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 572 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
-| 573 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 574 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
-| 575 | [Good Company](games/g/good_company.md) | 4.43 | 
-| 576 | [Chorus](games/c/chorus.md) | 4.43 | 
-| 577 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
-| 578 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 579 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 
-| 580 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 581 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 582 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 572 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 573 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
+| 574 | [Good Company](games/g/good_company.md) | 4.43 | 
+| 575 | [Chorus](games/c/chorus.md) | 4.43 | 
+| 576 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
+| 577 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
+| 578 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 
+| 579 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 580 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 581 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 582 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 583 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 584 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 585 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
@@ -707,13 +707,13 @@
 | 705 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 706 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.26 | 
 | 707 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
-| 708 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 
-| 709 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 710 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 711 | [Starsand](games/s/starsand.md) | 4.25 | 
-| 712 | [Dark Light](games/d/dark_light.md) | 4.25 | 
-| 713 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.25 | 
-| 714 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
+| 708 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 709 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 710 | [Starsand](games/s/starsand.md) | 4.25 | 
+| 711 | [Dark Light](games/d/dark_light.md) | 4.25 | 
+| 712 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.25 | 
+| 713 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
+| 714 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
 | 715 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.24 | 
 | 716 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
 | 717 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 

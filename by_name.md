@@ -156,7 +156,7 @@
 | 154 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 155 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 
 | 156 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 157 | [Darksiders III](games/d/darksiders_iii.md) | 4.46 | 
+| 157 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
 | 158 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
 | 159 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 160 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
@@ -405,7 +405,7 @@
 | 403 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 404 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 405 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
-| 406 | [Minit](games/m/minit.md) | 4.54 | 
+| 406 | [Minit](games/m/minit.md) | 4.55 | 
 | 407 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.85 | 
 | 408 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 409 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
@@ -460,7 +460,7 @@
 | 458 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 459 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 460 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
-| 461 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
+| 461 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 462 | [Outward](games/o/outward.md) | 4.55 | 
 | 463 | [Overcooked](games/o/overcooked.md) | 4.68 | 
 | 464 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
@@ -806,7 +806,7 @@
 | 804 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 805 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 806 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 807 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 
+| 807 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
 | 808 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
 | 809 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
 | 810 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
