@@ -1,10 +1,10 @@
 {
   "ID": "e1e92771f6774072bb1b8d0a0a6197f7",
   "Name": "Wonder Boy The Dragons Trap",
-  "Rating": 4.45,
+  "Rating": 4.44,
   "NumberOfRatings": 3047,
   "FirstSeen": "2022-07-22T20:30:29.5801015+00:00",
-  "LastChanged": "2022-11-26T15:58:35.8508551+00:00",
+  "LastChanged": "2022-11-27T23:57:52.0102091+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:29.5801017+00:00",
@@ -995,6 +995,11 @@
       "Time": "2022-11-26T15:58:35.8508553+00:00",
       "Rating": 4.45,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T23:57:52.0102093+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -1032,7 +1037,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has Diverse Characters",

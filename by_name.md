@@ -20,7 +20,7 @@
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.61 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.02 | 
-| 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
+| 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.31 | 
 | 24 | [Among Trees](games/a/among_trees.md) | 4.37 | 
@@ -60,7 +60,7 @@
 | 58 | [Automachef](games/a/automachef.md) | 4.33 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.21 | 
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
-| 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
+| 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.51 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 64 | [Backbone](games/b/backbone.md) | 4.36 | 
@@ -416,7 +416,7 @@
 | 414 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 415 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 416 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.48 | 
-| 417 | [Mutazione](games/m/mutazione.md) | 4.63 | 
+| 417 | [Mutazione](games/m/mutazione.md) | 4.64 | 
 | 418 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.41 | 
 | 419 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 420 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
@@ -491,7 +491,7 @@
 | 489 | [Pine](games/p/pine.md) | 4.14 | 
 | 490 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.45 | 
 | 491 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
-| 492 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
+| 492 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
 | 493 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 494 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 495 | [Prey](games/p/prey.md) | 4.61 | 
@@ -609,7 +609,7 @@
 | 607 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
 | 608 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 609 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 610 | [Starsand](games/s/starsand.md) | 4.25 | 
+| 610 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 611 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 612 | [Startup Panic](games/s/startup_panic.md) | 4.35 | 
 | 613 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
@@ -797,7 +797,7 @@
 | 795 | [Windbound](games/w/windbound.md) | 4.19 | 
 | 796 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 797 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
-| 798 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.45 | 
+| 798 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 799 | [World of Goo](games/w/world_of_goo.md) | 4.68 | 
 | 800 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 801 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
