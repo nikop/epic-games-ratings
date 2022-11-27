@@ -54,7 +54,7 @@
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.37 | 
-| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.39 | 
+| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.41 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.33 | 
@@ -183,11 +183,11 @@
 | 181 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 182 | [Diabotical](games/d/diabotical.md) | 4.75 | 
 | 183 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 184 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
+| 184 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
 | 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.40 | 
 | 186 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
-| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.84 | 
+| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.72 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 190 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 191 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
@@ -332,7 +332,7 @@
 | 330 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 331 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 332 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 333 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 333 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
 | 334 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 335 | [Isonzo](games/i/isonzo.md) | 4.58 | 
 | 336 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
@@ -383,7 +383,7 @@
 | 381 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 
 | 382 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 383 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 384 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.26 | 
+| 384 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
 | 385 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.06 | 
 | 386 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 387 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
@@ -506,7 +506,7 @@
 | 504 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 505 | [Rayman Origins](games/r/rayman_origins.md) | 4.78 | 
 | 506 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
-| 507 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 507 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 508 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 509 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 510 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
@@ -523,7 +523,7 @@
 | 521 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 522 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 523 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 524 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 524 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 525 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 526 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
 | 527 | [Riverbond](games/r/riverbond.md) | 4.47 | 
@@ -678,7 +678,7 @@
 | 676 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
 | 677 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
 | 678 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 679 | [The Lion's Song](games/t/the_lion's_song.md) | 4.44 | 
+| 679 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
 | 680 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 681 | [The Medium](games/t/the_medium.md) | 4.59 | 
 | 682 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
@@ -691,7 +691,7 @@
 | 689 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 690 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 691 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 692 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
+| 692 | [The Surge 2](games/t/the_surge_2.md) | 4.19 | 
 | 693 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 694 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 695 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
@@ -708,7 +708,7 @@
 | 706 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 707 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
 | 708 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 709 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
+| 709 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 710 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 711 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 712 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
@@ -755,7 +755,7 @@
 | 753 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 754 | [Twin Mirror](games/t/twin_mirror.md) | 4.23 | 
 | 755 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 756 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
+| 756 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
 | 757 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.40 | 
 | 758 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 759 | [UnMetal](games/u/unmetal.md) | 4.50 | 
@@ -804,7 +804,7 @@
 | 802 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 803 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 804 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
-| 805 | [WRC Generations](games/w/wrc_generations.md) | 4.53 | 
+| 805 | [WRC Generations](games/w/wrc_generations.md) | 4.54 | 
 | 806 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 807 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 808 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
