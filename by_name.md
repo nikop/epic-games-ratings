@@ -297,7 +297,7 @@
 | 295 | [Haven](games/h/haven.md) | 4.77 | 
 | 296 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 297 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 298 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 
+| 298 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 299 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 300 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
 | 301 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
@@ -334,7 +334,7 @@
 | 332 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 333 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
 | 334 | [Ironcast](games/i/ironcast.md) | 3.91 | 
-| 335 | [Isonzo](games/i/isonzo.md) | 4.58 | 
+| 335 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 336 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 337 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 338 | [Journey](games/j/journey.md) | 4.77 | 
@@ -460,7 +460,7 @@
 | 458 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
 | 459 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 460 | [Outlast](games/o/outlast.md) | 4.73 | 
-| 461 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
+| 461 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
 | 462 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 463 | [Outward](games/o/outward.md) | 4.55 | 
 | 464 | [Overcooked](games/o/overcooked.md) | 4.68 | 
@@ -509,7 +509,7 @@
 | 507 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 508 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 509 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 510 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
+| 510 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 511 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 512 | [Redout 2](games/r/redout_2.md) | 4.54 | 
 | 513 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
@@ -573,7 +573,7 @@
 | 571 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 572 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 573 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 574 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 
+| 574 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
 | 575 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 576 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 577 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
@@ -604,7 +604,7 @@
 | 602 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 603 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 604 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
-| 605 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.54 | 
+| 605 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.52 | 
 | 606 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
 | 607 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
 | 608 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
@@ -657,12 +657,12 @@
 | 655 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 656 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 657 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 658 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 
+| 658 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 659 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 660 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 661 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 662 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
-| 663 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.84 | 
+| 663 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.85 | 
 | 664 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 665 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 666 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
@@ -699,7 +699,7 @@
 | 697 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 4.00 | 
 | 698 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 699 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 700 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.74 | 
+| 700 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.75 | 
 | 701 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
 | 702 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.82 | 
 | 703 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.83 | 
@@ -766,7 +766,7 @@
 | 764 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.78 | 
 | 765 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 766 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
-| 767 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 767 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 768 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 769 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 770 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 

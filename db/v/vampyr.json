@@ -1,10 +1,10 @@
 {
   "ID": "nautilus",
   "Name": "Vampyr",
-  "Rating": 4.31,
+  "Rating": 4.32,
   "NumberOfRatings": 5106,
   "FirstSeen": "2022-07-22T20:29:20.3532845+00:00",
-  "LastChanged": "2022-11-27T06:58:20.7901736+00:00",
+  "LastChanged": "2022-11-27T22:57:59.1313502+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:20.353285+00:00",
@@ -1090,12 +1090,17 @@
       "Time": "2022-11-27T06:58:20.790174+00:00",
       "Rating": 4.31,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T22:57:59.1313504+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 495
+      "Count": 499
     },
     {
       "Text": "This game has Amazing Storytelling",
