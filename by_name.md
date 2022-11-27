@@ -79,7 +79,7 @@
 | 77 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.76 | 
 | 78 | [Before We Leave](games/b/before_we_leave.md) | 4.62 | 
 | 79 | [Beholder 3](games/b/beholder_3.md) | 4.45 | 
-| 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
+| 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
 | 81 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 82 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 83 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
@@ -89,7 +89,7 @@
 | 87 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
-| 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.41 | 
+| 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.43 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -186,7 +186,7 @@
 | 184 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
 | 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.40 | 
 | 186 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
+| 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.84 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 190 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
@@ -219,11 +219,11 @@
 | 217 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 218 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 219 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 220 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.81 | 
+| 220 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.82 | 
 | 221 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 222 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
 | 223 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 224 | [Far Cry](games/f/far_cry.md) | 4.41 | 
+| 224 | [Far Cry](games/f/far_cry.md) | 4.42 | 
 | 225 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.19 | 
 | 226 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 227 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
@@ -586,7 +586,7 @@
 | 584 | [SOMA](games/s/soma.md) | 4.64 | 
 | 585 | [Somerville](games/s/somerville.md) | 4.24 | 
 | 586 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 587 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
+| 587 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
 | 588 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 589 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 590 | [Souldiers](games/s/souldiers.md) | 4.55 | 

@@ -1,10 +1,10 @@
 {
   "ID": "lavender",
   "Name": "Beyond Two Souls",
-  "Rating": 4.67,
+  "Rating": 4.68,
   "NumberOfRatings": 348,
   "FirstSeen": "2022-07-22T20:16:51.5955427+00:00",
-  "LastChanged": "2022-11-27T05:56:54.0608916+00:00",
+  "LastChanged": "2022-11-27T11:56:39.8343048+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:51.5955429+00:00",
@@ -405,12 +405,17 @@
       "Time": "2022-11-27T05:56:54.0608917+00:00",
       "Rating": 4.67,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T11:56:39.834305+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
-      "Count": 61
+      "Count": 62
     }
   ]
 }
