@@ -135,7 +135,7 @@
 | 133 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 134 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
 | 135 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 136 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 136 | [Crayta](games/c/crayta.md) | 4.18 | 
 | 137 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 138 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 139 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
@@ -770,7 +770,7 @@
 | 768 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 769 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 770 | [War Mongrels](games/w/war_mongrels.md) | 4.33 | 
-| 771 | [Warface](games/w/warface.md) | 3.94 | 
+| 771 | [Warface](games/w/warface.md) | 3.93 | 
 | 772 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 773 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 774 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 

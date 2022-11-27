@@ -743,12 +743,12 @@
 | 741 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
 | 742 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
 | 743 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 
-| 744 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 745 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.19 | 
-| 746 | [Godlike Burger](games/g/godlike_burger.md) | 4.19 | 
-| 747 | [Space Punks](games/s/space_punks.md) | 4.18 | 
-| 748 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 749 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
+| 744 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.19 | 
+| 745 | [Godlike Burger](games/g/godlike_burger.md) | 4.19 | 
+| 746 | [Space Punks](games/s/space_punks.md) | 4.18 | 
+| 747 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 748 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
+| 749 | [Crayta](games/c/crayta.md) | 4.18 | 
 | 750 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
 | 751 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 752 | [OVERPASS™](games/o/overpass™.md) | 4.17 | 
@@ -797,7 +797,7 @@
 | 795 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 796 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.96 | 
 | 797 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 798 | [Warface](games/w/warface.md) | 3.94 | 
+| 798 | [Warface](games/w/warface.md) | 3.93 | 
 | 799 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 800 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
 | 801 | [Ironcast](games/i/ironcast.md) | 3.91 | 
