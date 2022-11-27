@@ -86,16 +86,16 @@
 | 84 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 85 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 86 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
-| 87 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 88 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 89 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 90 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
-| 91 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 92 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
-| 93 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
-| 94 | [Superliminal](games/s/superliminal.md) | 4.79 | 
-| 95 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
-| 96 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.78 | 
+| 87 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 88 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
+| 89 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 90 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
+| 92 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
+| 93 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
+| 94 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
+| 95 | [Superliminal](games/s/superliminal.md) | 4.79 | 
+| 96 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 97 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 98 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 99 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
@@ -416,17 +416,17 @@
 | 414 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 415 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
 | 416 | [Hob](games/h/hob.md) | 4.56 | 
-| 417 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
-| 418 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
-| 419 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
-| 420 | [Aragami 2](games/a/aragami_2.md) | 4.56 | 
-| 421 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
-| 422 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 423 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 424 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 425 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 426 | [Hue](games/h/hue.md) | 4.55 | 
-| 427 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.55 | 
+| 417 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 418 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.56 | 
+| 419 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
+| 420 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
+| 421 | [Aragami 2](games/a/aragami_2.md) | 4.56 | 
+| 422 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 423 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 424 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 425 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 426 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 427 | [Hue](games/h/hue.md) | 4.55 | 
 | 428 | [Outward](games/o/outward.md) | 4.55 | 
 | 429 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 430 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
@@ -621,16 +621,16 @@
 | 619 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 620 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
 | 621 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 622 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
-| 623 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
-| 624 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.38 | 
-| 625 | [Core](games/c/core.md) | 4.38 | 
-| 626 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
-| 627 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.38 | 
-| 628 | [ELEX](games/e/elex.md) | 4.38 | 
-| 629 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 630 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
-| 631 | [Brawlhalla](games/b/brawlhalla.md) | 4.38 | 
+| 622 | [Brawlhalla](games/b/brawlhalla.md) | 4.39 | 
+| 623 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
+| 624 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
+| 625 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.38 | 
+| 626 | [Core](games/c/core.md) | 4.38 | 
+| 627 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.38 | 
+| 628 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.38 | 
+| 629 | [ELEX](games/e/elex.md) | 4.38 | 
+| 630 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 631 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
 | 632 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 633 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 634 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
@@ -727,14 +727,14 @@
 | 725 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
 | 726 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 727 | [Aven Colony](games/a/aven_colony.md) | 4.21 | 
-| 728 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
-| 729 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
-| 730 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
-| 731 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
-| 732 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 733 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 734 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 735 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
+| 728 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.21 | 
+| 729 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
+| 730 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
+| 731 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
+| 732 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
+| 733 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 734 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 735 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 736 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
 | 737 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
 | 738 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
@@ -787,10 +787,10 @@
 | 785 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 786 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.03 | 
 | 787 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.02 | 
-| 788 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
-| 789 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
-| 790 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
-| 791 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 
+| 788 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
+| 789 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
+| 790 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 
+| 791 | [Gravewood High](games/g/gravewood_high.md) | 4.00 | 
 | 792 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.00 | 
 | 793 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 794 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
