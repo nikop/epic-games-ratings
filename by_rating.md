@@ -673,10 +673,10 @@
 | 671 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
 | 672 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 673 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
-| 674 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 675 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.32 | 
-| 676 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.32 | 
-| 677 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 674 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.32 | 
+| 675 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.32 | 
+| 676 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 677 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 678 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 679 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.31 | 
 | 680 | [Filament](games/f/filament.md) | 4.31 | 
@@ -755,11 +755,11 @@
 | 753 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 754 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 755 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.15 | 
-| 756 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
-| 757 | [Relicta](games/r/relicta.md) | 4.14 | 
-| 758 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
-| 759 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
-| 760 | [Pine](games/p/pine.md) | 4.13 | 
+| 756 | [Pine](games/p/pine.md) | 4.14 | 
+| 757 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
+| 758 | [Relicta](games/r/relicta.md) | 4.14 | 
+| 759 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
+| 760 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
 | 761 | [God's Trigger](games/g/god's_trigger.md) | 4.13 | 
 | 762 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.13 | 
 | 763 | [Tharsis](games/t/tharsis.md) | 4.13 | 

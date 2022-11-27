@@ -487,7 +487,7 @@
 | 485 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 486 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 487 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
-| 488 | [Pine](games/p/pine.md) | 4.13 | 
+| 488 | [Pine](games/p/pine.md) | 4.14 | 
 | 489 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.45 | 
 | 490 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
 | 491 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
@@ -764,7 +764,7 @@
 | 762 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.78 | 
 | 763 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 764 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
-| 765 | [Vampyr](games/v/vampyr.md) | 4.32 | 
+| 765 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 766 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 767 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 768 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
