@@ -31,7 +31,7 @@
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
-| 32 | [Anno 2070](games/a/anno_2070.md) | 4.39 | 
+| 32 | [Anno 2070](games/a/anno_2070.md) | 4.40 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 
@@ -203,7 +203,7 @@
 | 201 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 202 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.77 | 
 | 203 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 204 | [ELEX](games/e/elex.md) | 4.38 | 
+| 204 | [ELEX](games/e/elex.md) | 4.39 | 
 | 205 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
 | 206 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 207 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
@@ -255,12 +255,12 @@
 | 253 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 254 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 255 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 256 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.81 | 
+| 256 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 257 | [FUSER™](games/f/fuser™.md) | 4.73 | 
 | 258 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 259 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.21 | 
 | 260 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.49 | 
-| 261 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
+| 261 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 262 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
 | 263 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 264 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
@@ -460,7 +460,7 @@
 | 458 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 459 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 460 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 
-| 461 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
+| 461 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 462 | [Outward](games/o/outward.md) | 4.55 | 
 | 463 | [Overcooked](games/o/overcooked.md) | 4.68 | 
 | 464 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
@@ -692,7 +692,7 @@
 | 690 | [The Surge](games/t/the_surge.md) | 4.52 | 
 | 691 | [The Surge 2](games/t/the_surge_2.md) | 4.18 | 
 | 692 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
-| 693 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.73 | 
+| 693 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 694 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 695 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 696 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 4.00 | 
@@ -781,7 +781,7 @@
 | 779 | [Warpips](games/w/warpips.md) | 4.57 | 
 | 780 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 781 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 782 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
+| 782 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
 | 783 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
 | 784 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 785 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
