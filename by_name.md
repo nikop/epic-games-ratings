@@ -130,7 +130,7 @@
 | 128 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 129 | [Core](games/c/core.md) | 4.38 | 
 | 130 | [Coromon](games/c/coromon.md) | 4.65 | 
-| 131 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.69 | 
+| 131 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.70 | 
 | 132 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 133 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 134 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
@@ -175,7 +175,7 @@
 | 173 | [Democracy 4](games/d/democracy_4.md) | 4.36 | 
 | 174 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 175 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
-| 176 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 
+| 176 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 177 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
 | 178 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 179 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
@@ -217,7 +217,7 @@
 | 215 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 216 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 217 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
-| 218 | [Faeria](games/f/faeria.md) | 4.42 | 
+| 218 | [Faeria](games/f/faeria.md) | 4.43 | 
 | 219 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 220 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.82 | 
 | 221 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
@@ -415,7 +415,7 @@
 | 413 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 414 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 415 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 416 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.48 | 
+| 416 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 417 | [Mutazione](games/m/mutazione.md) | 4.64 | 
 | 418 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.41 | 
 | 419 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
@@ -811,6 +811,6 @@
 | 809 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
 | 810 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
 | 811 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
-| 812 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
+| 812 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 
 | 813 | [ZOMBI](games/z/zombi.md) | 4.35 | 
 | 814 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 

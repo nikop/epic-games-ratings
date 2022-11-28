@@ -1,10 +1,10 @@
 {
   "ID": "3102f48ad7bd409ab6e34f2ad697e961",
   "Name": "CORRUPTION 2029",
-  "Rating": 3.69,
+  "Rating": 3.7,
   "FirstSeen": "2022-07-22T20:20:05.407172+00:00",
   "FirstSeenRating": "2022-10-10T12:30:41.7210732+00:00",
-  "LastChanged": "2022-11-19T17:00:13.8685308+00:00",
+  "LastChanged": "2022-11-28T13:57:17.6171426+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-10T12:30:41.721074+00:00",
@@ -34,6 +34,11 @@
     {
       "Time": "2022-11-19T17:00:13.8685311+00:00",
       "Rating": 3.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T13:57:17.6171431+00:00",
+      "Rating": 3.7,
       "NumberOfRatings": null
     }
   ],
