@@ -1,10 +1,10 @@
 {
   "ID": "1368a7f14c3344bbaededbae528fafed",
   "Name": "Dead Cells",
-  "Rating": 4.88,
+  "Rating": 4.89,
   "NumberOfRatings": 1319,
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2022-11-13T06:57:28.2602352+00:00",
+  "LastChanged": "2022-11-28T09:56:56.9025249+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:26.6981295+00:00",
@@ -1300,6 +1300,11 @@
       "Time": "2022-11-13T06:57:28.2602354+00:00",
       "Rating": 4.88,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T09:56:56.9025251+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -1349,7 +1354,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 181
+      "Count": 185
     }
   ]
 }

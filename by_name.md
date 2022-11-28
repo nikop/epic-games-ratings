@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.39 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.43 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.57 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
@@ -164,7 +164,7 @@
 | 162 | [Days Gone](games/d/days_gone.md) | 4.69 | 
 | 163 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 164 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 165 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
+| 165 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 166 | [Death Coming](games/d/death_coming.md) | 4.47 | 
 | 167 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 168 | [Death's Door](games/d/death's_door.md) | 4.64 | 
@@ -284,7 +284,7 @@
 | 282 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 283 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
 | 284 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 285 | [Gravewood High](games/g/gravewood_high.md) | 4.00 | 
+| 285 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 286 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 287 | [GRIME](games/g/grime.md) | 4.59 | 
 | 288 | [Grindstone](games/g/grindstone.md) | 4.83 | 
@@ -404,10 +404,10 @@
 | 402 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 403 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 404 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 405 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
+| 405 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.44 | 
 | 406 | [Minit](games/m/minit.md) | 4.55 | 
 | 407 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
-| 408 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
+| 408 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 409 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 410 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 411 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
