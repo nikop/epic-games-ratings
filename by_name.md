@@ -19,7 +19,7 @@
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.61 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.02 | 
+| 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
@@ -184,7 +184,7 @@
 | 182 | [Diabotical](games/d/diabotical.md) | 4.75 | 
 | 183 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 184 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
-| 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.40 | 
+| 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.39 | 
 | 186 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.75 | 
@@ -239,7 +239,7 @@
 | 237 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 238 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 239 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.62 | 
-| 240 | [Fez](games/f/fez.md) | 4.72 | 
+| 240 | [Fez](games/f/fez.md) | 4.73 | 
 | 241 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
 | 242 | [Figment](games/f/figment.md) | 4.44 | 
 | 243 | [Filament](games/f/filament.md) | 4.31 | 
@@ -260,7 +260,7 @@
 | 258 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 259 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
 | 260 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.49 | 
-| 261 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 261 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
 | 262 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
 | 263 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 264 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
@@ -653,7 +653,7 @@
 | 651 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.85 | 
 | 652 | [Tharsis](games/t/tharsis.md) | 4.14 | 
 | 653 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
-| 654 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.61 | 
+| 654 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
 | 655 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 656 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 657 | [The Captain](games/t/the_captain.md) | 4.44 | 
@@ -751,7 +751,7 @@
 | 749 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
 | 750 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 751 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 752 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
+| 752 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.36 | 
 | 753 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 754 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 755 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
