@@ -22,7 +22,7 @@
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.02 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.31 | 
+| 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 24 | [Among Trees](games/a/among_trees.md) | 4.37 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
@@ -87,7 +87,7 @@
 | 85 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 86 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.24 | 
 | 87 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
-| 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.43 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
@@ -96,7 +96,7 @@
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.39 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.57 | 
-| 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.90 | 
+| 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 99 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 100 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.28 | 
@@ -121,7 +121,7 @@
 | 119 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 120 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 121 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 122 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
+| 122 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.00 | 
 | 123 | [Colt Canyon](games/c/colt_canyon.md) | 4.55 | 
 | 124 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 125 | [Conarium](games/c/conarium.md) | 3.91 | 
@@ -156,7 +156,7 @@
 | 154 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 155 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.48 | 
 | 156 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 157 | [Darksiders III](games/d/darksiders_iii.md) | 4.47 | 
+| 157 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
 | 158 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
 | 159 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 160 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
@@ -232,7 +232,7 @@
 | 230 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
 | 231 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.68 | 
 | 232 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
-| 233 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
+| 233 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
 | 234 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
 | 235 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.13 | 
 | 236 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
@@ -258,7 +258,7 @@
 | 256 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 257 | [FUSER™](games/f/fuser™.md) | 4.73 | 
 | 258 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 259 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.21 | 
+| 259 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
 | 260 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.49 | 
 | 261 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 262 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
@@ -318,7 +318,7 @@
 | 316 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 317 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 318 | [Huntdown](games/h/huntdown.md) | 4.82 | 
-| 319 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 319 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 320 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.62 | 
 | 321 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.64 | 
 | 322 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
@@ -406,7 +406,7 @@
 | 404 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 405 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.43 | 
 | 406 | [Minit](games/m/minit.md) | 4.55 | 
-| 407 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.85 | 
+| 407 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 408 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 409 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 410 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
@@ -742,7 +742,7 @@
 | 740 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 741 | [Transistor](games/t/transistor.md) | 4.63 | 
 | 742 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 743 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 743 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 
 | 744 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
 | 745 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 746 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.70 | 
