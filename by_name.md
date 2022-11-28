@@ -25,7 +25,7 @@
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 24 | [Among Trees](games/a/among_trees.md) | 4.38 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
@@ -61,7 +61,7 @@
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.21 | 
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
-| 62 | [Aztez](games/a/aztez.md) | 4.51 | 
+| 62 | [Aztez](games/a/aztez.md) | 4.52 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 64 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 65 | [Bad North](games/b/bad_north.md) | 4.68 | 
@@ -115,7 +115,7 @@
 | 113 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 114 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
 | 115 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 116 | [Chorus](games/c/chorus.md) | 4.44 | 
+| 116 | [Chorus](games/c/chorus.md) | 4.45 | 
 | 117 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.00 | 
 | 118 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 119 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
@@ -476,7 +476,7 @@
 | 474 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 475 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.25 | 
 | 476 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 477 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 477 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 478 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 479 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 480 | [Patron](games/p/patron.md) | 3.90 | 
@@ -801,10 +801,10 @@
 | 799 | [World of Goo](games/w/world_of_goo.md) | 4.68 | 
 | 800 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 801 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 802 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
+| 802 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 803 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 804 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
-| 805 | [WRC Generations](games/w/wrc_generations.md) | 4.53 | 
+| 805 | [WRC Generations](games/w/wrc_generations.md) | 4.50 | 
 | 806 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 807 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 808 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
