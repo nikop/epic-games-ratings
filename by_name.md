@@ -53,7 +53,7 @@
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 
-| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.37 | 
+| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.41 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
@@ -684,7 +684,7 @@
 | 682 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 683 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 684 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
-| 685 | [The Red Lantern](games/t/the_red_lantern.md) | 4.65 | 
+| 685 | [The Red Lantern](games/t/the_red_lantern.md) | 4.67 | 
 | 686 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.74 | 
 | 687 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 688 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
@@ -766,7 +766,7 @@
 | 764 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.78 | 
 | 765 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 766 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
-| 767 | [Vampyr](games/v/vampyr.md) | 4.32 | 
+| 767 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 768 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 769 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 770 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
@@ -787,7 +787,7 @@
 | 785 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 786 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 787 | [Weird West](games/w/weird_west.md) | 4.46 | 
-| 788 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
+| 788 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.15 | 
 | 789 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 790 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.76 | 
 | 791 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.48 | 
