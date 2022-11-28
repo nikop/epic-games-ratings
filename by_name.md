@@ -79,7 +79,7 @@
 | 77 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.76 | 
 | 78 | [Before We Leave](games/b/before_we_leave.md) | 4.61 | 
 | 79 | [Beholder 3](games/b/beholder_3.md) | 4.45 | 
-| 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
+| 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
 | 81 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 82 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 83 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
@@ -89,7 +89,7 @@
 | 87 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
-| 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.43 | 
+| 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.44 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -587,7 +587,7 @@
 | 585 | [SOMA](games/s/soma.md) | 4.64 | 
 | 586 | [Somerville](games/s/somerville.md) | 4.30 | 
 | 587 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 588 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
+| 588 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
 | 589 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 590 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 591 | [Souldiers](games/s/souldiers.md) | 4.55 | 
@@ -716,7 +716,7 @@
 | 714 | [Timberborn](games/t/timberborn.md) | 4.71 | 
 | 715 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 716 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 717 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.64 | 
+| 717 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.65 | 
 | 718 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.31 | 
 | 719 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 720 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.27 | 

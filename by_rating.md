@@ -224,24 +224,24 @@
 | 222 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
 | 223 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.68 | 
 | 224 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
-| 225 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 226 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 227 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 228 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
-| 229 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
-| 230 | [CARRION](games/c/carrion.md) | 4.68 | 
-| 231 | [World of Goo](games/w/world_of_goo.md) | 4.68 | 
-| 232 | [Rogue Lords](games/r/rogue_lords.md) | 4.68 | 
-| 233 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
-| 234 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 235 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 236 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 237 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 238 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
-| 239 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 240 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 241 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.67 | 
-| 242 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 225 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 226 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
+| 227 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
+| 228 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
+| 229 | [CARRION](games/c/carrion.md) | 4.68 | 
+| 230 | [World of Goo](games/w/world_of_goo.md) | 4.68 | 
+| 231 | [Rogue Lords](games/r/rogue_lords.md) | 4.68 | 
+| 232 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
+| 233 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 234 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 235 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 236 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 237 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
+| 238 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 239 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 240 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.67 | 
+| 241 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 242 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
 | 243 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.67 | 
 | 244 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 245 | [Operation: Tango](games/o/operation__tango.md) | 4.67 | 
@@ -267,28 +267,28 @@
 | 265 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 266 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 267 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
-| 268 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
-| 269 | [Coromon](games/c/coromon.md) | 4.65 | 
-| 270 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
-| 271 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 272 | [APE OUT](games/a/ape_out.md) | 4.65 | 
-| 273 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
-| 274 | [Everything](games/e/everything.md) | 4.65 | 
-| 275 | [The Red Lantern](games/t/the_red_lantern.md) | 4.65 | 
-| 276 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 277 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 278 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 279 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
-| 280 | [Old World](games/o/old_world.md) | 4.64 | 
-| 281 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.64 | 
-| 282 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 283 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 284 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
-| 285 | [SOMA](games/s/soma.md) | 4.64 | 
-| 286 | [Limbo](games/l/limbo.md) | 4.64 | 
-| 287 | [Death's Door](games/d/death's_door.md) | 4.64 | 
-| 288 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
-| 289 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.64 | 
+| 268 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.65 | 
+| 269 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
+| 270 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 271 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
+| 272 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
+| 273 | [APE OUT](games/a/ape_out.md) | 4.65 | 
+| 274 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
+| 275 | [Everything](games/e/everything.md) | 4.65 | 
+| 276 | [The Red Lantern](games/t/the_red_lantern.md) | 4.65 | 
+| 277 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 278 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 279 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 280 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
+| 281 | [Old World](games/o/old_world.md) | 4.64 | 
+| 282 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.64 | 
+| 283 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
+| 284 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
+| 285 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
+| 286 | [SOMA](games/s/soma.md) | 4.64 | 
+| 287 | [Limbo](games/l/limbo.md) | 4.64 | 
+| 288 | [Death's Door](games/d/death's_door.md) | 4.64 | 
+| 289 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
 | 290 | [Mutazione](games/m/mutazione.md) | 4.64 | 
 | 291 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
 | 292 | [GNOG](games/g/gnog.md) | 4.64 | 
@@ -571,26 +571,26 @@
 | 569 | [Figment](games/f/figment.md) | 4.44 | 
 | 570 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.44 | 
 | 571 | [Chorus](games/c/chorus.md) | 4.44 | 
-| 572 | [Train Valley](games/t/train_valley.md) | 4.44 | 
-| 573 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 574 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
-| 575 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
-| 576 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 577 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
+| 572 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.44 | 
+| 573 | [Train Valley](games/t/train_valley.md) | 4.44 | 
+| 574 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 575 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
+| 576 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
+| 577 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 578 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
 | 579 | [Good Company](games/g/good_company.md) | 4.43 | 
 | 580 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
 | 581 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 582 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.43 | 
-| 583 | [Brawlhalla](games/b/brawlhalla.md) | 4.43 | 
-| 584 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 585 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 586 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 587 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 588 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 589 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
-| 590 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 591 | [Faeria](games/f/faeria.md) | 4.42 | 
+| 582 | [Brawlhalla](games/b/brawlhalla.md) | 4.43 | 
+| 583 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 584 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 585 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 586 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 587 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 588 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
+| 589 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 590 | [Faeria](games/f/faeria.md) | 4.42 | 
+| 591 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
 | 592 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 593 | [Far Cry](games/f/far_cry.md) | 4.42 | 
 | 594 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
