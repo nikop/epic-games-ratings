@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.43 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.44 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.58 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
@@ -443,7 +443,7 @@
 | 441 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.35 | 
 | 442 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 443 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
-| 444 | [Obduction](games/o/obduction.md) | 4.09 | 
+| 444 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 445 | [Observation](games/o/observation.md) | 4.54 | 
 | 446 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
 | 447 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.81 | 
@@ -585,7 +585,7 @@
 | 583 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
 | 584 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 585 | [SOMA](games/s/soma.md) | 4.64 | 
-| 586 | [Somerville](games/s/somerville.md) | 4.30 | 
+| 586 | [Somerville](games/s/somerville.md) | 4.24 | 
 | 587 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 588 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
 | 589 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
@@ -617,7 +617,7 @@
 | 615 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
 | 616 | [STG Football](games/s/stg_football.md) | 4.60 | 
 | 617 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 618 | [Stories Untold](games/s/stories_untold.md) | 4.48 | 
+| 618 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 619 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
 | 620 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 621 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.70 | 
@@ -631,7 +631,7 @@
 | 629 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
 | 630 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 631 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
-| 632 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.74 | 
+| 632 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.69 | 
 | 633 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
 | 634 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.67 | 
 | 635 | [Superliminal](games/s/superliminal.md) | 4.80 | 
@@ -786,7 +786,7 @@
 | 784 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
 | 785 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 786 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 787 | [Weird West](games/w/weird_west.md) | 4.46 | 
+| 787 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 788 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.15 | 
 | 789 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 790 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.76 | 
