@@ -1,10 +1,10 @@
 {
   "ID": "f919a1262081444fb28f0fdef68d6b14",
   "Name": "Moving Out",
-  "Rating": 4.58,
+  "Rating": 4.57,
   "NumberOfRatings": 489,
   "FirstSeen": "2022-07-22T20:18:42.4467794+00:00",
-  "LastChanged": "2022-11-18T13:57:14.1878961+00:00",
+  "LastChanged": "2022-11-28T23:57:05.2703947+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:42.4467799+00:00",
@@ -424,6 +424,11 @@
     {
       "Time": "2022-11-18T13:57:14.1878963+00:00",
       "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T23:57:05.2703951+00:00",
+      "Rating": 4.57,
       "NumberOfRatings": null
     }
   ],

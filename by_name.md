@@ -20,7 +20,7 @@
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.61 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
-| 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
+| 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 24 | [Among Trees](games/a/among_trees.md) | 4.38 | 
@@ -277,7 +277,7 @@
 | 275 | [God's Trigger](games/g/god's_trigger.md) | 4.13 | 
 | 276 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 277 | [Godlike Burger](games/g/godlike_burger.md) | 4.19 | 
-| 278 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.92 | 
+| 278 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.93 | 
 | 279 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 280 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 281 | [Good Company](games/g/good_company.md) | 4.43 | 
@@ -412,7 +412,7 @@
 | 410 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 411 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 412 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 413 | [Moving Out](games/m/moving_out.md) | 4.58 | 
+| 413 | [Moving Out](games/m/moving_out.md) | 4.57 | 
 | 414 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 415 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 416 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
@@ -615,7 +615,7 @@
 | 613 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 614 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 615 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
-| 616 | [STG Football](games/s/stg_football.md) | 4.60 | 
+| 616 | [STG Football](games/s/stg_football.md) | 4.61 | 
 | 617 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 618 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 619 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
@@ -771,7 +771,7 @@
 | 769 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 770 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 771 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 772 | [War Mongrels](games/w/war_mongrels.md) | 4.33 | 
+| 772 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
 | 773 | [Warface](games/w/warface.md) | 3.93 | 
 | 774 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 775 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
