@@ -150,7 +150,7 @@
 | 148 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 149 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
 | 150 | [Dark Deception](games/d/dark_deception.md) | 4.61 | 
-| 151 | [Dark Deity](games/d/dark_deity.md) | 4.13 | 
+| 151 | [Dark Deity](games/d/dark_deity.md) | 4.14 | 
 | 152 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 153 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 154 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -378,7 +378,7 @@
 | 376 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 377 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 378 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 
-| 379 | [Limbo](games/l/limbo.md) | 4.63 | 
+| 379 | [Limbo](games/l/limbo.md) | 4.64 | 
 | 380 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
 | 381 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 
 | 382 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
@@ -564,7 +564,7 @@
 | 562 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 563 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 564 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
-| 565 | [shapez](games/s/shapez.md) | 4.72 | 
+| 565 | [shapez](games/s/shapez.md) | 4.73 | 
 | 566 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 567 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 
 | 568 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.49 | 

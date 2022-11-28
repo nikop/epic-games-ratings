@@ -10,4 +10,4 @@
 | 8 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
 | 9 | [Dishonored 2](games/d/dishonored_2.md) | 4.72 | 
 | 10 | [WRC Generations](games/w/wrc_generations.md) | 4.54 | 
-| 11 | [shapez](games/s/shapez.md) | 4.72 | 
+| 11 | [shapez](games/s/shapez.md) | 4.73 | 

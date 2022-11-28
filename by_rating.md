@@ -161,18 +161,18 @@
 | 159 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
 | 160 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
 | 161 | [Outlast](games/o/outlast.md) | 4.73 | 
-| 162 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 163 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 164 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 165 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 166 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 167 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
-| 168 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
-| 169 | [Fez](games/f/fez.md) | 4.72 | 
-| 170 | [Townscaper](games/t/townscaper.md) | 4.72 | 
-| 171 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
-| 172 | [Dishonored 2](games/d/dishonored_2.md) | 4.72 | 
-| 173 | [shapez](games/s/shapez.md) | 4.72 | 
+| 162 | [shapez](games/s/shapez.md) | 4.73 | 
+| 163 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 164 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 165 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 166 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 167 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 168 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
+| 169 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
+| 170 | [Fez](games/f/fez.md) | 4.72 | 
+| 171 | [Townscaper](games/t/townscaper.md) | 4.72 | 
+| 172 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
+| 173 | [Dishonored 2](games/d/dishonored_2.md) | 4.72 | 
 | 174 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 175 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 176 | [Timberborn](games/t/timberborn.md) | 4.71 | 
@@ -285,16 +285,16 @@
 | 283 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 284 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
 | 285 | [SOMA](games/s/soma.md) | 4.64 | 
-| 286 | [Death's Door](games/d/death's_door.md) | 4.64 | 
-| 287 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
-| 288 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.64 | 
-| 289 | [Mutazione](games/m/mutazione.md) | 4.64 | 
-| 290 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
-| 291 | [GNOG](games/g/gnog.md) | 4.64 | 
-| 292 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.64 | 
-| 293 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
-| 294 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 295 | [Limbo](games/l/limbo.md) | 4.63 | 
+| 286 | [Limbo](games/l/limbo.md) | 4.64 | 
+| 287 | [Death's Door](games/d/death's_door.md) | 4.64 | 
+| 288 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
+| 289 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.64 | 
+| 290 | [Mutazione](games/m/mutazione.md) | 4.64 | 
+| 291 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
+| 292 | [GNOG](games/g/gnog.md) | 4.64 | 
+| 293 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.64 | 
+| 294 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
+| 295 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 296 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 297 | [Transistor](games/t/transistor.md) | 4.63 | 
 | 298 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
@@ -764,9 +764,9 @@
 | 762 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 763 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 
 | 764 | [Tharsis](games/t/tharsis.md) | 4.14 | 
-| 765 | [God's Trigger](games/g/god's_trigger.md) | 4.13 | 
-| 766 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.13 | 
-| 767 | [Dark Deity](games/d/dark_deity.md) | 4.13 | 
+| 765 | [Dark Deity](games/d/dark_deity.md) | 4.14 | 
+| 766 | [God's Trigger](games/g/god's_trigger.md) | 4.13 | 
+| 767 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.13 | 
 | 768 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 769 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
 | 770 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
