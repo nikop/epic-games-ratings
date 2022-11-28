@@ -100,7 +100,7 @@
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 99 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 100 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.28 | 
-| 101 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
+| 101 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
 | 102 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.08 | 
 | 103 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 104 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
@@ -164,7 +164,7 @@
 | 162 | [Days Gone](games/d/days_gone.md) | 4.69 | 
 | 163 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 164 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 165 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
+| 165 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 166 | [Death Coming](games/d/death_coming.md) | 4.47 | 
 | 167 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 168 | [Death's Door](games/d/death's_door.md) | 4.64 | 
@@ -454,7 +454,7 @@
 | 452 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 453 | [Operation: Tango](games/o/operation__tango.md) | 4.67 | 
 | 454 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.32 | 
-| 455 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.76 | 
+| 455 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
 | 456 | [Othercide](games/o/othercide.md) | 4.37 | 
 | 457 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 458 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
@@ -552,7 +552,7 @@
 | 550 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 551 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
 | 552 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 553 | [Scorn](games/s/scorn.md) | 4.48 | 
+| 553 | [Scorn](games/s/scorn.md) | 4.49 | 
 | 554 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
 | 555 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
 | 556 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
@@ -567,7 +567,7 @@
 | 565 | [shapez](games/s/shapez.md) | 4.73 | 
 | 566 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 567 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 
-| 568 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.49 | 
+| 568 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
 | 569 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 570 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.41 | 
 | 571 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
@@ -640,7 +640,7 @@
 | 638 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
 | 639 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 640 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.48 | 
-| 641 | [Suzerain](games/s/suzerain.md) | 4.70 | 
+| 641 | [Suzerain](games/s/suzerain.md) | 4.73 | 
 | 642 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
 | 643 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 644 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
