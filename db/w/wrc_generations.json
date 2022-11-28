@@ -1,10 +1,10 @@
 {
   "ID": "a30d60ca7a8d4fd2ad6e531c59854e5e",
   "Name": "WRC Generations",
-  "Rating": 4.54,
+  "Rating": 4.53,
   "FirstSeen": "2022-11-03T15:34:05.2921082+00:00",
   "FirstSeenRating": "2022-11-09T14:57:20.1169919+00:00",
-  "LastChanged": "2022-11-27T20:57:22.2280998+00:00",
+  "LastChanged": "2022-11-28T13:15:54.8646939+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-09T14:57:20.1169923+00:00",
@@ -124,6 +124,11 @@
     {
       "Time": "2022-11-27T20:57:22.2281+00:00",
       "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T13:15:54.8646944+00:00",
+      "Rating": 4.53,
       "NumberOfRatings": null
     }
   ],

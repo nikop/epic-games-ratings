@@ -67,7 +67,7 @@
 | 65 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 66 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 67 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
-| 68 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.69 | 
+| 68 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 
 | 69 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 70 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 71 | [Barony](games/b/barony.md) | 4.69 | 
@@ -95,7 +95,7 @@
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.43 | 
-| 96 | [Breathedge](games/b/breathedge.md) | 4.57 | 
+| 96 | [Breathedge](games/b/breathedge.md) | 4.58 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 99 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
@@ -148,14 +148,14 @@
 | 146 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 147 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 148 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
-| 149 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
+| 149 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
 | 150 | [Dark Deception](games/d/dark_deception.md) | 4.61 | 
 | 151 | [Dark Deity](games/d/dark_deity.md) | 4.14 | 
 | 152 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 153 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 154 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 155 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.48 | 
-| 156 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 156 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.62 | 
 | 157 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
 | 158 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
 | 159 | [Darkwood](games/d/darkwood.md) | 4.61 | 
@@ -211,7 +211,7 @@
 | 209 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 210 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 211 | [EVE Online](games/e/eve_online.md) | 4.26 | 
-| 212 | [Everything](games/e/everything.md) | 4.65 | 
+| 212 | [Everything](games/e/everything.md) | 4.63 | 
 | 213 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.38 | 
 | 214 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 215 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
@@ -234,7 +234,7 @@
 | 232 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
 | 233 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
 | 234 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
-| 235 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.13 | 
+| 235 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.14 | 
 | 236 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 237 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 238 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
@@ -246,7 +246,7 @@
 | 244 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 245 | [Firework](games/f/firework.md) | 4.88 | 
 | 246 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 
-| 247 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
+| 247 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 248 | [Flatout](games/f/flatout.md) | 4.05 | 
 | 249 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
 | 250 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
@@ -526,8 +526,8 @@
 | 524 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 525 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 526 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
-| 527 | [Riverbond](games/r/riverbond.md) | 4.47 | 
-| 528 | [Road 96](games/r/road_96.md) | 4.59 | 
+| 527 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 528 | [Road 96](games/r/road_96.md) | 4.60 | 
 | 529 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 530 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 531 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
@@ -547,7 +547,7 @@
 | 545 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
 | 546 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 547 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 548 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.61 | 
+| 548 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.63 | 
 | 549 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 550 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 551 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
@@ -804,7 +804,7 @@
 | 802 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 803 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 804 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
-| 805 | [WRC Generations](games/w/wrc_generations.md) | 4.54 | 
+| 805 | [WRC Generations](games/w/wrc_generations.md) | 4.53 | 
 | 806 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 807 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 808 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
