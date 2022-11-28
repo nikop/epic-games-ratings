@@ -231,7 +231,7 @@
 | 229 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 230 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
 | 231 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.68 | 
-| 232 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.67 | 
+| 232 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
 | 233 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
 | 234 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
 | 235 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.13 | 
@@ -368,7 +368,7 @@
 | 366 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
 | 367 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 368 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
-| 369 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 
+| 369 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 370 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 371 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
 | 372 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
@@ -644,7 +644,7 @@
 | 642 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
 | 643 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 644 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 645 | [Tacoma](games/t/tacoma.md) | 4.39 | 
+| 645 | [Tacoma](games/t/tacoma.md) | 4.40 | 
 | 646 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
 | 647 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.70 | 
 | 648 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
@@ -783,7 +783,7 @@
 | 781 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 782 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 783 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
-| 784 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.27 | 
+| 784 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
 | 785 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 786 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 787 | [Weird West](games/w/weird_west.md) | 4.46 | 
