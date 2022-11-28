@@ -135,7 +135,7 @@
 | 133 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 134 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
 | 135 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 136 | [Crayta](games/c/crayta.md) | 4.18 | 
+| 136 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 137 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 138 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 139 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
@@ -165,7 +165,7 @@
 | 163 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 164 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 165 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
-| 166 | [Death Coming](games/d/death_coming.md) | 4.46 | 
+| 166 | [Death Coming](games/d/death_coming.md) | 4.47 | 
 | 167 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 168 | [Death's Door](games/d/death's_door.md) | 4.64 | 
 | 169 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
@@ -433,7 +433,7 @@
 | 431 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.60 | 
 | 432 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.03 | 
 | 433 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 434 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.74 | 
+| 434 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 435 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 436 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 437 | [No Straight Roads](games/n/no_straight_roads.md) | 4.70 | 
@@ -550,7 +550,7 @@
 | 548 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.61 | 
 | 549 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 550 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 551 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
+| 551 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
 | 552 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 553 | [Scorn](games/s/scorn.md) | 4.48 | 
 | 554 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
@@ -592,7 +592,7 @@
 | 590 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 591 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 592 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
-| 593 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
+| 593 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 594 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 595 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 596 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
@@ -634,7 +634,7 @@
 | 632 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.74 | 
 | 633 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
 | 634 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.67 | 
-| 635 | [Superliminal](games/s/superliminal.md) | 4.79 | 
+| 635 | [Superliminal](games/s/superliminal.md) | 4.80 | 
 | 636 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 637 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 638 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
@@ -660,7 +660,7 @@
 | 658 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 659 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 660 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 661 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 661 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
 | 662 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 663 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.85 | 
 | 664 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
