@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
-| 2 | [20XX](games/2/20xx.md) | 4.60 | 
+| 2 | [20XX](games/2/20xx.md) | 4.61 | 
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.33 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
@@ -47,7 +47,7 @@
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.55 | 
+| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
@@ -437,9 +437,9 @@
 | 435 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 436 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 437 | [No Straight Roads](games/n/no_straight_roads.md) | 4.70 | 
-| 438 | [NORCO](games/n/norco.md) | 4.57 | 
+| 438 | [NORCO](games/n/norco.md) | 4.58 | 
 | 439 | [Northgard](games/n/northgard.md) | 4.73 | 
-| 440 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.83 | 
+| 440 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.84 | 
 | 441 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.35 | 
 | 442 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 443 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
@@ -541,7 +541,7 @@
 | 539 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 540 | [Runbow](games/r/runbow.md) | 4.45 | 
 | 541 | [Sable](games/s/sable.md) | 4.57 | 
-| 542 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.83 | 
+| 542 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.84 | 
 | 543 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 544 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 545 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
@@ -639,7 +639,7 @@
 | 637 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 638 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
 | 639 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 640 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.48 | 
+| 640 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 641 | [Suzerain](games/s/suzerain.md) | 4.73 | 
 | 642 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
 | 643 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
