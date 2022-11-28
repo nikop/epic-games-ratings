@@ -16,7 +16,7 @@
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
-| 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
+| 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.61 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.02 | 
@@ -54,7 +54,7 @@
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
-| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.41 | 
+| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.42 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.33 | 
@@ -154,7 +154,7 @@
 | 152 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 153 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 154 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 155 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.48 | 
+| 155 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 
 | 156 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.62 | 
 | 157 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
 | 158 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
@@ -187,7 +187,7 @@
 | 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.40 | 
 | 186 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
-| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.72 | 
+| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.75 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 190 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 191 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
@@ -327,7 +327,7 @@
 | 325 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
 | 326 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 327 | [Inscryption](games/i/inscryption.md) | 4.86 | 
-| 328 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 328 | [INSIDE](games/i/inside.md) | 4.70 | 
 | 329 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
 | 330 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 331 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
@@ -595,7 +595,7 @@
 | 593 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 594 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 595 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
-| 596 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
+| 596 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 597 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 598 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
 | 599 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.37 | 
@@ -691,7 +691,7 @@
 | 689 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 690 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 691 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 692 | [The Surge 2](games/t/the_surge_2.md) | 4.19 | 
+| 692 | [The Surge 2](games/t/the_surge_2.md) | 4.20 | 
 | 693 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 694 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 695 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
@@ -781,7 +781,7 @@
 | 779 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.57 | 
 | 780 | [Warpips](games/w/warpips.md) | 4.57 | 
 | 781 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 782 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
+| 782 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 783 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
 | 784 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
 | 785 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 

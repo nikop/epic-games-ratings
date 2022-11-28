@@ -1,5 +1,5 @@
 # Watch Dogs Standard Edition
-Rating: 4.54 (1,912)  (as of 23.09.2022)  
+Rating: 4.55 (1,912)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -74,3 +74,4 @@ Rating: 4.54 (1,912)  (as of 23.09.2022)
 | 2022-10-22 | 4.54 | - |
 | 2022-10-25 | 4.54 | - |
 | 2022-10-26 | 4.54 | - |
+| 2022-11-28 | 4.55 | - |
