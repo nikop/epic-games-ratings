@@ -23,7 +23,7 @@
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 24 | [Among Trees](games/a/among_trees.md) | 4.37 | 
+| 24 | [Among Trees](games/a/among_trees.md) | 4.38 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
@@ -40,7 +40,7 @@
 | 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
 | 43 | [Ashen](games/a/ashen.md) | 4.30 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
@@ -68,7 +68,7 @@
 | 66 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 67 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
 | 68 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 
-| 69 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
+| 69 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
 | 70 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 71 | [Barony](games/b/barony.md) | 4.69 | 
 | 72 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.32 | 
@@ -90,7 +90,7 @@
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.44 | 
-| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
+| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.82 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -221,7 +221,7 @@
 | 219 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 220 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.82 | 
 | 221 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 222 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.71 | 
+| 222 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
 | 223 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 224 | [Far Cry](games/f/far_cry.md) | 4.42 | 
 | 225 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
@@ -423,7 +423,7 @@
 | 421 | [MythForce](games/m/mythforce.md) | 4.50 | 
 | 422 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 423 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
-| 424 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.07 | 
+| 424 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
 | 425 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
 | 426 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
 | 427 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
@@ -694,7 +694,7 @@
 | 692 | [The Surge 2](games/t/the_surge_2.md) | 4.19 | 
 | 693 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 694 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 695 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 695 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
 | 696 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 697 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 4.00 | 
 | 698 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
