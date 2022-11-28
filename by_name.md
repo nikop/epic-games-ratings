@@ -77,7 +77,7 @@
 | 75 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
 | 77 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.76 | 
-| 78 | [Before We Leave](games/b/before_we_leave.md) | 4.62 | 
+| 78 | [Before We Leave](games/b/before_we_leave.md) | 4.61 | 
 | 79 | [Beholder 3](games/b/beholder_3.md) | 4.45 | 
 | 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
 | 81 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
@@ -105,7 +105,7 @@
 | 103 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 104 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 105 | [Card Shark](games/c/card_shark.md) | 4.63 | 
-| 106 | [CARRION](games/c/carrion.md) | 4.67 | 
+| 106 | [CARRION](games/c/carrion.md) | 4.68 | 
 | 107 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 108 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
 | 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
@@ -171,7 +171,7 @@
 | 169 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 170 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.45 | 
 | 171 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 172 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.60 | 
+| 172 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.61 | 
 | 173 | [Democracy 4](games/d/democracy_4.md) | 4.36 | 
 | 174 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 175 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
@@ -206,7 +206,7 @@
 | 204 | [ELEX](games/e/elex.md) | 4.39 | 
 | 205 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
 | 206 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 207 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
+| 207 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 208 | [Encased](games/e/encased.md) | 4.37 | 
 | 209 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 210 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
@@ -267,7 +267,7 @@
 | 265 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 
 | 266 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 267 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 268 | [Ghostrunner](games/g/ghostrunner.md) | 4.71 | 
+| 268 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 269 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 270 | [GigaBash](games/g/gigabash.md) | 4.52 | 
 | 271 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
@@ -461,7 +461,7 @@
 | 459 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 460 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 461 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 462 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 462 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 463 | [Outward](games/o/outward.md) | 4.55 | 
 | 464 | [Overcooked](games/o/overcooked.md) | 4.68 | 
 | 465 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
@@ -669,7 +669,7 @@
 | 667 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
 | 668 | [The Fall](games/t/the_fall.md) | 4.27 | 
 | 669 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
-| 670 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.72 | 
+| 670 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.73 | 
 | 671 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
 | 672 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.95 | 
 | 673 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
