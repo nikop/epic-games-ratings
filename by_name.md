@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
-| 2 | [20XX](games/2/20xx.md) | 4.61 | 
+| 2 | [20XX](games/2/20xx.md) | 4.60 | 
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.33 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
@@ -32,7 +32,7 @@
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.40 | 
-| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
+| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.32 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.65 | 
@@ -85,7 +85,7 @@
 | 83 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 84 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
 | 85 | [Black Book](games/b/black_book.md) | 4.88 | 
-| 86 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.24 | 
+| 86 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 87 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
@@ -199,7 +199,7 @@
 | 197 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
 | 198 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 199 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 200 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 
+| 200 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
 | 201 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 202 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.77 | 
 | 203 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -671,7 +671,7 @@
 | 669 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 670 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.73 | 
 | 671 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
-| 672 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.95 | 
+| 672 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 
 | 673 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 674 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 675 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
@@ -750,10 +750,10 @@
 | 748 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.62 | 
 | 749 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
 | 750 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 751 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
+| 751 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 752 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.33 | 
 | 753 | [TUNIC](games/t/tunic.md) | 4.87 | 
-| 754 | [Twin Mirror](games/t/twin_mirror.md) | 4.23 | 
+| 754 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 755 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 756 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
 | 757 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.40 | 

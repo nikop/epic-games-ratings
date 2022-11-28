@@ -1,10 +1,10 @@
 {
   "ID": "4c7117cadb714722950338f02850fd8d",
   "Name": "20XX",
-  "Rating": 4.61,
+  "Rating": 4.6,
   "NumberOfRatings": 392,
   "FirstSeen": "2022-07-22T20:20:18.3366391+00:00",
-  "LastChanged": "2022-11-23T13:57:41.8292605+00:00",
+  "LastChanged": "2022-11-28T10:57:18.7632196+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:18.3366397+00:00",
@@ -545,12 +545,17 @@
       "Time": "2022-11-23T13:57:41.8292609+00:00",
       "Rating": 4.61,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T10:57:18.7632197+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game is Extremely Fun",
