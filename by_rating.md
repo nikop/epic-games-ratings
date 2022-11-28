@@ -246,33 +246,33 @@
 | 244 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 245 | [Operation: Tango](games/o/operation__tango.md) | 4.67 | 
 | 246 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
-| 247 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 248 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
-| 249 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
-| 250 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
-| 251 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 252 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 253 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 254 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 255 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.66 | 
-| 256 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
-| 257 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 258 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 259 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 260 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 261 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 262 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
-| 263 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
-| 264 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 265 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 266 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
-| 267 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
-| 268 | [Coromon](games/c/coromon.md) | 4.65 | 
-| 269 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
-| 270 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 271 | [APE OUT](games/a/ape_out.md) | 4.65 | 
-| 272 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
-| 273 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
+| 247 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.67 | 
+| 248 | [Eastward](games/e/eastward.md) | 4.67 | 
+| 249 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
+| 250 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
+| 251 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
+| 252 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
+| 253 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 254 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 255 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 256 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 257 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
+| 258 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 259 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 260 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 261 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 262 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 263 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 264 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
+| 265 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
+| 266 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 267 | [DOOM 3](games/d/doom_3.md) | 4.65 | 
+| 268 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
+| 269 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 270 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
+| 271 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
+| 272 | [APE OUT](games/a/ape_out.md) | 4.65 | 
+| 273 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
 | 274 | [Everything](games/e/everything.md) | 4.65 | 
 | 275 | [The Red Lantern](games/t/the_red_lantern.md) | 4.65 | 
 | 276 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 

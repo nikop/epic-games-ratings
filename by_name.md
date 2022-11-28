@@ -37,7 +37,7 @@
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.32 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.65 | 
 | 37 | [Aragami 2](games/a/aragami_2.md) | 4.56 | 
-| 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.65 | 
+| 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
@@ -633,7 +633,7 @@
 | 631 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
 | 632 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.74 | 
 | 633 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
-| 634 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.66 | 
+| 634 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.67 | 
 | 635 | [Superliminal](games/s/superliminal.md) | 4.79 | 
 | 636 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 637 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
