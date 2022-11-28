@@ -55,7 +55,7 @@
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.37 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.41 | 
-| 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
+| 56 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.33 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.21 | 
@@ -387,7 +387,7 @@
 | 385 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.06 | 
 | 386 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 387 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
-| 388 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 388 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
 | 389 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 390 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 391 | [Mago](games/m/mago.md) | 4.88 | 
@@ -595,7 +595,7 @@
 | 593 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 594 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 595 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
-| 596 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 596 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
 | 597 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 598 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
 | 599 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.37 | 

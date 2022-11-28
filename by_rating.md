@@ -18,13 +18,13 @@
 | 16 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 17 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
-| 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
-| 20 | [Black Book](games/b/black_book.md) | 4.88 | 
-| 21 | [Firework](games/f/firework.md) | 4.88 | 
-| 22 | [Mago](games/m/mago.md) | 4.88 | 
-| 23 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 24 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 25 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 19 | [Black Book](games/b/black_book.md) | 4.88 | 
+| 20 | [Firework](games/f/firework.md) | 4.88 | 
+| 21 | [Mago](games/m/mago.md) | 4.88 | 
+| 22 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
+| 23 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 25 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 26 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 27 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 28 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
@@ -294,19 +294,19 @@
 | 292 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.64 | 
 | 293 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
 | 294 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 295 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 296 | [Limbo](games/l/limbo.md) | 4.63 | 
-| 297 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 298 | [Transistor](games/t/transistor.md) | 4.63 | 
-| 299 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
-| 300 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.63 | 
-| 301 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 302 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
-| 303 | [Card Shark](games/c/card_shark.md) | 4.63 | 
-| 304 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
-| 305 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 306 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 307 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 295 | [Limbo](games/l/limbo.md) | 4.63 | 
+| 296 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 297 | [Transistor](games/t/transistor.md) | 4.63 | 
+| 298 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
+| 299 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.63 | 
+| 300 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
+| 301 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
+| 302 | [Card Shark](games/c/card_shark.md) | 4.63 | 
+| 303 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
+| 304 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 305 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 306 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 307 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 
 | 308 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 309 | [ABZU](games/a/abzu.md) | 4.62 | 
 | 310 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.62 | 
@@ -733,16 +733,16 @@
 | 731 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 732 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 733 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 734 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 735 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 736 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 737 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
-| 738 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
-| 739 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
-| 740 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
-| 741 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 742 | [Windbound](games/w/windbound.md) | 4.19 | 
-| 743 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 734 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
+| 735 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 736 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 737 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 738 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
+| 739 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
+| 740 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
+| 741 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
+| 742 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 743 | [Windbound](games/w/windbound.md) | 4.19 | 
 | 744 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
 | 745 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 
 | 746 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
