@@ -64,16 +64,16 @@
 | 62 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 63 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 64 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
-| 65 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.82 | 
-| 66 | [Quake](games/q/quake.md) | 4.82 | 
-| 67 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
-| 68 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.82 | 
-| 69 | [Huntdown](games/h/huntdown.md) | 4.82 | 
-| 70 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 71 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 72 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.81 | 
-| 73 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 74 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 65 | [Quake](games/q/quake.md) | 4.82 | 
+| 66 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
+| 67 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.82 | 
+| 68 | [Huntdown](games/h/huntdown.md) | 4.82 | 
+| 69 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 70 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 71 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.81 | 
+| 72 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
+| 73 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 74 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 
 | 75 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 76 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 77 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
@@ -555,20 +555,20 @@
 | 553 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
 | 554 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 555 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 556 | [Figment](games/f/figment.md) | 4.45 | 
-| 557 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
-| 558 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.45 | 
-| 559 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
-| 560 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.45 | 
-| 561 | [Beholder 3](games/b/beholder_3.md) | 4.45 | 
-| 562 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.45 | 
-| 563 | [Runbow](games/r/runbow.md) | 4.45 | 
-| 564 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 565 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 566 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 567 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 568 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 569 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
+| 556 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
+| 557 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.45 | 
+| 558 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
+| 559 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.45 | 
+| 560 | [Beholder 3](games/b/beholder_3.md) | 4.45 | 
+| 561 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.45 | 
+| 562 | [Runbow](games/r/runbow.md) | 4.45 | 
+| 563 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 564 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 565 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 566 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 567 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 568 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
+| 569 | [Figment](games/f/figment.md) | 4.44 | 
 | 570 | [Chorus](games/c/chorus.md) | 4.44 | 
 | 571 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 572 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
