@@ -223,7 +223,7 @@
 | 221 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 222 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
 | 223 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 224 | [Far Cry](games/f/far_cry.md) | 4.42 | 
+| 224 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 225 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
 | 226 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 227 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
@@ -611,7 +611,7 @@
 | 609 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 610 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 611 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
-| 612 | [Startup Panic](games/s/startup_panic.md) | 4.35 | 
+| 612 | [Startup Panic](games/s/startup_panic.md) | 4.37 | 
 | 613 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 614 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 615 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
@@ -660,7 +660,7 @@
 | 658 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 659 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 660 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 661 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
+| 661 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
 | 662 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 663 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.85 | 
 | 664 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
@@ -741,7 +741,7 @@
 | 739 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 740 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 741 | [Transistor](games/t/transistor.md) | 4.63 | 
-| 742 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
+| 742 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 743 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 744 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
 | 745 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
