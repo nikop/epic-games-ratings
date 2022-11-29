@@ -1,10 +1,10 @@
 {
   "ID": "39697c68e46b48d2b75e17bdc417d859",
   "Name": "Bridge Constructor The Walking Dead",
-  "Rating": 3.92,
+  "Rating": 3.91,
   "NumberOfRatings": 104,
   "FirstSeen": "2022-07-22T20:28:51.0308349+00:00",
-  "LastChanged": "2022-11-28T02:20:23.7295031+00:00",
+  "LastChanged": "2022-11-29T13:16:15.419247+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:51.0308351+00:00",
@@ -285,12 +285,17 @@
       "Time": "2022-11-28T02:20:23.7295032+00:00",
       "Rating": 3.92,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T13:16:15.4192472+00:00",
+      "Rating": 3.91,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
-      "Count": 28
+      "Count": 29
     }
   ]
 }
