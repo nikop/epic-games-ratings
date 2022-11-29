@@ -47,7 +47,7 @@
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.55 | 
+| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
@@ -204,13 +204,13 @@
 | 202 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.77 | 
 | 203 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 204 | [ELEX](games/e/elex.md) | 4.39 | 
-| 205 | [ELEX II](games/e/elex_ii.md) | 4.23 | 
+| 205 | [ELEX II](games/e/elex_ii.md) | 4.24 | 
 | 206 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 207 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 208 | [Encased](games/e/encased.md) | 4.37 | 
 | 209 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 210 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 211 | [EVE Online](games/e/eve_online.md) | 4.26 | 
+| 211 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 212 | [Everything](games/e/everything.md) | 4.63 | 
 | 213 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.38 | 
 | 214 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
@@ -641,7 +641,7 @@
 | 639 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 640 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 641 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 642 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
+| 642 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 643 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 644 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 645 | [Tacoma](games/t/tacoma.md) | 4.40 | 
@@ -666,7 +666,7 @@
 | 664 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
 | 665 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 666 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 667 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
+| 667 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 668 | [The Fall](games/t/the_fall.md) | 4.27 | 
 | 669 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 670 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.73 | 
@@ -787,7 +787,7 @@
 | 785 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 786 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 787 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 788 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.15 | 
+| 788 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
 | 789 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 790 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.76 | 
 | 791 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.47 | 
