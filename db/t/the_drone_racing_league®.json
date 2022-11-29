@@ -1,11 +1,11 @@
 {
   "ID": "b6aa6a98bb394a53870bd6b026fefd1d",
   "Name": "The Drone Racing League\u00AE",
-  "Rating": 4.5,
+  "Rating": 4.49,
   "NumberOfRatings": 36,
   "FirstSeen": "2022-07-22T20:20:23.4862856+00:00",
   "FirstSeenRating": "2022-07-30T13:30:57.2183097+00:00",
-  "LastChanged": "2022-11-28T07:57:25.2965226+00:00",
+  "LastChanged": "2022-11-29T02:18:11.4224088+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-30T13:30:57.2183099+00:00",
@@ -361,12 +361,17 @@
       "Time": "2022-11-28T07:57:25.2965228+00:00",
       "Rating": 4.5,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T02:18:11.422409+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game is Educational",
@@ -394,7 +399,7 @@
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 25
+      "Count": 27
     },
     {
       "Text": "This game is Great for Beginners",

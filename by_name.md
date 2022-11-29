@@ -45,9 +45,9 @@
 | 43 | [Ashen](games/a/ashen.md) | 4.30 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
+| 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.55 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
@@ -515,7 +515,7 @@
 | 513 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
 | 514 | [Relicta](games/r/relicta.md) | 4.14 | 
 | 515 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 516 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.85 | 
+| 516 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 517 | [Revita](games/r/revita.md) | 4.74 | 
 | 518 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 519 | [RiME](games/r/rime.md) | 4.60 | 
@@ -563,7 +563,7 @@
 | 561 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
 | 562 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 563 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 564 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.78 | 
+| 564 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.75 | 
 | 565 | [shapez](games/s/shapez.md) | 4.73 | 
 | 566 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 567 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 
@@ -660,7 +660,7 @@
 | 658 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 659 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 660 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 661 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
+| 661 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.49 | 
 | 662 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 663 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.85 | 
 | 664 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.79 | 
@@ -703,7 +703,7 @@
 | 701 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
 | 702 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 
 | 703 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.83 | 
-| 704 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
+| 704 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 
 | 705 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 706 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 707 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
@@ -742,7 +742,7 @@
 | 740 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 741 | [Transistor](games/t/transistor.md) | 4.63 | 
 | 742 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 743 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 
+| 743 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 744 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
 | 745 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 746 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.70 | 
@@ -782,7 +782,7 @@
 | 780 | [Warpips](games/w/warpips.md) | 4.57 | 
 | 781 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 782 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
-| 783 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
+| 783 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
 | 784 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
 | 785 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 786 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
@@ -790,7 +790,7 @@
 | 788 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.15 | 
 | 789 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 790 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.76 | 
-| 791 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.48 | 
+| 791 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.47 | 
 | 792 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 793 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 794 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
