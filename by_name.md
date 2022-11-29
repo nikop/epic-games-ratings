@@ -91,7 +91,7 @@
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.44 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.82 | 
-| 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
+| 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.44 | 
@@ -142,7 +142,7 @@
 | 140 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 141 | [CryoFall](games/c/cryofall.md) | 4.51 | 
 | 142 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 143 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.67 | 
+| 143 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
 | 144 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
 | 145 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 146 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
@@ -293,7 +293,7 @@
 | 291 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 292 | [Hammerting](games/h/hammerting.md) | 4.42 | 
 | 293 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 294 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.70 | 
+| 294 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
 | 295 | [Haven](games/h/haven.md) | 4.77 | 
 | 296 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 297 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
@@ -312,7 +312,7 @@
 | 310 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 311 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 312 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
-| 313 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 313 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
 | 314 | [House Party](games/h/house_party.md) | 4.30 | 
 | 315 | [Hue](games/h/hue.md) | 4.55 | 
 | 316 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
@@ -541,7 +541,7 @@
 | 539 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 540 | [Runbow](games/r/runbow.md) | 4.45 | 
 | 541 | [Sable](games/s/sable.md) | 4.57 | 
-| 542 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.84 | 
+| 542 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.83 | 
 | 543 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 544 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 545 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
@@ -645,7 +645,7 @@
 | 643 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 644 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 645 | [Tacoma](games/t/tacoma.md) | 4.40 | 
-| 646 | [Tails of Iron](games/t/tails_of_iron.md) | 4.75 | 
+| 646 | [Tails of Iron](games/t/tails_of_iron.md) | 4.76 | 
 | 647 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.70 | 
 | 648 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 649 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
@@ -698,7 +698,7 @@
 | 696 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 697 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 4.00 | 
 | 698 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
-| 699 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 699 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 
 | 700 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.75 | 
 | 701 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
 | 702 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 

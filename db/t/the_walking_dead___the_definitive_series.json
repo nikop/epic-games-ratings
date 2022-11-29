@@ -1,10 +1,10 @@
 {
   "ID": "b534830f4c524447bfd2266ce70cf8ab",
   "Name": "The Walking Dead : The Definitive Series",
-  "Rating": 4.86,
+  "Rating": 4.87,
   "NumberOfRatings": 663,
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2022-10-31T16:31:24.3220921+00:00",
+  "LastChanged": "2022-11-29T21:57:40.6320165+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:07.8066793+00:00",
@@ -630,6 +630,11 @@
       "Time": "2022-10-31T16:31:24.3220924+00:00",
       "Rating": 4.86,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T21:57:40.6320168+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -643,7 +648,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game is Highly Recommended",

@@ -1,10 +1,10 @@
 {
   "ID": "f541519f3d21457ba7dcf5b57f1014b2",
   "Name": "Crysis 3 Remastered",
-  "Rating": 4.67,
+  "Rating": 4.66,
   "NumberOfRatings": 494,
   "FirstSeen": "2022-07-22T20:32:55.830928+00:00",
-  "LastChanged": "2022-11-23T19:00:28.6958351+00:00",
+  "LastChanged": "2022-11-29T21:58:55.6006155+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:55.8309283+00:00",
@@ -440,12 +440,17 @@
       "Time": "2022-11-23T19:00:28.6958357+00:00",
       "Rating": 4.67,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T21:58:55.6006158+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 153
+      "Count": 154
     }
   ]
 }
