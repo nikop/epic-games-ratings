@@ -642,6 +642,10 @@
     {
       "Text": "This game has Challenging Combat",
       "Count": 20
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 20
     }
   ]
 }

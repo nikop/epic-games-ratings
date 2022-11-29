@@ -13,7 +13,7 @@
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
+| 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 
@@ -25,7 +25,7 @@
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 24 | [Among Trees](games/a/among_trees.md) | 4.38 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
+| 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
@@ -42,7 +42,7 @@
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
-| 43 | [Ashen](games/a/ashen.md) | 4.30 | 
+| 43 | [Ashen](games/a/ashen.md) | 4.31 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
@@ -57,7 +57,7 @@
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.38 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
-| 58 | [Automachef](games/a/automachef.md) | 4.33 | 
+| 58 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
@@ -124,7 +124,7 @@
 | 122 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.00 | 
 | 123 | [Colt Canyon](games/c/colt_canyon.md) | 4.55 | 
 | 124 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 125 | [Conarium](games/c/conarium.md) | 3.91 | 
+| 125 | [Conarium](games/c/conarium.md) | 3.93 | 
 | 126 | [Control](games/c/control.md) | 4.60 | 
 | 127 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 128 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
@@ -327,7 +327,7 @@
 | 325 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
 | 326 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 327 | [Inscryption](games/i/inscryption.md) | 4.86 | 
-| 328 | [INSIDE](games/i/inside.md) | 4.70 | 
+| 328 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 329 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
 | 330 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 331 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
@@ -775,7 +775,7 @@
 | 773 | [Warface](games/w/warface.md) | 3.93 | 
 | 774 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 775 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 776 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
+| 776 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 777 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
 | 778 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
 | 779 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.57 | 
