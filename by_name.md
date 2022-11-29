@@ -54,7 +54,7 @@
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
-| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.42 | 
+| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.38 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.33 | 
@@ -241,7 +241,7 @@
 | 239 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.62 | 
 | 240 | [Fez](games/f/fez.md) | 4.73 | 
 | 241 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
-| 242 | [Figment](games/f/figment.md) | 4.44 | 
+| 242 | [Figment](games/f/figment.md) | 4.45 | 
 | 243 | [Filament](games/f/filament.md) | 4.31 | 
 | 244 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 245 | [Firework](games/f/firework.md) | 4.88 | 
@@ -333,7 +333,7 @@
 | 331 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 332 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 333 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
-| 334 | [Ironcast](games/i/ironcast.md) | 3.91 | 
+| 334 | [Ironcast](games/i/ironcast.md) | 3.90 | 
 | 335 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 336 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 337 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
@@ -587,7 +587,7 @@
 | 585 | [SOMA](games/s/soma.md) | 4.64 | 
 | 586 | [Somerville](games/s/somerville.md) | 4.24 | 
 | 587 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 588 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
+| 588 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
 | 589 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 590 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 591 | [Souldiers](games/s/souldiers.md) | 4.55 | 
