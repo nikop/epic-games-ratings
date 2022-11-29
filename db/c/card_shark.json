@@ -1,11 +1,11 @@
 {
   "ID": "2cc23de0d8ca4785a0bc37cc95979462",
   "Name": "Card Shark",
-  "Rating": 4.63,
+  "Rating": 4.64,
   "NumberOfRatings": 21,
   "FirstSeen": "2022-07-22T20:29:35.9399807+00:00",
   "FirstSeenRating": "2022-08-19T11:03:13.5817816+00:00",
-  "LastChanged": "2022-11-22T22:58:17.8758379+00:00",
+  "LastChanged": "2022-11-29T16:59:28.5768107+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-19T11:03:13.5817818+00:00",
@@ -30,6 +30,11 @@
     {
       "Time": "2022-11-22T22:58:17.875838+00:00",
       "Rating": 4.63,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T16:59:28.5768108+00:00",
+      "Rating": 4.64,
       "NumberOfRatings": null
     }
   ],
