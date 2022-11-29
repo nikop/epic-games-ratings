@@ -16,7 +16,7 @@
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
-| 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 
+| 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.61 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.43 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.44 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.58 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
@@ -122,7 +122,7 @@
 | 120 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 121 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 122 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.00 | 
-| 123 | [Colt Canyon](games/c/colt_canyon.md) | 4.55 | 
+| 123 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
 | 124 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 125 | [Conarium](games/c/conarium.md) | 3.93 | 
 | 126 | [Control](games/c/control.md) | 4.60 | 
@@ -154,7 +154,7 @@
 | 152 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 153 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 154 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 155 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 
+| 155 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
 | 156 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 157 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
 | 158 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
@@ -299,7 +299,7 @@
 | 297 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 298 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 299 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
-| 300 | [Hellpoint](games/h/hellpoint.md) | 4.20 | 
+| 300 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
 | 301 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 302 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 303 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.54 | 
