@@ -702,12 +702,12 @@
 | 700 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 701 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 702 | [The Fall](games/t/the_fall.md) | 4.27 | 
-| 703 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
-| 704 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 705 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
-| 706 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.27 | 
-| 707 | [EVE Online](games/e/eve_online.md) | 4.26 | 
-| 708 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 703 | [Parkitect](games/p/parkitect.md) | 4.27 | 
+| 704 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
+| 705 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.27 | 
+| 706 | [EVE Online](games/e/eve_online.md) | 4.26 | 
+| 707 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 708 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.26 | 
 | 709 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 710 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 711 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
@@ -752,10 +752,10 @@
 | 750 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 751 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 752 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
-| 753 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 754 | [OVERPASS™](games/o/overpass™.md) | 4.17 | 
-| 755 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
-| 756 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 753 | [Gone Home](games/g/gone_home.md) | 4.17 | 
+| 754 | [Family Man](games/f/family_man.md) | 4.17 | 
+| 755 | [OVERPASS™](games/o/overpass™.md) | 4.17 | 
+| 756 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 757 | [Submerged](games/s/submerged.md) | 4.16 | 
 | 758 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.15 | 
 | 759 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.15 | 

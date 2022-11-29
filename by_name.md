@@ -279,7 +279,7 @@
 | 277 | [Godlike Burger](games/g/godlike_burger.md) | 4.19 | 
 | 278 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.93 | 
 | 279 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 280 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 280 | [Gone Home](games/g/gone_home.md) | 4.17 | 
 | 281 | [Good Company](games/g/good_company.md) | 4.43 | 
 | 282 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 283 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
@@ -733,7 +733,7 @@
 | 731 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
 | 732 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
 | 733 | [Townscaper](games/t/townscaper.md) | 4.72 | 
-| 734 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
+| 734 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.26 | 
 | 735 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 736 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 
 | 737 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
