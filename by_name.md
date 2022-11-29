@@ -268,7 +268,7 @@
 | 266 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 267 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
 | 268 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 269 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 269 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 
 | 270 | [GigaBash](games/g/gigabash.md) | 4.52 | 
 | 271 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 272 | [GNOG](games/g/gnog.md) | 4.64 | 
@@ -337,7 +337,7 @@
 | 335 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 336 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 337 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 338 | [Journey](games/j/journey.md) | 4.77 | 
+| 338 | [Journey](games/j/journey.md) | 4.78 | 
 | 339 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 340 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 341 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
@@ -404,10 +404,10 @@
 | 402 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 403 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 404 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 405 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.44 | 
+| 405 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 
 | 406 | [Minit](games/m/minit.md) | 4.55 | 
 | 407 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
-| 408 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 408 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
 | 409 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 410 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 411 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
@@ -724,7 +724,7 @@
 | 722 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 723 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 724 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 725 | [Torchlight](games/t/torchlight.md) | 4.36 | 
+| 725 | [Torchlight](games/t/torchlight.md) | 4.37 | 
 | 726 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 727 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 728 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
