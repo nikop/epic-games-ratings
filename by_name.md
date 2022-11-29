@@ -78,7 +78,7 @@
 | 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
 | 77 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.76 | 
 | 78 | [Before We Leave](games/b/before_we_leave.md) | 4.61 | 
-| 79 | [Beholder 3](games/b/beholder_3.md) | 4.45 | 
+| 79 | [Beholder 3](games/b/beholder_3.md) | 4.47 | 
 | 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
 | 81 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 82 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
@@ -187,7 +187,7 @@
 | 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.39 | 
 | 186 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
-| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.75 | 
+| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.76 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 190 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 191 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
@@ -482,7 +482,7 @@
 | 480 | [Patron](games/p/patron.md) | 3.90 | 
 | 481 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 482 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 483 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 483 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
 | 484 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
 | 485 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 486 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
@@ -502,7 +502,7 @@
 | 500 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 501 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 502 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
-| 503 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
+| 503 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.47 | 
 | 504 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 505 | [Rayman Origins](games/r/rayman_origins.md) | 4.78 | 
 | 506 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
@@ -703,7 +703,7 @@
 | 701 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
 | 702 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 
 | 703 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.83 | 
-| 704 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 
+| 704 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 705 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 706 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 707 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 

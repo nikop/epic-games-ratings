@@ -6,11 +6,11 @@
 | 4 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 5 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 6 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
-| 7 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 
-| 8 | [God of War](games/g/god_of_war.md) | 4.90 | 
-| 9 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 10 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
-| 11 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
+| 7 | [God of War](games/g/god_of_war.md) | 4.90 | 
+| 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
+| 9 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
+| 10 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
+| 11 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 13 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
 | 14 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
@@ -114,18 +114,18 @@
 | 112 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 113 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.76 | 
 | 114 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.76 | 
-| 115 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 116 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 117 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 119 | [Diabotical](games/d/diabotical.md) | 4.75 | 
-| 120 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
-| 121 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 122 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
-| 123 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
-| 124 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
-| 125 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.75 | 
-| 126 | [Dishonored 2](games/d/dishonored_2.md) | 4.75 | 
+| 115 | [Dishonored 2](games/d/dishonored_2.md) | 4.76 | 
+| 116 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 117 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 118 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 119 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 120 | [Diabotical](games/d/diabotical.md) | 4.75 | 
+| 121 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 122 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 123 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
+| 124 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
+| 125 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
+| 126 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.75 | 
 | 127 | [King of Retail](games/k/king_of_retail.md) | 4.75 | 
 | 128 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.75 | 
 | 129 | [SpiderHeck](games/s/spiderheck.md) | 4.75 | 
@@ -454,20 +454,20 @@
 | 452 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 453 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 454 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 455 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 456 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
-| 457 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
-| 458 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 459 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 460 | [Horace](games/h/horace.md) | 4.53 | 
-| 461 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
-| 462 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 463 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 464 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 465 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 466 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 467 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 468 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 455 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
+| 456 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
+| 457 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 458 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 459 | [Horace](games/h/horace.md) | 4.53 | 
+| 460 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
+| 461 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 462 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 463 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
+| 464 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 465 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 466 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 467 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 468 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
 | 469 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 470 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 471 | [RUINER](games/r/ruiner.md) | 4.52 | 
@@ -531,36 +531,36 @@
 | 529 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 530 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 531 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 532 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
-| 533 | [Death Coming](games/d/death_coming.md) | 4.47 | 
-| 534 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.47 | 
-| 535 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
-| 536 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
-| 537 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 538 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 539 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 540 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 541 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
-| 542 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
-| 543 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
-| 544 | [SMITE](games/s/smite.md) | 4.45 | 
-| 545 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 546 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 547 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
-| 548 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 549 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 550 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 551 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
-| 552 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 553 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 554 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 555 | [Figment](games/f/figment.md) | 4.45 | 
-| 556 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
-| 557 | [Chorus](games/c/chorus.md) | 4.45 | 
-| 558 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.45 | 
-| 559 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
-| 560 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.45 | 
-| 561 | [Beholder 3](games/b/beholder_3.md) | 4.45 | 
+| 532 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.47 | 
+| 533 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
+| 534 | [Death Coming](games/d/death_coming.md) | 4.47 | 
+| 535 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.47 | 
+| 536 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
+| 537 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
+| 538 | [Beholder 3](games/b/beholder_3.md) | 4.47 | 
+| 539 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 540 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 541 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 542 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 543 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
+| 544 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
+| 545 | [SMITE](games/s/smite.md) | 4.45 | 
+| 546 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 547 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 548 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
+| 549 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 550 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 551 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 552 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
+| 553 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 554 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 555 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
+| 556 | [Figment](games/f/figment.md) | 4.45 | 
+| 557 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
+| 558 | [Chorus](games/c/chorus.md) | 4.45 | 
+| 559 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.45 | 
+| 560 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
+| 561 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.45 | 
 | 562 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.45 | 
 | 563 | [Runbow](games/r/runbow.md) | 4.45 | 
 | 564 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
