@@ -43,7 +43,7 @@
 | 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
 | 43 | [Ashen](games/a/ashen.md) | 4.31 | 
-| 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
+| 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
@@ -61,7 +61,7 @@
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
-| 62 | [Aztez](games/a/aztez.md) | 4.52 | 
+| 62 | [Aztez](games/a/aztez.md) | 4.51 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 64 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 65 | [Bad North](games/b/bad_north.md) | 4.68 | 
@@ -99,7 +99,7 @@
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 99 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
-| 100 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.28 | 
+| 100 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 
 | 101 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
 | 102 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.08 | 
 | 103 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
@@ -149,7 +149,7 @@
 | 147 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 148 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 149 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
-| 150 | [Dark Deception](games/d/dark_deception.md) | 4.61 | 
+| 150 | [Dark Deception](games/d/dark_deception.md) | 4.56 | 
 | 151 | [Dark Deity](games/d/dark_deity.md) | 4.14 | 
 | 152 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 153 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
@@ -353,7 +353,7 @@
 | 351 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
 | 352 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.84 | 
 | 353 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.70 | 
-| 354 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
+| 354 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
 | 355 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.73 | 
 | 356 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 357 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
@@ -374,7 +374,7 @@
 | 372 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 373 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 374 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
-| 375 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
+| 375 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 376 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 377 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 378 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 
@@ -431,7 +431,7 @@
 | 429 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
 | 430 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 431 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.60 | 
-| 432 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.03 | 
+| 432 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.02 | 
 | 433 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 434 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 435 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -559,14 +559,14 @@
 | 557 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 558 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 559 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
-| 560 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
+| 560 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 561 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
 | 562 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 563 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 564 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.75 | 
 | 565 | [shapez](games/s/shapez.md) | 4.73 | 
 | 566 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 567 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 
+| 567 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.18 | 
 | 568 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
 | 569 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 570 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.41 | 
@@ -788,7 +788,7 @@
 | 786 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 787 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 788 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
-| 789 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
+| 789 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
 | 790 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.76 | 
 | 791 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.47 | 
 | 792 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
