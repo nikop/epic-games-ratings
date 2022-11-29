@@ -58,7 +58,7 @@
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.33 | 
-| 59 | [Aven Colony](games/a/aven_colony.md) | 4.21 | 
+| 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.52 | 
@@ -293,7 +293,7 @@
 | 291 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 292 | [Hammerting](games/h/hammerting.md) | 4.42 | 
 | 293 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 294 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
+| 294 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.70 | 
 | 295 | [Haven](games/h/haven.md) | 4.77 | 
 | 296 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 297 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
@@ -630,7 +630,7 @@
 | 628 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.67 | 
 | 629 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
 | 630 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 631 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
+| 631 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
 | 632 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.69 | 
 | 633 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
 | 634 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.67 | 
