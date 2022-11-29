@@ -351,7 +351,7 @@
 | 349 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
 | 350 | [King of Retail](games/k/king_of_retail.md) | 4.75 | 
 | 351 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
-| 352 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.83 | 
+| 352 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.84 | 
 | 353 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.70 | 
 | 354 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 
 | 355 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.73 | 
@@ -378,7 +378,7 @@
 | 376 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 377 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 378 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 
-| 379 | [Limbo](games/l/limbo.md) | 4.64 | 
+| 379 | [Limbo](games/l/limbo.md) | 4.63 | 
 | 380 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
 | 381 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 
 | 382 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
@@ -514,7 +514,7 @@
 | 512 | [Redout 2](games/r/redout_2.md) | 4.54 | 
 | 513 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
 | 514 | [Relicta](games/r/relicta.md) | 4.14 | 
-| 515 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 515 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
 | 516 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 517 | [Revita](games/r/revita.md) | 4.74 | 
 | 518 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
@@ -703,7 +703,7 @@
 | 701 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
 | 702 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 
 | 703 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.83 | 
-| 704 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
+| 704 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 
 | 705 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 706 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 707 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
@@ -714,7 +714,7 @@
 | 712 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 713 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 714 | [Timberborn](games/t/timberborn.md) | 4.71 | 
-| 715 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.44 | 
+| 715 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 716 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 717 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.65 | 
 | 718 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.31 | 
@@ -755,7 +755,7 @@
 | 753 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 754 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 755 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 756 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
+| 756 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
 | 757 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.40 | 
 | 758 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 759 | [UnMetal](games/u/unmetal.md) | 4.50 | 
