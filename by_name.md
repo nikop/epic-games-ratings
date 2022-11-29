@@ -90,11 +90,11 @@
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.44 | 
-| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.82 | 
+| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.44 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.45 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.58 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
@@ -226,7 +226,7 @@
 | 224 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 225 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
 | 226 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 227 | [FAR CRY 4](games/f/far_cry_4.md) | 4.65 | 
+| 227 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 228 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 229 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 230 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
@@ -447,7 +447,7 @@
 | 445 | [Observation](games/o/observation.md) | 4.54 | 
 | 446 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
 | 447 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.81 | 
-| 448 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
+| 448 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.74 | 
 | 449 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
 | 450 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 451 | [Old World](games/o/old_world.md) | 4.64 | 
@@ -496,7 +496,7 @@
 | 494 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 495 | [Prey](games/p/prey.md) | 4.61 | 
 | 496 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 497 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.38 | 
+| 497 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.39 | 
 | 498 | [Quake](games/q/quake.md) | 4.82 | 
 | 499 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 500 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
@@ -743,7 +743,7 @@
 | 741 | [Transistor](games/t/transistor.md) | 4.63 | 
 | 742 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 743 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
-| 744 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
+| 744 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
 | 745 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 746 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.70 | 
 | 747 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
@@ -771,7 +771,7 @@
 | 769 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 770 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
 | 771 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 772 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
+| 772 | [War Mongrels](games/w/war_mongrels.md) | 4.27 | 
 | 773 | [Warface](games/w/warface.md) | 3.93 | 
 | 774 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 775 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
