@@ -46,20 +46,20 @@
 | 44 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 45 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 46 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 47 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.84 | 
-| 48 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.84 | 
-| 49 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 50 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
-| 51 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
-| 52 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 53 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
-| 54 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.83 | 
-| 55 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
-| 56 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
-| 57 | [Grindstone](games/g/grindstone.md) | 4.83 | 
-| 58 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.83 | 
-| 59 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.83 | 
-| 60 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.83 | 
+| 47 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.84 | 
+| 48 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.84 | 
+| 49 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.84 | 
+| 50 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
+| 51 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 52 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
+| 53 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
+| 54 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
+| 55 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.83 | 
+| 56 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
+| 57 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
+| 58 | [Grindstone](games/g/grindstone.md) | 4.83 | 
+| 59 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.83 | 
+| 60 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.83 | 
 | 61 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 63 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
@@ -334,26 +334,26 @@
 | 332 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 333 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
 | 334 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 335 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
-| 336 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
-| 337 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
-| 338 | [Before We Leave](games/b/before_we_leave.md) | 4.61 | 
-| 339 | [Dark Deception](games/d/dark_deception.md) | 4.61 | 
-| 340 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.61 | 
-| 341 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.61 | 
-| 342 | [Darkwood](games/d/darkwood.md) | 4.61 | 
-| 343 | [STG Football](games/s/stg_football.md) | 4.61 | 
-| 344 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
-| 345 | [Control](games/c/control.md) | 4.60 | 
-| 346 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 347 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 348 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 349 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 350 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
-| 351 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
-| 352 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 353 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
-| 354 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 335 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
+| 336 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
+| 337 | [Before We Leave](games/b/before_we_leave.md) | 4.61 | 
+| 338 | [Dark Deception](games/d/dark_deception.md) | 4.61 | 
+| 339 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.61 | 
+| 340 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.61 | 
+| 341 | [Darkwood](games/d/darkwood.md) | 4.61 | 
+| 342 | [STG Football](games/s/stg_football.md) | 4.61 | 
+| 343 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
+| 344 | [Control](games/c/control.md) | 4.60 | 
+| 345 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
+| 346 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 347 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 348 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 349 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
+| 350 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
+| 351 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 352 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.60 | 
+| 353 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 354 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
 | 355 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
 | 356 | [Road 96](games/r/road_96.md) | 4.60 | 
 | 357 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
@@ -456,18 +456,18 @@
 | 454 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 455 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 456 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
-| 457 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 458 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 459 | [Horace](games/h/horace.md) | 4.53 | 
-| 460 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
-| 461 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 462 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 463 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 464 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 465 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 466 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 467 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 468 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 457 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
+| 458 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 459 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 460 | [Horace](games/h/horace.md) | 4.53 | 
+| 461 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
+| 462 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 463 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 464 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
+| 465 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 466 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 467 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 468 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 469 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 470 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 471 | [RUINER](games/r/ruiner.md) | 4.52 | 
@@ -689,11 +689,11 @@
 | 687 | [Ashen](games/a/ashen.md) | 4.30 | 
 | 688 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 689 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.30 | 
-| 690 | [Rage 2](games/r/rage_2.md) | 4.29 | 
-| 691 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 692 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 693 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
-| 694 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 690 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
+| 691 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 692 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
+| 693 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 694 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 695 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
 | 696 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 697 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.28 | 
@@ -774,8 +774,8 @@
 | 772 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 773 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
 | 774 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 775 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 776 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
+| 775 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 776 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 777 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.08 | 
 | 778 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
 | 779 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 

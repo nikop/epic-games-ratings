@@ -40,7 +40,7 @@
 | 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
+| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
 | 43 | [Ashen](games/a/ashen.md) | 4.30 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
@@ -246,7 +246,7 @@
 | 244 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 245 | [Firework](games/f/firework.md) | 4.88 | 
 | 246 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 
-| 247 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
+| 247 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
 | 248 | [Flatout](games/f/flatout.md) | 4.05 | 
 | 249 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
 | 250 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
@@ -374,7 +374,7 @@
 | 372 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 373 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 374 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
-| 375 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 375 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
 | 376 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 377 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 378 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 
@@ -396,7 +396,7 @@
 | 394 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.15 | 
 | 395 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 396 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 397 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.83 | 
+| 397 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.84 | 
 | 398 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 399 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 400 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
@@ -498,7 +498,7 @@
 | 496 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 497 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.38 | 
 | 498 | [Quake](games/q/quake.md) | 4.82 | 
-| 499 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 499 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 500 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 501 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 502 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
