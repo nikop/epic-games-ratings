@@ -250,7 +250,7 @@
 | 248 | [Flatout](games/f/flatout.md) | 4.05 | 
 | 249 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
 | 250 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.74 | 
+| 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 252 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 253 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 254 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -367,7 +367,7 @@
 | 365 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 366 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
 | 367 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 368 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
+| 368 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
 | 369 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 370 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 371 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
@@ -556,7 +556,7 @@
 | 554 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
 | 555 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
 | 556 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
-| 557 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
+| 557 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 558 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 559 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
 | 560 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
@@ -631,7 +631,7 @@
 | 629 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
 | 630 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 631 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
-| 632 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.69 | 
+| 632 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.70 | 
 | 633 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
 | 634 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.67 | 
 | 635 | [Superliminal](games/s/superliminal.md) | 4.80 | 
@@ -680,7 +680,7 @@
 | 678 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
 | 679 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
 | 680 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 681 | [The Medium](games/t/the_medium.md) | 4.59 | 
+| 681 | [The Medium](games/t/the_medium.md) | 4.57 | 
 | 682 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 683 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 684 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
@@ -703,7 +703,7 @@
 | 701 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
 | 702 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 
 | 703 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.83 | 
-| 704 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 
+| 704 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 705 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 706 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 707 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
