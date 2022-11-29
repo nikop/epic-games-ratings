@@ -35,7 +35,7 @@
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.32 | 
-| 36 | [APE OUT](games/a/ape_out.md) | 4.65 | 
+| 36 | [APE OUT](games/a/ape_out.md) | 4.66 | 
 | 37 | [Aragami 2](games/a/aragami_2.md) | 4.56 | 
 | 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
@@ -187,7 +187,7 @@
 | 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.39 | 
 | 186 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
-| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 
+| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 190 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 191 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
@@ -417,7 +417,7 @@
 | 415 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 416 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 417 | [Mutazione](games/m/mutazione.md) | 4.64 | 
-| 418 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.41 | 
+| 418 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
 | 419 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 420 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 421 | [MythForce](games/m/mythforce.md) | 4.50 | 
