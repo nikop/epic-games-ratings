@@ -113,20 +113,20 @@
 | 111 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 112 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 113 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.76 | 
-| 114 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.76 | 
-| 115 | [Tails of Iron](games/t/tails_of_iron.md) | 4.76 | 
-| 116 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
-| 117 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 119 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 120 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 121 | [Diabotical](games/d/diabotical.md) | 4.75 | 
-| 122 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
-| 123 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
-| 124 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 125 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
-| 126 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
-| 127 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.75 | 
+| 114 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.76 | 
+| 115 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.76 | 
+| 116 | [Tails of Iron](games/t/tails_of_iron.md) | 4.76 | 
+| 117 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
+| 118 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 120 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 121 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 122 | [Diabotical](games/d/diabotical.md) | 4.75 | 
+| 123 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
+| 124 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 125 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 126 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
+| 127 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
 | 128 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 129 | [King of Retail](games/k/king_of_retail.md) | 4.75 | 
 | 130 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.75 | 
@@ -673,11 +673,11 @@
 | 671 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 672 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.33 | 
 | 673 | [Imagine Earth](games/i/imagine_earth.md) | 4.33 | 
-| 674 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.32 | 
-| 675 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.32 | 
-| 676 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.32 | 
-| 677 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
-| 678 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 674 | [Vampyr](games/v/vampyr.md) | 4.32 | 
+| 675 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.32 | 
+| 676 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.32 | 
+| 677 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.32 | 
+| 678 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 679 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 680 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 681 | [Ashen](games/a/ashen.md) | 4.31 | 

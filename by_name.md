@@ -699,7 +699,7 @@
 | 697 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 4.00 | 
 | 698 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
 | 699 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 
-| 700 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.75 | 
+| 700 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.76 | 
 | 701 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
 | 702 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 
 | 703 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.83 | 
@@ -766,7 +766,7 @@
 | 764 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.78 | 
 | 765 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 766 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
-| 767 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 767 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 768 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 769 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 770 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
