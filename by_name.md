@@ -150,7 +150,7 @@
 | 148 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 149 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
 | 150 | [Dark Deception](games/d/dark_deception.md) | 4.56 | 
-| 151 | [Dark Deity](games/d/dark_deity.md) | 4.14 | 
+| 151 | [Dark Deity](games/d/dark_deity.md) | 4.15 | 
 | 152 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 153 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 154 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -260,7 +260,7 @@
 | 258 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 259 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
 | 260 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.49 | 
-| 261 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
+| 261 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 262 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
 | 263 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 264 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
@@ -615,7 +615,7 @@
 | 613 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 614 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 615 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
-| 616 | [STG Football](games/s/stg_football.md) | 4.61 | 
+| 616 | [STG Football](games/s/stg_football.md) | 4.57 | 
 | 617 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 618 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 619 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
