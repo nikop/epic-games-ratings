@@ -1,10 +1,10 @@
 {
   "ID": "nautilus",
   "Name": "Vampyr",
-  "Rating": 4.32,
+  "Rating": 4.31,
   "NumberOfRatings": 5106,
   "FirstSeen": "2022-07-22T20:29:20.3532845+00:00",
-  "LastChanged": "2022-11-29T22:57:53.626105+00:00",
+  "LastChanged": "2022-11-30T07:58:11.4837459+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:20.353285+00:00",
@@ -1105,6 +1105,11 @@
       "Time": "2022-11-29T22:57:53.6261051+00:00",
       "Rating": 4.32,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T07:58:11.483746+00:00",
+      "Rating": 4.31,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -1142,7 +1147,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 22
+      "Count": 23
     }
   ]
 }

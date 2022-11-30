@@ -558,7 +558,7 @@
 | 556 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 557 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 558 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 559 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
+| 559 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.76 | 
 | 560 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 561 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
 | 562 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
@@ -630,7 +630,7 @@
 | 628 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.67 | 
 | 629 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
 | 630 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 631 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
+| 631 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
 | 632 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.70 | 
 | 633 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
 | 634 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.67 | 
@@ -724,7 +724,7 @@
 | 722 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
 | 723 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 724 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 725 | [Torchlight](games/t/torchlight.md) | 4.37 | 
+| 725 | [Torchlight](games/t/torchlight.md) | 4.38 | 
 | 726 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 727 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 728 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
@@ -766,7 +766,7 @@
 | 764 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.78 | 
 | 765 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 766 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
-| 767 | [Vampyr](games/v/vampyr.md) | 4.32 | 
+| 767 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 768 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 769 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 770 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
