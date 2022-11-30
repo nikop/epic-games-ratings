@@ -43,7 +43,7 @@
 | 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
 | 43 | [Ashen](games/a/ashen.md) | 4.30 | 
-| 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
+| 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
@@ -181,7 +181,7 @@
 | 179 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
 | 180 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 181 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 182 | [Diabotical](games/d/diabotical.md) | 4.75 | 
+| 182 | [Diabotical](games/d/diabotical.md) | 4.76 | 
 | 183 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 184 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
 | 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.39 | 
@@ -439,7 +439,7 @@
 | 437 | [No Straight Roads](games/n/no_straight_roads.md) | 4.70 | 
 | 438 | [NORCO](games/n/norco.md) | 4.58 | 
 | 439 | [Northgard](games/n/northgard.md) | 4.73 | 
-| 440 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.84 | 
+| 440 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
 | 441 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.35 | 
 | 442 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 443 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
@@ -498,7 +498,7 @@
 | 496 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 497 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.39 | 
 | 498 | [Quake](games/q/quake.md) | 4.82 | 
-| 499 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 499 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 500 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 501 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 502 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
@@ -632,7 +632,7 @@
 | 630 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 631 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
 | 632 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.70 | 
-| 633 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
+| 633 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
 | 634 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.67 | 
 | 635 | [Superliminal](games/s/superliminal.md) | 4.80 | 
 | 636 | [Supraland](games/s/supraland.md) | 4.61 | 
@@ -764,7 +764,7 @@
 | 762 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 763 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 
 | 764 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.83 | 
-| 765 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.78 | 
+| 765 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.79 | 
 | 766 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 767 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
 | 768 | [Vampyr](games/v/vampyr.md) | 4.31 | 
@@ -803,7 +803,7 @@
 | 801 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 802 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 803 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
-| 804 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
+| 804 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 805 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
 | 806 | [WRC Generations](games/w/wrc_generations.md) | 4.50 | 
 | 807 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
