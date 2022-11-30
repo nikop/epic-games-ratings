@@ -31,7 +31,7 @@
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
-| 32 | [Anno 2070](games/a/anno_2070.md) | 4.40 | 
+| 32 | [Anno 2070](games/a/anno_2070.md) | 4.41 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.32 | 
@@ -54,7 +54,7 @@
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.36 | 
-| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.40 | 
+| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.39 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.34 | 
@@ -76,7 +76,7 @@
 | 74 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 75 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
-| 77 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.76 | 
+| 77 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
 | 78 | [Before We Leave](games/b/before_we_leave.md) | 4.61 | 
 | 79 | [Beholder 3](games/b/beholder_3.md) | 4.47 | 
 | 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
@@ -217,7 +217,7 @@
 | 215 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 216 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 217 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
-| 218 | [Faeria](games/f/faeria.md) | 4.43 | 
+| 218 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 219 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 220 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.82 | 
 | 221 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
@@ -334,7 +334,7 @@
 | 332 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 333 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
 | 334 | [Ironcast](games/i/ironcast.md) | 3.90 | 
-| 335 | [Isonzo](games/i/isonzo.md) | 4.57 | 
+| 335 | [Isonzo](games/i/isonzo.md) | 4.58 | 
 | 336 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 337 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 338 | [Journey](games/j/journey.md) | 4.78 | 
@@ -367,7 +367,7 @@
 | 365 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 366 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
 | 367 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 368 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
+| 368 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 369 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 370 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 371 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
@@ -709,7 +709,7 @@
 | 707 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
 | 708 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 709 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
-| 710 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
+| 710 | [This Is The Police](games/t/this_is_the_police.md) | 4.71 | 
 | 711 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 712 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 713 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
@@ -757,7 +757,7 @@
 | 755 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 756 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
 | 757 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.40 | 
-| 758 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
+| 758 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
 | 759 | [UnMetal](games/u/unmetal.md) | 4.50 | 
 | 760 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.51 | 
 | 761 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
