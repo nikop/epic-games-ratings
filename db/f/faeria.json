@@ -1,10 +1,10 @@
 {
   "ID": "f9c2aedaff8442b286fbd026948b9f09",
   "Name": "Faeria",
-  "Rating": 4.42,
+  "Rating": 4.43,
   "NumberOfRatings": 194,
   "FirstSeen": "2022-07-22T20:17:47.9455282+00:00",
-  "LastChanged": "2022-11-30T10:56:57.0651424+00:00",
+  "LastChanged": "2022-11-30T20:56:48.0349958+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:47.9455285+00:00",
@@ -385,6 +385,11 @@
       "Time": "2022-11-30T10:56:57.0651502+00:00",
       "Rating": 4.42,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T20:56:48.034996+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -406,7 +411,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game is Extremely Fun",

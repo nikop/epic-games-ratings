@@ -23,7 +23,7 @@
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 24 | [Among Trees](games/a/among_trees.md) | 4.38 | 
+| 24 | [Among Trees](games/a/among_trees.md) | 4.36 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
@@ -217,7 +217,7 @@
 | 215 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 216 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 217 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
-| 218 | [Faeria](games/f/faeria.md) | 4.42 | 
+| 218 | [Faeria](games/f/faeria.md) | 4.43 | 
 | 219 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
 | 220 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.83 | 
 | 221 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
@@ -592,11 +592,11 @@
 | 590 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 591 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 592 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
-| 593 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
+| 593 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 594 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 595 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 596 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 597 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 597 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 598 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
 | 599 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.39 | 
 | 600 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
@@ -802,7 +802,7 @@
 | 800 | [World of Goo](games/w/world_of_goo.md) | 4.68 | 
 | 801 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 802 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 803 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 803 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 804 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 
 | 805 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
 | 806 | [WRC Generations](games/w/wrc_generations.md) | 4.50 | 
