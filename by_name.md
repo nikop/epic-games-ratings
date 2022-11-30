@@ -28,7 +28,7 @@
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
+| 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.41 | 
@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.45 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.46 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.58 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
@@ -446,7 +446,7 @@
 | 444 | [Obduction](games/o/obduction.md) | 4.09 | 
 | 445 | [Observation](games/o/observation.md) | 4.54 | 
 | 446 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
-| 447 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.81 | 
+| 447 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
 | 448 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.74 | 
 | 449 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
 | 450 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
@@ -482,7 +482,7 @@
 | 480 | [Patron](games/p/patron.md) | 3.90 | 
 | 481 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 482 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 483 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 483 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
 | 484 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
 | 485 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 486 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
@@ -612,7 +612,7 @@
 | 610 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 611 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 612 | [Startup Panic](games/s/startup_panic.md) | 4.37 | 
-| 613 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 613 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 614 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 615 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
 | 616 | [STG Football](games/s/stg_football.md) | 4.58 | 
