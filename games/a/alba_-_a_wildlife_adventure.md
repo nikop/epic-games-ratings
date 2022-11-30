@@ -1,5 +1,5 @@
 # Alba - A Wildlife Adventure
-Rating: 4.61 (-)  (as of 23.09.2022)  
+Rating: 4.62 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,3 +12,4 @@ Rating: 4.61 (-)  (as of 23.09.2022)
 | 2022-11-21 | 4.61 | - |
 | 2022-11-22 | 4.62 | - |
 | 2022-11-24 | 4.61 | - |
+| 2022-11-30 | 4.62 | - |

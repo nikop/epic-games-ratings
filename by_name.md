@@ -17,7 +17,7 @@
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
-| 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.61 | 
+| 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
@@ -187,7 +187,7 @@
 | 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.39 | 
 | 186 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
-| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
+| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 190 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 191 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
@@ -210,7 +210,7 @@
 | 208 | [Encased](games/e/encased.md) | 4.37 | 
 | 209 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 210 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 211 | [EVE Online](games/e/eve_online.md) | 4.26 | 
+| 211 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 212 | [Everything](games/e/everything.md) | 4.63 | 
 | 213 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.38 | 
 | 214 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
@@ -219,7 +219,7 @@
 | 217 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 218 | [Faeria](games/f/faeria.md) | 4.42 | 
 | 219 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 220 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.82 | 
+| 220 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.83 | 
 | 221 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 222 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
 | 223 | [Family Man](games/f/family_man.md) | 4.17 | 
@@ -234,7 +234,7 @@
 | 232 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
 | 233 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
 | 234 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
-| 235 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.14 | 
+| 235 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.15 | 
 | 236 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 237 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 238 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
@@ -325,7 +325,7 @@
 | 323 | [Imagine Earth](games/i/imagine_earth.md) | 4.33 | 
 | 324 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
 | 325 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
-| 326 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 326 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
 | 327 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 328 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 329 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
@@ -443,7 +443,7 @@
 | 441 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.35 | 
 | 442 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 443 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
-| 444 | [Obduction](games/o/obduction.md) | 4.09 | 
+| 444 | [Obduction](games/o/obduction.md) | 4.08 | 
 | 445 | [Observation](games/o/observation.md) | 4.54 | 
 | 446 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
 | 447 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
@@ -585,7 +585,7 @@
 | 583 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
 | 584 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 585 | [SOMA](games/s/soma.md) | 4.64 | 
-| 586 | [Somerville](games/s/somerville.md) | 4.22 | 
+| 586 | [Somerville](games/s/somerville.md) | 4.25 | 
 | 587 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 588 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
 | 589 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
@@ -704,7 +704,7 @@
 | 702 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
 | 703 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 
 | 704 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.83 | 
-| 705 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 
+| 705 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 706 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 707 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 708 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
@@ -776,7 +776,7 @@
 | 774 | [Warface](games/w/warface.md) | 3.93 | 
 | 775 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 776 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 777 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
+| 777 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
 | 778 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
 | 779 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
 | 780 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.57 | 
