@@ -19,7 +19,7 @@
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.60 | 
-| 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
+| 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.02 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
@@ -145,7 +145,7 @@
 | 143 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
 | 144 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
 | 145 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 146 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 146 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 
 | 147 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 148 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 149 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
@@ -379,7 +379,7 @@
 | 377 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 378 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 379 | [Limbo](games/l/limbo.md) | 4.63 | 
-| 380 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
+| 380 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
 | 381 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 
 | 382 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 383 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
@@ -653,7 +653,7 @@
 | 651 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.85 | 
 | 652 | [Tharsis](games/t/tharsis.md) | 4.16 | 
 | 653 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
-| 654 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
+| 654 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.63 | 
 | 655 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 656 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 657 | [The Captain](games/t/the_captain.md) | 4.44 | 
@@ -752,7 +752,7 @@
 | 750 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
 | 751 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 752 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 753 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.36 | 
+| 753 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 754 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 755 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 756 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
