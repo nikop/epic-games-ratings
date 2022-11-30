@@ -186,27 +186,27 @@
 | 184 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 185 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 186 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
-| 187 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
-| 188 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
-| 189 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.70 | 
-| 190 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.70 | 
-| 191 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.70 | 
-| 192 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.70 | 
-| 193 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 
-| 194 | [No Straight Roads](games/n/no_straight_roads.md) | 4.70 | 
-| 195 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.70 | 
-| 196 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
-| 197 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 198 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 199 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
-| 200 | [Days Gone](games/d/days_gone.md) | 4.69 | 
-| 201 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 202 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 203 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 204 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 205 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
-| 206 | [Barony](games/b/barony.md) | 4.69 | 
-| 207 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 187 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
+| 188 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
+| 189 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
+| 190 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.70 | 
+| 191 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.70 | 
+| 192 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.70 | 
+| 193 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.70 | 
+| 194 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 
+| 195 | [No Straight Roads](games/n/no_straight_roads.md) | 4.70 | 
+| 196 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.70 | 
+| 197 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
+| 198 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 199 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 200 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
+| 201 | [Days Gone](games/d/days_gone.md) | 4.69 | 
+| 202 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
+| 203 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
+| 204 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 205 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 206 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
+| 207 | [Barony](games/b/barony.md) | 4.69 | 
 | 208 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
 | 209 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 210 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
