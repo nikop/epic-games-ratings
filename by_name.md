@@ -229,7 +229,7 @@
 | 227 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 228 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 229 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 230 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
+| 230 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
 | 231 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.68 | 
 | 232 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
 | 233 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
@@ -311,7 +311,7 @@
 | 309 | [Horace](games/h/horace.md) | 4.53 | 
 | 310 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 311 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 312 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 
+| 312 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 313 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
 | 314 | [House Party](games/h/house_party.md) | 4.30 | 
 | 315 | [Hue](games/h/hue.md) | 4.55 | 
@@ -733,7 +733,7 @@
 | 731 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
 | 732 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
 | 733 | [Townscaper](games/t/townscaper.md) | 4.72 | 
-| 734 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.26 | 
+| 734 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 735 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 736 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 
 | 737 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
