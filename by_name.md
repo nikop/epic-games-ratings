@@ -91,7 +91,7 @@
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.44 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
-| 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
+| 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.46 | 
@@ -298,7 +298,7 @@
 | 296 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 297 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 298 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 299 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
+| 299 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
 | 300 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
 | 301 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 302 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
@@ -532,7 +532,7 @@
 | 530 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 531 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 532 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 533 | [Rogue Lords](games/r/rogue_lords.md) | 4.68 | 
+| 533 | [Rogue Lords](games/r/rogue_lords.md) | 4.67 | 
 | 534 | [Roguebook](games/r/roguebook.md) | 4.62 | 
 | 535 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 536 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
@@ -552,7 +552,7 @@
 | 550 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 551 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
 | 552 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 553 | [Scorn](games/s/scorn.md) | 4.49 | 
+| 553 | [Scorn](games/s/scorn.md) | 4.48 | 
 | 554 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
 | 555 | [Scrapnaut](games/s/scrapnaut.md) | 4.36 | 
 | 556 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
@@ -613,7 +613,7 @@
 | 611 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 612 | [Startup Panic](games/s/startup_panic.md) | 4.37 | 
 | 613 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 614 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 614 | [Steelrising](games/s/steelrising.md) | 4.29 | 
 | 615 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
 | 616 | [STG Football](games/s/stg_football.md) | 4.58 | 
 | 617 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
@@ -669,7 +669,7 @@
 | 667 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 668 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 669 | [The Fall](games/t/the_fall.md) | 4.28 | 
-| 670 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
+| 670 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
 | 671 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.73 | 
 | 672 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
 | 673 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 
