@@ -60,7 +60,7 @@
 | 58 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
-| 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.60 | 
+| 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.51 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 64 | [Backbone](games/b/backbone.md) | 4.36 | 
@@ -119,7 +119,7 @@
 | 117 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.00 | 
 | 118 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 119 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 120 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
+| 120 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
 | 121 | [City of Brass](games/c/city_of_brass.md) | 4.26 | 
 | 122 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.00 | 
 | 123 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
@@ -338,7 +338,7 @@
 | 336 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 337 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 338 | [Journey](games/j/journey.md) | 4.78 | 
-| 339 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
+| 339 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.59 | 
 | 340 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 341 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 342 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
@@ -373,7 +373,7 @@
 | 371 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
 | 372 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 373 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 374 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
+| 374 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 375 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 376 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 377 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
@@ -609,7 +609,7 @@
 | 607 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
 | 608 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 609 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 610 | [Starsand](games/s/starsand.md) | 4.21 | 
+| 610 | [Starsand](games/s/starsand.md) | 4.23 | 
 | 611 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 612 | [Startup Panic](games/s/startup_panic.md) | 4.37 | 
 | 613 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
