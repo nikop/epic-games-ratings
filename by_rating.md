@@ -531,17 +531,17 @@
 | 529 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 530 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 531 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 532 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.47 | 
-| 533 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
-| 534 | [Death Coming](games/d/death_coming.md) | 4.47 | 
-| 535 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.47 | 
-| 536 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
-| 537 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
-| 538 | [Beholder 3](games/b/beholder_3.md) | 4.47 | 
-| 539 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 540 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 541 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 542 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 532 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
+| 533 | [Death Coming](games/d/death_coming.md) | 4.47 | 
+| 534 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.47 | 
+| 535 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
+| 536 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
+| 537 | [Beholder 3](games/b/beholder_3.md) | 4.47 | 
+| 538 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 539 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 540 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 541 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 542 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
 | 543 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 544 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
 | 545 | [SMITE](games/s/smite.md) | 4.45 | 
