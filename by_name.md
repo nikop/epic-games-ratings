@@ -8,7 +8,7 @@
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.62 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
@@ -230,7 +230,7 @@
 | 228 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 229 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 230 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 231 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.68 | 
+| 231 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.69 | 
 | 232 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
 | 233 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
 | 234 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
@@ -276,7 +276,7 @@
 | 274 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 275 | [God's Trigger](games/g/god's_trigger.md) | 4.13 | 
 | 276 | [Godfall](games/g/godfall.md) | 4.06 | 
-| 277 | [Godlike Burger](games/g/godlike_burger.md) | 4.19 | 
+| 277 | [Godlike Burger](games/g/godlike_burger.md) | 4.18 | 
 | 278 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.93 | 
 | 279 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 280 | [Gone Home](games/g/gone_home.md) | 4.17 | 
@@ -407,7 +407,7 @@
 | 405 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 
 | 406 | [Minit](games/m/minit.md) | 4.55 | 
 | 407 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
-| 408 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 
+| 408 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 409 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 410 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 411 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
@@ -431,7 +431,7 @@
 | 429 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
 | 430 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 431 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.60 | 
-| 432 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.02 | 
+| 432 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.04 | 
 | 433 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 434 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 435 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -537,7 +537,7 @@
 | 535 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 536 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 537 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 538 | [RUINER](games/r/ruiner.md) | 4.52 | 
+| 538 | [RUINER](games/r/ruiner.md) | 4.51 | 
 | 539 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 540 | [Runbow](games/r/runbow.md) | 4.45 | 
 | 541 | [Sable](games/s/sable.md) | 4.57 | 
@@ -554,7 +554,7 @@
 | 552 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 553 | [Scorn](games/s/scorn.md) | 4.49 | 
 | 554 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
-| 555 | [Scrapnaut](games/s/scrapnaut.md) | 4.37 | 
+| 555 | [Scrapnaut](games/s/scrapnaut.md) | 4.36 | 
 | 556 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 557 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 558 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
@@ -573,7 +573,7 @@
 | 571 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 572 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 573 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 574 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
+| 574 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 575 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
 | 576 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 577 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
@@ -651,7 +651,7 @@
 | 649 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 650 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 651 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.85 | 
-| 652 | [Tharsis](games/t/tharsis.md) | 4.14 | 
+| 652 | [Tharsis](games/t/tharsis.md) | 4.16 | 
 | 653 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
 | 654 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
 | 655 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
@@ -703,7 +703,7 @@
 | 701 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.76 | 
 | 702 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
 | 703 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 
-| 704 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.83 | 
+| 704 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.84 | 
 | 705 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 706 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 707 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
@@ -720,7 +720,7 @@
 | 718 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.64 | 
 | 719 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.31 | 
 | 720 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 721 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.27 | 
+| 721 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.31 | 
 | 722 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
 | 723 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
 | 724 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
@@ -757,7 +757,7 @@
 | 755 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 756 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 757 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
-| 758 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.40 | 
+| 758 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 759 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
 | 760 | [UnMetal](games/u/unmetal.md) | 4.50 | 
 | 761 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.51 | 
@@ -787,7 +787,7 @@
 | 785 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
 | 786 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 787 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 788 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 788 | [Weird West](games/w/weird_west.md) | 4.46 | 
 | 789 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 
 | 790 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
 | 791 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.76 | 
