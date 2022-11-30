@@ -103,12 +103,12 @@
 | 101 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 102 | [Rayman Origins](games/r/rayman_origins.md) | 4.78 | 
 | 103 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.78 | 
-| 104 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
-| 105 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 106 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
-| 107 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 108 | [Haven](games/h/haven.md) | 4.77 | 
-| 109 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 104 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 105 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
+| 106 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
+| 107 | [Haven](games/h/haven.md) | 4.77 | 
+| 108 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 109 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 110 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 111 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 112 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.76 | 
@@ -455,17 +455,17 @@
 | 453 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 454 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 
 | 455 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 456 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 457 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 458 | [Horace](games/h/horace.md) | 4.53 | 
-| 459 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
-| 460 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 461 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 462 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 463 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 464 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 465 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 466 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
+| 456 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 457 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 458 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 459 | [Horace](games/h/horace.md) | 4.53 | 
+| 460 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
+| 461 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 462 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 463 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
+| 464 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 465 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 466 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 467 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
 | 468 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 469 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 

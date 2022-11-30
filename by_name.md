@@ -91,7 +91,7 @@
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.44 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.82 | 
-| 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
+| 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.45 | 
@@ -482,7 +482,7 @@
 | 480 | [Patron](games/p/patron.md) | 3.90 | 
 | 481 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 482 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 483 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
+| 483 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 484 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
 | 485 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 486 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
