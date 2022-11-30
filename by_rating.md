@@ -103,12 +103,12 @@
 | 101 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
 | 102 | [Rayman Origins](games/r/rayman_origins.md) | 4.78 | 
 | 103 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.78 | 
-| 104 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 105 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
-| 106 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 107 | [Haven](games/h/haven.md) | 4.77 | 
-| 108 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 109 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 104 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
+| 105 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 106 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
+| 107 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
+| 108 | [Haven](games/h/haven.md) | 4.77 | 
+| 109 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 110 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 111 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 112 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
@@ -595,14 +595,14 @@
 | 593 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 594 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 595 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
-| 596 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
-| 597 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 598 | [Hammerting](games/h/hammerting.md) | 4.42 | 
-| 599 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
-| 600 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 601 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 602 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
-| 603 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.41 | 
+| 596 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 
+| 597 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
+| 598 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 599 | [Hammerting](games/h/hammerting.md) | 4.42 | 
+| 600 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
+| 601 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 602 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
+| 603 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
 | 604 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 605 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 606 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
@@ -784,8 +784,8 @@
 | 782 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 783 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.06 | 
 | 784 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 785 | [Flatout](games/f/flatout.md) | 4.05 | 
-| 786 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 
+| 785 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
+| 786 | [Flatout](games/f/flatout.md) | 4.05 | 
 | 787 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
 | 788 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 789 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 

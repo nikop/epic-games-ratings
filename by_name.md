@@ -91,7 +91,7 @@
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.44 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
-| 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.45 | 
@@ -377,7 +377,7 @@
 | 375 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 376 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 377 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 378 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 
+| 378 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 379 | [Limbo](games/l/limbo.md) | 4.63 | 
 | 380 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.22 | 
 | 381 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 
@@ -569,7 +569,7 @@
 | 567 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.18 | 
 | 568 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
 | 569 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 570 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.41 | 
+| 570 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 
 | 571 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 572 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 573 | [Sifu](games/s/sifu.md) | 4.80 | 
