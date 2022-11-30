@@ -90,8 +90,8 @@
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.44 | 
-| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.82 | 
-| 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
+| 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.46 | 
@@ -210,7 +210,7 @@
 | 208 | [Encased](games/e/encased.md) | 4.37 | 
 | 209 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 210 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 211 | [EVE Online](games/e/eve_online.md) | 4.27 | 
+| 211 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 212 | [Everything](games/e/everything.md) | 4.63 | 
 | 213 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.38 | 
 | 214 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
@@ -737,10 +737,10 @@
 | 735 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 736 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 
 | 737 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 738 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.56 | 
+| 738 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
 | 739 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 740 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
-| 741 | [Transistor](games/t/transistor.md) | 4.63 | 
+| 741 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 742 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 743 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 744 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
