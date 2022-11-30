@@ -1,5 +1,5 @@
 # SpellForce 3: Soul Harvest
-Rating: 4.37 (-)  (as of 23.09.2022)  
+Rating: 4.39 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -18,3 +18,4 @@ Rating: 4.37 (-)  (as of 23.09.2022)
 | 2022-11-20 | 4.33 | - |
 | 2022-11-25 | 4.35 | - |
 | 2022-11-26 | 4.37 | - |
+| 2022-11-30 | 4.39 | - |
