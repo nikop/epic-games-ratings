@@ -1,10 +1,10 @@
 {
   "ID": "1dcddbcc334945c48353b75a8fce5e5e",
   "Name": "Dishonored 2",
-  "Rating": 4.79,
+  "Rating": 4.8,
   "FirstSeen": "2022-11-05T14:01:17.2849219+00:00",
   "FirstSeenRating": "2022-11-24T20:57:28.2064365+00:00",
-  "LastChanged": "2022-11-29T19:57:05.1633443+00:00",
+  "LastChanged": "2022-11-30T13:19:56.8558343+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-24T20:57:28.2064368+00:00",
@@ -49,6 +49,11 @@
     {
       "Time": "2022-11-29T19:57:05.1633445+00:00",
       "Rating": 4.79,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T13:19:56.8558346+00:00",
+      "Rating": 4.8,
       "NumberOfRatings": null
     }
   ],
