@@ -47,7 +47,7 @@
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.55 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
@@ -90,7 +90,7 @@
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.44 | 
-| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
+| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.82 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -281,7 +281,7 @@
 | 279 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 280 | [Gone Home](games/g/gone_home.md) | 4.17 | 
 | 281 | [Good Company](games/g/good_company.md) | 4.43 | 
-| 282 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 282 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
 | 283 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
 | 284 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 285 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -615,7 +615,7 @@
 | 613 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 614 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 615 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
-| 616 | [STG Football](games/s/stg_football.md) | 4.57 | 
+| 616 | [STG Football](games/s/stg_football.md) | 4.58 | 
 | 617 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 618 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 619 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
@@ -667,7 +667,7 @@
 | 665 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 666 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 667 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
-| 668 | [The Fall](games/t/the_fall.md) | 4.27 | 
+| 668 | [The Fall](games/t/the_fall.md) | 4.28 | 
 | 669 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 
 | 670 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.73 | 
 | 671 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
@@ -691,7 +691,7 @@
 | 689 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 690 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 691 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 692 | [The Surge 2](games/t/the_surge_2.md) | 4.20 | 
+| 692 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
 | 693 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 694 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 695 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
