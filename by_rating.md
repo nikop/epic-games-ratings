@@ -150,34 +150,34 @@
 | 148 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 149 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 150 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
-| 151 | [Fez](games/f/fez.md) | 4.73 | 
-| 152 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
-| 153 | [FUSER™](games/f/fuser™.md) | 4.73 | 
-| 154 | [Northgard](games/n/northgard.md) | 4.73 | 
-| 155 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
-| 156 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.73 | 
-| 157 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.73 | 
-| 158 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
-| 159 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
-| 160 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
-| 161 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
-| 162 | [Outlast](games/o/outlast.md) | 4.73 | 
-| 163 | [shapez](games/s/shapez.md) | 4.73 | 
-| 164 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 165 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 166 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 167 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 168 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 169 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
-| 170 | [Townscaper](games/t/townscaper.md) | 4.72 | 
-| 171 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
-| 172 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
-| 173 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 174 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 175 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
-| 176 | [Timberborn](games/t/timberborn.md) | 4.71 | 
-| 177 | [The Witness](games/t/the_witness.md) | 4.71 | 
-| 178 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
+| 151 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
+| 152 | [FUSER™](games/f/fuser™.md) | 4.73 | 
+| 153 | [Northgard](games/n/northgard.md) | 4.73 | 
+| 154 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
+| 155 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.73 | 
+| 156 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.73 | 
+| 157 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
+| 158 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
+| 159 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
+| 160 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
+| 161 | [Outlast](games/o/outlast.md) | 4.73 | 
+| 162 | [shapez](games/s/shapez.md) | 4.73 | 
+| 163 | [Suzerain](games/s/suzerain.md) | 4.73 | 
+| 164 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 165 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 166 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 167 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 168 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
+| 169 | [Townscaper](games/t/townscaper.md) | 4.72 | 
+| 170 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
+| 171 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
+| 172 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 173 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 174 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
+| 175 | [Timberborn](games/t/timberborn.md) | 4.71 | 
+| 176 | [The Witness](games/t/the_witness.md) | 4.71 | 
+| 177 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
+| 178 | [Fez](games/f/fez.md) | 4.71 | 
 | 179 | [This Is The Police](games/t/this_is_the_police.md) | 4.71 | 
 | 180 | [Slipways](games/s/slipways.md) | 4.71 | 
 | 181 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
@@ -708,10 +708,10 @@
 | 706 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
 | 707 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.27 | 
 | 708 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 709 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
-| 710 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
-| 711 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 712 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 709 | [City of Brass](games/c/city_of_brass.md) | 4.26 | 
+| 710 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
+| 711 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
+| 712 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 713 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
 | 714 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.25 | 
 | 715 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 

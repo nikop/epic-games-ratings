@@ -120,7 +120,7 @@
 | 118 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 119 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 120 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.78 | 
-| 121 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 121 | [City of Brass](games/c/city_of_brass.md) | 4.26 | 
 | 122 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.00 | 
 | 123 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
 | 124 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -239,7 +239,7 @@
 | 237 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 238 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 239 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.62 | 
-| 240 | [Fez](games/f/fez.md) | 4.73 | 
+| 240 | [Fez](games/f/fez.md) | 4.71 | 
 | 241 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
 | 242 | [Figment](games/f/figment.md) | 4.45 | 
 | 243 | [Filament](games/f/filament.md) | 4.31 | 
