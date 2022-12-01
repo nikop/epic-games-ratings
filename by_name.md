@@ -53,7 +53,7 @@
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 
-| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.38 | 
+| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.39 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.45 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
@@ -72,7 +72,7 @@
 | 70 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 71 | [Barony](games/b/barony.md) | 4.69 | 
 | 72 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.32 | 
-| 73 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
+| 73 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 74 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 75 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
@@ -277,7 +277,7 @@
 | 275 | [God's Trigger](games/g/god's_trigger.md) | 4.13 | 
 | 276 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 277 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
-| 278 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.93 | 
+| 278 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
 | 279 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 280 | [Gone Home](games/g/gone_home.md) | 4.17 | 
 | 281 | [Good Company](games/g/good_company.md) | 4.44 | 
@@ -609,7 +609,7 @@
 | 607 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
 | 608 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
 | 609 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 610 | [Starsand](games/s/starsand.md) | 4.23 | 
+| 610 | [Starsand](games/s/starsand.md) | 4.22 | 
 | 611 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 612 | [Startup Panic](games/s/startup_panic.md) | 4.37 | 
 | 613 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
@@ -749,7 +749,7 @@
 | 747 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 748 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.70 | 
 | 749 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
-| 750 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.62 | 
+| 750 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
 | 751 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
 | 752 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 753 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
