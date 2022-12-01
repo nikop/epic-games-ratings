@@ -225,22 +225,22 @@
 | 223 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 224 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 225 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
-| 226 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 227 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
-| 228 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
-| 229 | [CARRION](games/c/carrion.md) | 4.68 | 
-| 230 | [World of Goo](games/w/world_of_goo.md) | 4.68 | 
-| 231 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
-| 232 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 
-| 233 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 234 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 235 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 236 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 237 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 238 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
-| 239 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 240 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
-| 241 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.67 | 
+| 226 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
+| 227 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
+| 228 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
+| 229 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
+| 230 | [CARRION](games/c/carrion.md) | 4.68 | 
+| 231 | [World of Goo](games/w/world_of_goo.md) | 4.68 | 
+| 232 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
+| 233 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 
+| 234 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 235 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 236 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 237 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 238 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 239 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
+| 240 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 241 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
 | 242 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 243 | [Operation: Tango](games/o/operation__tango.md) | 4.67 | 
 | 244 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
@@ -582,19 +582,19 @@
 | 580 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 581 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
 | 582 | [Faeria](games/f/faeria.md) | 4.43 | 
-| 583 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
-| 584 | [Good Company](games/g/good_company.md) | 4.43 | 
-| 585 | [Far Cry](games/f/far_cry.md) | 4.43 | 
-| 586 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
-| 587 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 588 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 
-| 589 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 590 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 591 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 592 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 593 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 594 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 595 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
+| 583 | [Good Company](games/g/good_company.md) | 4.43 | 
+| 584 | [Far Cry](games/f/far_cry.md) | 4.43 | 
+| 585 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
+| 586 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
+| 587 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 
+| 588 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 589 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 590 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 591 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 592 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 593 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 594 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
+| 595 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
 | 596 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
 | 597 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 598 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 

@@ -588,7 +588,7 @@
 | 586 | [SOMA](games/s/soma.md) | 4.64 | 
 | 587 | [Somerville](games/s/somerville.md) | 4.25 | 
 | 588 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 589 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.43 | 
+| 589 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
 | 590 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 591 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 592 | [Souldiers](games/s/souldiers.md) | 4.55 | 
@@ -628,7 +628,7 @@
 | 626 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 627 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 628 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 629 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.67 | 
+| 629 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 630 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
 | 631 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 632 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
