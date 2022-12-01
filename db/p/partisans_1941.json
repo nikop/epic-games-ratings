@@ -1,10 +1,10 @@
 {
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
-  "Rating": 4.59,
+  "Rating": 4.6,
   "NumberOfRatings": 98,
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
-  "LastChanged": "2022-11-25T19:57:03.9488198+00:00",
+  "LastChanged": "2022-12-01T03:29:44.0793072+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:38.7033824+00:00",
@@ -254,6 +254,11 @@
     {
       "Time": "2022-11-25T19:57:03.9488201+00:00",
       "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T03:29:44.0793073+00:00",
+      "Rating": 4.6,
       "NumberOfRatings": null
     }
   ],
