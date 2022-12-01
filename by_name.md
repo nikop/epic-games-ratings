@@ -43,7 +43,7 @@
 | 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
 | 43 | [Ashen](games/a/ashen.md) | 4.30 | 
-| 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
+| 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
@@ -93,7 +93,7 @@
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
 | 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.47 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
@@ -239,7 +239,7 @@
 | 237 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 238 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 239 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.62 | 
-| 240 | [Fez](games/f/fez.md) | 4.71 | 
+| 240 | [Fez](games/f/fez.md) | 4.72 | 
 | 241 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
 | 242 | [Figment](games/f/figment.md) | 4.46 | 
 | 243 | [Filament](games/f/filament.md) | 4.31 | 
@@ -514,7 +514,7 @@
 | 512 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 513 | [Redout 2](games/r/redout_2.md) | 4.54 | 
 | 514 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
-| 515 | [Relicta](games/r/relicta.md) | 4.14 | 
+| 515 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 516 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
 | 517 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 518 | [Revita](games/r/revita.md) | 4.74 | 
@@ -615,7 +615,7 @@
 | 613 | [Startup Panic](games/s/startup_panic.md) | 4.37 | 
 | 614 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 615 | [Steelrising](games/s/steelrising.md) | 4.29 | 
-| 616 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
+| 616 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
 | 617 | [STG Football](games/s/stg_football.md) | 4.56 | 
 | 618 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 619 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
@@ -813,6 +813,6 @@
 | 811 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
 | 812 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
 | 813 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
-| 814 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 
+| 814 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.70 | 
 | 815 | [ZOMBI](games/z/zombi.md) | 4.35 | 
 | 816 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
