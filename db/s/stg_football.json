@@ -1,10 +1,10 @@
 {
   "ID": "5c30028c7a144f91b4a6ee4011bea27b",
   "Name": "STG Football",
-  "Rating": 4.58,
+  "Rating": 4.56,
   "FirstSeen": "2022-10-25T20:04:22.7982366+00:00",
   "FirstSeenRating": "2022-10-28T23:02:10.4160395+00:00",
-  "LastChanged": "2022-11-30T06:58:23.7193619+00:00",
+  "LastChanged": "2022-12-01T02:34:36.2606106+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-28T23:02:10.4160399+00:00",
@@ -190,6 +190,11 @@
       "Time": "2022-11-30T06:58:23.719362+00:00",
       "Rating": 4.58,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T02:34:36.2606107+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -199,6 +204,10 @@
     },
     {
       "Text": "This game is Great for Quick Sessions",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
       "Count": 20
     }
   ]

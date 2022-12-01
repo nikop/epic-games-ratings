@@ -32,7 +32,7 @@
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.41 | 
-| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
+| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.32 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.66 | 
@@ -54,7 +54,7 @@
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.37 | 
-| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.39 | 
+| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.34 | 
@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.46 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.47 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
@@ -582,7 +582,7 @@
 | 580 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
 | 581 | [SMITE](games/s/smite.md) | 4.45 | 
 | 582 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 583 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
+| 583 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
 | 584 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 585 | [SOMA](games/s/soma.md) | 4.64 | 
 | 586 | [Somerville](games/s/somerville.md) | 4.25 | 
@@ -615,7 +615,7 @@
 | 613 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 614 | [Steelrising](games/s/steelrising.md) | 4.29 | 
 | 615 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
-| 616 | [STG Football](games/s/stg_football.md) | 4.58 | 
+| 616 | [STG Football](games/s/stg_football.md) | 4.56 | 
 | 617 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 618 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 619 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
@@ -699,7 +699,7 @@
 | 697 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 698 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 4.00 | 
 | 699 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.27 | 
-| 700 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 
+| 700 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 701 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.76 | 
 | 702 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
 | 703 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 

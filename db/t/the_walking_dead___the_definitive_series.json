@@ -1,10 +1,10 @@
 {
   "ID": "b534830f4c524447bfd2266ce70cf8ab",
   "Name": "The Walking Dead : The Definitive Series",
-  "Rating": 4.87,
+  "Rating": 4.86,
   "NumberOfRatings": 663,
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2022-11-29T21:57:40.6320165+00:00",
+  "LastChanged": "2022-12-01T02:34:14.0968588+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:07.8066793+00:00",
@@ -635,6 +635,11 @@
       "Time": "2022-11-29T21:57:40.6320168+00:00",
       "Rating": 4.87,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T02:34:14.0968589+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -656,7 +661,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 24
+      "Count": 25
     }
   ]
 }
