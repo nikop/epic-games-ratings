@@ -34,7 +34,7 @@
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.41 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
-| 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.32 | 
+| 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.66 | 
 | 37 | [Aragami 2](games/a/aragami_2.md) | 4.56 | 
 | 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
@@ -54,14 +54,14 @@
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.38 | 
-| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
+| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.45 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
-| 62 | [Aztez](games/a/aztez.md) | 4.51 | 
+| 62 | [Aztez](games/a/aztez.md) | 4.52 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 64 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 65 | [Bad North](games/b/bad_north.md) | 4.68 | 
@@ -295,7 +295,7 @@
 | 293 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 294 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
 | 295 | [Haven](games/h/haven.md) | 4.77 | 
-| 296 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
+| 296 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
 | 297 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 298 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 299 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
@@ -476,7 +476,7 @@
 | 474 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 475 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.25 | 
 | 476 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 477 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 477 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 478 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 479 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 480 | [Patron](games/p/patron.md) | 3.90 | 
@@ -559,7 +559,7 @@
 | 557 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 558 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 559 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.76 | 
-| 560 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
+| 560 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 561 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
 | 562 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 563 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
@@ -607,7 +607,7 @@
 | 605 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.52 | 
 | 606 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
 | 607 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
-| 608 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
+| 608 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
 | 609 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 610 | [Starsand](games/s/starsand.md) | 4.23 | 
 | 611 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
