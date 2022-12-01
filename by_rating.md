@@ -425,24 +425,24 @@
 | 423 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 424 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 425 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
-| 426 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
-| 427 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 428 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.55 | 
-| 429 | [Hue](games/h/hue.md) | 4.55 | 
-| 430 | [Outward](games/o/outward.md) | 4.55 | 
-| 431 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
-| 432 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 433 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
-| 434 | [Minit](games/m/minit.md) | 4.55 | 
-| 435 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 436 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
-| 437 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 438 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
-| 439 | [The Colonists](games/t/the_colonists.md) | 4.55 | 
-| 440 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 441 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 442 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 443 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
+| 426 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 427 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.55 | 
+| 428 | [Hue](games/h/hue.md) | 4.55 | 
+| 429 | [Outward](games/o/outward.md) | 4.55 | 
+| 430 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
+| 431 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
+| 432 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
+| 433 | [Minit](games/m/minit.md) | 4.55 | 
+| 434 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 435 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
+| 436 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
+| 437 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
+| 438 | [The Colonists](games/t/the_colonists.md) | 4.55 | 
+| 439 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 440 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 441 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 442 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
+| 443 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 444 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 445 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 446 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 

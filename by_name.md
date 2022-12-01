@@ -783,7 +783,7 @@
 | 781 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.57 | 
 | 782 | [Warpips](games/w/warpips.md) | 4.57 | 
 | 783 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 784 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
+| 784 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 785 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
 | 786 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
 | 787 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
