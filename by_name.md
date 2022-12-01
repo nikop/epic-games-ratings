@@ -281,7 +281,7 @@
 | 279 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 280 | [Gone Home](games/g/gone_home.md) | 4.17 | 
 | 281 | [Good Company](games/g/good_company.md) | 4.43 | 
-| 282 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 282 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
 | 283 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
 | 284 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 285 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -551,7 +551,7 @@
 | 549 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.63 | 
 | 550 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 551 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 552 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
+| 552 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 553 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 554 | [Scorn](games/s/scorn.md) | 4.48 | 
 | 555 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 

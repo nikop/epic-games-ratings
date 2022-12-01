@@ -711,18 +711,18 @@
 | 709 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 710 | [City of Brass](games/c/city_of_brass.md) | 4.26 | 
 | 711 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
-| 712 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
-| 713 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
-| 714 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 712 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
+| 713 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 714 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
 | 715 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
 | 716 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.25 | 
-| 717 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
-| 718 | [Somerville](games/s/somerville.md) | 4.25 | 
-| 719 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 720 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
-| 721 | [ELEX II](games/e/elex_ii.md) | 4.24 | 
-| 722 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 723 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
+| 717 | [Somerville](games/s/somerville.md) | 4.25 | 
+| 718 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
+| 719 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
+| 720 | [ELEX II](games/e/elex_ii.md) | 4.24 | 
+| 721 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
+| 722 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
+| 723 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 724 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 725 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 726 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
