@@ -356,26 +356,26 @@
 | 354 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
 | 355 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 356 | [Road 96](games/r/road_96.md) | 4.60 | 
-| 357 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
-| 358 | [RiME](games/r/rime.md) | 4.60 | 
-| 359 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
-| 360 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 361 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 362 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.60 | 
-| 363 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 364 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 365 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
-| 366 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
-| 367 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 368 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
-| 369 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 370 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
-| 371 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
-| 372 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
-| 373 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
-| 374 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
-| 375 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
-| 376 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.59 | 
+| 357 | [RiME](games/r/rime.md) | 4.60 | 
+| 358 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
+| 359 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
+| 360 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
+| 361 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.60 | 
+| 362 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 363 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 364 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
+| 365 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
+| 366 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 367 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
+| 368 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 369 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 370 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
+| 371 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
+| 372 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
+| 373 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
+| 374 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
+| 375 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.59 | 
+| 376 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.59 | 
 | 377 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 378 | [GRIME](games/g/grime.md) | 4.59 | 
 | 379 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
@@ -523,15 +523,15 @@
 | 521 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 522 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 523 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
-| 524 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 525 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 526 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
-| 527 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
-| 528 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
-| 529 | [Scorn](games/s/scorn.md) | 4.48 | 
-| 530 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
-| 531 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 532 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 524 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 525 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
+| 526 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
+| 527 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
+| 528 | [Scorn](games/s/scorn.md) | 4.48 | 
+| 529 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
+| 530 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 531 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 532 | [Riverbond](games/r/riverbond.md) | 4.47 | 
 | 533 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 534 | [Death Coming](games/d/death_coming.md) | 4.47 | 
 | 535 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.47 | 
@@ -630,13 +630,13 @@
 | 628 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.39 | 
 | 629 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
 | 630 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.38 | 
-| 631 | [Torchlight](games/t/torchlight.md) | 4.38 | 
-| 632 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 633 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
-| 634 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 635 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 636 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 637 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
+| 631 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 632 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
+| 633 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
+| 634 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 635 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 636 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
+| 637 | [Torchlight](games/t/torchlight.md) | 4.37 | 
 | 638 | [ATOM RPG](games/a/atom_rpg.md) | 4.37 | 
 | 639 | [Encased](games/e/encased.md) | 4.37 | 
 | 640 | [Othercide](games/o/othercide.md) | 4.37 | 
@@ -729,11 +729,11 @@
 | 727 | [Starsand](games/s/starsand.md) | 4.23 | 
 | 728 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
 | 729 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 730 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
-| 731 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
-| 732 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
-| 733 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
-| 734 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
+| 730 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
+| 731 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
+| 732 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
+| 733 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
+| 734 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 735 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 736 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 737 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 

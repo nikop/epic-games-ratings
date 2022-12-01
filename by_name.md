@@ -178,7 +178,7 @@
 | 176 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 177 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
 | 178 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 179 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
+| 179 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.59 | 
 | 180 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 181 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 182 | [Diabotical](games/d/diabotical.md) | 4.76 | 
@@ -527,7 +527,7 @@
 | 525 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 526 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 527 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
-| 528 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 528 | [Riverbond](games/r/riverbond.md) | 4.47 | 
 | 529 | [Road 96](games/r/road_96.md) | 4.60 | 
 | 530 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 531 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
@@ -693,7 +693,7 @@
 | 691 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 692 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 693 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 694 | [The Surge 2](games/t/the_surge_2.md) | 4.21 | 
+| 694 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
 | 695 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 696 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 697 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
@@ -726,7 +726,7 @@
 | 724 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
 | 725 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 726 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 727 | [Torchlight](games/t/torchlight.md) | 4.38 | 
+| 727 | [Torchlight](games/t/torchlight.md) | 4.37 | 
 | 728 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 729 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 730 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
