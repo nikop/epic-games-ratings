@@ -28,10 +28,10 @@
 | 26 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 27 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 28 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
-| 29 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
-| 30 | [Inscryption](games/i/inscryption.md) | 4.86 | 
-| 31 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 32 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
+| 29 | [Inscryption](games/i/inscryption.md) | 4.86 | 
+| 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 31 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
+| 32 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 33 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 34 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 35 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
@@ -96,13 +96,13 @@
 | 94 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
 | 95 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
 | 96 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.79 | 
-| 97 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
-| 98 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 99 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 100 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 101 | [Journey](games/j/journey.md) | 4.78 | 
-| 102 | [Rayman Origins](games/r/rayman_origins.md) | 4.78 | 
-| 103 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 
+| 97 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
+| 98 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 99 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 101 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
+| 102 | [Journey](games/j/journey.md) | 4.78 | 
+| 103 | [Rayman Origins](games/r/rayman_origins.md) | 4.78 | 
 | 104 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 105 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 106 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
@@ -403,22 +403,22 @@
 | 401 | [Hob](games/h/hob.md) | 4.57 | 
 | 402 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
 | 403 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 404 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 
-| 405 | [Sable](games/s/sable.md) | 4.57 | 
-| 406 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.57 | 
-| 407 | [Warpips](games/w/warpips.md) | 4.57 | 
-| 408 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 
-| 409 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
-| 410 | [The Medium](games/t/the_medium.md) | 4.57 | 
-| 411 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 412 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 413 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 414 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
-| 415 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
-| 416 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 417 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
-| 418 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
-| 419 | [Aragami 2](games/a/aragami_2.md) | 4.56 | 
+| 404 | [Sable](games/s/sable.md) | 4.57 | 
+| 405 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.57 | 
+| 406 | [Warpips](games/w/warpips.md) | 4.57 | 
+| 407 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 
+| 408 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
+| 409 | [The Medium](games/t/the_medium.md) | 4.57 | 
+| 410 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 411 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 412 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 413 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
+| 414 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
+| 415 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 416 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
+| 417 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
+| 418 | [Aragami 2](games/a/aragami_2.md) | 4.56 | 
+| 419 | [Little Inferno](games/l/little_inferno.md) | 4.56 | 
 | 420 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 421 | [Dark Deception](games/d/dark_deception.md) | 4.56 | 
 | 422 | [STG Football](games/s/stg_football.md) | 4.56 | 
@@ -651,24 +651,24 @@
 | 649 | [Star Stable Online](games/s/star_stable_online.md) | 4.36 | 
 | 650 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 651 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
-| 652 | [Among Trees](games/a/among_trees.md) | 4.36 | 
-| 653 | [Democracy 4](games/d/democracy_4.md) | 4.36 | 
-| 654 | [Scrapnaut](games/s/scrapnaut.md) | 4.36 | 
-| 655 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
-| 656 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 657 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
-| 658 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 659 | [Backbone](games/b/backbone.md) | 4.36 | 
-| 660 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
-| 661 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
-| 662 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 663 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 
-| 664 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.35 | 
-| 665 | [ZOMBI](games/z/zombi.md) | 4.35 | 
-| 666 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 667 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
-| 668 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 669 | [Automachef](games/a/automachef.md) | 4.34 | 
+| 652 | [Democracy 4](games/d/democracy_4.md) | 4.36 | 
+| 653 | [Scrapnaut](games/s/scrapnaut.md) | 4.36 | 
+| 654 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
+| 655 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
+| 656 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
+| 657 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 658 | [Backbone](games/b/backbone.md) | 4.36 | 
+| 659 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
+| 660 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
+| 661 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
+| 662 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 
+| 663 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.35 | 
+| 664 | [ZOMBI](games/z/zombi.md) | 4.35 | 
+| 665 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 666 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
+| 667 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 668 | [Automachef](games/a/automachef.md) | 4.34 | 
+| 669 | [Among Trees](games/a/among_trees.md) | 4.34 | 
 | 670 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.34 | 
 | 671 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 672 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
@@ -716,13 +716,13 @@
 | 714 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
 | 715 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
 | 716 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.25 | 
-| 717 | [Somerville](games/s/somerville.md) | 4.25 | 
-| 718 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 719 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
-| 720 | [ELEX II](games/e/elex_ii.md) | 4.24 | 
-| 721 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 722 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
-| 723 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
+| 717 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
+| 718 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
+| 719 | [ELEX II](games/e/elex_ii.md) | 4.24 | 
+| 720 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
+| 721 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
+| 722 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
+| 723 | [Somerville](games/s/somerville.md) | 4.24 | 
 | 724 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 725 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 726 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
@@ -776,9 +776,9 @@
 | 774 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
 | 775 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 776 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
-| 777 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 778 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.08 | 
-| 779 | [Obduction](games/o/obduction.md) | 4.08 | 
+| 777 | [Obduction](games/o/obduction.md) | 4.09 | 
+| 778 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 779 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.08 | 
 | 780 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
 | 781 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
 | 782 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 

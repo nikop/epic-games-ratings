@@ -23,7 +23,7 @@
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 24 | [Among Trees](games/a/among_trees.md) | 4.36 | 
+| 24 | [Among Trees](games/a/among_trees.md) | 4.34 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
@@ -187,7 +187,7 @@
 | 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 186 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
-| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 
+| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 190 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
 | 191 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
@@ -272,7 +272,7 @@
 | 270 | [GigaBash](games/g/gigabash.md) | 4.52 | 
 | 271 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 272 | [GNOG](games/g/gnog.md) | 4.64 | 
-| 273 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
+| 273 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 274 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 275 | [God's Trigger](games/g/god's_trigger.md) | 4.13 | 
 | 276 | [Godfall](games/g/godfall.md) | 4.06 | 
@@ -380,7 +380,7 @@
 | 378 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 379 | [Limbo](games/l/limbo.md) | 4.63 | 
 | 380 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
-| 381 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 
+| 381 | [Little Inferno](games/l/little_inferno.md) | 4.56 | 
 | 382 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 383 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 384 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
@@ -443,7 +443,7 @@
 | 441 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.35 | 
 | 442 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 443 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
-| 444 | [Obduction](games/o/obduction.md) | 4.08 | 
+| 444 | [Obduction](games/o/obduction.md) | 4.09 | 
 | 445 | [Observation](games/o/observation.md) | 4.54 | 
 | 446 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
 | 447 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
@@ -585,7 +585,7 @@
 | 583 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
 | 584 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 585 | [SOMA](games/s/soma.md) | 4.64 | 
-| 586 | [Somerville](games/s/somerville.md) | 4.25 | 
+| 586 | [Somerville](games/s/somerville.md) | 4.24 | 
 | 587 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 588 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
 | 589 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
