@@ -257,17 +257,17 @@
 | 255 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 
 | 256 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 257 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 258 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
-| 259 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
-| 260 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 
-| 261 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
-| 262 | [APE OUT](games/a/ape_out.md) | 4.66 | 
-| 263 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
-| 264 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 265 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 266 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 267 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
-| 268 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 258 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
+| 259 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 
+| 260 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
+| 261 | [APE OUT](games/a/ape_out.md) | 4.66 | 
+| 262 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
+| 263 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 264 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 265 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 266 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
+| 267 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 268 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
 | 269 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 270 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 271 | [Coromon](games/c/coromon.md) | 4.65 | 
@@ -435,18 +435,18 @@
 | 433 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
 | 434 | [Minit](games/m/minit.md) | 4.55 | 
 | 435 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 436 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 437 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
-| 438 | [The Colonists](games/t/the_colonists.md) | 4.55 | 
-| 439 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 440 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 441 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 442 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
-| 443 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 444 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 445 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
-| 446 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
-| 447 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.54 | 
+| 436 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
+| 437 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
+| 438 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
+| 439 | [The Colonists](games/t/the_colonists.md) | 4.55 | 
+| 440 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 441 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 442 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 443 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
+| 444 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 445 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 446 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
+| 447 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
 | 448 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.54 | 
 | 449 | [Observation](games/o/observation.md) | 4.54 | 
 | 450 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 

@@ -469,7 +469,7 @@
 | 467 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
 | 468 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 469 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 470 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.54 | 
+| 470 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 471 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 472 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
 | 473 | [Parkitect](games/p/parkitect.md) | 4.27 | 
@@ -560,7 +560,7 @@
 | 558 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 559 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 560 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.76 | 
-| 561 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
+| 561 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.65 | 
 | 562 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
 | 563 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 564 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
