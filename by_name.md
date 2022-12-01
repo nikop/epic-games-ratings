@@ -19,7 +19,7 @@
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
-| 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.02 | 
+| 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
@@ -120,7 +120,7 @@
 | 118 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
 | 119 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 120 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
-| 121 | [City of Brass](games/c/city_of_brass.md) | 4.26 | 
+| 121 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 122 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.00 | 
 | 123 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
 | 124 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -145,7 +145,7 @@
 | 143 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
 | 144 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
 | 145 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 146 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 
+| 146 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 147 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 148 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 149 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
@@ -248,7 +248,7 @@
 | 246 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 
 | 247 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
 | 248 | [Flatout](games/f/flatout.md) | 4.05 | 
-| 249 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
+| 249 | [Flatout 2](games/f/flatout_2.md) | 4.92 | 
 | 250 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 252 | [For The King](games/f/for_the_king.md) | 4.70 | 
@@ -291,7 +291,7 @@
 | 289 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 290 | [Hades](games/h/hades.md) | 4.92 | 
 | 291 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 292 | [Hammerting](games/h/hammerting.md) | 4.42 | 
+| 292 | [Hammerting](games/h/hammerting.md) | 4.44 | 
 | 293 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 294 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
 | 295 | [Haven](games/h/haven.md) | 4.77 | 
@@ -565,7 +565,7 @@
 | 563 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 564 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.75 | 
 | 565 | [shapez](games/s/shapez.md) | 4.73 | 
-| 566 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 566 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 567 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 
 | 568 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
 | 569 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
@@ -667,7 +667,7 @@
 | 665 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
 | 666 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 667 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 668 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
+| 668 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
 | 669 | [The Fall](games/t/the_fall.md) | 4.28 | 
 | 670 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
 | 671 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.73 | 
@@ -761,7 +761,7 @@
 | 759 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 760 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
 | 761 | [UnMetal](games/u/unmetal.md) | 4.50 | 
-| 762 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.51 | 
+| 762 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
 | 763 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 764 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 
 | 765 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.83 | 
