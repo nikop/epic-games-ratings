@@ -18,13 +18,13 @@
 | 16 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 17 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
-| 19 | [Black Book](games/b/black_book.md) | 4.88 | 
-| 20 | [Firework](games/f/firework.md) | 4.88 | 
-| 21 | [Mago](games/m/mago.md) | 4.88 | 
-| 22 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 23 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 25 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
+| 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
+| 20 | [Black Book](games/b/black_book.md) | 4.88 | 
+| 21 | [Firework](games/f/firework.md) | 4.88 | 
+| 22 | [Mago](games/m/mago.md) | 4.88 | 
+| 23 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
+| 24 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 25 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 26 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 27 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 28 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
@@ -545,19 +545,19 @@
 | 543 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
 | 544 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
 | 545 | [Weird West](games/w/weird_west.md) | 4.46 | 
-| 546 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
-| 547 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
-| 548 | [SMITE](games/s/smite.md) | 4.45 | 
-| 549 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 550 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 551 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 552 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
-| 553 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 554 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 555 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 556 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
-| 557 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 558 | [Figment](games/f/figment.md) | 4.45 | 
+| 546 | [Figment](games/f/figment.md) | 4.46 | 
+| 547 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
+| 548 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
+| 549 | [SMITE](games/s/smite.md) | 4.45 | 
+| 550 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 551 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 552 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 553 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
+| 554 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 555 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 556 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 557 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
+| 558 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 559 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 
 | 560 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
 | 561 | [Chorus](games/c/chorus.md) | 4.45 | 

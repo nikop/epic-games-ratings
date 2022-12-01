@@ -55,7 +55,7 @@
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.37 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
-| 56 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
+| 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
@@ -241,7 +241,7 @@
 | 239 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.62 | 
 | 240 | [Fez](games/f/fez.md) | 4.71 | 
 | 241 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
-| 242 | [Figment](games/f/figment.md) | 4.45 | 
+| 242 | [Figment](games/f/figment.md) | 4.46 | 
 | 243 | [Filament](games/f/filament.md) | 4.31 | 
 | 244 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 245 | [Firework](games/f/firework.md) | 4.88 | 
