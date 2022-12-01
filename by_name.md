@@ -110,7 +110,7 @@
 | 108 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
 | 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 110 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 
 | 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 113 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 114 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
@@ -298,7 +298,7 @@
 | 296 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 297 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 298 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 299 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
+| 299 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 300 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
 | 301 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 302 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
@@ -306,7 +306,7 @@
 | 304 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 305 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 306 | [Hob](games/h/hob.md) | 4.57 | 
-| 307 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.45 | 
+| 307 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 308 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 309 | [Horace](games/h/horace.md) | 4.53 | 
 | 310 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -484,13 +484,13 @@
 | 482 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 483 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
 | 484 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
-| 485 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 485 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
 | 486 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 487 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 488 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 489 | [Pine](games/p/pine.md) | 4.14 | 
 | 490 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.46 | 
-| 491 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
+| 491 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 492 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
 | 493 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 494 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
@@ -552,7 +552,7 @@
 | 550 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 551 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 552 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 553 | [Scorn](games/s/scorn.md) | 4.48 | 
+| 553 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 554 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
 | 555 | [Scrapnaut](games/s/scrapnaut.md) | 4.38 | 
 | 556 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
@@ -695,7 +695,7 @@
 | 693 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
 | 694 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 695 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 696 | [The Tenants](games/t/the_tenants.md) | 4.54 | 
+| 696 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 697 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 698 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 4.00 | 
 | 699 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
@@ -808,7 +808,7 @@
 | 806 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
 | 807 | [WRC Generations](games/w/wrc_generations.md) | 4.50 | 
 | 808 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 809 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 809 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 810 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 811 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
 | 812 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
