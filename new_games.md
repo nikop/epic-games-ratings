@@ -2,7 +2,7 @@
 | --- | ---- | ------ | 
 | 1 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.83 | 
 | 2 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
-| 3 | [Brawlhalla](games/b/brawlhalla.md) | 4.47 | 
+| 3 | [Brawlhalla](games/b/brawlhalla.md) | 4.50 | 
 | 4 | [Somerville](games/s/somerville.md) | 4.24 | 
 | 5 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 6 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 

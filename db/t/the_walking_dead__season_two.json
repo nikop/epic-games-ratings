@@ -1,11 +1,11 @@
 {
   "ID": "buttercup",
   "Name": "The Walking Dead: Season Two",
-  "Rating": 4.84,
+  "Rating": 4.85,
   "NumberOfRatings": 24,
   "FirstSeen": "2022-07-22T20:22:19.5722563+00:00",
   "FirstSeenRating": "2022-08-07T16:31:05.1986599+00:00",
-  "LastChanged": "2022-11-30T18:57:37.3022031+00:00",
+  "LastChanged": "2022-12-01T18:57:37.5130377+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-07T16:31:05.1986602+00:00",
@@ -85,6 +85,11 @@
     {
       "Time": "2022-11-30T18:57:37.3022032+00:00",
       "Rating": 4.84,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T18:57:37.5130379+00:00",
+      "Rating": 4.85,
       "NumberOfRatings": null
     }
   ],
