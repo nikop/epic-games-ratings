@@ -1,5 +1,5 @@
 # The Elder Scrolls V: Skyrim Special Edition
-Rating: 4.85 (-)  (as of 23.09.2022)  
+Rating: 4.86 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -28,3 +28,4 @@ Rating: 4.85 (-)  (as of 23.09.2022)
 | 2022-11-23 | 4.83 | - |
 | 2022-11-24 | 4.84 | - |
 | 2022-11-27 | 4.85 | - |
+| 2022-12-01 | 4.86 | - |

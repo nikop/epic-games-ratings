@@ -32,17 +32,17 @@
 | 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 31 | [The Last Campfire](games/t/the_last_campfire.md) | 4.86 | 
 | 32 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
-| 33 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 34 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 35 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 36 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 37 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
-| 38 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
-| 39 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.85 | 
-| 40 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 41 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
-| 42 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
-| 43 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.85 | 
+| 33 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
+| 34 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 35 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 36 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
+| 37 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
+| 38 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
+| 39 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
+| 40 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.85 | 
+| 41 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 42 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
+| 43 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 44 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 45 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 46 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
@@ -398,21 +398,21 @@
 | 396 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 397 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 398 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
-| 399 | [Moving Out](games/m/moving_out.md) | 4.57 | 
-| 400 | [Hob](games/h/hob.md) | 4.57 | 
-| 401 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 402 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 403 | [Sable](games/s/sable.md) | 4.57 | 
-| 404 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.57 | 
-| 405 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 
-| 406 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
-| 407 | [The Medium](games/t/the_medium.md) | 4.57 | 
-| 408 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 409 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 410 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 411 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 412 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 413 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
+| 399 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 400 | [Moving Out](games/m/moving_out.md) | 4.57 | 
+| 401 | [Hob](games/h/hob.md) | 4.57 | 
+| 402 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
+| 403 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 404 | [Sable](games/s/sable.md) | 4.57 | 
+| 405 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.57 | 
+| 406 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 
+| 407 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
+| 408 | [The Medium](games/t/the_medium.md) | 4.57 | 
+| 409 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 410 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 411 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 412 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 413 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 414 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
 | 415 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 416 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
@@ -741,15 +741,15 @@
 | 739 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 740 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 741 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
-| 742 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
-| 743 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
-| 744 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 745 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 746 | [Windbound](games/w/windbound.md) | 4.19 | 
-| 747 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 748 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
-| 749 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 
-| 750 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 742 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
+| 743 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 744 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 745 | [Windbound](games/w/windbound.md) | 4.19 | 
+| 746 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 747 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
+| 748 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 
+| 749 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 750 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
 | 751 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 752 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 753 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 

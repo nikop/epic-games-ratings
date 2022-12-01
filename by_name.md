@@ -15,7 +15,7 @@
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
+| 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
@@ -663,7 +663,7 @@
 | 661 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 662 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
 | 663 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
-| 664 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.85 | 
+| 664 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 665 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
 | 666 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 667 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
@@ -671,7 +671,7 @@
 | 669 | [The Fall](games/t/the_fall.md) | 4.28 | 
 | 670 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
 | 671 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.73 | 
-| 672 | [The Guild 3](games/t/the_guild_3.md) | 4.20 | 
+| 672 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
 | 673 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 
 | 674 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 675 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
