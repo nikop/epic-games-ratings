@@ -187,7 +187,7 @@
 | 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.39 | 
 | 186 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
-| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
+| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 190 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 191 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
@@ -268,7 +268,7 @@
 | 266 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 267 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
 | 268 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 269 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 269 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 
 | 270 | [GigaBash](games/g/gigabash.md) | 4.52 | 
 | 271 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 272 | [GNOG](games/g/gnog.md) | 4.64 | 
@@ -362,7 +362,7 @@
 | 360 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.63 | 
 | 361 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 362 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
-| 363 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.38 | 
+| 363 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.37 | 
 | 364 | [Lake](games/l/lake.md) | 4.07 | 
 | 365 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 366 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
@@ -396,7 +396,7 @@
 | 394 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.15 | 
 | 395 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 396 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 397 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.84 | 
+| 397 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.83 | 
 | 398 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 399 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 400 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
