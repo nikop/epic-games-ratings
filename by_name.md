@@ -156,7 +156,7 @@
 | 154 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 155 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
 | 156 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 157 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
+| 157 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 158 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
 | 159 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 160 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
@@ -712,7 +712,7 @@
 | 710 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 711 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 712 | [This Is The Police](games/t/this_is_the_police.md) | 4.71 | 
-| 713 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 713 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 714 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 715 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
 | 716 | [Timberborn](games/t/timberborn.md) | 4.71 | 

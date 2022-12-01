@@ -249,20 +249,20 @@
 | 247 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 248 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
 | 249 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
-| 250 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
-| 251 | [The Red Lantern](games/t/the_red_lantern.md) | 4.67 | 
-| 252 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 253 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 254 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 255 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 
-| 256 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
-| 257 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 258 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
-| 259 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 
-| 260 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
-| 261 | [APE OUT](games/a/ape_out.md) | 4.66 | 
-| 262 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
-| 263 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 250 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
+| 251 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
+| 252 | [The Red Lantern](games/t/the_red_lantern.md) | 4.67 | 
+| 253 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 254 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 255 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 256 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 
+| 257 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 258 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 259 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
+| 260 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 
+| 261 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
+| 262 | [APE OUT](games/a/ape_out.md) | 4.66 | 
+| 263 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
 | 264 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 265 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 266 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
@@ -518,13 +518,13 @@
 | 516 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 517 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
 | 518 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 519 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.49 | 
-| 520 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
-| 521 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 522 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 523 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
-| 524 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 525 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
+| 519 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 520 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.49 | 
+| 521 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
+| 522 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 523 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 524 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
+| 525 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 526 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 527 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 528 | [Scorn](games/s/scorn.md) | 4.48 | 
