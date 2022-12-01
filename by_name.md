@@ -80,7 +80,7 @@
 | 78 | [Before We Leave](games/b/before_we_leave.md) | 4.61 | 
 | 79 | [Beholder 3](games/b/beholder_3.md) | 4.47 | 
 | 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
-| 81 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 
+| 81 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 82 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 83 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 84 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
@@ -89,7 +89,7 @@
 | 87 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.19 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
-| 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.44 | 
+| 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.45 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -184,7 +184,7 @@
 | 182 | [Diabotical](games/d/diabotical.md) | 4.76 | 
 | 183 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 184 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
-| 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.39 | 
+| 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 186 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 
@@ -453,8 +453,8 @@
 | 451 | [Old World](games/o/old_world.md) | 4.64 | 
 | 452 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 453 | [Operation: Tango](games/o/operation__tango.md) | 4.67 | 
-| 454 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.32 | 
-| 455 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
+| 454 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.34 | 
+| 455 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 456 | [Othercide](games/o/othercide.md) | 4.37 | 
 | 457 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 458 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
@@ -498,7 +498,7 @@
 | 496 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 497 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.39 | 
 | 498 | [Quake](games/q/quake.md) | 4.82 | 
-| 499 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 499 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 500 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 501 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 502 | [Rainbow Six Siege Standard Edition](games/r/rainbow_six_siege_standard_edition.md) | 4.58 | 
@@ -547,7 +547,7 @@
 | 545 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 546 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
 | 547 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 548 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
+| 548 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 549 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.63 | 
 | 550 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 551 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
