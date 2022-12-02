@@ -218,7 +218,7 @@
 | 216 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 217 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 218 | [Faeria](games/f/faeria.md) | 4.43 | 
-| 219 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
+| 219 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 220 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.83 | 
 | 221 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 222 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
@@ -537,7 +537,7 @@
 | 535 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 536 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 537 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 538 | [RUINER](games/r/ruiner.md) | 4.51 | 
+| 538 | [RUINER](games/r/ruiner.md) | 4.52 | 
 | 539 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 540 | [Runbow](games/r/runbow.md) | 4.45 | 
 | 541 | [Sable](games/s/sable.md) | 4.57 | 
@@ -550,7 +550,7 @@
 | 548 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.63 | 
 | 549 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 550 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 551 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
+| 551 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
 | 552 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 553 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 554 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 

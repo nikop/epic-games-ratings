@@ -437,18 +437,18 @@
 | 435 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
 | 436 | [STG Football](games/s/stg_football.md) | 4.55 | 
 | 437 | [The Colonists](games/t/the_colonists.md) | 4.55 | 
-| 438 | [Fall Guys](games/f/fall_guys.md) | 4.54 | 
-| 439 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
-| 440 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 441 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
-| 442 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 443 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 444 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 445 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
-| 446 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.54 | 
-| 447 | [Observation](games/o/observation.md) | 4.54 | 
-| 448 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 449 | [Redout 2](games/r/redout_2.md) | 4.54 | 
+| 438 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 439 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 440 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
+| 441 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
+| 442 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 443 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 444 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
+| 445 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.54 | 
+| 446 | [Observation](games/o/observation.md) | 4.54 | 
+| 447 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 448 | [Redout 2](games/r/redout_2.md) | 4.54 | 
+| 449 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 450 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 451 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 452 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
@@ -472,24 +472,24 @@
 | 470 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 471 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 472 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
-| 473 | [The Tenants](games/t/the_tenants.md) | 4.52 | 
-| 474 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
-| 475 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 476 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
-| 477 | [CryoFall](games/c/cryofall.md) | 4.52 | 
-| 478 | [Aztez](games/a/aztez.md) | 4.52 | 
-| 479 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 480 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
-| 481 | [GigaBash](games/g/gigabash.md) | 4.52 | 
-| 482 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 483 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.52 | 
-| 484 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 485 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 486 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 487 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 488 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 489 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 490 | [RUINER](games/r/ruiner.md) | 4.51 | 
+| 473 | [RUINER](games/r/ruiner.md) | 4.52 | 
+| 474 | [The Tenants](games/t/the_tenants.md) | 4.52 | 
+| 475 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
+| 476 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 477 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
+| 478 | [CryoFall](games/c/cryofall.md) | 4.52 | 
+| 479 | [Aztez](games/a/aztez.md) | 4.52 | 
+| 480 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 481 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
+| 482 | [GigaBash](games/g/gigabash.md) | 4.52 | 
+| 483 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 484 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.52 | 
+| 485 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 486 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 487 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 488 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 489 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 490 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 491 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
 | 492 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 493 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
@@ -716,12 +716,12 @@
 | 714 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 715 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
 | 716 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.25 | 
-| 717 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 718 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
-| 719 | [ELEX II](games/e/elex_ii.md) | 4.24 | 
-| 720 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
-| 721 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
-| 722 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
+| 717 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
+| 718 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
+| 719 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
+| 720 | [ELEX II](games/e/elex_ii.md) | 4.24 | 
+| 721 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
+| 722 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
 | 723 | [Somerville](games/s/somerville.md) | 4.24 | 
 | 724 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 725 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
