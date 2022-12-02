@@ -65,13 +65,13 @@
 | 63 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 64 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 65 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
-| 66 | [Quake](games/q/quake.md) | 4.82 | 
-| 67 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
-| 68 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 69 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 70 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 71 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 72 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 
+| 66 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
+| 67 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 68 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 69 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
+| 70 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 71 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 
+| 72 | [Quake](games/q/quake.md) | 4.81 | 
 | 73 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
 | 74 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
 | 75 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
@@ -179,17 +179,17 @@
 | 177 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
 | 178 | [This Is The Police](games/t/this_is_the_police.md) | 4.71 | 
 | 179 | [Slipways](games/s/slipways.md) | 4.71 | 
-| 180 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
-| 181 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 182 | [King of Retail](games/k/king_of_retail.md) | 4.71 | 
-| 183 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 184 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
-| 185 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 186 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
-| 187 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
-| 188 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
-| 189 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.70 | 
-| 190 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.70 | 
+| 180 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.71 | 
+| 181 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
+| 182 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 183 | [King of Retail](games/k/king_of_retail.md) | 4.71 | 
+| 184 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 185 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
+| 186 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 187 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
+| 188 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
+| 189 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
+| 190 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.70 | 
 | 191 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.70 | 
 | 192 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 
 | 193 | [No Straight Roads](games/n/no_straight_roads.md) | 4.70 | 
@@ -529,8 +529,8 @@
 | 527 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 528 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 529 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
-| 530 | [Scorn](games/s/scorn.md) | 4.48 | 
-| 531 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
+| 530 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
+| 531 | [Scorn](games/s/scorn.md) | 4.48 | 
 | 532 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 533 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 534 | [Riverbond](games/r/riverbond.md) | 4.47 | 
@@ -540,17 +540,17 @@
 | 538 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 539 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
 | 540 | [Beholder 3](games/b/beholder_3.md) | 4.47 | 
-| 541 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 542 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 543 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 544 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 545 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
-| 546 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 547 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
-| 548 | [Weird West](games/w/weird_west.md) | 4.46 | 
-| 549 | [Figment](games/f/figment.md) | 4.46 | 
-| 550 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
-| 551 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
+| 541 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.47 | 
+| 542 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 543 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 544 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 545 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 546 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
+| 547 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 548 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
+| 549 | [Weird West](games/w/weird_west.md) | 4.46 | 
+| 550 | [Figment](games/f/figment.md) | 4.46 | 
+| 551 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 552 | [SMITE](games/s/smite.md) | 4.45 | 
 | 553 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 554 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
@@ -665,11 +665,11 @@
 | 663 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.35 | 
 | 664 | [ZOMBI](games/z/zombi.md) | 4.35 | 
 | 665 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 666 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 667 | [Automachef](games/a/automachef.md) | 4.34 | 
-| 668 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 669 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.34 | 
-| 670 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
+| 666 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
+| 667 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 668 | [Automachef](games/a/automachef.md) | 4.34 | 
+| 669 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
+| 670 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.34 | 
 | 671 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 672 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 673 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.33 | 
@@ -686,11 +686,11 @@
 | 684 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.31 | 
 | 685 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 686 | [Neverwinter](games/n/neverwinter.md) | 4.30 | 
-| 687 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
-| 688 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 689 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
-| 690 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 
-| 691 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 687 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
+| 688 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
+| 689 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 
+| 690 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 691 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 692 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 693 | [House Party](games/h/house_party.md) | 4.29 | 
 | 694 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 

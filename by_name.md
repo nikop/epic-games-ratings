@@ -446,7 +446,7 @@
 | 444 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
 | 445 | [Obduction](games/o/obduction.md) | 4.09 | 
 | 446 | [Observation](games/o/observation.md) | 4.54 | 
-| 447 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.46 | 
+| 447 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
 | 448 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
 | 449 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.74 | 
 | 450 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
@@ -499,7 +499,7 @@
 | 497 | [Prey](games/p/prey.md) | 4.61 | 
 | 498 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 499 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.39 | 
-| 500 | [Quake](games/q/quake.md) | 4.82 | 
+| 500 | [Quake](games/q/quake.md) | 4.81 | 
 | 501 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 502 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 503 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
@@ -507,7 +507,7 @@
 | 505 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 506 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
 | 507 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
-| 508 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
+| 508 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 509 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 510 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 511 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
@@ -575,7 +575,7 @@
 | 573 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 574 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 575 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 576 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
+| 576 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.47 | 
 | 577 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
 | 578 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 579 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
@@ -648,7 +648,7 @@
 | 646 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 647 | [Tacoma](games/t/tacoma.md) | 4.40 | 
 | 648 | [Tails of Iron](games/t/tails_of_iron.md) | 4.76 | 
-| 649 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.70 | 
+| 649 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.71 | 
 | 650 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 651 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 652 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
@@ -786,7 +786,7 @@
 | 784 | [Warpips](games/w/warpips.md) | 4.56 | 
 | 785 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 786 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
-| 787 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
+| 787 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
 | 788 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
 | 789 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 790 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
