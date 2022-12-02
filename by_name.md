@@ -40,7 +40,7 @@
 | 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
 | 43 | [Ashen](games/a/ashen.md) | 4.31 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
@@ -194,12 +194,12 @@
 | 192 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 193 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
 | 194 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 195 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
+| 195 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
 | 196 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 197 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
 | 198 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 199 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 200 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
+| 200 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.28 | 
 | 201 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 202 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.78 | 
 | 203 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.50 | 
@@ -212,7 +212,7 @@
 | 210 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 211 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 212 | [Everything](games/e/everything.md) | 4.63 | 
-| 213 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.38 | 
+| 213 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 214 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 215 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 216 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
@@ -262,7 +262,7 @@
 | 260 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
 | 261 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.49 | 
 | 262 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 263 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
+| 263 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 
 | 264 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 265 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 266 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 
@@ -314,7 +314,7 @@
 | 312 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 313 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 314 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
-| 315 | [House Party](games/h/house_party.md) | 4.30 | 
+| 315 | [House Party](games/h/house_party.md) | 4.29 | 
 | 316 | [Hue](games/h/hue.md) | 4.55 | 
 | 317 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 318 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
@@ -346,7 +346,7 @@
 | 344 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 345 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
 | 346 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 347 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 347 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.53 | 
 | 348 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 349 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 350 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
@@ -493,7 +493,7 @@
 | 491 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.46 | 
 | 492 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 493 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
-| 494 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 494 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 495 | [Predecessor](games/p/predecessor.md) | 4.19 | 
 | 496 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 497 | [Prey](games/p/prey.md) | 4.61 | 
@@ -633,7 +633,7 @@
 | 631 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
 | 632 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 633 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
-| 634 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.70 | 
+| 634 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
 | 635 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
 | 636 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.67 | 
 | 637 | [Superliminal](games/s/superliminal.md) | 4.80 | 
@@ -808,7 +808,7 @@
 | 806 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 807 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 808 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
-| 809 | [WRC Generations](games/w/wrc_generations.md) | 4.50 | 
+| 809 | [WRC Generations](games/w/wrc_generations.md) | 4.48 | 
 | 810 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 811 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 812 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
