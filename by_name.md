@@ -105,7 +105,7 @@
 | 103 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 104 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 105 | [Card Shark](games/c/card_shark.md) | 4.64 | 
-| 106 | [CARRION](games/c/carrion.md) | 4.68 | 
+| 106 | [CARRION](games/c/carrion.md) | 4.66 | 
 | 107 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 108 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
 | 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
