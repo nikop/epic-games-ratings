@@ -214,7 +214,7 @@
 | 212 | [Everything](games/e/everything.md) | 4.63 | 
 | 213 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.38 | 
 | 214 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 215 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
+| 215 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.62 | 
 | 216 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 217 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 218 | [Faeria](games/f/faeria.md) | 4.43 | 
@@ -281,7 +281,7 @@
 | 279 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
 | 280 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 281 | [Gone Home](games/g/gone_home.md) | 4.17 | 
-| 282 | [Good Company](games/g/good_company.md) | 4.44 | 
+| 282 | [Good Company](games/g/good_company.md) | 4.45 | 
 | 283 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
 | 284 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
 | 285 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
@@ -335,7 +335,7 @@
 | 333 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 334 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
 | 335 | [Ironcast](games/i/ironcast.md) | 3.90 | 
-| 336 | [Isonzo](games/i/isonzo.md) | 4.58 | 
+| 336 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 337 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 338 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 339 | [Journey](games/j/journey.md) | 4.78 | 
@@ -362,7 +362,7 @@
 | 360 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 361 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.63 | 
 | 362 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 363 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
+| 363 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
 | 364 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.37 | 
 | 365 | [Lake](games/l/lake.md) | 4.07 | 
 | 366 | [Lamentum](games/l/lamentum.md) | 4.37 | 
@@ -808,7 +808,7 @@
 | 806 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 807 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 808 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
-| 809 | [WRC Generations](games/w/wrc_generations.md) | 4.48 | 
+| 809 | [WRC Generations](games/w/wrc_generations.md) | 4.49 | 
 | 810 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 811 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
 | 812 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 

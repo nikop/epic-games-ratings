@@ -10,4 +10,4 @@
 | 8 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
 | 9 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
 | 10 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
-| 11 | [WRC Generations](games/w/wrc_generations.md) | 4.48 | 
+| 11 | [WRC Generations](games/w/wrc_generations.md) | 4.49 | 
