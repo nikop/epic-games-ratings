@@ -79,7 +79,7 @@
 | 77 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
 | 78 | [Before We Leave](games/b/before_we_leave.md) | 4.61 | 
 | 79 | [Beholder 3](games/b/beholder_3.md) | 4.47 | 
-| 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 
+| 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
 | 81 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 82 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 83 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.50 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.49 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
@@ -498,7 +498,7 @@
 | 496 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 497 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.39 | 
 | 498 | [Quake](games/q/quake.md) | 4.82 | 
-| 499 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 499 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 500 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 501 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 502 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
@@ -582,7 +582,7 @@
 | 580 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
 | 581 | [SMITE](games/s/smite.md) | 4.45 | 
 | 582 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 583 | [Solar Ash](games/s/solar_ash.md) | 4.63 | 
+| 583 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
 | 584 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 585 | [SOMA](games/s/soma.md) | 4.64 | 
 | 586 | [Somerville](games/s/somerville.md) | 4.24 | 
@@ -691,11 +691,11 @@
 | 689 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 690 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 691 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
-| 692 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 692 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 693 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
 | 694 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 695 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 696 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 696 | [The Tenants](games/t/the_tenants.md) | 4.52 | 
 | 697 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 698 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 4.00 | 
 | 699 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
