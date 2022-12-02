@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Predecessor](games/p/predecessor.md) | 4.20 | 
+| 1 | [Predecessor](games/p/predecessor.md) | 4.15 | 
 | 2 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.83 | 
 | 3 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 4 | [Brawlhalla](games/b/brawlhalla.md) | 4.50 | 

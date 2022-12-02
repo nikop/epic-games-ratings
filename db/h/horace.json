@@ -1,10 +1,10 @@
 {
   "ID": "8aa6e526d2864c108f219747ad7011e5",
   "Name": "Horace",
-  "Rating": 4.53,
+  "Rating": 4.54,
   "NumberOfRatings": 45,
   "FirstSeen": "2022-07-22T20:16:46.8760783+00:00",
-  "LastChanged": "2022-11-27T02:25:54.5231191+00:00",
+  "LastChanged": "2022-12-02T18:57:07.5610635+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:46.8760786+00:00",
@@ -219,6 +219,11 @@
     {
       "Time": "2022-11-27T02:25:54.5231192+00:00",
       "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T18:57:07.5610636+00:00",
+      "Rating": 4.54,
       "NumberOfRatings": null
     }
   ],

@@ -149,7 +149,7 @@
 | 147 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 148 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 149 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
-| 150 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
+| 150 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
 | 151 | [Dark Deity](games/d/dark_deity.md) | 4.15 | 
 | 152 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 153 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
@@ -212,7 +212,7 @@
 | 210 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 211 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 212 | [Everything](games/e/everything.md) | 4.63 | 
-| 213 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.38 | 
+| 213 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 214 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 215 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.62 | 
 | 216 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
@@ -309,7 +309,7 @@
 | 307 | [Hob](games/h/hob.md) | 4.57 | 
 | 308 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.45 | 
 | 309 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 310 | [Horace](games/h/horace.md) | 4.53 | 
+| 310 | [Horace](games/h/horace.md) | 4.54 | 
 | 311 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 312 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 313 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
@@ -354,7 +354,7 @@
 | 352 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
 | 353 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.84 | 
 | 354 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.70 | 
-| 355 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
+| 355 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.32 | 
 | 356 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.73 | 
 | 357 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 358 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
@@ -391,7 +391,7 @@
 | 389 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 390 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 391 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 392 | [Mago](games/m/mago.md) | 4.88 | 
+| 392 | [Mago](games/m/mago.md) | 4.89 | 
 | 393 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 394 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 395 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.15 | 
@@ -432,7 +432,7 @@
 | 430 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
 | 431 | [Neverwinter](games/n/neverwinter.md) | 4.30 | 
 | 432 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.60 | 
-| 433 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.05 | 
+| 433 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.02 | 
 | 434 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 435 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 436 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -490,11 +490,11 @@
 | 488 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 
 | 489 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 490 | [Pine](games/p/pine.md) | 4.14 | 
-| 491 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.46 | 
+| 491 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.47 | 
 | 492 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 493 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
 | 494 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 495 | [Predecessor](games/p/predecessor.md) | 4.20 | 
+| 495 | [Predecessor](games/p/predecessor.md) | 4.15 | 
 | 496 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 497 | [Prey](games/p/prey.md) | 4.61 | 
 | 498 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -516,7 +516,7 @@
 | 514 | [Redout 2](games/r/redout_2.md) | 4.54 | 
 | 515 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
 | 516 | [Relicta](games/r/relicta.md) | 4.15 | 
-| 517 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
+| 517 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 518 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 519 | [Revita](games/r/revita.md) | 4.74 | 
 | 520 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
@@ -556,11 +556,11 @@
 | 554 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 555 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 556 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
-| 557 | [Scrapnaut](games/s/scrapnaut.md) | 4.38 | 
+| 557 | [Scrapnaut](games/s/scrapnaut.md) | 4.36 | 
 | 558 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 559 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 560 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 561 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.76 | 
+| 561 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.77 | 
 | 562 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 563 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
 | 564 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
@@ -665,7 +665,7 @@
 | 663 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 664 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
 | 665 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
-| 666 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.85 | 
+| 666 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 667 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
 | 668 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 669 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
@@ -792,7 +792,7 @@
 | 790 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 791 | [Weird West](games/w/weird_west.md) | 4.46 | 
 | 792 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
-| 793 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 793 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 794 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.76 | 
 | 795 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.47 | 
 | 796 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
