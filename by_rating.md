@@ -665,12 +665,12 @@
 | 663 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.35 | 
 | 664 | [ZOMBI](games/z/zombi.md) | 4.35 | 
 | 665 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 666 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
-| 667 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 668 | [Automachef](games/a/automachef.md) | 4.34 | 
-| 669 | [Among Trees](games/a/among_trees.md) | 4.34 | 
-| 670 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 671 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.34 | 
+| 666 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 667 | [Automachef](games/a/automachef.md) | 4.34 | 
+| 668 | [Among Trees](games/a/among_trees.md) | 4.34 | 
+| 669 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
+| 670 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.34 | 
+| 671 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
 | 672 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 673 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 674 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.33 | 

@@ -786,7 +786,7 @@
 | 784 | [Warpips](games/w/warpips.md) | 4.56 | 
 | 785 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 786 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 787 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
+| 787 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
 | 788 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
 | 789 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 790 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
