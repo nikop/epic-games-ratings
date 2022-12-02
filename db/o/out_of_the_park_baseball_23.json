@@ -1,10 +1,10 @@
 {
   "ID": "89e85a9255bc41ecba82e16a23aeedf4",
   "Name": "Out of the Park Baseball 23",
-  "Rating": 4.65,
+  "Rating": 4.63,
   "NumberOfRatings": 46,
   "FirstSeen": "2022-07-22T20:23:29.0257142+00:00",
-  "LastChanged": "2022-11-26T02:14:24.3400314+00:00",
+  "LastChanged": "2022-12-02T14:57:45.9519211+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:29.0257148+00:00",
@@ -114,6 +114,11 @@
     {
       "Time": "2022-11-26T02:14:24.3400317+00:00",
       "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T14:57:45.9519214+00:00",
+      "Rating": 4.63,
       "NumberOfRatings": null
     }
   ],

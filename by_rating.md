@@ -273,34 +273,34 @@
 | 271 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 272 | [Coromon](games/c/coromon.md) | 4.65 | 
 | 273 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
-| 274 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
-| 275 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
-| 276 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
-| 277 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 278 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 279 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 280 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
-| 281 | [Old World](games/o/old_world.md) | 4.64 | 
-| 282 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.64 | 
-| 283 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 284 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 285 | [SOMA](games/s/soma.md) | 4.64 | 
-| 286 | [Death's Door](games/d/death's_door.md) | 4.64 | 
-| 287 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
-| 288 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.64 | 
-| 289 | [Mutazione](games/m/mutazione.md) | 4.64 | 
-| 290 | [Card Shark](games/c/card_shark.md) | 4.64 | 
-| 291 | [GNOG](games/g/gnog.md) | 4.64 | 
-| 292 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.64 | 
-| 293 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
-| 294 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 295 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 296 | [Limbo](games/l/limbo.md) | 4.63 | 
-| 297 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 298 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
-| 299 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.63 | 
-| 300 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 301 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
+| 274 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
+| 275 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
+| 276 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 277 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 278 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 279 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
+| 280 | [Old World](games/o/old_world.md) | 4.64 | 
+| 281 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.64 | 
+| 282 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
+| 283 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
+| 284 | [SOMA](games/s/soma.md) | 4.64 | 
+| 285 | [Death's Door](games/d/death's_door.md) | 4.64 | 
+| 286 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
+| 287 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.64 | 
+| 288 | [Mutazione](games/m/mutazione.md) | 4.64 | 
+| 289 | [Card Shark](games/c/card_shark.md) | 4.64 | 
+| 290 | [GNOG](games/g/gnog.md) | 4.64 | 
+| 291 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.64 | 
+| 292 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
+| 293 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 294 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 295 | [Limbo](games/l/limbo.md) | 4.63 | 
+| 296 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 297 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
+| 298 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.63 | 
+| 299 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
+| 300 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
+| 301 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
 | 302 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.63 | 
 | 303 | [Everything](games/e/everything.md) | 4.63 | 
 | 304 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
@@ -693,16 +693,16 @@
 | 691 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 692 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 693 | [House Party](games/h/house_party.md) | 4.29 | 
-| 694 | [Steelrising](games/s/steelrising.md) | 4.29 | 
-| 695 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 
-| 696 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
-| 697 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 698 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
-| 699 | [The Fall](games/t/the_fall.md) | 4.28 | 
-| 700 | [Dark Light](games/d/dark_light.md) | 4.28 | 
-| 701 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.28 | 
-| 702 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
-| 703 | [EVE Online](games/e/eve_online.md) | 4.27 | 
+| 694 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 
+| 695 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 696 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
+| 697 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
+| 698 | [The Fall](games/t/the_fall.md) | 4.28 | 
+| 699 | [Dark Light](games/d/dark_light.md) | 4.28 | 
+| 700 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.28 | 
+| 701 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
+| 702 | [EVE Online](games/e/eve_online.md) | 4.27 | 
+| 703 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 704 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 705 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 706 | [War Mongrels](games/w/war_mongrels.md) | 4.27 | 

@@ -458,7 +458,7 @@
 | 456 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 457 | [Othercide](games/o/othercide.md) | 4.37 | 
 | 458 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 459 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.65 | 
+| 459 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
 | 460 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 461 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 462 | [Outlast 2](games/o/outlast_2.md) | 4.70 | 
@@ -615,7 +615,7 @@
 | 613 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 614 | [Startup Panic](games/s/startup_panic.md) | 4.37 | 
 | 615 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 616 | [Steelrising](games/s/steelrising.md) | 4.29 | 
+| 616 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 617 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
 | 618 | [STG Football](games/s/stg_football.md) | 4.55 | 
 | 619 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
