@@ -245,7 +245,7 @@
 | 243 | [Filament](games/f/filament.md) | 4.32 | 
 | 244 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 245 | [Firework](games/f/firework.md) | 4.88 | 
-| 246 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 
+| 246 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 247 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
 | 248 | [Flatout](games/f/flatout.md) | 4.05 | 
 | 249 | [Flatout 2](games/f/flatout_2.md) | 4.92 | 
@@ -281,7 +281,7 @@
 | 279 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 280 | [Gone Home](games/g/gone_home.md) | 4.17 | 
 | 281 | [Good Company](games/g/good_company.md) | 4.44 | 
-| 282 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
+| 282 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 283 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
 | 284 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 285 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -306,7 +306,7 @@
 | 304 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 305 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 306 | [Hob](games/h/hob.md) | 4.57 | 
-| 307 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
+| 307 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.45 | 
 | 308 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 309 | [Horace](games/h/horace.md) | 4.53 | 
 | 310 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -615,7 +615,7 @@
 | 613 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 614 | [Steelrising](games/s/steelrising.md) | 4.29 | 
 | 615 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
-| 616 | [STG Football](games/s/stg_football.md) | 4.56 | 
+| 616 | [STG Football](games/s/stg_football.md) | 4.55 | 
 | 617 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 618 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 619 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
@@ -771,7 +771,7 @@
 | 769 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 770 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 771 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 772 | [Void Bastards](games/v/void_bastards.md) | 4.61 | 
+| 772 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 773 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 774 | [War Mongrels](games/w/war_mongrels.md) | 4.27 | 
 | 775 | [Warface](games/w/warface.md) | 3.93 | 
