@@ -809,11 +809,12 @@
 | 807 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 808 | [Ironcast](games/i/ironcast.md) | 3.90 | 
 | 809 | [Patron](games/p/patron.md) | 3.90 | 
-| 810 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 811 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
-| 812 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
-| 813 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
-| 814 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 815 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
-| 816 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.78 | 
-| 817 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.70 | 
+| 810 | [Fort Triumph](games/f/fort_triumph.md) | 3.89 | 
+| 811 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
+| 812 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
+| 813 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
+| 814 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
+| 815 | [Saints Row](games/s/saints_row.md) | 3.78 | 
+| 816 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
+| 817 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.78 | 
+| 818 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.70 | 
