@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.49 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.50 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
@@ -112,7 +112,7 @@
 | 110 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 
 | 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 113 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
+| 113 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
 | 114 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
 | 115 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 116 | [Chorus](games/c/chorus.md) | 4.45 | 
@@ -189,7 +189,7 @@
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 190 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
+| 190 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 191 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 192 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 193 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
@@ -212,7 +212,7 @@
 | 210 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 211 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 212 | [Everything](games/e/everything.md) | 4.63 | 
-| 213 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 213 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.38 | 
 | 214 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 215 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 216 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
@@ -366,7 +366,7 @@
 | 364 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.37 | 
 | 365 | [Lake](games/l/lake.md) | 4.07 | 
 | 366 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 367 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
+| 367 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
 | 368 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 369 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 370 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
@@ -430,7 +430,7 @@
 | 428 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 429 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 430 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
-| 431 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
+| 431 | [Neverwinter](games/n/neverwinter.md) | 4.30 | 
 | 432 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.60 | 
 | 433 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.05 | 
 | 434 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
@@ -665,7 +665,7 @@
 | 663 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 664 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
 | 665 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
-| 666 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
+| 666 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.85 | 
 | 667 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
 | 668 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 669 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
@@ -752,7 +752,7 @@
 | 750 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.70 | 
 | 751 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
 | 752 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
-| 753 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.23 | 
+| 753 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.22 | 
 | 754 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 755 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 756 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
