@@ -250,7 +250,7 @@
 | 248 | [Flatout](games/f/flatout.md) | 4.05 | 
 | 249 | [Flatout 2](games/f/flatout_2.md) | 4.92 | 
 | 250 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
+| 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
 | 252 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 253 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 254 | [Fort Triumph](games/f/fort_triumph.md) | 3.89 | 
@@ -350,7 +350,7 @@
 | 348 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 349 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 350 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
-| 351 | [King of Retail](games/k/king_of_retail.md) | 4.75 | 
+| 351 | [King of Retail](games/k/king_of_retail.md) | 4.71 | 
 | 352 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
 | 353 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.84 | 
 | 354 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.70 | 
@@ -748,7 +748,7 @@
 | 746 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 747 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 748 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 749 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 749 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 750 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.70 | 
 | 751 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
 | 752 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
@@ -785,7 +785,7 @@
 | 783 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.57 | 
 | 784 | [Warpips](games/w/warpips.md) | 4.56 | 
 | 785 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
-| 786 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
+| 786 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 787 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.33 | 
 | 788 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
 | 789 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
