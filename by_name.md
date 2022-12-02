@@ -23,7 +23,7 @@
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 24 | [Among Trees](games/a/among_trees.md) | 4.34 | 
+| 24 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
@@ -187,7 +187,7 @@
 | 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 186 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
-| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
+| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 190 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
 | 191 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
@@ -234,7 +234,7 @@
 | 232 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
 | 233 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
 | 234 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
-| 235 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.15 | 
+| 235 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.14 | 
 | 236 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 237 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 238 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
@@ -250,7 +250,7 @@
 | 248 | [Flatout](games/f/flatout.md) | 4.05 | 
 | 249 | [Flatout 2](games/f/flatout_2.md) | 4.92 | 
 | 250 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
+| 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 252 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 253 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 254 | [Fort Triumph](games/f/fort_triumph.md) | 3.89 | 
@@ -291,7 +291,7 @@
 | 289 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 290 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 291 | [Hades](games/h/hades.md) | 4.92 | 
-| 292 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 292 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 293 | [Hammerting](games/h/hammerting.md) | 4.44 | 
 | 294 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 295 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
@@ -381,7 +381,7 @@
 | 379 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 380 | [Limbo](games/l/limbo.md) | 4.63 | 
 | 381 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
-| 382 | [Little Inferno](games/l/little_inferno.md) | 4.56 | 
+| 382 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 
 | 383 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 384 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 385 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
@@ -494,7 +494,7 @@
 | 492 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 493 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
 | 494 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 495 | [Predecessor](games/p/predecessor.md) | 4.19 | 
+| 495 | [Predecessor](games/p/predecessor.md) | 4.20 | 
 | 496 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 497 | [Prey](games/p/prey.md) | 4.61 | 
 | 498 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -587,7 +587,7 @@
 | 585 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
 | 586 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 587 | [SOMA](games/s/soma.md) | 4.64 | 
-| 588 | [Somerville](games/s/somerville.md) | 4.24 | 
+| 588 | [Somerville](games/s/somerville.md) | 4.19 | 
 | 589 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 590 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
 | 591 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
@@ -734,7 +734,7 @@
 | 732 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 733 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.64 | 
 | 734 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 735 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
+| 735 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.45 | 
 | 736 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
 | 737 | [Townscaper](games/t/townscaper.md) | 4.72 | 
 | 738 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
