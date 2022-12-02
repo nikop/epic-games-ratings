@@ -48,7 +48,7 @@
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.55 | 
-| 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 
+| 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
@@ -91,10 +91,10 @@
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.45 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
-| 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.50 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
@@ -140,7 +140,7 @@
 | 138 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 139 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
 | 140 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 141 | [CryoFall](games/c/cryofall.md) | 4.52 | 
+| 141 | [CryoFall](games/c/cryofall.md) | 4.51 | 
 | 142 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 143 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
 | 144 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
@@ -150,7 +150,7 @@
 | 148 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 149 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
 | 150 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
-| 151 | [Dark Deity](games/d/dark_deity.md) | 4.15 | 
+| 151 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
 | 152 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 153 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 154 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -474,7 +474,7 @@
 | 472 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 473 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
 | 474 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 475 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 475 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 476 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.25 | 
 | 477 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 478 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
@@ -505,7 +505,7 @@
 | 503 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 504 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
 | 505 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 506 | [Rayman Origins](games/r/rayman_origins.md) | 4.78 | 
+| 506 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
 | 507 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
 | 508 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 509 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
@@ -554,7 +554,7 @@
 | 552 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 553 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
 | 554 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 555 | [Scorn](games/s/scorn.md) | 4.47 | 
+| 555 | [Scorn](games/s/scorn.md) | 4.48 | 
 | 556 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
 | 557 | [Scrapnaut](games/s/scrapnaut.md) | 4.36 | 
 | 558 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
@@ -810,7 +810,7 @@
 | 808 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
 | 809 | [WRC Generations](games/w/wrc_generations.md) | 4.49 | 
 | 810 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 811 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 811 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 812 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 813 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
 | 814 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
