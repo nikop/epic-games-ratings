@@ -333,7 +333,7 @@
 | 331 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 332 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 333 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 334 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
+| 334 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
 | 335 | [Ironcast](games/i/ironcast.md) | 3.90 | 
 | 336 | [Isonzo](games/i/isonzo.md) | 4.58 | 
 | 337 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 

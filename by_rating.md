@@ -638,21 +638,21 @@
 | 636 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 637 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
 | 638 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
-| 639 | [Torchlight](games/t/torchlight.md) | 4.37 | 
-| 640 | [Encased](games/e/encased.md) | 4.37 | 
-| 641 | [Othercide](games/o/othercide.md) | 4.37 | 
-| 642 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 643 | [Startup Panic](games/s/startup_panic.md) | 4.37 | 
-| 644 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.37 | 
-| 645 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 646 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
-| 647 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 648 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 649 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 650 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 651 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
-| 652 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
-| 653 | [Iron Harvest](games/i/iron_harvest.md) | 4.36 | 
+| 639 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 640 | [Torchlight](games/t/torchlight.md) | 4.37 | 
+| 641 | [Encased](games/e/encased.md) | 4.37 | 
+| 642 | [Othercide](games/o/othercide.md) | 4.37 | 
+| 643 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 644 | [Startup Panic](games/s/startup_panic.md) | 4.37 | 
+| 645 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.37 | 
+| 646 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 647 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
+| 648 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 649 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 650 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 651 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 652 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
+| 653 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 654 | [Democracy 4](games/d/democracy_4.md) | 4.36 | 
 | 655 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 656 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
