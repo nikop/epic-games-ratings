@@ -246,7 +246,7 @@
 | 244 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 245 | [Firework](games/f/firework.md) | 4.88 | 
 | 246 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 247 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
+| 247 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 248 | [Flatout](games/f/flatout.md) | 4.05 | 
 | 249 | [Flatout 2](games/f/flatout_2.md) | 4.92 | 
 | 250 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
@@ -298,7 +298,7 @@
 | 296 | [Haven](games/h/haven.md) | 4.77 | 
 | 297 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
 | 298 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 299 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 299 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 
 | 300 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 301 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
 | 302 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
@@ -445,7 +445,7 @@
 | 443 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 444 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
 | 445 | [Obduction](games/o/obduction.md) | 4.09 | 
-| 446 | [Observation](games/o/observation.md) | 4.54 | 
+| 446 | [Observation](games/o/observation.md) | 4.56 | 
 | 447 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
 | 448 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
 | 449 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.74 | 
@@ -470,7 +470,7 @@
 | 468 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
 | 469 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 470 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 471 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
+| 471 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.56 | 
 | 472 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 473 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
 | 474 | [Parkitect](games/p/parkitect.md) | 4.27 | 
@@ -567,7 +567,7 @@
 | 565 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 566 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.75 | 
 | 567 | [shapez](games/s/shapez.md) | 4.73 | 
-| 568 | [Sheltered](games/s/sheltered.md) | 4.43 | 
+| 568 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 569 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 
 | 570 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
 | 571 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
