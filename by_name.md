@@ -72,7 +72,7 @@
 | 70 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 71 | [Barony](games/b/barony.md) | 4.69 | 
 | 72 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.32 | 
-| 73 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
+| 73 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
 | 74 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 75 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
@@ -282,7 +282,7 @@
 | 280 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 281 | [Gone Home](games/g/gone_home.md) | 4.17 | 
 | 282 | [Good Company](games/g/good_company.md) | 4.44 | 
-| 283 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 283 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
 | 284 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
 | 285 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 286 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -386,7 +386,7 @@
 | 384 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 385 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
 | 386 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.06 | 
-| 387 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 387 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 388 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
 | 389 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 390 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
@@ -405,7 +405,7 @@
 | 403 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 404 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 405 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 406 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 
+| 406 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.44 | 
 | 407 | [Minit](games/m/minit.md) | 4.55 | 
 | 408 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.83 | 
 | 409 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
