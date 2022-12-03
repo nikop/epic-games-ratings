@@ -86,7 +86,7 @@
 | 84 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
 | 85 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 86 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
-| 87 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 
+| 87 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.45 | 
@@ -101,7 +101,7 @@
 | 99 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 100 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 
 | 101 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
-| 102 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
+| 102 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.08 | 
 | 103 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 104 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 105 | [Card Shark](games/c/card_shark.md) | 4.64 | 
@@ -150,7 +150,7 @@
 | 148 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 149 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
 | 150 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
-| 151 | [Dark Deity](games/d/dark_deity.md) | 4.15 | 
+| 151 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
 | 152 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 153 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 154 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -303,7 +303,7 @@
 | 301 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
 | 302 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 303 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 304 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.54 | 
+| 304 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 305 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 306 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 307 | [Hob](games/h/hob.md) | 4.57 | 
@@ -581,7 +581,7 @@
 | 579 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 580 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 581 | [Slipways](games/s/slipways.md) | 4.71 | 
-| 582 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
+| 582 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
 | 583 | [SMITE](games/s/smite.md) | 4.45 | 
 | 584 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 585 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
@@ -693,7 +693,7 @@
 | 691 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 692 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 693 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
-| 694 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 694 | [The Surge](games/t/the_surge.md) | 4.52 | 
 | 695 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
 | 696 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 697 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
@@ -807,7 +807,7 @@
 | 805 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 806 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
 | 807 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
-| 808 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.56 | 
+| 808 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 809 | [WRC Generations](games/w/wrc_generations.md) | 4.49 | 
 | 810 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 811 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
