@@ -571,7 +571,7 @@
 | 569 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 
 | 570 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
 | 571 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 572 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 
+| 572 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
 | 573 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 574 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 575 | [Sifu](games/s/sifu.md) | 4.80 | 
@@ -715,7 +715,7 @@
 | 713 | [This Is The Police](games/t/this_is_the_police.md) | 4.71 | 
 | 714 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
 | 715 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
-| 716 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
+| 716 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.60 | 
 | 717 | [Timberborn](games/t/timberborn.md) | 4.71 | 
 | 718 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 719 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 

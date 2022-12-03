@@ -354,25 +354,25 @@
 | 352 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
 | 353 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.60 | 
 | 354 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 
-| 355 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
-| 356 | [Road 96](games/r/road_96.md) | 4.60 | 
-| 357 | [RiME](games/r/rime.md) | 4.60 | 
-| 358 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
-| 359 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 360 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.60 | 
-| 361 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 362 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 363 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
-| 364 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 365 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
-| 366 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 367 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
-| 368 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
-| 369 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
-| 370 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
-| 371 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
-| 372 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
-| 373 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.59 | 
+| 355 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.60 | 
+| 356 | [Oxenfree](games/o/oxenfree.md) | 4.60 | 
+| 357 | [Road 96](games/r/road_96.md) | 4.60 | 
+| 358 | [RiME](games/r/rime.md) | 4.60 | 
+| 359 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
+| 360 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
+| 361 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.60 | 
+| 362 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 363 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 364 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
+| 365 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 366 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
+| 367 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 368 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
+| 369 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 370 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 371 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
+| 372 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
+| 373 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
 | 374 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.59 | 
 | 375 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 376 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.59 | 
@@ -585,19 +585,19 @@
 | 583 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 584 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
 | 585 | [Faeria](games/f/faeria.md) | 4.43 | 
-| 586 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 587 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 
-| 588 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 589 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 590 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 591 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 592 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 593 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 594 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
-| 595 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
-| 596 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
-| 597 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
-| 598 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 
+| 586 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
+| 587 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
+| 588 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 
+| 589 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 590 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 591 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 592 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 593 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 594 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 595 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
+| 596 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
+| 597 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
+| 598 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 599 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 600 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 601 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
