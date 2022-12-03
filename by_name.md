@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
@@ -150,7 +150,7 @@
 | 148 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 149 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
 | 150 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
-| 151 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 151 | [Dark Deity](games/d/dark_deity.md) | 4.15 | 
 | 152 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 153 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 154 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -202,7 +202,7 @@
 | 200 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.28 | 
 | 201 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 202 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.78 | 
-| 203 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.50 | 
+| 203 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 204 | [ELEX](games/e/elex.md) | 4.39 | 
 | 205 | [ELEX II](games/e/elex_ii.md) | 4.24 | 
 | 206 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
@@ -223,7 +223,7 @@
 | 221 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 222 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
 | 223 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 224 | [Far Cry](games/f/far_cry.md) | 4.43 | 
+| 224 | [Far Cry](games/f/far_cry.md) | 4.44 | 
 | 225 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
 | 226 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 
 | 227 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
@@ -552,7 +552,7 @@
 | 550 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.63 | 
 | 551 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 552 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 553 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
+| 553 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 554 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 555 | [Scorn](games/s/scorn.md) | 4.48 | 
 | 556 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
