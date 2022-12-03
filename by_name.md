@@ -31,7 +31,7 @@
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
-| 32 | [Anno 2070](games/a/anno_2070.md) | 4.41 | 
+| 32 | [Anno 2070](games/a/anno_2070.md) | 4.42 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
@@ -66,7 +66,7 @@
 | 64 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 65 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 66 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 67 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 
+| 67 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
 | 68 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 
 | 69 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 70 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
@@ -89,7 +89,7 @@
 | 87 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
-| 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.45 | 
+| 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -204,7 +204,7 @@
 | 202 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.78 | 
 | 203 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 204 | [ELEX](games/e/elex.md) | 4.39 | 
-| 205 | [ELEX II](games/e/elex_ii.md) | 4.24 | 
+| 205 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 206 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 207 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 208 | [Encased](games/e/encased.md) | 4.37 | 
@@ -658,7 +658,7 @@
 | 656 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.63 | 
 | 657 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 658 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 659 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.48 | 
+| 659 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.43 | 
 | 660 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 661 | [The Colonists](games/t/the_colonists.md) | 4.55 | 
 | 662 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
