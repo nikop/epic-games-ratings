@@ -30,7 +30,7 @@
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.42 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
@@ -72,7 +72,7 @@
 | 70 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 71 | [Barony](games/b/barony.md) | 4.69 | 
 | 72 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.32 | 
-| 73 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
+| 73 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 74 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 75 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
@@ -658,7 +658,7 @@
 | 656 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.63 | 
 | 657 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 658 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 659 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.43 | 
+| 659 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.37 | 
 | 660 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 661 | [The Colonists](games/t/the_colonists.md) | 4.55 | 
 | 662 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
@@ -726,7 +726,7 @@
 | 724 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 725 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.31 | 
 | 726 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 727 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
+| 727 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 728 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 729 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 730 | [Torchlight](games/t/torchlight.md) | 4.37 | 
