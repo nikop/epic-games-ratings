@@ -94,14 +94,14 @@
 | 92 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
 | 93 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 94 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
-| 95 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
-| 96 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
-| 97 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.79 | 
-| 98 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
-| 99 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 101 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 102 | [Journey](games/j/journey.md) | 4.78 | 
+| 95 | [Journey](games/j/journey.md) | 4.79 | 
+| 96 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
+| 97 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
+| 98 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.79 | 
+| 99 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 100 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 101 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 102 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 103 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 
 | 104 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 105 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
@@ -270,24 +270,24 @@
 | 268 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
 | 269 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 270 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 271 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
-| 272 | [Coromon](games/c/coromon.md) | 4.65 | 
-| 273 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
-| 274 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
-| 275 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
-| 276 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 277 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 278 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 279 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
-| 280 | [Old World](games/o/old_world.md) | 4.64 | 
-| 281 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.64 | 
-| 282 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 283 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 284 | [SOMA](games/s/soma.md) | 4.64 | 
-| 285 | [Limbo](games/l/limbo.md) | 4.64 | 
-| 286 | [Death's Door](games/d/death's_door.md) | 4.64 | 
-| 287 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
-| 288 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.64 | 
+| 271 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.65 | 
+| 272 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
+| 273 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 274 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
+| 275 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
+| 276 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
+| 277 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 278 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 279 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 280 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
+| 281 | [Old World](games/o/old_world.md) | 4.64 | 
+| 282 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.64 | 
+| 283 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
+| 284 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
+| 285 | [SOMA](games/s/soma.md) | 4.64 | 
+| 286 | [Limbo](games/l/limbo.md) | 4.64 | 
+| 287 | [Death's Door](games/d/death's_door.md) | 4.64 | 
+| 288 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
 | 289 | [Card Shark](games/c/card_shark.md) | 4.64 | 
 | 290 | [GNOG](games/g/gnog.md) | 4.64 | 
 | 291 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.64 | 
@@ -703,16 +703,16 @@
 | 701 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
 | 702 | [EVE Online](games/e/eve_online.md) | 4.27 | 
 | 703 | [Steelrising](games/s/steelrising.md) | 4.27 | 
-| 704 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
-| 705 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
-| 706 | [War Mongrels](games/w/war_mongrels.md) | 4.27 | 
-| 707 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 708 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 709 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 710 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
-| 711 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
-| 712 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 713 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 704 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
+| 705 | [War Mongrels](games/w/war_mongrels.md) | 4.27 | 
+| 706 | [Parkitect](games/p/parkitect.md) | 4.27 | 
+| 707 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 708 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 709 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
+| 710 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
+| 711 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 712 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 713 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 
 | 714 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
 | 715 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
 | 716 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.25 | 
@@ -753,16 +753,16 @@
 | 751 | [Somerville](games/s/somerville.md) | 4.19 | 
 | 752 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 753 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 754 | [Gone Home](games/g/gone_home.md) | 4.17 | 
-| 755 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 756 | [OVERPASS™](games/o/overpass™.md) | 4.17 | 
-| 757 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
-| 758 | [Tharsis](games/t/tharsis.md) | 4.16 | 
-| 759 | [Submerged](games/s/submerged.md) | 4.16 | 
-| 760 | [Relicta](games/r/relicta.md) | 4.15 | 
-| 761 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.15 | 
-| 762 | [Dark Deity](games/d/dark_deity.md) | 4.15 | 
-| 763 | [Predecessor](games/p/predecessor.md) | 4.15 | 
+| 754 | [Predecessor](games/p/predecessor.md) | 4.18 | 
+| 755 | [Gone Home](games/g/gone_home.md) | 4.17 | 
+| 756 | [Family Man](games/f/family_man.md) | 4.17 | 
+| 757 | [OVERPASS™](games/o/overpass™.md) | 4.17 | 
+| 758 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
+| 759 | [Tharsis](games/t/tharsis.md) | 4.16 | 
+| 760 | [Submerged](games/s/submerged.md) | 4.16 | 
+| 761 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 762 | [Relicta](games/r/relicta.md) | 4.15 | 
+| 763 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.15 | 
 | 764 | [Pine](games/p/pine.md) | 4.14 | 
 | 765 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 766 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.14 | 

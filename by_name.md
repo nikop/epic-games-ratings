@@ -136,7 +136,7 @@
 | 134 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
 | 135 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 136 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 137 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
+| 137 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 
 | 138 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 139 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
 | 140 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
@@ -150,7 +150,7 @@
 | 148 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 149 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
 | 150 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
-| 151 | [Dark Deity](games/d/dark_deity.md) | 4.15 | 
+| 151 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
 | 152 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 153 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 154 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -338,7 +338,7 @@
 | 336 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 337 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 338 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 339 | [Journey](games/j/journey.md) | 4.78 | 
+| 339 | [Journey](games/j/journey.md) | 4.79 | 
 | 340 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.59 | 
 | 341 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 342 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
@@ -494,7 +494,7 @@
 | 492 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 493 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
 | 494 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 495 | [Predecessor](games/p/predecessor.md) | 4.15 | 
+| 495 | [Predecessor](games/p/predecessor.md) | 4.18 | 
 | 496 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 497 | [Prey](games/p/prey.md) | 4.61 | 
 | 498 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -719,7 +719,7 @@
 | 717 | [Timberborn](games/t/timberborn.md) | 4.71 | 
 | 718 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 719 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 720 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.64 | 
+| 720 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.65 | 
 | 721 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
 | 722 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 723 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
