@@ -306,29 +306,29 @@
 | 304 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 305 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 306 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 307 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 308 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 309 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 310 | [ABZU](games/a/abzu.md) | 4.62 | 
-| 311 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 312 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
-| 313 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
-| 314 | [Before We Leave](games/b/before_we_leave.md) | 4.62 | 
-| 315 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.62 | 
-| 316 | [Roguebook](games/r/roguebook.md) | 4.62 | 
-| 317 | [Mutazione](games/m/mutazione.md) | 4.62 | 
-| 318 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.62 | 
-| 319 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 
-| 320 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.62 | 
-| 321 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
-| 322 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 323 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 324 | [Prey](games/p/prey.md) | 4.61 | 
-| 325 | [Warframe](games/w/warframe.md) | 4.61 | 
-| 326 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
-| 327 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 328 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 329 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 307 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 308 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 309 | [ABZU](games/a/abzu.md) | 4.62 | 
+| 310 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 311 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
+| 312 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
+| 313 | [Before We Leave](games/b/before_we_leave.md) | 4.62 | 
+| 314 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.62 | 
+| 315 | [Roguebook](games/r/roguebook.md) | 4.62 | 
+| 316 | [Mutazione](games/m/mutazione.md) | 4.62 | 
+| 317 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.62 | 
+| 318 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 
+| 319 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.62 | 
+| 320 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
+| 321 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 322 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 323 | [Prey](games/p/prey.md) | 4.61 | 
+| 324 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 325 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
+| 326 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 327 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 328 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 329 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 330 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 331 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
 | 332 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
@@ -492,24 +492,24 @@
 | 490 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
 | 491 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 492 | [CryoFall](games/c/cryofall.md) | 4.51 | 
-| 493 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 494 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 495 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 496 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
-| 497 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 498 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 499 | [MythForce](games/m/mythforce.md) | 4.50 | 
-| 500 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
-| 501 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
-| 502 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
-| 503 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
-| 504 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 505 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
-| 506 | [UnMetal](games/u/unmetal.md) | 4.50 | 
-| 507 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 508 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 509 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 510 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 493 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 494 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 495 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 496 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 497 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
+| 498 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 499 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 500 | [MythForce](games/m/mythforce.md) | 4.50 | 
+| 501 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
+| 502 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
+| 503 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
+| 504 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
+| 505 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 506 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
+| 507 | [UnMetal](games/u/unmetal.md) | 4.50 | 
+| 508 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 509 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 510 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 511 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 512 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 513 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
@@ -776,10 +776,10 @@
 | 774 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
 | 775 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
 | 776 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 777 | [Obduction](games/o/obduction.md) | 4.09 | 
-| 778 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 779 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
-| 780 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.08 | 
+| 777 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
+| 778 | [Obduction](games/o/obduction.md) | 4.09 | 
+| 779 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 780 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
 | 781 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
 | 782 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
 | 783 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 

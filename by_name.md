@@ -101,7 +101,7 @@
 | 99 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 100 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 
 | 101 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
-| 102 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.08 | 
+| 102 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
 | 103 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 104 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 105 | [Card Shark](games/c/card_shark.md) | 4.64 | 
@@ -177,7 +177,7 @@
 | 175 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 176 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 177 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
-| 178 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 178 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 179 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.59 | 
 | 180 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 181 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -386,7 +386,7 @@
 | 384 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 385 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
 | 386 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.06 | 
-| 387 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 387 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 388 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
 | 389 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 390 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
