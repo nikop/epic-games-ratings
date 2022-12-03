@@ -293,9 +293,9 @@ await File.WriteAllTextAsync(
 );
 await File.WriteAllTextAsync(
     Path.Combine(path, "by_rating.md"), 
-    Markdown.BuildMarkdownTable(gameIndex, filteredList.OrderByDescending(x => x.Rating).ThenByDescending(x => x.NumberOfRatings).ThenBy(x => x.Name))
+    Markdown.BuildMarkdownTable(gameIndex, filteredList.OrderByDescending(x => x.Rating).ThenByDescending(x => x.NumberOfRatings).ThenBy(x => x.Name), true)
 );
 await File.WriteAllTextAsync(
     Path.Combine(path, "new_games.md"),
-    Markdown.BuildMarkdownTable(gameIndex, filteredList.Where(x => x.FirstSeen != null && ratingsCutOffNew < x.FirstSeen).OrderByDescending(x => x.FirstSeen).ThenBy(x => x.Name))
+    Markdown.BuildMarkdownTable(gameIndex, filteredList.Where(x => x.FirstSeen != null && ratingsCutOffNew < x.FirstSeen).OrderByDescending(x => x.FirstSeen).ThenBy(x => x.Name), true)
 );

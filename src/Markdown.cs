@@ -55,7 +55,7 @@ namespace EpicRatingsUpdater
             return sb.ToString();
         }
 
-        static public string BuildMarkdownTable(JsonIndexDb<GameDbItem> gameIndex, IEnumerable<GameDbItem> items)
+        static public string BuildMarkdownTable(JsonIndexDb<GameDbItem> gameIndex, IEnumerable<GameDbItem> items, bool groupByRating = false)
         {
             var sb = new StringBuilder();
 
@@ -63,12 +63,19 @@ namespace EpicRatingsUpdater
             sb.AppendLine("| --- | ---- | ------ | ");
 
             var i = 1;
+            var lastRanking = i;
+            double? lastRating = null;
 
             foreach (var item in items)
             {
                 var link = "games/" + gameIndex.Files[item.ID].Replace(@"\", "/") + ".md";
 
-                sb.AppendLine($"| {i} | [{item.Name}]({link}) | {FormatRating(item.Rating)} | ");
+                var displayRanking = !groupByRating ? i : (item.Rating == lastRating ? lastRanking : i);
+
+                sb.AppendLine($"| {displayRanking} | [{item.Name}]({link}) | {FormatRating(item.Rating)} | ");
+
+                lastRanking = displayRanking;
+                lastRating = item.Rating;
 
                 i++;
             }
