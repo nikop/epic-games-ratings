@@ -1,7 +1,16 @@
 {
   "ID": "c22a84689e1a4ad083b2b4ba0ee396f4",
   "Name": "Icewind Dale: Enhanced Edition",
+  "Rating": 4.75,
   "FirstSeen": "2022-07-22T20:30:15.7378973+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-12-03T17:58:19.7648385+00:00",
+  "LastChanged": "2022-12-03T17:58:19.7648386+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-12-03T17:58:19.7648387+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
