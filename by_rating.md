@@ -492,26 +492,26 @@
 | 490 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 491 | [CryoFall](games/c/cryofall.md) | 4.51 | 
 | 492 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
-| 493 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 494 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 495 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 496 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 497 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 498 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
-| 499 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 500 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 501 | [MythForce](games/m/mythforce.md) | 4.50 | 
-| 502 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
-| 503 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
-| 504 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
-| 505 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
-| 506 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.50 | 
-| 507 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 508 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
-| 509 | [UnMetal](games/u/unmetal.md) | 4.50 | 
-| 510 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
-| 511 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 512 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 493 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 494 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
+| 495 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 496 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 497 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
+| 498 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 499 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 500 | [MythForce](games/m/mythforce.md) | 4.50 | 
+| 501 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
+| 502 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
+| 503 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
+| 504 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
+| 505 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.50 | 
+| 506 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 507 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
+| 508 | [UnMetal](games/u/unmetal.md) | 4.50 | 
+| 509 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 510 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 511 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 512 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 513 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 514 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 515 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
@@ -686,10 +686,10 @@
 | 684 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
 | 685 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.31 | 
 | 686 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 687 | [Neverwinter](games/n/neverwinter.md) | 4.30 | 
-| 688 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 689 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 
-| 690 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 687 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
+| 688 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 
+| 689 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 690 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 691 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 692 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 693 | [House Party](games/h/house_party.md) | 4.29 | 
