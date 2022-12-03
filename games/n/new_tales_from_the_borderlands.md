@@ -1,5 +1,5 @@
 # New Tales from the Borderlands
-Rating: 4.02 (-)  (as of 23.09.2022)  
+Rating: 4.04 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -23,3 +23,4 @@ Rating: 4.02 (-)  (as of 23.09.2022)
 | 2022-11-30 | 4.04 | - |
 | 2022-12-01 | 4.05 | - |
 | 2022-12-02 | 4.02 | - |
+| 2022-12-03 | 4.04 | - |

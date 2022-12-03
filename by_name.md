@@ -2,7 +2,7 @@
 | --- | ---- | ------ | 
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
 | 2 | [20XX](games/2/20xx.md) | 4.60 | 
-| 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.33 | 
+| 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.34 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
@@ -30,7 +30,7 @@
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.42 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
@@ -45,7 +45,7 @@
 | 43 | [Ashen](games/a/ashen.md) | 4.31 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.60 | 
+| 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.55 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
@@ -99,7 +99,7 @@
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 99 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
-| 100 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 
+| 100 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.30 | 
 | 101 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
 | 102 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
 | 103 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
@@ -397,7 +397,7 @@
 | 395 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 396 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.15 | 
 | 397 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 398 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 3.94 | 
+| 398 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 3.98 | 
 | 399 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 400 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.83 | 
 | 401 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
@@ -434,7 +434,7 @@
 | 432 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 433 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 434 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.60 | 
-| 435 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.02 | 
+| 435 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.04 | 
 | 436 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 437 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 438 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -562,7 +562,7 @@
 | 560 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 561 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 562 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 563 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.77 | 
+| 563 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.74 | 
 | 564 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 565 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
 | 566 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
@@ -655,12 +655,12 @@
 | 653 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 654 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 655 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.85 | 
-| 656 | [Tharsis](games/t/tharsis.md) | 4.16 | 
+| 656 | [Tharsis](games/t/tharsis.md) | 4.18 | 
 | 657 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
 | 658 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.63 | 
 | 659 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 660 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 661 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.37 | 
+| 661 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.25 | 
 | 662 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 663 | [The Colonists](games/t/the_colonists.md) | 4.55 | 
 | 664 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
@@ -795,8 +795,8 @@
 | 793 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
 | 794 | [Weird West](games/w/weird_west.md) | 4.46 | 
 | 795 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
-| 796 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
-| 797 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.76 | 
+| 796 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 797 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 798 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.47 | 
 | 799 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 800 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
