@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
-| 2 | [20XX](games/2/20xx.md) | 4.61 | 
+| 2 | [20XX](games/2/20xx.md) | 4.60 | 
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.33 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
@@ -112,7 +112,7 @@
 | 110 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 
 | 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 113 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
+| 113 | [Chernobylite](games/c/chernobylite.md) | 4.12 | 
 | 114 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
 | 115 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 116 | [Chorus](games/c/chorus.md) | 4.45 | 
@@ -172,12 +172,12 @@
 | 170 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.45 | 
 | 171 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 172 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 
-| 173 | [Democracy 4](games/d/democracy_4.md) | 4.36 | 
+| 173 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
 | 174 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 175 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 176 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 177 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
-| 178 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 178 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 179 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.59 | 
 | 180 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 181 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -240,7 +240,7 @@
 | 238 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 239 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.62 | 
 | 240 | [Fez](games/f/fez.md) | 4.72 | 
-| 241 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
+| 241 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
 | 242 | [Figment](games/f/figment.md) | 4.46 | 
 | 243 | [Filament](games/f/filament.md) | 4.32 | 
 | 244 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
@@ -260,7 +260,7 @@
 | 258 | [FUSER™](games/f/fuser™.md) | 4.73 | 
 | 259 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 260 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
-| 261 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.49 | 
+| 261 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
 | 262 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 263 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.42 | 
 | 264 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
@@ -547,7 +547,7 @@
 | 545 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 546 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 547 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
-| 548 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.30 | 
+| 548 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 549 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 550 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.63 | 
 | 551 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
