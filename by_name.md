@@ -28,7 +28,7 @@
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.74 | 
+| 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.41 | 
@@ -239,7 +239,7 @@
 | 237 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 238 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
 | 239 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.62 | 
-| 240 | [Fez](games/f/fez.md) | 4.72 | 
+| 240 | [Fez](games/f/fez.md) | 4.71 | 
 | 241 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
 | 242 | [Figment](games/f/figment.md) | 4.46 | 
 | 243 | [Filament](games/f/filament.md) | 4.32 | 
@@ -373,7 +373,7 @@
 | 371 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 372 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
 | 373 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 374 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
+| 374 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
 | 375 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
 | 376 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 377 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
@@ -388,7 +388,7 @@
 | 386 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.06 | 
 | 387 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 388 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
-| 389 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
+| 389 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 390 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 391 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 392 | [Mago](games/m/mago.md) | 4.89 | 
@@ -429,7 +429,7 @@
 | 427 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
 | 428 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 429 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 430 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
+| 430 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 431 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 432 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.60 | 
 | 433 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.02 | 
