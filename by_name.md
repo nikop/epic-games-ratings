@@ -117,7 +117,7 @@
 | 115 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 116 | [Chorus](games/c/chorus.md) | 4.45 | 
 | 117 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.00 | 
-| 118 | [Circus Electrique](games/c/circus_electrique.md) | 4.21 | 
+| 118 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
 | 119 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 120 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
 | 121 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
@@ -167,7 +167,7 @@
 | 165 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 166 | [Death Coming](games/d/death_coming.md) | 4.47 | 
 | 167 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 168 | [Death's Door](games/d/death's_door.md) | 4.64 | 
+| 168 | [Death's Door](games/d/death's_door.md) | 4.65 | 
 | 169 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 170 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.45 | 
 | 171 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
@@ -265,7 +265,7 @@
 | 263 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.42 | 
 | 264 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 265 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 266 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 
+| 266 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 
 | 267 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 268 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
 | 269 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
@@ -374,7 +374,7 @@
 | 372 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
 | 373 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 374 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 375 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 
+| 375 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
 | 376 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 377 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 378 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
@@ -388,7 +388,7 @@
 | 386 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.06 | 
 | 387 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 388 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
-| 389 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 389 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
 | 390 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 391 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 392 | [Mago](games/m/mago.md) | 4.89 | 
@@ -474,10 +474,10 @@
 | 472 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 473 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
 | 474 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 475 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
+| 475 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 476 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.25 | 
 | 477 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 478 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 478 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 479 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 480 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 481 | [Patron](games/p/patron.md) | 3.90 | 
