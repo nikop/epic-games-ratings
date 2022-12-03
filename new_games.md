@@ -1,9 +1,9 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.25 | 
+| 1 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.13 | 
 | 2 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 3.98 | 
 | 3 | [Predecessor](games/p/predecessor.md) | 4.18 | 
-| 4 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.83 | 
+| 4 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 5 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 6 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
 | 7 | [Somerville](games/s/somerville.md) | 4.24 | 

@@ -230,7 +230,7 @@
 | 228 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 229 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 230 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 231 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.69 | 
+| 231 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.68 | 
 | 232 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
 | 233 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
 | 234 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
@@ -298,7 +298,7 @@
 | 296 | [Haven](games/h/haven.md) | 4.77 | 
 | 297 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 298 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 299 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 299 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 
 | 300 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 301 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
 | 302 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
@@ -374,7 +374,7 @@
 | 372 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 373 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
 | 374 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 375 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
+| 375 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 376 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
 | 377 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 378 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
@@ -399,7 +399,7 @@
 | 397 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 398 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 3.98 | 
 | 399 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 400 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.83 | 
+| 400 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 401 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 402 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 403 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
@@ -443,7 +443,7 @@
 | 441 | [NORCO](games/n/norco.md) | 4.58 | 
 | 442 | [Northgard](games/n/northgard.md) | 4.73 | 
 | 443 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
-| 444 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.35 | 
+| 444 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 445 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 446 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
 | 447 | [Obduction](games/o/obduction.md) | 4.09 | 
@@ -660,7 +660,7 @@
 | 658 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.63 | 
 | 659 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 660 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 661 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.25 | 
+| 661 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.13 | 
 | 662 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 663 | [The Colonists](games/t/the_colonists.md) | 4.55 | 
 | 664 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
