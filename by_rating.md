@@ -680,12 +680,12 @@
 | 678 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
 | 679 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 680 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 681 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 682 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
-| 683 | [Ashen](games/a/ashen.md) | 4.31 | 
-| 684 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
-| 685 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.31 | 
-| 686 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 681 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
+| 682 | [Ashen](games/a/ashen.md) | 4.31 | 
+| 683 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
+| 684 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.31 | 
+| 685 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 686 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.30 | 
 | 687 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 688 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 
 | 689 | [Rage 2](games/r/rage_2.md) | 4.29 | 
@@ -747,12 +747,12 @@
 | 745 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 746 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
 | 747 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 
-| 748 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 749 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
-| 750 | [Somerville](games/s/somerville.md) | 4.19 | 
-| 751 | [Space Punks](games/s/space_punks.md) | 4.18 | 
-| 752 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 753 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
+| 748 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
+| 749 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 750 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
+| 751 | [Somerville](games/s/somerville.md) | 4.19 | 
+| 752 | [Space Punks](games/s/space_punks.md) | 4.18 | 
+| 753 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 754 | [Gone Home](games/g/gone_home.md) | 4.17 | 
 | 755 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 756 | [OVERPASS™](games/o/overpass™.md) | 4.17 | 

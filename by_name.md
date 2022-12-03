@@ -351,7 +351,7 @@
 | 349 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 350 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
 | 351 | [King of Retail](games/k/king_of_retail.md) | 4.71 | 
-| 352 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
+| 352 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
 | 353 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.84 | 
 | 354 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.70 | 
 | 355 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.32 | 
@@ -547,7 +547,7 @@
 | 545 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 546 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 547 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
-| 548 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 548 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.30 | 
 | 549 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 550 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.63 | 
 | 551 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
