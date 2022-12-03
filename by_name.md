@@ -156,7 +156,7 @@
 | 154 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 155 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 156 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 157 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 157 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 158 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
 | 159 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 160 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
@@ -253,7 +253,7 @@
 | 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 252 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 253 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
-| 254 | [Fort Triumph](games/f/fort_triumph.md) | 3.89 | 
+| 254 | [Fort Triumph](games/f/fort_triumph.md) | 4.10 | 
 | 255 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 256 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 257 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
@@ -287,7 +287,7 @@
 | 285 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 286 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 287 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 288 | [GRIME](games/g/grime.md) | 4.59 | 
+| 288 | [GRIME](games/g/grime.md) | 4.60 | 
 | 289 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 290 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 291 | [Hades](games/h/hades.md) | 4.92 | 
@@ -379,7 +379,7 @@
 | 377 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 378 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 379 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
-| 380 | [Limbo](games/l/limbo.md) | 4.63 | 
+| 380 | [Limbo](games/l/limbo.md) | 4.64 | 
 | 381 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
 | 382 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 
 | 383 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
