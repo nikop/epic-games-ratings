@@ -1,10 +1,10 @@
 {
   "ID": "076207fa2b5c4803a636af606c3c28b7",
   "Name": "SMITE",
-  "Rating": 4.46,
+  "Rating": 4.45,
   "NumberOfRatings": 6749,
   "FirstSeen": "2022-07-22T20:18:32.4644513+00:00",
-  "LastChanged": "2022-10-24T04:00:33.9541631+00:00",
+  "LastChanged": "2022-11-23T19:57:07.7052149+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:32.4644518+00:00",
@@ -2860,6 +2860,81 @@
       "Time": "2022-10-24T04:00:33.9541633+00:00",
       "Rating": 4.46,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T17:10:50.4792183+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T17:57:03.269267+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T23:56:51.8108898+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T02:44:49.4169074+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T10:57:10.5678063+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T17:57:08.9693155+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T03:34:39.7710993+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T14:56:59.5531808+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T03:40:18.2463736+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T05:56:50.0766638+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T18:57:01.8279233+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T05:56:53.2359818+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T06:57:19.1258056+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T15:57:32.7139556+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T19:57:07.705215+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -2869,35 +2944,35 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 2712
+      "Count": 3134
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 2357
+      "Count": 2700
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 2503
+      "Count": 2891
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 2175
+      "Count": 2474
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 2090
+      "Count": 2413
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 2050
+      "Count": 2384
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 1847
+      "Count": 2116
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 1610
+      "Count": 1849
     }
   ]
 }

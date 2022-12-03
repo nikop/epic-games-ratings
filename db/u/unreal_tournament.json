@@ -1,10 +1,10 @@
 {
   "ID": "ut",
   "Name": "Unreal Tournament",
-  "Rating": 4.67,
+  "Rating": 4.66,
   "NumberOfRatings": 1070,
   "FirstSeen": "2022-07-22T20:21:08.0500861+00:00",
-  "LastChanged": "2022-10-25T05:01:38.1209633+00:00",
+  "LastChanged": "2022-11-29T05:57:25.6004509+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:08.0500863+00:00",
@@ -1370,36 +1370,51 @@
       "Time": "2022-10-25T05:01:38.1209636+00:00",
       "Rating": 4.67,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T22:57:19.1296613+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T13:25:53.3202126+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T05:57:25.600451+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Competitive Players",
-      "Count": 321
+      "Count": 364
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 374
+      "Count": 419
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 303
+      "Count": 362
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 311
+      "Count": 365
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 271
+      "Count": 311
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 295
+      "Count": 334
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 305
+      "Count": 364
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1407,7 +1422,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 294
+      "Count": 344
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1415,15 +1430,15 @@
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 262
+      "Count": 292
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 249
+      "Count": 294
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 231
+      "Count": 269
     }
   ]
 }

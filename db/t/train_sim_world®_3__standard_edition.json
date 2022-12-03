@@ -1,11 +1,11 @@
 {
   "ID": "a64d4c5460384218b17de5bd785085f8",
   "Name": "Train Sim World\u00AE 3: Standard Edition",
-  "Rating": 4.52,
+  "Rating": 4.55,
   "NumberOfRatings": 170,
   "FirstSeen": "2022-09-06T15:30:57.6812817+00:00",
   "FirstSeenRating": "2022-09-07T06:00:21.7269742+00:00",
-  "LastChanged": "2022-11-05T19:30:49.5535212+00:00",
+  "LastChanged": "2022-11-30T15:57:08.4649532+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-07T06:00:21.7269745+00:00",
@@ -456,28 +456,83 @@
       "Time": "2022-11-05T19:30:49.5535214+00:00",
       "Rating": 4.52,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T20:56:59.7916092+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T10:56:44.7687552+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T23:56:56.5942676+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T19:57:08.0224521+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T23:57:05.3183548+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T02:44:10.0768017+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T03:31:31.2225044+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T14:57:12.0616368+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T08:57:10.7687368+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T19:57:23.2205445+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T15:57:08.4649534+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 134
+      "Count": 173
     },
     {
       "Text": "This game has Realistic Visuals",
-      "Count": 133
+      "Count": 169
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 126
+      "Count": 169
     },
     {
       "Text": "This game is Educational",
-      "Count": 123
+      "Count": 162
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 132
+      "Count": 169
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -485,7 +540,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 125
+      "Count": 164
     },
     {
       "Text": "This game has a Kind Community",
@@ -493,19 +548,19 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 126
+      "Count": 159
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 84
+      "Count": 113
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 82
+      "Count": 101
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 111
+      "Count": 133
     }
   ]
 }

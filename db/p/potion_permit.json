@@ -1,10 +1,10 @@
 {
   "ID": "c4395ba88061417a8ac6bd3fdc7fba79",
   "Name": "Potion Permit",
-  "Rating": 3.8,
+  "Rating": 3.79,
   "FirstSeen": "2022-09-23T04:00:21.3687329+00:00",
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
-  "LastChanged": "2022-11-03T13:31:02.1160809+00:00",
+  "LastChanged": "2022-11-27T23:56:57.1588207+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-26T13:31:30.2639771+00:00",
@@ -225,12 +225,52 @@
       "Time": "2022-11-03T13:31:02.1160812+00:00",
       "Rating": 3.8,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T13:30:19.6456064+00:00",
+      "Rating": 3.79,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T14:11:08.9784891+00:00",
+      "Rating": 3.8,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T14:56:47.5407604+00:00",
+      "Rating": 3.77,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T18:57:07.9569334+00:00",
+      "Rating": 3.78,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T18:56:52.9496837+00:00",
+      "Rating": 3.76,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T18:56:54.6857199+00:00",
+      "Rating": 3.77,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T13:16:53.0160362+00:00",
+      "Rating": 3.78,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T23:56:57.1588208+00:00",
+      "Rating": 3.79,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 54
+      "Count": 63
     }
   ]
 }

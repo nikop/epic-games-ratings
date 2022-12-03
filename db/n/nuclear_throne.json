@@ -1,10 +1,10 @@
 {
   "ID": "742f165671424189aecdfdadf5ea9755",
   "Name": "Nuclear Throne",
-  "Rating": 4.8,
+  "Rating": 4.79,
   "NumberOfRatings": 631,
   "FirstSeen": "2022-07-22T20:27:27.5332052+00:00",
-  "LastChanged": "2022-10-20T20:31:51.2765439+00:00",
+  "LastChanged": "2022-11-25T10:57:39.0347231+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:27.5332055+00:00",
@@ -785,48 +785,73 @@
       "Time": "2022-10-20T20:31:51.2765444+00:00",
       "Rating": 4.8,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T22:57:49.5541891+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T19:58:10.8964877+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T02:31:15.7609089+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T18:59:18.7782259+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T10:57:39.034726+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 270
+      "Count": 319
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 214
+      "Count": 255
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 45
+      "Count": 57
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 39
+      "Count": 52
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 40
+      "Count": 49
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 39
+      "Count": 47
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 40
+      "Count": 51
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 40
+      "Count": 48
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 42
+      "Count": 53
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 36
+      "Count": 42
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -834,7 +859,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 42
+      "Count": 55
     },
     {
       "Text": "This game is Relaxing",

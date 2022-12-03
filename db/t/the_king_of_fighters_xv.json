@@ -1,10 +1,10 @@
 {
   "ID": "168fc558aeef44a5b9cba5f25b5bb93f",
   "Name": "THE KING OF FIGHTERS XV",
-  "Rating": 4.6,
+  "Rating": 4.61,
   "NumberOfRatings": 181,
   "FirstSeen": "2022-07-22T20:21:01.2233812+00:00",
-  "LastChanged": "2022-10-27T01:31:04.0909423+00:00",
+  "LastChanged": "2022-11-19T11:57:12.1233556+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:01.2233815+00:00",
@@ -215,36 +215,41 @@
       "Time": "2022-10-27T01:31:04.0909425+00:00",
       "Rating": 4.6,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T11:57:12.1233557+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Amazing Characters",
-      "Count": 51
+      "Count": 56
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 49
-    },
-    {
-      "Text": "This game is Relaxing",
       "Count": 54
     },
     {
+      "Text": "This game is Relaxing",
+      "Count": 60
+    },
+    {
       "Text": "This game is Extremely Fun",
-      "Count": 59
+      "Count": 64
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 50
+      "Count": 56
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 63
+      "Count": 68
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 51
+      "Count": 60
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -252,15 +257,15 @@
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 50
+      "Count": 55
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 34
+      "Count": 36
     }
   ]
 }

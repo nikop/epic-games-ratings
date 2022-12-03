@@ -1,10 +1,10 @@
 {
   "ID": "4ac85017adaf4d228518d64325c4ec65",
   "Name": "Obduction",
-  "Rating": 4.14,
+  "Rating": 4.09,
   "NumberOfRatings": 231,
   "FirstSeen": "2022-07-22T20:24:36.0781179+00:00",
-  "LastChanged": "2022-11-01T22:31:37.4937082+00:00",
+  "LastChanged": "2022-12-01T17:58:04.175372+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:36.0781184+00:00",
@@ -370,12 +370,62 @@
       "Time": "2022-11-01T22:31:37.4937085+00:00",
       "Rating": 4.14,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T17:57:47.5443516+00:00",
+      "Rating": 4.12,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T19:57:40.8975323+00:00",
+      "Rating": 4.11,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T20:57:41.9879942+00:00",
+      "Rating": 4.12,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T20:58:04.5326117+00:00",
+      "Rating": 4.11,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T19:57:57.3362013+00:00",
+      "Rating": 4.1,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T19:58:17.228248+00:00",
+      "Rating": 4.09,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T17:57:47.0862563+00:00",
+      "Rating": 4.1,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T17:58:06.5649618+00:00",
+      "Rating": 4.09,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T17:58:03.1273413+00:00",
+      "Rating": 4.08,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T17:58:04.1753722+00:00",
+      "Rating": 4.09,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
-      "Count": 44
+      "Count": 48
     }
   ]
 }

@@ -4,7 +4,7 @@
   "Rating": 4.25,
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
-  "LastChanged": "2022-11-04T03:01:15.8382722+00:00",
+  "LastChanged": "2022-12-02T15:57:14.5007042+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-22T01:00:47.4981426+00:00",
@@ -200,44 +200,158 @@
       "Time": "2022-11-04T03:01:15.8382726+00:00",
       "Rating": 4.25,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T17:02:01.5247711+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T04:30:50.4714022+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T18:58:40.8685514+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T02:47:52.8706153+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T06:56:54.9508321+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T02:41:46.9291179+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T17:57:30.4848902+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T19:57:12.2428295+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T18:57:04.5066529+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T20:56:56.3129748+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T07:57:07.4139294+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T13:29:16.4025698+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T17:56:53.5006033+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T19:57:08.7509775+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T18:57:25.2275443+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T06:57:27.6241068+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T14:57:22.505352+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T06:57:03.9432818+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T14:57:11.3912747+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T15:57:26.8635048+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T03:57:09.304381+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T15:57:14.5007044+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 671
+      "Count": 1116
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 45
+      "Count": 94
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 37
+      "Count": 87
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 38
+      "Count": 80
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 43
+      "Count": 85
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 36
+      "Count": 89
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 43
+      "Count": 93
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 31
+      "Count": 89
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 38
+      "Count": 85
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Count": 60
     }
   ]
 }

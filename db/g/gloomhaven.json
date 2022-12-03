@@ -1,11 +1,11 @@
 {
   "ID": "bc079f73f020432fac896d30c8e2c330",
   "Name": "Gloomhaven",
-  "Rating": 4.45,
+  "Rating": 4.46,
   "NumberOfRatings": 68,
   "FirstSeen": "2022-09-22T18:02:13.8573093+00:00",
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
-  "LastChanged": "2022-11-03T17:31:38.7283075+00:00",
+  "LastChanged": "2022-11-16T22:57:26.3304118+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-23T05:01:45.7957209+00:00",
@@ -231,48 +231,53 @@
       "Time": "2022-11-03T17:31:38.7283078+00:00",
       "Rating": 4.45,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T22:57:26.3304121+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 2445
+      "Count": 3146
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 272
+      "Count": 448
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 287
+      "Count": 453
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 274
+      "Count": 452
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 268
+      "Count": 429
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 242
+      "Count": 398
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 249
+      "Count": 393
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 178
+      "Count": 296
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 235
+      "Count": 376
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 233
+      "Count": 380
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -280,7 +285,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 115
+      "Count": 169
     }
   ]
 }

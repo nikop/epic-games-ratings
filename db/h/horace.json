@@ -1,10 +1,10 @@
 {
   "ID": "8aa6e526d2864c108f219747ad7011e5",
   "Name": "Horace",
-  "Rating": 4.56,
+  "Rating": 4.54,
   "NumberOfRatings": 45,
   "FirstSeen": "2022-07-22T20:16:46.8760783+00:00",
-  "LastChanged": "2022-11-02T19:30:55.8562806+00:00",
+  "LastChanged": "2022-12-02T18:57:07.5610635+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:46.8760786+00:00",
@@ -194,6 +194,36 @@
     {
       "Time": "2022-11-02T19:30:55.8562808+00:00",
       "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T22:56:42.5062894+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T13:31:40.9232289+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T22:56:59.9707683+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T22:56:44.4225941+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T02:25:54.5231192+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T18:57:07.5610636+00:00",
+      "Rating": 4.54,
       "NumberOfRatings": null
     }
   ],

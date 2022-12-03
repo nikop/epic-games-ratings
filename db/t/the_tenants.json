@@ -1,10 +1,10 @@
 {
   "ID": "edaebe133189475c9fd853858b7fa9ac",
   "Name": "The Tenants",
-  "Rating": 4.54,
+  "Rating": 4.52,
   "NumberOfRatings": 82,
   "FirstSeen": "2022-07-22T20:28:48.0535215+00:00",
-  "LastChanged": "2022-11-05T04:02:06.9328594+00:00",
+  "LastChanged": "2022-12-02T02:12:27.1295985+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:48.0535217+00:00",
@@ -234,6 +234,46 @@
     {
       "Time": "2022-11-05T04:02:06.9328598+00:00",
       "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T15:58:16.6062499+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T13:58:36.8435345+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T15:58:05.6317719+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T09:58:16.0802305+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T23:58:29.3917374+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T16:58:13.9656488+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T19:58:01.7386665+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T02:12:27.1295987+00:00",
+      "Rating": 4.52,
       "NumberOfRatings": null
     }
   ],

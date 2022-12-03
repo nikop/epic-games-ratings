@@ -1,7 +1,21 @@
 {
   "ID": "9f0d896b2b99454a815ab2a195c49615",
   "Name": "Retreat To Enen",
+  "Rating": 3.86,
   "FirstSeen": "2022-08-01T22:31:07.1709936+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-11-08T22:57:32.4322225+00:00",
+  "LastChanged": "2022-11-29T02:18:32.0684635+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-11-08T22:57:32.4322228+00:00",
+      "Rating": 3.85,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T02:18:32.0684637+00:00",
+      "Rating": 3.86,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }

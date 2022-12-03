@@ -1,10 +1,10 @@
 {
   "ID": "95e09a8c24c44684bca1a6f25aea920c",
   "Name": "Evil Dead: The Game",
-  "Rating": 4.49,
+  "Rating": 4.37,
   "NumberOfRatings": 9131,
   "FirstSeen": "2022-07-22T20:18:51.4090236+00:00",
-  "LastChanged": "2022-10-22T04:30:38.9637778+00:00",
+  "LastChanged": "2022-12-02T18:57:26.6054304+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:51.4090239+00:00",
@@ -2340,16 +2340,86 @@
       "Time": "2022-10-22T04:30:38.963778+00:00",
       "Rating": 4.49,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T03:34:42.1239341+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T17:57:29.7406266+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T09:57:06.1897821+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T17:57:14.6959635+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T11:57:13.8027847+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T17:00:06.1446264+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T22:57:11.0846315+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T20:57:02.5688961+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T14:57:48.1215237+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T17:57:04.741021+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T07:57:04.622046+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T10:57:21.5749084+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T13:11:30.0020909+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T18:57:26.6054305+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 6150
+      "Count": 10548
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 1352
+      "Count": 1642
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2357,23 +2427,23 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 1301
+      "Count": 1642
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 1288
+      "Count": 1608
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 1262
+      "Count": 1597
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 1347
+      "Count": 1652
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 1299
+      "Count": 1581
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2381,11 +2451,11 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 1196
+      "Count": 1449
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 988
+      "Count": 1233
     }
   ]
 }

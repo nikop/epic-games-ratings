@@ -1,10 +1,10 @@
 {
   "ID": "conanexiles",
   "Name": "Conan Exiles",
-  "Rating": 4.56,
+  "Rating": 4.55,
   "NumberOfRatings": 1374,
   "FirstSeen": "2022-07-22T20:16:49.0940249+00:00",
-  "LastChanged": "2022-10-31T11:00:21.1767702+00:00",
+  "LastChanged": "2022-11-26T06:56:56.8151173+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:49.0940252+00:00",
@@ -1690,12 +1690,27 @@
       "Time": "2022-10-31T11:00:21.1767704+00:00",
       "Rating": 4.56,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T11:57:00.1450846+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T11:56:47.8732246+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T06:56:56.8151174+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
-      "Count": 633
+      "Count": 731
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1703,31 +1718,31 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 610
+      "Count": 698
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 633
+      "Count": 720
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 609
+      "Count": 710
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 579
+      "Count": 649
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 590
+      "Count": 684
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 552
+      "Count": 631
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 421
+      "Count": 483
     }
   ]
 }

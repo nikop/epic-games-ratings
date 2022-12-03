@@ -1,10 +1,10 @@
 {
   "ID": "e0172a81e4f0430e88c3156bdadfd088",
   "Name": "Solitairica",
-  "Rating": 4.49,
+  "Rating": 4.5,
   "NumberOfRatings": 474,
   "FirstSeen": "2022-07-22T20:20:54.4785127+00:00",
-  "LastChanged": "2022-10-14T20:01:44.8957444+00:00",
+  "LastChanged": "2022-11-20T07:57:16.0883047+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:54.478513+00:00",
@@ -650,48 +650,57 @@
       "Time": "2022-10-14T20:01:44.8957447+00:00",
       "Rating": 4.49,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T07:57:16.088305+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 45
+      "Count": 60
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 46
+      "Count": 58
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 54
+      "Count": 65
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 49
+      "Count": 72
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 63
+      "Count": 75
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 44
+      "Count": 49
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 51
+      "Count": 63
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 38
+      "Count": 47
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 40
+      "Count": 50
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 36
+      "Count": 42
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 22
     }
   ]
 }

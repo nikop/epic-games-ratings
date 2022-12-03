@@ -1,10 +1,10 @@
 {
   "ID": "74b602736d704ed2a5915c31319d99f6",
   "Name": "Democracy 4",
-  "Rating": 4.29,
+  "Rating": 4.37,
   "NumberOfRatings": 46,
   "FirstSeen": "2022-07-22T20:25:46.6765497+00:00",
-  "LastChanged": "2022-11-01T13:31:26.5126506+00:00",
+  "LastChanged": "2022-12-03T13:08:51.2323613+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:46.67655+00:00",
@@ -154,6 +154,46 @@
     {
       "Time": "2022-11-01T13:31:26.5126509+00:00",
       "Rating": 4.29,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T14:10:52.7489936+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T14:59:44.5408667+00:00",
+      "Rating": 4.31,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T14:57:07.1435865+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T15:57:06.4897789+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T23:57:22.3364157+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T17:57:33.8115626+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T18:57:23.6657787+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-03T13:08:51.2323616+00:00",
+      "Rating": 4.37,
       "NumberOfRatings": null
     }
   ],

@@ -1,10 +1,10 @@
 {
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
-  "Rating": 4.7,
+  "Rating": 4.71,
   "NumberOfRatings": 1023,
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
-  "LastChanged": "2022-10-15T17:01:34.4862166+00:00",
+  "LastChanged": "2022-11-29T21:57:46.2753714+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:51.6478795+00:00",
@@ -1140,28 +1140,33 @@
       "Time": "2022-10-15T17:01:34.4862169+00:00",
       "Rating": 4.7,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T21:57:46.2753717+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 219
+      "Count": 243
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 191
+      "Count": 207
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 170
+      "Count": 187
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 185
+      "Count": 203
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 172
+      "Count": 203
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1169,23 +1174,23 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 167
+      "Count": 188
     },
     {
       "Text": "This game is Educational",
-      "Count": 190
+      "Count": 214
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 151
+      "Count": 169
     },
     {
       "Text": "This game has Easy Combat",
-      "Count": 132
+      "Count": 146
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 162
+      "Count": 179
     }
   ]
 }

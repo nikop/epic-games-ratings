@@ -1,10 +1,10 @@
 {
   "ID": "cf87285950ba492bbdc370b9d265ea36",
   "Name": "FAR CRY 4",
-  "Rating": 4.65,
+  "Rating": 4.66,
   "NumberOfRatings": 639,
   "FirstSeen": "2022-07-22T20:26:30.966572+00:00",
-  "LastChanged": "2022-11-05T08:02:16.9249522+00:00",
+  "LastChanged": "2022-11-29T23:57:53.1164562+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:30.9665724+00:00",
@@ -610,12 +610,55 @@
       "Time": "2022-11-05T08:02:16.9249525+00:00",
       "Rating": 4.65,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T20:57:35.6632227+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T05:58:14.6320526+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T23:57:53.1164564+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 324
+      "Count": 375
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 27
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 27
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 22
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 20
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 20
     }
   ]
 }

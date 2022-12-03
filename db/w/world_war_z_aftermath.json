@@ -1,10 +1,10 @@
 {
   "ID": "wombat",
   "Name": "World War Z Aftermath",
-  "Rating": 4.57,
+  "Rating": 4.56,
   "NumberOfRatings": 17073,
   "FirstSeen": "2022-07-22T20:17:09.1230837+00:00",
-  "LastChanged": "2022-10-29T19:01:23.1539994+00:00",
+  "LastChanged": "2022-11-12T08:57:00.0584587+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:09.123084+00:00",
@@ -3440,36 +3440,111 @@
       "Time": "2022-10-29T19:01:23.1539995+00:00",
       "Rating": 4.57,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T17:01:53.6925265+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T18:56:52.6597187+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T06:57:38.3164592+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T13:33:24.427847+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T08:57:46.5999104+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T14:56:59.7866499+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T17:56:54.1286524+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T23:56:56.7559755+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T09:01:37.7419233+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T14:59:31.7297484+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T18:57:52.4677405+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T18:58:31.59135+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T22:57:07.9669998+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T02:44:42.711823+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T08:57:00.058459+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 2410
+      "Count": 2832
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 2382
+      "Count": 2815
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 2274
+      "Count": 2669
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 2217
+      "Count": 2604
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 2233
+      "Count": 2620
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 2224
+      "Count": 2610
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 2132
+      "Count": 2502
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3477,7 +3552,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 2052
+      "Count": 2418
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "ID": "3f7bd21610f743e598fa8e955500f5b7",
   "Name": "Evoland Legendary Edition",
-  "Rating": 4.48,
+  "Rating": 4.49,
   "FirstSeen": "2022-10-20T18:02:33.1892038+00:00",
   "FirstSeenRating": "2022-10-21T11:02:38.8584727+00:00",
-  "LastChanged": "2022-11-03T16:04:05.1889861+00:00",
+  "LastChanged": "2022-11-09T17:11:49.1831713+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-21T11:02:38.8584731+00:00",
@@ -55,6 +55,11 @@
       "Time": "2022-11-03T16:04:05.1889864+00:00",
       "Rating": 4.48,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T17:11:49.1831715+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -64,7 +69,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 106
+      "Count": 233
     }
   ]
 }

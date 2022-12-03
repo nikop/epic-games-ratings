@@ -1,11 +1,11 @@
 {
   "ID": "c9e311e119034b25a02ed1ebfdffc0d1",
   "Name": "Anno 2070",
-  "Rating": 4.39,
+  "Rating": 4.41,
   "NumberOfRatings": 32,
   "FirstSeen": "2022-07-22T20:30:09.4589428+00:00",
   "FirstSeenRating": "2022-08-02T00:31:48.9578062+00:00",
-  "LastChanged": "2022-10-29T20:02:47.7337195+00:00",
+  "LastChanged": "2022-11-30T10:58:08.8185349+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-02T00:31:48.9578065+00:00",
@@ -95,6 +95,71 @@
     {
       "Time": "2022-10-29T20:02:47.7337197+00:00",
       "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T15:58:52.5767815+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T15:58:09.4548615+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T15:58:30.7698267+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T15:57:47.9315827+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T15:57:46.6558685+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T11:58:32.0987942+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T11:58:49.4805997+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T21:58:03.4614164+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T20:58:39.2764325+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T11:58:05.8850222+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T16:58:41.2750162+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T16:58:21.9312706+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T10:58:08.8185358+00:00",
+      "Rating": 4.41,
       "NumberOfRatings": null
     }
   ],

@@ -1,10 +1,10 @@
 {
   "ID": "72bdc702b4974024a69a5eb718a7a135",
   "Name": "Assassin\u0027s Creed Unity",
-  "Rating": 4.56,
+  "Rating": 4.55,
   "NumberOfRatings": 900,
   "FirstSeen": "2022-07-22T20:21:14.6538569+00:00",
-  "LastChanged": "2022-10-22T23:30:59.3372316+00:00",
+  "LastChanged": "2022-11-30T06:57:43.6220175+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:14.6538572+00:00",
@@ -630,12 +630,67 @@
       "Time": "2022-10-22T23:30:59.3372319+00:00",
       "Rating": 4.56,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T13:17:57.3181891+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T20:57:26.9836408+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T03:39:49.1469446+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T03:33:52.702779+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T21:57:09.0640069+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T23:57:06.7913843+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T21:57:03.1576293+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T21:57:23.1301756+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T02:18:16.1798571+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T15:57:13.9359661+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T06:57:43.6220178+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 349
+      "Count": 430
     },
     {
       "Text": "This game has Great Boss Battles",

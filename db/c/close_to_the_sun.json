@@ -1,10 +1,10 @@
 {
   "ID": "silene",
   "Name": "Close To The Sun",
-  "Rating": 3.98,
+  "Rating": 4,
   "NumberOfRatings": 147,
   "FirstSeen": "2022-07-22T20:29:28.4985337+00:00",
-  "LastChanged": "2022-11-04T18:03:07.8252363+00:00",
+  "LastChanged": "2022-11-28T02:20:27.2171311+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:28.4985341+00:00",
@@ -339,6 +339,46 @@
     {
       "Time": "2022-11-04T18:03:07.8252366+00:00",
       "Rating": 3.98,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T17:58:13.1448505+00:00",
+      "Rating": 3.97,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T17:58:21.7433606+00:00",
+      "Rating": 3.98,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T17:58:27.1189784+00:00",
+      "Rating": 3.99,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T17:59:25.3053361+00:00",
+      "Rating": 3.98,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T18:57:46.6809601+00:00",
+      "Rating": 3.97,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T02:31:26.2410197+00:00",
+      "Rating": 3.98,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T02:22:37.4444424+00:00",
+      "Rating": 3.99,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T02:20:27.2171311+00:00",
+      "Rating": 4,
       "NumberOfRatings": null
     }
   ],

@@ -1,10 +1,10 @@
 {
   "ID": "f4a7772a4da24870a3ea6dfb8aeac662",
   "Name": "Borderlands 2",
-  "Rating": 4.76,
+  "Rating": 4.77,
   "NumberOfRatings": 13386,
   "FirstSeen": "2022-07-22T20:18:04.5825777+00:00",
-  "LastChanged": "2022-10-31T16:00:43.220685+00:00",
+  "LastChanged": "2022-12-02T19:57:07.864207+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:04.582578+00:00",
@@ -3350,36 +3350,101 @@
       "Time": "2022-10-31T16:00:43.2206852+00:00",
       "Rating": 4.76,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T17:57:00.2054625+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T18:57:58.6496905+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T19:57:00.5916874+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T02:44:13.6713651+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T07:57:01.5613346+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T13:21:27.104522+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T03:56:54.0481129+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T21:57:13.3461679+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T05:57:12.8219687+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T09:56:55.7231189+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T15:57:13.281278+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T19:57:25.4690442+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T19:57:07.8642072+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 11262
+      "Count": 12640
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 1869
+      "Count": 2167
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 1829
+      "Count": 2131
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 1865
+      "Count": 2151
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 1854
+      "Count": 2135
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 1876
+      "Count": 2176
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 1834
+      "Count": 2113
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3387,11 +3452,11 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 1835
+      "Count": 2126
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 1811
+      "Count": 2080
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3399,7 +3464,7 @@
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 1740
+      "Count": 2009
     }
   ]
 }

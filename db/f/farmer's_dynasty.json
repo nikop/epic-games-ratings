@@ -1,10 +1,10 @@
 {
   "ID": "a83aedcdb7304b51802d41c5ca308ef2",
   "Name": "Farmer\u0027s Dynasty",
-  "Rating": 4.08,
+  "Rating": 4.14,
   "NumberOfRatings": 64,
   "FirstSeen": "2022-07-22T20:23:48.9867279+00:00",
-  "LastChanged": "2022-11-04T16:32:17.5691415+00:00",
+  "LastChanged": "2022-12-02T17:58:13.696301+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:48.9867282+00:00",
@@ -199,6 +199,46 @@
     {
       "Time": "2022-11-04T16:32:17.5691417+00:00",
       "Rating": 4.08,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T17:09:51.3004817+00:00",
+      "Rating": 4.09,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T17:08:29.0931556+00:00",
+      "Rating": 4.1,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T13:57:55.8113036+00:00",
+      "Rating": 4.11,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T17:58:03.3642299+00:00",
+      "Rating": 4.12,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T18:58:02.5017878+00:00",
+      "Rating": 4.13,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T13:16:11.6162084+00:00",
+      "Rating": 4.14,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T17:57:56.739497+00:00",
+      "Rating": 4.15,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T17:58:13.6963013+00:00",
+      "Rating": 4.14,
       "NumberOfRatings": null
     }
   ],

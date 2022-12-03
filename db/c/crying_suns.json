@@ -1,10 +1,10 @@
 {
   "ID": "0a4fc789eb0143c29296de79df5387ab",
   "Name": "Crying Suns",
-  "Rating": 4.5,
+  "Rating": 4.49,
   "NumberOfRatings": 1003,
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
-  "LastChanged": "2022-10-20T12:02:09.9513484+00:00",
+  "LastChanged": "2022-11-10T17:57:38.9075858+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:25.9606457+00:00",
@@ -500,12 +500,17 @@
       "Time": "2022-10-20T12:02:09.9513486+00:00",
       "Rating": 4.5,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T17:57:38.9075859+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 166
+      "Count": 191
     }
   ]
 }

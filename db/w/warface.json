@@ -1,10 +1,10 @@
 {
   "ID": "80e804312c2149c69a75aee703e85a9a",
   "Name": "Warface",
-  "Rating": 3.94,
+  "Rating": 3.93,
   "NumberOfRatings": 3179,
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2022-11-05T09:03:46.5331652+00:00",
+  "LastChanged": "2022-11-27T07:57:46.283423+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:34.3823286+00:00",
@@ -2110,24 +2110,29 @@
       "Time": "2022-11-05T09:03:46.5331653+00:00",
       "Rating": 3.94,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T07:57:46.2834232+00:00",
+      "Rating": 3.93,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Amazing Characters",
-      "Count": 67
+      "Count": 259
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 235
+      "Count": 279
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 233
+      "Count": 288
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 264
+      "Count": 330
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2135,23 +2140,27 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 238
+      "Count": 297
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 237
+      "Count": 295
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 237
+      "Count": 278
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 171
+      "Count": 207
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 227
+      "Count": 266
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Count": 277
     }
   ]
 }

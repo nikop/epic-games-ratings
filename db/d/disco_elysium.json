@@ -4,7 +4,7 @@
   "Rating": 4.87,
   "NumberOfRatings": 1611,
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
-  "LastChanged": "2022-10-19T11:30:51.6941363+00:00",
+  "LastChanged": "2022-11-25T08:56:57.3512054+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:46.370963+00:00",
@@ -890,24 +890,54 @@
       "Time": "2022-10-19T11:30:51.6941366+00:00",
       "Rating": 4.87,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T07:57:10.1556888+00:00",
+      "Rating": 4.88,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T04:58:39.2474685+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T17:56:57.7785288+00:00",
+      "Rating": 4.88,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T21:57:11.3942979+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T21:57:15.2163146+00:00",
+      "Rating": 4.88,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T08:56:57.3512056+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 550
+      "Count": 624
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 24
+      "Count": 28
     },
     {
       "Text": "This game is Educational",
-      "Count": 37
+      "Count": 42
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -915,27 +945,31 @@
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 24
+      "Count": 31
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 30
+      "Count": 35
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 23
+      "Count": 25
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 29
+      "Count": 42
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 26
+      "Count": 33
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 23
+      "Count": 27
+    },
+    {
+      "Text": "This game has Easy Combat",
+      "Count": 20
     }
   ]
 }

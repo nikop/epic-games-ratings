@@ -4,7 +4,7 @@
   "Rating": 4.86,
   "NumberOfRatings": 663,
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2022-10-31T16:31:24.3220921+00:00",
+  "LastChanged": "2022-12-01T02:34:14.0968588+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:07.8066793+00:00",
@@ -630,23 +630,41 @@
       "Time": "2022-10-31T16:31:24.3220924+00:00",
       "Rating": 4.86,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T21:57:40.6320168+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T02:34:14.0968589+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
-      "Count": 320
+      "Count": 395
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 24
+      "Count": 29
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 24
+      "Count": 27
     },
     {
       "Text": "This game is Highly Recommended",
+      "Count": 22
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 25
+    },
+    {
+      "Text": "This game is Great for Beginners",
       "Count": 20
     }
   ]

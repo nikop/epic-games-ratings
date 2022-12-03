@@ -1,10 +1,10 @@
 {
   "ID": "0114ea1a5d674c6b8c99015e6c994aff",
   "Name": "Star Renegades",
-  "Rating": 4.37,
+  "Rating": 4.39,
   "FirstSeen": "2022-07-22T20:22:35.7423347+00:00",
   "FirstSeenRating": "2022-09-29T13:01:46.0510474+00:00",
-  "LastChanged": "2022-10-28T20:31:15.705202+00:00",
+  "LastChanged": "2022-11-18T13:21:52.9392678+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-29T13:01:46.0510479+00:00",
@@ -59,6 +59,21 @@
     {
       "Time": "2022-10-28T20:31:15.7052023+00:00",
       "Rating": 4.37,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T17:57:26.8645311+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T17:57:24.3069259+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T13:21:52.9392679+00:00",
+      "Rating": 4.39,
       "NumberOfRatings": null
     }
   ],

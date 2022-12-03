@@ -1,10 +1,10 @@
 {
   "ID": "f9a21c4ce910440d82b83b01d1c48c5e",
   "Name": "Assassin\u0027s Creed\u00AE I: Director\u0027s Cut",
-  "Rating": 4.48,
+  "Rating": 4.46,
   "NumberOfRatings": 142,
   "FirstSeen": "2022-07-22T20:24:57.2958454+00:00",
-  "LastChanged": "2022-11-01T17:32:04.3686362+00:00",
+  "LastChanged": "2022-12-02T19:58:10.2713993+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:57.2958457+00:00",
@@ -299,6 +299,66 @@
     {
       "Time": "2022-11-01T17:32:04.3686365+00:00",
       "Rating": 4.48,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T17:15:29.1460498+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T17:11:19.4602332+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T17:58:35.9463511+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T17:57:31.6246544+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T05:57:27.268432+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T17:57:47.7819915+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T02:24:57.9433206+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T10:57:29.2310022+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T10:57:50.5751669+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T10:57:26.0055636+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T21:57:19.9264566+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T19:58:10.2713996+00:00",
+      "Rating": 4.46,
       "NumberOfRatings": null
     }
   ],

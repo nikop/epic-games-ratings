@@ -1,10 +1,10 @@
 {
   "ID": "clover",
   "Name": "Little Inferno",
-  "Rating": 4.45,
+  "Rating": 4.57,
   "NumberOfRatings": 66,
   "FirstSeen": "2022-07-22T20:29:23.1362481+00:00",
-  "LastChanged": "2022-11-01T14:02:58.9542857+00:00",
+  "LastChanged": "2022-12-02T17:58:12.9017612+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:23.1362484+00:00",
@@ -219,6 +219,66 @@
     {
       "Time": "2022-11-01T14:02:58.9542861+00:00",
       "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T14:19:02.7769112+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T14:57:37.136262+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T14:58:04.4197019+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T15:57:22.3614944+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T15:57:46.2175523+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T15:58:39.6337971+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T15:57:46.1507067+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T17:57:30.9461968+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T17:57:45.421032+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T16:57:58.3075934+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T17:57:57.6127466+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T17:58:12.9017614+00:00",
+      "Rating": 4.57,
       "NumberOfRatings": null
     }
   ],

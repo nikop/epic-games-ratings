@@ -4,7 +4,7 @@
   "Rating": 4.79,
   "NumberOfRatings": 2832,
   "FirstSeen": "2022-07-22T20:21:15.6256322+00:00",
-  "LastChanged": "2022-09-28T13:01:20.0391965+00:00",
+  "LastChanged": "2022-11-27T09:57:40.082886+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:15.6256325+00:00",
@@ -1185,44 +1185,64 @@
       "Time": "2022-09-28T13:01:20.0391967+00:00",
       "Rating": 4.79,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T18:57:29.863345+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T23:57:03.846228+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T13:11:40.7133045+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T09:57:40.0828865+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 1101
+      "Count": 1326
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 50
+      "Count": 60
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 43
+      "Count": 55
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 51
+      "Count": 67
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 50
+      "Count": 64
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 41
+      "Count": 49
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 41
+      "Count": 47
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 41
+      "Count": 51
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 41
+      "Count": 54
     }
   ]
 }

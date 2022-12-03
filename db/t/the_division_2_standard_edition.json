@@ -1,10 +1,10 @@
 {
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
-  "Rating": 4.45,
+  "Rating": 4.46,
   "NumberOfRatings": 6675,
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2022-10-03T18:30:59.468146+00:00",
+  "LastChanged": "2022-11-12T14:57:15.5251908+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:04.4200789+00:00",
@@ -3025,48 +3025,73 @@
       "Time": "2022-10-03T18:30:59.4681463+00:00",
       "Rating": 4.45,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T02:52:30.6065913+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T07:57:11.9113978+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T17:08:19.8096595+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T08:57:26.9159704+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T14:57:15.5251911+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 4282
+      "Count": 4872
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 3058
+      "Count": 3493
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 712
+      "Count": 851
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 640
+      "Count": 743
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 610
+      "Count": 736
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 645
+      "Count": 751
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 631
+      "Count": 735
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 663
+      "Count": 761
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 626
+      "Count": 724
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 623
+      "Count": 747
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3074,7 +3099,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 613
+      "Count": 708
     }
   ]
 }

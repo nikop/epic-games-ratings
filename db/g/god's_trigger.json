@@ -1,10 +1,10 @@
 {
   "ID": "ceaa24233cdb4b678a1cf515e3a912e8",
   "Name": "God\u0027s Trigger",
-  "Rating": 4.1,
+  "Rating": 4.13,
   "NumberOfRatings": 114,
   "FirstSeen": "2022-07-22T20:23:51.7607722+00:00",
-  "LastChanged": "2022-11-04T13:03:18.1957371+00:00",
+  "LastChanged": "2022-11-27T03:32:09.6496159+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:51.7607727+00:00",
@@ -270,12 +270,47 @@
       "Time": "2022-11-04T13:03:18.1957373+00:00",
       "Rating": 4.1,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T13:17:29.0999632+00:00",
+      "Rating": 4.09,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T13:34:10.4432662+00:00",
+      "Rating": 4.08,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T13:57:44.2077358+00:00",
+      "Rating": 4.09,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T17:57:52.9397392+00:00",
+      "Rating": 4.1,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T17:59:04.6008173+00:00",
+      "Rating": 4.11,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T17:57:31.6155465+00:00",
+      "Rating": 4.12,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T03:32:09.6496161+00:00",
+      "Rating": 4.13,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 21
+      "Count": 23
     }
   ]
 }

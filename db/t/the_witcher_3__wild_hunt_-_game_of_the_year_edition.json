@@ -1,10 +1,10 @@
 {
   "ID": "14ee004dadc142faaaece5a6270fb628",
   "Name": "The Witcher 3: Wild Hunt - Game of the Year Edition",
-  "Rating": 4.89,
+  "Rating": 4.9,
   "NumberOfRatings": 14665,
   "FirstSeen": "2022-07-22T20:24:37.9019948+00:00",
-  "LastChanged": "2022-09-23T14:02:04.2327336+00:00",
+  "LastChanged": "2022-12-01T11:57:37.6665853+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:37.9019951+00:00",
@@ -3005,16 +3005,81 @@
       "Time": "2022-09-23T14:02:04.2327337+00:00",
       "Rating": 4.89,
       "NumberOfRatings": 14665
+    },
+    {
+      "Time": "2022-11-22T02:40:34.2263966+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T05:57:55.3435408+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T23:57:44.5045828+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T20:58:16.7062623+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T19:57:17.282875+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T21:57:38.3672287+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T02:18:35.4302148+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T06:57:43.6254956+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T08:57:24.811065+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T10:57:26.4292356+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T14:58:04.3476786+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T17:58:03.3093459+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T11:57:37.6665855+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 8027
+      "Count": 9228
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 1195
+      "Count": 1425
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3022,39 +3087,39 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 1168
+      "Count": 1378
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 1242
+      "Count": 1492
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 1172
+      "Count": 1397
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 1173
+      "Count": 1377
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 1207
+      "Count": 1458
     },
     {
       "Text": "This game is Educational",
-      "Count": 1128
+      "Count": 1314
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 1162
+      "Count": 1372
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 1179
+      "Count": 1398
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 740
+      "Count": 896
     }
   ]
 }

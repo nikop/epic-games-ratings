@@ -1,10 +1,10 @@
 {
   "ID": "3542a1df211e492bb2abecb7c734f7f9",
   "Name": "Rising Storm 2: Vietnam",
-  "Rating": 4.56,
+  "Rating": 4.5,
   "NumberOfRatings": 2871,
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "LastChanged": "2022-11-05T21:31:13.4951053+00:00",
+  "LastChanged": "2022-11-16T20:58:05.7361675+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:01.9832027+00:00",
@@ -1840,44 +1840,114 @@
       "Time": "2022-11-05T21:31:13.4951055+00:00",
       "Rating": 4.56,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T17:02:18.6987428+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T23:57:26.937574+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T07:57:16.5244196+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T20:57:31.3287119+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T07:57:23.616193+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T17:11:11.1965565+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T13:39:31.4985527+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T17:57:40.63399+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T21:57:38.2582171+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T18:58:39.6336698+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T02:41:06.4083999+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T10:57:21.5017831+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T19:57:21.5757923+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T20:58:05.7361681+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
-      "Count": 168
+      "Count": 382
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 185
+      "Count": 391
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 182
+      "Count": 395
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 180
+      "Count": 382
     },
     {
       "Text": "This game has Realistic Visuals",
-      "Count": 165
+      "Count": 359
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 204
+      "Count": 404
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 169
+      "Count": 361
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 149
+      "Count": 325
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 158
+      "Count": 370
     },
     {
       "Text": "This game is Educational",
@@ -1885,7 +1955,7 @@
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 133
+      "Count": 309
     },
     {
       "Text": "This game has Obsessive Gameplay",

@@ -1,10 +1,10 @@
 {
   "ID": "3a1067df83654812b976101174e1904f",
   "Name": "Timberborn",
-  "Rating": 4.7,
+  "Rating": 4.71,
   "NumberOfRatings": 640,
   "FirstSeen": "2022-07-22T20:21:12.1167851+00:00",
-  "LastChanged": "2022-10-26T21:01:32.3847341+00:00",
+  "LastChanged": "2022-11-26T13:11:40.3546624+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:12.1167854+00:00",
@@ -835,40 +835,55 @@
       "Time": "2022-10-26T21:01:32.3847344+00:00",
       "Rating": 4.7,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T17:57:28.1274139+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T02:14:10.9323698+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T13:11:40.3546626+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 75
+      "Count": 94
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 81
+      "Count": 99
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 83
+      "Count": 98
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 64
+      "Count": 76
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 68
+      "Count": 91
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 69
+      "Count": 85
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 72
+      "Count": 88
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 40
+      "Count": 49
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -876,7 +891,7 @@
     },
     {
       "Text": "This game is Educational",
-      "Count": 36
+      "Count": 65
     }
   ]
 }

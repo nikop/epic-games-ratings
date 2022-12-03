@@ -4,7 +4,7 @@
   "Rating": 4.59,
   "NumberOfRatings": 14635,
   "FirstSeen": "2022-07-22T20:19:14.0161067+00:00",
-  "LastChanged": "2022-11-06T09:00:46.0545594+00:00",
+  "LastChanged": "2022-11-17T18:56:57.4027945+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:14.016107+00:00",
@@ -3180,32 +3180,62 @@
       "Time": "2022-11-06T09:00:46.0545597+00:00",
       "Rating": 4.59,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T02:49:10.4958876+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T02:57:34.1841052+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T13:34:30.5165789+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T13:21:35.8409487+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T17:04:20.6102758+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T18:56:57.4027948+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Educational",
-      "Count": 1957
+      "Count": 2375
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 1962
+      "Count": 2428
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 2090
+      "Count": 2572
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 1927
+      "Count": 2321
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 1941
+      "Count": 2388
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 1915
+      "Count": 2328
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3217,11 +3247,11 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 1696
+      "Count": 2050
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 1003
+      "Count": 2411
     }
   ]
 }

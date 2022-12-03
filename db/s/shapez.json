@@ -1,7 +1,56 @@
 {
   "ID": "315e6807f6684c279fc286d0fc36a44f",
   "Name": "shapez",
+  "Rating": 4.73,
   "FirstSeen": "2022-11-01T20:01:20.018196+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-11-10T15:57:35.7088081+00:00",
+  "LastChanged": "2022-11-28T08:57:27.0038771+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-11-10T15:57:35.7088088+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T15:57:42.3247869+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T17:58:14.3149892+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T18:00:25.294964+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T18:57:29.3653188+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T13:21:56.1330523+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T13:57:22.2000623+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T15:58:36.0250293+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T08:57:27.0038773+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }

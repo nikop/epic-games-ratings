@@ -1,10 +1,10 @@
 {
   "ID": "1fe9a1a33a8b4df8bd8dd3b9269f8153",
   "Name": "Animation Throwdown: The Quest for Cards",
-  "Rating": 4.33,
+  "Rating": 4.34,
   "NumberOfRatings": 874,
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
-  "LastChanged": "2022-11-05T13:00:34.7987792+00:00",
+  "LastChanged": "2022-11-26T17:56:45.5308083+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:50.5721147+00:00",
@@ -955,40 +955,55 @@
       "Time": "2022-11-05T13:00:34.7987794+00:00",
       "Rating": 4.33,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T23:56:54.5597708+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T15:56:44.9343745+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T17:56:45.5308084+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Relaxing",
-      "Count": 260
+      "Count": 281
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 250
+      "Count": 280
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 269
+      "Count": 299
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 248
+      "Count": 270
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 249
+      "Count": 272
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 222
+      "Count": 249
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 246
+      "Count": 279
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 227
+      "Count": 254
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -996,7 +1011,7 @@
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 193
+      "Count": 212
     }
   ]
 }

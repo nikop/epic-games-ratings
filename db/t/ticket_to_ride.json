@@ -1,10 +1,10 @@
 {
   "ID": "b4d9169e1b8548f2babec33107253309",
   "Name": "Ticket to Ride",
-  "Rating": 4.59,
+  "Rating": 4.6,
   "NumberOfRatings": 167,
   "FirstSeen": "2022-07-22T20:20:53.9949813+00:00",
-  "LastChanged": "2022-10-31T23:01:48.2373337+00:00",
+  "LastChanged": "2022-12-03T06:58:06.2232868+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:53.9949816+00:00",
@@ -370,12 +370,37 @@
       "Time": "2022-10-31T23:01:48.2373339+00:00",
       "Rating": 4.59,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T13:17:12.1606145+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T05:57:05.7298085+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T17:57:32.2208511+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T11:57:10.8163379+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-03T06:58:06.2232871+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 36
+      "Count": 51
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -383,31 +408,35 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 30
+      "Count": 35
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 28
+      "Count": 34
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 24
+      "Count": 31
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 25
+      "Count": 32
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 29
+      "Count": 37
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 20
+      "Count": 29
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 22
+      "Count": 26
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 24
     }
   ]
 }

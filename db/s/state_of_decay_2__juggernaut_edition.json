@@ -1,10 +1,10 @@
 {
   "ID": "11eb2ae2943641b498efb54501511b86",
   "Name": "State of Decay 2: Juggernaut Edition",
-  "Rating": 4.72,
+  "Rating": 4.73,
   "NumberOfRatings": 1354,
   "FirstSeen": "2022-07-22T20:20:15.4995457+00:00",
-  "LastChanged": "2022-11-05T20:01:26.2957275+00:00",
+  "LastChanged": "2022-11-30T11:57:33.5935188+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:15.4995461+00:00",
@@ -1610,36 +1610,81 @@
       "Time": "2022-11-05T20:01:26.2957277+00:00",
       "Rating": 4.72,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T19:57:11.8362243+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T02:48:01.4272095+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T13:57:45.3242673+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T15:57:12.8789103+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T04:57:57.1509995+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T02:41:51.9593794+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T06:57:29.6223826+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T07:56:57.8130375+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T11:57:33.5935192+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
-      "Count": 249
+      "Count": 283
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 224
+      "Count": 264
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 218
+      "Count": 258
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 221
+      "Count": 255
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 203
+      "Count": 231
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 210
+      "Count": 234
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 231
+      "Count": 269
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1651,7 +1696,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 196
+      "Count": 224
     },
     {
       "Text": "This game has Playful Visuals",
@@ -1659,7 +1704,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 129
+      "Count": 156
     }
   ]
 }

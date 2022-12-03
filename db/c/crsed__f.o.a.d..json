@@ -4,7 +4,7 @@
   "Rating": 4.36,
   "NumberOfRatings": 464,
   "FirstSeen": "2022-07-22T20:19:35.4348464+00:00",
-  "LastChanged": "2022-11-05T23:01:53.5367002+00:00",
+  "LastChanged": "2022-11-21T19:57:11.8291272+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:35.4348467+00:00",
@@ -735,6 +735,56 @@
       "Time": "2022-11-05T23:01:53.5367005+00:00",
       "Rating": 4.36,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T03:49:44.6811459+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T15:57:01.2058865+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T17:10:54.8397654+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T17:57:08.532067+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T02:48:27.0088823+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T03:50:19.5331853+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T13:38:31.8005488+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T02:44:03.8881729+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T15:58:14.8801512+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T19:57:11.8291278+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -744,19 +794,19 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 59
+      "Count": 66
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 72
+      "Count": 83
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 62
+      "Count": 65
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 62
+      "Count": 75
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -764,15 +814,15 @@
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 42
+      "Count": 51
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 60
+      "Count": 70
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 66
+      "Count": 73
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -780,15 +830,15 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 51
+      "Count": 55
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 42
+      "Count": 64
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 65
+      "Count": 80
     }
   ]
 }

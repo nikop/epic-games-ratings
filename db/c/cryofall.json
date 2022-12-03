@@ -1,11 +1,11 @@
 {
   "ID": "705b9b37d3e747e7b02e835e5ace5c81",
   "Name": "CryoFall",
-  "Rating": 4.48,
+  "Rating": 4.51,
   "NumberOfRatings": 46,
   "FirstSeen": "2022-07-22T20:30:02.2265434+00:00",
   "FirstSeenRating": "2022-08-07T18:02:06.4816935+00:00",
-  "LastChanged": "2022-11-03T16:33:52.2060754+00:00",
+  "LastChanged": "2022-12-02T19:58:53.8006004+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-07T18:02:06.4816937+00:00",
@@ -205,6 +205,61 @@
     {
       "Time": "2022-11-03T16:33:52.2060756+00:00",
       "Rating": 4.48,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T21:58:40.6004482+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T20:58:17.0366671+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T13:57:50.5190768+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T13:58:17.6317095+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T14:01:11.9304077+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T13:58:00.9975023+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T19:59:19.2741977+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T16:59:55.2168389+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T21:57:39.4989733+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T13:20:39.2985285+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T19:58:53.8006006+00:00",
+      "Rating": 4.51,
       "NumberOfRatings": null
     }
   ],

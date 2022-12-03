@@ -1,7 +1,21 @@
 {
   "ID": "9e1d499956694029a8a58c2c4a2b6b27",
   "Name": "Colt Canyon",
+  "Rating": 4.57,
   "FirstSeen": "2022-07-22T20:31:00.807877+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-11-22T22:58:31.2864903+00:00",
+  "LastChanged": "2022-11-29T20:58:29.8966441+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-11-22T22:58:31.2864905+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T20:58:29.8966442+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }

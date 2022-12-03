@@ -1,10 +1,10 @@
 {
   "ID": "94a50905f377470c84c8e4b7c38f9cdd",
   "Name": "DRAGON QUEST\u00AE XI S: Echoes of an Elusive Age\u2122",
-  "Rating": 4.85,
+  "Rating": 4.84,
   "NumberOfRatings": 306,
   "FirstSeen": "2022-07-22T20:19:40.4195288+00:00",
-  "LastChanged": "2022-11-03T20:31:23.2328963+00:00",
+  "LastChanged": "2022-11-16T15:57:04.7436916+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:40.4195291+00:00",
@@ -450,40 +450,55 @@
       "Time": "2022-11-03T20:31:23.2328964+00:00",
       "Rating": 4.85,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T23:57:07.9600499+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T14:57:27.0545811+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T15:57:04.7436917+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 177
+      "Count": 197
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 29
+      "Count": 33
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 21
+      "Count": 24
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 22
+      "Count": 25
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 23
+      "Count": 27
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 20
+      "Count": 25
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 22
+      "Count": 29
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 24
+      "Count": 27
     }
   ]
 }

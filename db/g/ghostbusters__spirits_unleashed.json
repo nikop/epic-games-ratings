@@ -1,10 +1,10 @@
 {
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
-  "Rating": 4.51,
+  "Rating": 4.49,
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
-  "LastChanged": "2022-11-01T07:00:21.9595541+00:00",
+  "LastChanged": "2022-11-25T19:56:45.3689598+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-19T03:31:00.7496554+00:00",
@@ -180,12 +180,62 @@
       "Time": "2022-11-01T07:00:21.9595543+00:00",
       "Rating": 4.51,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T22:57:14.7973792+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T07:56:49.7368417+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T09:56:59.5657724+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T22:56:58.7665446+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T03:47:11.9416122+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T23:57:27.9638697+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T19:57:07.9205526+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T19:57:13.5494177+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T22:56:46.7807599+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T19:56:45.36896+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 96
+      "Count": 155
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -193,43 +243,43 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 72
+      "Count": 128
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 100
+      "Count": 152
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 93
+      "Count": 147
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 81
+      "Count": 136
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 90
+      "Count": 140
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 75
+      "Count": 135
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 89
+      "Count": 135
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 79
+      "Count": 135
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 77
+      "Count": 143
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 47
+      "Count": 94
     }
   ]
 }

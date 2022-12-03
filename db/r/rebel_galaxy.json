@@ -4,7 +4,7 @@
   "Rating": 4.41,
   "NumberOfRatings": 774,
   "FirstSeen": "2022-07-22T20:27:15.7165478+00:00",
-  "LastChanged": "2022-11-03T16:33:20.9894856+00:00",
+  "LastChanged": "2022-11-26T05:58:13.9409288+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:15.7165482+00:00",
@@ -635,16 +635,54 @@
       "Time": "2022-11-03T16:33:20.9894857+00:00",
       "Rating": 4.41,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T18:59:22.5540822+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T02:48:49.9777473+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T22:57:43.6994762+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T14:58:16.4687241+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T02:25:16.3283734+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T05:58:13.940929+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
-      "Count": 26
+      "Count": 28
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 20
+      "Count": 21
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 22
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 22
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "ID": "0ffb7cf5cff64cd0a621222a8e969c28",
   "Name": "Scavengers",
-  "Rating": 4.17,
+  "Rating": 4.18,
   "NumberOfRatings": 403,
   "FirstSeen": "2022-07-22T20:18:46.6635408+00:00",
-  "LastChanged": "2022-11-03T12:01:38.483873+00:00",
+  "LastChanged": "2022-11-18T17:02:15.7415756+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:46.6635411+00:00",
@@ -555,48 +555,63 @@
       "Time": "2022-11-03T12:01:38.4838732+00:00",
       "Rating": 4.17,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T11:57:06.8324569+00:00",
+      "Rating": 4.16,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T19:56:59.7294253+00:00",
+      "Rating": 4.17,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T17:02:15.7415757+00:00",
+      "Rating": 4.18,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Challenging Combat",
-      "Count": 89
+      "Count": 94
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 89
+      "Count": 93
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 87
+      "Count": 91
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 71
+      "Count": 77
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 79
+      "Count": 84
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 68
+      "Count": 69
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 76
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Count": 78
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
       "Count": 80
     },
     {
+      "Text": "This game is Relaxing",
+      "Count": 85
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 87
+    },
+    {
       "Text": "This game has a Competitive Community",
-      "Count": 51
+      "Count": 53
     }
   ]
 }

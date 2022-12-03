@@ -1,10 +1,10 @@
 {
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
-  "Rating": 4.39,
+  "Rating": 4.42,
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
-  "LastChanged": "2022-11-05T17:01:21.9217497+00:00",
+  "LastChanged": "2022-11-19T13:15:15.1463217+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-28T06:01:26.9039057+00:00",
@@ -175,44 +175,83 @@
       "Time": "2022-11-05T17:01:21.9217499+00:00",
       "Rating": 4.39,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T17:02:21.3185974+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T21:57:50.1298018+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T13:21:58.9032213+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T17:58:02.2221987+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T20:57:23.8699666+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T04:57:19.7943671+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T13:15:15.1463219+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 49
+      "Count": 207
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 57
+      "Count": 210
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 63
+      "Count": 228
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 57
+      "Count": 238
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 47
+      "Count": 223
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 46
+      "Count": 220
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 42
+      "Count": 181
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 53
+      "Count": 233
     },
     {
       "Text": "This game is Great for Beginners",
       "Count": 63
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 81
     }
   ]
 }

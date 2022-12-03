@@ -1,10 +1,10 @@
 {
   "ID": "0aaf0617ee0d47df87c0dc93509159dd",
   "Name": "Carcassonne",
-  "Rating": 4.69,
+  "Rating": 4.68,
   "NumberOfRatings": 276,
   "FirstSeen": "2022-07-22T20:18:17.016066+00:00",
-  "LastChanged": "2022-10-30T06:30:37.3719618+00:00",
+  "LastChanged": "2022-11-19T19:57:18.0729011+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:17.0160662+00:00",
@@ -485,28 +485,33 @@
       "Time": "2022-10-30T06:30:37.3719619+00:00",
       "Rating": 4.69,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T19:57:18.0729015+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 51
+      "Count": 60
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 56
+      "Count": 63
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 53
+      "Count": 63
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 55
+      "Count": 62
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 51
+      "Count": 60
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -514,7 +519,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 46
+      "Count": 51
     },
     {
       "Text": "This game has Challenging Combat",
@@ -522,15 +527,15 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 33
+      "Count": 38
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 29
+      "Count": 32
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 26
+      "Count": 32
     }
   ]
 }

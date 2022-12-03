@@ -1,10 +1,10 @@
 {
   "ID": "23f3da2016b94461a7bd7e2eb46aa0f9",
   "Name": "Sherlock Holmes: Crimes and Punishments",
-  "Rating": 4.44,
+  "Rating": 4.43,
   "NumberOfRatings": 491,
   "FirstSeen": "2022-07-22T20:25:12.9656224+00:00",
-  "LastChanged": "2022-11-02T06:31:37.4492946+00:00",
+  "LastChanged": "2022-11-18T07:57:50.0186927+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:12.9656226+00:00",
@@ -434,6 +434,31 @@
     {
       "Time": "2022-11-02T06:31:37.4492948+00:00",
       "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T22:57:31.2978464+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T11:58:09.4074692+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T11:57:25.4890884+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T11:57:41.9615436+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T07:57:50.018693+00:00",
+      "Rating": 4.43,
       "NumberOfRatings": null
     }
   ],

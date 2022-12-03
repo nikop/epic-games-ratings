@@ -1,10 +1,10 @@
 {
   "ID": "e04dd85a41d740ac972df346afd913a6",
   "Name": "Guild of Dungeoneering Ultimate Edition",
-  "Rating": 4.64,
+  "Rating": 4.63,
   "FirstSeen": "2022-07-22T20:33:05.1793726+00:00",
   "FirstSeenRating": "2022-10-01T01:33:21.6676401+00:00",
-  "LastChanged": "2022-10-31T14:02:50.7392577+00:00",
+  "LastChanged": "2022-11-15T17:04:25.1022078+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-01T01:33:21.6676405+00:00",
@@ -44,6 +44,16 @@
     {
       "Time": "2022-10-31T14:02:50.739258+00:00",
       "Rating": 4.64,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T14:58:21.190065+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T17:04:25.102208+00:00",
+      "Rating": 4.63,
       "NumberOfRatings": null
     }
   ],

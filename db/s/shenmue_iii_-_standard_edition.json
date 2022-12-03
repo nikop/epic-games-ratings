@@ -1,10 +1,10 @@
 {
   "ID": "5d582c08e31a43128a61093a2c3ff7f0",
   "Name": "Shenmue III - Standard Edition",
-  "Rating": 4.14,
+  "Rating": 4.19,
   "NumberOfRatings": 172,
   "FirstSeen": "2022-07-22T20:17:11.0965349+00:00",
-  "LastChanged": "2022-11-05T18:30:32.7208313+00:00",
+  "LastChanged": "2022-12-01T18:57:00.6614629+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:11.0965352+00:00",
@@ -330,7 +330,67 @@
       "Time": "2022-11-05T18:30:32.7208315+00:00",
       "Rating": 4.14,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T18:57:02.6651216+00:00",
+      "Rating": 4.15,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T06:58:16.2732695+00:00",
+      "Rating": 4.14,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T20:57:02.0221677+00:00",
+      "Rating": 4.15,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T13:38:22.1065746+00:00",
+      "Rating": 4.16,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T21:57:09.0285782+00:00",
+      "Rating": 4.15,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T17:57:06.1286683+00:00",
+      "Rating": 4.16,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T13:15:05.672992+00:00",
+      "Rating": 4.17,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T22:57:03.5350526+00:00",
+      "Rating": 4.18,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T18:57:07.7004405+00:00",
+      "Rating": 4.19,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T18:56:52.4790455+00:00",
+      "Rating": 4.18,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T18:57:00.6614631+00:00",
+      "Rating": 4.19,
+      "NumberOfRatings": null
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 25
+    }
+  ]
 }

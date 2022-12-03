@@ -1,10 +1,10 @@
 {
   "ID": "hyacinth",
   "Name": "Tom Clancy\u0027s Ghost Recon Wildlands Standard Edition",
-  "Rating": 4.57,
+  "Rating": 4.56,
   "NumberOfRatings": 871,
   "FirstSeen": "2022-07-22T20:20:43.6796979+00:00",
-  "LastChanged": "2022-10-26T17:31:51.8608741+00:00",
+  "LastChanged": "2022-11-14T07:56:56.2973777+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:43.6796982+00:00",
@@ -895,6 +895,21 @@
       "Time": "2022-10-26T17:31:51.8608747+00:00",
       "Rating": 4.57,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T11:57:19.1187317+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T22:57:58.9976671+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T07:56:56.2973782+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -908,35 +923,35 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 70
+      "Count": 91
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 72
+      "Count": 95
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 63
+      "Count": 89
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 67
+      "Count": 88
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 63
+      "Count": 93
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 62
+      "Count": 83
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 68
+      "Count": 89
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 68
+      "Count": 85
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "ID": "6daaf10529e94fccaa8ee43b66adbe4a",
   "Name": "Pathfinder: Kingmaker - Enhanced Plus Edition",
-  "Rating": 4.57,
+  "Rating": 4.56,
   "NumberOfRatings": 3868,
   "FirstSeen": "2022-07-22T20:24:35.6101884+00:00",
-  "LastChanged": "2022-11-03T17:32:01.6897869+00:00",
+  "LastChanged": "2022-12-03T11:58:04.8794958+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:35.6101886+00:00",
@@ -2430,52 +2430,87 @@
       "Time": "2022-11-03T17:32:01.6897872+00:00",
       "Rating": 4.57,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T07:57:30.0586269+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T13:11:59.6003226+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T18:57:32.1249164+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T13:15:57.8135794+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T20:57:58.4181559+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T20:58:32.1509642+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-03T11:58:04.879496+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 2366
+      "Count": 2676
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 1514
+      "Count": 1761
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 263
+      "Count": 317
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 270
+      "Count": 323
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 247
+      "Count": 311
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 252
+      "Count": 319
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 255
+      "Count": 306
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 241
+      "Count": 287
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 258
+      "Count": 309
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 259
+      "Count": 316
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 139
+      "Count": 155
     },
     {
       "Text": "This game has Obsessive Gameplay",

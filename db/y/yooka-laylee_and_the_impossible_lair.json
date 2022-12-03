@@ -1,10 +1,10 @@
 {
   "ID": "fa11862b1cfd42e3b3c6395af46efe3e",
   "Name": "Yooka-Laylee and the Impossible Lair",
-  "Rating": 4.4,
+  "Rating": 4.39,
   "NumberOfRatings": 346,
   "FirstSeen": "2022-07-22T20:26:15.7946917+00:00",
-  "LastChanged": "2022-11-03T13:32:36.2221706+00:00",
+  "LastChanged": "2022-11-23T11:59:14.1497126+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:15.7946919+00:00",
@@ -470,6 +470,31 @@
       "Time": "2022-11-03T13:32:36.2221708+00:00",
       "Rating": 4.4,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T02:45:25.0148805+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T10:57:58.9610417+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T13:26:28.1670896+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T20:57:41.0741794+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T11:59:14.1497132+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -479,11 +504,27 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 20
+      "Count": 22
     },
     {
       "Text": "This game is Relaxing",
+      "Count": 29
+    },
+    {
+      "Text": "This game has Playful Visuals",
       "Count": 22
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 24
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 22
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 23
     }
   ]
 }

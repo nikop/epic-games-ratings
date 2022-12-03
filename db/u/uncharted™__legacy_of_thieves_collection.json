@@ -1,10 +1,10 @@
 {
   "ID": "8b2d6cf2b45b41f1abe91bc5b7c1e8f9",
   "Name": "UNCHARTED\u2122: Legacy of Thieves Collection",
-  "Rating": 4.79,
+  "Rating": 4.76,
   "FirstSeen": "2022-10-19T19:01:42.4603943+00:00",
   "FirstSeenRating": "2022-10-20T19:02:12.9087244+00:00",
-  "LastChanged": "2022-11-04T22:32:26.1387792+00:00",
+  "LastChanged": "2022-11-29T08:57:29.940475+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-20T19:02:12.9087246+00:00",
@@ -145,12 +145,99 @@
       "Time": "2022-11-04T22:32:26.1387793+00:00",
       "Rating": 4.79,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T04:32:29.5852864+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T19:58:52.3458522+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T21:58:55.5075038+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T17:17:47.7825775+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T18:00:41.4793562+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T15:57:30.1073965+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T18:57:50.1580965+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T22:57:57.5943913+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T13:58:13.0006166+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T20:57:49.5409093+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T08:57:29.9404753+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 226
+      "Count": 407
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 27
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 25
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 23
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 23
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 20
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 22
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 20
     }
   ]
 }

@@ -4,7 +4,7 @@
   "Rating": 4.31,
   "NumberOfRatings": 5442,
   "FirstSeen": "2022-07-22T20:18:31.4925823+00:00",
-  "LastChanged": "2022-10-21T20:30:33.3702872+00:00",
+  "LastChanged": "2022-11-18T06:56:48.8331735+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:31.4925825+00:00",
@@ -2605,44 +2605,104 @@
       "Time": "2022-10-21T20:30:33.3702874+00:00",
       "Rating": 4.31,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T20:57:08.7744052+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T20:57:16.2074886+00:00",
+      "Rating": 4.31,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T14:56:55.7139388+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T17:02:43.8365781+00:00",
+      "Rating": 4.31,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T13:18:10.2538471+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T15:57:03.0572176+00:00",
+      "Rating": 4.31,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T19:57:18.0096965+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T06:56:52.9839132+00:00",
+      "Rating": 4.31,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T19:57:13.904726+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T15:57:21.7688849+00:00",
+      "Rating": 4.31,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T21:57:02.7412322+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T06:56:48.8331737+00:00",
+      "Rating": 4.31,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 2886
+      "Count": 3291
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 389
+      "Count": 460
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 325
+      "Count": 372
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 339
+      "Count": 395
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 310
+      "Count": 368
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 312
+      "Count": 377
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 279
+      "Count": 339
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 322
+      "Count": 375
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 244
+      "Count": 279
     }
   ]
 }

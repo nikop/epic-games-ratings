@@ -1,10 +1,10 @@
 {
   "ID": "9f4875c1b0cf4cf19b28e203fc7aff07",
   "Name": "Days Gone",
-  "Rating": 4.7,
+  "Rating": 4.69,
   "NumberOfRatings": 3949,
   "FirstSeen": "2022-07-22T20:29:37.7111961+00:00",
-  "LastChanged": "2022-10-28T13:02:51.5763862+00:00",
+  "LastChanged": "2022-11-11T14:58:11.8226855+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:37.7111964+00:00",
@@ -2050,40 +2050,55 @@
       "Time": "2022-10-28T13:02:51.5763865+00:00",
       "Rating": 4.7,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T08:58:56.4775649+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T17:58:07.9545536+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T14:58:11.8226857+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 2709
+      "Count": 3335
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 246
+      "Count": 322
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 241
+      "Count": 310
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 240
+      "Count": 300
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 218
+      "Count": 294
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 231
+      "Count": 295
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 248
+      "Count": 325
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 234
+      "Count": 304
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -2091,7 +2106,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 230
+      "Count": 298
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2099,7 +2114,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 108
+      "Count": 148
     }
   ]
 }

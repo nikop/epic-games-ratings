@@ -1,10 +1,10 @@
 {
   "ID": "03ecca4e19a9483aa05b3d99948c43ce",
   "Name": "Tom Clancy\u0027s The Division",
-  "Rating": 4.59,
+  "Rating": 4.57,
   "NumberOfRatings": 247,
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2022-11-04T15:30:43.6592506+00:00",
+  "LastChanged": "2022-11-25T02:21:35.9114321+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:11.4605073+00:00",
@@ -395,16 +395,79 @@
       "Time": "2022-11-04T15:30:43.6592509+00:00",
       "Rating": 4.59,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T10:56:55.8671104+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T14:10:45.3158992+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T09:01:45.8148753+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T02:52:09.9747174+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T17:08:01.5424669+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T05:57:04.446501+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T19:56:59.1949378+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T20:56:52.9198157+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T19:57:00.4617227+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T10:57:08.7821775+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T02:21:35.9114323+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 119
+      "Count": 179
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 78
+      "Count": 108
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 24
     }
   ]
 }

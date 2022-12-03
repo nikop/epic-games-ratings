@@ -1,8 +1,86 @@
 {
   "ID": "f696430be718494fac1d6542cfb22542",
   "Name": "Marvel\u2019s Spider-Man: Miles Morales",
-  "Names": [],
-  "DailyRatings": 0,
-  "RatingHistory": [],
-  "Tags": []
+  "Rating": 4.83,
+  "FirstSeen": "2022-11-18T19:57:18.4413349+00:00",
+  "FirstSeenRating": "2022-11-19T02:30:31.0923375+00:00",
+  "LastChanged": "2022-12-01T09:57:12.0235605+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-11-19T02:30:31.0923377+00:00",
+      "Rating": 4.94,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T17:57:21.7243843+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T17:57:16.5183449+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T02:42:37.9409536+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T03:40:25.9144635+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T17:08:18.5919354+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T18:57:11.2517879+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T04:57:11.5064695+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T14:58:07.359479+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T17:00:25.0446126+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T21:57:16.053703+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T22:57:02.7139782+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T03:17:04.5810375+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T09:57:12.0235606+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": null
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 553
+    }
+  ]
 }

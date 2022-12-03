@@ -1,10 +1,10 @@
 {
   "ID": "17651e1bc15847ca83389e8e5d931183",
   "Name": "Cook Serve Delicious 2",
-  "Rating": 4.88,
+  "Rating": 4.85,
   "FirstSeen": "2022-07-23T00:05:30.786501+00:00",
   "FirstSeenRating": "2022-10-07T16:02:05.979071+00:00",
-  "LastChanged": "2022-10-17T16:32:45.059825+00:00",
+  "LastChanged": "2022-11-20T17:01:07.8943674+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-07T16:02:05.9790713+00:00",
@@ -19,6 +19,11 @@
     {
       "Time": "2022-10-17T16:32:45.0598253+00:00",
       "Rating": 4.88,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T17:01:07.8943677+00:00",
+      "Rating": 4.85,
       "NumberOfRatings": null
     }
   ],

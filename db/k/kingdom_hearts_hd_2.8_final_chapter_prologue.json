@@ -1,10 +1,10 @@
 {
   "ID": "c8ff067c1c984cd7ab1998e8a9afc8b6",
   "Name": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
-  "Rating": 4.74,
+  "Rating": 4.75,
   "NumberOfRatings": 213,
   "FirstSeen": "2022-07-22T20:18:38.0851075+00:00",
-  "LastChanged": "2022-11-04T17:30:43.8246123+00:00",
+  "LastChanged": "2022-11-17T21:57:03.6059309+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:38.0851077+00:00",
@@ -390,16 +390,21 @@
       "Time": "2022-11-04T17:30:43.8246126+00:00",
       "Rating": 4.74,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T21:57:03.6059311+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 57
+      "Count": 69
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 28
+      "Count": 32
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "ID": "5c0d568c71174cff8026db2606771d96",
   "Name": "Into the Breach",
-  "Rating": 4.85,
+  "Rating": 4.84,
   "NumberOfRatings": 4082,
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
-  "LastChanged": "2022-09-23T12:31:48.6198618+00:00",
+  "LastChanged": "2022-11-07T02:49:47.0749324+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:50.8479512+00:00",
@@ -2455,16 +2455,21 @@
       "Time": "2022-09-23T12:31:48.619862+00:00",
       "Rating": 4.85,
       "NumberOfRatings": 4082
+    },
+    {
+      "Time": "2022-11-07T02:49:47.0749326+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
-      "Count": 324
+      "Count": 374
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 333
+      "Count": 371
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2472,27 +2477,27 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 326
+      "Count": 377
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 301
+      "Count": 347
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 320
+      "Count": 360
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 325
+      "Count": 367
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 306
+      "Count": 345
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 262
+      "Count": 293
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2500,15 +2505,15 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 285
+      "Count": 314
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 221
+      "Count": 261
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 149
+      "Count": 173
     }
   ]
 }

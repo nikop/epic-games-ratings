@@ -1,10 +1,10 @@
 {
   "ID": "f01b3e0178d448f0b93911e292d8e614",
   "Name": "RollerCoaster Tycoon 3 Complete Edition",
-  "Rating": 4.68,
+  "Rating": 4.66,
   "NumberOfRatings": 687,
   "FirstSeen": "2022-07-22T20:25:06.1047421+00:00",
-  "LastChanged": "2022-10-12T09:32:02.9413055+00:00",
+  "LastChanged": "2022-12-02T20:58:37.2705457+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:06.1047426+00:00",
@@ -745,20 +745,50 @@
       "Time": "2022-10-12T09:32:02.9413058+00:00",
       "Rating": 4.68,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T10:58:00.4953958+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T17:57:40.8361691+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T07:57:47.9751926+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T06:58:01.7904169+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T05:57:42.9748639+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T20:58:37.270546+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 39
+      "Count": 44
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 32
+      "Count": 37
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 32
+      "Count": 38
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -766,23 +796,23 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 41
+      "Count": 47
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 38
+      "Count": 43
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 33
+      "Count": 38
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 34
+      "Count": 37
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 32
+      "Count": 42
     },
     {
       "Text": "This game has Diverse Characters",
@@ -790,11 +820,11 @@
     },
     {
       "Text": "This game has Easy Combat",
-      "Count": 22
+      "Count": 31
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 22
+      "Count": 27
     }
   ]
 }

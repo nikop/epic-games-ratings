@@ -4,7 +4,7 @@
   "Rating": 4.83,
   "NumberOfRatings": 1298,
   "FirstSeen": "2022-07-22T20:20:55.4170175+00:00",
-  "LastChanged": "2022-10-16T13:00:55.2274522+00:00",
+  "LastChanged": "2022-11-07T18:57:23.2499226+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:55.4170178+00:00",
@@ -1065,24 +1065,34 @@
       "Time": "2022-10-16T13:00:55.2274525+00:00",
       "Rating": 4.83,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T02:49:23.0000772+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T18:57:23.2499228+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 58
+      "Count": 70
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 48
+      "Count": 60
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 47
+      "Count": 54
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 44
+      "Count": 58
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1090,19 +1100,19 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 55
+      "Count": 65
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 43
+      "Count": 52
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 45
+      "Count": 53
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 51
+      "Count": 58
     },
     {
       "Text": "This game has Playful Visuals",
@@ -1110,15 +1120,15 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 32
+      "Count": 36
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 38
+      "Count": 46
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 34
+      "Count": 38
     }
   ]
 }

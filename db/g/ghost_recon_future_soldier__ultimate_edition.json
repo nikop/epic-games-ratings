@@ -1,11 +1,11 @@
 {
   "ID": "047ee5c9350245588f043061fb0279ab",
   "Name": "Ghost Recon Future Soldier: Ultimate Edition",
-  "Rating": 4.76,
+  "Rating": 4.58,
   "NumberOfRatings": 23,
   "FirstSeen": "2022-07-22T20:29:47.3812032+00:00",
   "FirstSeenRating": "2022-09-10T00:02:01.006784+00:00",
-  "LastChanged": "2022-11-06T01:02:24.8567594+00:00",
+  "LastChanged": "2022-12-03T11:58:50.5365273+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-10T00:02:01.0067842+00:00",
@@ -51,7 +51,107 @@
       "Time": "2022-11-06T01:02:24.8567597+00:00",
       "Rating": 4.76,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T05:16:15.3272649+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T09:57:46.345219+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T09:57:59.2872936+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T09:57:56.5196942+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T15:58:13.5464142+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T15:58:31.0773318+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T03:45:51.8253846+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T03:48:37.0676695+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T14:59:01.9006073+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T14:13:55.0278076+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T19:58:15.206561+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T21:57:45.1837168+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T13:58:15.9126421+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T13:57:59.4567183+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T06:58:33.0947353+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T06:58:05.7883274+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T17:57:52.9914156+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T14:58:40.9520543+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-03T11:58:50.5365274+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 20
+    }
+  ]
 }

@@ -1,7 +1,21 @@
 {
   "ID": "4586d456108e4a03810c5927453ce6da",
   "Name": "Suzerain",
+  "Rating": 4.73,
   "FirstSeen": "2022-07-22T20:25:09.9621281+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-11-13T17:58:37.984125+00:00",
+  "LastChanged": "2022-11-28T19:57:43.7671969+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-11-13T17:58:37.9841255+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T19:57:43.7671971+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }

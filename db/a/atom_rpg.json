@@ -1,10 +1,10 @@
 {
   "ID": "cb62701a29834de6a91e5f634a72b6f8",
   "Name": "ATOM RPG",
-  "Rating": 4.36,
+  "Rating": 4.39,
   "NumberOfRatings": 54,
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
-  "LastChanged": "2022-11-02T19:32:22.1973289+00:00",
+  "LastChanged": "2022-12-01T21:57:49.0273703+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:27.3928407+00:00",
@@ -195,12 +195,87 @@
       "Time": "2022-11-02T19:32:22.1973293+00:00",
       "Rating": 4.36,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T21:58:05.4504875+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T07:02:52.5685317+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T11:58:13.6186156+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T17:58:04.3041013+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T09:57:55.7260349+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T11:57:37.8203096+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T05:58:01.6486509+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T17:57:40.5908292+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T10:57:31.274731+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T20:57:48.0214442+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T13:12:19.6696465+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T16:00:00.7188476+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T14:58:10.6455911+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T14:57:44.6734915+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T21:57:49.0273705+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 28
+      "Count": 37
     }
   ]
 }

@@ -1,6 +1,46 @@
 {
   "ID": "70f113623e4e48c481c1908cfe002c98",
   "Name": "Somerville",
-  "RatingHistory": [],
+  "Rating": 4.19,
+  "FirstSeen": "2022-11-15T21:57:56.5143092+00:00",
+  "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
+  "LastChanged": "2022-12-02T17:59:02.8270096+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-11-25T17:58:18.002963+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T17:57:49.0288568+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T17:58:04.3358151+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T17:58:36.3813454+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T17:58:33.3009457+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T17:58:33.0381256+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T17:59:02.8270098+00:00",
+      "Rating": 4.19,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }

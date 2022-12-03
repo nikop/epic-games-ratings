@@ -5,7 +5,7 @@
   "NumberOfRatings": 29,
   "FirstSeen": "2022-07-22T20:29:31.9753367+00:00",
   "FirstSeenRating": "2022-08-05T17:31:55.1060737+00:00",
-  "LastChanged": "2022-10-21T02:03:08.6072895+00:00",
+  "LastChanged": "2022-11-25T07:58:20.054651+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-05T17:31:55.106074+00:00",
@@ -64,6 +64,16 @@
     },
     {
       "Time": "2022-10-21T02:03:08.6072896+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T06:58:02.0093814+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T07:58:20.0546512+00:00",
       "Rating": 4.47,
       "NumberOfRatings": null
     }

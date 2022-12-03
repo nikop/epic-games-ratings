@@ -1,11 +1,11 @@
 {
   "ID": "6a8dfa6e441e4f2f9048a98776c6077d",
   "Name": "Bloons TD 6",
-  "Rating": 4.81,
+  "Rating": 4.83,
   "NumberOfRatings": 136,
   "FirstSeen": "2022-07-23T14:00:48.5667099+00:00",
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
-  "LastChanged": "2022-11-03T20:00:25.2875881+00:00",
+  "LastChanged": "2022-11-30T15:57:05.3051299+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-21T19:00:52.0889936+00:00",
@@ -476,6 +476,46 @@
       "Time": "2022-11-03T20:00:25.2875884+00:00",
       "Rating": 4.81,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T11:56:59.6863765+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T19:56:48.4834786+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T21:56:55.4065386+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T08:57:32.0578563+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T16:57:25.2277331+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T23:56:58.300604+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T06:57:14.4963961+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T15:57:05.3051301+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -485,46 +525,50 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 54
+      "Count": 91
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 47
+      "Count": 80
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 40
+      "Count": 74
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 51
+      "Count": 79
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 26
+      "Count": 64
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 48
+      "Count": 83
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 21
+      "Count": 64
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 33
+      "Count": 77
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 35
+      "Count": 66
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 44
+      "Count": 80
     },
     {
       "Text": "This game has a Creative Community",
+      "Count": 68
+    },
+    {
+      "Text": "This game has Competitive Players",
       "Count": 40
     }
   ]

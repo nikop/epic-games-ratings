@@ -1,10 +1,10 @@
 {
   "ID": "e8882546f28e4832af823c646aed232e",
   "Name": "Offworld Trading Company",
-  "Rating": 4.27,
+  "Rating": 4.29,
   "NumberOfRatings": 432,
   "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
-  "LastChanged": "2022-11-02T21:01:56.492998+00:00",
+  "LastChanged": "2022-11-19T13:15:00.6339314+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:30.0277811+00:00",
@@ -565,16 +565,36 @@
       "Time": "2022-11-02T21:01:56.4929984+00:00",
       "Rating": 4.27,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T02:49:21.1396388+00:00",
+      "Rating": 4.28,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T23:58:20.1638779+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T19:57:24.2136615+00:00",
+      "Rating": 4.28,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T13:15:00.6339317+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Relaxing",
-      "Count": 34
+      "Count": 38
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 33
+      "Count": 38
     },
     {
       "Text": "This game is Educational",
@@ -582,23 +602,23 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 27
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Count": 29
-    },
-    {
-      "Text": "This game is Extremely Fun",
       "Count": 30
     },
     {
+      "Text": "This game has Challenging Combat",
+      "Count": 33
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 34
+    },
+    {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 31
+      "Count": 39
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 21
+      "Count": 26
     }
   ]
 }

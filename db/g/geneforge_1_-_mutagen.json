@@ -4,7 +4,7 @@
   "Rating": 4.2,
   "NumberOfRatings": 1102,
   "FirstSeen": "2022-07-22T20:31:43.0453732+00:00",
-  "LastChanged": "2022-10-15T00:02:38.8747136+00:00",
+  "LastChanged": "2022-11-30T02:18:05.8699818+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:43.0453736+00:00",
@@ -590,28 +590,52 @@
       "Time": "2022-10-15T00:02:38.8747137+00:00",
       "Rating": 4.2,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T16:58:54.7399273+00:00",
+      "Rating": 4.19,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T16:58:30.7141137+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T22:57:58.4319731+00:00",
+      "Rating": 4.19,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T02:18:05.8699821+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 24
+      "Count": 28
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 24
+      "Count": 27
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 22
+      "Count": 25
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 20
     }
   ]
 }

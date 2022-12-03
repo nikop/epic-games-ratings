@@ -1,10 +1,10 @@
 {
   "ID": "springbok",
   "Name": "Darksiders III",
-  "Rating": 4.46,
+  "Rating": 4.5,
   "NumberOfRatings": 116,
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
-  "LastChanged": "2022-11-05T12:00:43.9000278+00:00",
+  "LastChanged": "2022-12-03T08:57:37.3975829+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:42.0719798+00:00",
@@ -285,12 +285,62 @@
       "Time": "2022-11-05T12:00:43.9000281+00:00",
       "Rating": 4.46,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T11:57:10.2118399+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T13:33:41.9848265+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T21:57:13.6327497+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T13:25:44.3688938+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T04:56:54.0538203+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T04:57:08.7683237+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T08:57:21.5685862+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T02:19:44.6374795+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T08:57:08.7518187+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-03T08:57:37.397583+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 65
+      "Count": 76
     }
   ]
 }

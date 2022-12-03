@@ -1,10 +1,10 @@
 {
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
-  "Rating": 4.75,
+  "Rating": 4.66,
   "NumberOfRatings": 495,
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
-  "LastChanged": "2022-10-25T19:33:06.5754713+00:00",
+  "LastChanged": "2022-12-01T20:57:40.9101619+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:59.8684255+00:00",
@@ -585,36 +585,222 @@
       "Time": "2022-10-25T19:33:06.5754715+00:00",
       "Rating": 4.75,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T13:39:26.8347504+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T13:32:11.9199247+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T17:08:19.5234228+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T05:57:25.1091281+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T08:57:26.5779387+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T09:57:16.9545669+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T11:57:21.0947991+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T13:18:02.6636496+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T23:57:11.6284616+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T14:57:47.2023972+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T02:49:12.1773946+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T13:38:41.7140202+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T04:12:44.2399771+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T13:25:59.2458879+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T15:57:36.0800987+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T17:57:15.0907391+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T07:57:45.3491504+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T03:32:16.1568419+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T14:57:21.5646592+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T15:57:08.3794099+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T21:57:35.2191592+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T11:57:51.0446561+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T17:57:08.5599843+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T02:40:19.1141971+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T10:57:16.9190689+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T14:57:32.5071135+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T18:57:34.0651553+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T11:57:31.3993449+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T16:57:46.5530588+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T16:58:44.8612766+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T17:57:48.2598043+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T18:57:20.1876833+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T05:57:34.8428327+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T20:57:40.9101624+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
-      "Count": 38
+      "Count": 389
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 30
+      "Count": 349
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 30
+      "Count": 331
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 27
+      "Count": 380
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 26
+      "Count": 325
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 26
+      "Count": 395
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 32
+      "Count": 349
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Count": 353
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 347
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 179
     }
   ]
 }

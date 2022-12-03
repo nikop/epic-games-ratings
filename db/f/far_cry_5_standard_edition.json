@@ -1,10 +1,10 @@
 {
   "ID": "coriander",
   "Name": "Far Cry 5 Standard Edition",
-  "Rating": 4.6,
+  "Rating": 4.61,
   "NumberOfRatings": 1848,
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2022-10-31T19:01:51.7499734+00:00",
+  "LastChanged": "2022-11-12T15:57:29.7903294+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:47.7430661+00:00",
@@ -1085,52 +1085,57 @@
       "Time": "2022-10-31T19:01:51.7499741+00:00",
       "Rating": 4.6,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T15:57:29.7903297+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 800
+      "Count": 939
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 47
+      "Count": 60
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 37
+      "Count": 48
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 47
+      "Count": 54
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 46
+      "Count": 59
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 38
+      "Count": 44
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 33
+      "Count": 40
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 34
+      "Count": 39
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 34
+      "Count": 43
     },
     {
       "Text": "This game has Realistic Visuals",
-      "Count": 33
+      "Count": 41
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 24
+      "Count": 28
     }
   ]
 }

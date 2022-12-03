@@ -1,10 +1,10 @@
 {
   "ID": "36336ee97ec543bbae85abaca618182b",
   "Name": "Diabotical",
-  "Rating": 4.79,
+  "Rating": 4.76,
   "NumberOfRatings": 572,
   "FirstSeen": "2022-07-22T20:22:10.7191906+00:00",
-  "LastChanged": "2022-10-25T21:03:07.5101277+00:00",
+  "LastChanged": "2022-11-30T21:57:34.4670766+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:10.7191909+00:00",
@@ -810,6 +810,31 @@
       "Time": "2022-10-25T21:03:07.5101283+00:00",
       "Rating": 4.79,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T05:15:34.7896523+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T21:57:32.3134684+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T20:57:33.5347059+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T18:57:51.0064142+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T21:57:34.4670768+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -819,31 +844,31 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 199
+      "Count": 235
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 202
+      "Count": 231
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 189
+      "Count": 209
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 189
+      "Count": 207
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 199
+      "Count": 227
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 178
+      "Count": 209
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 144
+      "Count": 165
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -851,15 +876,15 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 195
+      "Count": 221
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 160
+      "Count": 182
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 173
+      "Count": 194
     }
   ]
 }

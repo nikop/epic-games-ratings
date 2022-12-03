@@ -1,10 +1,10 @@
 {
   "ID": "oleander",
   "Name": "Journey to the Savage Planet",
-  "Rating": 4.58,
+  "Rating": 4.59,
   "NumberOfRatings": 114,
   "FirstSeen": "2022-07-22T20:21:18.1838434+00:00",
-  "LastChanged": "2022-10-30T23:01:02.0092283+00:00",
+  "LastChanged": "2022-11-30T23:57:39.5876602+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:18.1838436+00:00",
@@ -260,12 +260,27 @@
       "Time": "2022-10-30T23:01:02.0092286+00:00",
       "Rating": 4.58,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T02:52:26.4039289+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T20:57:22.0434379+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T23:57:39.5876606+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 27
+      "Count": 33
     }
   ]
 }

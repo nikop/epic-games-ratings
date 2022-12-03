@@ -1,10 +1,10 @@
 {
   "ID": "043ffc92cbd64a9fbc350ea68f415937",
   "Name": "Arcadegeddon",
-  "Rating": 4.51,
+  "Rating": 4.5,
   "NumberOfRatings": 801,
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
-  "LastChanged": "2022-11-06T08:01:36.9522365+00:00",
+  "LastChanged": "2022-11-11T05:12:14.8686326+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:13.3727466+00:00",
@@ -600,16 +600,21 @@
       "Time": "2022-11-06T08:01:36.9522367+00:00",
       "Rating": 4.51,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T05:12:14.8686329+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 58
+      "Count": 60
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 51
+      "Count": 57
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -617,27 +622,27 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 53
+      "Count": 56
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 59
+      "Count": 61
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 53
+      "Count": 54
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 42
+      "Count": 45
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 47
+      "Count": 52
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 40
+      "Count": 42
     },
     {
       "Text": "This game has Playful Visuals",
@@ -645,7 +650,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 34
+      "Count": 36
     }
   ]
 }

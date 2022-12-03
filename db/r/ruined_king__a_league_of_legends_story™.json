@@ -1,10 +1,10 @@
 {
   "ID": "a69c5a82682c43148e4e2542fe2fcd0f",
   "Name": "Ruined King: A League of Legends Story\u2122",
-  "Rating": 4.63,
+  "Rating": 4.62,
   "NumberOfRatings": 597,
   "FirstSeen": "2022-07-22T20:24:34.6874306+00:00",
-  "LastChanged": "2022-10-22T02:32:32.1309446+00:00",
+  "LastChanged": "2022-11-15T03:38:25.2839108+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:34.6874312+00:00",
@@ -450,12 +450,47 @@
       "Time": "2022-10-22T02:32:32.1309447+00:00",
       "Rating": 4.63,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T02:49:38.1473709+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T13:31:00.5387773+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T13:32:28.1043514+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T11:57:35.1517773+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T02:48:30.0842939+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T02:50:02.4324236+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T03:38:25.2839109+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 153
+      "Count": 173
     }
   ]
 }

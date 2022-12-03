@@ -1,10 +1,10 @@
 {
   "ID": "c12a5687fb024192999b2d22c555d4c6",
   "Name": "Destroy All Humans!",
-  "Rating": 4.64,
+  "Rating": 4.59,
   "NumberOfRatings": 85,
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
-  "LastChanged": "2022-11-06T06:31:53.0185214+00:00",
+  "LastChanged": "2022-12-01T07:58:06.1441411+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:21.4096774+00:00",
@@ -220,12 +220,57 @@
       "Time": "2022-11-06T06:31:53.0185218+00:00",
       "Rating": 4.64,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T06:58:17.4044688+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T07:03:00.5370336+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T07:57:33.9193794+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T07:57:57.927863+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T08:57:48.0657693+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T08:58:22.9388998+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T17:57:45.676754+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T17:57:40.3327172+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T07:58:06.1441413+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 29
+      "Count": 32
     }
   ]
 }

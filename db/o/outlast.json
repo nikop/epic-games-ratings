@@ -1,10 +1,10 @@
 {
   "ID": "78f42129096d4233bccc527733debfbd",
   "Name": "Outlast",
-  "Rating": 4.76,
+  "Rating": 4.73,
   "FirstSeen": "2022-10-05T05:31:44.4184122+00:00",
   "FirstSeenRating": "2022-10-20T15:31:49.6878408+00:00",
-  "LastChanged": "2022-11-05T15:31:52.6745059+00:00",
+  "LastChanged": "2022-11-24T21:57:47.4494673+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-20T15:31:49.6878413+00:00",
@@ -124,6 +124,46 @@
     {
       "Time": "2022-11-05T15:31:52.6745063+00:00",
       "Rating": 4.76,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T23:57:49.4690061+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T23:57:58.2842143+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T04:17:42.9539595+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T22:57:50.1620625+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T13:22:27.8400447+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T22:57:48.4411815+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T17:58:27.2909828+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T21:57:47.4494677+00:00",
+      "Rating": 4.73,
       "NumberOfRatings": null
     }
   ],

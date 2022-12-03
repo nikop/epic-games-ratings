@@ -1,11 +1,11 @@
 {
   "ID": "5b325322a4c04b9e9e780b9a1e9b2d70",
   "Name": "Aztez",
-  "Rating": 4.5,
+  "Rating": 4.52,
   "NumberOfRatings": 43,
   "FirstSeen": "2022-07-22T20:28:45.0438732+00:00",
   "FirstSeenRating": "2022-08-01T19:31:46.0667461+00:00",
-  "LastChanged": "2022-10-23T01:02:00.0474611+00:00",
+  "LastChanged": "2022-12-01T20:58:24.0040462+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-01T19:31:46.0667464+00:00",
@@ -155,6 +155,46 @@
     {
       "Time": "2022-10-23T01:02:00.0474615+00:00",
       "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T20:57:43.3677325+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T20:57:55.0084259+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T20:58:01.3009886+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T18:57:32.2585232+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T18:57:41.2820941+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T18:57:48.9843383+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T18:57:59.4912185+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T20:58:24.0040463+00:00",
+      "Rating": 4.52,
       "NumberOfRatings": null
     }
   ],

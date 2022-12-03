@@ -1,10 +1,10 @@
 {
   "ID": "50118b7f954e450f8823df1614b24e80",
   "Name": "Fall Guys",
-  "Rating": 4.54,
+  "Rating": 4.53,
   "NumberOfRatings": 1046587,
   "FirstSeen": "2022-07-22T20:18:16.49776+00:00",
-  "LastChanged": "2022-09-23T11:31:09.583466+00:00",
+  "LastChanged": "2022-12-02T05:56:55.580745+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:16.4977602+00:00",
@@ -2865,52 +2865,57 @@
       "Time": "2022-09-23T11:31:09.5834724+00:00",
       "Rating": 4.54,
       "NumberOfRatings": 1046587
+    },
+    {
+      "Time": "2022-12-02T05:56:55.5807452+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 122549
+      "Count": 129341
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 115738
+      "Count": 122744
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 113639
+      "Count": 120244
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 113437
+      "Count": 120116
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 108028
+      "Count": 114252
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 106029
+      "Count": 112001
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 104419
+      "Count": 110305
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 98072
+      "Count": 103572
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 95723
+      "Count": 101089
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 91660
+      "Count": 96535
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 87342
+      "Count": 92210
     }
   ]
 }

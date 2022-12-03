@@ -1,11 +1,11 @@
 {
   "ID": "b36ca8a7314444e6a6b513729790582d",
   "Name": "Lake",
-  "Rating": 4.08,
+  "Rating": 4.07,
   "NumberOfRatings": 22,
   "FirstSeen": "2022-07-22T20:21:48.5356941+00:00",
   "FirstSeenRating": "2022-09-12T17:01:06.2568783+00:00",
-  "LastChanged": "2022-10-01T18:31:03.7756353+00:00",
+  "LastChanged": "2022-11-26T23:57:03.015056+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-12T17:01:06.2568786+00:00",
@@ -30,6 +30,16 @@
     {
       "Time": "2022-10-01T18:31:03.7756355+00:00",
       "Rating": 4.08,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T21:57:30.1649653+00:00",
+      "Rating": 4.04,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T23:57:03.015056+00:00",
+      "Rating": 4.07,
       "NumberOfRatings": null
     }
   ],

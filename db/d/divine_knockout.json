@@ -1,10 +1,10 @@
 {
   "ID": "1200aeb2f87c48349594d96554e2833d",
   "Name": "Divine Knockout",
-  "Rating": 4.64,
+  "Rating": 4.63,
   "NumberOfRatings": 60,
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2022-11-05T18:01:43.5591769+00:00",
+  "LastChanged": "2022-12-02T13:12:03.287113+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:52.9902409+00:00",
@@ -234,6 +234,76 @@
     {
       "Time": "2022-11-05T18:01:43.5591774+00:00",
       "Rating": 4.64,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T17:15:39.3560614+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T21:57:49.8643388+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T04:17:21.7944011+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T17:57:44.8733311+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T20:57:37.2217717+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T02:48:24.1195456+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T15:57:32.5612559+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T15:57:47.3473139+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T04:11:27.8570935+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T17:04:44.4869268+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T09:57:38.7166839+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T18:57:43.0883662+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T17:00:39.4209235+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T13:12:03.2871134+00:00",
+      "Rating": 4.63,
       "NumberOfRatings": null
     }
   ],

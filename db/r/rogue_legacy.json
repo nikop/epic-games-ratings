@@ -1040,43 +1040,47 @@
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 903
+      "Count": 998
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 48
+      "Count": 52
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 43
+      "Count": 49
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 42
+      "Count": 48
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 45
+      "Count": 53
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 40
+      "Count": 53
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 42
+      "Count": 49
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 44
+      "Count": 51
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 36
+      "Count": 44
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 37
+      "Count": 42
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 28
     }
   ]
 }

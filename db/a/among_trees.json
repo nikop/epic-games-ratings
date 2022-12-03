@@ -1,10 +1,10 @@
 {
   "ID": "1886704a76f94324ab964a4698db3e09",
   "Name": "Among Trees",
-  "Rating": 4.36,
+  "Rating": 4.35,
   "NumberOfRatings": 122,
   "FirstSeen": "2022-07-22T20:19:39.253901+00:00",
-  "LastChanged": "2022-11-01T22:01:36.924932+00:00",
+  "LastChanged": "2022-12-02T17:57:28.8771453+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:39.2539012+00:00",
@@ -254,6 +254,96 @@
     {
       "Time": "2022-11-01T22:01:36.9249322+00:00",
       "Rating": 4.36,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T20:57:07.3229009+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T20:57:13.648873+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T20:57:08.0941162+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T20:57:25.00628+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T20:57:08.2600904+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T20:57:16.4888692+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T17:00:49.9683131+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T17:02:19.0238601+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T02:44:04.5920562+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T02:42:36.3387349+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T20:57:05.8390722+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T02:40:04.8319008+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T02:24:09.3477343+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T21:56:54.8231047+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T16:57:36.1178548+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T20:56:55.7358518+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T17:57:28.2295686+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T17:57:28.8771454+00:00",
+      "Rating": 4.35,
       "NumberOfRatings": null
     }
   ],

@@ -1,7 +1,31 @@
 {
   "ID": "52a92e2c71b54d58a249946982a0a379",
   "Name": "ANNO Mutationem",
+  "Rating": 4.52,
   "FirstSeen": "2022-09-25T10:31:45.2250496+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
+  "LastChanged": "2022-11-11T18:59:04.7611025+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-11-06T22:57:11.9823156+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T20:57:48.0628593+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T20:57:37.5022562+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T18:59:04.7611028+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }

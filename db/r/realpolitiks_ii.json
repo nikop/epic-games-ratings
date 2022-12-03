@@ -1,7 +1,16 @@
 {
   "ID": "be69d05166bd49f3b649f6103c2324d0",
   "Name": "Realpolitiks II",
+  "Rating": 4.1,
   "FirstSeen": "2022-07-22T20:18:15.0752581+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-12-01T03:29:27.0060799+00:00",
+  "LastChanged": "2022-12-01T03:29:27.0060801+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-12-01T03:29:27.0060801+00:00",
+      "Rating": 4.1,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }

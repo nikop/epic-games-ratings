@@ -1,10 +1,10 @@
 {
   "ID": "1093790870b043cdbae03d91d76d9ae6",
   "Name": "Tom Clancy\u2019s Rainbow Six\u00AE Extraction Standard Edition",
-  "Rating": 4.56,
+  "Rating": 4.52,
   "NumberOfRatings": 635,
   "FirstSeen": "2022-07-22T20:22:18.7941234+00:00",
-  "LastChanged": "2022-11-05T07:01:14.6178997+00:00",
+  "LastChanged": "2022-11-29T17:57:49.4707966+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:18.7941236+00:00",
@@ -870,16 +870,76 @@
       "Time": "2022-11-05T07:01:14.6178999+00:00",
       "Rating": 4.56,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T02:49:52.3826076+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T06:59:35.2464488+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T13:30:47.2259583+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T22:57:18.2140162+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T13:39:27.9989723+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T20:57:25.7399978+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T18:58:56.4320178+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T11:57:43.7546896+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T18:57:33.2711958+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T21:57:14.8914531+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T14:57:22.4711635+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T17:57:49.4707973+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
-      "Count": 77
+      "Count": 103
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 78
+      "Count": 96
     },
     {
       "Text": "This game has a Competitive Community",
@@ -887,27 +947,27 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 72
+      "Count": 88
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 84
+      "Count": 106
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 79
+      "Count": 100
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 69
+      "Count": 83
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 85
+      "Count": 101
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 69
+      "Count": 88
     },
     {
       "Text": "This game has Realistic Visuals",

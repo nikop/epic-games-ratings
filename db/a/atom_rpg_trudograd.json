@@ -1,0 +1,96 @@
+{
+  "ID": "41591febb4a74d7faa39819d5788f7d0",
+  "Name": "ATOM RPG Trudograd",
+  "Rating": 4.45,
+  "FirstSeen": "2022-11-08T13:31:16.6189198+00:00",
+  "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
+  "LastChanged": "2022-12-01T20:58:16.4944415+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-11-18T14:57:38.137253+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T02:44:58.591949+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T15:59:01.6850556+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T03:41:10.8824476+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T20:58:20.8453824+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T19:58:09.8460839+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T20:57:57.0557952+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T20:57:39.4670066+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T13:12:30.5244453+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T13:58:23.7316248+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T20:57:59.8383233+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T20:58:08.7302762+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T03:58:03.3679091+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T16:59:17.2464409+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T10:57:53.7847197+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T02:34:39.3177866+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T20:58:16.4944417+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    }
+  ],
+  "Tags": []
+}

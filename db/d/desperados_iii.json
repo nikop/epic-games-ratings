@@ -1,10 +1,10 @@
 {
   "ID": "8b8fd2fe87a04bbab2eca292e71b5e2c",
   "Name": "Desperados III",
-  "Rating": 4.84,
+  "Rating": 4.83,
   "NumberOfRatings": 351,
   "FirstSeen": "2022-07-22T20:22:02.5074381+00:00",
-  "LastChanged": "2022-10-14T19:31:04.8562928+00:00",
+  "LastChanged": "2022-11-22T22:57:19.8583338+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:02.5074384+00:00",
@@ -420,16 +420,21 @@
       "Time": "2022-10-14T19:31:04.8562932+00:00",
       "Rating": 4.84,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T22:57:19.858334+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Relaxing",
-      "Count": 30
+      "Count": 37
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 31
+      "Count": 34
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -441,19 +446,19 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 26
+      "Count": 39
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 28
+      "Count": 32
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 23
+      "Count": 25
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 22
+      "Count": 26
     },
     {
       "Text": "This game has Unique Visuals",
@@ -461,11 +466,11 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 21
+      "Count": 25
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 20
+      "Count": 24
     }
   ]
 }

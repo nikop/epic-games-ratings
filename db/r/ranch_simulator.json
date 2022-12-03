@@ -1,10 +1,10 @@
 {
   "ID": "6a9d6df3f6f74983a7d77861ccfcf50b",
   "Name": "Ranch Simulator",
-  "Rating": 4.45,
+  "Rating": 4.46,
   "NumberOfRatings": 338,
   "FirstSeen": "2022-07-22T20:19:57.8144749+00:00",
-  "LastChanged": "2022-11-05T12:00:46.0122066+00:00",
+  "LastChanged": "2022-11-30T08:57:20.9874054+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:57.8144751+00:00",
@@ -465,16 +465,71 @@
       "Time": "2022-11-05T12:00:46.0122069+00:00",
       "Rating": 4.45,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T14:57:15.4608688+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T05:12:13.0815545+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T18:58:44.7860358+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T20:57:10.3913225+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T22:57:47.8743124+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T05:57:05.6926236+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T10:57:11.2953459+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T02:21:44.9240537+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T13:11:33.9718653+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T06:57:09.2574565+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T08:57:20.9874059+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
-      "Count": 31
+      "Count": 39
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 28
+      "Count": 34
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -486,19 +541,27 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 24
+      "Count": 32
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 23
+      "Count": 38
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 24
+      "Count": 28
     },
     {
       "Text": "This game has Easy Combat",
-      "Count": 22
+      "Count": 28
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 23
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 20
     }
   ]
 }

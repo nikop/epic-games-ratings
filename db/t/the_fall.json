@@ -1,10 +1,10 @@
 {
   "ID": "d16f231f238646e881bb0cd83e1d30c8",
   "Name": "The Fall",
-  "Rating": 4.25,
+  "Rating": 4.28,
   "NumberOfRatings": 106,
   "FirstSeen": "2022-07-22T20:31:38.7819539+00:00",
-  "LastChanged": "2022-10-28T05:02:26.717584+00:00",
+  "LastChanged": "2022-11-30T06:58:56.3024308+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:38.7819541+00:00",
@@ -279,6 +279,61 @@
     {
       "Time": "2022-10-28T05:02:26.7175843+00:00",
       "Rating": 4.25,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T05:57:44.1197973+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T05:58:11.5884338+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T05:58:05.9766974+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T05:58:26.532534+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T06:58:06.3348413+00:00",
+      "Rating": 4.28,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T06:58:13.5858328+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T06:57:50.8145706+00:00",
+      "Rating": 4.28,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T06:58:43.3563105+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T06:58:45.7811065+00:00",
+      "Rating": 4.28,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T06:58:31.8562127+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T06:58:56.302431+00:00",
+      "Rating": 4.28,
       "NumberOfRatings": null
     }
   ],

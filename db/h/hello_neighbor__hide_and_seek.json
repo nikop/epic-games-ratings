@@ -1,10 +1,10 @@
 {
   "ID": "morpho",
   "Name": "Hello Neighbor: Hide and Seek",
-  "Rating": 4.52,
+  "Rating": 4.5,
   "NumberOfRatings": 81,
   "FirstSeen": "2022-07-22T20:18:38.5841657+00:00",
-  "LastChanged": "2022-10-31T18:01:09.7468365+00:00",
+  "LastChanged": "2022-12-01T19:57:04.1103637+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:38.5841662+00:00",
@@ -264,6 +264,46 @@
     {
       "Time": "2022-10-31T18:01:09.7468368+00:00",
       "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T18:57:10.8049842+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T18:57:46.1681444+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T18:57:25.7676273+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T18:56:59.7154455+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T19:57:20.4494202+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T19:57:02.6529612+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T19:57:28.471476+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T19:57:04.1103639+00:00",
+      "Rating": 4.5,
       "NumberOfRatings": null
     }
   ],

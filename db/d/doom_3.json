@@ -1,11 +1,11 @@
 {
   "ID": "7f1853beef0a4b40827038d0f47606f3",
   "Name": "DOOM 3",
-  "Rating": 4.65,
+  "Rating": 4.66,
   "NumberOfRatings": 105,
   "FirstSeen": "2022-08-18T16:02:43.6550747+00:00",
   "FirstSeenRating": "2022-08-25T17:32:08.5034693+00:00",
-  "LastChanged": "2022-10-31T23:03:05.5294182+00:00",
+  "LastChanged": "2022-12-01T03:30:22.4229485+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-25T17:32:08.5034697+00:00",
@@ -261,12 +261,52 @@
       "Time": "2022-10-31T23:03:05.5294188+00:00",
       "Rating": 4.65,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T03:53:25.1840038+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T13:59:31.5542682+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T20:58:24.4180661+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T11:58:05.8732997+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T17:09:39.4067544+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T17:04:39.6894168+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T02:14:58.7398344+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T03:30:22.4229487+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 42
+      "Count": 53
     }
   ]
 }

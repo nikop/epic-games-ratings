@@ -1,11 +1,11 @@
 {
   "ID": "be69d6b9214f4bc594c4cb1cd310a553",
   "Name": "Dark Deity",
-  "Rating": 4.29,
+  "Rating": 4.16,
   "NumberOfRatings": 24,
   "FirstSeen": "2022-07-22T20:32:09.3077466+00:00",
   "FirstSeenRating": "2022-08-09T18:32:09.805547+00:00",
-  "LastChanged": "2022-10-28T16:31:41.5626743+00:00",
+  "LastChanged": "2022-12-03T09:58:14.1637873+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-09T18:32:09.8055473+00:00",
@@ -51,7 +51,187 @@
       "Time": "2022-10-28T16:31:41.5626747+00:00",
       "Rating": 4.29,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T17:57:57.5996383+00:00",
+      "Rating": 4.28,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T17:58:15.025268+00:00",
+      "Rating": 4.08,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T08:57:41.9825532+00:00",
+      "Rating": 4.03,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T18:57:34.481999+00:00",
+      "Rating": 3.98,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T02:44:45.0568159+00:00",
+      "Rating": 3.99,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T06:57:24.8283874+00:00",
+      "Rating": 3.98,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T19:57:48.8641337+00:00",
+      "Rating": 3.97,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T20:57:27.082551+00:00",
+      "Rating": 3.98,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T03:40:59.4602872+00:00",
+      "Rating": 3.99,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T05:57:18.7645073+00:00",
+      "Rating": 4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T19:57:44.5386291+00:00",
+      "Rating": 4.01,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T02:40:39.4673705+00:00",
+      "Rating": 4.02,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T04:01:12.469639+00:00",
+      "Rating": 4.01,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T15:57:45.9914135+00:00",
+      "Rating": 4.02,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T19:57:51.8280781+00:00",
+      "Rating": 4.01,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T02:25:01.7183386+00:00",
+      "Rating": 4.02,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T17:02:15.8276718+00:00",
+      "Rating": 4.04,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T20:58:24.6547783+00:00",
+      "Rating": 4.05,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T02:20:27.479765+00:00",
+      "Rating": 4.06,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T13:17:42.1043738+00:00",
+      "Rating": 4.07,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T15:57:42.6072398+00:00",
+      "Rating": 4.08,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T02:22:16.2724155+00:00",
+      "Rating": 4.09,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T09:57:51.3223013+00:00",
+      "Rating": 4.1,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T11:57:37.5143949+00:00",
+      "Rating": 4.09,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T17:57:57.3036971+00:00",
+      "Rating": 4.1,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T05:58:01.8358346+00:00",
+      "Rating": 4.11,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T14:57:54.2881599+00:00",
+      "Rating": 4.12,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T13:58:10.0274709+00:00",
+      "Rating": 4.13,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T08:57:37.4037858+00:00",
+      "Rating": 4.14,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T02:17:23.2478009+00:00",
+      "Rating": 4.15,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T19:58:14.6514442+00:00",
+      "Rating": 4.16,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T23:58:53.0749585+00:00",
+      "Rating": 4.15,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-03T02:04:42.8625378+00:00",
+      "Rating": 4.16,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-03T05:59:48.2996749+00:00",
+      "Rating": 4.15,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-03T09:58:14.1637875+00:00",
+      "Rating": 4.16,
+      "NumberOfRatings": null
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 21
+    }
+  ]
 }

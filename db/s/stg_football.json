@@ -1,10 +1,10 @@
 {
   "ID": "5c30028c7a144f91b4a6ee4011bea27b",
   "Name": "STG Football",
-  "Rating": 4.58,
+  "Rating": 4.55,
   "FirstSeen": "2022-10-25T20:04:22.7982366+00:00",
   "FirstSeenRating": "2022-10-28T23:02:10.4160395+00:00",
-  "LastChanged": "2022-11-06T08:32:36.2903695+00:00",
+  "LastChanged": "2022-12-02T03:58:09.0548681+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-28T23:02:10.4160399+00:00",
@@ -70,7 +70,154 @@
       "Time": "2022-11-06T08:32:36.2903698+00:00",
       "Rating": 4.58,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T02:49:46.773592+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T23:57:55.0975704+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T04:32:36.1002236+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T17:11:27.1566212+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T02:52:58.1402713+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T18:59:20.5155714+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T02:45:27.4160864+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T05:57:52.8068748+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T17:58:07.2862601+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T22:58:17.9555204+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T02:48:45.9817916+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T15:58:18.1146834+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T02:50:39.9763819+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T05:57:47.0310911+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T22:57:41.1886605+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T08:57:49.728964+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T05:57:52.5555663+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T05:58:11.1472309+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T21:57:59.778044+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T22:57:53.0976031+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T07:57:47.8745971+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T23:57:50.9496207+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T02:17:32.0617666+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T06:58:23.719362+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T02:34:36.2606107+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T03:58:09.0548683+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 21
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 20
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 20
+    }
+  ]
 }

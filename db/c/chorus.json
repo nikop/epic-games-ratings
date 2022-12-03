@@ -1,10 +1,10 @@
 {
   "ID": "4930dde6add240a9bfc7ddc415dc2799",
   "Name": "Chorus",
-  "Rating": 4.42,
+  "Rating": 4.45,
   "NumberOfRatings": 58,
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
-  "LastChanged": "2022-11-01T12:02:01.8589041+00:00",
+  "LastChanged": "2022-11-28T18:57:34.7025884+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:13.6854187+00:00",
@@ -200,12 +200,47 @@
       "Time": "2022-11-01T12:02:01.8589044+00:00",
       "Rating": 4.42,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T17:57:37.4579243+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T20:58:48.8513928+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T21:57:26.7881947+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T21:57:57.9985077+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T03:32:18.3231127+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T18:57:27.0161147+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T18:57:34.7025886+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 24
+      "Count": 30
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "ID": "4fb89e9f47fe48258314c366649c398e",
   "Name": "Legends of Runeterra",
-  "Rating": 4.65,
+  "Rating": 4.64,
   "NumberOfRatings": 431,
   "FirstSeen": "2022-07-22T20:20:06.6748123+00:00",
-  "LastChanged": "2022-11-06T00:31:13.6928117+00:00",
+  "LastChanged": "2022-11-22T22:57:03.1315966+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:06.6748126+00:00",
@@ -750,52 +750,77 @@
       "Time": "2022-11-06T00:31:13.6928124+00:00",
       "Rating": 4.65,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T11:57:08.661984+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T03:45:06.744115+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T20:57:31.2112627+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T23:56:56.9056476+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T22:57:03.1315967+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 93
+      "Count": 109
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 96
+      "Count": 109
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 68
+      "Count": 80
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 87
+      "Count": 98
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 81
+      "Count": 93
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 88
+      "Count": 100
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 68
+      "Count": 84
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 78
+      "Count": 87
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 78
+      "Count": 86
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 69
+      "Count": 78
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 57
+      "Count": 65
     }
   ]
 }

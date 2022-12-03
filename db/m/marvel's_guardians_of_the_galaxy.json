@@ -1,10 +1,10 @@
 {
   "ID": "2a09fb19b47f46dfb11ebd382f132a8f",
   "Name": "Marvel\u0027s Guardians of the Galaxy",
-  "Rating": 4.74,
+  "Rating": 4.73,
   "NumberOfRatings": 898,
   "FirstSeen": "2022-07-22T20:24:01.0577713+00:00",
-  "LastChanged": "2022-11-04T20:02:01.9849541+00:00",
+  "LastChanged": "2022-11-23T14:59:06.1716311+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:01.0577718+00:00",
@@ -725,19 +725,58 @@
       "Time": "2022-11-04T20:02:01.9849544+00:00",
       "Rating": 4.74,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T05:57:31.9263907+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T02:24:49.2227575+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T14:59:06.1716548+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 418
+      "Count": 460
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Amazing Storytelling",
+      "Count": 23
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 27
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 21
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 23
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 20
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Amazing Characters",
       "Count": 20
     }
   ]

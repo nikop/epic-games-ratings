@@ -1,10 +1,10 @@
 {
   "ID": "6b753bd045604be89d9779e741c604b1",
   "Name": "Void Bastards",
-  "Rating": 4.61,
+  "Rating": 4.6,
   "NumberOfRatings": 986,
   "FirstSeen": "2022-07-22T20:25:35.6625013+00:00",
-  "LastChanged": "2022-11-04T03:32:02.8906856+00:00",
+  "LastChanged": "2022-12-02T03:58:00.3284159+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:35.6625017+00:00",
@@ -590,7 +590,17 @@
       "Time": "2022-11-04T03:32:02.8906857+00:00",
       "Rating": 4.61,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T03:58:00.328416+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Count": 20
+    }
+  ]
 }

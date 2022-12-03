@@ -4,7 +4,7 @@
   "Rating": 4.37,
   "NumberOfRatings": 317,
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2022-11-01T16:31:24.2488998+00:00",
+  "LastChanged": "2022-12-01T20:57:16.8267256+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:59.0360313+00:00",
@@ -655,36 +655,86 @@
       "Time": "2022-11-01T16:31:24.2489001+00:00",
       "Rating": 4.37,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T19:56:46.6326339+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T07:02:25.3555743+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T17:10:48.110829+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T07:56:52.3731931+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T11:56:59.0784613+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T17:03:20.7366426+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T14:56:59.3829931+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T11:56:55.1202381+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T14:56:54.6607263+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T20:57:16.8267257+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 58
+      "Count": 74
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 62
+      "Count": 77
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 60
+      "Count": 77
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 49
+      "Count": 66
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 72
+      "Count": 91
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 51
+      "Count": 67
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 51
+      "Count": 67
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -692,15 +742,15 @@
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 28
+      "Count": 67
     },
     {
       "Text": "This game has Easy Combat",
-      "Count": 38
+      "Count": 51
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 54
+      "Count": 70
     }
   ]
 }

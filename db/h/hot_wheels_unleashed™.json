@@ -1,10 +1,10 @@
 {
   "ID": "71e6bd85af1841f598526da595f22a62",
   "Name": "HOT WHEELS UNLEASHED\u2122",
-  "Rating": 4.59,
+  "Rating": 4.6,
   "NumberOfRatings": 312,
   "FirstSeen": "2022-07-22T20:18:07.8982996+00:00",
-  "LastChanged": "2022-11-05T14:30:35.473157+00:00",
+  "LastChanged": "2022-11-30T04:56:53.079402+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:07.8982998+00:00",
@@ -405,44 +405,67 @@
       "Time": "2022-11-05T14:30:35.4731573+00:00",
       "Rating": 4.59,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T02:49:10.0635307+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T19:56:57.5807236+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T04:56:53.0794022+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 29
+      "Count": 32
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 28
+      "Count": 33
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 26
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Count": 32
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Count": 28
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Count": 32
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Count": 26
-    },
-    {
-      "Text": "This game has Diverse Characters",
       "Count": 27
     },
     {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 33
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 29
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 33
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 27
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 29
+    },
+    {
       "Text": "This game has Competitive Players",
-      "Count": 23
+      "Count": 26
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 22
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Count": 21
     }
   ]
 }

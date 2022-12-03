@@ -1,10 +1,10 @@
 {
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
-  "Rating": 4.57,
+  "Rating": 4.59,
   "NumberOfRatings": 371,
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
-  "LastChanged": "2022-11-01T06:01:34.9400906+00:00",
+  "LastChanged": "2022-11-30T17:58:07.3634561+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:10.4681648+00:00",
@@ -315,24 +315,56 @@
       "Time": "2022-11-01T06:01:34.9400907+00:00",
       "Rating": 4.57,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T13:32:31.5558135+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T14:58:05.4572695+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T14:58:23.1241245+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T17:58:07.3634562+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 166
+      "Count": 185
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 22
+      "Count": 26
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 21
+      "Count": 26
     },
     {
       "Text": "This game has Amazing Characters",
+      "Count": 24
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Competitive Players",
       "Count": 22
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 23
     }
   ]
 }

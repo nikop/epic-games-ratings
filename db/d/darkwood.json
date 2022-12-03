@@ -1,10 +1,10 @@
 {
   "ID": "25b5ab5928784a74a502f6a84bb8b49f",
   "Name": "Darkwood",
-  "Rating": 4.6,
+  "Rating": 4.61,
   "FirstSeen": "2022-10-13T18:04:06.1897035+00:00",
   "FirstSeenRating": "2022-10-14T04:32:25.5553197+00:00",
-  "LastChanged": "2022-11-02T04:32:25.5102461+00:00",
+  "LastChanged": "2022-11-12T13:58:41.4015251+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-14T04:32:25.5553201+00:00",
@@ -145,36 +145,41 @@
       "Time": "2022-11-02T04:32:25.5102463+00:00",
       "Rating": 4.6,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T13:58:41.4015254+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
-      "Count": 188
+      "Count": 286
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 149
+      "Count": 248
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 165
+      "Count": 267
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 145
+      "Count": 239
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 134
+      "Count": 216
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 144
+      "Count": 247
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 151
+      "Count": 234
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -182,11 +187,11 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 145
+      "Count": 234
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 85
+      "Count": 146
     }
   ]
 }

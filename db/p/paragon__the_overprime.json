@@ -1,6 +1,114 @@
 {
   "ID": "7bb9b09415a544f78fadf6390b2e3a80",
   "Name": "Paragon: The Overprime",
-  "RatingHistory": [],
-  "Tags": []
+  "Rating": 4.37,
+  "FirstSeen": "2022-11-07T03:53:37.8993563+00:00",
+  "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
+  "LastChanged": "2022-11-26T08:57:54.9885553+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-11-10T14:19:52.8915147+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T02:53:32.3237434+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T09:58:09.216592+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T08:58:31.8735405+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T10:58:39.7491921+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T14:58:16.050912+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T08:58:58.5115487+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T23:00:51.4728185+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T02:52:47.7718898+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T09:00:23.2546106+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T15:58:24.7672721+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T19:58:32.7863382+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T22:58:15.8256877+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T02:42:44.8886351+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T20:58:46.0434604+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T03:26:48.657241+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T13:15:37.4236229+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T08:57:54.9885555+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": null
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 109
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 25
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Count": 22
+    }
+  ]
 }

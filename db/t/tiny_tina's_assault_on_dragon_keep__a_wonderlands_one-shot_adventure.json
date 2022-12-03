@@ -4,7 +4,7 @@
   "Rating": 4.45,
   "NumberOfRatings": 1211,
   "FirstSeen": "2022-07-22T20:32:16.2350109+00:00",
-  "LastChanged": "2022-09-23T07:03:06.824209+00:00",
+  "LastChanged": "2022-11-29T08:57:59.0056141+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:16.2350112+00:00",
@@ -545,12 +545,52 @@
       "Time": "2022-09-23T07:03:06.8242092+00:00",
       "Rating": 4.45,
       "NumberOfRatings": 1211
+    },
+    {
+      "Time": "2022-11-11T22:58:58.7836799+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T13:39:23.5690153+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T15:58:44.9132735+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T22:58:11.1016983+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T18:58:29.2311828+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T14:58:29.3395745+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T14:58:34.2924357+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T08:57:59.0056144+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 240
+      "Count": 264
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "ID": "36d3389b16b14deeb527754f6393469b",
   "Name": "Gravewood High",
-  "Rating": 4.04,
+  "Rating": 4.02,
   "NumberOfRatings": 32,
   "FirstSeen": "2022-07-22T20:23:07.1625329+00:00",
   "FirstSeenRating": "2022-08-20T03:01:10.1611704+00:00",
-  "LastChanged": "2022-11-03T09:01:31.3863892+00:00",
+  "LastChanged": "2022-11-28T09:57:28.6577535+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-20T03:01:10.1611706+00:00",
@@ -135,6 +135,31 @@
     {
       "Time": "2022-11-03T09:01:31.3863895+00:00",
       "Rating": 4.04,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T09:57:22.422885+00:00",
+      "Rating": 4.06,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T09:57:21.5660636+00:00",
+      "Rating": 4.08,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T09:57:30.1240043+00:00",
+      "Rating": 4.02,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T09:57:53.3198008+00:00",
+      "Rating": 4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T09:57:28.6577536+00:00",
+      "Rating": 4.02,
       "NumberOfRatings": null
     }
   ],

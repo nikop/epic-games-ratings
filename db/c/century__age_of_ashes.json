@@ -1030,47 +1030,47 @@
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 38
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Count": 39
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Count": 42
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Count": 43
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Count": 42
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Count": 31
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Count": 42
-    },
-    {
-      "Text": "This game has Competitive Players",
       "Count": 44
     },
     {
-      "Text": "This game has Challenging Combat",
+      "Text": "This game is Relaxing",
       "Count": 41
     },
     {
+      "Text": "This game has Amazing Characters",
+      "Count": 47
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 47
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 47
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 38
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 50
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Count": 50
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Count": 42
+    },
+    {
       "Text": "This game has a Competitive Community",
-      "Count": 31
+      "Count": 37
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 40
+      "Count": 49
     }
   ]
 }

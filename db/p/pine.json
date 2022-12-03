@@ -1,10 +1,10 @@
 {
   "ID": "7e1b3a8e19c949c0bfaed0424a8c4bb5",
   "Name": "Pine",
-  "Rating": 4.13,
+  "Rating": 4.14,
   "NumberOfRatings": 694,
   "FirstSeen": "2022-07-22T20:23:31.2285518+00:00",
-  "LastChanged": "2022-11-05T10:31:45.7813017+00:00",
+  "LastChanged": "2022-11-27T06:57:42.1307871+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:31.2285522+00:00",
@@ -514,6 +514,51 @@
     {
       "Time": "2022-11-05T10:31:45.7813019+00:00",
       "Rating": 4.13,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T18:57:19.4545394+00:00",
+      "Rating": 4.14,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T11:57:29.8233235+00:00",
+      "Rating": 4.13,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T11:57:29.490332+00:00",
+      "Rating": 4.14,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T04:12:54.6361185+00:00",
+      "Rating": 4.13,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T22:57:23.0425388+00:00",
+      "Rating": 4.14,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T05:57:12.8497688+00:00",
+      "Rating": 4.13,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T14:58:56.6032494+00:00",
+      "Rating": 4.14,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T15:57:13.8592937+00:00",
+      "Rating": 4.13,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T06:57:42.1307878+00:00",
+      "Rating": 4.14,
       "NumberOfRatings": null
     }
   ],

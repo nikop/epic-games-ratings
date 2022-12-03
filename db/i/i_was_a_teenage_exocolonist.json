@@ -1,14 +1,24 @@
 {
   "ID": "445e63b8ddfc4411b6e6b5e71f00b2ce",
   "Name": "I Was a Teenage Exocolonist",
-  "Rating": 4.75,
+  "Rating": 4.64,
   "FirstSeen": "2022-08-26T10:02:52.7146762+00:00",
   "FirstSeenRating": "2022-10-26T05:33:05.8564133+00:00",
-  "LastChanged": "2022-10-26T05:33:05.8564136+00:00",
+  "LastChanged": "2022-11-18T17:58:51.9416411+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-26T05:33:05.8564138+00:00",
       "Rating": 4.75,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T07:03:20.6958726+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T17:58:51.9416413+00:00",
+      "Rating": 4.64,
       "NumberOfRatings": null
     }
   ],

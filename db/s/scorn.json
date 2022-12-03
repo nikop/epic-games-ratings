@@ -1,10 +1,10 @@
 {
   "ID": "135201128d4f428699a891fc501a5097",
   "Name": "Scorn",
-  "Rating": 4.45,
+  "Rating": 4.48,
   "FirstSeen": "2022-10-14T14:31:02.6493654+00:00",
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
-  "LastChanged": "2022-11-03T17:30:56.8940659+00:00",
+  "LastChanged": "2022-12-02T19:57:16.5656667+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-15T14:30:48.7901662+00:00",
@@ -94,6 +94,81 @@
     {
       "Time": "2022-11-03T17:30:56.8940661+00:00",
       "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T20:57:06.8546915+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T20:57:05.0288126+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T20:57:27.0769758+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T20:57:11.9217508+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T20:57:22.0124294+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T20:57:49.9603495+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T23:57:11.0141662+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T14:57:03.261334+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T14:57:16.572009+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T19:57:09.9220639+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T19:57:25.4931002+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T19:57:16.965166+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T19:57:31.8807299+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T19:57:07.9198576+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T19:57:16.5656669+00:00",
+      "Rating": 4.48,
       "NumberOfRatings": null
     }
   ],

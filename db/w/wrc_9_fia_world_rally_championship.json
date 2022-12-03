@@ -1,10 +1,10 @@
 {
   "ID": "9cf250606722448887fa1447b1d9da06",
   "Name": "WRC 9 FIA World Rally Championship",
-  "Rating": 4.56,
+  "Rating": 4.55,
   "NumberOfRatings": 233,
   "FirstSeen": "2022-07-22T20:19:01.098445+00:00",
-  "LastChanged": "2022-11-01T19:30:50.8471995+00:00",
+  "LastChanged": "2022-12-03T02:03:24.8193128+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:01.0984452+00:00",
@@ -395,6 +395,51 @@
       "Time": "2022-11-01T19:30:50.8471996+00:00",
       "Rating": 4.56,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T10:56:51.0514304+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T07:56:57.9503985+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T14:56:58.5963913+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T19:57:27.532057+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T03:39:40.5040029+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T20:57:17.0114705+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T06:57:22.3283359+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T19:57:24.41036+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-03T02:03:24.8193129+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -404,11 +449,31 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 22
+      "Count": 28
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 21
+      "Count": 22
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 23
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Count": 25
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Count": 24
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 22
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Count": 20
     }
   ]
 }

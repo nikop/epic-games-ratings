@@ -1,14 +1,19 @@
 {
   "ID": "2d2a077b8b7f450299ecd7068256aec4",
   "Name": "Trek to Yomi",
-  "Rating": 4.3,
+  "Rating": 4.29,
   "FirstSeen": "2022-07-22T20:32:48.9516719+00:00",
   "FirstSeenRating": "2022-11-05T21:02:46.105009+00:00",
-  "LastChanged": "2022-11-05T21:02:46.1050092+00:00",
+  "LastChanged": "2022-11-29T23:58:27.8273805+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-05T21:02:46.1050093+00:00",
       "Rating": 4.3,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T23:58:27.8273806+00:00",
+      "Rating": 4.29,
       "NumberOfRatings": null
     }
   ],

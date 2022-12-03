@@ -1,10 +1,10 @@
 {
   "ID": "c42b08b655c04a64a0535331629d4b6d",
   "Name": "Bugsnax",
-  "Rating": 4.84,
+  "Rating": 4.85,
   "NumberOfRatings": 425,
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
-  "LastChanged": "2022-11-05T19:32:27.5778196+00:00",
+  "LastChanged": "2022-11-24T19:58:18.7798597+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:14.968778+00:00",
@@ -460,16 +460,41 @@
       "Time": "2022-11-05T19:32:27.5778198+00:00",
       "Rating": 4.84,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T19:58:09.8169959+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T15:58:27.5723294+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T20:58:22.2439036+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T14:57:48.1906671+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T19:58:18.77986+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 23
+      "Count": 26
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 30
+      "Count": 32
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -477,26 +502,38 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 22
+      "Count": 27
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 21
+      "Count": 25
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 22
+      "Count": 29
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 21
+      "Count": 27
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 20
+      "Count": 23
     },
     {
       "Text": "This game is Relaxing",
+      "Count": 24
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 22
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Count": 23
+    },
+    {
+      "Text": "This game has Easy Combat",
       "Count": 21
     }
   ]

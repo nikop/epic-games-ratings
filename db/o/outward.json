@@ -1,10 +1,10 @@
 {
   "ID": "viola",
   "Name": "Outward",
-  "Rating": 4.54,
+  "Rating": 4.55,
   "NumberOfRatings": 266,
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
-  "LastChanged": "2022-10-28T01:02:15.8621847+00:00",
+  "LastChanged": "2022-11-26T16:57:48.756477+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:22.1140755+00:00",
@@ -365,12 +365,27 @@
       "Time": "2022-10-28T01:02:15.8621852+00:00",
       "Rating": 4.54,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T21:58:00.6133623+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T13:14:53.2623893+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T16:57:48.7564774+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Unique Visuals",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -382,7 +397,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 23
+      "Count": 26
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -390,18 +405,22 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 23
+      "Count": 26
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 24
+      "Count": 30
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 23
+      "Count": 30
     },
     {
       "Text": "This game is Extremely Fun",
+      "Count": 23
+    },
+    {
+      "Text": "This game has a Creative Community",
       "Count": 20
     }
   ]

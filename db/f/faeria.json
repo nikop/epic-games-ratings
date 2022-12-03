@@ -1,10 +1,10 @@
 {
   "ID": "f9c2aedaff8442b286fbd026948b9f09",
   "Name": "Faeria",
-  "Rating": 4.42,
+  "Rating": 4.43,
   "NumberOfRatings": 194,
   "FirstSeen": "2022-07-22T20:17:47.9455282+00:00",
-  "LastChanged": "2022-11-04T04:00:35.8312394+00:00",
+  "LastChanged": "2022-11-30T20:56:48.0349958+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:47.9455285+00:00",
@@ -350,36 +350,84 @@
       "Time": "2022-11-04T04:00:35.8312397+00:00",
       "Rating": 4.42,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T14:57:15.578491+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T17:57:07.120656+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T22:56:55.1005685+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T10:57:20.9271879+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T13:57:18.2074953+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T13:57:02.7017818+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T10:56:57.0651502+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T20:56:48.034996+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 85
+      "Count": 91
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 25
+      "Count": 30
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 25
+      "Count": 27
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 22
+      "Count": 27
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 20
+      "Count": 27
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 20
+      "Count": 25
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 20
+      "Count": 28
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 25
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Count": 21
     }
   ]
 }

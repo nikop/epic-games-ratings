@@ -1,10 +1,10 @@
 {
   "ID": "91b9a3ac7cda40718addd961fddfadca",
   "Name": "Vampire: The Masquerade \u2013 Swansong",
-  "Rating": 4.18,
+  "Rating": 4.19,
   "NumberOfRatings": 736,
   "FirstSeen": "2022-07-22T20:19:36.8410904+00:00",
-  "LastChanged": "2022-11-02T08:30:47.3430354+00:00",
+  "LastChanged": "2022-11-19T03:32:02.5373412+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:36.8410906+00:00",
@@ -375,12 +375,47 @@
       "Time": "2022-11-02T08:30:47.3430357+00:00",
       "Rating": 4.18,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T15:57:24.0899555+00:00",
+      "Rating": 4.19,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T09:57:08.7061619+00:00",
+      "Rating": 4.18,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T11:57:07.8548621+00:00",
+      "Rating": 4.19,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T14:57:27.200045+00:00",
+      "Rating": 4.18,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T14:57:15.8991503+00:00",
+      "Rating": 4.19,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T03:34:46.7658693+00:00",
+      "Rating": 4.18,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T03:32:02.5373413+00:00",
+      "Rating": 4.19,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
-      "Count": 67
+      "Count": 73
     }
   ]
 }

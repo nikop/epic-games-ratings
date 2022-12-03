@@ -1,10 +1,10 @@
 {
   "ID": "petunia",
   "Name": "Metro 2033 Redux",
-  "Rating": 4.69,
+  "Rating": 4.7,
   "NumberOfRatings": 5684,
   "FirstSeen": "2022-07-22T20:19:16.3934902+00:00",
-  "LastChanged": "2022-10-01T21:00:43.2146535+00:00",
+  "LastChanged": "2022-11-19T05:56:54.0338909+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:16.3934904+00:00",
@@ -725,12 +725,49 @@
       "Time": "2022-10-01T21:00:43.2146539+00:00",
       "Rating": 4.69,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T02:32:22.1459964+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T15:57:25.4184405+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T13:21:33.9642895+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T18:57:02.3599782+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T05:56:54.0338911+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 923
+      "Count": 1095
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 23
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 21
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 23
     }
   ]
 }

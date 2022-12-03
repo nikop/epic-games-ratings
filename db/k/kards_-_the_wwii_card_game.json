@@ -1,10 +1,10 @@
 {
   "ID": "d34cf6aeceb94c579af0236fe1185b79",
   "Name": "KARDS - The WWII Card Game",
-  "Rating": 4.38,
+  "Rating": 4.39,
   "NumberOfRatings": 1466,
   "FirstSeen": "2022-07-22T20:20:27.7135917+00:00",
-  "LastChanged": "2022-11-05T13:31:06.1014157+00:00",
+  "LastChanged": "2022-11-12T06:57:22.5278981+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:27.713592+00:00",
@@ -1410,44 +1410,49 @@
       "Time": "2022-11-05T13:31:06.1014159+00:00",
       "Rating": 4.38,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T06:57:22.5278982+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 410
+      "Count": 458
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 402
+      "Count": 458
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 430
+      "Count": 481
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 361
+      "Count": 408
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 371
+      "Count": 408
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 375
+      "Count": 417
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 186
+      "Count": 420
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 311
+      "Count": 357
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 293
+      "Count": 342
     },
     {
       "Text": "This game has Amazing Characters",

@@ -1,11 +1,11 @@
 {
   "ID": "5fcf6f3031c547f789e29c18b422ca67",
   "Name": "Realm Royale Reforged",
-  "Rating": 4.3,
+  "Rating": 4.29,
   "NumberOfRatings": 841,
   "FirstSeen": "2022-08-22T12:01:28.8825715+00:00",
   "FirstSeenRating": "2022-08-24T22:31:27.0262733+00:00",
-  "LastChanged": "2022-11-05T03:00:32.7384407+00:00",
+  "LastChanged": "2022-12-02T21:57:08.966227+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-24T22:31:27.0262737+00:00",
@@ -776,12 +776,57 @@
       "Time": "2022-11-05T03:00:32.738441+00:00",
       "Rating": 4.3,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T17:57:04.4314327+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T19:13:16.8942821+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T20:57:05.3422198+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T21:57:14.4994772+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T14:57:11.9061181+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T02:44:12.4851321+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T11:57:02.2336833+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T20:57:07.2551411+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T21:57:08.9662272+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Competitive Players",
-      "Count": 83
+      "Count": 101
     },
     {
       "Text": "This game has Unique Visuals",
@@ -789,43 +834,43 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 72
+      "Count": 99
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 81
+      "Count": 101
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 67
+      "Count": 89
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 52
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Count": 70
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Count": 64
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Count": 76
-    },
-    {
-      "Text": "This game is Extremely Fun",
       "Count": 72
     },
     {
+      "Text": "This game is Great for Beginners",
+      "Count": 91
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 82
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 90
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 90
+    },
+    {
       "Text": "This game has Diverse Characters",
-      "Count": 74
+      "Count": 92
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 60
+      "Count": 79
     }
   ]
 }

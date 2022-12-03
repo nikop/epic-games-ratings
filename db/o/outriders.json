@@ -1,10 +1,10 @@
 {
   "ID": "c6e54ebd92da4ee8819c1c0956cebdc4",
   "Name": "OUTRIDERS",
-  "Rating": 4.42,
+  "Rating": 4.43,
   "NumberOfRatings": 1201,
   "FirstSeen": "2022-07-22T20:20:16.889814+00:00",
-  "LastChanged": "2022-10-31T10:31:26.3323139+00:00",
+  "LastChanged": "2022-11-28T05:57:11.1048063+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:16.8898143+00:00",
@@ -1135,48 +1135,83 @@
       "Time": "2022-10-31T10:31:26.3323142+00:00",
       "Rating": 4.42,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T11:57:12.4092634+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T15:57:00.3971373+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T05:56:57.1835222+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T08:57:24.9365072+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T13:11:49.6162146+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T16:57:25.8067844+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T05:57:11.1048065+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 849
+      "Count": 916
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 135
+      "Count": 140
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 105
+      "Count": 111
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 116
+      "Count": 128
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 110
+      "Count": 120
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 116
+      "Count": 124
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 115
+      "Count": 124
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 102
+      "Count": 116
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 115
+      "Count": 127
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 105
+      "Count": 112
     },
     {
       "Text": "This game has Obsessive Gameplay",

@@ -4,7 +4,7 @@
   "Rating": 4.91,
   "NumberOfRatings": 1859,
   "FirstSeen": "2022-07-22T20:18:34.9311333+00:00",
-  "LastChanged": "2022-11-04T20:30:45.3667598+00:00",
+  "LastChanged": "2022-11-17T15:57:22.0063272+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:34.9311335+00:00",
@@ -1720,28 +1720,48 @@
       "Time": "2022-11-04T20:30:45.36676+00:00",
       "Rating": 4.91,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T11:57:02.8376829+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T11:56:57.4053689+00:00",
+      "Rating": 4.91,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T06:56:53.2669951+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T15:57:22.0063274+00:00",
+      "Rating": 4.91,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 1311
+      "Count": 1425
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 1497
+      "Count": 1643
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 442
+      "Count": 516
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 417
+      "Count": 493
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 434
+      "Count": 518
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1749,23 +1769,23 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 436
+      "Count": 507
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 430
+      "Count": 494
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 416
+      "Count": 494
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 451
+      "Count": 532
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 417
+      "Count": 467
     },
     {
       "Text": "This game is Relaxing",
@@ -1773,7 +1793,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 366
+      "Count": 426
     }
   ]
 }

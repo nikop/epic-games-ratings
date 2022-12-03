@@ -1,11 +1,11 @@
 {
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
-  "Rating": 4.34,
+  "Rating": 4.35,
   "NumberOfRatings": 7669,
   "FirstSeen": "2022-07-22T20:20:15.0097479+00:00",
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
-  "LastChanged": "2022-09-23T14:30:46.4946429+00:00",
+  "LastChanged": "2022-11-24T21:57:17.2824148+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-09T05:31:36.2629345+00:00",
@@ -671,48 +671,73 @@
       "Time": "2022-09-23T14:30:46.494643+00:00",
       "Rating": 4.34,
       "NumberOfRatings": 7669
+    },
+    {
+      "Time": "2022-11-11T18:58:46.1547479+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T13:17:51.672393+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T19:57:11.69943+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T09:57:12.9296025+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T21:57:17.2824149+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Educational",
-      "Count": 161
+      "Count": 173
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 172
+      "Count": 185
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 154
+      "Count": 169
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 175
+      "Count": 190
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 179
+      "Count": 196
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 180
+      "Count": 194
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 171
+      "Count": 185
     },
     {
       "Text": "This game has Easy Combat",
-      "Count": 114
+      "Count": 126
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 113
+      "Count": 120
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 97
+      "Count": 106
     }
   ]
 }

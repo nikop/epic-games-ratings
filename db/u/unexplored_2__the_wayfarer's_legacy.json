@@ -1,10 +1,10 @@
 {
   "ID": "d396856ef66f4572af55519a8d2b99ed",
   "Name": "Unexplored 2: The Wayfarer\u0027s Legacy",
-  "Rating": 4.39,
+  "Rating": 4.36,
   "NumberOfRatings": 28,
   "FirstSeen": "2022-07-22T20:28:40.1134792+00:00",
-  "LastChanged": "2022-11-05T04:02:05.9213734+00:00",
+  "LastChanged": "2022-11-30T18:58:14.1615113+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:40.1134795+00:00",
@@ -54,6 +54,16 @@
     {
       "Time": "2022-11-05T04:02:05.9213737+00:00",
       "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T07:57:34.2599801+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T18:58:14.1615115+00:00",
+      "Rating": 4.36,
       "NumberOfRatings": null
     }
   ],

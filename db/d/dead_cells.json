@@ -1,10 +1,10 @@
 {
   "ID": "1368a7f14c3344bbaededbae528fafed",
   "Name": "Dead Cells",
-  "Rating": 4.87,
+  "Rating": 4.88,
   "NumberOfRatings": 1319,
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2022-10-08T12:30:20.9338808+00:00",
+  "LastChanged": "2022-11-28T19:57:08.1723924+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:26.6981295+00:00",
@@ -1285,24 +1285,49 @@
       "Time": "2022-10-08T12:30:20.933881+00:00",
       "Rating": 4.87,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T07:56:49.0608374+00:00",
+      "Rating": 4.88,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T18:57:01.681819+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T06:57:28.2602354+00:00",
+      "Rating": 4.88,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T09:56:56.9025251+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T19:57:08.1723925+00:00",
+      "Rating": 4.88,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
-      "Count": 150
+      "Count": 187
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 137
+      "Count": 182
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 167
+      "Count": 206
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 147
+      "Count": 196
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1310,15 +1335,15 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 144
+      "Count": 171
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 155
+      "Count": 198
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 133
+      "Count": 172
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1326,7 +1351,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 110
+      "Count": 147
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1334,7 +1359,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 142
+      "Count": 196
     }
   ]
 }

@@ -4,7 +4,7 @@
   "Rating": 4.54,
   "FirstSeen": "2022-09-29T18:01:57.1676877+00:00",
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
-  "LastChanged": "2022-10-31T15:31:54.2066599+00:00",
+  "LastChanged": "2022-11-18T17:57:57.6892183+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-30T20:32:34.1590884+00:00",
@@ -295,48 +295,78 @@
       "Time": "2022-10-31T15:31:54.2066601+00:00",
       "Rating": 4.54,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T02:54:11.6802597+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T23:57:17.163267+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T23:58:58.5032127+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T14:57:20.4227516+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T10:57:28.1996177+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T17:57:57.6892185+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
-      "Count": 52
+      "Count": 73
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 57
+      "Count": 71
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 56
+      "Count": 76
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 52
+      "Count": 72
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 50
+      "Count": 73
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 45
+      "Count": 66
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 30
+      "Count": 46
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 27
+      "Count": 33
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 23
+      "Count": 29
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 24
+      "Count": 35
     }
   ]
 }

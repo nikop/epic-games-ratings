@@ -1,10 +1,10 @@
 {
   "ID": "0e87bed2a83c4cf6a68a7aeb43f25cf0",
   "Name": "Kingdom New Lands",
-  "Rating": 4.51,
+  "Rating": 4.52,
   "NumberOfRatings": 1793,
   "FirstSeen": "2022-07-22T20:26:48.0590918+00:00",
-  "LastChanged": "2022-10-30T23:01:49.2827525+00:00",
+  "LastChanged": "2022-11-17T23:58:09.4212248+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:48.0590922+00:00",
@@ -1245,44 +1245,59 @@
       "Time": "2022-10-30T23:01:49.2827527+00:00",
       "Rating": 4.51,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T14:57:49.3603508+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T22:57:47.9648607+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T23:58:09.4212251+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 86
+      "Count": 101
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 92
+      "Count": 103
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 77
+      "Count": 87
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 66
+      "Count": 79
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 67
+      "Count": 76
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 65
+      "Count": 76
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 57
+      "Count": 68
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 51
+      "Count": 56
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 34
+      "Count": 40
     },
     {
       "Text": "This game has Obsessive Gameplay",

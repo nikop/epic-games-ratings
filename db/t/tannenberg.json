@@ -1,10 +1,10 @@
 {
   "ID": "538de058a6d9490ea151c4cd111cc01b",
   "Name": "Tannenberg",
-  "Rating": 4.38,
+  "Rating": 4.39,
   "NumberOfRatings": 13393,
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
-  "LastChanged": "2022-11-04T17:31:44.4906178+00:00",
+  "LastChanged": "2022-11-07T02:49:39.5714047+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:54.24863+00:00",
@@ -2790,24 +2790,29 @@
       "Time": "2022-11-04T17:31:44.4906179+00:00",
       "Rating": 4.38,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T02:49:39.5714048+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
-      "Count": 252
+      "Count": 282
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 218
+      "Count": 236
     },
     {
       "Text": "This game has Realistic Visuals",
-      "Count": 213
+      "Count": 234
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 255
+      "Count": 288
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2819,31 +2824,31 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 267
+      "Count": 302
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 221
+      "Count": 254
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 232
+      "Count": 259
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 264
+      "Count": 287
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 256
+      "Count": 290
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 207
+      "Count": 235
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 259
+      "Count": 274
     }
   ]
 }

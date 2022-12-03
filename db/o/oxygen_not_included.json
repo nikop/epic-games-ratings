@@ -1,10 +1,10 @@
 {
   "ID": "lotus",
   "Name": "Oxygen Not Included",
-  "Rating": 4.83,
+  "Rating": 4.84,
   "NumberOfRatings": 897,
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2022-10-30T17:30:52.7557204+00:00",
+  "LastChanged": "2022-11-20T04:57:20.700068+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:44.1555171+00:00",
@@ -1115,6 +1115,11 @@
       "Time": "2022-10-30T17:30:52.7557207+00:00",
       "Rating": 4.83,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T04:57:20.7000684+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -1124,39 +1129,43 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 182
+      "Count": 223
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 158
+      "Count": 197
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 155
+      "Count": 189
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 171
+      "Count": 210
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 144
+      "Count": 184
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 175
+      "Count": 208
     },
     {
       "Text": "This game is Educational",
-      "Count": 161
+      "Count": 196
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 144
+      "Count": 179
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 134
+      "Count": 161
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Count": 185
     }
   ]
 }

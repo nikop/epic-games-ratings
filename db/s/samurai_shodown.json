@@ -1,14 +1,34 @@
 {
   "ID": "ace4435645d9489cacfbb422b7c1c817",
   "Name": "SAMURAI SHODOWN",
-  "Rating": 4.65,
+  "Rating": 4.63,
   "FirstSeen": "2022-07-22T20:18:02.6645196+00:00",
   "FirstSeenRating": "2022-11-04T12:00:55.2608332+00:00",
-  "LastChanged": "2022-11-04T12:00:55.2608333+00:00",
+  "LastChanged": "2022-11-28T13:15:40.4457335+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-04T12:00:55.2608334+00:00",
       "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T11:57:03.761473+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T14:08:35.2852576+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T13:14:35.3599807+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T13:15:40.4457337+00:00",
+      "Rating": 4.63,
       "NumberOfRatings": null
     }
   ],

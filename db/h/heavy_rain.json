@@ -4,7 +4,7 @@
   "Rating": 4.6,
   "NumberOfRatings": 251,
   "FirstSeen": "2022-07-22T20:17:18.3925162+00:00",
-  "LastChanged": "2022-11-03T23:00:24.2218357+00:00",
+  "LastChanged": "2022-12-01T20:57:10.0325268+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:18.3925165+00:00",
@@ -370,12 +370,32 @@
       "Time": "2022-11-03T23:00:24.221836+00:00",
       "Rating": 4.6,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T10:56:57.9521595+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T14:57:07.5121239+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T17:56:55.9691706+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T20:57:10.032527+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
-      "Count": 47
+      "Count": 54
     }
   ]
 }

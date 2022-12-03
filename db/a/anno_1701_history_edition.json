@@ -5,7 +5,7 @@
   "NumberOfRatings": 37,
   "FirstSeen": "2022-07-22T20:24:28.7529915+00:00",
   "FirstSeenRating": "2022-08-06T11:01:24.6446808+00:00",
-  "LastChanged": "2022-11-04T17:02:22.5277788+00:00",
+  "LastChanged": "2022-11-25T18:57:47.8780485+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-06T11:01:24.644681+00:00",
@@ -164,6 +164,41 @@
     },
     {
       "Time": "2022-11-04T17:02:22.5277791+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T08:57:42.0536786+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T08:57:54.3860814+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T20:58:36.5339308+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T10:57:37.7771967+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T20:58:14.0302447+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T07:57:47.77116+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T18:57:47.8782813+00:00",
       "Rating": 4.53,
       "NumberOfRatings": null
     }

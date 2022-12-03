@@ -1,7 +1,21 @@
 {
   "ID": "65add98d18a64e2ead3b8f05c84cba94",
   "Name": "The Red Lantern",
+  "Rating": 4.67,
   "FirstSeen": "2022-07-22T20:28:33.1149694+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-11-27T15:57:53.4583182+00:00",
+  "LastChanged": "2022-11-28T16:00:20.5514545+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-11-27T15:57:53.4583186+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T16:00:20.5514548+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }

@@ -1,10 +1,10 @@
 {
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
-  "Rating": 3.97,
+  "Rating": 3.98,
   "NumberOfRatings": 12664,
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
-  "LastChanged": "2022-09-23T12:30:29.7796632+00:00",
+  "LastChanged": "2022-11-10T09:01:45.6584564+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:09.8321218+00:00",
@@ -3185,6 +3185,21 @@
       "Time": "2022-09-23T12:30:29.7796637+00:00",
       "Rating": 3.97,
       "NumberOfRatings": 12664
+    },
+    {
+      "Time": "2022-11-07T21:57:04.2798833+00:00",
+      "Rating": 3.98,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T02:53:38.7998837+00:00",
+      "Rating": 3.97,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T09:01:45.6584566+00:00",
+      "Rating": 3.98,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -3194,31 +3209,31 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 3108
+      "Count": 3447
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 3688
+      "Count": 4108
     },
     {
       "Text": "This game has Easy Combat",
-      "Count": 3051
+      "Count": 3414
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 3319
+      "Count": 3728
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 3318
+      "Count": 3747
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 2573
+      "Count": 2871
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 3111
+      "Count": 3456
     }
   ]
 }

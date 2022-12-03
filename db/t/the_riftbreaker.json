@@ -1,10 +1,10 @@
 {
   "ID": "f774d8b9a9324124892868e7b5c71169",
   "Name": "The Riftbreaker",
-  "Rating": 4.73,
+  "Rating": 4.74,
   "NumberOfRatings": 277,
   "FirstSeen": "2022-07-22T20:22:56.9409047+00:00",
-  "LastChanged": "2022-10-18T22:31:06.8146498+00:00",
+  "LastChanged": "2022-11-26T23:57:08.1122836+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:56.9409055+00:00",
@@ -445,23 +445,62 @@
       "Time": "2022-10-18T22:31:06.8146501+00:00",
       "Rating": 4.73,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T17:15:34.6005164+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T04:12:50.7759461+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T07:57:19.2542108+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T02:42:51.3420552+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T23:57:11.5949897+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T07:57:26.9922829+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T23:57:08.1122839+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 27
+      "Count": 32
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 21
+      "Count": 24
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 20
+      "Count": 22
     },
     {
       "Text": "This game is Relaxing",
+      "Count": 25
+    },
+    {
+      "Text": "This game is Extremely Fun",
       "Count": 21
     }
   ]

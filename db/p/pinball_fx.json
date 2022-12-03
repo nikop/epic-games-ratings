@@ -1,10 +1,10 @@
 {
   "ID": "c11f80fe3b674a2bbf60e4c46d588a54",
   "Name": "Pinball FX",
-  "Rating": 3.99,
+  "Rating": 4,
   "NumberOfRatings": 756,
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
-  "LastChanged": "2022-10-24T08:30:57.1679432+00:00",
+  "LastChanged": "2022-11-25T05:56:56.0051984+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:22.620981+00:00",
@@ -1030,24 +1030,99 @@
       "Time": "2022-10-24T08:30:57.1679434+00:00",
       "Rating": 3.99,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T15:56:59.6986482+00:00",
+      "Rating": 4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T09:56:49.9429796+00:00",
+      "Rating": 3.99,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T21:56:57.9957351+00:00",
+      "Rating": 4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T11:56:55.1885409+00:00",
+      "Rating": 3.99,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T22:57:00.1897365+00:00",
+      "Rating": 4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T13:38:23.2247259+00:00",
+      "Rating": 3.99,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T13:25:29.4414515+00:00",
+      "Rating": 4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T20:57:01.3316687+00:00",
+      "Rating": 3.99,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T17:57:07.6719638+00:00",
+      "Rating": 4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T18:57:08.967411+00:00",
+      "Rating": 4.01,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T22:56:55.4387013+00:00",
+      "Rating": 4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T02:39:49.7595206+00:00",
+      "Rating": 4.01,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T23:56:56.9609948+00:00",
+      "Rating": 4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T02:21:30.9588019+00:00",
+      "Rating": 4.01,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T05:56:56.0051986+00:00",
+      "Rating": 4,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 111
+      "Count": 135
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 103
+      "Count": 123
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 112
+      "Count": 124
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 117
+      "Count": 136
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1055,7 +1130,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 123
+      "Count": 142
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -1063,27 +1138,27 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 113
+      "Count": 136
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 108
+      "Count": 131
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 70
+      "Count": 83
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 62
+      "Count": 73
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 67
+      "Count": 82
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 70
+      "Count": 88
     }
   ]
 }

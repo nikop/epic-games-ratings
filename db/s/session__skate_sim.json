@@ -1,10 +1,10 @@
 {
   "ID": "e29e6ef093fd468db40b6fb505de6fa8",
   "Name": "Session: Skate Sim",
-  "Rating": 4.6,
+  "Rating": 4.62,
   "NumberOfRatings": 111,
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
-  "LastChanged": "2022-11-03T04:02:47.8834343+00:00",
+  "LastChanged": "2022-11-29T10:57:31.5928263+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:58.6746018+00:00",
@@ -300,48 +300,76 @@
       "Time": "2022-11-03T04:02:47.883435+00:00",
       "Rating": 4.6,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T17:15:32.6559064+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T02:32:50.307261+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T07:57:47.4939059+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T10:57:31.5928264+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
-      "Count": 34
+      "Count": 41
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 25
+      "Count": 34
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 26
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Count": 23
-    },
-    {
-      "Text": "This game is Great for Quick Sessions",
-      "Count": 22
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
       "Count": 29
     },
     {
+      "Text": "This game is Extremely Fun",
+      "Count": 31
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Count": 26
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 34
+    },
+    {
       "Text": "This game has Realistic Visuals",
-      "Count": 27
+      "Count": 32
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 20
+      "Count": 26
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 24
+      "Count": 28
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Count": 23
+    },
+    {
+      "Text": "This game is Educational",
+      "Count": 22
     }
   ]
 }

@@ -1,0 +1,126 @@
+{
+  "ID": "15e6680a0c164ee189fcc3eb10398fd6",
+  "Name": "Brawlhalla",
+  "Rating": 4.52,
+  "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
+  "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
+  "LastChanged": "2022-12-03T05:57:09.9450615+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-11-21T06:57:02.0735411+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T02:23:41.4879878+00:00",
+      "Rating": 4.18,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T17:56:55.9687355+00:00",
+      "Rating": 4.28,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T20:56:57.8473912+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T13:16:48.3756204+00:00",
+      "Rating": 4.31,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T02:21:27.7367428+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T13:14:29.3275203+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T17:56:58.4692091+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T15:56:59.7966505+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T05:56:54.0413514+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T09:57:10.4876007+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T09:56:53.0860699+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T17:57:10.5080263+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T17:57:12.0800586+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T20:57:08.6819773+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T23:56:56.4083435+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T11:57:08.6058637+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T02:33:48.8184165+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T18:56:58.6037793+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T02:11:21.0569481+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T13:11:11.9763096+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T19:56:56.3029208+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-03T05:57:09.9450616+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    }
+  ],
+  "Tags": []
+}

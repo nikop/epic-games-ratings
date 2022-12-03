@@ -1,10 +1,10 @@
 {
   "ID": "fa702d34a37248ba98fb17f680c085e3",
   "Name": "Fallout 3: Game of the Year Edition",
-  "Rating": 4.59,
+  "Rating": 4.6,
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2022-11-03T23:33:12.1737162+00:00",
+  "LastChanged": "2022-11-12T15:58:33.0856988+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-21T00:33:04.5526799+00:00",
@@ -115,16 +115,21 @@
       "Time": "2022-11-03T23:33:12.1737166+00:00",
       "Rating": 4.59,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T15:58:33.0856991+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 6035
+      "Count": 11720
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 352
+      "Count": 1269
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -132,39 +137,39 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 321
+      "Count": 1129
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 355
+      "Count": 1240
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 319
+      "Count": 1127
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 329
+      "Count": 1212
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 325
+      "Count": 1182
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 327
+      "Count": 1122
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 280
+      "Count": 1032
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 188
+      "Count": 723
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 333
+      "Count": 1137
     }
   ]
 }

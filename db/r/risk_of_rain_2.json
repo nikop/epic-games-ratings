@@ -1,10 +1,10 @@
 {
   "ID": "0dfcaeede0214b80b597f08fd7d64b1b",
   "Name": "Risk of Rain 2",
-  "Rating": 4.87,
+  "Rating": 4.85,
   "NumberOfRatings": 1310,
   "FirstSeen": "2022-07-22T20:26:31.4387684+00:00",
-  "LastChanged": "2022-11-03T19:03:51.1359179+00:00",
+  "LastChanged": "2022-11-26T22:57:40.5585021+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:31.4387687+00:00",
@@ -1020,28 +1020,38 @@
       "Time": "2022-11-03T19:03:51.1359181+00:00",
       "Rating": 4.87,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T02:49:46.0564061+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T22:57:40.5585023+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 163
+      "Count": 184
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 181
+      "Count": 207
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 158
+      "Count": 189
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 167
+      "Count": 183
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 158
+      "Count": 180
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1049,27 +1059,27 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 158
+      "Count": 184
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 138
+      "Count": 154
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 146
+      "Count": 172
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 144
-    },
-    {
-      "Text": "This game is Extremely Fun",
       "Count": 165
     },
     {
+      "Text": "This game is Extremely Fun",
+      "Count": 193
+    },
+    {
       "Text": "This game has a Creative Community",
-      "Count": 110
+      "Count": 127
     }
   ]
 }

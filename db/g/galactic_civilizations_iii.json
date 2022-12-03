@@ -1,10 +1,10 @@
 {
   "ID": "3c52fbac843d4375803187739db84801",
   "Name": "Galactic Civilizations III",
-  "Rating": 4.21,
+  "Rating": 4.2,
   "NumberOfRatings": 1085,
   "FirstSeen": "2022-07-22T20:17:25.7061184+00:00",
-  "LastChanged": "2022-10-26T17:00:24.5430568+00:00",
+  "LastChanged": "2022-11-24T03:56:51.1112326+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:25.7061186+00:00",
@@ -1180,36 +1180,71 @@
       "Time": "2022-10-26T17:00:24.5430571+00:00",
       "Rating": 4.21,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T20:57:04.4532707+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T17:10:45.2978428+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T05:56:46.1489932+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T10:56:50.7788485+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T16:59:57.5254791+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T18:57:09.1353967+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T03:56:51.1112327+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
-      "Count": 133
+      "Count": 154
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 105
+      "Count": 129
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 115
+      "Count": 141
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 101
+      "Count": 131
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 103
+      "Count": 127
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 111
+      "Count": 133
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 80
+      "Count": 98
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1217,7 +1252,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 37
+      "Count": 49
     }
   ]
 }

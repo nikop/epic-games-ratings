@@ -1,10 +1,10 @@
 {
   "ID": "870929e8b7fb4e2b986c1a3f0a6ff38d",
   "Name": "Armored Warfare",
-  "Rating": 4.11,
+  "Rating": 4.08,
   "NumberOfRatings": 458,
   "FirstSeen": "2022-07-22T20:16:52.6557809+00:00",
-  "LastChanged": "2022-11-05T21:00:34.1881047+00:00",
+  "LastChanged": "2022-12-02T10:57:06.3030878+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:52.6557814+00:00",
@@ -680,48 +680,113 @@
       "Time": "2022-11-05T21:00:34.1881048+00:00",
       "Rating": 4.11,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T17:01:52.5956412+00:00",
+      "Rating": 4.1,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T13:56:55.8232919+00:00",
+      "Rating": 4.11,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T17:56:50.4339963+00:00",
+      "Rating": 4.1,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T06:56:46.3413397+00:00",
+      "Rating": 4.11,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T21:57:07.7226855+00:00",
+      "Rating": 4.1,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T06:56:46.2344531+00:00",
+      "Rating": 4.11,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T13:21:20.0598258+00:00",
+      "Rating": 4.1,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T02:39:46.1716083+00:00",
+      "Rating": 4.09,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T20:56:54.340827+00:00",
+      "Rating": 4.08,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T13:11:16.4394481+00:00",
+      "Rating": 4.09,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T16:57:23.6246031+00:00",
+      "Rating": 4.08,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T03:16:51.2092026+00:00",
+      "Rating": 4.09,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T10:57:06.3030881+00:00",
+      "Rating": 4.08,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Competitive Players",
-      "Count": 38
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Count": 45
-    },
-    {
-      "Text": "This game is Great for Beginners",
       "Count": 42
     },
     {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 49
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 52
+    },
+    {
       "Text": "This game is Highly Recommended",
-      "Count": 40
+      "Count": 45
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 39
+      "Count": 48
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 40
+      "Count": 50
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 37
+      "Count": 45
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 34
+      "Count": 45
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 30
+      "Count": 36
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 44
+      "Count": 55
     }
   ]
 }

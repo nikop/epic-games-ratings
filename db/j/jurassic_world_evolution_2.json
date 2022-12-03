@@ -1,10 +1,10 @@
 {
   "ID": "4817ba5c11504724ba4d5817c8995dff",
   "Name": "Jurassic World Evolution 2",
-  "Rating": 4.74,
+  "Rating": 4.73,
   "NumberOfRatings": 3746,
   "FirstSeen": "2022-07-22T20:20:10.4170435+00:00",
-  "LastChanged": "2022-09-23T12:30:47.4299125+00:00",
+  "LastChanged": "2022-11-29T17:57:35.1802952+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:10.4170437+00:00",
@@ -2040,36 +2040,111 @@
       "Time": "2022-09-23T12:30:47.4299127+00:00",
       "Rating": 4.74,
       "NumberOfRatings": 3746
+    },
+    {
+      "Time": "2022-11-06T15:57:28.0224528+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T19:57:08.8044595+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T05:15:23.6614098+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T11:57:37.6041055+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T18:57:27.8369028+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T20:57:24.2193737+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T23:57:16.1546616+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T21:57:17.0077475+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T07:57:18.8290543+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T15:56:59.1019334+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T16:58:49.2980727+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T20:57:08.6100695+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T17:57:03.4188997+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T14:57:43.9638644+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T17:57:35.1802955+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Relaxing",
-      "Count": 425
+      "Count": 486
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 402
+      "Count": 457
     },
     {
       "Text": "This game is Educational",
-      "Count": 412
+      "Count": 467
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 420
+      "Count": 477
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 402
+      "Count": 487
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 410
+      "Count": 466
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 400
+      "Count": 448
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2077,15 +2152,15 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 371
+      "Count": 425
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 393
+      "Count": 445
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 322
+      "Count": 378
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "ID": "270e1d648a5e4060b7b441615c4da4d9",
   "Name": "Figment",
-  "Rating": 4.43,
+  "Rating": 4.46,
   "NumberOfRatings": 109,
   "FirstSeen": "2022-07-22T20:26:25.7495486+00:00",
-  "LastChanged": "2022-11-02T13:32:14.5922427+00:00",
+  "LastChanged": "2022-12-01T04:57:29.3690667+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:25.7495489+00:00",
@@ -259,6 +259,51 @@
     {
       "Time": "2022-11-02T13:32:14.5922428+00:00",
       "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T02:52:56.6915177+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T02:45:25.9068373+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T02:41:20.8333844+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T02:31:10.3278477+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T03:41:05.8730496+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-22T03:32:25.1499623+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T03:57:47.0337647+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T03:57:58.1390167+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T04:57:29.3690671+00:00",
+      "Rating": 4.46,
       "NumberOfRatings": null
     }
   ],

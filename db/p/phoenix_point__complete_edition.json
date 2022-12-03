@@ -1,10 +1,10 @@
 {
   "ID": "iris",
   "Name": "Phoenix Point: Complete Edition",
-  "Rating": 4.55,
+  "Rating": 4.56,
   "NumberOfRatings": 2121,
   "FirstSeen": "2022-07-22T20:17:48.4306383+00:00",
-  "LastChanged": "2022-11-02T16:00:53.2826585+00:00",
+  "LastChanged": "2022-12-01T19:56:59.3706644+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:48.4306385+00:00",
@@ -2120,48 +2120,53 @@
       "Time": "2022-11-02T16:00:53.2826588+00:00",
       "Rating": 4.55,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T19:56:59.3706646+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 1489
+      "Count": 1675
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 539
+      "Count": 628
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 516
+      "Count": 592
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 520
+      "Count": 611
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 548
+      "Count": 636
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 526
+      "Count": 610
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 484
+      "Count": 571
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 479
+      "Count": 573
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 459
+      "Count": 528
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 207
+      "Count": 249
     }
   ]
 }

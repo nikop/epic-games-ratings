@@ -1,10 +1,10 @@
 {
   "ID": "0f86606a1622460898a7874d488f288a",
   "Name": "Kingdoms of Amalur: Re-Reckoning",
-  "Rating": 4.58,
+  "Rating": 4.55,
   "NumberOfRatings": 137,
   "FirstSeen": "2022-07-22T20:23:19.3365419+00:00",
-  "LastChanged": "2022-11-05T18:31:24.926615+00:00",
+  "LastChanged": "2022-12-02T16:57:44.4248714+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:19.3365421+00:00",
@@ -295,16 +295,46 @@
       "Time": "2022-11-05T18:31:24.9266154+00:00",
       "Rating": 4.58,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T22:57:29.4489725+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T18:57:42.4379497+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T22:57:29.2069808+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T20:57:31.9174097+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T13:19:33.5302046+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T16:57:44.4248716+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 54
+      "Count": 60
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 37
+      "Count": 41
     }
   ]
 }

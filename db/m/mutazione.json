@@ -1,10 +1,10 @@
 {
   "ID": "5645a537b6a44f6f82d122729f3253ed",
   "Name": "Mutazione",
-  "Rating": 4.65,
+  "Rating": 4.62,
   "NumberOfRatings": 63,
   "FirstSeen": "2022-07-22T20:26:44.0004019+00:00",
-  "LastChanged": "2022-11-03T22:32:44.5379011+00:00",
+  "LastChanged": "2022-12-02T23:59:14.0193422+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:44.0004039+00:00",
@@ -179,6 +179,46 @@
     {
       "Time": "2022-11-03T22:32:44.5379014+00:00",
       "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T22:57:23.1131554+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T22:57:37.7006143+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T22:58:17.3708761+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T23:57:24.3466849+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T23:57:41.3339459+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T23:57:27.1916512+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T23:57:36.8725376+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T23:59:14.0193424+00:00",
+      "Rating": 4.62,
       "NumberOfRatings": null
     }
   ],

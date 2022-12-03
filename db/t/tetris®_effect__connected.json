@@ -1,10 +1,10 @@
 {
   "ID": "76339caf9e8e4d24b62761c736e82b42",
   "Name": "Tetris\u00AE Effect: Connected",
-  "Rating": 4.86,
+  "Rating": 4.85,
   "NumberOfRatings": 272,
   "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
-  "LastChanged": "2022-11-01T15:01:09.9059484+00:00",
+  "LastChanged": "2022-11-27T02:25:59.8148768+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:49.1950133+00:00",
@@ -375,6 +375,31 @@
       "Time": "2022-11-01T15:01:09.9059486+00:00",
       "Rating": 4.86,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-07T02:49:11.0037886+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T06:59:16.8195222+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T20:56:56.9061937+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T13:57:06.5504982+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T02:25:59.814877+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -384,15 +409,15 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 30
+      "Count": 36
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 31
+      "Count": 34
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 30
+      "Count": 34
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -400,15 +425,23 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 28
+      "Count": 30
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 23
+      "Count": 27
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 25
+      "Count": 28
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 20
     }
   ]
 }

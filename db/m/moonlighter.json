@@ -1,10 +1,10 @@
 {
   "ID": "bec822fb982843c3be794d440728336b",
   "Name": "Moonlighter",
-  "Rating": 4.7,
+  "Rating": 4.69,
   "NumberOfRatings": 1098,
   "FirstSeen": "2022-07-22T20:20:50.3946089+00:00",
-  "LastChanged": "2022-10-31T15:01:05.3397104+00:00",
+  "LastChanged": "2022-11-30T18:57:27.6699239+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:50.3946093+00:00",
@@ -534,6 +534,61 @@
     {
       "Time": "2022-10-31T15:01:05.3397106+00:00",
       "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T04:25:13.2111716+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T07:57:05.5263426+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T03:45:09.6303735+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T23:57:31.7027572+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T20:57:12.0867494+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T19:57:30.0004557+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T04:57:15.2986844+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T13:57:37.5152267+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T09:57:15.0416011+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-29T09:57:32.3837093+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T18:57:27.6699242+00:00",
+      "Rating": 4.69,
       "NumberOfRatings": null
     }
   ],

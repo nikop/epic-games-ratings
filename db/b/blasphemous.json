@@ -1,10 +1,10 @@
 {
   "ID": "eddb735dde6b47cda8193f2643cff886",
   "Name": "Blasphemous",
-  "Rating": 4.91,
+  "Rating": 4.9,
   "NumberOfRatings": 205,
   "FirstSeen": "2022-07-22T20:20:14.5456165+00:00",
-  "LastChanged": "2022-10-22T12:00:51.85387+00:00",
+  "LastChanged": "2022-11-26T19:57:14.3827964+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:14.5456168+00:00",
@@ -310,12 +310,37 @@
       "Time": "2022-10-22T12:00:51.8538703+00:00",
       "Rating": 4.91,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T09:57:12.8173498+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T11:57:13.4287562+00:00",
+      "Rating": 4.91,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T04:57:03.891792+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T22:57:09.8463438+00:00",
+      "Rating": 4.91,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T19:57:14.3827965+00:00",
+      "Rating": 4.9,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 96
+      "Count": 114
     }
   ]
 }

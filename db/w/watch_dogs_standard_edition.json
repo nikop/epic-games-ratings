@@ -1,10 +1,10 @@
 {
   "ID": "ecebf45065bc4993abfe0e84c40ff18e",
   "Name": "Watch Dogs Standard Edition",
-  "Rating": 4.54,
+  "Rating": 4.55,
   "NumberOfRatings": 1912,
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2022-10-26T20:33:57.2069034+00:00",
+  "LastChanged": "2022-12-02T13:57:38.3502239+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:01.9847855+00:00",
@@ -910,16 +910,31 @@
       "Time": "2022-10-26T20:33:57.2069037+00:00",
       "Rating": 4.54,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T20:57:16.2086599+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T10:57:24.6991718+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T13:57:38.3502241+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 30
+      "Count": 34
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 32
+      "Count": 36
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -927,23 +942,31 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 29
+      "Count": 35
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 26
+      "Count": 31
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 25
+      "Count": 33
     },
     {
       "Text": "This game has Realistic Visuals",
-      "Count": 24
+      "Count": 26
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 20
+      "Count": 25
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 24
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Count": 33
     }
   ]
 }

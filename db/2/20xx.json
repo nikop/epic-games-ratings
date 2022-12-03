@@ -1,10 +1,10 @@
 {
   "ID": "4c7117cadb714722950338f02850fd8d",
   "Name": "20XX",
-  "Rating": 4.61,
+  "Rating": 4.6,
   "NumberOfRatings": 392,
   "FirstSeen": "2022-07-22T20:20:18.3366391+00:00",
-  "LastChanged": "2022-10-31T21:31:05.963609+00:00",
+  "LastChanged": "2022-12-03T13:08:52.7201274+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:18.3366397+00:00",
@@ -525,32 +525,75 @@
       "Time": "2022-10-31T21:31:05.9636097+00:00",
       "Rating": 4.61,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-16T02:41:52.0719784+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T13:21:49.3048058+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T18:57:08.0590651+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-23T13:57:41.8292609+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T10:57:18.7632197+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-28T21:57:19.3918126+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-03T13:08:52.7201277+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 29
+      "Count": 35
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 24
+      "Count": 26
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 23
+      "Count": 25
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 21
+      "Count": 24
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 22
+      "Count": 27
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 24
+      "Count": 28
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Count": 22
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 21
     }
   ]
 }

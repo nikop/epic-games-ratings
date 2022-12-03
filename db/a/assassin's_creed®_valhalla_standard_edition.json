@@ -1,10 +1,10 @@
 {
   "ID": "400347196e674de89c23cc2a7f2121db",
   "Name": "Assassin\u0027s Creed\u00AE Valhalla Standard Edition",
-  "Rating": 4.58,
+  "Rating": 4.59,
   "NumberOfRatings": 12317,
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2022-09-23T12:30:56.9320074+00:00",
+  "LastChanged": "2022-11-17T17:04:34.4860626+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:17.7160411+00:00",
@@ -3095,52 +3095,67 @@
       "Time": "2022-09-23T12:30:56.9320076+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 12317
+    },
+    {
+      "Time": "2022-11-15T21:57:26.3039811+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T13:21:54.8618775+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T17:04:34.4860628+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 7214
+      "Count": 8825
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 4554
+      "Count": 5489
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 591
+      "Count": 715
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 561
+      "Count": 694
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 561
+      "Count": 676
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 549
+      "Count": 692
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 551
+      "Count": 706
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 563
+      "Count": 704
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 553
+      "Count": 690
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 543
+      "Count": 683
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 300
+      "Count": 377
     },
     {
       "Text": "This game has Obsessive Gameplay",

@@ -1,10 +1,10 @@
 {
   "ID": "df37f065c3f14eadbf011177396e2966",
   "Name": "Alien: Isolation ",
-  "Rating": 4.6,
+  "Rating": 4.61,
   "NumberOfRatings": 5222,
   "FirstSeen": "2022-07-22T20:18:09.3145857+00:00",
-  "LastChanged": "2022-09-23T14:01:02.2005712+00:00",
+  "LastChanged": "2022-12-01T17:00:05.3089983+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:09.3145859+00:00",
@@ -1815,32 +1815,47 @@
       "Time": "2022-09-23T14:01:02.2005713+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 5222
+    },
+    {
+      "Time": "2022-11-23T20:57:12.8078116+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-24T21:57:08.8962752+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T17:00:05.3089987+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
-      "Count": 96
+      "Count": 115
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 97
+      "Count": 113
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 99
+      "Count": 113
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 98
+      "Count": 117
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 93
+      "Count": 106
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 100
+      "Count": 117
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -1848,11 +1863,11 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 98
+      "Count": 110
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 52
+      "Count": 59
     }
   ]
 }

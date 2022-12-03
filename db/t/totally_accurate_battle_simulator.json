@@ -1795,27 +1795,27 @@
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 166
+      "Count": 231
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 206
+      "Count": 267
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 180
+      "Count": 257
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 190
+      "Count": 241
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 158
+      "Count": 214
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 146
+      "Count": 188
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1823,19 +1823,19 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 194
+      "Count": 247
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 156
+      "Count": 217
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 163
+      "Count": 217
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 154
+      "Count": 221
     },
     {
       "Text": "This game has Playful Visuals",
@@ -1844,6 +1844,10 @@
     {
       "Text": "This game has Easy Combat",
       "Count": 79
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Count": 216
     }
   ]
 }

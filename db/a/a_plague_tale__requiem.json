@@ -4,7 +4,7 @@
   "Rating": 4.73,
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
-  "LastChanged": "2022-11-05T16:02:01.2082762+00:00",
+  "LastChanged": "2022-11-17T19:57:42.1727715+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-19T08:31:07.2693345+00:00",
@@ -125,12 +125,40 @@
       "Time": "2022-11-05T16:02:01.2082767+00:00",
       "Rating": 4.73,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T10:57:04.0503169+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T15:57:29.1337047+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T09:57:17.5048382+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T19:57:42.1727717+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 212
+      "Count": 346
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 22
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 24
     }
   ]
 }

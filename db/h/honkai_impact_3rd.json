@@ -1,10 +1,10 @@
 {
   "ID": "d2d162953fec40e381867d7af8371362",
   "Name": "Honkai Impact 3rd",
-  "Rating": 4.36,
+  "Rating": 4.45,
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2022-11-06T08:01:13.3901396+00:00",
+  "LastChanged": "2022-12-02T03:56:56.750454+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-28T11:32:15.7744845+00:00",
@@ -85,16 +85,155 @@
       "Time": "2022-11-06T08:01:13.3901398+00:00",
       "Rating": 4.36,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T02:49:25.450156+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T13:30:19.7816058+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T21:57:09.6422494+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-09T19:56:48.6058326+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T20:57:02.8447039+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-10T22:57:15.8301592+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T04:23:20.6698892+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T05:56:59.587524+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T17:56:59.7428032+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-13T10:57:13.2513153+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T21:57:38.137955+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-15T17:56:50.5773585+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T15:57:16.6038614+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-18T15:57:17.0222317+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T13:14:47.0492782+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T15:56:47.3826944+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-26T18:56:46.0238384+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T19:56:56.961837+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T03:56:56.7504542+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 165
+      "Count": 957
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 31
+      "Count": 559
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 51
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 62
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 55
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 44
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Count": 28
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 47
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 57
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 44
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 41
+    },
+    {
+      "Text": "This game has a Kind Community",
+      "Count": 22
+    },
+    {
+      "Text": "This game has Beautiful Visuals",
+      "Count": 42
     }
   ]
 }

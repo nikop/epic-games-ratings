@@ -1,10 +1,10 @@
 {
   "ID": "be67e141378446cf9399b3db1a22ceb3",
   "Name": "Tharsis",
-  "Rating": 4.21,
+  "Rating": 4.16,
   "NumberOfRatings": 55,
   "FirstSeen": "2022-07-22T20:19:00.6251674+00:00",
-  "LastChanged": "2022-11-04T19:31:00.5210249+00:00",
+  "LastChanged": "2022-11-30T18:57:17.2258744+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:00.6251678+00:00",
@@ -179,6 +179,51 @@
     {
       "Time": "2022-11-04T19:31:00.5210254+00:00",
       "Rating": 4.21,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-08T14:57:23.2832013+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-11T13:31:55.206526+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-14T07:56:49.6360263+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-17T06:56:58.4348401+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-19T06:57:05.4964476+00:00",
+      "Rating": 4.16,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-20T06:56:55.3706566+00:00",
+      "Rating": 4.15,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-21T06:57:17.430247+00:00",
+      "Rating": 4.13,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-27T18:56:58.7142948+00:00",
+      "Rating": 4.14,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-30T18:57:17.225875+00:00",
+      "Rating": 4.16,
       "NumberOfRatings": null
     }
   ],

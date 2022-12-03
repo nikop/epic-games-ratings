@@ -1,10 +1,10 @@
 {
   "ID": "fe5a2e3e842a4394938a81f3308df2ed",
   "Name": "Solar Ash",
-  "Rating": 4.63,
+  "Rating": 4.64,
   "NumberOfRatings": 106,
   "FirstSeen": "2022-07-22T20:26:55.4392125+00:00",
-  "LastChanged": "2022-11-06T01:01:57.0056165+00:00",
+  "LastChanged": "2022-12-02T02:12:16.9400395+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:55.4392128+00:00",
@@ -210,12 +210,37 @@
       "Time": "2022-11-06T01:01:57.0056168+00:00",
       "Rating": 4.63,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-06T22:57:23.7265069+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-12T22:58:19.493157+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-11-25T23:57:27.828468+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-01T02:34:37.0043718+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-02T02:12:16.9400397+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 20
+      "Count": 23
     }
   ]
 }
