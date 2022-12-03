@@ -287,35 +287,35 @@
 | 285 | [Death's Door](games/d/death's_door.md) | 4.64 | 
 | 286 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
 | 287 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.64 | 
-| 288 | [Mutazione](games/m/mutazione.md) | 4.64 | 
-| 289 | [Card Shark](games/c/card_shark.md) | 4.64 | 
-| 290 | [GNOG](games/g/gnog.md) | 4.64 | 
-| 291 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.64 | 
-| 292 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
-| 293 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 294 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 295 | [Limbo](games/l/limbo.md) | 4.63 | 
-| 296 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 297 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
-| 298 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.63 | 
-| 299 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
-| 300 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
-| 301 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.63 | 
-| 302 | [Everything](games/e/everything.md) | 4.63 | 
-| 303 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
-| 304 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.63 | 
-| 305 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 306 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 307 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 308 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 309 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 310 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 311 | [ABZU](games/a/abzu.md) | 4.62 | 
-| 312 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 313 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
-| 314 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
-| 315 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.62 | 
-| 316 | [Roguebook](games/r/roguebook.md) | 4.62 | 
+| 288 | [Card Shark](games/c/card_shark.md) | 4.64 | 
+| 289 | [GNOG](games/g/gnog.md) | 4.64 | 
+| 290 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.64 | 
+| 291 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
+| 292 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 293 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 294 | [Limbo](games/l/limbo.md) | 4.63 | 
+| 295 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 296 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
+| 297 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.63 | 
+| 298 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
+| 299 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
+| 300 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.63 | 
+| 301 | [Everything](games/e/everything.md) | 4.63 | 
+| 302 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
+| 303 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.63 | 
+| 304 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 305 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 306 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 307 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 308 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 309 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 310 | [ABZU](games/a/abzu.md) | 4.62 | 
+| 311 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 312 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
+| 313 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
+| 314 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.62 | 
+| 315 | [Roguebook](games/r/roguebook.md) | 4.62 | 
+| 316 | [Mutazione](games/m/mutazione.md) | 4.62 | 
 | 317 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.62 | 
 | 318 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 
 | 319 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.62 | 
@@ -463,25 +463,25 @@
 | 461 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 462 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 463 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 464 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 465 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 466 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 467 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
-| 468 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
-| 469 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 470 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 471 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
-| 472 | [RUINER](games/r/ruiner.md) | 4.52 | 
-| 473 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 474 | [The Tenants](games/t/the_tenants.md) | 4.52 | 
-| 475 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
-| 476 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 477 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
-| 478 | [Aztez](games/a/aztez.md) | 4.52 | 
-| 479 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
-| 480 | [GigaBash](games/g/gigabash.md) | 4.52 | 
-| 481 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 482 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.52 | 
+| 464 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.53 | 
+| 465 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 466 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 467 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 468 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
+| 469 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
+| 470 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 471 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
+| 472 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
+| 473 | [RUINER](games/r/ruiner.md) | 4.52 | 
+| 474 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 475 | [The Tenants](games/t/the_tenants.md) | 4.52 | 
+| 476 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
+| 477 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 478 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
+| 479 | [Aztez](games/a/aztez.md) | 4.52 | 
+| 480 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
+| 481 | [GigaBash](games/g/gigabash.md) | 4.52 | 
+| 482 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 483 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 484 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 485 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
@@ -683,11 +683,11 @@
 | 681 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 682 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 683 | [Ashen](games/a/ashen.md) | 4.31 | 
-| 684 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.31 | 
-| 685 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 686 | [Neverwinter](games/n/neverwinter.md) | 4.30 | 
-| 687 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 688 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
+| 684 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
+| 685 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.31 | 
+| 686 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 687 | [Neverwinter](games/n/neverwinter.md) | 4.30 | 
+| 688 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 689 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 
 | 690 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 691 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
@@ -759,9 +759,9 @@
 | 757 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 758 | [Tharsis](games/t/tharsis.md) | 4.16 | 
 | 759 | [Submerged](games/s/submerged.md) | 4.16 | 
-| 760 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
-| 761 | [Relicta](games/r/relicta.md) | 4.15 | 
-| 762 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.15 | 
+| 760 | [Relicta](games/r/relicta.md) | 4.15 | 
+| 761 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.15 | 
+| 762 | [Dark Deity](games/d/dark_deity.md) | 4.15 | 
 | 763 | [Predecessor](games/p/predecessor.md) | 4.15 | 
 | 764 | [Pine](games/p/pine.md) | 4.14 | 
 | 765 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
@@ -776,10 +776,10 @@
 | 774 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
 | 775 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
 | 776 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 777 | [Obduction](games/o/obduction.md) | 4.09 | 
-| 778 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 779 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
-| 780 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.08 | 
+| 777 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
+| 778 | [Obduction](games/o/obduction.md) | 4.09 | 
+| 779 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 780 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
 | 781 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
 | 782 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
 | 783 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 

@@ -101,7 +101,7 @@
 | 99 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 100 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.29 | 
 | 101 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
-| 102 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.08 | 
+| 102 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
 | 103 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 104 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 105 | [Card Shark](games/c/card_shark.md) | 4.64 | 
@@ -150,7 +150,7 @@
 | 148 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 149 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
 | 150 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
-| 151 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 151 | [Dark Deity](games/d/dark_deity.md) | 4.15 | 
 | 152 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 153 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 154 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -417,7 +417,7 @@
 | 415 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 416 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 417 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 418 | [Mutazione](games/m/mutazione.md) | 4.64 | 
+| 418 | [Mutazione](games/m/mutazione.md) | 4.62 | 
 | 419 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
 | 420 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 421 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
@@ -596,7 +596,7 @@
 | 594 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
 | 595 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 596 | [Space Punks](games/s/space_punks.md) | 4.18 | 
-| 597 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
+| 597 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
 | 598 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 599 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 600 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
@@ -606,7 +606,7 @@
 | 604 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 605 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 606 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
-| 607 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.52 | 
+| 607 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.53 | 
 | 608 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
 | 609 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
 | 610 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
