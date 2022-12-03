@@ -1,10 +1,10 @@
 {
   "ID": "3671db367c594e2ab5020105dc52dc65",
   "Name": "KINGDOM HEARTS Melody of Memory",
-  "Rating": 4.63,
+  "Rating": 4.64,
   "NumberOfRatings": 83,
   "FirstSeen": "2022-07-22T20:24:47.7088275+00:00",
-  "LastChanged": "2022-11-21T04:13:34.2564411+00:00",
+  "LastChanged": "2022-12-03T10:58:17.2904822+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:47.7088277+00:00",
@@ -274,6 +274,11 @@
     {
       "Time": "2022-11-21T04:13:34.2564413+00:00",
       "Rating": 4.63,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-03T10:58:17.2904826+00:00",
+      "Rating": 4.64,
       "NumberOfRatings": null
     }
   ],
