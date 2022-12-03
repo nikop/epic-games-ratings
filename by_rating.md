@@ -108,15 +108,15 @@
 | 104 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 104 | [Haven](games/h/haven.md) | 4.77 | 
 | 104 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
-| 109 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 109 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 109 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 109 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
-| 109 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
-| 109 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.76 | 
-| 109 | [Tails of Iron](games/t/tails_of_iron.md) | 4.76 | 
-| 109 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
+| 104 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.77 | 
+| 110 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 110 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 110 | [Diabotical](games/d/diabotical.md) | 4.76 | 
+| 110 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 110 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
+| 110 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
+| 110 | [Tails of Iron](games/t/tails_of_iron.md) | 4.76 | 
+| 110 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
 | 118 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 118 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
@@ -293,18 +293,18 @@
 | 279 | [Card Shark](games/c/card_shark.md) | 4.64 | 
 | 279 | [GNOG](games/g/gnog.md) | 4.64 | 
 | 279 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.64 | 
-| 294 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
-| 294 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 294 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 294 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 294 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
-| 294 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 294 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
-| 294 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
-| 294 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.63 | 
-| 294 | [Everything](games/e/everything.md) | 4.63 | 
-| 294 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
-| 294 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.63 | 
+| 279 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
+| 295 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
+| 295 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 295 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 295 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 295 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
+| 295 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
+| 295 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
+| 295 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
+| 295 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.63 | 
+| 295 | [Everything](games/e/everything.md) | 4.63 | 
+| 295 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 306 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 306 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 306 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
@@ -391,26 +391,26 @@
 | 382 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 382 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 382 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
+| 382 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
 | 382 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
 | 382 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 
 | 382 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 382 | [NORCO](games/n/norco.md) | 4.58 | 
-| 396 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 396 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 396 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 396 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
-| 396 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 396 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
-| 396 | [Moving Out](games/m/moving_out.md) | 4.57 | 
-| 396 | [Hob](games/h/hob.md) | 4.57 | 
-| 396 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.57 | 
-| 396 | [Isonzo](games/i/isonzo.md) | 4.57 | 
-| 396 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 396 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 
-| 396 | [Sable](games/s/sable.md) | 4.57 | 
-| 396 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.57 | 
-| 396 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
-| 396 | [The Medium](games/t/the_medium.md) | 4.57 | 
+| 397 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 397 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 397 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 397 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 397 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 397 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
+| 397 | [Moving Out](games/m/moving_out.md) | 4.57 | 
+| 397 | [Hob](games/h/hob.md) | 4.57 | 
+| 397 | [Isonzo](games/i/isonzo.md) | 4.57 | 
+| 397 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 397 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 
+| 397 | [Sable](games/s/sable.md) | 4.57 | 
+| 397 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.57 | 
+| 397 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
+| 397 | [The Medium](games/t/the_medium.md) | 4.57 | 
 | 412 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 412 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 412 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
@@ -779,14 +779,14 @@
 | 776 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
 | 776 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
 | 779 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
+| 780 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 780 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
 | 780 | [Obduction](games/o/obduction.md) | 4.09 | 
 | 780 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 780 | [Fort Triumph](games/f/fort_triumph.md) | 4.09 | 
-| 784 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 784 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
-| 784 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
-| 784 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
+| 785 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 785 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
+| 785 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
 | 788 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
 | 788 | [Lake](games/l/lake.md) | 4.07 | 
 | 790 | [Godfall](games/g/godfall.md) | 4.06 | 
