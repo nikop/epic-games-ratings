@@ -1,5 +1,5 @@
 # Pillars of Eternity - Definitive Edition
-Rating: 4.65 (2,847)  (as of 23.09.2022)  
+Rating: 4.66 (2,847)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -75,3 +75,4 @@ Rating: 4.65 (2,847)  (as of 23.09.2022)
 | 2022-11-16 | 4.65 | - |
 | 2022-11-17 | 4.66 | - |
 | 2022-11-18 | 4.65 | - |
+| 2022-12-03 | 4.66 | - |

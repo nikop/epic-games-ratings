@@ -1,7 +1,16 @@
 {
   "ID": "23aa88cfbedf4dceb1c6a41e2c0eafc0",
   "Name": "Kill It With Fire",
+  "Rating": 4.4,
   "FirstSeen": "2022-07-22T20:17:57.0618032+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-12-03T21:57:39.7500458+00:00",
+  "LastChanged": "2022-12-03T21:57:39.7500459+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-12-03T21:57:39.7500461+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
