@@ -77,7 +77,7 @@
 | 75 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
 | 77 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
-| 78 | [Before We Leave](games/b/before_we_leave.md) | 4.61 | 
+| 78 | [Before We Leave](games/b/before_we_leave.md) | 4.62 | 
 | 79 | [Beholder 3](games/b/beholder_3.md) | 4.47 | 
 | 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
 | 81 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
@@ -93,7 +93,7 @@
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
+| 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
@@ -575,7 +575,7 @@
 | 573 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 574 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 575 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 576 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.47 | 
+| 576 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 577 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
 | 578 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 579 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
@@ -646,7 +646,7 @@
 | 644 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 645 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 646 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 647 | [Tacoma](games/t/tacoma.md) | 4.40 | 
+| 647 | [Tacoma](games/t/tacoma.md) | 4.41 | 
 | 648 | [Tails of Iron](games/t/tails_of_iron.md) | 4.76 | 
 | 649 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.71 | 
 | 650 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
@@ -789,7 +789,7 @@
 | 787 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
 | 788 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
 | 789 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 790 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
+| 790 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
 | 791 | [Weird West](games/w/weird_west.md) | 4.46 | 
 | 792 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
 | 793 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
