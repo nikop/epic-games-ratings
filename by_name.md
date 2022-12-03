@@ -19,7 +19,7 @@
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
-| 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
+| 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
@@ -237,7 +237,7 @@
 | 235 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.14 | 
 | 236 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 237 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 238 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.92 | 
+| 238 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 239 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.62 | 
 | 240 | [Fez](games/f/fez.md) | 4.71 | 
 | 241 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
@@ -250,7 +250,7 @@
 | 248 | [Flatout](games/f/flatout.md) | 4.05 | 
 | 249 | [Flatout 2](games/f/flatout_2.md) | 4.92 | 
 | 250 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
+| 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 252 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 253 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 254 | [Fort Triumph](games/f/fort_triumph.md) | 4.09 | 
@@ -771,7 +771,7 @@
 | 769 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 770 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 
 | 771 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 772 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.79 | 
+| 772 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
 | 773 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 774 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
 | 775 | [Vampyr](games/v/vampyr.md) | 4.31 | 
