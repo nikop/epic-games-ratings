@@ -37,7 +37,7 @@
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.65 | 
 | 37 | [Aragami 2](games/a/aragami_2.md) | 4.56 | 
-| 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.67 | 
+| 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.64 | 
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.54 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
@@ -121,7 +121,7 @@
 | 119 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 120 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
 | 121 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 122 | [Close To The Sun](games/c/close_to_the_sun.md) | 4.00 | 
+| 122 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
 | 123 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
 | 124 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 125 | [Conarium](games/c/conarium.md) | 3.93 | 
@@ -138,7 +138,7 @@
 | 136 | [Crayta](games/c/crayta.md) | 4.18 | 
 | 137 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 
 | 138 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 139 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
+| 139 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 140 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 141 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 142 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
@@ -177,7 +177,7 @@
 | 175 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 176 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 177 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
-| 178 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 178 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 179 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
 | 180 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 181 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -189,7 +189,7 @@
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 190 | [Divine Knockout](games/d/divine_knockout.md) | 4.63 | 
+| 190 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
 | 191 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 192 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 193 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
@@ -282,8 +282,8 @@
 | 280 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 281 | [Gone Home](games/g/gone_home.md) | 4.17 | 
 | 282 | [Good Company](games/g/good_company.md) | 4.45 | 
-| 283 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
-| 284 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.12 | 
+| 283 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 284 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 285 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 286 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 287 | [Griftlands](games/g/griftlands.md) | 4.81 | 
@@ -510,7 +510,7 @@
 | 508 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 509 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
 | 510 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
-| 511 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 511 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 512 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 513 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 514 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
@@ -798,7 +798,7 @@
 | 796 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
 | 797 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
 | 798 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
-| 799 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.47 | 
+| 799 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.46 | 
 | 800 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 801 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 802 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
