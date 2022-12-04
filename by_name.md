@@ -105,7 +105,7 @@
 | 103 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 104 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 105 | [Card Shark](games/c/card_shark.md) | 4.64 | 
-| 106 | [CARRION](games/c/carrion.md) | 4.66 | 
+| 106 | [CARRION](games/c/carrion.md) | 4.67 | 
 | 107 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 108 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
 | 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
@@ -592,7 +592,7 @@
 | 590 | [SOMA](games/s/soma.md) | 4.64 | 
 | 591 | [Somerville](games/s/somerville.md) | 4.24 | 
 | 592 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 593 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.42 | 
+| 593 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
 | 594 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 595 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 596 | [Souldiers](games/s/souldiers.md) | 4.55 | 
