@@ -567,19 +567,19 @@
 | 555 | [Good Company](games/g/good_company.md) | 4.45 | 
 | 555 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
 | 555 | [Chorus](games/c/chorus.md) | 4.45 | 
+| 555 | [Far Cry](games/f/far_cry.md) | 4.45 | 
 | 555 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 555 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.45 | 
 | 555 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.45 | 
 | 555 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.45 | 
 | 555 | [Runbow](games/r/runbow.md) | 4.45 | 
-| 573 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 573 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 573 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 573 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 573 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.44 | 
-| 573 | [Far Cry](games/f/far_cry.md) | 4.44 | 
-| 573 | [Train Valley](games/t/train_valley.md) | 4.44 | 
-| 573 | [Hammerting](games/h/hammerting.md) | 4.44 | 
+| 574 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 574 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 574 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 574 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 574 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.44 | 
+| 574 | [Train Valley](games/t/train_valley.md) | 4.44 | 
+| 574 | [Hammerting](games/h/hammerting.md) | 4.44 | 
 | 581 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 581 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 581 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
