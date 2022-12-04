@@ -169,21 +169,21 @@
 | 162 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 162 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
 | 162 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.72 | 
+| 162 | [Slipways](games/s/slipways.md) | 4.72 | 
 | 162 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
 | 162 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
-| 172 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 172 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 172 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
-| 172 | [Timberborn](games/t/timberborn.md) | 4.71 | 
-| 172 | [The Witness](games/t/the_witness.md) | 4.71 | 
-| 172 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
-| 172 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
-| 172 | [Townscaper](games/t/townscaper.md) | 4.71 | 
-| 172 | [Slipways](games/s/slipways.md) | 4.71 | 
-| 172 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
-| 172 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
-| 172 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
-| 172 | [King of Retail](games/k/king_of_retail.md) | 4.71 | 
+| 173 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 173 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 173 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
+| 173 | [Timberborn](games/t/timberborn.md) | 4.71 | 
+| 173 | [The Witness](games/t/the_witness.md) | 4.71 | 
+| 173 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
+| 173 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
+| 173 | [Townscaper](games/t/townscaper.md) | 4.71 | 
+| 173 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
+| 173 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
+| 173 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 173 | [King of Retail](games/k/king_of_retail.md) | 4.71 | 
 | 185 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 185 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 185 | [For The King](games/f/for_the_king.md) | 4.70 | 
@@ -457,7 +457,6 @@
 | 452 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 452 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 
 | 452 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 452 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 452 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.53 | 
 | 452 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 452 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
@@ -466,24 +465,25 @@
 | 452 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 452 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 452 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.53 | 
-| 467 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 467 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 467 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 467 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
-| 467 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 467 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
-| 467 | [RUINER](games/r/ruiner.md) | 4.52 | 
-| 467 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
-| 467 | [The Tenants](games/t/the_tenants.md) | 4.52 | 
-| 467 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 467 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 467 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
-| 467 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 467 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
-| 467 | [Aztez](games/a/aztez.md) | 4.52 | 
-| 467 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
-| 467 | [GigaBash](games/g/gigabash.md) | 4.52 | 
-| 467 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 466 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 466 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 466 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 466 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
+| 466 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
+| 466 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 466 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
+| 466 | [RUINER](games/r/ruiner.md) | 4.52 | 
+| 466 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
+| 466 | [The Tenants](games/t/the_tenants.md) | 4.52 | 
+| 466 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 466 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 466 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
+| 466 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 466 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
+| 466 | [Aztez](games/a/aztez.md) | 4.52 | 
+| 466 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
+| 466 | [GigaBash](games/g/gigabash.md) | 4.52 | 
+| 466 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 485 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 485 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 485 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
@@ -586,22 +586,22 @@
 | 582 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
 | 582 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 582 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
-| 582 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
-| 588 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 588 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 588 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 588 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 588 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 588 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 588 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
-| 588 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
-| 588 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
-| 588 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 
-| 588 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.42 | 
-| 588 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
-| 588 | [Anno 2070](games/a/anno_2070.md) | 4.42 | 
-| 588 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 588 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
+| 587 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 587 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 587 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 587 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 587 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 587 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 587 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
+| 587 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
+| 587 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
+| 587 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 
+| 587 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.42 | 
+| 587 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 
+| 587 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
+| 587 | [Anno 2070](games/a/anno_2070.md) | 4.42 | 
+| 587 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 587 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
 | 603 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 603 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 603 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 

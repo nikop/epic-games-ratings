@@ -583,7 +583,7 @@
 | 581 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 582 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 583 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 584 | [Slipways](games/s/slipways.md) | 4.71 | 
+| 584 | [Slipways](games/s/slipways.md) | 4.72 | 
 | 585 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
 | 586 | [SMITE](games/s/smite.md) | 4.45 | 
 | 587 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
@@ -729,7 +729,7 @@
 | 727 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 728 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.31 | 
 | 729 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
-| 730 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
+| 730 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
 | 731 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 732 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 733 | [Torchlight](games/t/torchlight.md) | 4.37 | 
@@ -784,7 +784,7 @@
 | 782 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 783 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 784 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 785 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
+| 785 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 
 | 786 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
 | 787 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.57 | 
 | 788 | [Warpips](games/w/warpips.md) | 4.56 | 
