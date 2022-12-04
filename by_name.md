@@ -177,7 +177,7 @@
 | 175 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 176 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 177 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
-| 178 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 178 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 179 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
 | 180 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 181 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -488,7 +488,7 @@
 | 486 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 487 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
 | 488 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
-| 489 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 489 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
 | 490 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 491 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 492 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
@@ -531,7 +531,7 @@
 | 529 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 530 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 531 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
-| 532 | [Riverbond](games/r/riverbond.md) | 4.47 | 
+| 532 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 533 | [Road 96](games/r/road_96.md) | 4.60 | 
 | 534 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 535 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
