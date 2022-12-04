@@ -250,7 +250,7 @@
 | 248 | [Flatout](games/f/flatout.md) | 4.05 | 
 | 249 | [Flatout 2](games/f/flatout_2.md) | 4.92 | 
 | 250 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
+| 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
 | 252 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 253 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 254 | [Fort Triumph](games/f/fort_triumph.md) | 4.09 | 
@@ -497,7 +497,7 @@
 | 495 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 496 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
 | 497 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 498 | [Predecessor](games/p/predecessor.md) | 4.18 | 
+| 498 | [Predecessor](games/p/predecessor.md) | 4.24 | 
 | 499 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 500 | [Prey](games/p/prey.md) | 4.61 | 
 | 501 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -694,7 +694,7 @@
 | 692 | [The Red Lantern](games/t/the_red_lantern.md) | 4.67 | 
 | 693 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.74 | 
 | 694 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
-| 695 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 695 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.26 | 
 | 696 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 697 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 698 | [The Surge](games/t/the_surge.md) | 4.52 | 
@@ -717,7 +717,7 @@
 | 715 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 716 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 717 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
-| 718 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 
+| 718 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 719 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 720 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.60 | 
 | 721 | [Timberborn](games/t/timberborn.md) | 4.71 | 
