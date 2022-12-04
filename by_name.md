@@ -140,7 +140,7 @@
 | 138 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 139 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 140 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 141 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 141 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 142 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 143 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
 | 144 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
@@ -250,7 +250,7 @@
 | 248 | [Flatout](games/f/flatout.md) | 4.05 | 
 | 249 | [Flatout 2](games/f/flatout_2.md) | 4.92 | 
 | 250 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
+| 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
 | 252 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 253 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 254 | [Fort Triumph](games/f/fort_triumph.md) | 4.06 | 
@@ -293,8 +293,8 @@
 | 291 | [Hades](games/h/hades.md) | 4.92 | 
 | 292 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 293 | [Hammerting](games/h/hammerting.md) | 4.44 | 
-| 294 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 295 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
+| 294 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 295 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.70 | 
 | 296 | [Haven](games/h/haven.md) | 4.77 | 
 | 297 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 298 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
@@ -467,7 +467,7 @@
 | 465 | [Outlast 2](games/o/outlast_2.md) | 4.70 | 
 | 466 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 467 | [Outward](games/o/outward.md) | 4.55 | 
-| 468 | [Overcooked](games/o/overcooked.md) | 4.68 | 
+| 468 | [Overcooked](games/o/overcooked.md) | 4.67 | 
 | 469 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 470 | [OVERPASS™](games/o/overpass™.md) | 4.17 | 
 | 471 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
@@ -503,7 +503,7 @@
 | 501 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 502 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.39 | 
 | 503 | [Quake](games/q/quake.md) | 4.81 | 
-| 504 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 504 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 505 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 506 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 507 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
@@ -625,7 +625,7 @@
 | 623 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 624 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
 | 625 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
-| 626 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.70 | 
+| 626 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
 | 627 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
 | 628 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
 | 629 | [Submerged](games/s/submerged.md) | 4.16 | 
@@ -819,6 +819,6 @@
 | 817 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
 | 818 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 819 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
-| 820 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.70 | 
+| 820 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
 | 821 | [ZOMBI](games/z/zombi.md) | 4.35 | 
 | 822 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
