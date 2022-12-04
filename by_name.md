@@ -2,7 +2,7 @@
 | --- | ---- | ------ | 
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
 | 2 | [20XX](games/2/20xx.md) | 4.60 | 
-| 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.34 | 
+| 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.32 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
@@ -49,7 +49,7 @@
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.55 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
-| 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 
+| 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
@@ -59,7 +59,7 @@
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
+| 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.55 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.52 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
@@ -210,7 +210,7 @@
 | 208 | [Encased](games/e/encased.md) | 4.37 | 
 | 209 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 210 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 211 | [EVE Online](games/e/eve_online.md) | 4.27 | 
+| 211 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 212 | [Everything](games/e/everything.md) | 4.63 | 
 | 213 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 214 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
@@ -288,7 +288,7 @@
 | 286 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 287 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 288 | [GRIME](games/g/grime.md) | 4.60 | 
-| 289 | [Grindstone](games/g/grindstone.md) | 4.83 | 
+| 289 | [Grindstone](games/g/grindstone.md) | 4.82 | 
 | 290 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 291 | [Hades](games/h/hades.md) | 4.92 | 
 | 292 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
@@ -398,7 +398,7 @@
 | 396 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 397 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 398 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 399 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 3.98 | 
+| 399 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.28 | 
 | 400 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 401 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 402 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
@@ -435,7 +435,7 @@
 | 433 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 434 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 435 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.60 | 
-| 436 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.04 | 
+| 436 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.05 | 
 | 437 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 438 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 439 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -558,18 +558,18 @@
 | 556 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 557 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 558 | [Scorn](games/s/scorn.md) | 4.48 | 
-| 559 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.73 | 
-| 560 | [Scrapnaut](games/s/scrapnaut.md) | 4.36 | 
+| 559 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
+| 560 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 561 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 562 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 563 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 564 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.74 | 
+| 564 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
 | 565 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 566 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
 | 567 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 568 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 569 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.75 | 
-| 570 | [shapez](games/s/shapez.md) | 4.73 | 
+| 570 | [shapez](games/s/shapez.md) | 4.74 | 
 | 571 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 572 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 
 | 573 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
@@ -661,7 +661,7 @@
 | 659 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.63 | 
 | 660 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 661 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 662 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.06 | 
+| 662 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.07 | 
 | 663 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 664 | [The Colonists](games/t/the_colonists.md) | 4.55 | 
 | 665 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
@@ -806,7 +806,7 @@
 | 804 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 805 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.60 | 
 | 806 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 807 | [World of Goo](games/w/world_of_goo.md) | 4.68 | 
+| 807 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 
 | 808 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 809 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 810 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
