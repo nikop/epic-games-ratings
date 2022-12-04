@@ -371,7 +371,7 @@
 | 369 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
 | 370 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 371 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
-| 372 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 372 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 
 | 373 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 374 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
 | 375 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
@@ -488,7 +488,7 @@
 | 486 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 487 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
 | 488 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
-| 489 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 489 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 490 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 491 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 492 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
@@ -614,7 +614,7 @@
 | 612 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
 | 613 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
 | 614 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 615 | [Starsand](games/s/starsand.md) | 4.22 | 
+| 615 | [Starsand](games/s/starsand.md) | 4.20 | 
 | 616 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 617 | [Startup Panic](games/s/startup_panic.md) | 4.37 | 
 | 618 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
@@ -649,7 +649,7 @@
 | 647 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 648 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.68 | 
 | 649 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 650 | [Tacoma](games/t/tacoma.md) | 4.41 | 
+| 650 | [Tacoma](games/t/tacoma.md) | 4.38 | 
 | 651 | [Tails of Iron](games/t/tails_of_iron.md) | 4.76 | 
 | 652 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 653 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
@@ -661,7 +661,7 @@
 | 659 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.63 | 
 | 660 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 661 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 662 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.07 | 
+| 662 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.08 | 
 | 663 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 664 | [The Colonists](games/t/the_colonists.md) | 4.55 | 
 | 665 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
@@ -713,7 +713,7 @@
 | 711 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 
 | 712 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 713 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 714 | [The World Next Door](games/t/the_world_next_door.md) | 4.11 | 
+| 714 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 715 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 716 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 717 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
@@ -783,7 +783,7 @@
 | 781 | [Warface](games/w/warface.md) | 3.93 | 
 | 782 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 783 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 784 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
+| 784 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 785 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.43 | 
 | 786 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
 | 787 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.57 | 
@@ -793,7 +793,7 @@
 | 791 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
 | 792 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.29 | 
 | 793 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 794 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
+| 794 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 795 | [Weird West](games/w/weird_west.md) | 4.46 | 
 | 796 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
 | 797 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
