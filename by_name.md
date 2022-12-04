@@ -238,7 +238,7 @@
 | 236 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 237 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 238 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 239 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.62 | 
+| 239 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.63 | 
 | 240 | [Fez](games/f/fez.md) | 4.72 | 
 | 241 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
 | 242 | [Figment](games/f/figment.md) | 4.46 | 
@@ -599,7 +599,7 @@
 | 597 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
 | 598 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 599 | [Space Punks](games/s/space_punks.md) | 4.18 | 
-| 600 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
+| 600 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 601 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 602 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 603 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
@@ -609,7 +609,7 @@
 | 607 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 608 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 609 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
-| 610 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.53 | 
+| 610 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.55 | 
 | 611 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
 | 612 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
 | 613 | [Star Stable Online](games/s/star_stable_online.md) | 4.38 | 
@@ -620,7 +620,7 @@
 | 618 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 619 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 620 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
-| 621 | [STG Football](games/s/stg_football.md) | 4.55 | 
+| 621 | [STG Football](games/s/stg_football.md) | 4.56 | 
 | 622 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 623 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 624 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
@@ -661,7 +661,7 @@
 | 659 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 660 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 661 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 662 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.07 | 
+| 662 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.06 | 
 | 663 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 664 | [The Colonists](games/t/the_colonists.md) | 4.55 | 
 | 665 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
