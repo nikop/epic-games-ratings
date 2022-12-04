@@ -250,7 +250,7 @@
 | 248 | [Flatout](games/f/flatout.md) | 4.05 | 
 | 249 | [Flatout 2](games/f/flatout_2.md) | 4.92 | 
 | 250 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
+| 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 252 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 253 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 254 | [Fort Triumph](games/f/fort_triumph.md) | 4.06 | 
@@ -477,7 +477,7 @@
 | 475 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 476 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
 | 477 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 478 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 478 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 479 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.25 | 
 | 480 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 481 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
@@ -537,7 +537,7 @@
 | 535 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 536 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 537 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 538 | [Rogue Lords](games/r/rogue_lords.md) | 4.67 | 
+| 538 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
 | 539 | [Roguebook](games/r/roguebook.md) | 4.62 | 
 | 540 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 541 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
@@ -743,7 +743,7 @@
 | 741 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 742 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 743 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 744 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 
+| 744 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.01 | 
 | 745 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 746 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
 | 747 | [Train Valley](games/t/train_valley.md) | 4.44 | 
@@ -809,7 +809,7 @@
 | 807 | [World of Goo](games/w/world_of_goo.md) | 4.68 | 
 | 808 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 809 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 810 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.52 | 
+| 810 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 811 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 812 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
 | 813 | [WRC Generations](games/w/wrc_generations.md) | 4.49 | 
