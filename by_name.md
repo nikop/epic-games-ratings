@@ -54,7 +54,7 @@
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.39 | 
-| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.45 | 
+| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.47 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.34 | 
@@ -250,7 +250,7 @@
 | 248 | [Flatout](games/f/flatout.md) | 4.05 | 
 | 249 | [Flatout 2](games/f/flatout_2.md) | 4.92 | 
 | 250 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
+| 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 252 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 253 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 254 | [Fort Triumph](games/f/fort_triumph.md) | 4.06 | 
@@ -278,7 +278,7 @@
 | 276 | [God's Trigger](games/g/god's_trigger.md) | 4.13 | 
 | 277 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 278 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
-| 279 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
+| 279 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.93 | 
 | 280 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 281 | [Gone Home](games/g/gone_home.md) | 4.17 | 
 | 282 | [Good Company](games/g/good_company.md) | 4.45 | 
@@ -383,7 +383,7 @@
 | 381 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 382 | [Limbo](games/l/limbo.md) | 4.64 | 
 | 383 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
-| 384 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 
+| 384 | [Little Inferno](games/l/little_inferno.md) | 4.58 | 
 | 385 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 386 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 387 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
@@ -447,7 +447,7 @@
 | 445 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 446 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
 | 447 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
-| 448 | [Obduction](games/o/obduction.md) | 4.09 | 
+| 448 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 449 | [Observation](games/o/observation.md) | 4.56 | 
 | 450 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
 | 451 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
@@ -497,7 +497,7 @@
 | 495 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 496 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
 | 497 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 498 | [Predecessor](games/p/predecessor.md) | 4.24 | 
+| 498 | [Predecessor](games/p/predecessor.md) | 4.21 | 
 | 499 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 500 | [Prey](games/p/prey.md) | 4.61 | 
 | 501 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -590,7 +590,7 @@
 | 588 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
 | 589 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 590 | [SOMA](games/s/soma.md) | 4.64 | 
-| 591 | [Somerville](games/s/somerville.md) | 4.24 | 
+| 591 | [Somerville](games/s/somerville.md) | 4.23 | 
 | 592 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 593 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
 | 594 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
@@ -647,7 +647,7 @@
 | 645 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 646 | [Suzerain](games/s/suzerain.md) | 4.73 | 
 | 647 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
-| 648 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.68 | 
+| 648 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 649 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 650 | [Tacoma](games/t/tacoma.md) | 4.38 | 
 | 651 | [Tails of Iron](games/t/tails_of_iron.md) | 4.76 | 
@@ -661,7 +661,7 @@
 | 659 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.63 | 
 | 660 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 661 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 662 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.04 | 
+| 662 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.06 | 
 | 663 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 664 | [The Colonists](games/t/the_colonists.md) | 4.55 | 
 | 665 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
@@ -812,7 +812,7 @@
 | 810 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 811 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 812 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
-| 813 | [WRC Generations](games/w/wrc_generations.md) | 4.49 | 
+| 813 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 
 | 814 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 815 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 816 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
