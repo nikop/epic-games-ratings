@@ -466,6 +466,10 @@
     {
       "Text": "This game has Challenging Combat",
       "Count": 21
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 20
     }
   ]
 }
