@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.54 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
@@ -113,9 +113,9 @@
 | 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 
 | 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 113 | [Chernobylite](games/c/chernobylite.md) | 4.12 | 
-| 114 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
+| 114 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
 | 115 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 116 | [Chorus](games/c/chorus.md) | 4.45 | 
+| 116 | [Chorus](games/c/chorus.md) | 4.46 | 
 | 117 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.00 | 
 | 118 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
 | 119 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
@@ -298,7 +298,7 @@
 | 296 | [Haven](games/h/haven.md) | 4.77 | 
 | 297 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 298 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 299 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 
+| 299 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 300 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 301 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
 | 302 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
@@ -334,7 +334,7 @@
 | 332 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 333 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 334 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 335 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 335 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 336 | [Ironcast](games/i/ironcast.md) | 3.90 | 
 | 337 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 338 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
@@ -661,7 +661,7 @@
 | 659 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.63 | 
 | 660 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 661 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 662 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.06 | 
+| 662 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.07 | 
 | 663 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 664 | [The Colonists](games/t/the_colonists.md) | 4.55 | 
 | 665 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
@@ -769,7 +769,7 @@
 | 767 | [UnMetal](games/u/unmetal.md) | 4.50 | 
 | 768 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
 | 769 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 770 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 
+| 770 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 771 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 772 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
 | 773 | [VALORANT](games/v/valorant.md) | 4.55 | 
@@ -817,7 +817,7 @@
 | 815 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 
 | 816 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 817 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
-| 818 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
+| 818 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 819 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
 | 820 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.70 | 
 | 821 | [ZOMBI](games/z/zombi.md) | 4.35 | 

@@ -1,14 +1,19 @@
 {
   "ID": "72688fa8862442c8867c8b22bd8957b6",
   "Name": "Child of Light: Ultimate Edition",
-  "Rating": 4.8,
+  "Rating": 4.81,
   "FirstSeen": "2022-07-22T20:27:36.5547321+00:00",
   "FirstSeenRating": "2022-11-17T15:58:01.6088436+00:00",
-  "LastChanged": "2022-11-17T15:58:01.6088441+00:00",
+  "LastChanged": "2022-12-04T11:57:56.6631633+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-17T15:58:01.6088442+00:00",
       "Rating": 4.8,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-04T11:57:56.6631635+00:00",
+      "Rating": 4.81,
       "NumberOfRatings": null
     }
   ],
