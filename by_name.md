@@ -12,7 +12,7 @@
 | 10 | [ABZU](games/a/abzu.md) | 4.62 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 13 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
@@ -52,7 +52,7 @@
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 
+| 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.39 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.45 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
@@ -93,7 +93,7 @@
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
 | 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.54 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
@@ -336,7 +336,7 @@
 | 334 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 335 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 336 | [Ironcast](games/i/ironcast.md) | 3.91 | 
-| 337 | [Isonzo](games/i/isonzo.md) | 4.57 | 
+| 337 | [Isonzo](games/i/isonzo.md) | 4.58 | 
 | 338 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 339 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 340 | [Journey](games/j/journey.md) | 4.79 | 
@@ -510,7 +510,7 @@
 | 508 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 509 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
 | 510 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
-| 511 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
+| 511 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 512 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 513 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 514 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
@@ -523,7 +523,7 @@
 | 521 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 522 | [Revita](games/r/revita.md) | 4.74 | 
 | 523 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 524 | [RiME](games/r/rime.md) | 4.60 | 
+| 524 | [RiME](games/r/rime.md) | 4.61 | 
 | 525 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 526 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 527 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -704,7 +704,7 @@
 | 702 | [The Tenants](games/t/the_tenants.md) | 4.52 | 
 | 703 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 704 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 4.00 | 
-| 705 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 705 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
 | 706 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 707 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.77 | 
 | 708 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
@@ -791,7 +791,7 @@
 | 789 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.58 | 
 | 790 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 791 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
-| 792 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.29 | 
+| 792 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
 | 793 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 794 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 795 | [Weird West](games/w/weird_west.md) | 4.46 | 

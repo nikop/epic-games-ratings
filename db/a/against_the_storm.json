@@ -1,10 +1,10 @@
 {
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
-  "Rating": 4.81,
+  "Rating": 4.82,
   "NumberOfRatings": 1845,
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
-  "LastChanged": "2022-11-01T23:02:42.9580107+00:00",
+  "LastChanged": "2022-12-04T15:57:39.2945661+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:52.7561903+00:00",
@@ -1810,6 +1810,11 @@
       "Time": "2022-11-01T23:02:42.9580109+00:00",
       "Rating": 4.81,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-04T15:57:39.2945662+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -1851,7 +1856,7 @@
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 265
+      "Count": 267
     }
   ]
 }
