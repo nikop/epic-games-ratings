@@ -149,7 +149,7 @@
 | 147 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 148 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 149 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
-| 150 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
+| 150 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
 | 151 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
 | 152 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 153 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
@@ -206,7 +206,7 @@
 | 204 | [ELEX](games/e/elex.md) | 4.39 | 
 | 205 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 206 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 207 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 207 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
 | 208 | [Encased](games/e/encased.md) | 4.37 | 
 | 209 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 210 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
@@ -612,7 +612,7 @@
 | 610 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.53 | 
 | 611 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
 | 612 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
-| 613 | [Star Stable Online](games/s/star_stable_online.md) | 4.37 | 
+| 613 | [Star Stable Online](games/s/star_stable_online.md) | 4.38 | 
 | 614 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 615 | [Starsand](games/s/starsand.md) | 4.20 | 
 | 616 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
@@ -747,7 +747,7 @@
 | 745 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 746 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
 | 747 | [Train Valley](games/t/train_valley.md) | 4.44 | 
-| 748 | [Train Valley 2](games/t/train_valley_2.md) | 4.07 | 
+| 748 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
 | 749 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 750 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 751 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
@@ -775,7 +775,7 @@
 | 773 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 774 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
 | 775 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 776 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 776 | [Verdun](games/v/verdun.md) | 4.53 | 
 | 777 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 778 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 779 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
