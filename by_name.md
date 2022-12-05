@@ -112,7 +112,7 @@
 | 110 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 
 | 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 113 | [Chernobylite](games/c/chernobylite.md) | 4.12 | 
+| 113 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
 | 114 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
 | 115 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 116 | [Chorus](games/c/chorus.md) | 4.46 | 
@@ -164,7 +164,7 @@
 | 162 | [Days Gone](games/d/days_gone.md) | 4.69 | 
 | 163 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 164 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 165 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
+| 165 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 166 | [Death Coming](games/d/death_coming.md) | 4.47 | 
 | 167 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 168 | [Death's Door](games/d/death's_door.md) | 4.65 | 
@@ -473,7 +473,7 @@
 | 471 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
 | 472 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 473 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 474 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.56 | 
+| 474 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.57 | 
 | 475 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 476 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
 | 477 | [Parkitect](games/p/parkitect.md) | 4.27 | 
@@ -780,13 +780,13 @@
 | 778 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 779 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
 | 780 | [War Mongrels](games/w/war_mongrels.md) | 4.27 | 
-| 781 | [Warface](games/w/warface.md) | 3.93 | 
+| 781 | [Warface](games/w/warface.md) | 3.92 | 
 | 782 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 783 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 784 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 785 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 
 | 786 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
-| 787 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.57 | 
+| 787 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 788 | [Warpips](games/w/warpips.md) | 4.56 | 
 | 789 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 790 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 

@@ -1,10 +1,10 @@
 {
   "ID": "1368a7f14c3344bbaededbae528fafed",
   "Name": "Dead Cells",
-  "Rating": 4.88,
+  "Rating": 4.89,
   "NumberOfRatings": 1319,
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2022-11-28T19:57:08.1723924+00:00",
+  "LastChanged": "2022-12-05T13:12:32.5486049+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:26.6981295+00:00",
@@ -1309,6 +1309,11 @@
     {
       "Time": "2022-11-28T19:57:08.1723925+00:00",
       "Rating": 4.88,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-05T13:12:32.5486051+00:00",
+      "Rating": 4.89,
       "NumberOfRatings": null
     }
   ],
