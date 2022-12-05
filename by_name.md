@@ -223,7 +223,7 @@
 | 221 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 222 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
 | 223 | [Family Man](games/f/family_man.md) | 4.17 | 
-| 224 | [Far Cry](games/f/far_cry.md) | 4.45 | 
+| 224 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 225 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
 | 226 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 
 | 227 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
@@ -305,7 +305,7 @@
 | 303 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 304 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 305 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 306 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 306 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 307 | [Hob](games/h/hob.md) | 4.57 | 
 | 308 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 309 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
@@ -380,7 +380,7 @@
 | 378 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 379 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 380 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 381 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
+| 381 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 
 | 382 | [Limbo](games/l/limbo.md) | 4.64 | 
 | 383 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
 | 384 | [Little Inferno](games/l/little_inferno.md) | 4.58 | 
@@ -758,7 +758,7 @@
 | 756 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
 | 757 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.22 | 
 | 758 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 759 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 759 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
 | 760 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 761 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 762 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
