@@ -71,7 +71,7 @@
 | 69 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 70 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 71 | [Barony](games/b/barony.md) | 4.69 | 
-| 72 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.32 | 
+| 72 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
 | 73 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 74 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 75 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
@@ -187,14 +187,14 @@
 | 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 186 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.75 | 
+| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.76 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 190 | [Divine Knockout](games/d/divine_knockout.md) | 4.61 | 
 | 191 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 192 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 193 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
 | 194 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 195 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
+| 195 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 196 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 197 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
 | 198 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
@@ -211,7 +211,7 @@
 | 209 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 210 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 211 | [EVE Online](games/e/eve_online.md) | 4.26 | 
-| 212 | [Everything](games/e/everything.md) | 4.63 | 
+| 212 | [Everything](games/e/everything.md) | 4.64 | 
 | 213 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 214 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 215 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
@@ -336,7 +336,7 @@
 | 334 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 335 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
 | 336 | [Ironcast](games/i/ironcast.md) | 3.91 | 
-| 337 | [Isonzo](games/i/isonzo.md) | 4.58 | 
+| 337 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 338 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 339 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 340 | [Journey](games/j/journey.md) | 4.79 | 
@@ -356,7 +356,7 @@
 | 354 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
 | 355 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.84 | 
 | 356 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.70 | 
-| 357 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.33 | 
+| 357 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
 | 358 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.72 | 
 | 359 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 360 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
@@ -458,7 +458,7 @@
 | 456 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 457 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
 | 458 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
-| 459 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
+| 459 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.79 | 
 | 460 | [Othercide](games/o/othercide.md) | 4.37 | 
 | 461 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 462 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
@@ -502,7 +502,7 @@
 | 500 | [Prey](games/p/prey.md) | 4.61 | 
 | 501 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 502 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.39 | 
-| 503 | [Quake](games/q/quake.md) | 4.80 | 
+| 503 | [Quake](games/q/quake.md) | 4.79 | 
 | 504 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 505 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 506 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
@@ -551,7 +551,7 @@
 | 549 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 550 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
 | 551 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 552 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
+| 552 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 553 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 554 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 555 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
@@ -675,7 +675,7 @@
 | 673 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 674 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
 | 675 | [The Fall](games/t/the_fall.md) | 4.28 | 
-| 676 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
+| 676 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 
 | 677 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.73 | 
 | 678 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
 | 679 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 
@@ -778,7 +778,7 @@
 | 776 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 777 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 778 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
-| 779 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
+| 779 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 780 | [War Mongrels](games/w/war_mongrels.md) | 4.27 | 
 | 781 | [Warface](games/w/warface.md) | 3.93 | 
 | 782 | [Warframe](games/w/warframe.md) | 4.61 | 
@@ -814,7 +814,7 @@
 | 812 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
 | 813 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 
 | 814 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 815 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
+| 815 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 816 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 817 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
 | 818 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 

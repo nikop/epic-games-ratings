@@ -1,11 +1,11 @@
 {
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
-  "Rating": 4.58,
+  "Rating": 4.57,
   "NumberOfRatings": 98,
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
-  "LastChanged": "2022-12-04T15:57:03.9962906+00:00",
+  "LastChanged": "2022-12-05T19:57:11.8124708+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-15T19:30:41.9786444+00:00",
@@ -340,6 +340,11 @@
     {
       "Time": "2022-12-04T15:57:03.9962907+00:00",
       "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-05T19:57:11.812471+00:00",
+      "Rating": 4.57,
       "NumberOfRatings": null
     }
   ],
