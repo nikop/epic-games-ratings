@@ -318,7 +318,7 @@
 | 316 | [Hue](games/h/hue.md) | 4.56 | 
 | 317 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 318 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
-| 319 | [Huntdown](games/h/huntdown.md) | 4.83 | 
+| 319 | [Huntdown](games/h/huntdown.md) | 4.84 | 
 | 320 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
 | 321 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.62 | 
 | 322 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.64 | 
@@ -334,7 +334,7 @@
 | 332 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 333 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 334 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 335 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 335 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
 | 336 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 337 | [Isonzo](games/i/isonzo.md) | 4.58 | 
 | 338 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
@@ -435,7 +435,7 @@
 | 433 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 434 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 435 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.60 | 
-| 436 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.05 | 
+| 436 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.06 | 
 | 437 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 438 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 439 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -563,7 +563,7 @@
 | 561 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 562 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 563 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 564 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
+| 564 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.74 | 
 | 565 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 566 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
 | 567 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
@@ -604,7 +604,7 @@
 | 602 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 603 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
 | 604 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.39 | 
-| 605 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
+| 605 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.79 | 
 | 606 | [SpiderHeck](games/s/spiderheck.md) | 4.73 | 
 | 607 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 608 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
@@ -736,7 +736,7 @@
 | 734 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 735 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 736 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
-| 737 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
+| 737 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.64 | 
 | 738 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 739 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
 | 740 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
@@ -794,7 +794,7 @@
 | 792 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.29 | 
 | 793 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 794 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 795 | [Weird West](games/w/weird_west.md) | 4.46 | 
+| 795 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 796 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
 | 797 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
 | 798 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
