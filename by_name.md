@@ -53,7 +53,7 @@
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
-| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.39 | 
+| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.40 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.47 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
@@ -298,7 +298,7 @@
 | 296 | [Haven](games/h/haven.md) | 4.78 | 
 | 297 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 298 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 299 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 299 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 
 | 300 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 301 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
 | 302 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
@@ -307,7 +307,7 @@
 | 305 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 306 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 307 | [Hob](games/h/hob.md) | 4.57 | 
-| 308 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
+| 308 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.45 | 
 | 309 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 310 | [Horace](games/h/horace.md) | 4.54 | 
 | 311 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -497,7 +497,7 @@
 | 495 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 496 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
 | 497 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 498 | [Predecessor](games/p/predecessor.md) | 4.23 | 
+| 498 | [Predecessor](games/p/predecessor.md) | 4.24 | 
 | 499 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 500 | [Prey](games/p/prey.md) | 4.61 | 
 | 501 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
