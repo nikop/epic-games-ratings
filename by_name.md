@@ -75,7 +75,7 @@
 | 73 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 74 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 75 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
+| 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
 | 77 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
 | 78 | [Before We Leave](games/b/before_we_leave.md) | 4.62 | 
 | 79 | [Beholder 3](games/b/beholder_3.md) | 4.47 | 
@@ -221,7 +221,7 @@
 | 219 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 220 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.83 | 
 | 221 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 222 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
+| 222 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.73 | 
 | 223 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 224 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 225 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
@@ -410,7 +410,7 @@
 | 408 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 409 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.44 | 
 | 410 | [Minit](games/m/minit.md) | 4.53 | 
-| 411 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
+| 411 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.86 | 
 | 412 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 413 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 414 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
@@ -502,7 +502,7 @@
 | 500 | [Prey](games/p/prey.md) | 4.61 | 
 | 501 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 502 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.39 | 
-| 503 | [Quake](games/q/quake.md) | 4.79 | 
+| 503 | [Quake](games/q/quake.md) | 4.80 | 
 | 504 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 505 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 506 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
@@ -661,7 +661,7 @@
 | 659 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 660 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 661 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 662 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.08 | 
+| 662 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.09 | 
 | 663 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 664 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 665 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
@@ -729,7 +729,7 @@
 | 727 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 728 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.31 | 
 | 729 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
-| 730 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
+| 730 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 731 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 732 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 733 | [Torchlight](games/t/torchlight.md) | 4.37 | 
@@ -748,7 +748,7 @@
 | 746 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
 | 747 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 748 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
-| 749 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 749 | [Transistor](games/t/transistor.md) | 4.63 | 
 | 750 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 751 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 752 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
@@ -761,7 +761,7 @@
 | 759 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
 | 760 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 761 | [TUNIC](games/t/tunic.md) | 4.87 | 
-| 762 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
+| 762 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 763 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 764 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
 | 765 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
@@ -780,7 +780,7 @@
 | 778 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 779 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
 | 780 | [War Mongrels](games/w/war_mongrels.md) | 4.27 | 
-| 781 | [Warface](games/w/warface.md) | 3.92 | 
+| 781 | [Warface](games/w/warface.md) | 3.93 | 
 | 782 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 783 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 784 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
@@ -804,7 +804,7 @@
 | 802 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 803 | [Windbound](games/w/windbound.md) | 4.19 | 
 | 804 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 805 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.60 | 
+| 805 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 
 | 806 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 807 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 
 | 808 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
