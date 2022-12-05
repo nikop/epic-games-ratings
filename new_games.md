@@ -11,4 +11,3 @@
 | 9 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.47 | 
 | 10 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 11 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
-| 12 | [Dishonored 2](games/d/dishonored_2.md) | 4.75 | 

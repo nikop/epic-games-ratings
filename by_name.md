@@ -239,7 +239,7 @@
 | 237 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 238 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 239 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.63 | 
-| 240 | [Fez](games/f/fez.md) | 4.72 | 
+| 240 | [Fez](games/f/fez.md) | 4.70 | 
 | 241 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
 | 242 | [Figment](games/f/figment.md) | 4.46 | 
 | 243 | [Filament](games/f/filament.md) | 4.32 | 
@@ -307,7 +307,7 @@
 | 305 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 306 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 307 | [Hob](games/h/hob.md) | 4.57 | 
-| 308 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.45 | 
+| 308 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 309 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 310 | [Horace](games/h/horace.md) | 4.54 | 
 | 311 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
@@ -377,7 +377,7 @@
 | 375 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 376 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 377 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
-| 378 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 378 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
 | 379 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 380 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 381 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 
@@ -429,7 +429,7 @@
 | 427 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
 | 428 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
 | 429 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
-| 430 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
+| 430 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
 | 431 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 432 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 433 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
@@ -502,7 +502,7 @@
 | 500 | [Prey](games/p/prey.md) | 4.61 | 
 | 501 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 502 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.39 | 
-| 503 | [Quake](games/q/quake.md) | 4.81 | 
+| 503 | [Quake](games/q/quake.md) | 4.79 | 
 | 504 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 505 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 506 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
@@ -510,7 +510,7 @@
 | 508 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 509 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
 | 510 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
-| 511 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 511 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 512 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 513 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 514 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
@@ -579,7 +579,7 @@
 | 577 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 578 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 579 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
-| 580 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
+| 580 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
 | 581 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 582 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 583 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
@@ -718,7 +718,7 @@
 | 716 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 717 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 718 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
-| 719 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 719 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 720 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.60 | 
 | 721 | [Timberborn](games/t/timberborn.md) | 4.71 | 
 | 722 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
