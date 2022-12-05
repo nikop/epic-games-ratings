@@ -189,7 +189,7 @@
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.76 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 190 | [Divine Knockout](games/d/divine_knockout.md) | 4.62 | 
+| 190 | [Divine Knockout](games/d/divine_knockout.md) | 4.61 | 
 | 191 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 192 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 193 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
@@ -442,7 +442,7 @@
 | 440 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 441 | [No Straight Roads](games/n/no_straight_roads.md) | 4.70 | 
 | 442 | [NORCO](games/n/norco.md) | 4.58 | 
-| 443 | [Northgard](games/n/northgard.md) | 4.73 | 
+| 443 | [Northgard](games/n/northgard.md) | 4.70 | 
 | 444 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
 | 445 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 446 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.68 | 
@@ -639,7 +639,7 @@
 | 637 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
 | 638 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
 | 639 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.67 | 
-| 640 | [Superliminal](games/s/superliminal.md) | 4.80 | 
+| 640 | [Superliminal](games/s/superliminal.md) | 4.81 | 
 | 641 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 642 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 643 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
