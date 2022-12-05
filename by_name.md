@@ -187,7 +187,7 @@
 | 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 186 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.76 | 
+| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.75 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 190 | [Divine Knockout](games/d/divine_knockout.md) | 4.61 | 
 | 191 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
@@ -503,7 +503,7 @@
 | 501 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 502 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.39 | 
 | 503 | [Quake](games/q/quake.md) | 4.81 | 
-| 504 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 504 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 505 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 506 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 507 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
@@ -671,7 +671,7 @@
 | 669 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 670 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 671 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
-| 672 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 672 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 673 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 674 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
 | 675 | [The Fall](games/t/the_fall.md) | 4.28 | 
