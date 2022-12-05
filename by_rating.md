@@ -6,11 +6,11 @@
 | 3 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 3 | [Flatout 2](games/f/flatout_2.md) | 4.92 | 
 | 6 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
-| 7 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 
-| 7 | [God of War](games/g/god_of_war.md) | 4.90 | 
-| 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 7 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
-| 7 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
+| 6 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
+| 8 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 
+| 8 | [God of War](games/g/god_of_war.md) | 4.90 | 
+| 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
+| 8 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
 | 12 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 12 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
@@ -605,17 +605,17 @@
 | 603 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 603 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 603 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
-| 603 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
 | 603 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 603 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 603 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 603 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 603 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 612 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
-| 612 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
-| 612 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
-| 612 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 612 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
+| 611 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 611 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
+| 611 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
+| 611 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
+| 611 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 611 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 617 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 617 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 617 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 

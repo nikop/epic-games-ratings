@@ -88,7 +88,7 @@
 | 86 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 87 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
-| 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
+| 89 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
@@ -592,7 +592,7 @@
 | 590 | [SOMA](games/s/soma.md) | 4.64 | 
 | 591 | [Somerville](games/s/somerville.md) | 4.23 | 
 | 592 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 593 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
+| 593 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
 | 594 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 595 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 596 | [Souldiers](games/s/souldiers.md) | 4.55 | 
