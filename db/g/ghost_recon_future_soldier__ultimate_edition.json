@@ -1,11 +1,11 @@
 {
   "ID": "047ee5c9350245588f043061fb0279ab",
   "Name": "Ghost Recon Future Soldier: Ultimate Edition",
-  "Rating": 4.58,
+  "Rating": 4.56,
   "NumberOfRatings": 23,
   "FirstSeen": "2022-07-22T20:29:47.3812032+00:00",
   "FirstSeenRating": "2022-09-10T00:02:01.006784+00:00",
-  "LastChanged": "2022-12-03T11:58:50.5365273+00:00",
+  "LastChanged": "2022-12-05T11:57:49.7531061+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-10T00:02:01.0067842+00:00",
@@ -145,6 +145,11 @@
     {
       "Time": "2022-12-03T11:58:50.5365274+00:00",
       "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-05T11:57:49.7531062+00:00",
+      "Rating": 4.56,
       "NumberOfRatings": null
     }
   ],

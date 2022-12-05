@@ -14,7 +14,7 @@
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
-| 15 | [Alan Wake](games/a/alan_wake.md) | 4.52 | 
+| 15 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
@@ -132,7 +132,7 @@
 | 130 | [Coromon](games/c/coromon.md) | 4.65 | 
 | 131 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.70 | 
 | 132 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 133 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
+| 133 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
 | 134 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
 | 135 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 136 | [Crayta](games/c/crayta.md) | 4.18 | 
@@ -199,7 +199,7 @@
 | 197 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
 | 198 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 199 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 200 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.28 | 
+| 200 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.29 | 
 | 201 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 202 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.78 | 
 | 203 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -265,7 +265,7 @@
 | 263 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.42 | 
 | 264 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 265 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 266 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 
+| 266 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
 | 267 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 268 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
 | 269 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
@@ -811,7 +811,7 @@
 | 809 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 810 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 811 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
-| 812 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.55 | 
+| 812 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
 | 813 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 
 | 814 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 815 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 
