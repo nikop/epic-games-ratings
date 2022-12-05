@@ -147,7 +147,6 @@
 | 145 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 145 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 145 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
-| 145 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 145 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 145 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 145 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
@@ -161,15 +160,16 @@
 | 145 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.73 | 
 | 145 | [SpiderHeck](games/s/spiderheck.md) | 4.73 | 
 | 145 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 162 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 162 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 162 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 162 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 162 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
-| 162 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.72 | 
-| 162 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 162 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
-| 162 | [Outlast](games/o/outlast.md) | 4.72 | 
+| 161 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 161 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 161 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 161 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 161 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 161 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
+| 161 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.72 | 
+| 161 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 161 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
+| 161 | [Outlast](games/o/outlast.md) | 4.72 | 
 | 171 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 171 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 171 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
@@ -324,6 +324,7 @@
 | 321 | [Prey](games/p/prey.md) | 4.61 | 
 | 321 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 321 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
+| 321 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 321 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 321 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 321 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
@@ -340,28 +341,27 @@
 | 321 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 321 | [Divine Knockout](games/d/divine_knockout.md) | 4.61 | 
 | 321 | [Darkwood](games/d/darkwood.md) | 4.61 | 
-| 341 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
-| 341 | [Control](games/c/control.md) | 4.60 | 
-| 341 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 341 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 341 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 341 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
-| 341 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 341 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
-| 341 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
-| 341 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
-| 341 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 341 | [20XX](games/2/20xx.md) | 4.60 | 
-| 341 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 341 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.60 | 
-| 341 | [Road 96](games/r/road_96.md) | 4.60 | 
-| 341 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
-| 341 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
-| 341 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 341 | [GRIME](games/g/grime.md) | 4.60 | 
-| 341 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.60 | 
-| 341 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 341 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.60 | 
+| 342 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
+| 342 | [Control](games/c/control.md) | 4.60 | 
+| 342 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 342 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 342 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 342 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
+| 342 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
+| 342 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
+| 342 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
+| 342 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 342 | [20XX](games/2/20xx.md) | 4.60 | 
+| 342 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 342 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.60 | 
+| 342 | [Road 96](games/r/road_96.md) | 4.60 | 
+| 342 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
+| 342 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
+| 342 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
+| 342 | [GRIME](games/g/grime.md) | 4.60 | 
+| 342 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.60 | 
+| 342 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
+| 342 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.60 | 
 | 363 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 363 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 363 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
@@ -784,20 +784,20 @@
 | 781 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
 | 781 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 781 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
-| 781 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.09 | 
-| 786 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 786 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
-| 786 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
-| 789 | [Lake](games/l/lake.md) | 4.07 | 
-| 789 | [Fort Triumph](games/f/fort_triumph.md) | 4.07 | 
-| 791 | [Godfall](games/g/godfall.md) | 4.06 | 
-| 791 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.06 | 
-| 793 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 793 | [Flatout](games/f/flatout.md) | 4.05 | 
+| 785 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 785 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
+| 785 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
+| 788 | [Lake](games/l/lake.md) | 4.07 | 
+| 788 | [Fort Triumph](games/f/fort_triumph.md) | 4.07 | 
+| 790 | [Godfall](games/g/godfall.md) | 4.06 | 
+| 790 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.06 | 
+| 792 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 792 | [Flatout](games/f/flatout.md) | 4.05 | 
+| 792 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.05 | 
 | 795 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 
+| 795 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 795 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 
-| 797 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.03 | 
-| 797 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
+| 798 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 799 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 
 | 799 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.01 | 
 | 801 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
