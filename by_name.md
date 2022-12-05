@@ -142,7 +142,7 @@
 | 140 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 141 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 142 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 143 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
+| 143 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.67 | 
 | 144 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
 | 145 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 146 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
@@ -253,7 +253,7 @@
 | 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 252 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 253 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
-| 254 | [Fort Triumph](games/f/fort_triumph.md) | 4.06 | 
+| 254 | [Fort Triumph](games/f/fort_triumph.md) | 4.07 | 
 | 255 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 256 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 257 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
@@ -661,7 +661,7 @@
 | 659 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 660 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 661 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 662 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.07 | 
+| 662 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.08 | 
 | 663 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 664 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 665 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
@@ -694,7 +694,7 @@
 | 692 | [The Red Lantern](games/t/the_red_lantern.md) | 4.67 | 
 | 693 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.74 | 
 | 694 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
-| 695 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.26 | 
+| 695 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 696 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 697 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 698 | [The Surge](games/t/the_surge.md) | 4.52 | 
@@ -717,7 +717,7 @@
 | 715 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 716 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 717 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
-| 718 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 718 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 719 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 720 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.60 | 
 | 721 | [Timberborn](games/t/timberborn.md) | 4.71 | 
