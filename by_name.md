@@ -142,7 +142,7 @@
 | 140 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 141 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 142 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 143 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.67 | 
+| 143 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
 | 144 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
 | 145 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 146 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
@@ -497,7 +497,7 @@
 | 495 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 496 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
 | 497 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 498 | [Predecessor](games/p/predecessor.md) | 4.24 | 
+| 498 | [Predecessor](games/p/predecessor.md) | 4.26 | 
 | 499 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 500 | [Prey](games/p/prey.md) | 4.61 | 
 | 501 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -540,13 +540,13 @@
 | 538 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
 | 539 | [Roguebook](games/r/roguebook.md) | 4.62 | 
 | 540 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 541 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
+| 541 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 542 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 543 | [RUINER](games/r/ruiner.md) | 4.52 | 
 | 544 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 545 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 546 | [Sable](games/s/sable.md) | 4.57 | 
-| 547 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.83 | 
+| 547 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
 | 548 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 549 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 550 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
@@ -621,7 +621,7 @@
 | 619 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 620 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
 | 621 | [STG Football](games/s/stg_football.md) | 4.56 | 
-| 622 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 622 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.52 | 
 | 623 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 624 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
 | 625 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
@@ -715,7 +715,7 @@
 | 713 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 714 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 715 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 716 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
+| 716 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
 | 717 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 718 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 719 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
