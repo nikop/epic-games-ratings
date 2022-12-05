@@ -42,10 +42,10 @@
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
-| 43 | [Ashen](games/a/ashen.md) | 4.33 | 
+| 43 | [Ashen](games/a/ashen.md) | 4.32 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
+| 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.55 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
@@ -216,7 +216,7 @@
 | 214 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 215 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 216 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
-| 217 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 217 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 218 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 219 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 220 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.83 | 
@@ -225,7 +225,7 @@
 | 223 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 224 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 225 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
-| 226 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 
+| 226 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 227 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 228 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 229 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
@@ -246,7 +246,7 @@
 | 244 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 245 | [Firework](games/f/firework.md) | 4.88 | 
 | 246 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 247 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
+| 247 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 248 | [Flatout](games/f/flatout.md) | 4.05 | 
 | 249 | [Flatout 2](games/f/flatout_2.md) | 4.92 | 
 | 250 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
@@ -326,7 +326,7 @@
 | 324 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 325 | [Imagine Earth](games/i/imagine_earth.md) | 4.33 | 
 | 326 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
-| 327 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
+| 327 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
 | 328 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
 | 329 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 330 | [INSIDE](games/i/inside.md) | 4.69 | 
@@ -509,7 +509,7 @@
 | 507 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.47 | 
 | 508 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 509 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
-| 510 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
+| 510 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
 | 511 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 512 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 513 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
@@ -551,7 +551,7 @@
 | 549 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 550 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
 | 551 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 552 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 552 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
 | 553 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 554 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 555 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
@@ -601,7 +601,7 @@
 | 599 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 600 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 601 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 602 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
+| 602 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 603 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
 | 604 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.39 | 
 | 605 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.79 | 
@@ -698,7 +698,7 @@
 | 696 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 697 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 698 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 699 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
+| 699 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
 | 700 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
 | 701 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 702 | [The Tenants](games/t/the_tenants.md) | 4.52 | 
@@ -747,7 +747,7 @@
 | 745 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 746 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
 | 747 | [Train Valley](games/t/train_valley.md) | 4.44 | 
-| 748 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
+| 748 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
 | 749 | [Transistor](games/t/transistor.md) | 4.63 | 
 | 750 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 751 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
@@ -775,7 +775,7 @@
 | 773 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 774 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 775 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 776 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 776 | [Verdun](games/v/verdun.md) | 4.53 | 
 | 777 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 778 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 779 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
@@ -798,7 +798,7 @@
 | 796 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
 | 797 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
 | 798 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
-| 799 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.46 | 
+| 799 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 800 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
 | 801 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 802 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
@@ -811,7 +811,7 @@
 | 809 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 810 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 811 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
-| 812 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
+| 812 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
 | 813 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 
 | 814 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 815 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
