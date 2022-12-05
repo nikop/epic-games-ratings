@@ -23,7 +23,7 @@
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 24 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 24 | [Among Trees](games/a/among_trees.md) | 4.36 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
@@ -305,7 +305,7 @@
 | 303 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 304 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 305 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 306 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 306 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 307 | [Hob](games/h/hob.md) | 4.57 | 
 | 308 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 309 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
@@ -373,7 +373,7 @@
 | 371 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 372 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 
 | 373 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
-| 374 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.53 | 
+| 374 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.54 | 
 | 375 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 376 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 377 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
@@ -383,7 +383,7 @@
 | 381 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 
 | 382 | [Limbo](games/l/limbo.md) | 4.64 | 
 | 383 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
-| 384 | [Little Inferno](games/l/little_inferno.md) | 4.58 | 
+| 384 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 
 | 385 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 386 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 387 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
@@ -457,7 +457,7 @@
 | 455 | [Old World](games/o/old_world.md) | 4.64 | 
 | 456 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 457 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
-| 458 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.34 | 
+| 458 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
 | 459 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 460 | [Othercide](games/o/othercide.md) | 4.37 | 
 | 461 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
@@ -467,7 +467,7 @@
 | 465 | [Outlast 2](games/o/outlast_2.md) | 4.70 | 
 | 466 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 467 | [Outward](games/o/outward.md) | 4.55 | 
-| 468 | [Overcooked](games/o/overcooked.md) | 4.67 | 
+| 468 | [Overcooked](games/o/overcooked.md) | 4.68 | 
 | 469 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 470 | [OVERPASS™](games/o/overpass™.md) | 4.17 | 
 | 471 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
@@ -799,7 +799,7 @@
 | 797 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
 | 798 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 799 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.46 | 
-| 800 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 800 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
 | 801 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 802 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 803 | [Windbound](games/w/windbound.md) | 4.19 | 
