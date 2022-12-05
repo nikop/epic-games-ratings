@@ -327,7 +327,7 @@
 | 325 | [Imagine Earth](games/i/imagine_earth.md) | 4.33 | 
 | 326 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
 | 327 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 328 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
+| 328 | [Industries of Titan](games/i/industries_of_titan.md) | 4.52 | 
 | 329 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 330 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 331 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
@@ -514,7 +514,7 @@
 | 512 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 513 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 514 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 515 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 515 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
 | 516 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 517 | [Redout 2](games/r/redout_2.md) | 4.54 | 
 | 518 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
@@ -609,7 +609,7 @@
 | 607 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 608 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 609 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
-| 610 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.55 | 
+| 610 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.56 | 
 | 611 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
 | 612 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
 | 613 | [Star Stable Online](games/s/star_stable_online.md) | 4.38 | 
@@ -617,7 +617,7 @@
 | 615 | [Starsand](games/s/starsand.md) | 4.17 | 
 | 616 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 617 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
-| 618 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 618 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 619 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 620 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
 | 621 | [STG Football](games/s/stg_football.md) | 4.56 | 
@@ -699,7 +699,7 @@
 | 697 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 698 | [The Surge](games/t/the_surge.md) | 4.52 | 
 | 699 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
-| 700 | [The Talos Principle](games/t/the_talos_principle.md) | 4.74 | 
+| 700 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 701 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 702 | [The Tenants](games/t/the_tenants.md) | 4.52 | 
 | 703 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
