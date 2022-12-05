@@ -242,42 +242,42 @@
 | 232 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 232 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 232 | [CARRION](games/c/carrion.md) | 4.67 | 
-| 232 | [Operation: Tango](games/o/operation__tango.md) | 4.67 | 
 | 232 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.67 | 
 | 232 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 232 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
 | 232 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
 | 232 | [The Red Lantern](games/t/the_red_lantern.md) | 4.67 | 
 | 232 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
-| 250 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 250 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 250 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 250 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 250 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
-| 250 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
-| 250 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 250 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
-| 250 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
-| 250 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
-| 250 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
-| 250 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
-| 250 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 250 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
-| 250 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 265 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 265 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 265 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 265 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
-| 265 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 265 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 265 | [Death's Door](games/d/death's_door.md) | 4.65 | 
-| 265 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.65 | 
-| 265 | [Coromon](games/c/coromon.md) | 4.65 | 
-| 265 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
-| 265 | [APE OUT](games/a/ape_out.md) | 4.65 | 
-| 265 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
-| 265 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
-| 265 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
+| 249 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 249 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 249 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 249 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 249 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
+| 249 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 249 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 249 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
+| 249 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
+| 249 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
+| 249 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
+| 249 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
+| 249 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 249 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.66 | 
+| 249 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 264 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 264 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 264 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 264 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
+| 264 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
+| 264 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 264 | [Death's Door](games/d/death's_door.md) | 4.65 | 
+| 264 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.65 | 
+| 264 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 264 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
+| 264 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
+| 264 | [APE OUT](games/a/ape_out.md) | 4.65 | 
+| 264 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
+| 264 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
+| 264 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 279 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 279 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 279 | [HITMAN](games/h/hitman.md) | 4.64 | 
@@ -788,9 +788,9 @@
 | 784 | [Train Valley 2](games/t/train_valley_2.md) | 4.08 | 
 | 784 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
 | 788 | [Lake](games/l/lake.md) | 4.07 | 
-| 789 | [Godfall](games/g/godfall.md) | 4.06 | 
-| 789 | [Fort Triumph](games/f/fort_triumph.md) | 4.06 | 
-| 789 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.06 | 
+| 788 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.07 | 
+| 790 | [Godfall](games/g/godfall.md) | 4.06 | 
+| 790 | [Fort Triumph](games/f/fort_triumph.md) | 4.06 | 
 | 792 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 792 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 792 | [Flatout](games/f/flatout.md) | 4.05 | 

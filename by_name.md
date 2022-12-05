@@ -456,7 +456,7 @@
 | 454 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 455 | [Old World](games/o/old_world.md) | 4.64 | 
 | 456 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 457 | [Operation: Tango](games/o/operation__tango.md) | 4.67 | 
+| 457 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
 | 458 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.34 | 
 | 459 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 460 | [Othercide](games/o/othercide.md) | 4.37 | 
@@ -661,7 +661,7 @@
 | 659 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 660 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 661 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 662 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.06 | 
+| 662 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.07 | 
 | 663 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 664 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 665 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
