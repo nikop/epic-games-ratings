@@ -398,7 +398,7 @@
 | 396 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 397 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 398 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 399 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.34 | 
+| 399 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.32 | 
 | 400 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 401 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 402 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
@@ -409,7 +409,7 @@
 | 407 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 408 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 409 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.44 | 
-| 410 | [Minit](games/m/minit.md) | 4.55 | 
+| 410 | [Minit](games/m/minit.md) | 4.53 | 
 | 411 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.84 | 
 | 412 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 413 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
@@ -506,7 +506,7 @@
 | 504 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 505 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 506 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 507 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
+| 507 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.47 | 
 | 508 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 509 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
 | 510 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
@@ -517,13 +517,13 @@
 | 515 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 516 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 517 | [Redout 2](games/r/redout_2.md) | 4.54 | 
-| 518 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 
+| 518 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 519 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 520 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 521 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 522 | [Revita](games/r/revita.md) | 4.74 | 
 | 523 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 524 | [RiME](games/r/rime.md) | 4.61 | 
+| 524 | [RiME](games/r/rime.md) | 4.59 | 
 | 525 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 526 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 527 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -551,7 +551,7 @@
 | 549 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 550 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
 | 551 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 552 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 552 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
 | 553 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 554 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 555 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
@@ -608,7 +608,7 @@
 | 606 | [SpiderHeck](games/s/spiderheck.md) | 4.73 | 
 | 607 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 608 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 609 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
+| 609 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
 | 610 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.55 | 
 | 611 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
 | 612 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
@@ -692,7 +692,7 @@
 | 690 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 691 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 692 | [The Red Lantern](games/t/the_red_lantern.md) | 4.67 | 
-| 693 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.74 | 
+| 693 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 694 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
 | 695 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 696 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
@@ -791,7 +791,7 @@
 | 789 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 790 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 791 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
-| 792 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
+| 792 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.29 | 
 | 793 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 794 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 795 | [Weird West](games/w/weird_west.md) | 4.46 | 

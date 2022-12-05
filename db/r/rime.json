@@ -1,10 +1,10 @@
 {
   "ID": "d0d1b5541a6540d5a81daacb3324639b",
   "Name": "RiME",
-  "Rating": 4.61,
+  "Rating": 4.59,
   "NumberOfRatings": 85,
   "FirstSeen": "2022-07-22T20:23:44.5137427+00:00",
-  "LastChanged": "2022-12-04T15:57:25.5402776+00:00",
+  "LastChanged": "2022-12-05T15:57:36.7904752+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:44.513743+00:00",
@@ -264,6 +264,11 @@
     {
       "Time": "2022-12-04T15:57:25.5402778+00:00",
       "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-05T15:57:36.7904753+00:00",
+      "Rating": 4.59,
       "NumberOfRatings": null
     }
   ],
