@@ -87,7 +87,7 @@
 | 85 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 86 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 87 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
@@ -275,7 +275,7 @@
 | 273 | [GNOG](games/g/gnog.md) | 4.64 | 
 | 274 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 275 | [God of War](games/g/god_of_war.md) | 4.90 | 
-| 276 | [God's Trigger](games/g/god's_trigger.md) | 4.13 | 
+| 276 | [God's Trigger](games/g/god's_trigger.md) | 4.14 | 
 | 277 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 278 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
 | 279 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.93 | 
@@ -307,9 +307,9 @@
 | 305 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 306 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 307 | [Hob](games/h/hob.md) | 4.57 | 
-| 308 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.45 | 
+| 308 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 309 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 310 | [Horace](games/h/horace.md) | 4.55 | 
+| 310 | [Horace](games/h/horace.md) | 4.54 | 
 | 311 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 312 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 313 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
@@ -614,9 +614,9 @@
 | 612 | [Star Renegades](games/s/star_renegades.md) | 4.39 | 
 | 613 | [Star Stable Online](games/s/star_stable_online.md) | 4.38 | 
 | 614 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 615 | [Starsand](games/s/starsand.md) | 4.20 | 
+| 615 | [Starsand](games/s/starsand.md) | 4.17 | 
 | 616 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
-| 617 | [Startup Panic](games/s/startup_panic.md) | 4.37 | 
+| 617 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
 | 618 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 619 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 620 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
@@ -663,7 +663,7 @@
 | 661 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 662 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.06 | 
 | 663 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 664 | [The Colonists](games/t/the_colonists.md) | 4.55 | 
+| 664 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 665 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 666 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 667 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
@@ -763,17 +763,17 @@
 | 761 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 762 | [Twin Mirror](games/t/twin_mirror.md) | 4.24 | 
 | 763 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 764 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
+| 764 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
 | 765 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 766 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
-| 767 | [UnMetal](games/u/unmetal.md) | 4.50 | 
+| 767 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 768 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
 | 769 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 770 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 771 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 772 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
 | 773 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 774 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
+| 774 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 775 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 776 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 777 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 

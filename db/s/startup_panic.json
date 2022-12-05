@@ -1,11 +1,11 @@
 {
   "ID": "92546d82a1d043ad8cff2c6c2cd78bb9",
   "Name": "Startup Panic",
-  "Rating": 4.37,
+  "Rating": 4.38,
   "NumberOfRatings": 28,
   "FirstSeen": "2022-07-22T20:23:21.1548714+00:00",
   "FirstSeenRating": "2022-07-31T11:01:04.2055558+00:00",
-  "LastChanged": "2022-11-29T11:57:25.230577+00:00",
+  "LastChanged": "2022-12-05T03:57:35.0899954+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-31T11:01:04.205556+00:00",
@@ -105,6 +105,11 @@
     {
       "Time": "2022-11-29T11:57:25.2305772+00:00",
       "Rating": 4.37,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-05T03:57:35.0899956+00:00",
+      "Rating": 4.38,
       "NumberOfRatings": null
     }
   ],

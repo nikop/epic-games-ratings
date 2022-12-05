@@ -1,10 +1,10 @@
 {
   "ID": "d2d162953fec40e381867d7af8371362",
   "Name": "Honkai Impact 3rd",
-  "Rating": 4.45,
+  "Rating": 4.46,
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2022-12-02T03:56:56.750454+00:00",
+  "LastChanged": "2022-12-05T03:57:03.4973081+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-28T11:32:15.7744845+00:00",
@@ -180,6 +180,11 @@
       "Time": "2022-12-02T03:56:56.7504542+00:00",
       "Rating": 4.45,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-05T03:57:03.4973083+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -213,7 +218,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 55
+      "Count": 63
     },
     {
       "Text": "This game is Great for Beginners",
