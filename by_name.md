@@ -42,7 +42,7 @@
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
-| 43 | [Ashen](games/a/ashen.md) | 4.32 | 
+| 43 | [Ashen](games/a/ashen.md) | 4.33 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
@@ -215,7 +215,7 @@
 | 213 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 214 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 215 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 216 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 216 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
 | 217 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 218 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 219 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
@@ -270,7 +270,7 @@
 | 268 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
 | 269 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 270 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 
-| 271 | [GigaBash](games/g/gigabash.md) | 4.52 | 
+| 271 | [GigaBash](games/g/gigabash.md) | 4.54 | 
 | 272 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 273 | [GNOG](games/g/gnog.md) | 4.64 | 
 | 274 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
@@ -398,7 +398,7 @@
 | 396 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 397 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 398 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 399 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.26 | 
+| 399 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.30 | 
 | 400 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 401 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 402 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
@@ -463,7 +463,7 @@
 | 461 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 462 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
 | 463 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 464 | [Outlast](games/o/outlast.md) | 4.73 | 
+| 464 | [Outlast](games/o/outlast.md) | 4.72 | 
 | 465 | [Outlast 2](games/o/outlast_2.md) | 4.70 | 
 | 466 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 467 | [Outward](games/o/outward.md) | 4.55 | 
@@ -561,7 +561,7 @@
 | 559 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
 | 560 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 561 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
-| 562 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
+| 562 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 563 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 564 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
 | 565 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
@@ -618,7 +618,7 @@
 | 616 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 617 | [Startup Panic](games/s/startup_panic.md) | 4.37 | 
 | 618 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 619 | [Steelrising](games/s/steelrising.md) | 4.27 | 
+| 619 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 620 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
 | 621 | [STG Football](games/s/stg_football.md) | 4.56 | 
 | 622 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
@@ -736,7 +736,7 @@
 | 734 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 735 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 736 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
-| 737 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.64 | 
+| 737 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.63 | 
 | 738 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 739 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
 | 740 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
@@ -754,7 +754,7 @@
 | 752 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
 | 753 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
 | 754 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.70 | 
-| 755 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
+| 755 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 756 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
 | 757 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.22 | 
 | 758 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
@@ -775,7 +775,7 @@
 | 773 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 774 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
 | 775 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 776 | [Verdun](games/v/verdun.md) | 4.53 | 
+| 776 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 777 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 778 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 779 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
