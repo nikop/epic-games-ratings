@@ -497,7 +497,7 @@
 | 495 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 496 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
 | 497 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 498 | [Predecessor](games/p/predecessor.md) | 4.22 | 
+| 498 | [Predecessor](games/p/predecessor.md) | 4.23 | 
 | 499 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 500 | [Prey](games/p/prey.md) | 4.61 | 
 | 501 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -688,7 +688,7 @@
 | 686 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
 | 687 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 688 | [The Medium](games/t/the_medium.md) | 4.57 | 
-| 689 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
+| 689 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
 | 690 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 691 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 692 | [The Red Lantern](games/t/the_red_lantern.md) | 4.67 | 
@@ -724,7 +724,7 @@
 | 722 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 723 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 724 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.65 | 
-| 725 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
+| 725 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 
 | 726 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 727 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 728 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.31 | 

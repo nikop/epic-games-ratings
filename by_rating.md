@@ -80,6 +80,7 @@
 | 76 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 76 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 76 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 76 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
 | 76 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
 | 76 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
 | 76 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
@@ -89,15 +90,14 @@
 | 76 | [Superliminal](games/s/superliminal.md) | 4.80 | 
 | 76 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 76 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
-| 90 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 90 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 90 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 90 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 90 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
-| 90 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
-| 90 | [Journey](games/j/journey.md) | 4.79 | 
-| 90 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
-| 90 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
+| 91 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
+| 91 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 91 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
+| 91 | [Journey](games/j/journey.md) | 4.79 | 
+| 91 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
+| 91 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
 | 99 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 99 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 99 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
@@ -676,10 +676,10 @@
 | 672 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
 | 672 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.33 | 
 | 672 | [Imagine Earth](games/i/imagine_earth.md) | 4.33 | 
-| 677 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.32 | 
-| 677 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.32 | 
-| 677 | [Filament](games/f/filament.md) | 4.32 | 
-| 677 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
+| 672 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 
+| 678 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.32 | 
+| 678 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.32 | 
+| 678 | [Filament](games/f/filament.md) | 4.32 | 
 | 681 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 681 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 681 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
@@ -728,11 +728,11 @@
 | 725 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 725 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
 | 725 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
+| 725 | [Predecessor](games/p/predecessor.md) | 4.23 | 
 | 725 | [Somerville](games/s/somerville.md) | 4.23 | 
-| 730 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 730 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.22 | 
-| 730 | [Predecessor](games/p/predecessor.md) | 4.22 | 
-| 730 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
+| 731 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 731 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.22 | 
+| 731 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
 | 734 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 734 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 734 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
