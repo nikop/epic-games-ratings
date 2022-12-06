@@ -1,10 +1,10 @@
 {
   "ID": "helloneighbor",
   "Name": "Hello Neighbor",
-  "Rating": 4.55,
+  "Rating": 4.54,
   "NumberOfRatings": 1166,
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
-  "LastChanged": "2022-12-05T10:57:43.3513765+00:00",
+  "LastChanged": "2022-12-06T03:57:21.3592162+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:23.0108394+00:00",
@@ -1369,6 +1369,11 @@
     {
       "Time": "2022-12-05T10:57:43.3513767+00:00",
       "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-06T03:57:21.3592165+00:00",
+      "Rating": 4.54,
       "NumberOfRatings": null
     }
   ],

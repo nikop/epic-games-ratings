@@ -298,7 +298,7 @@
 | 296 | [Haven](games/h/haven.md) | 4.78 | 
 | 297 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 298 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 299 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 
+| 299 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 300 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 301 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
 | 302 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
@@ -371,7 +371,7 @@
 | 369 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
 | 370 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 371 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
-| 372 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 
+| 372 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 373 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 374 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.54 | 
 | 375 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
