@@ -36,7 +36,7 @@
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.65 | 
-| 37 | [Aragami 2](games/a/aragami_2.md) | 4.56 | 
+| 37 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
 | 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.64 | 
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
@@ -54,7 +54,7 @@
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.40 | 
-| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.47 | 
+| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.45 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.34 | 
@@ -70,7 +70,7 @@
 | 68 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 
 | 69 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 70 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 71 | [Barony](games/b/barony.md) | 4.69 | 
+| 71 | [Barony](games/b/barony.md) | 4.70 | 
 | 72 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
 | 73 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 74 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
@@ -154,7 +154,7 @@
 | 152 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 153 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 154 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 155 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 155 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 156 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 157 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 158 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
@@ -221,7 +221,7 @@
 | 219 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 220 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.83 | 
 | 221 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 222 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.73 | 
+| 222 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
 | 223 | [Family Man](games/f/family_man.md) | 4.17 | 
 | 224 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 225 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
@@ -297,8 +297,8 @@
 | 295 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.70 | 
 | 296 | [Haven](games/h/haven.md) | 4.78 | 
 | 297 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
-| 298 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 299 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 
+| 298 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
+| 299 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 300 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 301 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
 | 302 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
@@ -488,7 +488,7 @@
 | 486 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 487 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
 | 488 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
-| 489 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
+| 489 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
 | 490 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 491 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 492 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
@@ -668,7 +668,7 @@
 | 666 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 667 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 668 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
-| 669 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
+| 669 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 670 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 671 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
 | 672 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
