@@ -66,14 +66,14 @@
 | 60 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 60 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
 | 60 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
-| 60 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
-| 68 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 68 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 
-| 68 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
-| 68 | [Superliminal](games/s/superliminal.md) | 4.81 | 
-| 68 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
-| 68 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
-| 68 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
+| 67 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 67 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 
+| 67 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
+| 67 | [Superliminal](games/s/superliminal.md) | 4.81 | 
+| 67 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
+| 67 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
+| 67 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
+| 67 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.81 | 
 | 75 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 75 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 75 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
@@ -178,25 +178,25 @@
 | 172 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 172 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
 | 172 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
+| 172 | [Fez](games/f/fez.md) | 4.71 | 
 | 172 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 172 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
 | 172 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
 | 172 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 172 | [King of Retail](games/k/king_of_retail.md) | 4.71 | 
 | 172 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
-| 185 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 185 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
-| 185 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 185 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 185 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
-| 185 | [Fez](games/f/fez.md) | 4.70 | 
-| 185 | [Northgard](games/n/northgard.md) | 4.70 | 
-| 185 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 185 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.70 | 
-| 185 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.70 | 
-| 185 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 
-| 185 | [Outlast 2](games/o/outlast_2.md) | 4.70 | 
-| 185 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.70 | 
+| 186 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 186 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
+| 186 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 186 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 186 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
+| 186 | [Northgard](games/n/northgard.md) | 4.70 | 
+| 186 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 186 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.70 | 
+| 186 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.70 | 
+| 186 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 
+| 186 | [Outlast 2](games/o/outlast_2.md) | 4.70 | 
+| 186 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.70 | 
 | 198 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 198 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 198 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
@@ -370,6 +370,7 @@
 | 363 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 363 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
 | 363 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 363 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
 | 363 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 363 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 363 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
@@ -379,25 +380,24 @@
 | 363 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 363 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
 | 363 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
-| 380 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 380 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 380 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 380 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
-| 380 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 380 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
-| 380 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 380 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 380 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
-| 380 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
-| 380 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 380 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 380 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 
-| 380 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
-| 380 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
-| 380 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 
-| 380 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 380 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
-| 380 | [NORCO](games/n/norco.md) | 4.58 | 
+| 381 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 381 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 381 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 381 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
+| 381 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 381 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
+| 381 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
+| 381 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 381 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
+| 381 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
+| 381 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
+| 381 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
+| 381 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
+| 381 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
+| 381 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 
+| 381 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
+| 381 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
+| 381 | [NORCO](games/n/norco.md) | 4.58 | 
 | 399 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 399 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 399 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
@@ -695,15 +695,15 @@
 | 693 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 693 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 693 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 693 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.29 | 
 | 693 | [House Party](games/h/house_party.md) | 4.29 | 
 | 693 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.29 | 
 | 693 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 693 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 701 | [The Fall](games/t/the_fall.md) | 4.28 | 
-| 701 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
-| 701 | [Dark Light](games/d/dark_light.md) | 4.28 | 
-| 701 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
+| 700 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
+| 700 | [The Fall](games/t/the_fall.md) | 4.28 | 
+| 700 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
+| 700 | [Dark Light](games/d/dark_light.md) | 4.28 | 
+| 700 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
 | 705 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 705 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 705 | [Predecessor](games/p/predecessor.md) | 4.27 | 
@@ -788,10 +788,10 @@
 | 785 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
 | 785 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
 | 785 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
-| 789 | [Lake](games/l/lake.md) | 4.07 | 
-| 790 | [Godfall](games/g/godfall.md) | 4.06 | 
-| 790 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.06 | 
-| 790 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.06 | 
+| 785 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.08 | 
+| 790 | [Lake](games/l/lake.md) | 4.07 | 
+| 791 | [Godfall](games/g/godfall.md) | 4.06 | 
+| 791 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.06 | 
 | 793 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 793 | [Flatout](games/f/flatout.md) | 4.05 | 
 | 795 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 
