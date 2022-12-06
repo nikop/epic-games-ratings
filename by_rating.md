@@ -30,19 +30,19 @@
 | 23 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
 | 29 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 29 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 29 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 29 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 29 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
-| 33 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 33 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 33 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 33 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 33 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
-| 33 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
-| 33 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.85 | 
-| 33 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 33 | [The Last Campfire](games/t/the_last_campfire.md) | 4.85 | 
-| 33 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
-| 33 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
+| 34 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 34 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 34 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
+| 34 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
+| 34 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
+| 34 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
+| 34 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 34 | [The Last Campfire](games/t/the_last_campfire.md) | 4.85 | 
+| 34 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
+| 34 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 44 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 44 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 44 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
@@ -455,7 +455,6 @@
 | 451 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 451 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
 | 451 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 451 | [Verdun](games/v/verdun.md) | 4.53 | 
 | 451 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 
 | 451 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 451 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
@@ -467,22 +466,23 @@
 | 451 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 451 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 451 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 468 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 468 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 468 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 468 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
-| 468 | [RUINER](games/r/ruiner.md) | 4.52 | 
-| 468 | [Industries of Titan](games/i/industries_of_titan.md) | 4.52 | 
-| 468 | [The Tenants](games/t/the_tenants.md) | 4.52 | 
-| 468 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.52 | 
-| 468 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 468 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 468 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
-| 468 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 468 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
-| 468 | [Aztez](games/a/aztez.md) | 4.52 | 
-| 468 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
-| 468 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 467 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 467 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 467 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 467 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 467 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
+| 467 | [RUINER](games/r/ruiner.md) | 4.52 | 
+| 467 | [Industries of Titan](games/i/industries_of_titan.md) | 4.52 | 
+| 467 | [The Tenants](games/t/the_tenants.md) | 4.52 | 
+| 467 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.52 | 
+| 467 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 467 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 467 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
+| 467 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 467 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
+| 467 | [Aztez](games/a/aztez.md) | 4.52 | 
+| 467 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
+| 467 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 484 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 484 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 484 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
@@ -655,7 +655,6 @@
 | 652 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 652 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 652 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 652 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
 | 652 | [Among Trees](games/a/among_trees.md) | 4.36 | 
 | 652 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 652 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
@@ -664,10 +663,11 @@
 | 652 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 652 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
 | 652 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
-| 665 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
-| 665 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 665 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 665 | [ZOMBI](games/z/zombi.md) | 4.35 | 
+| 664 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
+| 664 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
+| 664 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
+| 664 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 664 | [ZOMBI](games/z/zombi.md) | 4.35 | 
 | 669 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 669 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
 | 669 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
@@ -709,17 +709,17 @@
 | 704 | [Predecessor](games/p/predecessor.md) | 4.27 | 
 | 708 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 708 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 708 | [ELEX II](games/e/elex_ii.md) | 4.26 | 
 | 708 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 708 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 708 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 708 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
-| 714 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
-| 714 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
-| 714 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 714 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
-| 714 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 
-| 714 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
-| 714 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.25 | 
+| 715 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
+| 715 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
+| 715 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 715 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 
+| 715 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
+| 715 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.25 | 
 | 721 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 721 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
 | 721 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 

@@ -204,7 +204,7 @@
 | 202 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.78 | 
 | 203 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 204 | [ELEX](games/e/elex.md) | 4.39 | 
-| 205 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
+| 205 | [ELEX II](games/e/elex_ii.md) | 4.26 | 
 | 206 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 207 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
 | 208 | [Encased](games/e/encased.md) | 4.37 | 
@@ -412,7 +412,7 @@
 | 410 | [Minit](games/m/minit.md) | 4.53 | 
 | 411 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.86 | 
 | 412 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 413 | [Mortal Shell](games/m/mortal_shell.md) | 4.36 | 
+| 413 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 414 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 415 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 416 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
@@ -655,7 +655,7 @@
 | 653 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 654 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 655 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 656 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.85 | 
+| 656 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 657 | [Tharsis](games/t/tharsis.md) | 4.13 | 
 | 658 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
 | 659 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
@@ -775,7 +775,7 @@
 | 773 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 774 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 775 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 776 | [Verdun](games/v/verdun.md) | 4.53 | 
+| 776 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 777 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 778 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 779 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
