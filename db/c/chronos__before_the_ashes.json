@@ -1,10 +1,10 @@
 {
   "ID": "b2b41af461d94357942f198fb331bb35",
   "Name": "Chronos: Before the Ashes",
-  "Rating": 4,
+  "Rating": 4.04,
   "FirstSeen": "2022-07-22T20:18:44.7421623+00:00",
   "FirstSeenRating": "2022-10-20T18:00:38.5119535+00:00",
-  "LastChanged": "2022-11-25T02:21:38.9449983+00:00",
+  "LastChanged": "2022-12-06T04:57:06.9036059+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-20T18:00:38.5119539+00:00",
@@ -34,6 +34,11 @@
     {
       "Time": "2022-11-25T02:21:38.9449985+00:00",
       "Rating": 4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-06T04:57:06.9036064+00:00",
+      "Rating": 4.04,
       "NumberOfRatings": null
     }
   ],

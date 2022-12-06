@@ -116,7 +116,7 @@
 | 114 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
 | 115 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 116 | [Chorus](games/c/chorus.md) | 4.46 | 
-| 117 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.00 | 
+| 117 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.04 | 
 | 118 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
 | 119 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 120 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
@@ -656,12 +656,12 @@
 | 654 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 655 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 656 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.85 | 
-| 657 | [Tharsis](games/t/tharsis.md) | 4.18 | 
+| 657 | [Tharsis](games/t/tharsis.md) | 4.13 | 
 | 658 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
 | 659 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 660 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 661 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 662 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.05 | 
+| 662 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.06 | 
 | 663 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 664 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 665 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
@@ -815,9 +815,9 @@
 | 813 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 
 | 814 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 815 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 816 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
+| 816 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 817 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
-| 818 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
+| 818 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 819 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
 | 820 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
 | 821 | [ZOMBI](games/z/zombi.md) | 4.35 | 
