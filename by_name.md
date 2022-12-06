@@ -187,7 +187,7 @@
 | 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 186 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.76 | 
+| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 190 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.61 | 
 | 191 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
@@ -199,7 +199,7 @@
 | 197 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
 | 198 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 199 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 200 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.29 | 
+| 200 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.28 | 
 | 201 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 202 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.78 | 
 | 203 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -244,7 +244,7 @@
 | 242 | [Figment](games/f/figment.md) | 4.46 | 
 | 243 | [Filament](games/f/filament.md) | 4.32 | 
 | 244 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 245 | [Firework](games/f/firework.md) | 4.88 | 
+| 245 | [Firework](games/f/firework.md) | 4.89 | 
 | 246 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 247 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 248 | [Flatout](games/f/flatout.md) | 4.05 | 
@@ -398,7 +398,7 @@
 | 396 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 397 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 398 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 399 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.41 | 
+| 399 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.40 | 
 | 400 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 401 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 402 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
@@ -502,7 +502,7 @@
 | 500 | [Prey](games/p/prey.md) | 4.61 | 
 | 501 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 502 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.39 | 
-| 503 | [Quake](games/q/quake.md) | 4.79 | 
+| 503 | [Quake](games/q/quake.md) | 4.80 | 
 | 504 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 505 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 506 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
@@ -693,7 +693,7 @@
 | 691 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 692 | [The Red Lantern](games/t/the_red_lantern.md) | 4.67 | 
 | 693 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.74 | 
-| 694 | [The Silent Age](games/t/the_silent_age.md) | 4.49 | 
+| 694 | [The Silent Age](games/t/the_silent_age.md) | 4.42 | 
 | 695 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 696 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 697 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
@@ -778,7 +778,7 @@
 | 776 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 777 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 778 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
-| 779 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 779 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
 | 780 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
 | 781 | [Warface](games/w/warface.md) | 3.93 | 
 | 782 | [Warframe](games/w/warframe.md) | 4.61 | 
