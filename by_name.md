@@ -229,7 +229,7 @@
 | 227 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 228 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 229 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 230 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 230 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
 | 231 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.68 | 
 | 232 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
 | 233 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
@@ -285,7 +285,7 @@
 | 283 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 284 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 285 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 286 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 
+| 286 | [Gravewood High](games/g/gravewood_high.md) | 4.05 | 
 | 287 | [Griftlands](games/g/griftlands.md) | 4.80 | 
 | 288 | [GRIME](games/g/grime.md) | 4.60 | 
 | 289 | [Grindstone](games/g/grindstone.md) | 4.83 | 
@@ -357,7 +357,7 @@
 | 355 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 356 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.70 | 
 | 357 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 358 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.72 | 
+| 358 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.73 | 
 | 359 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 360 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
 | 361 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
@@ -487,7 +487,7 @@
 | 485 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 486 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 487 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
-| 488 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
+| 488 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
 | 489 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
 | 490 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 491 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
@@ -501,7 +501,7 @@
 | 499 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 500 | [Prey](games/p/prey.md) | 4.61 | 
 | 501 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 502 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.39 | 
+| 502 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 503 | [Quake](games/q/quake.md) | 4.80 | 
 | 504 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 505 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
@@ -692,7 +692,7 @@
 | 690 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 691 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 692 | [The Red Lantern](games/t/the_red_lantern.md) | 4.67 | 
-| 693 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.74 | 
+| 693 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 694 | [The Silent Age](games/t/the_silent_age.md) | 4.42 | 
 | 695 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 696 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
@@ -715,7 +715,7 @@
 | 713 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 714 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 715 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 716 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
+| 716 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 717 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
 | 718 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 719 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 

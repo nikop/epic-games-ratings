@@ -1,10 +1,10 @@
 {
   "ID": "f774d8b9a9324124892868e7b5c71169",
   "Name": "The Riftbreaker",
-  "Rating": 4.74,
+  "Rating": 4.75,
   "NumberOfRatings": 277,
   "FirstSeen": "2022-07-22T20:22:56.9409047+00:00",
-  "LastChanged": "2022-12-06T11:57:21.3516938+00:00",
+  "LastChanged": "2022-12-06T21:57:25.5245257+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:56.9409055+00:00",
@@ -490,6 +490,11 @@
       "Time": "2022-12-06T11:57:21.3516939+00:00",
       "Rating": 4.74,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-06T21:57:25.5245259+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -507,7 +512,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game is Extremely Fun",
