@@ -143,7 +143,7 @@
 | 141 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 142 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 143 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
-| 144 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
+| 144 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 145 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 146 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 147 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
@@ -203,7 +203,7 @@
 | 201 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 202 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.78 | 
 | 203 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 204 | [ELEX](games/e/elex.md) | 4.39 | 
+| 204 | [ELEX](games/e/elex.md) | 4.40 | 
 | 205 | [ELEX II](games/e/elex_ii.md) | 4.26 | 
 | 206 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 207 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
@@ -253,7 +253,7 @@
 | 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 252 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 253 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
-| 254 | [Fort Triumph](games/f/fort_triumph.md) | 4.09 | 
+| 254 | [Fort Triumph](games/f/fort_triumph.md) | 4.10 | 
 | 255 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 256 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 257 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
@@ -262,7 +262,7 @@
 | 260 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
 | 261 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
 | 262 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 263 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.42 | 
+| 263 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.43 | 
 | 264 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 265 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 266 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
@@ -275,7 +275,7 @@
 | 273 | [GNOG](games/g/gnog.md) | 4.64 | 
 | 274 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 275 | [God of War](games/g/god_of_war.md) | 4.90 | 
-| 276 | [God's Trigger](games/g/god's_trigger.md) | 4.14 | 
+| 276 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
 | 277 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 278 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
 | 279 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.93 | 
@@ -692,7 +692,7 @@
 | 690 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 691 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 692 | [The Red Lantern](games/t/the_red_lantern.md) | 4.67 | 
-| 693 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
+| 693 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.74 | 
 | 694 | [The Silent Age](games/t/the_silent_age.md) | 4.49 | 
 | 695 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 696 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
