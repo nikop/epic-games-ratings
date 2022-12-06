@@ -445,27 +445,27 @@
 | 442 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 442 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 442 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
+| 442 | [Minit](games/m/minit.md) | 4.54 | 
 | 442 | [Horace](games/h/horace.md) | 4.54 | 
 | 442 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.54 | 
 | 442 | [GigaBash](games/g/gigabash.md) | 4.54 | 
 | 442 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 442 | [Redout 2](games/r/redout_2.md) | 4.54 | 
-| 451 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 451 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 451 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 451 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
-| 451 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 451 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 
-| 451 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 451 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
-| 451 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 451 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.53 | 
-| 451 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 451 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
-| 451 | [Minit](games/m/minit.md) | 4.53 | 
-| 451 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 451 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 451 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
+| 452 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
+| 452 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 452 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 452 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
+| 452 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
+| 452 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 
+| 452 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 452 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
+| 452 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
+| 452 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.53 | 
+| 452 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
+| 452 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 452 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 452 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 452 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 467 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 467 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 467 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
@@ -779,11 +779,11 @@
 | 775 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
 | 778 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 778 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 778 | [Fort Triumph](games/f/fort_triumph.md) | 4.10 | 
 | 778 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 782 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
-| 782 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
-| 782 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
+| 781 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 781 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
+| 781 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
+| 781 | [Fort Triumph](games/f/fort_triumph.md) | 4.09 | 
 | 785 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 785 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
 | 785 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
@@ -816,9 +816,9 @@
 | 814 | [Patron](games/p/patron.md) | 3.90 | 
 | 815 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.86 | 
 | 815 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 817 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.79 | 
-| 817 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.79 | 
-| 817 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
+| 817 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
+| 818 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.79 | 
+| 818 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.79 | 
 | 820 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 820 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.78 | 
 | 822 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.70 | 

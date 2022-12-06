@@ -253,7 +253,7 @@
 | 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 252 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 253 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
-| 254 | [Fort Triumph](games/f/fort_triumph.md) | 4.10 | 
+| 254 | [Fort Triumph](games/f/fort_triumph.md) | 4.09 | 
 | 255 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 256 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 257 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
@@ -409,7 +409,7 @@
 | 407 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 408 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 409 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.44 | 
-| 410 | [Minit](games/m/minit.md) | 4.53 | 
+| 410 | [Minit](games/m/minit.md) | 4.54 | 
 | 411 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.86 | 
 | 412 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 413 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
@@ -495,7 +495,7 @@
 | 493 | [Pine](games/p/pine.md) | 4.14 | 
 | 494 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
 | 495 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 496 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
+| 496 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 497 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 498 | [Predecessor](games/p/predecessor.md) | 4.27 | 
 | 499 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
