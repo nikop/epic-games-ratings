@@ -88,6 +88,7 @@
 | 75 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 75 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 75 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
+| 89 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 89 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 89 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 89 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
@@ -98,11 +99,10 @@
 | 89 | [Quake](games/q/quake.md) | 4.79 | 
 | 89 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
 | 89 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
-| 99 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
-| 99 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 99 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 99 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 99 | [Haven](games/h/haven.md) | 4.78 | 
+| 100 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 100 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
+| 100 | [Haven](games/h/haven.md) | 4.78 | 
 | 104 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 104 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 104 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
@@ -607,50 +607,50 @@
 | 603 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 603 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 603 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 603 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.41 | 
 | 603 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 603 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 610 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
-| 610 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
-| 610 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 610 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 610 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
-| 610 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
-| 610 | [ELEX](games/e/elex.md) | 4.40 | 
-| 610 | [ATOM RPG](games/a/atom_rpg.md) | 4.40 | 
-| 610 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 610 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
-| 620 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 620 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
-| 620 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 620 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
-| 620 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.39 | 
-| 620 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
-| 620 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 620 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
-| 620 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.39 | 
-| 629 | [Core](games/c/core.md) | 4.38 | 
-| 629 | [Star Stable Online](games/s/star_stable_online.md) | 4.38 | 
-| 629 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 629 | [Tacoma](games/t/tacoma.md) | 4.38 | 
-| 629 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.38 | 
-| 629 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 629 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
-| 629 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
-| 629 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 638 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 638 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 638 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 638 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 638 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
-| 638 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 638 | [Torchlight](games/t/torchlight.md) | 4.37 | 
-| 638 | [Encased](games/e/encased.md) | 4.37 | 
-| 638 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
-| 638 | [Othercide](games/o/othercide.md) | 4.37 | 
-| 638 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 638 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 638 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.37 | 
-| 638 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
+| 611 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 611 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
+| 611 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 611 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 611 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
+| 611 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
+| 611 | [ELEX](games/e/elex.md) | 4.40 | 
+| 611 | [ATOM RPG](games/a/atom_rpg.md) | 4.40 | 
+| 611 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 611 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
+| 621 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 621 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
+| 621 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 621 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
+| 621 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.39 | 
+| 621 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 621 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
+| 621 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
+| 621 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.39 | 
+| 630 | [Core](games/c/core.md) | 4.38 | 
+| 630 | [Star Stable Online](games/s/star_stable_online.md) | 4.38 | 
+| 630 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 630 | [Tacoma](games/t/tacoma.md) | 4.38 | 
+| 630 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.38 | 
+| 630 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 630 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
+| 630 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
+| 630 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
+| 639 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 639 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 639 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 639 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 639 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
+| 639 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 639 | [Torchlight](games/t/torchlight.md) | 4.37 | 
+| 639 | [Encased](games/e/encased.md) | 4.37 | 
+| 639 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
+| 639 | [Othercide](games/o/othercide.md) | 4.37 | 
+| 639 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 639 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 639 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
 | 652 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 652 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 652 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
@@ -783,11 +783,11 @@
 | 778 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 782 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 782 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
-| 782 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 782 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
-| 786 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 786 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
-| 786 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
+| 785 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 785 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
+| 785 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
+| 785 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
 | 789 | [Lake](games/l/lake.md) | 4.07 | 
 | 790 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 790 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.06 | 

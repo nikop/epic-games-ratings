@@ -305,7 +305,7 @@
 | 303 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 304 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 305 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 306 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 306 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 307 | [Hob](games/h/hob.md) | 4.57 | 
 | 308 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 309 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
@@ -398,7 +398,7 @@
 | 396 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 397 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 398 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 399 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.37 | 
+| 399 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.41 | 
 | 400 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 401 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 402 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
@@ -432,7 +432,7 @@
 | 430 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
 | 431 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 432 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 433 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 433 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
 | 434 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 435 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.60 | 
 | 436 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.06 | 

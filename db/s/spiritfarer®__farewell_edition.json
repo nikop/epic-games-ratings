@@ -337,5 +337,10 @@
       "NumberOfRatings": null
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 20
+    }
+  ]
 }
