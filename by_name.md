@@ -60,7 +60,7 @@
 | 58 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.55 | 
-| 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 
+| 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.52 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 64 | [Backbone](games/b/backbone.md) | 4.36 | 
@@ -121,7 +121,7 @@
 | 119 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 120 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
 | 121 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 122 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
+| 122 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 123 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
 | 124 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 125 | [Conarium](games/c/conarium.md) | 3.93 | 
@@ -286,7 +286,7 @@
 | 284 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 285 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 286 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 
-| 287 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 287 | [Griftlands](games/g/griftlands.md) | 4.80 | 
 | 288 | [GRIME](games/g/grime.md) | 4.60 | 
 | 289 | [Grindstone](games/g/grindstone.md) | 4.82 | 
 | 290 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
@@ -398,7 +398,7 @@
 | 396 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 397 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 398 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 399 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.32 | 
+| 399 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.36 | 
 | 400 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 401 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 402 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
@@ -466,7 +466,7 @@
 | 464 | [Outlast](games/o/outlast.md) | 4.72 | 
 | 465 | [Outlast 2](games/o/outlast_2.md) | 4.70 | 
 | 466 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
-| 467 | [Outward](games/o/outward.md) | 4.55 | 
+| 467 | [Outward](games/o/outward.md) | 4.56 | 
 | 468 | [Overcooked](games/o/overcooked.md) | 4.68 | 
 | 469 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 470 | [OVERPASS™](games/o/overpass™.md) | 4.17 | 
@@ -570,7 +570,7 @@
 | 568 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 569 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.75 | 
 | 570 | [shapez](games/s/shapez.md) | 4.74 | 
-| 571 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 571 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 572 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 
 | 573 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
 | 574 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
@@ -635,7 +635,7 @@
 | 633 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.68 | 
 | 634 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
 | 635 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 636 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
+| 636 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
 | 637 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
 | 638 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
 | 639 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.67 | 
@@ -682,7 +682,7 @@
 | 680 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 681 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 682 | [The Last Campfire](games/t/the_last_campfire.md) | 4.85 | 
-| 683 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 
+| 683 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.38 | 
 | 684 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
 | 685 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
 | 686 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
@@ -745,7 +745,7 @@
 | 743 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 744 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.01 | 
 | 745 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 746 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 
+| 746 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
 | 747 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 748 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
 | 749 | [Transistor](games/t/transistor.md) | 4.63 | 
