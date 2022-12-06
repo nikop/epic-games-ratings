@@ -120,7 +120,7 @@
 | 118 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
 | 119 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 120 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
-| 121 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 121 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 122 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 123 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
 | 124 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -288,7 +288,7 @@
 | 286 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 
 | 287 | [Griftlands](games/g/griftlands.md) | 4.80 | 
 | 288 | [GRIME](games/g/grime.md) | 4.60 | 
-| 289 | [Grindstone](games/g/grindstone.md) | 4.82 | 
+| 289 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 290 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 291 | [Hades](games/h/hades.md) | 4.92 | 
 | 292 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
