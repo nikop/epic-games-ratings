@@ -354,7 +354,7 @@
 | 352 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
 | 353 | [King of Retail](games/k/king_of_retail.md) | 4.71 | 
 | 354 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
-| 355 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.84 | 
+| 355 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 356 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.70 | 
 | 357 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
 | 358 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.72 | 
@@ -398,7 +398,7 @@
 | 396 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 397 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 398 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 399 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.36 | 
+| 399 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.37 | 
 | 400 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 401 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 402 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
@@ -497,7 +497,7 @@
 | 495 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 496 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
 | 497 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 498 | [Predecessor](games/p/predecessor.md) | 4.26 | 
+| 498 | [Predecessor](games/p/predecessor.md) | 4.25 | 
 | 499 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 500 | [Prey](games/p/prey.md) | 4.61 | 
 | 501 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -551,11 +551,11 @@
 | 549 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 550 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
 | 551 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 552 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 552 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
 | 553 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 554 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 555 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 556 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
+| 556 | [Saturnalia](games/s/saturnalia.md) | 4.23 | 
 | 557 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 558 | [Scorn](games/s/scorn.md) | 4.48 | 
 | 559 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
@@ -710,7 +710,7 @@
 | 708 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
 | 709 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 
 | 710 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
-| 711 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 
+| 711 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 712 | [The Witness](games/t/the_witness.md) | 4.71 | 
 | 713 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 714 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 

@@ -1,11 +1,11 @@
 {
   "ID": "da939f32956f4fc68e0ea965edb98f8d",
   "Name": "King\u0027s Bounty: Armored Princess",
-  "Rating": 4.84,
+  "Rating": 4.81,
   "NumberOfRatings": 20,
   "FirstSeen": "2022-07-22T20:27:50.7033126+00:00",
   "FirstSeenRating": "2022-09-15T21:32:29.6730065+00:00",
-  "LastChanged": "2022-11-29T08:57:39.5276644+00:00",
+  "LastChanged": "2022-12-06T03:02:28.4917742+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-15T21:32:29.6730068+00:00",
@@ -30,6 +30,11 @@
     {
       "Time": "2022-11-29T08:57:39.5276647+00:00",
       "Rating": 4.84,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-06T03:02:28.4917745+00:00",
+      "Rating": 4.81,
       "NumberOfRatings": null
     }
   ],
