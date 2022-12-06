@@ -135,12 +135,12 @@
 | 133 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
 | 134 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
 | 135 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 136 | [Crayta](games/c/crayta.md) | 4.18 | 
+| 136 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 137 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 
 | 138 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 139 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 140 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 141 | [CryoFall](games/c/cryofall.md) | 4.50 | 
+| 141 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 142 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 143 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
 | 144 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
@@ -217,7 +217,7 @@
 | 215 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 216 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
 | 217 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
-| 218 | [Faeria](games/f/faeria.md) | 4.44 | 
+| 218 | [Faeria](games/f/faeria.md) | 4.43 | 
 | 219 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 220 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.83 | 
 | 221 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
@@ -383,7 +383,7 @@
 | 381 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 
 | 382 | [Limbo](games/l/limbo.md) | 4.64 | 
 | 383 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
-| 384 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 
+| 384 | [Little Inferno](games/l/little_inferno.md) | 4.58 | 
 | 385 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 386 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 387 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
@@ -590,7 +590,7 @@
 | 588 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
 | 589 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 590 | [SOMA](games/s/soma.md) | 4.64 | 
-| 591 | [Somerville](games/s/somerville.md) | 4.23 | 
+| 591 | [Somerville](games/s/somerville.md) | 4.22 | 
 | 592 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 593 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
 | 594 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
@@ -661,7 +661,7 @@
 | 659 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 660 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 661 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 662 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.08 | 
+| 662 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.09 | 
 | 663 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 664 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 665 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
@@ -783,7 +783,7 @@
 | 781 | [Warface](games/w/warface.md) | 3.93 | 
 | 782 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 783 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 784 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
+| 784 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
 | 785 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 
 | 786 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
 | 787 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
@@ -812,7 +812,7 @@
 | 810 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 811 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 812 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 813 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 
+| 813 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 
 | 814 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
 | 815 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 816 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
