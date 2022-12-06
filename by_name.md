@@ -80,7 +80,7 @@
 | 78 | [Before We Leave](games/b/before_we_leave.md) | 4.62 | 
 | 79 | [Beholder 3](games/b/beholder_3.md) | 4.47 | 
 | 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 81 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
+| 81 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
 | 82 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 83 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 84 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.50 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
@@ -298,7 +298,7 @@
 | 296 | [Haven](games/h/haven.md) | 4.78 | 
 | 297 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 298 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 299 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 299 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 
 | 300 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 301 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
 | 302 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
@@ -657,7 +657,7 @@
 | 655 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 656 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 657 | [Tharsis](games/t/tharsis.md) | 4.13 | 
-| 658 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
+| 658 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 659 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 660 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 661 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
@@ -779,7 +779,7 @@
 | 777 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 778 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 779 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 780 | [War Mongrels](games/w/war_mongrels.md) | 4.27 | 
+| 780 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
 | 781 | [Warface](games/w/warface.md) | 3.93 | 
 | 782 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 783 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
