@@ -326,7 +326,7 @@
 | 324 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 325 | [Imagine Earth](games/i/imagine_earth.md) | 4.33 | 
 | 326 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
-| 327 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
+| 327 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
 | 328 | [Industries of Titan](games/i/industries_of_titan.md) | 4.52 | 
 | 329 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 330 | [INSIDE](games/i/inside.md) | 4.69 | 
@@ -408,7 +408,7 @@
 | 406 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 407 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 408 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 409 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.44 | 
+| 409 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 
 | 410 | [Minit](games/m/minit.md) | 4.54 | 
 | 411 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.86 | 
 | 412 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
@@ -698,7 +698,7 @@
 | 696 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 697 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
 | 698 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 699 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
+| 699 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 
 | 700 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 701 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 702 | [The Tenants](games/t/the_tenants.md) | 4.52 | 
