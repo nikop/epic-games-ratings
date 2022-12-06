@@ -338,7 +338,7 @@
 | 322 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
 | 322 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
 | 322 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
-| 322 | [Divine Knockout](games/d/divine_knockout.md) | 4.61 | 
+| 322 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.61 | 
 | 322 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 341 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 341 | [Control](games/c/control.md) | 4.60 | 
