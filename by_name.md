@@ -128,7 +128,7 @@
 | 126 | [Control](games/c/control.md) | 4.60 | 
 | 127 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 128 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 129 | [Core](games/c/core.md) | 4.39 | 
+| 129 | [Core](games/c/core.md) | 4.38 | 
 | 130 | [Coromon](games/c/coromon.md) | 4.65 | 
 | 131 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.70 | 
 | 132 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
@@ -253,7 +253,7 @@
 | 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 252 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 253 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
-| 254 | [Fort Triumph](games/f/fort_triumph.md) | 4.07 | 
+| 254 | [Fort Triumph](games/f/fort_triumph.md) | 4.09 | 
 | 255 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 256 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 257 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
