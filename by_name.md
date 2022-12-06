@@ -222,7 +222,7 @@
 | 220 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.83 | 
 | 221 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 222 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
-| 223 | [Family Man](games/f/family_man.md) | 4.17 | 
+| 223 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 224 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 225 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
 | 226 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
@@ -801,7 +801,7 @@
 | 799 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 800 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
 | 801 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
-| 802 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
+| 802 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
 | 803 | [Windbound](games/w/windbound.md) | 4.19 | 
 | 804 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 805 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.61 | 

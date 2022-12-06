@@ -1,11 +1,11 @@
 {
   "ID": "ade60fe8b45645508a77a6667eb8ddb8",
   "Name": "Family Man",
-  "Rating": 4.17,
+  "Rating": 4.16,
   "NumberOfRatings": 28,
   "FirstSeen": "2022-07-22T20:29:37.2359816+00:00",
   "FirstSeenRating": "2022-08-17T17:01:52.6476845+00:00",
-  "LastChanged": "2022-10-01T23:32:15.5228765+00:00",
+  "LastChanged": "2022-12-06T22:57:46.7929898+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-17T17:01:52.6476847+00:00",
@@ -50,6 +50,11 @@
     {
       "Time": "2022-10-01T23:32:15.5228768+00:00",
       "Rating": 4.17,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-06T22:57:46.7929899+00:00",
+      "Rating": 4.16,
       "NumberOfRatings": null
     }
   ],
