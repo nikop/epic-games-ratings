@@ -487,7 +487,7 @@
 | 485 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 486 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 487 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
-| 488 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
+| 488 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 489 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 490 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 491 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
