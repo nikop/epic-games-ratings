@@ -435,7 +435,7 @@
 | 433 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
 | 434 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 435 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.60 | 
-| 436 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.06 | 
+| 436 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
 | 437 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 438 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 439 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -563,7 +563,7 @@
 | 561 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 562 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 563 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 564 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.74 | 
+| 564 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
 | 565 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 566 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
 | 567 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
@@ -661,7 +661,7 @@
 | 659 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 660 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 661 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 662 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.09 | 
+| 662 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.08 | 
 | 663 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 664 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 665 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
@@ -797,7 +797,7 @@
 | 795 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 796 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
 | 797 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 798 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
+| 798 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.78 | 
 | 799 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 800 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
 | 801 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 

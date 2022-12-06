@@ -231,7 +231,7 @@
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 25
+      "Count": 27
     },
     {
       "Text": "This game has Inclusive Character Customization",
@@ -248,6 +248,10 @@
     {
       "Text": "This game is Relaxing",
       "Count": 22
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 21
     }
   ]
 }
