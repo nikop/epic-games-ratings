@@ -440,7 +440,7 @@
 | 438 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 439 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 440 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 441 | [No Straight Roads](games/n/no_straight_roads.md) | 4.70 | 
+| 441 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
 | 442 | [NORCO](games/n/norco.md) | 4.58 | 
 | 443 | [Northgard](games/n/northgard.md) | 4.70 | 
 | 444 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
@@ -497,7 +497,7 @@
 | 495 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 496 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
 | 497 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 498 | [Predecessor](games/p/predecessor.md) | 4.25 | 
+| 498 | [Predecessor](games/p/predecessor.md) | 4.27 | 
 | 499 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 500 | [Prey](games/p/prey.md) | 4.61 | 
 | 501 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -693,7 +693,7 @@
 | 691 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 692 | [The Red Lantern](games/t/the_red_lantern.md) | 4.67 | 
 | 693 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 694 | [The Silent Age](games/t/the_silent_age.md) | 4.47 | 
+| 694 | [The Silent Age](games/t/the_silent_age.md) | 4.49 | 
 | 695 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 696 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 697 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
@@ -813,7 +813,7 @@
 | 811 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 812 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
 | 813 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 
-| 814 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 814 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
 | 815 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 816 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 817 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
