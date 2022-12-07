@@ -1,11 +1,11 @@
 {
   "ID": "f57987ad149c43b3a7a66a7f10828f92",
   "Name": "Quake",
-  "Rating": 4.8,
+  "Rating": 4.81,
   "NumberOfRatings": 53,
   "FirstSeen": "2022-07-22T20:23:41.8153102+00:00",
   "FirstSeenRating": "2022-08-05T13:31:10.1842866+00:00",
-  "LastChanged": "2022-12-06T19:57:32.7312742+00:00",
+  "LastChanged": "2022-12-07T03:13:03.8664276+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-05T13:31:10.1842868+00:00",
@@ -191,12 +191,17 @@
       "Time": "2022-12-06T19:57:32.7312744+00:00",
       "Rating": 4.8,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-07T03:13:03.8664277+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 35
+      "Count": 36
     }
   ]
 }

@@ -487,7 +487,7 @@
 | 485 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 486 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 487 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
-| 488 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
+| 488 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 489 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
 | 490 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 491 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
@@ -502,7 +502,7 @@
 | 500 | [Prey](games/p/prey.md) | 4.61 | 
 | 501 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 502 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 503 | [Quake](games/q/quake.md) | 4.80 | 
+| 503 | [Quake](games/q/quake.md) | 4.81 | 
 | 504 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 505 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 506 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
@@ -546,7 +546,7 @@
 | 544 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 545 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 546 | [Sable](games/s/sable.md) | 4.57 | 
-| 547 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.81 | 
+| 547 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
 | 548 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 549 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 550 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
@@ -568,7 +568,7 @@
 | 566 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
 | 567 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
 | 568 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 569 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.75 | 
+| 569 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
 | 570 | [shapez](games/s/shapez.md) | 4.74 | 
 | 571 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 572 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 
