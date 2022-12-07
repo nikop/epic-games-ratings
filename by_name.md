@@ -320,7 +320,7 @@
 | 318 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 319 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 320 | [Huntdown](games/h/huntdown.md) | 4.84 | 
-| 321 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 321 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 322 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.62 | 
 | 323 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.64 | 
 | 324 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
@@ -391,7 +391,7 @@
 | 389 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
 | 390 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 391 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
-| 392 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
+| 392 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 393 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 394 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 395 | [Mago](games/m/mago.md) | 4.89 | 
@@ -407,7 +407,7 @@
 | 405 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 406 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 407 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
-| 408 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
+| 408 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 409 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 410 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 
 | 411 | [Minit](games/m/minit.md) | 4.54 | 
@@ -713,7 +713,7 @@
 | 711 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
 | 712 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 713 | [The Witness](games/t/the_witness.md) | 4.71 | 
-| 714 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 714 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 715 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 716 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 717 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
@@ -816,7 +816,7 @@
 | 814 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 
 | 815 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
 | 816 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 817 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
+| 817 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 818 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
 | 819 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 820 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
