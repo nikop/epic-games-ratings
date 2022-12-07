@@ -53,7 +53,7 @@
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
-| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.40 | 
+| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.45 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
@@ -91,7 +91,7 @@
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
-| 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
+| 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
@@ -106,7 +106,7 @@
 | 104 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 105 | [Card Shark](games/c/card_shark.md) | 4.64 | 
 | 106 | [CARRION](games/c/carrion.md) | 4.67 | 
-| 107 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.33 | 
+| 107 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
 | 108 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
 | 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 110 | [Celeste](games/c/celeste.md) | 4.92 | 
@@ -226,7 +226,7 @@
 | 224 | [Fangs](games/f/fangs.md) | 4.04 | 
 | 225 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 226 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
-| 227 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
+| 227 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.58 | 
 | 228 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 229 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 230 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
@@ -296,7 +296,7 @@
 | 294 | [Hammerting](games/h/hammerting.md) | 4.37 | 
 | 295 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 296 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.70 | 
-| 297 | [Haven](games/h/haven.md) | 4.78 | 
+| 297 | [Haven](games/h/haven.md) | 4.76 | 
 | 298 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 299 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 300 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
@@ -691,7 +691,7 @@
 | 689 | [The Medium](games/t/the_medium.md) | 4.57 | 
 | 690 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
 | 691 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 692 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
+| 692 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 693 | [The Red Lantern](games/t/the_red_lantern.md) | 4.67 | 
 | 694 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 695 | [The Silent Age](games/t/the_silent_age.md) | 4.42 | 

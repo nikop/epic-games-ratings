@@ -1,10 +1,10 @@
 {
   "ID": "a9dad8af015a422eb89a5f88e6def923",
   "Name": "The Pathless",
-  "Rating": 4.68,
+  "Rating": 4.67,
   "NumberOfRatings": 57,
   "FirstSeen": "2022-07-22T20:23:35.2337703+00:00",
-  "LastChanged": "2022-11-26T19:57:32.638905+00:00",
+  "LastChanged": "2022-12-07T20:57:23.1559665+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:35.2337706+00:00",
@@ -154,6 +154,11 @@
     {
       "Time": "2022-11-26T19:57:32.6389052+00:00",
       "Rating": 4.68,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-07T20:57:23.1559667+00:00",
+      "Rating": 4.67,
       "NumberOfRatings": null
     }
   ],
