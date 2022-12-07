@@ -731,23 +731,23 @@
 | 726 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
 | 726 | [Saturnalia](games/s/saturnalia.md) | 4.23 | 
 | 731 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 731 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
 | 731 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.22 | 
 | 731 | [Somerville](games/s/somerville.md) | 4.22 | 
-| 734 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
-| 734 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
-| 734 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
-| 734 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
-| 734 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
-| 739 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 739 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 739 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
-| 739 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 739 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 739 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 739 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 739 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
-| 739 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
-| 739 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 735 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
+| 735 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
+| 735 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
+| 735 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
+| 735 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
+| 740 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 740 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 740 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
+| 740 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 740 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 740 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 740 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
+| 740 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
+| 740 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 749 | [Windbound](games/w/windbound.md) | 4.19 | 
 | 749 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 
 | 749 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 

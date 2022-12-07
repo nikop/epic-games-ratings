@@ -332,7 +332,7 @@
 | 330 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 331 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 332 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
-| 333 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 333 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
 | 334 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 335 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 336 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
@@ -616,7 +616,7 @@
 | 614 | [Star Stable Online](games/s/star_stable_online.md) | 4.38 | 
 | 615 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 616 | [Starsand](games/s/starsand.md) | 4.19 | 
-| 617 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
+| 617 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
 | 618 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
 | 619 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 620 | [Steelrising](games/s/steelrising.md) | 4.26 | 
