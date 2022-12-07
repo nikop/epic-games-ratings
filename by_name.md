@@ -475,7 +475,7 @@
 | 473 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 474 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.57 | 
 | 475 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 476 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
+| 476 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.38 | 
 | 477 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 478 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 479 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.25 | 
@@ -514,7 +514,7 @@
 | 512 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 513 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 514 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 515 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
+| 515 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 516 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 517 | [Redout 2](games/r/redout_2.md) | 4.54 | 
 | 518 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
@@ -661,7 +661,7 @@
 | 659 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 660 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 661 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 662 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.10 | 
+| 662 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.08 | 
 | 663 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 664 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 665 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 

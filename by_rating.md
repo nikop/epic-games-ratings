@@ -547,7 +547,6 @@
 | 540 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
 | 540 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 540 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 540 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.46 | 
 | 540 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
 | 540 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.46 | 
 | 540 | [Figment](games/f/figment.md) | 4.46 | 
@@ -556,21 +555,22 @@
 | 540 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 540 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 540 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 
-| 557 | [SMITE](games/s/smite.md) | 4.45 | 
-| 557 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 557 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 557 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 557 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 557 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
-| 557 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 557 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 557 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 
-| 557 | [Good Company](games/g/good_company.md) | 4.45 | 
-| 557 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
-| 557 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
-| 557 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.45 | 
-| 557 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
-| 557 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.45 | 
+| 556 | [SMITE](games/s/smite.md) | 4.45 | 
+| 556 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 556 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 556 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 556 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 556 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
+| 556 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 556 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 556 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 556 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 
+| 556 | [Good Company](games/g/good_company.md) | 4.45 | 
+| 556 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
+| 556 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
+| 556 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.45 | 
+| 556 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
+| 556 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.45 | 
 | 572 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 572 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 572 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
@@ -636,21 +636,21 @@
 | 630 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 630 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
 | 630 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
+| 630 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.38 | 
 | 630 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 638 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 638 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 638 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 638 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 638 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
-| 638 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 638 | [Torchlight](games/t/torchlight.md) | 4.37 | 
-| 638 | [Encased](games/e/encased.md) | 4.37 | 
-| 638 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
-| 638 | [Othercide](games/o/othercide.md) | 4.37 | 
-| 638 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 638 | [Hammerting](games/h/hammerting.md) | 4.37 | 
-| 638 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 638 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
+| 639 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 639 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 639 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 639 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 639 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
+| 639 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 639 | [Torchlight](games/t/torchlight.md) | 4.37 | 
+| 639 | [Encased](games/e/encased.md) | 4.37 | 
+| 639 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
+| 639 | [Othercide](games/o/othercide.md) | 4.37 | 
+| 639 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 639 | [Hammerting](games/h/hammerting.md) | 4.37 | 
+| 639 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 652 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 652 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 652 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
@@ -780,15 +780,15 @@
 | 778 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 778 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 778 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 778 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.10 | 
-| 782 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
-| 782 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
-| 782 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
-| 782 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
-| 782 | [Fort Triumph](games/f/fort_triumph.md) | 4.09 | 
-| 787 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 787 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
-| 787 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
+| 781 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 781 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
+| 781 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
+| 781 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
+| 781 | [Fort Triumph](games/f/fort_triumph.md) | 4.09 | 
+| 786 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 786 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
+| 786 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
+| 786 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.08 | 
 | 790 | [Lake](games/l/lake.md) | 4.07 | 
 | 790 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
 | 792 | [Godfall](games/g/godfall.md) | 4.06 | 
