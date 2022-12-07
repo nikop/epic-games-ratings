@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.10 | 
+| 1 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.11 | 
 | 2 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.42 | 
 | 3 | [Predecessor](games/p/predecessor.md) | 4.30 | 
 | 4 | [Fangs](games/f/fangs.md) | 4.04 | 

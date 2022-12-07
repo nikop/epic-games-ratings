@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
-| 2 | [20XX](games/2/20xx.md) | 4.60 | 
+| 2 | [20XX](games/2/20xx.md) | 4.61 | 
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.32 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
@@ -187,7 +187,7 @@
 | 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.39 | 
 | 186 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
-| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 
+| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.76 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 190 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.62 | 
 | 191 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
@@ -325,9 +325,9 @@
 | 323 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.64 | 
 | 324 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
 | 325 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 326 | [Imagine Earth](games/i/imagine_earth.md) | 4.33 | 
+| 326 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
 | 327 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 
-| 328 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
+| 328 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
 | 329 | [Industries of Titan](games/i/industries_of_titan.md) | 4.52 | 
 | 330 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 331 | [INSIDE](games/i/inside.md) | 4.69 | 
@@ -662,7 +662,7 @@
 | 660 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 661 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 662 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 663 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.10 | 
+| 663 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.11 | 
 | 664 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 665 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 666 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
