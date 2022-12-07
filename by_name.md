@@ -271,7 +271,7 @@
 | 269 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
 | 270 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 271 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 
-| 272 | [GigaBash](games/g/gigabash.md) | 4.54 | 
+| 272 | [GigaBash](games/g/gigabash.md) | 4.58 | 
 | 273 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 274 | [GNOG](games/g/gnog.md) | 4.64 | 
 | 275 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
@@ -306,7 +306,7 @@
 | 304 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 305 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 306 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 307 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 307 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 308 | [Hob](games/h/hob.md) | 4.57 | 
 | 309 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 310 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
@@ -436,7 +436,7 @@
 | 434 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 435 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 436 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.62 | 
-| 437 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
+| 437 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 
 | 438 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 439 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 440 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -446,7 +446,7 @@
 | 444 | [Northgard](games/n/northgard.md) | 4.70 | 
 | 445 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
 | 446 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
-| 447 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.61 | 
+| 447 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.58 | 
 | 448 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
 | 449 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 450 | [Observation](games/o/observation.md) | 4.56 | 
@@ -590,7 +590,7 @@
 | 588 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 589 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
 | 590 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 591 | [SOMA](games/s/soma.md) | 4.64 | 
+| 591 | [SOMA](games/s/soma.md) | 4.63 | 
 | 592 | [Somerville](games/s/somerville.md) | 4.22 | 
 | 593 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
 | 594 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
@@ -605,11 +605,11 @@
 | 603 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 604 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
 | 605 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.39 | 
-| 606 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.79 | 
+| 606 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 607 | [SpiderHeck](games/s/spiderheck.md) | 4.73 | 
 | 608 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 609 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 610 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
+| 610 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
 | 611 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.58 | 
 | 612 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
 | 613 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
@@ -792,7 +792,7 @@
 | 790 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 791 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 792 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
-| 793 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.28 | 
+| 793 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.29 | 
 | 794 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
 | 795 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 796 | [Weird West](games/w/weird_west.md) | 4.45 | 
