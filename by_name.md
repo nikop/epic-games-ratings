@@ -406,7 +406,7 @@
 | 404 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 405 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 406 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
-| 407 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
+| 407 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 408 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 409 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 
 | 410 | [Minit](games/m/minit.md) | 4.54 | 
@@ -452,7 +452,7 @@
 | 450 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
 | 451 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
 | 452 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.74 | 
-| 453 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
+| 453 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.46 | 
 | 454 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 455 | [Old World](games/o/old_world.md) | 4.64 | 
 | 456 | [Ooblets](games/o/ooblets.md) | 4.87 | 
@@ -497,7 +497,7 @@
 | 495 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 496 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 497 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 498 | [Predecessor](games/p/predecessor.md) | 4.27 | 
+| 498 | [Predecessor](games/p/predecessor.md) | 4.28 | 
 | 499 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 500 | [Prey](games/p/prey.md) | 4.61 | 
 | 501 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -506,7 +506,7 @@
 | 504 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 505 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 506 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 507 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.47 | 
+| 507 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
 | 508 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 509 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
 | 510 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.79 | 
@@ -537,7 +537,7 @@
 | 535 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 536 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 537 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 538 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 538 | [Rogue Lords](games/r/rogue_lords.md) | 4.67 | 
 | 539 | [Roguebook](games/r/roguebook.md) | 4.62 | 
 | 540 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 541 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
