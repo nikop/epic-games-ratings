@@ -219,7 +219,7 @@
 | 217 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 218 | [Faeria](games/f/faeria.md) | 4.43 | 
 | 219 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 220 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.83 | 
+| 220 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.84 | 
 | 221 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 222 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
 | 223 | [Family Man](games/f/family_man.md) | 4.16 | 
@@ -362,7 +362,7 @@
 | 360 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
 | 361 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 362 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 363 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 
+| 363 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
 | 364 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 365 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
 | 366 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
@@ -598,7 +598,7 @@
 | 596 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 597 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
 | 598 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
-| 599 | [Space Punks](games/s/space_punks.md) | 4.18 | 
+| 599 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 600 | [Speed Brawl](games/s/speed_brawl.md) | 4.29 | 
 | 601 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 602 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
