@@ -148,7 +148,7 @@
 | 146 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 147 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 148 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
-| 149 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.58 | 
+| 149 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
 | 150 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
 | 151 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
 | 152 | [Dark Light](games/d/dark_light.md) | 4.28 | 
@@ -253,7 +253,7 @@
 | 251 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 252 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 253 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
-| 254 | [Fort Triumph](games/f/fort_triumph.md) | 4.09 | 
+| 254 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 255 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 256 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 257 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
@@ -349,7 +349,7 @@
 | 347 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 348 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.53 | 
 | 349 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 350 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
+| 350 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 351 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 352 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
 | 353 | [King of Retail](games/k/king_of_retail.md) | 4.71 | 
@@ -388,7 +388,7 @@
 | 386 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 387 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
 | 388 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
-| 389 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 389 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 390 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
 | 391 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
 | 392 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
@@ -656,7 +656,7 @@
 | 654 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 655 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 656 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 657 | [Tharsis](games/t/tharsis.md) | 4.13 | 
+| 657 | [Tharsis](games/t/tharsis.md) | 4.12 | 
 | 658 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 659 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 660 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
