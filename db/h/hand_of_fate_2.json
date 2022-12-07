@@ -1,10 +1,10 @@
 {
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
-  "Rating": 4.57,
+  "Rating": 4.56,
   "NumberOfRatings": 780,
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
-  "LastChanged": "2022-12-04T14:57:29.1829379+00:00",
+  "LastChanged": "2022-12-07T09:57:24.3248906+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:25.6908042+00:00",
@@ -680,6 +680,11 @@
       "Time": "2022-12-04T14:57:29.1829382+00:00",
       "Rating": 4.57,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-07T09:57:24.3248908+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -689,7 +694,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Amazing Characters",

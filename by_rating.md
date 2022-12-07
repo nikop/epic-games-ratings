@@ -402,7 +402,6 @@
 | 400 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 400 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 400 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 400 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
 | 400 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 400 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
 | 400 | [Moving Out](games/m/moving_out.md) | 4.57 | 
@@ -415,20 +414,21 @@
 | 400 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.57 | 
 | 400 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
 | 400 | [The Medium](games/t/the_medium.md) | 4.57 | 
-| 416 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 416 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 416 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 416 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 416 | [Hue](games/h/hue.md) | 4.56 | 
-| 416 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 416 | [Outward](games/o/outward.md) | 4.56 | 
-| 416 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
-| 416 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
-| 416 | [Warpips](games/w/warpips.md) | 4.56 | 
-| 416 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 416 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
-| 416 | [Observation](games/o/observation.md) | 4.56 | 
-| 416 | [STG Football](games/s/stg_football.md) | 4.56 | 
+| 415 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 415 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 415 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 415 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 415 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 415 | [Hue](games/h/hue.md) | 4.56 | 
+| 415 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 415 | [Outward](games/o/outward.md) | 4.56 | 
+| 415 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
+| 415 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 415 | [Warpips](games/w/warpips.md) | 4.56 | 
+| 415 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 415 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
+| 415 | [Observation](games/o/observation.md) | 4.56 | 
+| 415 | [STG Football](games/s/stg_football.md) | 4.56 | 
 | 430 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 430 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 430 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
@@ -807,9 +807,9 @@
 | 805 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 805 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 807 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 808 | [Warface](games/w/warface.md) | 3.93 | 
 | 808 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.93 | 
 | 808 | [Conarium](games/c/conarium.md) | 3.93 | 
+| 810 | [Warface](games/w/warface.md) | 3.92 | 
 | 811 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 811 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 811 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 

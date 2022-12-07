@@ -293,7 +293,7 @@
 | 291 | [Hades](games/h/hades.md) | 4.92 | 
 | 292 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 293 | [Hammerting](games/h/hammerting.md) | 4.37 | 
-| 294 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 294 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 295 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.70 | 
 | 296 | [Haven](games/h/haven.md) | 4.78 | 
 | 297 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
@@ -780,7 +780,7 @@
 | 778 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 779 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
 | 780 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
-| 781 | [Warface](games/w/warface.md) | 3.93 | 
+| 781 | [Warface](games/w/warface.md) | 3.92 | 
 | 782 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 783 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 784 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
