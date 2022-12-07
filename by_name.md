@@ -497,7 +497,7 @@
 | 495 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 496 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 497 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 498 | [Predecessor](games/p/predecessor.md) | 4.28 | 
+| 498 | [Predecessor](games/p/predecessor.md) | 4.29 | 
 | 499 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 500 | [Prey](games/p/prey.md) | 4.61 | 
 | 501 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -815,7 +815,7 @@
 | 813 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 
 | 814 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
 | 815 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 816 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 816 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.68 | 
 | 817 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
 | 818 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 819 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
