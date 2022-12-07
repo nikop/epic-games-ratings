@@ -70,25 +70,25 @@
 | 67 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 67 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 
 | 67 | [Quake](games/q/quake.md) | 4.81 | 
-| 67 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.81 | 
 | 67 | [Superliminal](games/s/superliminal.md) | 4.81 | 
 | 67 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 67 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
 | 67 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
-| 76 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 76 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 76 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 76 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 76 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 76 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
-| 76 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
-| 76 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
-| 76 | [Griftlands](games/g/griftlands.md) | 4.80 | 
-| 76 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
-| 76 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
-| 76 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
-| 76 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 76 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
+| 75 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 75 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 75 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 75 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 75 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 75 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
+| 75 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
+| 75 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
+| 75 | [Griftlands](games/g/griftlands.md) | 4.80 | 
+| 75 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
+| 75 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
+| 75 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
+| 75 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
+| 75 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 75 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
 | 90 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 90 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 90 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
