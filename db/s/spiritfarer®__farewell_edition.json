@@ -1,10 +1,10 @@
 {
   "ID": "8518a041f3064613a354f997aac0c3cb",
   "Name": "Spiritfarer\u00AE: Farewell Edition",
-  "Rating": 4.88,
+  "Rating": 4.89,
   "NumberOfRatings": 178,
   "FirstSeen": "2022-07-22T20:25:28.7454672+00:00",
-  "LastChanged": "2022-12-05T15:57:46.5986259+00:00",
+  "LastChanged": "2022-12-07T13:58:11.7045759+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:28.7454676+00:00",
@@ -334,6 +334,11 @@
     {
       "Time": "2022-12-05T15:57:46.598626+00:00",
       "Rating": 4.88,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-07T13:58:11.7045762+00:00",
+      "Rating": 4.89,
       "NumberOfRatings": null
     }
   ],

@@ -113,7 +113,7 @@
 | 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 
 | 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 113 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
-| 114 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
+| 114 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.82 | 
 | 115 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 116 | [Chorus](games/c/chorus.md) | 4.46 | 
 | 117 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.04 | 
@@ -199,7 +199,7 @@
 | 197 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
 | 198 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 199 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 200 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.28 | 
+| 200 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
 | 201 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 202 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.78 | 
 | 203 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -325,7 +325,7 @@
 | 323 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
 | 324 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 325 | [Imagine Earth](games/i/imagine_earth.md) | 4.33 | 
-| 326 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 
+| 326 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 
 | 327 | [In Sound Mind](games/i/in_sound_mind.md) | 4.59 | 
 | 328 | [Industries of Titan](games/i/industries_of_titan.md) | 4.52 | 
 | 329 | [Inscryption](games/i/inscryption.md) | 4.86 | 
@@ -432,7 +432,7 @@
 | 430 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
 | 431 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 432 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 433 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
+| 433 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 434 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 435 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.60 | 
 | 436 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
@@ -507,7 +507,7 @@
 | 505 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 506 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 507 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
-| 508 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 508 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.49 | 
 | 509 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
 | 510 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
 | 511 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
@@ -608,13 +608,13 @@
 | 606 | [SpiderHeck](games/s/spiderheck.md) | 4.73 | 
 | 607 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 608 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 609 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
+| 609 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.89 | 
 | 610 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.58 | 
 | 611 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
 | 612 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
 | 613 | [Star Stable Online](games/s/star_stable_online.md) | 4.38 | 
 | 614 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 615 | [Starsand](games/s/starsand.md) | 4.17 | 
+| 615 | [Starsand](games/s/starsand.md) | 4.19 | 
 | 616 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 617 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
 | 618 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
