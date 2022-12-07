@@ -95,7 +95,7 @@
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
-| 96 | [Breathedge](games/b/breathedge.md) | 4.59 | 
+| 96 | [Breathedge](games/b/breathedge.md) | 4.60 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 99 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
@@ -620,9 +620,9 @@
 | 618 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
 | 619 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 620 | [Steelrising](games/s/steelrising.md) | 4.26 | 
-| 621 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
+| 621 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
 | 622 | [STG Football](games/s/stg_football.md) | 4.56 | 
-| 623 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.52 | 
+| 623 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 624 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 625 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
 | 626 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
@@ -658,7 +658,7 @@
 | 656 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 657 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 658 | [Tharsis](games/t/tharsis.md) | 4.12 | 
-| 659 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 659 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
 | 660 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 661 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 662 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
@@ -677,7 +677,7 @@
 | 675 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
 | 676 | [The Fall](games/t/the_fall.md) | 4.28 | 
 | 677 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 
-| 678 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.73 | 
+| 678 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
 | 679 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
 | 680 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 
 | 681 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
