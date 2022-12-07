@@ -45,7 +45,7 @@
 | 43 | [Ashen](games/a/ashen.md) | 4.32 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
+| 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.55 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
@@ -377,7 +377,7 @@
 | 375 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 376 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 377 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
-| 378 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 
+| 378 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 379 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 380 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 381 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 
@@ -398,7 +398,7 @@
 | 396 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 397 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 398 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 399 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.40 | 
+| 399 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.42 | 
 | 400 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 401 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 402 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
@@ -477,7 +477,7 @@
 | 475 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 476 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.38 | 
 | 477 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 478 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
+| 478 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 479 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.25 | 
 | 480 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 481 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
@@ -524,7 +524,7 @@
 | 522 | [Revita](games/r/revita.md) | 4.74 | 
 | 523 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 524 | [RiME](games/r/rime.md) | 4.59 | 
-| 525 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
+| 525 | [RiMS Racing](games/r/rims_racing.md) | 4.41 | 
 | 526 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 527 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 528 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
