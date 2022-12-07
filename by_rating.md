@@ -329,6 +329,7 @@
 | 323 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 323 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 323 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 323 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 323 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
 | 323 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 323 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 
@@ -342,26 +343,25 @@
 | 323 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.61 | 
 | 323 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.61 | 
 | 323 | [Darkwood](games/d/darkwood.md) | 4.61 | 
-| 343 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
-| 343 | [Control](games/c/control.md) | 4.60 | 
-| 343 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 343 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 343 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 343 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
-| 343 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
-| 343 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
-| 343 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 343 | [20XX](games/2/20xx.md) | 4.60 | 
-| 343 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 343 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.60 | 
-| 343 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 343 | [Road 96](games/r/road_96.md) | 4.60 | 
-| 343 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
-| 343 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
-| 343 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 343 | [GRIME](games/g/grime.md) | 4.60 | 
-| 343 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 343 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.60 | 
+| 344 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
+| 344 | [Control](games/c/control.md) | 4.60 | 
+| 344 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 344 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 344 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 344 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
+| 344 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
+| 344 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 344 | [20XX](games/2/20xx.md) | 4.60 | 
+| 344 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 344 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.60 | 
+| 344 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 344 | [Road 96](games/r/road_96.md) | 4.60 | 
+| 344 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
+| 344 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
+| 344 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
+| 344 | [GRIME](games/g/grime.md) | 4.60 | 
+| 344 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
+| 344 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.60 | 
 | 363 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 363 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 363 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
