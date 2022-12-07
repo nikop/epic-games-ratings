@@ -89,6 +89,7 @@
 | 76 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 76 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 76 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
+| 90 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 90 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 90 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 90 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
@@ -98,13 +99,12 @@
 | 90 | [Journey](games/j/journey.md) | 4.79 | 
 | 90 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
 | 90 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
-| 99 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
-| 99 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 99 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 99 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 99 | [Haven](games/h/haven.md) | 4.78 | 
-| 99 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.78 | 
-| 99 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.78 | 
+| 100 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 100 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
+| 100 | [Haven](games/h/haven.md) | 4.78 | 
+| 100 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.78 | 
+| 100 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.78 | 
 | 106 | [Borderlands 2](games/b/borderlands_2.md) | 4.77 | 
 | 106 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 106 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 
@@ -158,19 +158,19 @@
 | 143 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
 | 143 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
 | 143 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
+| 143 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 143 | [SpiderHeck](games/s/spiderheck.md) | 4.73 | 
 | 143 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 161 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 161 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 161 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 161 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 161 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
-| 161 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
-| 161 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 161 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
-| 161 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
-| 161 | [Outlast](games/o/outlast.md) | 4.72 | 
-| 161 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
+| 162 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 162 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 162 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 162 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 162 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
+| 162 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
+| 162 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 162 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
+| 162 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
+| 162 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
 | 172 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 172 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 172 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
@@ -624,19 +624,19 @@
 | 621 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 621 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 621 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
+| 621 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.39 | 
 | 621 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 
 | 621 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 621 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
 | 621 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.39 | 
-| 629 | [Core](games/c/core.md) | 4.38 | 
-| 629 | [Star Stable Online](games/s/star_stable_online.md) | 4.38 | 
-| 629 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 629 | [Tacoma](games/t/tacoma.md) | 4.38 | 
-| 629 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.38 | 
-| 629 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 629 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
-| 629 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
-| 629 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
+| 630 | [Core](games/c/core.md) | 4.38 | 
+| 630 | [Star Stable Online](games/s/star_stable_online.md) | 4.38 | 
+| 630 | [Tacoma](games/t/tacoma.md) | 4.38 | 
+| 630 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.38 | 
+| 630 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 630 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
+| 630 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
+| 630 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 638 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 638 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 638 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
@@ -783,12 +783,12 @@
 | 778 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.10 | 
 | 782 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 782 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
+| 782 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 782 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
 | 782 | [Fort Triumph](games/f/fort_triumph.md) | 4.09 | 
-| 786 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 786 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
-| 786 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
-| 786 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
+| 787 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 787 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.08 | 
+| 787 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
 | 790 | [Lake](games/l/lake.md) | 4.07 | 
 | 790 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
 | 792 | [Godfall](games/g/godfall.md) | 4.06 | 

@@ -184,7 +184,7 @@
 | 182 | [Diabotical](games/d/diabotical.md) | 4.76 | 
 | 183 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 184 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
-| 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.39 | 
 | 186 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 
@@ -305,7 +305,7 @@
 | 303 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 304 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 305 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 306 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 306 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 307 | [Hob](games/h/hob.md) | 4.57 | 
 | 308 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 309 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
@@ -427,7 +427,7 @@
 | 425 | [MythForce](games/m/mythforce.md) | 4.50 | 
 | 426 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 427 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
-| 428 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 
+| 428 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 429 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
 | 430 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
 | 431 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
@@ -463,7 +463,7 @@
 | 461 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 462 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
 | 463 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 464 | [Outlast](games/o/outlast.md) | 4.72 | 
+| 464 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 465 | [Outlast 2](games/o/outlast_2.md) | 4.70 | 
 | 466 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 467 | [Outward](games/o/outward.md) | 4.56 | 
