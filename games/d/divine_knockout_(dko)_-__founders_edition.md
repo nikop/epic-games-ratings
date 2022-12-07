@@ -1,5 +1,5 @@
 # Divine Knockout (DKO) -  Founders Edition
-Rating: 4.61 (60)  (as of 23.09.2022)  
+Rating: 4.62 (60)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -54,3 +54,4 @@ Rating: 4.61 (60)  (as of 23.09.2022)
 | 2022-12-02 | 4.63 | - |
 | 2022-12-04 | 4.62 | - |
 | 2022-12-05 | 4.61 | - |
+| 2022-12-07 | 4.62 | - |

@@ -171,7 +171,7 @@
 | 169 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 170 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.45 | 
 | 171 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 172 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.60 | 
+| 172 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.61 | 
 | 173 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
 | 174 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 175 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
@@ -189,7 +189,7 @@
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 190 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.61 | 
+| 190 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.62 | 
 | 191 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 192 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 193 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
