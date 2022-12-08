@@ -489,7 +489,7 @@
 | 487 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 488 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
 | 489 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
-| 490 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 490 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.55 | 
 | 491 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 492 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 493 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
@@ -498,7 +498,7 @@
 | 496 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 497 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 498 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 499 | [Predecessor](games/p/predecessor.md) | 4.31 | 
+| 499 | [Predecessor](games/p/predecessor.md) | 4.32 | 
 | 500 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 501 | [Prey](games/p/prey.md) | 4.61 | 
 | 502 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -614,7 +614,7 @@
 | 612 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.58 | 
 | 613 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
 | 614 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 615 | [Star Stable Online](games/s/star_stable_online.md) | 4.38 | 
+| 615 | [Star Stable Online](games/s/star_stable_online.md) | 4.39 | 
 | 616 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 617 | [Starsand](games/s/starsand.md) | 4.22 | 
 | 618 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
@@ -782,7 +782,7 @@
 | 780 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 781 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
 | 782 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
-| 783 | [Warface](games/w/warface.md) | 3.93 | 
+| 783 | [Warface](games/w/warface.md) | 3.92 | 
 | 784 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 785 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 786 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
