@@ -96,7 +96,7 @@
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.60 | 
-| 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
+| 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 99 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 100 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.30 | 
@@ -457,7 +457,7 @@
 | 455 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 456 | [Old World](games/o/old_world.md) | 4.64 | 
 | 457 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 458 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
+| 458 | [Operation: Tango](games/o/operation__tango.md) | 4.64 | 
 | 459 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
 | 460 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.79 | 
 | 461 | [Othercide](games/o/othercide.md) | 4.37 | 
