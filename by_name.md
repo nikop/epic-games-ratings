@@ -25,7 +25,7 @@
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 24 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.58 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
@@ -509,7 +509,7 @@
 | 507 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 508 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 509 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
-| 510 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.49 | 
+| 510 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 511 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
 | 512 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
 | 513 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
@@ -557,7 +557,7 @@
 | 555 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 556 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 557 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 558 | [Saturnalia](games/s/saturnalia.md) | 4.23 | 
+| 558 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 559 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 560 | [Scorn](games/s/scorn.md) | 4.48 | 
 | 561 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
@@ -754,7 +754,7 @@
 | 752 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 753 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 754 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 755 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 
+| 755 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 756 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.70 | 
 | 757 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 758 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
