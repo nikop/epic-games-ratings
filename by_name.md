@@ -6,7 +6,7 @@
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
-| 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
+| 7 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.62 | 
@@ -189,7 +189,7 @@
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.75 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
-| 190 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.62 | 
+| 190 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.63 | 
 | 191 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 192 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 193 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
@@ -316,7 +316,7 @@
 | 314 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 315 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
 | 316 | [House Party](games/h/house_party.md) | 4.29 | 
-| 317 | [Hue](games/h/hue.md) | 4.56 | 
+| 317 | [Hue](games/h/hue.md) | 4.55 | 
 | 318 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 319 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 320 | [Huntdown](games/h/huntdown.md) | 4.84 | 
@@ -336,7 +336,7 @@
 | 334 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 335 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 336 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 337 | [Ironcast](games/i/ironcast.md) | 3.91 | 
+| 337 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 338 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 339 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 340 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
@@ -399,7 +399,7 @@
 | 397 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 398 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 399 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 400 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.44 | 
+| 400 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.45 | 
 | 401 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 402 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 403 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
@@ -573,7 +573,7 @@
 | 571 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
 | 572 | [shapez](games/s/shapez.md) | 4.74 | 
 | 573 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 574 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 
+| 574 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.20 | 
 | 575 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
 | 576 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 577 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 
@@ -712,7 +712,7 @@
 | 710 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
 | 711 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 
 | 712 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
-| 713 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
+| 713 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 
 | 714 | [The Witness](games/t/the_witness.md) | 4.70 | 
 | 715 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 716 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
@@ -819,7 +819,7 @@
 | 817 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 818 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 819 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
-| 820 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
+| 820 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 821 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
 | 822 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
 | 823 | [ZOMBI](games/z/zombi.md) | 4.35 | 
