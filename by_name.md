@@ -281,7 +281,7 @@
 | 279 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
 | 280 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.93 | 
 | 281 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 282 | [Gone Home](games/g/gone_home.md) | 4.17 | 
+| 282 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 283 | [Good Company](games/g/good_company.md) | 4.45 | 
 | 284 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 285 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
