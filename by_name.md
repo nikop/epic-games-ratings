@@ -49,7 +49,7 @@
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.55 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
-| 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
+| 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
@@ -101,7 +101,7 @@
 | 99 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 100 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.30 | 
 | 101 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
-| 102 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
+| 102 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.08 | 
 | 103 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 104 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 105 | [Card Shark](games/c/card_shark.md) | 4.64 | 
@@ -399,7 +399,7 @@
 | 397 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 398 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 399 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 400 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.42 | 
+| 400 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.43 | 
 | 401 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 402 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 403 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
@@ -663,7 +663,7 @@
 | 661 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 662 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 663 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 664 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.12 | 
+| 664 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.11 | 
 | 665 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 666 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 667 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
@@ -740,7 +740,7 @@
 | 738 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 739 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.64 | 
 | 740 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 741 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
+| 741 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
 | 742 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
 | 743 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 744 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
