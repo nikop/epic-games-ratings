@@ -1,7 +1,16 @@
 {
   "ID": "eb99ee4694474e8da0b05a8ab391825c",
   "Name": "PUBG: BATTLEGROUNDS",
+  "Rating": 4.26,
   "FirstSeen": "2022-12-06T17:57:24.6501738+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
+  "LastChanged": "2022-12-08T10:57:21.6139881+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-12-08T10:57:21.6139883+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
