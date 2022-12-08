@@ -1,14 +1,19 @@
 {
   "ID": "315f40c8c7ae4f95ad7426f364a39194",
   "Name": "Fangs",
-  "Rating": 4.04,
+  "Rating": 4.15,
   "FirstSeen": "2022-11-30T22:56:56.3802137+00:00",
   "FirstSeenRating": "2022-12-07T16:57:36.8831309+00:00",
-  "LastChanged": "2022-12-07T16:57:36.883131+00:00",
+  "LastChanged": "2022-12-08T18:56:49.985927+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-07T16:57:36.8831311+00:00",
       "Rating": 4.04,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-08T18:56:49.9859271+00:00",
+      "Rating": 4.15,
       "NumberOfRatings": null
     }
   ],

@@ -20,7 +20,7 @@
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
-| 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
+| 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 24 | [Among Trees](games/a/among_trees.md) | 4.35 | 
@@ -223,7 +223,7 @@
 | 221 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 222 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
 | 223 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 224 | [Fangs](games/f/fangs.md) | 4.04 | 
+| 224 | [Fangs](games/f/fangs.md) | 4.15 | 
 | 225 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 226 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
 | 227 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.58 | 
@@ -271,7 +271,7 @@
 | 269 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
 | 270 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 271 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 
-| 272 | [GigaBash](games/g/gigabash.md) | 4.58 | 
+| 272 | [GigaBash](games/g/gigabash.md) | 4.59 | 
 | 273 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 274 | [GNOG](games/g/gnog.md) | 4.64 | 
 | 275 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
@@ -300,13 +300,13 @@
 | 298 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 299 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 300 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 301 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
+| 301 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
 | 302 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 303 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 304 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 305 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 306 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 307 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 307 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 308 | [Hob](games/h/hob.md) | 4.57 | 
 | 309 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 310 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
@@ -565,7 +565,7 @@
 | 563 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 564 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 565 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 566 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
+| 566 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.76 | 
 | 567 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 568 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
 | 569 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
@@ -782,7 +782,7 @@
 | 780 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 781 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
 | 782 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
-| 783 | [Warface](games/w/warface.md) | 3.93 | 
+| 783 | [Warface](games/w/warface.md) | 3.92 | 
 | 784 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 785 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 786 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
