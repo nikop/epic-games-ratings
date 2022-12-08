@@ -78,7 +78,7 @@
 | 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
 | 77 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
 | 78 | [Before We Leave](games/b/before_we_leave.md) | 4.62 | 
-| 79 | [Beholder 3](games/b/beholder_3.md) | 4.47 | 
+| 79 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
 | 81 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
 | 82 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
@@ -175,7 +175,7 @@
 | 173 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
 | 174 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 175 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
-| 176 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 176 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 
 | 177 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
 | 178 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 179 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
@@ -186,7 +186,7 @@
 | 184 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
 | 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.39 | 
 | 186 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
+| 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.76 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 190 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.63 | 
@@ -467,7 +467,7 @@
 | 465 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 466 | [Outlast 2](games/o/outlast_2.md) | 4.70 | 
 | 467 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
-| 468 | [Outward](games/o/outward.md) | 4.56 | 
+| 468 | [Outward](games/o/outward.md) | 4.55 | 
 | 469 | [Overcooked](games/o/overcooked.md) | 4.68 | 
 | 470 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 471 | [OVERPASS™](games/o/overpass™.md) | 4.17 | 
@@ -662,7 +662,7 @@
 | 660 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 661 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 662 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 663 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.11 | 
+| 663 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.12 | 
 | 664 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 665 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 666 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
