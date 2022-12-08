@@ -154,7 +154,7 @@
 | 152 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 153 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 154 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 155 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
+| 155 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
 | 156 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 157 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 158 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
@@ -188,7 +188,7 @@
 | 186 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.75 | 
-| 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
 | 190 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.63 | 
 | 191 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 192 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
@@ -498,7 +498,7 @@
 | 496 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 497 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 498 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 499 | [Predecessor](games/p/predecessor.md) | 4.31 | 
+| 499 | [Predecessor](games/p/predecessor.md) | 4.32 | 
 | 500 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 501 | [Prey](games/p/prey.md) | 4.61 | 
 | 502 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -591,7 +591,7 @@
 | 589 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 590 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
 | 591 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 592 | [SOMA](games/s/soma.md) | 4.63 | 
+| 592 | [SOMA](games/s/soma.md) | 4.64 | 
 | 593 | [Somerville](games/s/somerville.md) | 4.22 | 
 | 594 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
 | 595 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
