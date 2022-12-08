@@ -15,7 +15,7 @@
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
@@ -72,7 +72,7 @@
 | 70 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 71 | [Barony](games/b/barony.md) | 4.70 | 
 | 72 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
-| 73 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
+| 73 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 74 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 75 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
@@ -111,7 +111,7 @@
 | 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 110 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 
-| 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 113 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
 | 114 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.82 | 
 | 115 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
@@ -295,7 +295,7 @@
 | 293 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 294 | [Hammerting](games/h/hammerting.md) | 4.36 | 
 | 295 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 296 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.70 | 
+| 296 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
 | 297 | [Haven](games/h/haven.md) | 4.76 | 
 | 298 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 299 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
