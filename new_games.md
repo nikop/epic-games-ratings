@@ -9,4 +9,4 @@
 | 7 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
 | 8 | [Somerville](games/s/somerville.md) | 4.22 | 
 | 9 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
-| 10 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.45 | 
+| 10 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.47 | 

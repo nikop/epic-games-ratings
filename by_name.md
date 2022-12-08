@@ -31,7 +31,7 @@
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
-| 32 | [Anno 2070](games/a/anno_2070.md) | 4.42 | 
+| 32 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.41 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
@@ -54,7 +54,7 @@
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
-| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.45 | 
+| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.47 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.34 | 
@@ -310,7 +310,7 @@
 | 308 | [Hob](games/h/hob.md) | 4.57 | 
 | 309 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 310 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 311 | [Horace](games/h/horace.md) | 4.54 | 
+| 311 | [Horace](games/h/horace.md) | 4.53 | 
 | 312 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 313 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 314 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
@@ -425,7 +425,7 @@
 | 423 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
 | 424 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 425 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 426 | [MythForce](games/m/mythforce.md) | 4.50 | 
+| 426 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 427 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 428 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
 | 429 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
@@ -606,7 +606,7 @@
 | 604 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
 | 605 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.39 | 
 | 606 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
-| 607 | [SpiderHeck](games/s/spiderheck.md) | 4.73 | 
+| 607 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
 | 608 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
 | 609 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 610 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
@@ -650,7 +650,7 @@
 | 648 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 649 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 650 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 651 | [Tacoma](games/t/tacoma.md) | 4.38 | 
+| 651 | [Tacoma](games/t/tacoma.md) | 4.39 | 
 | 652 | [Tails of Iron](games/t/tails_of_iron.md) | 4.76 | 
 | 653 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 654 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
