@@ -45,7 +45,7 @@
 | 43 | [Ashen](games/a/ashen.md) | 4.33 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 
+| 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.55 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
@@ -79,7 +79,7 @@
 | 77 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
 | 78 | [Before We Leave](games/b/before_we_leave.md) | 4.62 | 
 | 79 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
-| 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
+| 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.69 | 
 | 81 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
 | 82 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 83 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
@@ -110,7 +110,7 @@
 | 108 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
 | 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 110 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 
+| 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 
 | 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 113 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
 | 114 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.82 | 
@@ -407,7 +407,7 @@
 | 405 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 406 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 407 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
-| 408 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
+| 408 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 409 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 410 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 
 | 411 | [Minit](games/m/minit.md) | 4.54 | 
@@ -663,7 +663,7 @@
 | 661 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 662 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 663 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 664 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.11 | 
+| 664 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.12 | 
 | 665 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 666 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 667 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
@@ -688,7 +688,7 @@
 | 686 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
 | 687 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
 | 688 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
-| 689 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 689 | [The Long Dark](games/t/the_long_dark.md) | 4.75 | 
 | 690 | [The Medium](games/t/the_medium.md) | 4.57 | 
 | 691 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
 | 692 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 

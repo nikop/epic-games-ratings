@@ -1,7 +1,7 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.04 | 
-| 2 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.11 | 
+| 2 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.12 | 
 | 3 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.45 | 
 | 4 | [Predecessor](games/p/predecessor.md) | 4.32 | 
 | 5 | [Fangs](games/f/fangs.md) | 4.15 | 
