@@ -187,7 +187,7 @@
 | 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.39 | 
 | 186 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
-| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.76 | 
+| 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.75 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 190 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.63 | 
 | 191 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
@@ -266,7 +266,7 @@
 | 264 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
 | 265 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 266 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 267 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
+| 267 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
 | 268 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 269 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
 | 270 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
@@ -558,7 +558,7 @@
 | 556 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 557 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 558 | [Saturnalia](games/s/saturnalia.md) | 4.23 | 
-| 559 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 559 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 560 | [Scorn](games/s/scorn.md) | 4.48 | 
 | 561 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
 | 562 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
@@ -747,7 +747,7 @@
 | 745 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 746 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.01 | 
 | 747 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 748 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
+| 748 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 749 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 750 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
 | 751 | [Transistor](games/t/transistor.md) | 4.63 | 
