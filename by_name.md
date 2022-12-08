@@ -133,7 +133,7 @@
 | 131 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.70 | 
 | 132 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 133 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
-| 134 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 
+| 134 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 135 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 136 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 137 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 
@@ -254,7 +254,7 @@
 | 252 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 253 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 254 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
-| 255 | [Fort Triumph](games/f/fort_triumph.md) | 4.09 | 
+| 255 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 256 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 257 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 258 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 

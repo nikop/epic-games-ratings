@@ -1,10 +1,10 @@
 {
   "ID": "58dbbafdb5b04b3e9442506354457e3c",
   "Name": "Fort Triumph",
-  "Rating": 4.09,
+  "Rating": 4.08,
   "FirstSeen": "2022-07-22T20:32:49.441525+00:00",
   "FirstSeenRating": "2022-12-02T08:58:26.1405445+00:00",
-  "LastChanged": "2022-12-08T02:12:28.3007183+00:00",
+  "LastChanged": "2022-12-08T07:58:00.8354337+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-02T08:58:26.140545+00:00",
@@ -64,6 +64,11 @@
     {
       "Time": "2022-12-08T02:12:28.3007186+00:00",
       "Rating": 4.09,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-08T07:58:00.8354339+00:00",
+      "Rating": 4.08,
       "NumberOfRatings": null
     }
   ],
