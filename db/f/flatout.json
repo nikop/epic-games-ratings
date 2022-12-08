@@ -1,10 +1,10 @@
 {
   "ID": "d98c82a9d1554fbdad96b236199c53ca",
   "Name": "Flatout",
-  "Rating": 4.05,
+  "Rating": 4.09,
   "FirstSeen": "2022-07-22T20:23:06.2936359+00:00",
   "FirstSeenRating": "2022-10-20T20:02:03.0558069+00:00",
-  "LastChanged": "2022-11-23T11:58:25.0092303+00:00",
+  "LastChanged": "2022-12-08T19:57:34.7335754+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-20T20:02:03.0558073+00:00",
@@ -19,6 +19,11 @@
     {
       "Time": "2022-11-23T11:58:25.0092306+00:00",
       "Rating": 4.05,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-08T19:57:34.7335755+00:00",
+      "Rating": 4.09,
       "NumberOfRatings": null
     }
   ],

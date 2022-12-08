@@ -48,7 +48,7 @@
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.55 | 
-| 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
+| 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
@@ -189,7 +189,7 @@
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.75 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
-| 190 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.63 | 
+| 190 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.62 | 
 | 191 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 192 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 193 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
@@ -248,7 +248,7 @@
 | 246 | [Firework](games/f/firework.md) | 4.89 | 
 | 247 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 248 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
-| 249 | [Flatout](games/f/flatout.md) | 4.05 | 
+| 249 | [Flatout](games/f/flatout.md) | 4.09 | 
 | 250 | [Flatout 2](games/f/flatout_2.md) | 4.92 | 
 | 251 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 252 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
@@ -278,7 +278,7 @@
 | 276 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 277 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
 | 278 | [Godfall](games/g/godfall.md) | 4.06 | 
-| 279 | [Godlike Burger](games/g/godlike_burger.md) | 4.21 | 
+| 279 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 280 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.93 | 
 | 281 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 282 | [Gone Home](games/g/gone_home.md) | 4.16 | 
@@ -447,7 +447,7 @@
 | 445 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
 | 446 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 447 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.58 | 
-| 448 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
+| 448 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
 | 449 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 450 | [Observation](games/o/observation.md) | 4.56 | 
 | 451 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
@@ -459,7 +459,7 @@
 | 457 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 458 | [Operation: Tango](games/o/operation__tango.md) | 4.64 | 
 | 459 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
-| 460 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.79 | 
+| 460 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 461 | [Othercide](games/o/othercide.md) | 4.37 | 
 | 462 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 463 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
@@ -498,13 +498,13 @@
 | 496 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 497 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 498 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 499 | [Predecessor](games/p/predecessor.md) | 4.32 | 
+| 499 | [Predecessor](games/p/predecessor.md) | 4.31 | 
 | 500 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 501 | [Prey](games/p/prey.md) | 4.61 | 
 | 502 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 503 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.04 | 
 | 504 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 505 | [Quake](games/q/quake.md) | 4.82 | 
+| 505 | [Quake](games/q/quake.md) | 4.81 | 
 | 506 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 507 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 508 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
@@ -782,7 +782,7 @@
 | 780 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 781 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
 | 782 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
-| 783 | [Warface](games/w/warface.md) | 3.92 | 
+| 783 | [Warface](games/w/warface.md) | 3.93 | 
 | 784 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 785 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 786 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
