@@ -685,13 +685,13 @@
 | 681 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 681 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 681 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
+| 681 | [Predecessor](games/p/predecessor.md) | 4.31 | 
 | 681 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.31 | 
-| 687 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 687 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
-| 687 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 687 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 
-| 687 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.30 | 
-| 687 | [Predecessor](games/p/predecessor.md) | 4.30 | 
+| 688 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 688 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
+| 688 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
+| 688 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 
+| 688 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.30 | 
 | 693 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 693 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 693 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
