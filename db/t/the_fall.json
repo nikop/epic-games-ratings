@@ -1,10 +1,10 @@
 {
   "ID": "d16f231f238646e881bb0cd83e1d30c8",
   "Name": "The Fall",
-  "Rating": 4.28,
+  "Rating": 4.29,
   "NumberOfRatings": 106,
   "FirstSeen": "2022-07-22T20:31:38.7819539+00:00",
-  "LastChanged": "2022-11-30T06:58:56.3024308+00:00",
+  "LastChanged": "2022-12-08T03:05:50.865515+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:38.7819541+00:00",
@@ -334,6 +334,11 @@
     {
       "Time": "2022-11-30T06:58:56.302431+00:00",
       "Rating": 4.28,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-08T03:05:50.8655153+00:00",
+      "Rating": 4.29,
       "NumberOfRatings": null
     }
   ],

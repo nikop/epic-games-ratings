@@ -293,7 +293,7 @@
 | 291 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 292 | [Hades](games/h/hades.md) | 4.92 | 
 | 293 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 294 | [Hammerting](games/h/hammerting.md) | 4.37 | 
+| 294 | [Hammerting](games/h/hammerting.md) | 4.36 | 
 | 295 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 296 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.70 | 
 | 297 | [Haven](games/h/haven.md) | 4.76 | 
@@ -415,7 +415,7 @@
 | 413 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 414 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 415 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
-| 416 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 416 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
 | 417 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 418 | [Moving Out](games/m/moving_out.md) | 4.57 | 
 | 419 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
@@ -653,7 +653,7 @@
 | 651 | [Tacoma](games/t/tacoma.md) | 4.38 | 
 | 652 | [Tails of Iron](games/t/tails_of_iron.md) | 4.76 | 
 | 653 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 654 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 654 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 655 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 656 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 657 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
@@ -675,7 +675,7 @@
 | 673 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 674 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 675 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
-| 676 | [The Fall](games/t/the_fall.md) | 4.28 | 
+| 676 | [The Fall](games/t/the_fall.md) | 4.29 | 
 | 677 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 
 | 678 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
 | 679 | [The Guild 3](games/t/the_guild_3.md) | 4.19 | 
@@ -818,7 +818,7 @@
 | 816 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 817 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 818 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
-| 819 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 819 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
 | 820 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
 | 821 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
 | 822 | [ZOMBI](games/z/zombi.md) | 4.35 | 

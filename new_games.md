@@ -10,4 +10,3 @@
 | 8 | [Somerville](games/s/somerville.md) | 4.22 | 
 | 9 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 10 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.45 | 
-| 11 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
