@@ -21,7 +21,7 @@
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
-| 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 24 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
@@ -143,7 +143,7 @@
 | 141 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 142 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 143 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
-| 144 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 144 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
 | 145 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 146 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 147 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
@@ -328,7 +328,7 @@
 | 326 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
 | 327 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 
 | 328 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 329 | [Industries of Titan](games/i/industries_of_titan.md) | 4.52 | 
+| 329 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 330 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 331 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 332 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
