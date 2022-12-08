@@ -13,7 +13,7 @@
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
-| 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
+| 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
@@ -42,7 +42,7 @@
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
-| 43 | [Ashen](games/a/ashen.md) | 4.32 | 
+| 43 | [Ashen](games/a/ashen.md) | 4.33 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 
@@ -54,7 +54,7 @@
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
-| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.47 | 
+| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.40 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.34 | 
@@ -130,7 +130,7 @@
 | 128 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 129 | [Core](games/c/core.md) | 4.38 | 
 | 130 | [Coromon](games/c/coromon.md) | 4.65 | 
-| 131 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.70 | 
+| 131 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
 | 132 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 133 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
 | 134 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
@@ -399,7 +399,7 @@
 | 397 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 398 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 399 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 400 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.43 | 
+| 400 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.44 | 
 | 401 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 402 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 403 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
@@ -474,7 +474,7 @@
 | 472 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
 | 473 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 474 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 475 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.57 | 
+| 475 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.54 | 
 | 476 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 477 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.38 | 
 | 478 | [Parkitect](games/p/parkitect.md) | 4.27 | 
@@ -484,7 +484,7 @@
 | 482 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 483 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 484 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 485 | [Patron](games/p/patron.md) | 3.90 | 
+| 485 | [Patron](games/p/patron.md) | 3.92 | 
 | 486 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 487 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 488 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
@@ -502,9 +502,9 @@
 | 500 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 501 | [Prey](games/p/prey.md) | 4.61 | 
 | 502 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 503 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.27 | 
+| 503 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.04 | 
 | 504 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 505 | [Quake](games/q/quake.md) | 4.81 | 
+| 505 | [Quake](games/q/quake.md) | 4.82 | 
 | 506 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 507 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 508 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
@@ -659,7 +659,7 @@
 | 657 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 658 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 659 | [Tharsis](games/t/tharsis.md) | 4.12 | 
-| 660 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 
+| 660 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 661 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 662 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 663 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
@@ -745,7 +745,7 @@
 | 743 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 744 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 745 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 746 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.01 | 
+| 746 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 
 | 747 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 748 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 749 | [Train Valley](games/t/train_valley.md) | 4.44 | 
@@ -782,7 +782,7 @@
 | 780 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 781 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
 | 782 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
-| 783 | [Warface](games/w/warface.md) | 3.92 | 
+| 783 | [Warface](games/w/warface.md) | 3.93 | 
 | 784 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 785 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 786 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 

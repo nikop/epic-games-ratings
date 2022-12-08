@@ -1,8 +1,8 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.27 | 
+| 1 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.04 | 
 | 2 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.11 | 
-| 3 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.43 | 
+| 3 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.44 | 
 | 4 | [Predecessor](games/p/predecessor.md) | 4.31 | 
 | 5 | [Fangs](games/f/fangs.md) | 4.04 | 
 | 6 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
