@@ -23,7 +23,7 @@
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 24 | [Among Trees](games/a/among_trees.md) | 4.36 | 
+| 24 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
@@ -90,7 +90,7 @@
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
+| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.84 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -199,7 +199,7 @@
 | 197 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
 | 198 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 199 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 200 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
+| 200 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.28 | 
 | 201 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 202 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.78 | 
 | 203 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -301,7 +301,7 @@
 | 299 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 300 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 301 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
-| 302 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 
+| 302 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 303 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 304 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 305 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
@@ -369,7 +369,7 @@
 | 367 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 368 | [Lake](games/l/lake.md) | 4.07 | 
 | 369 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 370 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 
+| 370 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
 | 371 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 372 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 373 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
@@ -502,7 +502,7 @@
 | 500 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 501 | [Prey](games/p/prey.md) | 4.61 | 
 | 502 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 503 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.26 | 
+| 503 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.27 | 
 | 504 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 505 | [Quake](games/q/quake.md) | 4.81 | 
 | 506 | [Rage 2](games/r/rage_2.md) | 4.29 | 
@@ -562,7 +562,7 @@
 | 560 | [Scorn](games/s/scorn.md) | 4.48 | 
 | 561 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
 | 562 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 563 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
+| 563 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 564 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 565 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 566 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
@@ -616,7 +616,7 @@
 | 614 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
 | 615 | [Star Stable Online](games/s/star_stable_online.md) | 4.38 | 
 | 616 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 617 | [Starsand](games/s/starsand.md) | 4.19 | 
+| 617 | [Starsand](games/s/starsand.md) | 4.22 | 
 | 618 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
 | 619 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
 | 620 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
@@ -713,7 +713,7 @@
 | 711 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 
 | 712 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
 | 713 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
-| 714 | [The Witness](games/t/the_witness.md) | 4.71 | 
+| 714 | [The Witness](games/t/the_witness.md) | 4.70 | 
 | 715 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 716 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 717 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 

@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.26 | 
+| 1 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.27 | 
 | 2 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.11 | 
 | 3 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.43 | 
 | 4 | [Predecessor](games/p/predecessor.md) | 4.31 | 
@@ -10,4 +10,3 @@
 | 8 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
 | 9 | [Somerville](games/s/somerville.md) | 4.22 | 
 | 10 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
-| 11 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.47 | 
