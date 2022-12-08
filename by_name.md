@@ -32,7 +32,7 @@
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.42 | 
-| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.40 | 
+| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.41 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.65 | 
@@ -49,7 +49,7 @@
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.55 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 
-| 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
+| 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
@@ -60,7 +60,7 @@
 | 58 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.55 | 
-| 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 
+| 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.52 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 64 | [Backbone](games/b/backbone.md) | 4.36 | 
@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.60 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.91 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
@@ -115,13 +115,13 @@
 | 113 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
 | 114 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.82 | 
 | 115 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 116 | [Chorus](games/c/chorus.md) | 4.46 | 
+| 116 | [Chorus](games/c/chorus.md) | 4.45 | 
 | 117 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.04 | 
 | 118 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
 | 119 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 120 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
 | 121 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 122 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
+| 122 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
 | 123 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
 | 124 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 125 | [Conarium](games/c/conarium.md) | 3.93 | 
@@ -189,7 +189,7 @@
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.76 | 
 | 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.76 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 190 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.62 | 
+| 190 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.63 | 
 | 191 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 192 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 193 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
@@ -254,7 +254,7 @@
 | 252 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 253 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 254 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
-| 255 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
+| 255 | [Fort Triumph](games/f/fort_triumph.md) | 4.09 | 
 | 256 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 257 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 258 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
@@ -447,7 +447,7 @@
 | 445 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
 | 446 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 447 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.58 | 
-| 448 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
+| 448 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 449 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 450 | [Observation](games/o/observation.md) | 4.56 | 
 | 451 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
@@ -585,7 +585,7 @@
 | 583 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 584 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 585 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 586 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
+| 586 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
 | 587 | [SMITE](games/s/smite.md) | 4.45 | 
 | 588 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 589 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
