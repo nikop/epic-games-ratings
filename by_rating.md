@@ -81,7 +81,6 @@
 | 76 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 76 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 76 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 76 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
 | 76 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
 | 76 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
 | 76 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
@@ -91,13 +90,14 @@
 | 76 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 76 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 76 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
-| 92 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 92 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 92 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 92 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 92 | [Journey](games/j/journey.md) | 4.79 | 
-| 92 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
-| 92 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
+| 91 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
+| 91 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 91 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 91 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
+| 91 | [Journey](games/j/journey.md) | 4.79 | 
+| 91 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
+| 91 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
 | 99 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 99 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 99 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
@@ -184,21 +184,21 @@
 | 172 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 172 | [King of Retail](games/k/king_of_retail.md) | 4.71 | 
 | 172 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
-| 185 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 185 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
-| 185 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 185 | [Barony](games/b/barony.md) | 4.70 | 
-| 185 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
-| 185 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 185 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
-| 185 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 185 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
-| 185 | [Northgard](games/n/northgard.md) | 4.70 | 
-| 185 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 185 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.70 | 
-| 185 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 
-| 185 | [Outlast 2](games/o/outlast_2.md) | 4.70 | 
-| 185 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.70 | 
+| 172 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
+| 186 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 186 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
+| 186 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 186 | [Barony](games/b/barony.md) | 4.70 | 
+| 186 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
+| 186 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 186 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
+| 186 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 186 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
+| 186 | [Northgard](games/n/northgard.md) | 4.70 | 
+| 186 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 186 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.70 | 
+| 186 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 
+| 186 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.70 | 
 | 200 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 200 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 200 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 

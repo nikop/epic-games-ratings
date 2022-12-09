@@ -465,7 +465,7 @@
 | 463 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
 | 464 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 465 | [Outlast](games/o/outlast.md) | 4.73 | 
-| 466 | [Outlast 2](games/o/outlast_2.md) | 4.70 | 
+| 466 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
 | 467 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 468 | [Outward](games/o/outward.md) | 4.55 | 
 | 469 | [Overcooked](games/o/overcooked.md) | 4.68 | 
@@ -691,7 +691,7 @@
 | 689 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
 | 690 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 691 | [The Medium](games/t/the_medium.md) | 4.57 | 
-| 692 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
+| 692 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 693 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 694 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 695 | [The Red Lantern](games/t/the_red_lantern.md) | 4.67 | 
