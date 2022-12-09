@@ -476,10 +476,10 @@
 | 474 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 475 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.54 | 
 | 476 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 477 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
+| 477 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.38 | 
 | 478 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 479 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 480 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.25 | 
+| 480 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.29 | 
 | 481 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 482 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 483 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
@@ -502,7 +502,7 @@
 | 500 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 501 | [Prey](games/p/prey.md) | 4.61 | 
 | 502 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 503 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.15 | 
+| 503 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.10 | 
 | 504 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 505 | [Quake](games/q/quake.md) | 4.81 | 
 | 506 | [Rage 2](games/r/rage_2.md) | 4.29 | 
