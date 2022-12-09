@@ -87,7 +87,7 @@
 | 85 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 86 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 87 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
+| 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.84 | 
@@ -177,7 +177,7 @@
 | 175 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 176 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 177 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
-| 178 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 178 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 179 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
 | 180 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 181 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -354,7 +354,7 @@
 | 352 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 353 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
 | 354 | [King of Retail](games/k/king_of_retail.md) | 4.71 | 
-| 355 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
+| 355 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
 | 356 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 357 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.70 | 
 | 358 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
@@ -502,7 +502,7 @@
 | 500 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 501 | [Prey](games/p/prey.md) | 4.61 | 
 | 502 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 503 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.21 | 
+| 503 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.17 | 
 | 504 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 505 | [Quake](games/q/quake.md) | 4.81 | 
 | 506 | [Rage 2](games/r/rage_2.md) | 4.29 | 
@@ -664,7 +664,7 @@
 | 662 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 663 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 664 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 665 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.12 | 
+| 665 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.13 | 
 | 666 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 667 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 668 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
@@ -699,15 +699,15 @@
 | 697 | [The Silent Age](games/t/the_silent_age.md) | 4.42 | 
 | 698 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 699 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 700 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
-| 701 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 700 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
+| 701 | [The Surge](games/t/the_surge.md) | 4.51 | 
 | 702 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 
 | 703 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 704 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 705 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 706 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 707 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 4.00 | 
-| 708 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
+| 708 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 709 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 710 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.78 | 
 | 711 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
@@ -746,7 +746,7 @@
 | 744 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 745 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 746 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 747 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 
+| 747 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.01 | 
 | 748 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 749 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 750 | [Train Valley](games/t/train_valley.md) | 4.44 | 
@@ -761,7 +761,7 @@
 | 759 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
 | 760 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.22 | 
 | 761 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 762 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
+| 762 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 763 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 764 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 765 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
