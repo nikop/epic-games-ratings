@@ -132,7 +132,7 @@
 | 130 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 131 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
 | 132 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 133 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
+| 133 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 134 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 135 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 136 | [Crayta](games/c/crayta.md) | 4.19 | 
@@ -148,7 +148,7 @@
 | 146 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 147 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 148 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
-| 149 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.57 | 
+| 149 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
 | 150 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 
 | 151 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
 | 152 | [Dark Light](games/d/dark_light.md) | 4.28 | 
@@ -498,11 +498,11 @@
 | 496 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 497 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 498 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 499 | [Predecessor](games/p/predecessor.md) | 4.33 | 
+| 499 | [Predecessor](games/p/predecessor.md) | 4.34 | 
 | 500 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 501 | [Prey](games/p/prey.md) | 4.61 | 
 | 502 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 503 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.13 | 
+| 503 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.20 | 
 | 504 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 505 | [Quake](games/q/quake.md) | 4.81 | 
 | 506 | [Rage 2](games/r/rage_2.md) | 4.29 | 
@@ -711,7 +711,7 @@
 | 709 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 710 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.78 | 
 | 711 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
-| 712 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 
+| 712 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.82 | 
 | 713 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
 | 714 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
 | 715 | [The Witness](games/t/the_witness.md) | 4.70 | 
@@ -814,7 +814,7 @@
 | 812 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 813 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 814 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
-| 815 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
+| 815 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
 | 816 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 
 | 817 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
 | 818 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
