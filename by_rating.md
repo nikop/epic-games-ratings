@@ -90,6 +90,7 @@
 | 75 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 75 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 75 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
+| 91 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 91 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 91 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
@@ -98,12 +99,11 @@
 | 91 | [Journey](games/j/journey.md) | 4.79 | 
 | 91 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
 | 91 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
-| 99 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
-| 99 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 99 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 99 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 99 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.78 | 
-| 99 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.78 | 
+| 100 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 100 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
+| 100 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.78 | 
+| 100 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.78 | 
 | 105 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 105 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 105 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
@@ -643,27 +643,27 @@
 | 639 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 639 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 639 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 639 | [Torchlight](games/t/torchlight.md) | 4.37 | 
 | 639 | [Encased](games/e/encased.md) | 4.37 | 
 | 639 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
 | 639 | [Othercide](games/o/othercide.md) | 4.37 | 
 | 639 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 639 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 639 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
-| 651 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 651 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 651 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 651 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 651 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 651 | [Among Trees](games/a/among_trees.md) | 4.36 | 
-| 651 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
-| 651 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 651 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
-| 651 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 651 | [Hammerting](games/h/hammerting.md) | 4.36 | 
-| 651 | [Backbone](games/b/backbone.md) | 4.36 | 
-| 651 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
-| 651 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
+| 650 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 650 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 650 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 650 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 650 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 650 | [Among Trees](games/a/among_trees.md) | 4.36 | 
+| 650 | [Torchlight](games/t/torchlight.md) | 4.36 | 
+| 650 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
+| 650 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
+| 650 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
+| 650 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 650 | [Hammerting](games/h/hammerting.md) | 4.36 | 
+| 650 | [Backbone](games/b/backbone.md) | 4.36 | 
+| 650 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
+| 650 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
 | 665 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 665 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 665 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
@@ -802,10 +802,10 @@
 | 799 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 799 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.04 | 
 | 802 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 803 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 
 | 803 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.01 | 
-| 805 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
-| 805 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 4.00 | 
+| 804 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
+| 804 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
+| 804 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 4.00 | 
 | 807 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 807 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
 | 809 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 

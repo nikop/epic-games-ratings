@@ -306,7 +306,7 @@
 | 304 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 305 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 306 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 307 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 307 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 308 | [Hob](games/h/hob.md) | 4.57 | 
 | 309 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 310 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
@@ -678,7 +678,7 @@
 | 676 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 677 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
 | 678 | [The Fall](games/t/the_fall.md) | 4.29 | 
-| 679 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 
+| 679 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
 | 680 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
 | 681 | [The Guild 3](games/t/the_guild_3.md) | 4.15 | 
 | 682 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 
@@ -735,7 +735,7 @@
 | 733 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 734 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 735 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 736 | [Torchlight](games/t/torchlight.md) | 4.37 | 
+| 736 | [Torchlight](games/t/torchlight.md) | 4.36 | 
 | 737 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 738 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 739 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
