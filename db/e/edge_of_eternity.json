@@ -1,11 +1,11 @@
 {
   "ID": "a8a489c0a58646ec88aec778d015fc73",
   "Name": "Edge Of Eternity",
-  "Rating": 3.78,
+  "Rating": 3.75,
   "NumberOfRatings": 22,
   "FirstSeen": "2022-07-22T20:20:46.9216243+00:00",
   "FirstSeenRating": "2022-09-05T18:00:46.7188152+00:00",
-  "LastChanged": "2022-11-30T17:00:45.8488214+00:00",
+  "LastChanged": "2022-12-09T17:57:27.2379274+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-05T18:00:46.7188155+00:00",
@@ -45,6 +45,11 @@
     {
       "Time": "2022-11-30T17:00:45.8488217+00:00",
       "Rating": 3.78,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-09T17:57:27.2379276+00:00",
+      "Rating": 3.75,
       "NumberOfRatings": null
     }
   ],

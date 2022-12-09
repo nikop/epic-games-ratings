@@ -183,7 +183,7 @@
 | 181 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 182 | [Diabotical](games/d/diabotical.md) | 4.76 | 
 | 183 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 184 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
+| 184 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
 | 185 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.39 | 
 | 186 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
@@ -201,7 +201,7 @@
 | 199 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 200 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.28 | 
 | 201 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 202 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.78 | 
+| 202 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.75 | 
 | 203 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 204 | [ELEX](games/e/elex.md) | 4.41 | 
 | 205 | [ELEX II](games/e/elex_ii.md) | 4.26 | 
@@ -650,7 +650,7 @@
 | 648 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 649 | [Suzerain](games/s/suzerain.md) | 4.73 | 
 | 650 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
-| 651 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
+| 651 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.68 | 
 | 652 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 653 | [Tacoma](games/t/tacoma.md) | 4.39 | 
 | 654 | [Tails of Iron](games/t/tails_of_iron.md) | 4.76 | 
@@ -719,7 +719,7 @@
 | 717 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 718 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 719 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
-| 720 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
+| 720 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 721 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 722 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 723 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.60 | 
@@ -814,7 +814,7 @@
 | 812 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 813 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 814 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 815 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
+| 815 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
 | 816 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
 | 817 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 
 | 818 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
