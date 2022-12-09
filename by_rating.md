@@ -80,6 +80,7 @@
 | 76 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 76 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 76 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 76 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 76 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
 | 76 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
 | 76 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
@@ -90,14 +91,13 @@
 | 76 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 76 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 76 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
-| 91 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 91 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 91 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
-| 91 | [Journey](games/j/journey.md) | 4.79 | 
-| 91 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
-| 91 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
+| 92 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 92 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
+| 92 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 92 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 92 | [Journey](games/j/journey.md) | 4.79 | 
+| 92 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
+| 92 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
 | 99 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 99 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 99 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
@@ -326,6 +326,7 @@
 | 323 | [Prey](games/p/prey.md) | 4.61 | 
 | 323 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 323 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
+| 323 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
 | 323 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 323 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 323 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
@@ -343,25 +344,24 @@
 | 323 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 323 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.61 | 
 | 323 | [Darkwood](games/d/darkwood.md) | 4.61 | 
-| 344 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
-| 344 | [Control](games/c/control.md) | 4.60 | 
-| 344 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 344 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 344 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 344 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
-| 344 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 344 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
-| 344 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 344 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 344 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.60 | 
-| 344 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.60 | 
-| 344 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 344 | [Road 96](games/r/road_96.md) | 4.60 | 
-| 344 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
-| 344 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
-| 344 | [Breathedge](games/b/breathedge.md) | 4.60 | 
-| 344 | [GRIME](games/g/grime.md) | 4.60 | 
-| 344 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
+| 345 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
+| 345 | [Control](games/c/control.md) | 4.60 | 
+| 345 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 345 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 345 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
+| 345 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
+| 345 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
+| 345 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 345 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 345 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.60 | 
+| 345 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.60 | 
+| 345 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 345 | [Road 96](games/r/road_96.md) | 4.60 | 
+| 345 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
+| 345 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
+| 345 | [Breathedge](games/b/breathedge.md) | 4.60 | 
+| 345 | [GRIME](games/g/grime.md) | 4.60 | 
+| 345 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 363 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 363 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 363 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
@@ -713,14 +713,14 @@
 | 710 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 710 | [ELEX II](games/e/elex_ii.md) | 4.26 | 
 | 710 | [Steelrising](games/s/steelrising.md) | 4.26 | 
+| 710 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
 | 710 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 710 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 710 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 710 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
-| 718 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
-| 718 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 718 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 
-| 718 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
+| 719 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
+| 719 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 719 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
 | 722 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 722 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 722 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 

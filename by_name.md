@@ -136,7 +136,7 @@
 | 134 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 135 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 136 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 137 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 
+| 137 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
 | 138 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 139 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 140 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
@@ -402,7 +402,7 @@
 | 400 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.44 | 
 | 401 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 402 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
-| 403 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 403 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
 | 404 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 405 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 406 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
@@ -447,7 +447,7 @@
 | 445 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
 | 446 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 447 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.58 | 
-| 448 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
+| 448 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 449 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 450 | [Observation](games/o/observation.md) | 4.56 | 
 | 451 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
