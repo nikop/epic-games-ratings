@@ -120,7 +120,7 @@
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
-      "Count": 502
+      "Count": 511
     },
     {
       "Text": "This game is Highly Recommended",
@@ -133,6 +133,10 @@
     {
       "Text": "This game has Amazing Characters",
       "Count": 24
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 20
     }
   ]
 }

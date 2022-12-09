@@ -189,7 +189,7 @@
 | 187 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 188 | [Dishonored 2](games/d/dishonored_2.md) | 4.75 | 
 | 189 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
-| 190 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.62 | 
+| 190 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.63 | 
 | 191 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 192 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 193 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
@@ -343,7 +343,7 @@
 | 341 | [Journey](games/j/journey.md) | 4.79 | 
 | 342 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.59 | 
 | 343 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 344 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
+| 344 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 345 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 346 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 347 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
@@ -559,7 +559,7 @@
 | 557 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
 | 558 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 559 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
-| 560 | [Scavengers](games/s/scavengers.md) | 4.17 | 
+| 560 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 561 | [Scorn](games/s/scorn.md) | 4.48 | 
 | 562 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
 | 563 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
@@ -680,7 +680,7 @@
 | 678 | [The Fall](games/t/the_fall.md) | 4.29 | 
 | 679 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 
 | 680 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
-| 681 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
+| 681 | [The Guild 3](games/t/the_guild_3.md) | 4.15 | 
 | 682 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 
 | 683 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 684 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 

@@ -132,6 +132,7 @@
 | 129 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 129 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 129 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 129 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 129 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
 | 129 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
 | 129 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
@@ -144,23 +145,22 @@
 | 129 | [Revita](games/r/revita.md) | 4.74 | 
 | 129 | [shapez](games/s/shapez.md) | 4.74 | 
 | 129 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
-| 145 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 145 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 145 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
-| 145 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 145 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 145 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 145 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 145 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 145 | [FUSER™](games/f/fuser™.md) | 4.73 | 
-| 145 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
-| 145 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.73 | 
-| 145 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
-| 145 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
-| 145 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
-| 145 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
-| 145 | [Outlast](games/o/outlast.md) | 4.73 | 
-| 145 | [Suzerain](games/s/suzerain.md) | 4.73 | 
+| 146 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 146 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 146 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 146 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 146 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
+| 146 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 146 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 146 | [FUSER™](games/f/fuser™.md) | 4.73 | 
+| 146 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
+| 146 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.73 | 
+| 146 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
+| 146 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
+| 146 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
+| 146 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
+| 146 | [Outlast](games/o/outlast.md) | 4.73 | 
+| 146 | [Suzerain](games/s/suzerain.md) | 4.73 | 
 | 162 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 162 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 162 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
@@ -304,24 +304,24 @@
 | 296 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 296 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 296 | [Mutazione](games/m/mutazione.md) | 4.63 | 
+| 296 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.63 | 
 | 296 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
 | 296 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.63 | 
 | 296 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
-| 308 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 308 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 308 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 308 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 308 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 308 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
-| 308 | [ABZU](games/a/abzu.md) | 4.62 | 
-| 308 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
-| 308 | [Before We Leave](games/b/before_we_leave.md) | 4.62 | 
-| 308 | [Roguebook](games/r/roguebook.md) | 4.62 | 
-| 308 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.62 | 
-| 308 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.62 | 
-| 308 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
-| 308 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.62 | 
-| 308 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 309 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 309 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 309 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 309 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 309 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 309 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
+| 309 | [ABZU](games/a/abzu.md) | 4.62 | 
+| 309 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
+| 309 | [Before We Leave](games/b/before_we_leave.md) | 4.62 | 
+| 309 | [Roguebook](games/r/roguebook.md) | 4.62 | 
+| 309 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.62 | 
+| 309 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
+| 309 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.62 | 
+| 309 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 323 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 323 | [Prey](games/p/prey.md) | 4.61 | 
 | 323 | [Warframe](games/w/warframe.md) | 4.61 | 
@@ -755,21 +755,21 @@
 | 751 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
 | 751 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 751 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
-| 756 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 
+| 756 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 756 | [Fangs](games/f/fangs.md) | 4.18 | 
 | 758 | [Space Punks](games/s/space_punks.md) | 4.17 | 
-| 758 | [Scavengers](games/s/scavengers.md) | 4.17 | 
 | 758 | [OVERPASS™](games/o/overpass™.md) | 4.17 | 
-| 761 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
-| 761 | [Gone Home](games/g/gone_home.md) | 4.16 | 
-| 761 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
-| 761 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 761 | [Submerged](games/s/submerged.md) | 4.16 | 
-| 761 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
-| 767 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
-| 767 | [Relicta](games/r/relicta.md) | 4.15 | 
-| 767 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
-| 767 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
+| 760 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16 | 
+| 760 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 760 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
+| 760 | [Family Man](games/f/family_man.md) | 4.16 | 
+| 760 | [Submerged](games/s/submerged.md) | 4.16 | 
+| 760 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 766 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
+| 766 | [Relicta](games/r/relicta.md) | 4.15 | 
+| 766 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
+| 766 | [The Guild 3](games/t/the_guild_3.md) | 4.15 | 
+| 766 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 771 | [Pine](games/p/pine.md) | 4.14 | 
 | 771 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.14 | 
 | 773 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
