@@ -238,7 +238,6 @@
 | 232 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 232 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 232 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 232 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 232 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 232 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 232 | [CARRION](games/c/carrion.md) | 4.67 | 
@@ -250,19 +249,20 @@
 | 232 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
 | 232 | [The Red Lantern](games/t/the_red_lantern.md) | 4.67 | 
 | 232 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
-| 251 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 251 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 251 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 251 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 251 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
-| 251 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 251 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
-| 251 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
-| 251 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 251 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
-| 251 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
-| 251 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 251 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
+| 250 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 250 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 250 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 250 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 250 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
+| 250 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 250 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 250 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
+| 250 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
+| 250 | [Death's Door](games/d/death's_door.md) | 4.66 | 
+| 250 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
+| 250 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
+| 250 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 250 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
 | 264 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 264 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 264 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
