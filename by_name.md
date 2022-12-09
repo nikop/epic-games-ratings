@@ -167,7 +167,7 @@
 | 165 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 166 | [Death Coming](games/d/death_coming.md) | 4.47 | 
 | 167 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 168 | [Death's Door](games/d/death's_door.md) | 4.65 | 
+| 168 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 169 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 170 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.45 | 
 | 171 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
@@ -399,7 +399,7 @@
 | 397 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 398 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 399 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 400 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.45 | 
+| 400 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.44 | 
 | 401 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 402 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 403 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
@@ -623,7 +623,7 @@
 | 621 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 622 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 623 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
-| 624 | [STG Football](games/s/stg_football.md) | 4.56 | 
+| 624 | [STG Football](games/s/stg_football.md) | 4.57 | 
 | 625 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 626 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
 | 627 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
@@ -727,7 +727,7 @@
 | 725 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
 | 726 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 727 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
-| 728 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 
+| 728 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
 | 729 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 730 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 731 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.31 | 
@@ -815,7 +815,7 @@
 | 813 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 814 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 815 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 816 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 
+| 816 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 
 | 817 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
 | 818 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 819 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 

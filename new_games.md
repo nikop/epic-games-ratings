@@ -3,7 +3,7 @@
 | 1 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
 | 2 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.04 | 
 | 3 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.12 | 
-| 4 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.45 | 
+| 4 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.44 | 
 | 5 | [Predecessor](games/p/predecessor.md) | 4.33 | 
 | 6 | [Fangs](games/f/fangs.md) | 4.15 | 
 | 7 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
