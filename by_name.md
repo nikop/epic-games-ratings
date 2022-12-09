@@ -194,12 +194,12 @@
 | 192 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 193 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
 | 194 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 195 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
+| 195 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
 | 196 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 197 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
 | 198 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 199 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 200 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.28 | 
+| 200 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
 | 201 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 202 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.75 | 
 | 203 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -211,7 +211,7 @@
 | 209 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 210 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 211 | [EVE Online](games/e/eve_online.md) | 4.26 | 
-| 212 | [Everything](games/e/everything.md) | 4.64 | 
+| 212 | [Everything](games/e/everything.md) | 4.62 | 
 | 213 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 214 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 215 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
@@ -248,8 +248,8 @@
 | 246 | [Firework](games/f/firework.md) | 4.89 | 
 | 247 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 248 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
-| 249 | [Flatout](games/f/flatout.md) | 4.09 | 
-| 250 | [Flatout 2](games/f/flatout_2.md) | 4.92 | 
+| 249 | [Flatout](games/f/flatout.md) | 4.13 | 
+| 250 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 
 | 251 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 252 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 253 | [For The King](games/f/for_the_king.md) | 4.70 | 
@@ -322,7 +322,7 @@
 | 320 | [Huntdown](games/h/huntdown.md) | 4.84 | 
 | 321 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 322 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.62 | 
-| 323 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.64 | 
+| 323 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
 | 324 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
 | 325 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 326 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
@@ -470,7 +470,7 @@
 | 468 | [Outward](games/o/outward.md) | 4.55 | 
 | 469 | [Overcooked](games/o/overcooked.md) | 4.68 | 
 | 470 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 471 | [OVERPASS™](games/o/overpass™.md) | 4.17 | 
+| 471 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
 | 472 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
 | 473 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 474 | [Paladins](games/p/paladins.md) | 4.36 | 
@@ -504,7 +504,7 @@
 | 502 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 503 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.17 | 
 | 504 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 505 | [Quake](games/q/quake.md) | 4.81 | 
+| 505 | [Quake](games/q/quake.md) | 4.80 | 
 | 506 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 507 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 508 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
