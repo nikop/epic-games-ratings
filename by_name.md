@@ -476,7 +476,7 @@
 | 474 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 475 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.54 | 
 | 476 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 477 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.38 | 
+| 477 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
 | 478 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 479 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 480 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.29 | 
@@ -570,7 +570,7 @@
 | 568 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 569 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
 | 570 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 
-| 571 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
+| 571 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 572 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
 | 573 | [shapez](games/s/shapez.md) | 4.74 | 
 | 574 | [Sheltered](games/s/sheltered.md) | 4.43 | 
@@ -689,7 +689,7 @@
 | 687 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
 | 688 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
 | 689 | [The Lion's Song](games/t/the_lion's_song.md) | 4.45 | 
-| 690 | [The Long Dark](games/t/the_long_dark.md) | 4.75 | 
+| 690 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 691 | [The Medium](games/t/the_medium.md) | 4.57 | 
 | 692 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
 | 693 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
