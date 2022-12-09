@@ -223,7 +223,7 @@
 | 221 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 222 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
 | 223 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 224 | [Fangs](games/f/fangs.md) | 4.15 | 
+| 224 | [Fangs](games/f/fangs.md) | 4.18 | 
 | 225 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 226 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
 | 227 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.58 | 
@@ -294,7 +294,7 @@
 | 292 | [Hades](games/h/hades.md) | 4.92 | 
 | 293 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 294 | [Hammerting](games/h/hammerting.md) | 4.36 | 
-| 295 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 295 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
 | 296 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
 | 297 | [Haven](games/h/haven.md) | 4.76 | 
 | 298 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
@@ -332,7 +332,7 @@
 | 330 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 331 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 332 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
-| 333 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
+| 333 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 334 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 335 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 336 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
@@ -502,7 +502,7 @@
 | 500 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 501 | [Prey](games/p/prey.md) | 4.61 | 
 | 502 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 503 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.10 | 
+| 503 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.13 | 
 | 504 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 505 | [Quake](games/q/quake.md) | 4.81 | 
 | 506 | [Rage 2](games/r/rage_2.md) | 4.29 | 
@@ -720,7 +720,7 @@
 | 718 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 719 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 720 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 
-| 721 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
+| 721 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 722 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 723 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.60 | 
 | 724 | [Timberborn](games/t/timberborn.md) | 4.71 | 
