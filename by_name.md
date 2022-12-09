@@ -2,7 +2,7 @@
 | --- | ---- | ------ | 
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
 | 2 | [20XX](games/2/20xx.md) | 4.61 | 
-| 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.32 | 
+| 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
@@ -97,9 +97,9 @@
 | 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.60 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
-| 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
+| 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 99 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
-| 100 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.30 | 
+| 100 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
 | 101 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
 | 102 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.08 | 
 | 103 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
@@ -204,7 +204,7 @@
 | 202 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.75 | 
 | 203 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 204 | [ELEX](games/e/elex.md) | 4.41 | 
-| 205 | [ELEX II](games/e/elex_ii.md) | 4.26 | 
+| 205 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 206 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 207 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
 | 208 | [Encased](games/e/encased.md) | 4.37 | 
@@ -271,7 +271,7 @@
 | 269 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
 | 270 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 271 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 
-| 272 | [GigaBash](games/g/gigabash.md) | 4.59 | 
+| 272 | [GigaBash](games/g/gigabash.md) | 4.61 | 
 | 273 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 274 | [GNOG](games/g/gnog.md) | 4.64 | 
 | 275 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
@@ -279,7 +279,7 @@
 | 277 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
 | 278 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 279 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 280 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.93 | 
+| 280 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
 | 281 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 282 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 283 | [Good Company](games/g/good_company.md) | 4.45 | 
@@ -292,7 +292,7 @@
 | 290 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 291 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 292 | [Hades](games/h/hades.md) | 4.92 | 
-| 293 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 293 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 294 | [Hammerting](games/h/hammerting.md) | 4.36 | 
 | 295 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
 | 296 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
@@ -625,12 +625,12 @@
 | 623 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
 | 624 | [STG Football](games/s/stg_football.md) | 4.57 | 
 | 625 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 626 | [Stories Untold](games/s/stories_untold.md) | 4.49 | 
+| 626 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 627 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
 | 628 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 629 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
 | 630 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
-| 631 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 
+| 631 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
 | 632 | [Submerged](games/s/submerged.md) | 4.16 | 
 | 633 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 634 | [Subnautica](games/s/subnautica.md) | 4.84 | 
@@ -694,14 +694,14 @@
 | 692 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
 | 693 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 694 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
-| 695 | [The Red Lantern](games/t/the_red_lantern.md) | 4.67 | 
+| 695 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 696 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 697 | [The Silent Age](games/t/the_silent_age.md) | 4.42 | 
 | 698 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 699 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 700 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
 | 701 | [The Surge](games/t/the_surge.md) | 4.51 | 
-| 702 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 
+| 702 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 
 | 703 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 704 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 705 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
