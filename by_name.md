@@ -49,7 +49,7 @@
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.55 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
+| 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
@@ -59,7 +59,7 @@
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.55 | 
+| 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.52 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
@@ -143,7 +143,7 @@
 | 141 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 142 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 143 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
-| 144 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
+| 144 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 145 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 146 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 147 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
@@ -343,7 +343,7 @@
 | 341 | [Journey](games/j/journey.md) | 4.79 | 
 | 342 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.59 | 
 | 343 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 344 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 344 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 345 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 346 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 347 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
@@ -399,7 +399,7 @@
 | 397 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 398 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 399 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 400 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.44 | 
+| 400 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.46 | 
 | 401 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 402 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 403 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
@@ -493,7 +493,7 @@
 | 491 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 492 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 493 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
-| 494 | [Pine](games/p/pine.md) | 4.14 | 
+| 494 | [Pine](games/p/pine.md) | 4.15 | 
 | 495 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
 | 496 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 497 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
@@ -659,7 +659,7 @@
 | 657 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 658 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 659 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 660 | [Tharsis](games/t/tharsis.md) | 4.12 | 
+| 660 | [Tharsis](games/t/tharsis.md) | 4.09 | 
 | 661 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 662 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 663 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
@@ -803,25 +803,26 @@
 | 801 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.78 | 
 | 802 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 803 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 804 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
-| 805 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
-| 806 | [Windbound](games/w/windbound.md) | 4.19 | 
-| 807 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 808 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.60 | 
-| 809 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 810 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 
-| 811 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 812 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 813 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 814 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
-| 815 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
-| 816 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 
-| 817 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
-| 818 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 819 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 820 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
-| 821 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 822 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
-| 823 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
-| 824 | [ZOMBI](games/z/zombi.md) | 4.35 | 
-| 825 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 804 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.44 | 
+| 805 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
+| 806 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
+| 807 | [Windbound](games/w/windbound.md) | 4.19 | 
+| 808 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
+| 809 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.60 | 
+| 810 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 811 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 
+| 812 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 813 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 814 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 815 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
+| 816 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
+| 817 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 
+| 818 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
+| 819 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 820 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 821 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
+| 822 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 823 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
+| 824 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
+| 825 | [ZOMBI](games/z/zombi.md) | 4.35 | 
+| 826 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
