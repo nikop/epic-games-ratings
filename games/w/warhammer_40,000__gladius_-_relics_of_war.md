@@ -1,5 +1,5 @@
 # Warhammer 40,000: Gladius - Relics of War
-Rating: 4.42 (39)  (as of 23.09.2022)  
+Rating: 4.40 (39)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -25,3 +25,4 @@ Rating: 4.42 (39)  (as of 23.09.2022)
 | 2022-11-20 | 4.42 | - |
 | 2022-11-26 | 4.43 | - |
 | 2022-12-04 | 4.42 | - |
+| 2022-12-09 | 4.40 | - |

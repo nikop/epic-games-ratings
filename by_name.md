@@ -53,7 +53,7 @@
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
-| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
+| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.40 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.41 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
@@ -358,7 +358,7 @@
 | 356 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 357 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.70 | 
 | 358 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 359 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.73 | 
+| 359 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.74 | 
 | 360 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 361 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
 | 362 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
@@ -787,7 +787,7 @@
 | 785 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 786 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 787 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
-| 788 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 
+| 788 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
 | 789 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
 | 790 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 791 | [Warpips](games/w/warpips.md) | 4.56 | 
@@ -805,7 +805,7 @@
 | 803 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
 | 804 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.44 | 
 | 805 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
-| 806 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 
+| 806 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 807 | [Windbound](games/w/windbound.md) | 4.19 | 
 | 808 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 809 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.60 | 
