@@ -463,6 +463,7 @@
 | 452 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.53 | 
 | 452 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 452 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 452 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 452 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 452 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 452 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
@@ -472,19 +473,18 @@
 | 452 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 452 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 452 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
-| 473 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 473 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 473 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 473 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 473 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
-| 473 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 473 | [RUINER](games/r/ruiner.md) | 4.52 | 
-| 473 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
-| 473 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 473 | [Aztez](games/a/aztez.md) | 4.52 | 
-| 473 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 473 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
-| 473 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 474 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 474 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 474 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 474 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 474 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
+| 474 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 474 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
+| 474 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 474 | [Aztez](games/a/aztez.md) | 4.52 | 
+| 474 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 474 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
+| 474 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 486 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 486 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 486 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
@@ -547,29 +547,29 @@
 | 543 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 543 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
 | 543 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
-| 543 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 543 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.46 | 
 | 543 | [Figment](games/f/figment.md) | 4.46 | 
 | 543 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 543 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 543 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.46 | 
 | 543 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 555 | [SMITE](games/s/smite.md) | 4.45 | 
-| 555 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 555 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 555 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 555 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 555 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
-| 555 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 555 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 555 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 555 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 555 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 
-| 555 | [Good Company](games/g/good_company.md) | 4.45 | 
-| 555 | [Chorus](games/c/chorus.md) | 4.45 | 
-| 555 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
-| 555 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.45 | 
-| 555 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
+| 554 | [SMITE](games/s/smite.md) | 4.45 | 
+| 554 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 554 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 554 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 554 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 554 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
+| 554 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 554 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 554 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 554 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 554 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 554 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 
+| 554 | [Good Company](games/g/good_company.md) | 4.45 | 
+| 554 | [Chorus](games/c/chorus.md) | 4.45 | 
+| 554 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
+| 554 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.45 | 
+| 554 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 571 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 571 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 571 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 

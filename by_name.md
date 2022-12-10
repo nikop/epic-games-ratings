@@ -10,7 +10,7 @@
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.62 | 
-| 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
+| 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
@@ -545,7 +545,7 @@
 | 543 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 544 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
 | 545 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 546 | [RUINER](games/r/ruiner.md) | 4.52 | 
+| 546 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 547 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 548 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 549 | [Sable](games/s/sable.md) | 4.57 | 
