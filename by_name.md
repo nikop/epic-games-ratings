@@ -171,7 +171,7 @@
 | 169 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 170 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.45 | 
 | 171 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 172 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.61 | 
+| 172 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 
 | 173 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
 | 174 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 175 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
@@ -408,7 +408,7 @@
 | 406 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 407 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 408 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
-| 409 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
+| 409 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 410 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
 | 411 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 
 | 412 | [Minit](games/m/minit.md) | 4.54 | 

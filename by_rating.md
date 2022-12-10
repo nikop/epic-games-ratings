@@ -63,17 +63,17 @@
 | 61 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 61 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
 | 61 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
+| 61 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 61 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 61 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.82 | 
 | 61 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.82 | 
 | 61 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 61 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
-| 69 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 69 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
-| 69 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
-| 69 | [Superliminal](games/s/superliminal.md) | 4.81 | 
-| 69 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
-| 69 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
+| 70 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
+| 70 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
+| 70 | [Superliminal](games/s/superliminal.md) | 4.81 | 
+| 70 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
+| 70 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
 | 75 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 75 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 75 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
@@ -319,32 +319,32 @@
 | 308 | [Before We Leave](games/b/before_we_leave.md) | 4.62 | 
 | 308 | [Roguebook](games/r/roguebook.md) | 4.62 | 
 | 308 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.62 | 
+| 308 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 
 | 308 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.62 | 
 | 308 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 308 | [Everything](games/e/everything.md) | 4.62 | 
 | 308 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.62 | 
 | 308 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 325 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 325 | [Prey](games/p/prey.md) | 4.61 | 
-| 325 | [Warframe](games/w/warframe.md) | 4.61 | 
-| 325 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
-| 325 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 325 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 325 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 325 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
-| 325 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
-| 325 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 325 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 
-| 325 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 325 | [20XX](games/2/20xx.md) | 4.61 | 
-| 325 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 325 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
-| 325 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
-| 325 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
-| 325 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
-| 325 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.61 | 
-| 325 | [Darkwood](games/d/darkwood.md) | 4.61 | 
-| 325 | [GigaBash](games/g/gigabash.md) | 4.61 | 
+| 326 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 326 | [Prey](games/p/prey.md) | 4.61 | 
+| 326 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 326 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
+| 326 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 326 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 326 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 326 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
+| 326 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 326 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 326 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 
+| 326 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 326 | [20XX](games/2/20xx.md) | 4.61 | 
+| 326 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 326 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
+| 326 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
+| 326 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
+| 326 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
+| 326 | [Darkwood](games/d/darkwood.md) | 4.61 | 
+| 326 | [GigaBash](games/g/gigabash.md) | 4.61 | 
 | 346 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 346 | [Control](games/c/control.md) | 4.60 | 
 | 346 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
