@@ -344,7 +344,7 @@
 | 342 | [Journey](games/j/journey.md) | 4.79 | 
 | 343 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.59 | 
 | 344 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 345 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
+| 345 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 346 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 347 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 348 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
@@ -503,7 +503,7 @@
 | 501 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 502 | [Prey](games/p/prey.md) | 4.61 | 
 | 503 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 504 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.17 | 
+| 504 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.19 | 
 | 505 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 506 | [Quake](games/q/quake.md) | 4.80 | 
 | 507 | [Rage 2](games/r/rage_2.md) | 4.29 | 

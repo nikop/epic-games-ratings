@@ -1,7 +1,8 @@
 # PUBG: BATTLEGROUNDS
-Rating: 4.17 (-)  (as of 23.09.2022)  
+Rating: 4.19 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
 | 2022-12-08 | 4.04 | - |
 | 2022-12-09 | 4.17 | - |
+| 2022-12-10 | 4.19 | - |
