@@ -5,18 +5,18 @@
 | 3 | [Hades](games/h/hades.md) | 4.92 | 
 | 3 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 5 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
-| 5 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
-| 7 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 
-| 7 | [God of War](games/g/god_of_war.md) | 4.90 | 
-| 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 7 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
-| 11 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
-| 11 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
-| 11 | [RimWorld](games/r/rimworld.md) | 4.89 | 
-| 11 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
-| 11 | [Firework](games/f/firework.md) | 4.89 | 
-| 11 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 
-| 11 | [Mago](games/m/mago.md) | 4.89 | 
+| 6 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 
+| 6 | [God of War](games/g/god_of_war.md) | 4.90 | 
+| 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
+| 6 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
+| 10 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
+| 10 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
+| 10 | [RimWorld](games/r/rimworld.md) | 4.89 | 
+| 10 | [Blasphemous](games/b/blasphemous.md) | 4.89 | 
+| 10 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
+| 10 | [Firework](games/f/firework.md) | 4.89 | 
+| 10 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 
+| 10 | [Mago](games/m/mago.md) | 4.89 | 
 | 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 18 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
@@ -758,10 +758,10 @@
 | 754 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 754 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 758 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 758 | [Fangs](games/f/fangs.md) | 4.18 | 
-| 760 | [Space Punks](games/s/space_punks.md) | 4.17 | 
-| 760 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
-| 760 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.17 | 
+| 759 | [Space Punks](games/s/space_punks.md) | 4.17 | 
+| 759 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
+| 759 | [Fangs](games/f/fangs.md) | 4.17 | 
+| 759 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.17 | 
 | 763 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 763 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 763 | [Family Man](games/f/family_man.md) | 4.16 | 
