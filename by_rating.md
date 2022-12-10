@@ -499,7 +499,6 @@
 | 496 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 496 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 496 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
-| 496 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
 | 496 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 496 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 496 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
@@ -513,19 +512,20 @@
 | 496 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
 | 496 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
 | 496 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
-| 514 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 514 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 514 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 514 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 514 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 514 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 514 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
-| 514 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 514 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 514 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 514 | [CryoFall](games/c/cryofall.md) | 4.49 | 
-| 514 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 514 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 513 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 513 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 513 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 513 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 513 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 513 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 513 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
+| 513 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 513 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 513 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 513 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 513 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 513 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 513 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 527 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 527 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 527 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
@@ -649,22 +649,22 @@
 | 640 | [Othercide](games/o/othercide.md) | 4.37 | 
 | 640 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 640 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 640 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
-| 651 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 651 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 651 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 651 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 651 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 651 | [Among Trees](games/a/among_trees.md) | 4.36 | 
-| 651 | [Torchlight](games/t/torchlight.md) | 4.36 | 
-| 651 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
-| 651 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 651 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
-| 651 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 651 | [Hammerting](games/h/hammerting.md) | 4.36 | 
-| 651 | [Backbone](games/b/backbone.md) | 4.36 | 
-| 651 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
-| 651 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
+| 650 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 650 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 650 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 650 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 650 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 650 | [Among Trees](games/a/among_trees.md) | 4.36 | 
+| 650 | [Torchlight](games/t/torchlight.md) | 4.36 | 
+| 650 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
+| 650 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
+| 650 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
+| 650 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 650 | [Hammerting](games/h/hammerting.md) | 4.36 | 
+| 650 | [Backbone](games/b/backbone.md) | 4.36 | 
+| 650 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
+| 650 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
+| 650 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.36 | 
 | 666 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 666 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
 | 666 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 

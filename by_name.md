@@ -38,7 +38,7 @@
 | 36 | [APE OUT](games/a/ape_out.md) | 4.65 | 
 | 37 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
 | 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.64 | 
-| 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.50 | 
+| 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
@@ -477,7 +477,7 @@
 | 475 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 476 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.54 | 
 | 477 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 478 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.37 | 
+| 478 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.36 | 
 | 479 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 480 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 481 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.29 | 
