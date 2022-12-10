@@ -329,6 +329,7 @@
 | 326 | [Prey](games/p/prey.md) | 4.61 | 
 | 326 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 326 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
+| 326 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
 | 326 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 326 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 326 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
@@ -345,26 +346,25 @@
 | 326 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 326 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 326 | [GigaBash](games/g/gigabash.md) | 4.61 | 
-| 346 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
-| 346 | [Control](games/c/control.md) | 4.60 | 
-| 346 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 346 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 346 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 346 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
-| 346 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 346 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
-| 346 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 346 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 346 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.60 | 
-| 346 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
-| 346 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.60 | 
-| 346 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 346 | [Road 96](games/r/road_96.md) | 4.60 | 
-| 346 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
-| 346 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
-| 346 | [Breathedge](games/b/breathedge.md) | 4.60 | 
-| 346 | [GRIME](games/g/grime.md) | 4.60 | 
-| 346 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
+| 347 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
+| 347 | [Control](games/c/control.md) | 4.60 | 
+| 347 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 347 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 347 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
+| 347 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
+| 347 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
+| 347 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 347 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 347 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.60 | 
+| 347 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
+| 347 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.60 | 
+| 347 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 347 | [Road 96](games/r/road_96.md) | 4.60 | 
+| 347 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
+| 347 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
+| 347 | [Breathedge](games/b/breathedge.md) | 4.60 | 
+| 347 | [GRIME](games/g/grime.md) | 4.60 | 
+| 347 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 366 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 366 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 366 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
@@ -578,7 +578,6 @@
 | 571 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 577 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 577 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
-| 577 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.43 | 
 | 577 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 577 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 577 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
@@ -587,16 +586,17 @@
 | 577 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
 | 577 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 577 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
-| 588 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 588 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 588 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 588 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 
-| 588 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
-| 588 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 
-| 588 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
-| 588 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 588 | [The Silent Age](games/t/the_silent_age.md) | 4.42 | 
-| 588 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
+| 587 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 587 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 587 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 587 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 587 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 
+| 587 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
+| 587 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 
+| 587 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
+| 587 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 587 | [The Silent Age](games/t/the_silent_age.md) | 4.42 | 
+| 587 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
 | 598 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 598 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 598 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
