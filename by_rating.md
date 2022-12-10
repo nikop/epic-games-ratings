@@ -298,6 +298,7 @@
 | 296 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
 | 296 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 296 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 296 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
 | 296 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 296 | [Transistor](games/t/transistor.md) | 4.63 | 
 | 296 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
@@ -307,24 +308,23 @@
 | 296 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
 | 296 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.63 | 
 | 296 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
-| 308 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 308 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 308 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 308 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 308 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 308 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
-| 308 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
-| 308 | [ABZU](games/a/abzu.md) | 4.62 | 
-| 308 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
-| 308 | [Before We Leave](games/b/before_we_leave.md) | 4.62 | 
-| 308 | [Roguebook](games/r/roguebook.md) | 4.62 | 
-| 308 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.62 | 
-| 308 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 
-| 308 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.62 | 
-| 308 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
-| 308 | [Everything](games/e/everything.md) | 4.62 | 
-| 308 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.62 | 
-| 308 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 309 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 309 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 309 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 309 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 309 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 309 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
+| 309 | [ABZU](games/a/abzu.md) | 4.62 | 
+| 309 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
+| 309 | [Before We Leave](games/b/before_we_leave.md) | 4.62 | 
+| 309 | [Roguebook](games/r/roguebook.md) | 4.62 | 
+| 309 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.62 | 
+| 309 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 
+| 309 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.62 | 
+| 309 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
+| 309 | [Everything](games/e/everything.md) | 4.62 | 
+| 309 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.62 | 
+| 309 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 326 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 326 | [Prey](games/p/prey.md) | 4.61 | 
 | 326 | [Warframe](games/w/warframe.md) | 4.61 | 
@@ -472,19 +472,19 @@
 | 452 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 452 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 452 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 452 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
-| 474 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 474 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 474 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 474 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 474 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
-| 474 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 474 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
-| 474 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 474 | [Aztez](games/a/aztez.md) | 4.52 | 
-| 474 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 474 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
-| 474 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 473 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 473 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 473 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 473 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 473 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
+| 473 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 473 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
+| 473 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 473 | [Aztez](games/a/aztez.md) | 4.52 | 
+| 473 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 473 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
+| 473 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
+| 473 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 486 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 486 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 486 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
@@ -531,17 +531,17 @@
 | 527 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
 | 527 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
 | 527 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
-| 527 | [Scorn](games/s/scorn.md) | 4.48 | 
 | 527 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
-| 534 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 534 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 534 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
-| 534 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
-| 534 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 534 | [Death Coming](games/d/death_coming.md) | 4.47 | 
-| 534 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 534 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
-| 534 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 
+| 533 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 533 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 533 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
+| 533 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
+| 533 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 533 | [Death Coming](games/d/death_coming.md) | 4.47 | 
+| 533 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
+| 533 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
+| 533 | [Scorn](games/s/scorn.md) | 4.47 | 
+| 533 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 
 | 543 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 543 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 543 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 

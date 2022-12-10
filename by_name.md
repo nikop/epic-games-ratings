@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.60 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -544,7 +544,7 @@
 | 542 | [Roguebook](games/r/roguebook.md) | 4.62 | 
 | 543 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 544 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
-| 545 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
+| 545 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
 | 546 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 547 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 548 | [Runbow](games/r/runbow.md) | 4.46 | 
@@ -561,7 +561,7 @@
 | 559 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 560 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 561 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 562 | [Scorn](games/s/scorn.md) | 4.48 | 
+| 562 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 563 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
 | 564 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 565 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
