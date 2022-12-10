@@ -199,7 +199,7 @@
 | 197 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
 | 198 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 199 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 200 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.27 | 
+| 200 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.25 | 
 | 201 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 202 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.75 | 
 | 203 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -232,7 +232,7 @@
 | 230 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 231 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
 | 232 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.68 | 
-| 233 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
+| 233 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
 | 234 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
 | 235 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
 | 236 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.14 | 
@@ -385,7 +385,7 @@
 | 383 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 
 | 384 | [Limbo](games/l/limbo.md) | 4.64 | 
 | 385 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
-| 386 | [Little Inferno](games/l/little_inferno.md) | 4.58 | 
+| 386 | [Little Inferno](games/l/little_inferno.md) | 4.59 | 
 | 387 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 388 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 389 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
@@ -409,7 +409,7 @@
 | 407 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 408 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 409 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 410 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 410 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
 | 411 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 
 | 412 | [Minit](games/m/minit.md) | 4.54 | 
 | 413 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.86 | 
