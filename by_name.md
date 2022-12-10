@@ -382,7 +382,7 @@
 | 380 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 381 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 382 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 383 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 
+| 383 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 384 | [Limbo](games/l/limbo.md) | 4.64 | 
 | 385 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
 | 386 | [Little Inferno](games/l/little_inferno.md) | 4.59 | 
