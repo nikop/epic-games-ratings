@@ -139,7 +139,6 @@
 | 129 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 129 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
 | 129 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 129 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.74 | 
 | 129 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
 | 129 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.74 | 
 | 129 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
@@ -147,30 +146,31 @@
 | 129 | [Revita](games/r/revita.md) | 4.74 | 
 | 129 | [shapez](games/s/shapez.md) | 4.74 | 
 | 129 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
-| 148 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 148 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 148 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 148 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 148 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 148 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 148 | [FUSER™](games/f/fuser™.md) | 4.73 | 
-| 148 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
-| 148 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
-| 148 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
-| 148 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
-| 148 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
-| 148 | [Outlast](games/o/outlast.md) | 4.73 | 
-| 148 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 162 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 162 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 162 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 162 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 162 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
-| 162 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
-| 162 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 162 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
-| 162 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
-| 162 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
+| 147 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 147 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 147 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 147 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
+| 147 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 147 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 147 | [FUSER™](games/f/fuser™.md) | 4.73 | 
+| 147 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
+| 147 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
+| 147 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
+| 147 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
+| 147 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
+| 147 | [Outlast](games/o/outlast.md) | 4.73 | 
+| 147 | [Suzerain](games/s/suzerain.md) | 4.73 | 
+| 161 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 161 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 161 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 161 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 161 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
+| 161 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 161 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
+| 161 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 161 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
+| 161 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
+| 161 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
 | 172 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 172 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 172 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
@@ -826,4 +826,4 @@
 | 823 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 825 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.75 | 
 | 826 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
-| 827 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.44 | 
+| 827 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.57 | 

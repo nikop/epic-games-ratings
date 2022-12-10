@@ -453,7 +453,7 @@
 | 451 | [Observation](games/o/observation.md) | 4.56 | 
 | 452 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
 | 453 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
-| 454 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.74 | 
+| 454 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 455 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.46 | 
 | 456 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 457 | [Old World](games/o/old_world.md) | 4.64 | 
@@ -804,7 +804,7 @@
 | 802 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.78 | 
 | 803 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 804 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 805 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.44 | 
+| 805 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.57 | 
 | 806 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 807 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 808 | [Windbound](games/w/windbound.md) | 4.19 | 
