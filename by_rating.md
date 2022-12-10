@@ -6,17 +6,17 @@
 | 3 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 5 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 5 | [Blasphemous](games/b/blasphemous.md) | 4.91 | 
+| 7 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 
 | 7 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 7 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
-| 10 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
-| 10 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.89 | 
-| 10 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
-| 10 | [RimWorld](games/r/rimworld.md) | 4.89 | 
-| 10 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
-| 10 | [Firework](games/f/firework.md) | 4.89 | 
-| 10 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 
-| 10 | [Mago](games/m/mago.md) | 4.89 | 
+| 11 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
+| 11 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
+| 11 | [RimWorld](games/r/rimworld.md) | 4.89 | 
+| 11 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
+| 11 | [Firework](games/f/firework.md) | 4.89 | 
+| 11 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 
+| 11 | [Mago](games/m/mago.md) | 4.89 | 
 | 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 18 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
@@ -717,12 +717,12 @@
 | 710 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 710 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 710 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
+| 710 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 
 | 710 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
-| 719 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 719 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
-| 719 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.25 | 
-| 719 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
-| 719 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 
+| 720 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 720 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
+| 720 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
+| 720 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 
 | 724 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 724 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 724 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
