@@ -557,7 +557,7 @@
 | 555 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 556 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
 | 557 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
-| 558 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.50 | 
+| 558 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
 | 559 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 560 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 561 | [Scavengers](games/s/scavengers.md) | 4.18 | 
