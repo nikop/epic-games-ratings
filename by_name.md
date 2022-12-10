@@ -503,7 +503,7 @@
 | 501 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 502 | [Prey](games/p/prey.md) | 4.61 | 
 | 503 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 504 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.19 | 
+| 504 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.18 | 
 | 505 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 506 | [Quake](games/q/quake.md) | 4.80 | 
 | 507 | [Rage 2](games/r/rage_2.md) | 4.29 | 
@@ -692,7 +692,7 @@
 | 690 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 
 | 691 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 692 | [The Medium](games/t/the_medium.md) | 4.57 | 
-| 693 | [The Messenger](games/t/the_messenger.md) | 4.79 | 
+| 693 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
 | 694 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 695 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 696 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
@@ -722,7 +722,7 @@
 | 720 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 721 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 722 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 723 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 723 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 724 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.60 | 
 | 725 | [Timberborn](games/t/timberborn.md) | 4.71 | 
 | 726 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
