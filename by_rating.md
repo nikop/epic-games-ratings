@@ -569,13 +569,13 @@
 | 553 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 553 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.45 | 
 | 553 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
-| 553 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.45 | 
-| 571 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 571 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 571 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 571 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 571 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
-| 571 | [Train Valley](games/t/train_valley.md) | 4.44 | 
+| 570 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 570 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 570 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 570 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 570 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
+| 570 | [Train Valley](games/t/train_valley.md) | 4.44 | 
+| 570 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.44 | 
 | 577 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 577 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 577 | [Sheltered](games/s/sheltered.md) | 4.43 | 
@@ -758,15 +758,15 @@
 | 754 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 754 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 758 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 758 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.18 | 
-| 760 | [Space Punks](games/s/space_punks.md) | 4.17 | 
-| 760 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
-| 760 | [Fangs](games/f/fangs.md) | 4.17 | 
-| 763 | [Gone Home](games/g/gone_home.md) | 4.16 | 
-| 763 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
-| 763 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 763 | [Submerged](games/s/submerged.md) | 4.16 | 
-| 763 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 759 | [Space Punks](games/s/space_punks.md) | 4.17 | 
+| 759 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
+| 759 | [Fangs](games/f/fangs.md) | 4.17 | 
+| 762 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 762 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
+| 762 | [Family Man](games/f/family_man.md) | 4.16 | 
+| 762 | [Submerged](games/s/submerged.md) | 4.16 | 
+| 762 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 762 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.16 | 
 | 768 | [Pine](games/p/pine.md) | 4.15 | 
 | 768 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 768 | [Relicta](games/r/relicta.md) | 4.15 | 
