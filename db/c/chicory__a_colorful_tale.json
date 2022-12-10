@@ -1,7 +1,16 @@
 {
   "ID": "facc5c8822a8413aab0af205f555c8ce",
   "Name": "Chicory: A Colorful Tale",
+  "Rating": 4.7,
   "FirstSeen": "2022-07-22T20:27:34.3357709+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-12-10T22:57:38.5891209+00:00",
+  "LastChanged": "2022-12-10T22:57:38.5891211+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-12-10T22:57:38.5891213+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
