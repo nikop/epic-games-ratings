@@ -28,11 +28,11 @@
 | 23 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 23 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 23 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
-| 29 | [Inscryption](games/i/inscryption.md) | 4.86 | 
-| 29 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 29 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 29 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
-| 29 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
+| 23 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
+| 30 | [Inscryption](games/i/inscryption.md) | 4.86 | 
+| 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 30 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 30 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 34 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 34 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 34 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
@@ -551,25 +551,25 @@
 | 545 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
 | 545 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.46 | 
 | 545 | [Figment](games/f/figment.md) | 4.46 | 
+| 545 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
 | 545 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 545 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 554 | [SMITE](games/s/smite.md) | 4.45 | 
-| 554 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 554 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 554 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 554 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 554 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
-| 554 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 554 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 554 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 554 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 554 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 554 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 
-| 554 | [Good Company](games/g/good_company.md) | 4.45 | 
-| 554 | [Chorus](games/c/chorus.md) | 4.45 | 
-| 554 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
-| 554 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.45 | 
-| 554 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
+| 555 | [SMITE](games/s/smite.md) | 4.45 | 
+| 555 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 555 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 555 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 555 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 555 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
+| 555 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 555 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 555 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 555 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 555 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 555 | [Good Company](games/g/good_company.md) | 4.45 | 
+| 555 | [Chorus](games/c/chorus.md) | 4.45 | 
+| 555 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
+| 555 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.45 | 
+| 555 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 571 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 571 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 571 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 

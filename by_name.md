@@ -276,7 +276,7 @@
 | 274 | [GigaBash](games/g/gigabash.md) | 4.61 | 
 | 275 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
 | 276 | [GNOG](games/g/gnog.md) | 4.64 | 
-| 277 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
+| 277 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
 | 278 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 279 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
 | 280 | [Godfall](games/g/godfall.md) | 4.06 | 
@@ -411,7 +411,7 @@
 | 409 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 410 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
 | 411 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 412 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 
+| 412 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
 | 413 | [Minit](games/m/minit.md) | 4.54 | 
 | 414 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.86 | 
 | 415 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 

@@ -1,10 +1,10 @@
 {
   "ID": "50bbaf85f4454b1c88786efeede5b302",
   "Name": "Goat Simulator 3",
-  "Rating": 4.86,
+  "Rating": 4.87,
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
-  "LastChanged": "2022-12-01T17:57:41.2974288+00:00",
+  "LastChanged": "2022-12-11T11:57:27.4341661+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-17T20:57:24.0090353+00:00",
@@ -75,6 +75,11 @@
       "Time": "2022-12-01T17:57:41.2974291+00:00",
       "Rating": 4.86,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-11T11:57:27.4341663+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -88,7 +93,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 160
+      "Count": 161
     },
     {
       "Text": "This game has a Silly Community",
