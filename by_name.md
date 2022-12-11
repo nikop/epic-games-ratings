@@ -274,7 +274,7 @@
 | 272 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 273 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 
 | 274 | [GigaBash](games/g/gigabash.md) | 4.61 | 
-| 275 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
+| 275 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
 | 276 | [GNOG](games/g/gnog.md) | 4.64 | 
 | 277 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 278 | [God of War](games/g/god_of_war.md) | 4.90 | 
@@ -504,7 +504,7 @@
 | 502 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 503 | [Prey](games/p/prey.md) | 4.61 | 
 | 504 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 505 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.16 | 
+| 505 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.13 | 
 | 506 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 507 | [Quake](games/q/quake.md) | 4.80 | 
 | 508 | [Rage 2](games/r/rage_2.md) | 4.29 | 
@@ -552,7 +552,7 @@
 | 550 | [Sable](games/s/sable.md) | 4.57 | 
 | 551 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
 | 552 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 553 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
+| 553 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 
 | 554 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 555 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
 | 556 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
