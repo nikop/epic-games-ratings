@@ -459,6 +459,7 @@
 | 453 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 453 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 
 | 453 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 453 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 453 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 453 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 453 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.53 | 
@@ -473,19 +474,18 @@
 | 453 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 453 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 453 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 474 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 474 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 474 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 474 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 474 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
-| 474 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 474 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
-| 474 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 474 | [Aztez](games/a/aztez.md) | 4.52 | 
-| 474 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 474 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
-| 474 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
-| 474 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 475 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 475 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 475 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 475 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 475 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 475 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
+| 475 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 475 | [Aztez](games/a/aztez.md) | 4.52 | 
+| 475 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 475 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
+| 475 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
+| 475 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 487 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 487 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 487 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
@@ -668,16 +668,16 @@
 | 666 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 666 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
 | 666 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 666 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.35 | 
 | 666 | [ZOMBI](games/z/zombi.md) | 4.35 | 
-| 671 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 671 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 671 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
-| 671 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 671 | [Automachef](games/a/automachef.md) | 4.34 | 
-| 671 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
-| 671 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 671 | [Predecessor](games/p/predecessor.md) | 4.34 | 
+| 670 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 670 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 670 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
+| 670 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 670 | [Automachef](games/a/automachef.md) | 4.34 | 
+| 670 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
+| 670 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
+| 670 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.34 | 
+| 670 | [Predecessor](games/p/predecessor.md) | 4.34 | 
 | 679 | [Ashen](games/a/ashen.md) | 4.33 | 
 | 680 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
 | 680 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 

@@ -478,7 +478,7 @@
 | 476 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 477 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.54 | 
 | 478 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 479 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.35 | 
+| 479 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.34 | 
 | 480 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 481 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 482 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.29 | 
@@ -489,7 +489,7 @@
 | 487 | [Patron](games/p/patron.md) | 3.92 | 
 | 488 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 489 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 490 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.52 | 
+| 490 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 491 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 492 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
 | 493 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
