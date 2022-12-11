@@ -509,24 +509,24 @@
 | 497 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 497 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
 | 497 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 497 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 497 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
 | 497 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
 | 497 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
-| 513 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 513 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 513 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 513 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 513 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 513 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
-| 513 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 513 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 513 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 513 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 513 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 513 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 513 | [CryoFall](games/c/cryofall.md) | 4.49 | 
-| 513 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 513 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 514 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 514 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 514 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 514 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 514 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 514 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
+| 514 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 514 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 514 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 514 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 514 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 514 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 514 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 514 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 528 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 528 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 528 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
@@ -753,11 +753,11 @@
 | 744 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
 | 744 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
 | 744 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 744 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
-| 755 | [Windbound](games/w/windbound.md) | 4.19 | 
-| 755 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 755 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 755 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
+| 754 | [Windbound](games/w/windbound.md) | 4.19 | 
+| 754 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 754 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 754 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.19 | 
+| 754 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 759 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 760 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 760 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 

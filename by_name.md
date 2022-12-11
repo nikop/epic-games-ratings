@@ -141,7 +141,7 @@
 | 139 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 140 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 141 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 142 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 142 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 143 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 144 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
 | 145 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
@@ -200,7 +200,7 @@
 | 198 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
 | 199 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 200 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 201 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
+| 201 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.19 | 
 | 202 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 203 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.75 | 
 | 204 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
