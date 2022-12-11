@@ -88,7 +88,7 @@
 | 86 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 87 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
-| 89 | [Blasphemous](games/b/blasphemous.md) | 4.89 | 
+| 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
@@ -504,7 +504,7 @@
 | 502 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 503 | [Prey](games/p/prey.md) | 4.61 | 
 | 504 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 505 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.13 | 
+| 505 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.12 | 
 | 506 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 507 | [Quake](games/q/quake.md) | 4.80 | 
 | 508 | [Rage 2](games/r/rage_2.md) | 4.29 | 

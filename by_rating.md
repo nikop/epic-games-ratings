@@ -8,15 +8,15 @@
 | 6 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 
 | 6 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
+| 6 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 6 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
-| 10 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
-| 10 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
-| 10 | [RimWorld](games/r/rimworld.md) | 4.89 | 
-| 10 | [Blasphemous](games/b/blasphemous.md) | 4.89 | 
-| 10 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
-| 10 | [Firework](games/f/firework.md) | 4.89 | 
-| 10 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 
-| 10 | [Mago](games/m/mago.md) | 4.89 | 
+| 11 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
+| 11 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
+| 11 | [RimWorld](games/r/rimworld.md) | 4.89 | 
+| 11 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
+| 11 | [Firework](games/f/firework.md) | 4.89 | 
+| 11 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 
+| 11 | [Mago](games/m/mago.md) | 4.89 | 
 | 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 18 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
@@ -776,10 +776,10 @@
 | 774 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.14 | 
 | 775 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 775 | [Flatout](games/f/flatout.md) | 4.13 | 
-| 775 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.13 | 
 | 775 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.13 | 
-| 779 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 779 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
+| 778 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
+| 778 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
+| 778 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.12 | 
 | 781 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 781 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
 | 781 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
