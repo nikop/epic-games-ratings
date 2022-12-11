@@ -639,33 +639,33 @@
 | 637 | [Core](games/c/core.md) | 4.38 | 
 | 637 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 637 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
+| 637 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
 | 637 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
 | 637 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 642 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 642 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 642 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 642 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 642 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 642 | [Encased](games/e/encased.md) | 4.37 | 
-| 642 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
-| 642 | [Othercide](games/o/othercide.md) | 4.37 | 
-| 642 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 642 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 652 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 652 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 652 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 652 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 652 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 652 | [Among Trees](games/a/among_trees.md) | 4.36 | 
-| 652 | [Torchlight](games/t/torchlight.md) | 4.36 | 
-| 652 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
-| 652 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 652 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
-| 652 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
-| 652 | [Hammerting](games/h/hammerting.md) | 4.36 | 
-| 652 | [Backbone](games/b/backbone.md) | 4.36 | 
-| 652 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
-| 652 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
+| 643 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 643 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 643 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 643 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 643 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 643 | [Encased](games/e/encased.md) | 4.37 | 
+| 643 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
+| 643 | [Othercide](games/o/othercide.md) | 4.37 | 
+| 643 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 643 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 653 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 653 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 653 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 653 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 653 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 653 | [Among Trees](games/a/among_trees.md) | 4.36 | 
+| 653 | [Torchlight](games/t/torchlight.md) | 4.36 | 
+| 653 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
+| 653 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
+| 653 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
+| 653 | [Hammerting](games/h/hammerting.md) | 4.36 | 
+| 653 | [Backbone](games/b/backbone.md) | 4.36 | 
+| 653 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
+| 653 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
 | 667 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 667 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
 | 667 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
@@ -679,23 +679,23 @@
 | 671 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
 | 671 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 671 | [Predecessor](games/p/predecessor.md) | 4.34 | 
-| 680 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.33 | 
-| 681 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
-| 681 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
-| 681 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
-| 681 | [Filament](games/f/filament.md) | 4.32 | 
-| 681 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
+| 680 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
+| 680 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
+| 680 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
+| 680 | [Filament](games/f/filament.md) | 4.32 | 
+| 680 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.32 | 
+| 680 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
 | 686 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 686 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 686 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 686 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 686 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 
 | 686 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
 | 686 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
 | 686 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.31 | 
-| 694 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 694 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
-| 694 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
+| 693 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 693 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
+| 693 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
+| 693 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
 | 697 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 697 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 697 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 

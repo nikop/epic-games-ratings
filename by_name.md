@@ -479,7 +479,7 @@
 | 477 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 478 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.54 | 
 | 479 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 480 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.33 | 
+| 480 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.32 | 
 | 481 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 482 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 483 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.29 | 
@@ -612,7 +612,7 @@
 | 610 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.39 | 
 | 611 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.80 | 
 | 612 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
-| 613 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 
+| 613 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
 | 614 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 615 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
 | 616 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.58 | 
@@ -652,7 +652,7 @@
 | 650 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 651 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 652 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 653 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
+| 653 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
 | 654 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.68 | 
 | 655 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 656 | [Tacoma](games/t/tacoma.md) | 4.39 | 
