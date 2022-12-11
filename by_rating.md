@@ -676,9 +676,9 @@
 | 670 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 670 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
 | 670 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 670 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.34 | 
 | 670 | [Predecessor](games/p/predecessor.md) | 4.34 | 
-| 679 | [Ashen](games/a/ashen.md) | 4.33 | 
+| 678 | [Ashen](games/a/ashen.md) | 4.33 | 
+| 678 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.33 | 
 | 680 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
 | 680 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
 | 680 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
