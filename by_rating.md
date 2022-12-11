@@ -767,13 +767,13 @@
 | 763 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 763 | [Submerged](games/s/submerged.md) | 4.16 | 
 | 763 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
-| 768 | [Pine](games/p/pine.md) | 4.15 | 
 | 768 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 768 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 768 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
 | 768 | [The Guild 3](games/t/the_guild_3.md) | 4.15 | 
 | 768 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 774 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.14 | 
+| 773 | [Pine](games/p/pine.md) | 4.14 | 
+| 773 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.14 | 
 | 775 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 775 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 777 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
@@ -827,4 +827,4 @@
 | 824 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 826 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.75 | 
 | 827 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
-| 828 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.57 | 
+| 828 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.66 | 
