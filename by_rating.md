@@ -756,9 +756,9 @@
 | 754 | [Windbound](games/w/windbound.md) | 4.19 | 
 | 754 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 754 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 754 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.19 | 
 | 754 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
-| 759 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 758 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 758 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.18 | 
 | 760 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 760 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
 | 760 | [Fangs](games/f/fangs.md) | 4.17 | 
