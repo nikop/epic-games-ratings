@@ -91,7 +91,6 @@
 | 75 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 75 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 75 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
-| 92 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 92 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 92 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 92 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
@@ -100,10 +99,11 @@
 | 92 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
 | 92 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
 | 92 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 
-| 101 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 101 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 101 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 101 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.78 | 
+| 100 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 100 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 100 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
+| 100 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.78 | 
 | 105 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 105 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 105 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
@@ -269,6 +269,7 @@
 | 267 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 267 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 267 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 267 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 267 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 267 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
 | 267 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
@@ -276,26 +277,25 @@
 | 267 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 267 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.65 | 
 | 267 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
-| 277 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 277 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 277 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 277 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
-| 277 | [Old World](games/o/old_world.md) | 4.64 | 
-| 277 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.64 | 
-| 277 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 277 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 277 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
-| 277 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
-| 277 | [SOMA](games/s/soma.md) | 4.64 | 
-| 277 | [Limbo](games/l/limbo.md) | 4.64 | 
-| 277 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
-| 277 | [Operation: Tango](games/o/operation__tango.md) | 4.64 | 
-| 277 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
-| 277 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
-| 277 | [Card Shark](games/c/card_shark.md) | 4.64 | 
-| 277 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.64 | 
-| 277 | [GNOG](games/g/gnog.md) | 4.64 | 
-| 277 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
+| 278 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 278 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 278 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 278 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
+| 278 | [Old World](games/o/old_world.md) | 4.64 | 
+| 278 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.64 | 
+| 278 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
+| 278 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
+| 278 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
+| 278 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
+| 278 | [SOMA](games/s/soma.md) | 4.64 | 
+| 278 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
+| 278 | [Operation: Tango](games/o/operation__tango.md) | 4.64 | 
+| 278 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
+| 278 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
+| 278 | [Card Shark](games/c/card_shark.md) | 4.64 | 
+| 278 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.64 | 
+| 278 | [GNOG](games/g/gnog.md) | 4.64 | 
+| 278 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 297 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
 | 297 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 297 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
@@ -776,10 +776,10 @@
 | 774 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.14 | 
 | 775 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 775 | [Flatout](games/f/flatout.md) | 4.13 | 
+| 775 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.13 | 
 | 775 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.13 | 
-| 778 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 778 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
-| 778 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.12 | 
+| 779 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
+| 779 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
 | 781 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 781 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
 | 781 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 

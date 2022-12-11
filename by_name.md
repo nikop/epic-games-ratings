@@ -308,7 +308,7 @@
 | 306 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 307 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 308 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 309 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 309 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 310 | [Hob](games/h/hob.md) | 4.57 | 
 | 311 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 312 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
@@ -384,7 +384,7 @@
 | 382 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 383 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 384 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
-| 385 | [Limbo](games/l/limbo.md) | 4.64 | 
+| 385 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 386 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
 | 387 | [Little Inferno](games/l/little_inferno.md) | 4.59 | 
 | 388 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
@@ -504,7 +504,7 @@
 | 502 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 503 | [Prey](games/p/prey.md) | 4.61 | 
 | 504 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 505 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.12 | 
+| 505 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.13 | 
 | 506 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 507 | [Quake](games/q/quake.md) | 4.80 | 
 | 508 | [Rage 2](games/r/rage_2.md) | 4.29 | 
