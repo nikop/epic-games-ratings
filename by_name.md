@@ -276,7 +276,7 @@
 | 274 | [GigaBash](games/g/gigabash.md) | 4.61 | 
 | 275 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 276 | [GNOG](games/g/gnog.md) | 4.64 | 
-| 277 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
+| 277 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
 | 278 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 279 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
 | 280 | [Godfall](games/g/godfall.md) | 4.06 | 
@@ -308,7 +308,7 @@
 | 306 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 307 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 308 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 309 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 309 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 310 | [Hob](games/h/hob.md) | 4.57 | 
 | 311 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 312 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
