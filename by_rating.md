@@ -777,9 +777,9 @@
 | 774 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.14 | 
 | 776 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 776 | [Flatout](games/f/flatout.md) | 4.13 | 
-| 778 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 778 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
-| 778 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.12 | 
+| 776 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.13 | 
+| 779 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
+| 779 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
 | 781 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 781 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
 | 781 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 

@@ -667,7 +667,7 @@
 | 665 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 666 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 667 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 668 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.12 | 
+| 668 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.13 | 
 | 669 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 670 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 671 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
