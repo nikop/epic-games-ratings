@@ -743,17 +743,17 @@
 | 741 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 741 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 741 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
+| 741 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.21 | 
 | 741 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 745 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 745 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 745 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 745 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 745 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 745 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 745 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
-| 745 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
-| 745 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.20 | 
-| 745 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 746 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 746 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 746 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 746 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 746 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 746 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 746 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
+| 746 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
+| 746 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 755 | [Windbound](games/w/windbound.md) | 4.19 | 
 | 755 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 755 | [Crayta](games/c/crayta.md) | 4.19 | 
