@@ -79,7 +79,7 @@
 | 77 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
 | 78 | [Before We Leave](games/b/before_we_leave.md) | 4.62 | 
 | 79 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
-| 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.69 | 
+| 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
 | 81 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
 | 82 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 83 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
