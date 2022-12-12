@@ -414,22 +414,22 @@
 | 404 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
 | 404 | [Sable](games/s/sable.md) | 4.57 | 
 | 404 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
-| 404 | [STG Football](games/s/stg_football.md) | 4.57 | 
 | 404 | [The Medium](games/t/the_medium.md) | 4.57 | 
-| 417 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 417 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 417 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 417 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
-| 417 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 417 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
-| 417 | [Hue](games/h/hue.md) | 4.56 | 
-| 417 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 417 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
-| 417 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
-| 417 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.56 | 
-| 417 | [Warpips](games/w/warpips.md) | 4.56 | 
-| 417 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 417 | [Observation](games/o/observation.md) | 4.56 | 
+| 416 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 416 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 416 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 416 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 416 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 416 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
+| 416 | [Hue](games/h/hue.md) | 4.56 | 
+| 416 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 416 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
+| 416 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 416 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.56 | 
+| 416 | [Warpips](games/w/warpips.md) | 4.56 | 
+| 416 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 416 | [Observation](games/o/observation.md) | 4.56 | 
+| 416 | [STG Football](games/s/stg_football.md) | 4.56 | 
 | 431 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 431 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 431 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.55 | 
