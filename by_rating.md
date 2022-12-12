@@ -114,21 +114,21 @@
 | 109 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 109 | [Diabotical](games/d/diabotical.md) | 4.76 | 
 | 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 109 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.76 | 
 | 109 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 109 | [Haven](games/h/haven.md) | 4.76 | 
 | 109 | [Dishonored 2](games/d/dishonored_2.md) | 4.76 | 
 | 109 | [Tails of Iron](games/t/tails_of_iron.md) | 4.76 | 
-| 120 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 120 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 120 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 120 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
-| 120 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 120 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
-| 120 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
-| 120 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
-| 120 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
-| 120 | [IXION](games/i/ixion.md) | 4.75 | 
+| 119 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 119 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 119 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
+| 119 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
+| 119 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 119 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
+| 119 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
+| 119 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
+| 119 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
+| 119 | [IXION](games/i/ixion.md) | 4.75 | 
 | 130 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 130 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 130 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
@@ -475,18 +475,18 @@
 | 454 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 454 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 454 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 476 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 476 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 476 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 476 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 476 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 476 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
-| 476 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 476 | [Aztez](games/a/aztez.md) | 4.52 | 
-| 476 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 476 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
-| 476 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
-| 476 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 454 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
+| 477 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 477 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 477 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 477 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 477 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 477 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
+| 477 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 477 | [Aztez](games/a/aztez.md) | 4.52 | 
+| 477 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 477 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
+| 477 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 488 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 488 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 488 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
@@ -783,10 +783,10 @@
 | 781 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 781 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
 | 781 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
-| 781 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.11 | 
-| 785 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 785 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 785 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
+| 784 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 784 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 784 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.10 | 
+| 784 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 788 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 788 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 788 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 

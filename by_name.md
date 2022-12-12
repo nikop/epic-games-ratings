@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.60 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -505,7 +505,7 @@
 | 503 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 504 | [Prey](games/p/prey.md) | 4.61 | 
 | 505 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 506 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.11 | 
+| 506 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.10 | 
 | 507 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 508 | [Quake](games/q/quake.md) | 4.80 | 
 | 509 | [Rage 2](games/r/rage_2.md) | 4.29 | 
@@ -569,7 +569,7 @@
 | 567 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 568 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 569 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 570 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.76 | 
+| 570 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
 | 571 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 572 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
 | 573 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
