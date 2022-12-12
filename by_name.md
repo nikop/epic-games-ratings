@@ -477,7 +477,7 @@
 | 475 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
 | 476 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 477 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 478 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.54 | 
+| 478 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.52 | 
 | 479 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 480 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.32 | 
 | 481 | [Parkitect](games/p/parkitect.md) | 4.27 | 
