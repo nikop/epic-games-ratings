@@ -28,11 +28,11 @@
 | 23 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 23 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 23 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
-| 23 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
-| 30 | [Inscryption](games/i/inscryption.md) | 4.86 | 
-| 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 30 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 30 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
+| 29 | [Inscryption](games/i/inscryption.md) | 4.86 | 
+| 29 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 29 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 29 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
+| 29 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 34 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 34 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 34 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
@@ -637,21 +637,21 @@
 | 624 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
 | 624 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.39 | 
 | 637 | [Core](games/c/core.md) | 4.38 | 
+| 637 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 637 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 637 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
 | 637 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
 | 637 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
 | 637 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 643 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 643 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 643 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 643 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 643 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 643 | [Encased](games/e/encased.md) | 4.37 | 
-| 643 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
-| 643 | [Othercide](games/o/othercide.md) | 4.37 | 
-| 643 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 643 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 644 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 644 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 644 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 644 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 644 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 644 | [Encased](games/e/encased.md) | 4.37 | 
+| 644 | [Othercide](games/o/othercide.md) | 4.37 | 
+| 644 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 644 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 653 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 653 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 653 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
@@ -757,9 +757,9 @@
 | 755 | [Windbound](games/w/windbound.md) | 4.19 | 
 | 755 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 755 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 755 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.19 | 
 | 755 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
-| 759 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 759 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.18 | 
+| 760 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 761 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 761 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
 | 761 | [Fangs](games/f/fangs.md) | 4.17 | 

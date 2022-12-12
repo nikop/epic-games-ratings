@@ -173,7 +173,7 @@
 | 171 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.45 | 
 | 172 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 173 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 
-| 174 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 
+| 174 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 175 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 176 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 177 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
@@ -200,7 +200,7 @@
 | 198 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
 | 199 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 200 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 201 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.18 | 
+| 201 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.19 | 
 | 202 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 203 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.75 | 
 | 204 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -276,7 +276,7 @@
 | 274 | [GigaBash](games/g/gigabash.md) | 4.61 | 
 | 275 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 276 | [GNOG](games/g/gnog.md) | 4.64 | 
-| 277 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
+| 277 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 278 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 279 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
 | 280 | [Godfall](games/g/godfall.md) | 4.06 | 
