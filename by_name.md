@@ -124,7 +124,7 @@
 | 122 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 123 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
 | 124 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
-| 125 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 125 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 126 | [Conarium](games/c/conarium.md) | 3.93 | 
 | 127 | [Control](games/c/control.md) | 4.60 | 
 | 128 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
