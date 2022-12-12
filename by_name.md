@@ -32,7 +32,7 @@
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
-| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.41 | 
+| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.39 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.65 | 
@@ -144,7 +144,7 @@
 | 142 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 143 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 144 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
-| 145 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 145 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
 | 146 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 147 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 148 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
@@ -806,7 +806,7 @@
 | 804 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.78 | 
 | 805 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 806 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 807 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.66 | 
+| 807 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.63 | 
 | 808 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 809 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 810 | [Windbound](games/w/windbound.md) | 4.19 | 
