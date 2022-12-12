@@ -200,7 +200,7 @@
 | 198 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
 | 199 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 200 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 201 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.19 | 
+| 201 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.18 | 
 | 202 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 203 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.75 | 
 | 204 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -477,7 +477,7 @@
 | 475 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
 | 476 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 477 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 478 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.52 | 
+| 478 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
 | 479 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 480 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.32 | 
 | 481 | [Parkitect](games/p/parkitect.md) | 4.27 | 
@@ -605,7 +605,7 @@
 | 603 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
 | 604 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 605 | [Space Punks](games/s/space_punks.md) | 4.17 | 
-| 606 | [Speed Brawl](games/s/speed_brawl.md) | 4.29 | 
+| 606 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 607 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 608 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 609 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
