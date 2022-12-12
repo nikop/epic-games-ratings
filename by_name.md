@@ -507,7 +507,7 @@
 | 505 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 506 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.11 | 
 | 507 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 508 | [Quake](games/q/quake.md) | 4.80 | 
+| 508 | [Quake](games/q/quake.md) | 4.79 | 
 | 509 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 510 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 511 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 

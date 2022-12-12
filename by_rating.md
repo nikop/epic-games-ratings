@@ -87,18 +87,18 @@
 | 75 | [Griftlands](games/g/griftlands.md) | 4.80 | 
 | 75 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 75 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
-| 75 | [Quake](games/q/quake.md) | 4.80 | 
 | 75 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 75 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 75 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
-| 92 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 92 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 92 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 92 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 92 | [Journey](games/j/journey.md) | 4.79 | 
-| 92 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
-| 92 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
-| 92 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 
+| 91 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
+| 91 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 91 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 91 | [Journey](games/j/journey.md) | 4.79 | 
+| 91 | [Quake](games/q/quake.md) | 4.79 | 
+| 91 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
+| 91 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
+| 91 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 
 | 100 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 100 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
