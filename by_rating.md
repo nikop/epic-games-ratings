@@ -783,10 +783,10 @@
 | 781 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 781 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
 | 781 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
-| 784 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 784 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 784 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.10 | 
-| 784 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
+| 781 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.11 | 
+| 785 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 785 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 785 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 788 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 788 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 788 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 

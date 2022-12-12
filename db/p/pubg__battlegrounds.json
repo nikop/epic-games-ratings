@@ -1,10 +1,10 @@
 {
   "ID": "eb99ee4694474e8da0b05a8ab391825c",
   "Name": "PUBG: BATTLEGROUNDS",
-  "Rating": 4.1,
+  "Rating": 4.11,
   "FirstSeen": "2022-12-06T17:57:24.6501738+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
-  "LastChanged": "2022-12-12T05:57:10.6590767+00:00",
+  "LastChanged": "2022-12-12T13:57:17.2160546+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-08T10:57:21.6139883+00:00",
@@ -104,6 +104,11 @@
     {
       "Time": "2022-12-12T05:57:10.6590771+00:00",
       "Rating": 4.1,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-12T13:57:17.2160549+00:00",
+      "Rating": 4.11,
       "NumberOfRatings": null
     }
   ],
