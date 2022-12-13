@@ -340,7 +340,7 @@
 | 338 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
 | 339 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 340 | [Isonzo](games/i/isonzo.md) | 4.58 | 
-| 341 | [IXION](games/i/ixion.md) | 4.75 | 
+| 341 | [IXION](games/i/ixion.md) | 4.73 | 
 | 342 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 343 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 344 | [Journey](games/j/journey.md) | 4.79 | 
@@ -399,7 +399,7 @@
 | 397 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 398 | [Mago](games/m/mago.md) | 4.89 | 
 | 399 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 400 | [Mars Horizon](games/m/mars_horizon.md) | 4.48 | 
+| 400 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 401 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 402 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 403 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.45 | 
