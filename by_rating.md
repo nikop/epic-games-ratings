@@ -786,13 +786,13 @@
 | 782 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
 | 785 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 785 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 785 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.10 | 
 | 785 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 789 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
-| 789 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
-| 789 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
-| 789 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
-| 789 | [Tharsis](games/t/tharsis.md) | 4.09 | 
+| 788 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 788 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 788 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
+| 788 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
+| 788 | [Tharsis](games/t/tharsis.md) | 4.09 | 
+| 788 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.09 | 
 | 794 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 794 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.08 | 
 | 794 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
