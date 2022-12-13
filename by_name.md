@@ -505,7 +505,7 @@
 | 503 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 504 | [Prey](games/p/prey.md) | 4.61 | 
 | 505 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 506 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.11 | 
+| 506 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.12 | 
 | 507 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 508 | [Quake](games/q/quake.md) | 4.79 | 
 | 509 | [Rage 2](games/r/rage_2.md) | 4.29 | 
@@ -676,7 +676,7 @@
 | 674 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
 | 675 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 676 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
-| 677 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
+| 677 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 678 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 679 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 680 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
@@ -732,7 +732,7 @@
 | 730 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
 | 731 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
 | 732 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 733 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 
+| 733 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 734 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.33 | 
 | 735 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
 | 736 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 

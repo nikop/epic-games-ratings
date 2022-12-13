@@ -87,27 +87,27 @@
 | 75 | [Griftlands](games/g/griftlands.md) | 4.80 | 
 | 75 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 75 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
-| 75 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.80 | 
 | 75 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 75 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
-| 91 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 91 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 91 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 91 | [Journey](games/j/journey.md) | 4.79 | 
-| 91 | [Quake](games/q/quake.md) | 4.79 | 
-| 91 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
-| 91 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
-| 91 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 
-| 100 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
-| 100 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 100 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 100 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.78 | 
-| 105 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 105 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
-| 105 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 105 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
+| 90 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 90 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
+| 90 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 90 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 90 | [Journey](games/j/journey.md) | 4.79 | 
+| 90 | [Quake](games/q/quake.md) | 4.79 | 
+| 90 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
+| 90 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
+| 90 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 
+| 99 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 99 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 99 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 99 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
+| 99 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.78 | 
+| 104 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 104 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
+| 104 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
+| 104 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
+| 104 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
 | 109 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 109 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 109 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
@@ -387,6 +387,7 @@
 | 385 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
 | 385 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 385 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 385 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 385 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 385 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 385 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
@@ -402,19 +403,18 @@
 | 385 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 385 | [NORCO](games/n/norco.md) | 4.58 | 
 | 385 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.58 | 
-| 403 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 403 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 403 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 403 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 
-| 403 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
-| 403 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
-| 403 | [Moving Out](games/m/moving_out.md) | 4.57 | 
-| 403 | [Hob](games/h/hob.md) | 4.57 | 
-| 403 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 403 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
-| 403 | [Sable](games/s/sable.md) | 4.57 | 
-| 403 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
-| 403 | [The Medium](games/t/the_medium.md) | 4.57 | 
+| 404 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 404 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 404 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 404 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 404 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
+| 404 | [Moving Out](games/m/moving_out.md) | 4.57 | 
+| 404 | [Hob](games/h/hob.md) | 4.57 | 
+| 404 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 404 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
+| 404 | [Sable](games/s/sable.md) | 4.57 | 
+| 404 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
+| 404 | [The Medium](games/t/the_medium.md) | 4.57 | 
 | 416 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 416 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 416 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
@@ -780,10 +780,10 @@
 | 776 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.13 | 
 | 779 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 779 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
-| 781 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
-| 781 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
-| 781 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
-| 781 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.11 | 
+| 779 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.12 | 
+| 782 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
+| 782 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
+| 782 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
 | 785 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 785 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 785 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 

@@ -1,10 +1,10 @@
 {
   "ID": "carnation",
   "Name": "Tom Clancy\u0027s Rainbow Six\u00AE Siege",
-  "Rating": 4.57,
+  "Rating": 4.58,
   "NumberOfRatings": 8669,
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
-  "LastChanged": "2022-12-12T08:57:30.4376933+00:00",
+  "LastChanged": "2022-12-13T09:57:02.127626+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:50.9592709+00:00",
@@ -3175,6 +3175,11 @@
       "Time": "2022-12-12T08:57:30.4376934+00:00",
       "Rating": 4.57,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-13T09:57:02.1276264+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -3216,7 +3221,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 1329
+      "Count": 1334
     },
     {
       "Text": "This game has Realistic Visuals",
