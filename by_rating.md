@@ -475,18 +475,18 @@
 | 453 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
 | 453 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 453 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 453 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
-| 477 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 477 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 477 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 477 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 477 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 477 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
-| 477 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 477 | [Aztez](games/a/aztez.md) | 4.52 | 
-| 477 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 477 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
-| 477 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 476 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 476 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 476 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 476 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 476 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 476 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
+| 476 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 476 | [Aztez](games/a/aztez.md) | 4.52 | 
+| 476 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 476 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
+| 476 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
+| 476 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 488 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 488 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 488 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
@@ -757,9 +757,9 @@
 | 755 | [Windbound](games/w/windbound.md) | 4.19 | 
 | 755 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 755 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 755 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.19 | 
 | 755 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
-| 759 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 759 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.18 | 
+| 760 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 761 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 761 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
 | 761 | [Fangs](games/f/fangs.md) | 4.17 | 
