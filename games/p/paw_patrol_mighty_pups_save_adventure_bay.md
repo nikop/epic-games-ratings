@@ -1,6 +1,5 @@
-# Hello Neighbor 2
-Rating: 4.60 (-)  (as of 23.09.2022)  
+# PAW Patrol Mighty Pups Save Adventure Bay
+Rating: - (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
-| 2022-12-13 | 4.60 | - |
