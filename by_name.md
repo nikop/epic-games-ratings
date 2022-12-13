@@ -200,7 +200,7 @@
 | 198 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
 | 199 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 200 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 201 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.19 | 
+| 201 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 202 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 203 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.75 | 
 | 204 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -403,7 +403,7 @@
 | 401 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 402 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 403 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 404 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.44 | 
+| 404 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.45 | 
 | 405 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 406 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 407 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
@@ -506,7 +506,7 @@
 | 504 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 505 | [Prey](games/p/prey.md) | 4.61 | 
 | 506 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 507 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.09 | 
+| 507 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.10 | 
 | 508 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 509 | [Quake](games/q/quake.md) | 4.79 | 
 | 510 | [Rage 2](games/r/rage_2.md) | 4.29 | 

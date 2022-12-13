@@ -572,13 +572,13 @@
 | 557 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 557 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.45 | 
 | 557 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
-| 573 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 573 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 573 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 573 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 573 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
-| 573 | [Train Valley](games/t/train_valley.md) | 4.44 | 
-| 573 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.44 | 
+| 557 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.45 | 
+| 574 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 574 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 574 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 574 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 574 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
+| 574 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 580 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 580 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 580 | [Sheltered](games/s/sheltered.md) | 4.43 | 
@@ -745,21 +745,21 @@
 | 742 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 742 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
 | 742 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.21 | 
+| 742 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 742 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 747 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 747 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 747 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 747 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 747 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 747 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 747 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
-| 747 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
-| 747 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 756 | [Windbound](games/w/windbound.md) | 4.19 | 
-| 756 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 756 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 756 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.19 | 
-| 756 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
+| 748 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 748 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 748 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 748 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 748 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 748 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 748 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
+| 748 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
+| 748 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 757 | [Windbound](games/w/windbound.md) | 4.19 | 
+| 757 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 757 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 757 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 761 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 762 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 762 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
@@ -786,13 +786,13 @@
 | 782 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
 | 785 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 785 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 785 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.10 | 
 | 785 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 788 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
-| 788 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
-| 788 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
-| 788 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
-| 788 | [Tharsis](games/t/tharsis.md) | 4.09 | 
-| 788 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.09 | 
+| 789 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 789 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 789 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
+| 789 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
+| 789 | [Tharsis](games/t/tharsis.md) | 4.09 | 
 | 794 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 794 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.08 | 
 | 794 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
