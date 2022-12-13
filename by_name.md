@@ -190,7 +190,7 @@
 | 188 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 189 | [Dishonored 2](games/d/dishonored_2.md) | 4.76 | 
 | 190 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
-| 191 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.62 | 
+| 191 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.61 | 
 | 192 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 193 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 194 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
