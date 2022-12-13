@@ -4,7 +4,7 @@
 | 2 | [IXION](games/i/ixion.md) | 4.73 | 
 | 3 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.09 | 
 | 4 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.13 | 
-| 5 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.45 | 
+| 5 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.44 | 
 | 6 | [Predecessor](games/p/predecessor.md) | 4.34 | 
 | 7 | [Fangs](games/f/fangs.md) | 4.17 | 
 | 8 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
