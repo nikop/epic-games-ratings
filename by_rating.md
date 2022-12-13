@@ -669,16 +669,16 @@
 | 667 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 667 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
 | 667 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 667 | [Predecessor](games/p/predecessor.md) | 4.35 | 
 | 667 | [ZOMBI](games/z/zombi.md) | 4.35 | 
-| 672 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 672 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 672 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
-| 672 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 672 | [Automachef](games/a/automachef.md) | 4.34 | 
-| 672 | [Ashen](games/a/ashen.md) | 4.34 | 
-| 672 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
-| 672 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
+| 671 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 671 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 671 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
+| 671 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 671 | [Automachef](games/a/automachef.md) | 4.34 | 
+| 671 | [Ashen](games/a/ashen.md) | 4.34 | 
+| 671 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
+| 671 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
+| 671 | [Predecessor](games/p/predecessor.md) | 4.34 | 
 | 680 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.33 | 
 | 681 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
 | 681 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
