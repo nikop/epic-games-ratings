@@ -806,7 +806,7 @@
 | 804 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.78 | 
 | 805 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 806 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 807 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.63 | 
+| 807 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.69 | 
 | 808 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 809 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 810 | [Windbound](games/w/windbound.md) | 4.19 | 

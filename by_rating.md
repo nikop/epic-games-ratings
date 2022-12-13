@@ -828,4 +828,4 @@
 | 826 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 827 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.75 | 
 | 828 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
-| 829 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.63 | 
+| 829 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.69 | 
