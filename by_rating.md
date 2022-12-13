@@ -780,13 +780,13 @@
 | 776 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.13 | 
 | 779 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 779 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
-| 779 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.12 | 
-| 782 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
-| 782 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
-| 782 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
-| 785 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 785 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 785 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
+| 781 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
+| 781 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
+| 781 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
+| 784 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 784 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 784 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.10 | 
+| 784 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 788 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 788 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 788 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
