@@ -480,7 +480,7 @@
 | 478 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 479 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
 | 480 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 481 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.30 | 
+| 481 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.31 | 
 | 482 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 483 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 484 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.29 | 
@@ -717,7 +717,7 @@
 | 715 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
 | 716 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.82 | 
 | 717 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
-| 718 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 
+| 718 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.90 | 
 | 719 | [The Witness](games/t/the_witness.md) | 4.70 | 
 | 720 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 721 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 

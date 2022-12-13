@@ -5,7 +5,7 @@
 | 3 | [Hades](games/h/hades.md) | 4.92 | 
 | 3 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 5 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
-| 6 | [The Witcher 3: Wild Hunt - Game of the Year Edition](games/t/the_witcher_3__wild_hunt_-_game_of_the_year_edition.md) | 4.90 | 
+| 6 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.90 | 
 | 6 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 6 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
@@ -692,12 +692,12 @@
 | 687 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 
 | 687 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
 | 687 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
-| 693 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 693 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
-| 693 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 693 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
-| 693 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
-| 693 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.30 | 
+| 687 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.31 | 
+| 694 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 694 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
+| 694 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
+| 694 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
+| 694 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 699 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 699 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 699 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
