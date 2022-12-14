@@ -476,18 +476,18 @@
 | 454 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
 | 454 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 454 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 454 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
-| 478 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 478 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 478 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 478 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 478 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 478 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
-| 478 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 478 | [Aztez](games/a/aztez.md) | 4.52 | 
-| 478 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 478 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
-| 478 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 477 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 477 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 477 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 477 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 477 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 477 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
+| 477 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 477 | [Aztez](games/a/aztez.md) | 4.52 | 
+| 477 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 477 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
+| 477 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
+| 477 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 489 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 489 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 489 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
