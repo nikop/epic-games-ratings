@@ -480,7 +480,7 @@
 | 478 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 479 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
 | 480 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 481 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.31 | 
+| 481 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.32 | 
 | 482 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 483 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 484 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.29 | 
