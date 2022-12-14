@@ -111,24 +111,24 @@
 | 104 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
 | 110 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 110 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 110 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
 | 110 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 110 | [Diabotical](games/d/diabotical.md) | 4.76 | 
 | 110 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 110 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 110 | [Haven](games/h/haven.md) | 4.76 | 
 | 110 | [Tails of Iron](games/t/tails_of_iron.md) | 4.76 | 
-| 119 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 119 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 119 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
-| 119 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 119 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
-| 119 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
-| 119 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
-| 119 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
-| 119 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
-| 119 | [IXION](games/i/ixion.md) | 4.75 | 
+| 118 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 118 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 118 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
+| 118 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
+| 118 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 118 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
+| 118 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
+| 118 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
+| 118 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
+| 118 | [IXION](games/i/ixion.md) | 4.75 | 
 | 130 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 130 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 130 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
@@ -670,16 +670,16 @@
 | 668 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 668 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
 | 668 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 668 | [Predecessor](games/p/predecessor.md) | 4.35 | 
 | 668 | [ZOMBI](games/z/zombi.md) | 4.35 | 
-| 672 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 672 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 672 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
-| 672 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 672 | [Automachef](games/a/automachef.md) | 4.34 | 
-| 672 | [Ashen](games/a/ashen.md) | 4.34 | 
-| 672 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
-| 672 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 672 | [Predecessor](games/p/predecessor.md) | 4.34 | 
+| 673 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 673 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 673 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
+| 673 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 673 | [Automachef](games/a/automachef.md) | 4.34 | 
+| 673 | [Ashen](games/a/ashen.md) | 4.34 | 
+| 673 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
+| 673 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 681 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.33 | 
 | 682 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
 | 682 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
