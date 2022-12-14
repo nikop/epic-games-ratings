@@ -276,7 +276,7 @@
 | 274 | [GigaBash](games/g/gigabash.md) | 4.61 | 
 | 275 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 276 | [GNOG](games/g/gnog.md) | 4.64 | 
-| 277 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
+| 277 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 278 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 279 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
 | 280 | [Godfall](games/g/godfall.md) | 4.06 | 
@@ -391,7 +391,7 @@
 | 389 | [Little Inferno](games/l/little_inferno.md) | 4.59 | 
 | 390 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 391 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 392 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
+| 392 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
 | 393 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
 | 394 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 395 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
@@ -506,7 +506,7 @@
 | 504 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 505 | [Prey](games/p/prey.md) | 4.61 | 
 | 506 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 507 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.10 | 
+| 507 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.08 | 
 | 508 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 509 | [Quake](games/q/quake.md) | 4.79 | 
 | 510 | [Rage 2](games/r/rage_2.md) | 4.29 | 

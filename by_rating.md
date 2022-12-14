@@ -28,11 +28,11 @@
 | 23 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 23 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 23 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
-| 23 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
-| 30 | [Inscryption](games/i/inscryption.md) | 4.86 | 
-| 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 30 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 30 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
+| 29 | [Inscryption](games/i/inscryption.md) | 4.86 | 
+| 29 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 29 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 29 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
+| 29 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 34 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 34 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 34 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
@@ -704,12 +704,12 @@
 | 699 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.29 | 
 | 699 | [House Party](games/h/house_party.md) | 4.29 | 
 | 699 | [The Fall](games/t/the_fall.md) | 4.29 | 
+| 699 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
 | 699 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.29 | 
 | 699 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 699 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 708 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
-| 708 | [Dark Light](games/d/dark_light.md) | 4.28 | 
-| 708 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
+| 709 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
+| 709 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 711 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 711 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 713 | [EVE Online](games/e/eve_online.md) | 4.26 | 
@@ -786,18 +786,18 @@
 | 782 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
 | 785 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 785 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 785 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.10 | 
 | 785 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 789 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
-| 789 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
-| 789 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
-| 789 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
-| 789 | [Tharsis](games/t/tharsis.md) | 4.09 | 
-| 794 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 794 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.08 | 
-| 794 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
-| 794 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
-| 794 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 
+| 788 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 788 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 788 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
+| 788 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
+| 788 | [Tharsis](games/t/tharsis.md) | 4.09 | 
+| 793 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 793 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.08 | 
+| 793 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
+| 793 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
+| 793 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 
+| 793 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.08 | 
 | 799 | [Lake](games/l/lake.md) | 4.07 | 
 | 800 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 801 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
