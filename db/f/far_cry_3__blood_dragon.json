@@ -1,10 +1,10 @@
 {
   "ID": "8b9fc0e3ee7d478abc047d1a3596c568",
   "Name": "Far Cry 3: Blood Dragon",
-  "Rating": 4.58,
+  "Rating": 4.59,
   "NumberOfRatings": 54,
   "FirstSeen": "2022-07-22T20:29:24.1119308+00:00",
-  "LastChanged": "2022-12-07T20:57:47.7324711+00:00",
+  "LastChanged": "2022-12-14T20:59:09.4862727+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:24.1119311+00:00",
@@ -174,6 +174,11 @@
     {
       "Time": "2022-12-07T20:57:47.7324713+00:00",
       "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-14T20:59:09.486273+00:00",
+      "Rating": 4.59,
       "NumberOfRatings": null
     }
   ],

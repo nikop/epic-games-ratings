@@ -227,7 +227,7 @@
 | 225 | [Fangs](games/f/fangs.md) | 4.17 | 
 | 226 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 227 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.21 | 
-| 228 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.58 | 
+| 228 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
 | 229 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 230 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 231 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
