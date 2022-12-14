@@ -128,39 +128,39 @@
 | 119 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
 | 119 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 119 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
-| 129 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
-| 129 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 129 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 129 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 129 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 129 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
-| 129 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
-| 129 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 129 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
-| 129 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 129 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
-| 129 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.74 | 
-| 129 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
-| 129 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 129 | [Revita](games/r/revita.md) | 4.74 | 
-| 129 | [shapez](games/s/shapez.md) | 4.74 | 
-| 129 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
-| 146 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 146 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 146 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 146 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 146 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 146 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 146 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 146 | [FUSER™](games/f/fuser™.md) | 4.73 | 
-| 146 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
-| 146 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
-| 146 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
-| 146 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
-| 146 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
-| 146 | [IXION](games/i/ixion.md) | 4.73 | 
-| 146 | [Outlast](games/o/outlast.md) | 4.73 | 
-| 146 | [Suzerain](games/s/suzerain.md) | 4.73 | 
+| 119 | [IXION](games/i/ixion.md) | 4.75 | 
+| 130 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
+| 130 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 130 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 130 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 130 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 130 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
+| 130 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
+| 130 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 130 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
+| 130 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 130 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
+| 130 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.74 | 
+| 130 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
+| 130 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 130 | [Revita](games/r/revita.md) | 4.74 | 
+| 130 | [shapez](games/s/shapez.md) | 4.74 | 
+| 130 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
+| 147 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 147 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 147 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 147 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 147 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
+| 147 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 147 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 147 | [FUSER™](games/f/fuser™.md) | 4.73 | 
+| 147 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
+| 147 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
+| 147 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
+| 147 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
+| 147 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
+| 147 | [Outlast](games/o/outlast.md) | 4.73 | 
+| 147 | [Suzerain](games/s/suzerain.md) | 4.73 | 
 | 162 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 162 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 162 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
