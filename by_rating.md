@@ -133,7 +133,6 @@
 | 129 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 129 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 129 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 129 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 129 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
 | 129 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
 | 129 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
@@ -146,21 +145,22 @@
 | 129 | [Revita](games/r/revita.md) | 4.74 | 
 | 129 | [shapez](games/s/shapez.md) | 4.74 | 
 | 129 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
-| 147 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 147 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 147 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 147 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 147 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 147 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 147 | [FUSER™](games/f/fuser™.md) | 4.73 | 
-| 147 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
-| 147 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
-| 147 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
-| 147 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
-| 147 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
-| 147 | [IXION](games/i/ixion.md) | 4.73 | 
-| 147 | [Outlast](games/o/outlast.md) | 4.73 | 
-| 147 | [Suzerain](games/s/suzerain.md) | 4.73 | 
+| 146 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 146 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 146 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 146 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 146 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
+| 146 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 146 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 146 | [FUSER™](games/f/fuser™.md) | 4.73 | 
+| 146 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
+| 146 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
+| 146 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
+| 146 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
+| 146 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
+| 146 | [IXION](games/i/ixion.md) | 4.73 | 
+| 146 | [Outlast](games/o/outlast.md) | 4.73 | 
+| 146 | [Suzerain](games/s/suzerain.md) | 4.73 | 
 | 162 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 162 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 162 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
@@ -786,13 +786,13 @@
 | 782 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
 | 785 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 785 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 785 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.10 | 
 | 785 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 788 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
-| 788 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
-| 788 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
-| 788 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
-| 788 | [Tharsis](games/t/tharsis.md) | 4.09 | 
-| 788 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.09 | 
+| 789 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 789 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 789 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
+| 789 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
+| 789 | [Tharsis](games/t/tharsis.md) | 4.09 | 
 | 794 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 794 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.08 | 
 | 794 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 

@@ -506,7 +506,7 @@
 | 504 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 505 | [Prey](games/p/prey.md) | 4.61 | 
 | 506 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 507 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.09 | 
+| 507 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.10 | 
 | 508 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 509 | [Quake](games/q/quake.md) | 4.79 | 
 | 510 | [Rage 2](games/r/rage_2.md) | 4.29 | 
@@ -725,7 +725,7 @@
 | 723 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 724 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 725 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 726 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 726 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 727 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.60 | 
 | 728 | [Timberborn](games/t/timberborn.md) | 4.71 | 
 | 729 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
