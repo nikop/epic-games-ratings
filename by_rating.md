@@ -28,11 +28,11 @@
 | 23 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 23 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 23 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
-| 29 | [Inscryption](games/i/inscryption.md) | 4.86 | 
-| 29 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 29 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 29 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
-| 29 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
+| 23 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
+| 30 | [Inscryption](games/i/inscryption.md) | 4.86 | 
+| 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 30 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 30 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 34 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 34 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 34 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
@@ -828,5 +828,5 @@
 | 824 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 827 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 828 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.75 | 
-| 829 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
-| 830 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.69 | 
+| 829 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.72 | 
+| 830 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 

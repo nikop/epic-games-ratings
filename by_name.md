@@ -276,7 +276,7 @@
 | 274 | [GigaBash](games/g/gigabash.md) | 4.61 | 
 | 275 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 276 | [GNOG](games/g/gnog.md) | 4.64 | 
-| 277 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
+| 277 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
 | 278 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 279 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
 | 280 | [Godfall](games/g/godfall.md) | 4.06 | 
@@ -807,7 +807,7 @@
 | 805 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.78 | 
 | 806 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 807 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 808 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.69 | 
+| 808 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.72 | 
 | 809 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 810 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 811 | [Windbound](games/w/windbound.md) | 4.19 | 
