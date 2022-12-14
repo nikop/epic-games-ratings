@@ -419,6 +419,7 @@
 | 417 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 417 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 417 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 417 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 417 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 417 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
 | 417 | [Hue](games/h/hue.md) | 4.56 | 
@@ -430,18 +431,17 @@
 | 417 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 417 | [Observation](games/o/observation.md) | 4.56 | 
 | 417 | [STG Football](games/s/stg_football.md) | 4.56 | 
-| 431 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 431 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 431 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 431 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.55 | 
-| 431 | [Outward](games/o/outward.md) | 4.55 | 
-| 431 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 431 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
-| 431 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
-| 431 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 431 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 431 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
-| 431 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
+| 432 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 432 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 432 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.55 | 
+| 432 | [Outward](games/o/outward.md) | 4.55 | 
+| 432 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 432 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
+| 432 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
+| 432 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 432 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
+| 432 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
+| 432 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
 | 443 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 443 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 443 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
@@ -500,7 +500,6 @@
 | 489 | [The Surge](games/t/the_surge.md) | 4.51 | 
 | 489 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 500 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 500 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
 | 500 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 500 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 500 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
@@ -516,20 +515,21 @@
 | 500 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
 | 500 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 500 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 517 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 517 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 517 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 517 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 517 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 517 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
-| 517 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 517 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 517 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 517 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 517 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 517 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 517 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 517 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 516 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 516 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 516 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 516 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 516 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 516 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 516 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
+| 516 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 516 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 516 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 516 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 516 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 516 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 516 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 516 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 531 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 531 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 531 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
