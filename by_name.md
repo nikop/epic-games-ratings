@@ -457,7 +457,7 @@
 | 455 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
 | 456 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
 | 457 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 458 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.46 | 
+| 458 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.47 | 
 | 459 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 460 | [Old World](games/o/old_world.md) | 4.64 | 
 | 461 | [Ooblets](games/o/ooblets.md) | 4.87 | 
@@ -668,7 +668,7 @@
 | 666 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 667 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 668 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 669 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.13 | 
+| 669 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.14 | 
 | 670 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 671 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 672 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
@@ -733,7 +733,7 @@
 | 731 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
 | 732 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
 | 733 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 734 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
+| 734 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 
 | 735 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.33 | 
 | 736 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
 | 737 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
