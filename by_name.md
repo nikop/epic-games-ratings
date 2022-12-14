@@ -302,7 +302,7 @@
 | 300 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 301 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 302 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 303 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.60 | 
+| 303 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.62 | 
 | 304 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
 | 305 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 306 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
