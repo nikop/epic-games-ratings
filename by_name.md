@@ -480,7 +480,7 @@
 | 478 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 479 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
 | 480 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 481 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.31 | 
+| 481 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.32 | 
 | 482 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 483 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 484 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.29 | 
@@ -735,7 +735,7 @@
 | 733 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 734 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 735 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.33 | 
-| 736 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
+| 736 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
 | 737 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 738 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 739 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
