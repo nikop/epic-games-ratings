@@ -294,7 +294,7 @@
 | 292 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 293 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 294 | [Hades](games/h/hades.md) | 4.92 | 
-| 295 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 295 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 296 | [Hammerting](games/h/hammerting.md) | 4.36 | 
 | 297 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
 | 298 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
@@ -565,7 +565,7 @@
 | 563 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 564 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 565 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 566 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
+| 566 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
 | 567 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 568 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 569 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 

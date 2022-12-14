@@ -124,28 +124,28 @@
 | 118 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
 | 118 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 118 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 118 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
 | 118 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 118 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
 | 118 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 118 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
 | 118 | [IXION](games/i/ixion.md) | 4.75 | 
-| 130 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
-| 130 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 130 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 130 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 130 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 130 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
-| 130 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
-| 130 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 130 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
-| 130 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 130 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
-| 130 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.74 | 
-| 130 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
-| 130 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 130 | [Revita](games/r/revita.md) | 4.74 | 
-| 130 | [shapez](games/s/shapez.md) | 4.74 | 
-| 130 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
+| 131 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
+| 131 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 131 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 131 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 131 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 131 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
+| 131 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
+| 131 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 131 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 131 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
+| 131 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.74 | 
+| 131 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
+| 131 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 131 | [Revita](games/r/revita.md) | 4.74 | 
+| 131 | [shapez](games/s/shapez.md) | 4.74 | 
+| 131 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
 | 147 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 147 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 147 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
@@ -551,28 +551,28 @@
 | 546 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
 | 546 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
 | 546 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
+| 546 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 546 | [Figment](games/f/figment.md) | 4.46 | 
 | 546 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
 | 546 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 546 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 546 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.46 | 
 | 546 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 558 | [SMITE](games/s/smite.md) | 4.45 | 
-| 558 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 558 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 558 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 558 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 558 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
-| 558 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 558 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 558 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 558 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 558 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 558 | [Good Company](games/g/good_company.md) | 4.45 | 
-| 558 | [Chorus](games/c/chorus.md) | 4.45 | 
-| 558 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
-| 558 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.45 | 
-| 558 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
+| 559 | [SMITE](games/s/smite.md) | 4.45 | 
+| 559 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 559 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 559 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 559 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 559 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
+| 559 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 559 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 559 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 559 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 559 | [Good Company](games/g/good_company.md) | 4.45 | 
+| 559 | [Chorus](games/c/chorus.md) | 4.45 | 
+| 559 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
+| 559 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.45 | 
+| 559 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 574 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 574 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 574 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
