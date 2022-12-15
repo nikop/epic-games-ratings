@@ -69,26 +69,26 @@
 | 61 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.82 | 
 | 61 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 61 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
+| 70 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 70 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 70 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 70 | [Superliminal](games/s/superliminal.md) | 4.81 | 
 | 70 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 70 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
-| 75 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 75 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 75 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 75 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 75 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 75 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 75 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
-| 75 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
-| 75 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
-| 75 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
-| 75 | [Griftlands](games/g/griftlands.md) | 4.80 | 
-| 75 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
-| 75 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
-| 75 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 75 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
+| 76 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 76 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 76 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 76 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 76 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
+| 76 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
+| 76 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
+| 76 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
+| 76 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
+| 76 | [Griftlands](games/g/griftlands.md) | 4.80 | 
+| 76 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
+| 76 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
+| 76 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 76 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
 | 90 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 90 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 90 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
@@ -224,6 +224,7 @@
 | 220 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 220 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 220 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 220 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
 | 220 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 220 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
 | 220 | [Overcooked](games/o/overcooked.md) | 4.68 | 
@@ -234,23 +235,22 @@
 | 220 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 220 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.68 | 
 | 220 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 235 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 235 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 235 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 235 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 235 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
-| 235 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 235 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 235 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 235 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
-| 235 | [CARRION](games/c/carrion.md) | 4.67 | 
-| 235 | [Rogue Lords](games/r/rogue_lords.md) | 4.67 | 
-| 235 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.67 | 
-| 235 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 235 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
-| 235 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
-| 235 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
-| 235 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
+| 236 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 236 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 236 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 236 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 236 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 236 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 236 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 236 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
+| 236 | [CARRION](games/c/carrion.md) | 4.67 | 
+| 236 | [Rogue Lords](games/r/rogue_lords.md) | 4.67 | 
+| 236 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.67 | 
+| 236 | [Eastward](games/e/eastward.md) | 4.67 | 
+| 236 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
+| 236 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
+| 236 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
+| 236 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
 | 252 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 252 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 252 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
@@ -745,17 +745,17 @@
 | 742 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 742 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
 | 742 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.21 | 
+| 742 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 742 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 747 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 747 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 747 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 747 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 747 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 747 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 747 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
-| 747 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
-| 747 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 747 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
+| 748 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 748 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 748 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 748 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 748 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 748 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 748 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
+| 748 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
+| 748 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 757 | [Windbound](games/w/windbound.md) | 4.19 | 
 | 757 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 757 | [Crayta](games/c/crayta.md) | 4.19 | 
@@ -828,5 +828,5 @@
 | 824 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 827 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 828 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.75 | 
-| 829 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.72 | 
+| 829 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.73 | 
 | 830 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
