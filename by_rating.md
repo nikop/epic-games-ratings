@@ -612,31 +612,31 @@
 | 601 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.41 | 
 | 601 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 601 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 601 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
 | 601 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 614 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
-| 614 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
-| 614 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 614 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
-| 614 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
-| 614 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 614 | [ATOM RPG](games/a/atom_rpg.md) | 4.40 | 
-| 614 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
-| 614 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 614 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 614 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
-| 625 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 625 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 625 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
-| 625 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
-| 625 | [Star Stable Online](games/s/star_stable_online.md) | 4.39 | 
-| 625 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.39 | 
-| 625 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.39 | 
-| 625 | [Tacoma](games/t/tacoma.md) | 4.39 | 
-| 625 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 
-| 625 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
-| 625 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 625 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
-| 625 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.39 | 
+| 615 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 615 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
+| 615 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 615 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
+| 615 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
+| 615 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 615 | [ATOM RPG](games/a/atom_rpg.md) | 4.40 | 
+| 615 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
+| 615 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 615 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 615 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
+| 626 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 626 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 626 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
+| 626 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
+| 626 | [Star Stable Online](games/s/star_stable_online.md) | 4.39 | 
+| 626 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.39 | 
+| 626 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.39 | 
+| 626 | [Tacoma](games/t/tacoma.md) | 4.39 | 
+| 626 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 
+| 626 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
+| 626 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
+| 626 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
 | 638 | [Core](games/c/core.md) | 4.38 | 
 | 638 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 638 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
