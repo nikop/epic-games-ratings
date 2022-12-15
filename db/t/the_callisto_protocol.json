@@ -1,10 +1,10 @@
 {
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
-  "Rating": 4.14,
+  "Rating": 4.13,
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
-  "LastChanged": "2022-12-14T05:57:00.6107328+00:00",
+  "LastChanged": "2022-12-15T16:58:06.5227159+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-03T10:57:24.5094082+00:00",
@@ -165,12 +165,17 @@
       "Time": "2022-12-14T05:57:00.6107329+00:00",
       "Rating": 4.14,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-15T16:58:06.5227161+00:00",
+      "Rating": 4.13,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
-      "Count": 23
+      "Count": 25
     }
   ]
 }

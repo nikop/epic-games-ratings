@@ -49,7 +49,7 @@
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.55 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
+| 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
@@ -148,7 +148,7 @@
 | 146 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 147 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 148 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
-| 149 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
+| 149 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 150 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
 | 151 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 
 | 152 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
@@ -506,7 +506,7 @@
 | 504 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 505 | [Prey](games/p/prey.md) | 4.61 | 
 | 506 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 507 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.07 | 
+| 507 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.08 | 
 | 508 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 509 | [Quake](games/q/quake.md) | 4.79 | 
 | 510 | [Rage 2](games/r/rage_2.md) | 4.29 | 
@@ -554,7 +554,7 @@
 | 552 | [Sable](games/s/sable.md) | 4.57 | 
 | 553 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
 | 554 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 555 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
+| 555 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.44 | 
 | 556 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 557 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
 | 558 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
@@ -668,7 +668,7 @@
 | 666 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 667 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 668 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 669 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.14 | 
+| 669 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.13 | 
 | 670 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 671 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 672 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
@@ -764,7 +764,7 @@
 | 762 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 763 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
 | 764 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.22 | 
-| 765 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 765 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
 | 766 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 767 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 768 | [TUNIC](games/t/tunic.md) | 4.87 | 
@@ -811,8 +811,8 @@
 | 809 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 810 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 811 | [Windbound](games/w/windbound.md) | 4.19 | 
-| 812 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order.md) | 4.58 | 
-| 813 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood.md) | 4.60 | 
+| 812 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
+| 813 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
 | 814 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 815 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 
 | 816 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
