@@ -486,19 +486,19 @@
 | 477 | [Aztez](games/a/aztez.md) | 4.52 | 
 | 477 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 477 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
+| 477 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
 | 477 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 488 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 488 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 488 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 488 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 488 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 488 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 488 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
-| 488 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 488 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
-| 488 | [The Surge](games/t/the_surge.md) | 4.51 | 
-| 488 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 488 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
+| 489 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 489 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 489 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 489 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 489 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 489 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 489 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
+| 489 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 489 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
+| 489 | [The Surge](games/t/the_surge.md) | 4.51 | 
+| 489 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 500 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 500 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 500 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
