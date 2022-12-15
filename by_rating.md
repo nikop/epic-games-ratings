@@ -270,6 +270,7 @@
 | 268 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 268 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 268 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 268 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 268 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 268 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 268 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
@@ -278,25 +279,24 @@
 | 268 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 268 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.65 | 
 | 268 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
-| 279 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 279 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 279 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 279 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
-| 279 | [Old World](games/o/old_world.md) | 4.64 | 
-| 279 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.64 | 
-| 279 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 279 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 279 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
-| 279 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
-| 279 | [SOMA](games/s/soma.md) | 4.64 | 
-| 279 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
-| 279 | [Operation: Tango](games/o/operation__tango.md) | 4.64 | 
-| 279 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
-| 279 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
-| 279 | [Card Shark](games/c/card_shark.md) | 4.64 | 
-| 279 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.64 | 
-| 279 | [GNOG](games/g/gnog.md) | 4.64 | 
-| 279 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
+| 280 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 280 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 280 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 280 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
+| 280 | [Old World](games/o/old_world.md) | 4.64 | 
+| 280 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.64 | 
+| 280 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
+| 280 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
+| 280 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
+| 280 | [SOMA](games/s/soma.md) | 4.64 | 
+| 280 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
+| 280 | [Operation: Tango](games/o/operation__tango.md) | 4.64 | 
+| 280 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
+| 280 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
+| 280 | [Card Shark](games/c/card_shark.md) | 4.64 | 
+| 280 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.64 | 
+| 280 | [GNOG](games/g/gnog.md) | 4.64 | 
+| 280 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 298 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
 | 298 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 298 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
