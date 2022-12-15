@@ -47,19 +47,19 @@
 | 44 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 44 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 44 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 44 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.84 | 
 | 44 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 44 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.84 | 
 | 44 | [Huntdown](games/h/huntdown.md) | 4.84 | 
-| 52 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 52 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
-| 52 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
-| 52 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 52 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
-| 52 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
-| 52 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
-| 52 | [Grindstone](games/g/grindstone.md) | 4.83 | 
-| 52 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
+| 51 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
+| 51 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 51 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
+| 51 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
+| 51 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
+| 51 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
+| 51 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.83 | 
+| 51 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
+| 51 | [Grindstone](games/g/grindstone.md) | 4.83 | 
+| 51 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
 | 61 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 61 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
 | 61 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
@@ -486,19 +486,19 @@
 | 477 | [Aztez](games/a/aztez.md) | 4.52 | 
 | 477 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 477 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
-| 477 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
 | 477 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 489 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 489 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 489 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 489 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 489 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 489 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 489 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
-| 489 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 489 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
-| 489 | [The Surge](games/t/the_surge.md) | 4.51 | 
-| 489 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 488 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 488 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 488 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 488 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 488 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 488 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 488 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
+| 488 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 488 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
+| 488 | [The Surge](games/t/the_surge.md) | 4.51 | 
+| 488 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 488 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
 | 500 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 500 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 500 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
