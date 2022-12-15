@@ -667,11 +667,11 @@
 | 653 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 653 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
 | 653 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
-| 668 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
-| 668 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 668 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 668 | [Predecessor](games/p/predecessor.md) | 4.35 | 
-| 668 | [ZOMBI](games/z/zombi.md) | 4.35 | 
+| 653 | [Predecessor](games/p/predecessor.md) | 4.36 | 
+| 669 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
+| 669 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
+| 669 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 669 | [ZOMBI](games/z/zombi.md) | 4.35 | 
 | 673 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 673 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 673 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
