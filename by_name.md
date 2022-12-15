@@ -341,7 +341,7 @@
 | 339 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
 | 340 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 341 | [Isonzo](games/i/isonzo.md) | 4.58 | 
-| 342 | [IXION](games/i/ixion.md) | 4.75 | 
+| 342 | [IXION](games/i/ixion.md) | 4.79 | 
 | 343 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 344 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 345 | [Journey](games/j/journey.md) | 4.79 | 
@@ -554,7 +554,7 @@
 | 552 | [Sable](games/s/sable.md) | 4.57 | 
 | 553 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
 | 554 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 555 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.42 | 
+| 555 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
 | 556 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 557 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
 | 558 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 

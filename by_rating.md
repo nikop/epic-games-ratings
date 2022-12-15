@@ -98,38 +98,38 @@
 | 90 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
 | 90 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
 | 90 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 
-| 99 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
-| 99 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
-| 99 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 99 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 99 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.78 | 
-| 104 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 104 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
-| 104 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 104 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
-| 104 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 
-| 104 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
-| 110 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 110 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 110 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 110 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 110 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 110 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
-| 110 | [Haven](games/h/haven.md) | 4.76 | 
-| 110 | [Tails of Iron](games/t/tails_of_iron.md) | 4.76 | 
-| 118 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 118 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 118 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
-| 118 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 118 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
-| 118 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
-| 118 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
-| 118 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
-| 118 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
-| 118 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
-| 118 | [IXION](games/i/ixion.md) | 4.75 | 
+| 90 | [IXION](games/i/ixion.md) | 4.79 | 
+| 100 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 100 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 100 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
+| 100 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.78 | 
+| 105 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 105 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
+| 105 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
+| 105 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
+| 105 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 
+| 105 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
+| 111 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 111 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 111 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 111 | [Diabotical](games/d/diabotical.md) | 4.76 | 
+| 111 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 111 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
+| 111 | [Haven](games/h/haven.md) | 4.76 | 
+| 111 | [Tails of Iron](games/t/tails_of_iron.md) | 4.76 | 
+| 119 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 119 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 119 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 119 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
+| 119 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
+| 119 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 119 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
+| 119 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
+| 119 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
+| 119 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
+| 119 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
 | 131 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 131 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 131 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
@@ -588,18 +588,18 @@
 | 580 | [Faeria](games/f/faeria.md) | 4.43 | 
 | 580 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
 | 580 | [Far Cry](games/f/far_cry.md) | 4.43 | 
-| 589 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 589 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 589 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 589 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 589 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 
-| 589 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
-| 589 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 
-| 589 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
-| 589 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 589 | [The Silent Age](games/t/the_silent_age.md) | 4.42 | 
-| 589 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.42 | 
-| 589 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
+| 580 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
+| 590 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 590 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 590 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 590 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 590 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 
+| 590 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
+| 590 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 
+| 590 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
+| 590 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 590 | [The Silent Age](games/t/the_silent_age.md) | 4.42 | 
+| 590 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
 | 601 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 601 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 601 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
