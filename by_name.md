@@ -403,7 +403,7 @@
 | 401 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 402 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 403 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 404 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.44 | 
+| 404 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.45 | 
 | 405 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 406 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 407 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
@@ -668,7 +668,7 @@
 | 666 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 667 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 668 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 669 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.13 | 
+| 669 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.14 | 
 | 670 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 671 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 672 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
@@ -692,7 +692,7 @@
 | 690 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 
 | 691 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
 | 692 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 693 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 
+| 693 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
 | 694 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 695 | [The Medium](games/t/the_medium.md) | 4.57 | 
 | 696 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
@@ -756,7 +756,7 @@
 | 754 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 755 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
 | 756 | [Transistor](games/t/transistor.md) | 4.63 | 
-| 757 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
+| 757 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 758 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 759 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
 | 760 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
