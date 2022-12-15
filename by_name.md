@@ -190,7 +190,7 @@
 | 188 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 189 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 
 | 190 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 191 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.60 | 
+| 191 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.59 | 
 | 192 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 193 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 194 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
@@ -626,7 +626,7 @@
 | 624 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
 | 625 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 626 | [Steelrising](games/s/steelrising.md) | 4.26 | 
-| 627 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.64 | 
+| 627 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
 | 628 | [STG Football](games/s/stg_football.md) | 4.56 | 
 | 629 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 630 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
