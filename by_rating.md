@@ -69,26 +69,26 @@
 | 61 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.82 | 
 | 61 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 61 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
-| 70 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 70 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 70 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 70 | [Superliminal](games/s/superliminal.md) | 4.81 | 
 | 70 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 70 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
-| 76 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 76 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 76 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 76 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 76 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 76 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
-| 76 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
-| 76 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
-| 76 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
-| 76 | [Griftlands](games/g/griftlands.md) | 4.80 | 
-| 76 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
-| 76 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
-| 76 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 76 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
+| 75 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 75 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 75 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 75 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 75 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 75 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
+| 75 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
+| 75 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
+| 75 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
+| 75 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
+| 75 | [Griftlands](games/g/griftlands.md) | 4.80 | 
+| 75 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
+| 75 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
+| 75 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 75 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
 | 90 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 90 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 90 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
@@ -689,15 +689,15 @@
 | 687 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 687 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 687 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 687 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 687 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 
 | 687 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
 | 687 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
 | 687 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.31 | 
-| 694 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 694 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
-| 694 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 694 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
-| 694 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
+| 695 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 695 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
+| 695 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
+| 695 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 699 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 699 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 699 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 

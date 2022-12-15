@@ -584,7 +584,7 @@
 | 582 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 
 | 583 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 584 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 585 | [Sifu](games/s/sifu.md) | 4.81 | 
+| 585 | [Sifu](games/s/sifu.md) | 4.80 | 
 | 586 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 587 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
 | 588 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
@@ -653,7 +653,7 @@
 | 651 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 652 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 653 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 654 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
+| 654 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 655 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.68 | 
 | 656 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 657 | [Tacoma](games/t/tacoma.md) | 4.39 | 

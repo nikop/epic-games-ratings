@@ -1,10 +1,10 @@
 {
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
-  "Rating": 4.81,
+  "Rating": 4.8,
   "NumberOfRatings": 9492,
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
-  "LastChanged": "2022-12-15T03:11:45.4964283+00:00",
+  "LastChanged": "2022-12-15T19:57:34.448694+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:06.0099469+00:00",
@@ -2754,6 +2754,11 @@
     {
       "Time": "2022-12-15T03:11:45.4964288+00:00",
       "Rating": 4.81,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-15T19:57:34.4486941+00:00",
+      "Rating": 4.8,
       "NumberOfRatings": null
     }
   ],
