@@ -745,17 +745,17 @@
 | 743 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 743 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 743 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
-| 743 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 743 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 748 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 748 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 748 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 748 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 748 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 748 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 748 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
-| 748 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
-| 748 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 747 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 747 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 747 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 747 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 747 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 747 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 747 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
+| 747 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
+| 747 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 747 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 757 | [Windbound](games/w/windbound.md) | 4.19 | 
 | 757 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 757 | [Crayta](games/c/crayta.md) | 4.19 | 
