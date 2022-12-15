@@ -649,24 +649,24 @@
 | 645 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 645 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 645 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 645 | [Encased](games/e/encased.md) | 4.37 | 
 | 645 | [Othercide](games/o/othercide.md) | 4.37 | 
 | 645 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 645 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 654 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 654 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 654 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 654 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 654 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 654 | [Among Trees](games/a/among_trees.md) | 4.36 | 
-| 654 | [Torchlight](games/t/torchlight.md) | 4.36 | 
-| 654 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
-| 654 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 654 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
-| 654 | [Hammerting](games/h/hammerting.md) | 4.36 | 
-| 654 | [Backbone](games/b/backbone.md) | 4.36 | 
-| 654 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
-| 654 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
+| 653 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 653 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 653 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 653 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 653 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 653 | [Among Trees](games/a/among_trees.md) | 4.36 | 
+| 653 | [Torchlight](games/t/torchlight.md) | 4.36 | 
+| 653 | [Encased](games/e/encased.md) | 4.36 | 
+| 653 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
+| 653 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
+| 653 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
+| 653 | [Hammerting](games/h/hammerting.md) | 4.36 | 
+| 653 | [Backbone](games/b/backbone.md) | 4.36 | 
+| 653 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
+| 653 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
 | 668 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 668 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
 | 668 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
