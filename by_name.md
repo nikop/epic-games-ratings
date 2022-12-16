@@ -643,7 +643,7 @@
 | 641 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
 | 642 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 643 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
-| 644 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
+| 644 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.72 | 
 | 645 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
 | 646 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.67 | 
 | 647 | [Superliminal](games/s/superliminal.md) | 4.81 | 
