@@ -702,7 +702,7 @@
 | 700 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 701 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 702 | [The Silent Age](games/t/the_silent_age.md) | 4.42 | 
-| 703 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 703 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.26 | 
 | 704 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 705 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
 | 706 | [The Surge](games/t/the_surge.md) | 4.51 | 
