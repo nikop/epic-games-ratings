@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.60 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -530,7 +530,7 @@
 | 528 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 529 | [Revita](games/r/revita.md) | 4.74 | 
 | 530 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 531 | [RiME](games/r/rime.md) | 4.59 | 
+| 531 | [RiME](games/r/rime.md) | 4.60 | 
 | 532 | [RiMS Racing](games/r/rims_racing.md) | 4.41 | 
 | 533 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 534 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -775,7 +775,7 @@
 | 773 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 774 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
 | 775 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 776 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
+| 776 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.53 | 
 | 777 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 778 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 779 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 

@@ -364,29 +364,29 @@
 | 350 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.60 | 
 | 350 | [Road 96](games/r/road_96.md) | 4.60 | 
 | 350 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
+| 350 | [RiME](games/r/rime.md) | 4.60 | 
 | 350 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
 | 350 | [Breathedge](games/b/breathedge.md) | 4.60 | 
 | 350 | [GRIME](games/g/grime.md) | 4.60 | 
 | 350 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 369 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 369 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 369 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 369 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
-| 369 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 369 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
-| 369 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
-| 369 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
-| 369 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
-| 369 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
-| 369 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
-| 369 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.59 | 
-| 369 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
-| 369 | [RiME](games/r/rime.md) | 4.59 | 
-| 369 | [Little Inferno](games/l/little_inferno.md) | 4.59 | 
-| 369 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.59 | 
-| 369 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
-| 369 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
-| 369 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
+| 370 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 370 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 370 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 370 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
+| 370 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 370 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
+| 370 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 370 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
+| 370 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
+| 370 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
+| 370 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
+| 370 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.59 | 
+| 370 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
+| 370 | [Little Inferno](games/l/little_inferno.md) | 4.59 | 
+| 370 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.59 | 
+| 370 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
+| 370 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
+| 370 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 388 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
 | 388 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 388 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -470,6 +470,7 @@
 | 455 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 455 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 455 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 455 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.53 | 
 | 455 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
 | 455 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 
 | 455 | [Horace](games/h/horace.md) | 4.53 | 
@@ -477,18 +478,17 @@
 | 455 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
 | 455 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 455 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 478 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 478 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 478 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 478 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 478 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 478 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.52 | 
-| 478 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 478 | [Aztez](games/a/aztez.md) | 4.52 | 
-| 478 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 478 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
-| 478 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
-| 478 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 455 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
+| 480 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 480 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 480 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 480 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 480 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 480 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 480 | [Aztez](games/a/aztez.md) | 4.52 | 
+| 480 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 480 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
+| 480 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 490 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 490 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 490 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
