@@ -276,7 +276,7 @@
 | 274 | [GigaBash](games/g/gigabash.md) | 4.61 | 
 | 275 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 276 | [GNOG](games/g/gnog.md) | 4.64 | 
-| 277 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
+| 277 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 278 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 279 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
 | 280 | [Godfall](games/g/godfall.md) | 4.06 | 
@@ -412,7 +412,7 @@
 | 410 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 411 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 412 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
-| 413 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 
+| 413 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 414 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 415 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
 | 416 | [Minit](games/m/minit.md) | 4.54 | 

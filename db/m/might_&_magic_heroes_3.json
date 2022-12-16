@@ -1,10 +1,10 @@
 {
   "ID": "4912067a5f4f4346b312aa226b2787ac",
   "Name": "Might \u0026 Magic Heroes 3",
-  "Rating": 4.82,
+  "Rating": 4.81,
   "NumberOfRatings": 165,
   "FirstSeen": "2022-07-22T20:27:33.8101196+00:00",
-  "LastChanged": "2022-12-10T07:58:01.345801+00:00",
+  "LastChanged": "2022-12-16T20:58:30.4341578+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:33.8101199+00:00",
@@ -385,6 +385,11 @@
       "Time": "2022-12-10T07:58:01.3458012+00:00",
       "Rating": 4.82,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-16T20:58:30.4341582+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -394,7 +399,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game is Extremely Fun",
