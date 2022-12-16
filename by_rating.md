@@ -556,22 +556,22 @@
 | 547 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
 | 547 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 547 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
+| 547 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.46 | 
 | 547 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 558 | [SMITE](games/s/smite.md) | 4.45 | 
-| 558 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 558 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
-| 558 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 558 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
-| 558 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 558 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 558 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 558 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 558 | [Good Company](games/g/good_company.md) | 4.45 | 
-| 558 | [Chorus](games/c/chorus.md) | 4.45 | 
-| 558 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
-| 558 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.45 | 
-| 558 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
-| 558 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.45 | 
+| 559 | [SMITE](games/s/smite.md) | 4.45 | 
+| 559 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 559 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 559 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 559 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
+| 559 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 559 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 559 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 559 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 559 | [Good Company](games/g/good_company.md) | 4.45 | 
+| 559 | [Chorus](games/c/chorus.md) | 4.45 | 
+| 559 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
+| 559 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.45 | 
+| 559 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 573 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 573 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 573 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
@@ -797,12 +797,12 @@
 | 793 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
 | 793 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 793 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 
-| 793 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.08 | 
-| 799 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
-| 799 | [Lake](games/l/lake.md) | 4.07 | 
-| 801 | [Godfall](games/g/godfall.md) | 4.06 | 
-| 802 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 802 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
+| 798 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
+| 798 | [Lake](games/l/lake.md) | 4.07 | 
+| 800 | [Godfall](games/g/godfall.md) | 4.06 | 
+| 801 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 801 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
+| 801 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.05 | 
 | 804 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 804 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.04 | 
 | 806 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 

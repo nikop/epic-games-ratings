@@ -1,10 +1,10 @@
 {
   "ID": "eb99ee4694474e8da0b05a8ab391825c",
   "Name": "PUBG: BATTLEGROUNDS",
-  "Rating": 4.08,
+  "Rating": 4.05,
   "FirstSeen": "2022-12-06T17:57:24.6501738+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
-  "LastChanged": "2022-12-15T16:58:12.4847411+00:00",
+  "LastChanged": "2022-12-16T04:57:22.6168929+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-08T10:57:21.6139883+00:00",
@@ -185,12 +185,17 @@
       "Time": "2022-12-15T16:58:12.4847412+00:00",
       "Rating": 4.08,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-16T04:57:22.6168931+00:00",
+      "Rating": 4.05,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
-      "Count": 22
+      "Count": 28
     },
     {
       "Text": "This game is Extremely Fun",
