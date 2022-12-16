@@ -377,7 +377,6 @@
 | 368 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 368 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
 | 368 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
-| 368 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 368 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
 | 368 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
 | 368 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.59 | 
@@ -387,23 +386,24 @@
 | 368 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
 | 368 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
 | 368 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
-| 388 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
-| 388 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 388 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 388 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
-| 388 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 388 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
-| 388 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 388 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 388 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
-| 388 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
-| 388 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 388 | [Isonzo](games/i/isonzo.md) | 4.58 | 
-| 388 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 388 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.58 | 
-| 388 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
-| 388 | [NORCO](games/n/norco.md) | 4.58 | 
-| 388 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.58 | 
+| 387 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
+| 387 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 387 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 387 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
+| 387 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 387 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
+| 387 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
+| 387 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 387 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
+| 387 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
+| 387 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
+| 387 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
+| 387 | [Isonzo](games/i/isonzo.md) | 4.58 | 
+| 387 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
+| 387 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.58 | 
+| 387 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
+| 387 | [NORCO](games/n/norco.md) | 4.58 | 
+| 387 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.58 | 
 | 405 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 405 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 405 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
@@ -826,7 +826,7 @@
 | 824 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 824 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.80 | 
 | 824 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
-| 827 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 828 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.75 | 
-| 829 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.73 | 
+| 827 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.79 | 
+| 828 | [Saints Row](games/s/saints_row.md) | 3.78 | 
+| 829 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.75 | 
 | 830 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 

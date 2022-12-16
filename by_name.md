@@ -299,7 +299,7 @@
 | 297 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
 | 298 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
 | 299 | [Haven](games/h/haven.md) | 4.76 | 
-| 300 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
+| 300 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 301 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 302 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 303 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.62 | 
@@ -807,7 +807,7 @@
 | 805 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.78 | 
 | 806 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 807 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 808 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.73 | 
+| 808 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.79 | 
 | 809 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
 | 810 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 811 | [Windbound](games/w/windbound.md) | 4.19 | 
