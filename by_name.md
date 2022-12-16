@@ -174,7 +174,7 @@
 | 172 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 173 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 
 | 174 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
-| 175 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 175 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
 | 176 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 177 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 178 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
@@ -506,7 +506,7 @@
 | 504 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 505 | [Prey](games/p/prey.md) | 4.61 | 
 | 506 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 507 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.05 | 
+| 507 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.04 | 
 | 508 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 509 | [Quake](games/q/quake.md) | 4.79 | 
 | 510 | [Rage 2](games/r/rage_2.md) | 4.29 | 

@@ -492,29 +492,29 @@
 | 489 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 489 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 489 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 489 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 489 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 489 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
 | 489 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 489 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
 | 489 | [The Surge](games/t/the_surge.md) | 4.51 | 
 | 489 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 500 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 500 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 500 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 500 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
-| 500 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
-| 500 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 500 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 500 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
-| 500 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
-| 500 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
-| 500 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 500 | [CryoFall](games/c/cryofall.md) | 4.50 | 
-| 500 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
-| 500 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
-| 500 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
-| 500 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
+| 499 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 499 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 499 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 499 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
+| 499 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 499 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 499 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
+| 499 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 499 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
+| 499 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
+| 499 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
+| 499 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 499 | [CryoFall](games/c/cryofall.md) | 4.50 | 
+| 499 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
+| 499 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
+| 499 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
+| 499 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 516 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 516 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 516 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
@@ -802,9 +802,9 @@
 | 800 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 801 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 801 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
-| 801 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.05 | 
-| 804 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
-| 804 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.04 | 
+| 803 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
+| 803 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.04 | 
+| 803 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.04 | 
 | 806 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 807 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.01 | 
 | 808 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
