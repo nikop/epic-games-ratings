@@ -545,21 +545,21 @@
 | 537 | [Death Coming](games/d/death_coming.md) | 4.47 | 
 | 537 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
 | 537 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
+| 537 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 537 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 537 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 
-| 548 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 548 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 548 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 548 | [Pathway](games/p/pathway.md) | 4.46 | 
-| 548 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 548 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
-| 548 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 548 | [Figment](games/f/figment.md) | 4.46 | 
-| 548 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
-| 548 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
-| 548 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
-| 548 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.46 | 
-| 548 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 549 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 549 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 549 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 549 | [Pathway](games/p/pathway.md) | 4.46 | 
+| 549 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 549 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
+| 549 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 549 | [Figment](games/f/figment.md) | 4.46 | 
+| 549 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
+| 549 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
+| 549 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.46 | 
+| 549 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 561 | [SMITE](games/s/smite.md) | 4.45 | 
 | 561 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 561 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
@@ -711,18 +711,18 @@
 | 700 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
 | 710 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
 | 710 | [Dark Light](games/d/dark_light.md) | 4.28 | 
+| 712 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 712 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 712 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 714 | [EVE Online](games/e/eve_online.md) | 4.26 | 
-| 714 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 714 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 714 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.26 | 
-| 714 | [Steelrising](games/s/steelrising.md) | 4.26 | 
-| 714 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
-| 714 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
-| 714 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
-| 714 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
-| 714 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 715 | [EVE Online](games/e/eve_online.md) | 4.26 | 
+| 715 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 715 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 715 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.26 | 
+| 715 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
+| 715 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
+| 715 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
+| 715 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
+| 715 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 724 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 724 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
 | 724 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 
@@ -803,9 +803,9 @@
 | 801 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 802 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 802 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
-| 804 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
-| 804 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.04 | 
-| 804 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.04 | 
+| 802 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.05 | 
+| 805 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
+| 805 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.04 | 
 | 807 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 808 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.01 | 
 | 809 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 

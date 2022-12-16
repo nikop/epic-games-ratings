@@ -311,7 +311,7 @@
 | 309 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 310 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 311 | [Hob](games/h/hob.md) | 4.57 | 
-| 312 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
+| 312 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 313 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 314 | [Horace](games/h/horace.md) | 4.53 | 
 | 315 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
@@ -507,7 +507,7 @@
 | 505 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 506 | [Prey](games/p/prey.md) | 4.61 | 
 | 507 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 508 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.04 | 
+| 508 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.05 | 
 | 509 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 510 | [Quake](games/q/quake.md) | 4.79 | 
 | 511 | [Rage 2](games/r/rage_2.md) | 4.29 | 
@@ -626,7 +626,7 @@
 | 624 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
 | 625 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
 | 626 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 627 | [Steelrising](games/s/steelrising.md) | 4.26 | 
+| 627 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 628 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
 | 629 | [STG Football](games/s/stg_football.md) | 4.56 | 
 | 630 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
