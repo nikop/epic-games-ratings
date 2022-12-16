@@ -107,17 +107,17 @@
 | 104 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 104 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 104 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
+| 104 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 104 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 104 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 
 | 104 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
-| 111 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 111 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 111 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 111 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 111 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 111 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
-| 111 | [Haven](games/h/haven.md) | 4.76 | 
-| 111 | [Tails of Iron](games/t/tails_of_iron.md) | 4.76 | 
+| 112 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 112 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 112 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 112 | [Diabotical](games/d/diabotical.md) | 4.76 | 
+| 112 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 112 | [Haven](games/h/haven.md) | 4.76 | 
+| 112 | [Tails of Iron](games/t/tails_of_iron.md) | 4.76 | 
 | 119 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 119 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 

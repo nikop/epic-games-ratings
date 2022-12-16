@@ -809,7 +809,7 @@
 | 807 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 808 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
 | 809 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.79 | 
-| 810 | [Wildermyth](games/w/wildermyth.md) | 4.76 | 
+| 810 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 811 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 812 | [Windbound](games/w/windbound.md) | 4.19 | 
 | 813 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
