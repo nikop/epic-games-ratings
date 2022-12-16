@@ -276,7 +276,7 @@
 | 274 | [GigaBash](games/g/gigabash.md) | 4.61 | 
 | 275 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 276 | [GNOG](games/g/gnog.md) | 4.64 | 
-| 277 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
+| 277 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 278 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 279 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
 | 280 | [Godfall](games/g/godfall.md) | 4.06 | 
@@ -432,7 +432,7 @@
 | 430 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 431 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 432 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 433 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
+| 433 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 434 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 435 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
 | 436 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 

@@ -29,11 +29,11 @@
 | 24 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 24 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 24 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
-| 24 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
-| 31 | [Inscryption](games/i/inscryption.md) | 4.86 | 
-| 31 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 31 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 31 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
+| 30 | [Inscryption](games/i/inscryption.md) | 4.86 | 
+| 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 30 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 30 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
+| 30 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 35 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 35 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 35 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
@@ -615,7 +615,6 @@
 | 602 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 602 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
 | 602 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 616 | [NBA 2K21](games/n/nba_2k21.md) | 4.40 | 
 | 616 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
 | 616 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 616 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
@@ -626,18 +625,19 @@
 | 616 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 616 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
 | 616 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
-| 627 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 627 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 627 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
-| 627 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
-| 627 | [Star Stable Online](games/s/star_stable_online.md) | 4.39 | 
-| 627 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.39 | 
-| 627 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.39 | 
-| 627 | [Tacoma](games/t/tacoma.md) | 4.39 | 
-| 627 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 
-| 627 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
-| 627 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 627 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
+| 626 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 626 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 626 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 626 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
+| 626 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
+| 626 | [Star Stable Online](games/s/star_stable_online.md) | 4.39 | 
+| 626 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.39 | 
+| 626 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.39 | 
+| 626 | [Tacoma](games/t/tacoma.md) | 4.39 | 
+| 626 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 
+| 626 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
+| 626 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
+| 626 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
 | 639 | [Core](games/c/core.md) | 4.38 | 
 | 639 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 639 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
