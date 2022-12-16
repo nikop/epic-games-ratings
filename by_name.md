@@ -124,7 +124,7 @@
 | 122 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 123 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
 | 124 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
-| 125 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 125 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 126 | [Conarium](games/c/conarium.md) | 3.93 | 
 | 127 | [Control](games/c/control.md) | 4.60 | 
 | 128 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
@@ -338,7 +338,7 @@
 | 336 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 337 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 338 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 339 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 339 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 340 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 341 | [Isonzo](games/i/isonzo.md) | 4.58 | 
 | 342 | [IXION](games/i/ixion.md) | 4.72 | 
@@ -507,7 +507,7 @@
 | 505 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 506 | [Prey](games/p/prey.md) | 4.61 | 
 | 507 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 508 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.05 | 
+| 508 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.04 | 
 | 509 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 510 | [Quake](games/q/quake.md) | 4.79 | 
 | 511 | [Rage 2](games/r/rage_2.md) | 4.29 | 

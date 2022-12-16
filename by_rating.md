@@ -420,7 +420,6 @@
 | 418 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 418 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 418 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 418 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 418 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 418 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
 | 418 | [Hue](games/h/hue.md) | 4.56 | 
@@ -432,17 +431,18 @@
 | 418 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 418 | [Observation](games/o/observation.md) | 4.56 | 
 | 418 | [STG Football](games/s/stg_football.md) | 4.56 | 
-| 433 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 433 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 433 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.55 | 
-| 433 | [Outward](games/o/outward.md) | 4.55 | 
-| 433 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 433 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
-| 433 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
-| 433 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 433 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 433 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
-| 433 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
+| 432 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 432 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 432 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 432 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.55 | 
+| 432 | [Outward](games/o/outward.md) | 4.55 | 
+| 432 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 432 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
+| 432 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
+| 432 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 432 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
+| 432 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
+| 432 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
 | 444 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 444 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 444 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
@@ -639,20 +639,20 @@
 | 626 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 626 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
 | 639 | [Core](games/c/core.md) | 4.38 | 
+| 639 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 639 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 639 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 639 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
 | 639 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
 | 639 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
 | 639 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 646 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 646 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 646 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 646 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 646 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 646 | [Othercide](games/o/othercide.md) | 4.37 | 
-| 646 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 646 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 647 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 647 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 647 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 647 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 647 | [Othercide](games/o/othercide.md) | 4.37 | 
+| 647 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 647 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 654 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 654 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 654 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
@@ -803,9 +803,9 @@
 | 801 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 802 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 802 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
-| 802 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.05 | 
-| 805 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
-| 805 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.04 | 
+| 804 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
+| 804 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.04 | 
+| 804 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.04 | 
 | 807 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 808 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.01 | 
 | 809 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
