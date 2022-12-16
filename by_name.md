@@ -90,7 +90,7 @@
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
+| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.80 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -481,7 +481,7 @@
 | 479 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 480 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
 | 481 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 482 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.30 | 
+| 482 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.29 | 
 | 483 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 484 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 485 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.29 | 
@@ -509,7 +509,7 @@
 | 507 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 508 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.05 | 
 | 509 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 510 | [Quake](games/q/quake.md) | 4.79 | 
+| 510 | [Quake](games/q/quake.md) | 4.78 | 
 | 511 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 512 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 513 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 

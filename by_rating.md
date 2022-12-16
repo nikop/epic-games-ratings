@@ -70,39 +70,39 @@
 | 61 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
 | 69 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 69 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 69 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.81 | 
 | 69 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 69 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 69 | [Superliminal](games/s/superliminal.md) | 4.81 | 
 | 69 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 69 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
-| 77 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 77 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 77 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 77 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 77 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 77 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
-| 77 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
-| 77 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
-| 77 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
-| 77 | [Griftlands](games/g/griftlands.md) | 4.80 | 
-| 77 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
-| 77 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
-| 77 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 77 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
-| 77 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
+| 76 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 76 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 76 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 76 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 76 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
+| 76 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
+| 76 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
+| 76 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
+| 76 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
+| 76 | [Griftlands](games/g/griftlands.md) | 4.80 | 
+| 76 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.80 | 
+| 76 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
+| 76 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
+| 76 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 76 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
+| 76 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
 | 92 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 92 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 92 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 92 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 92 | [Journey](games/j/journey.md) | 4.79 | 
-| 92 | [Quake](games/q/quake.md) | 4.79 | 
 | 92 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
 | 92 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 
-| 100 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
-| 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 100 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 100 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.78 | 
+| 99 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 99 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 99 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
+| 99 | [Quake](games/q/quake.md) | 4.78 | 
+| 99 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.78 | 
 | 104 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 104 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 104 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
@@ -698,17 +698,17 @@
 | 695 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 695 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 695 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
-| 695 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.30 | 
-| 700 | [Rage 2](games/r/rage_2.md) | 4.29 | 
-| 700 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 700 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 700 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.29 | 
-| 700 | [House Party](games/h/house_party.md) | 4.29 | 
-| 700 | [The Fall](games/t/the_fall.md) | 4.29 | 
-| 700 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
-| 700 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.29 | 
-| 700 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
-| 700 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
+| 699 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 699 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
+| 699 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 699 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.29 | 
+| 699 | [House Party](games/h/house_party.md) | 4.29 | 
+| 699 | [The Fall](games/t/the_fall.md) | 4.29 | 
+| 699 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
+| 699 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.29 | 
+| 699 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.29 | 
+| 699 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 699 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
 | 710 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
 | 710 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 712 | [Steelrising](games/s/steelrising.md) | 4.27 | 
