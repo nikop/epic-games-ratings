@@ -1,10 +1,10 @@
 {
   "ID": "50bbaf85f4454b1c88786efeede5b302",
   "Name": "Goat Simulator 3",
-  "Rating": 4.86,
+  "Rating": 4.87,
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
-  "LastChanged": "2022-12-14T14:57:24.6241426+00:00",
+  "LastChanged": "2022-12-16T13:08:01.6015258+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-17T20:57:24.0090353+00:00",
@@ -105,6 +105,11 @@
       "Time": "2022-12-14T14:57:24.6241428+00:00",
       "Rating": 4.86,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-16T13:08:01.601526+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -150,7 +155,7 @@
     },
     {
       "Text": "This game has Easy Combat",
-      "Count": 115
+      "Count": 116
     }
   ]
 }

@@ -276,7 +276,7 @@
 | 274 | [GigaBash](games/g/gigabash.md) | 4.61 | 
 | 275 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 276 | [GNOG](games/g/gnog.md) | 4.64 | 
-| 277 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
+| 277 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
 | 278 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 279 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
 | 280 | [Godfall](games/g/godfall.md) | 4.06 | 
@@ -481,7 +481,7 @@
 | 479 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 480 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
 | 481 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 482 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.31 | 
+| 482 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.30 | 
 | 483 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 484 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 485 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.29 | 
@@ -745,7 +745,7 @@
 | 743 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 744 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 745 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.64 | 
-| 746 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 746 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 747 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
 | 748 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
 | 749 | [Townscaper](games/t/townscaper.md) | 4.71 | 

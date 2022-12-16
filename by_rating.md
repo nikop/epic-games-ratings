@@ -29,11 +29,11 @@
 | 24 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 24 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 24 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
-| 30 | [Inscryption](games/i/inscryption.md) | 4.86 | 
-| 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 30 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 30 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
-| 30 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
+| 24 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.87 | 
+| 31 | [Inscryption](games/i/inscryption.md) | 4.86 | 
+| 31 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 31 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 31 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 35 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 35 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 35 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
@@ -100,16 +100,16 @@
 | 92 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
 | 92 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 
 | 100 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
-| 100 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 100 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 100 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.78 | 
-| 105 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 105 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
-| 105 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 105 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
-| 105 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 
-| 105 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
+| 104 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 104 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 104 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
+| 104 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
+| 104 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
+| 104 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 
+| 104 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
 | 111 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 111 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 111 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
@@ -694,11 +694,11 @@
 | 688 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 
 | 688 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
 | 688 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
-| 688 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.31 | 
-| 696 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 696 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
-| 696 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 696 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
+| 695 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 695 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
+| 695 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
+| 695 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
+| 695 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.30 | 
 | 700 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 700 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 700 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
