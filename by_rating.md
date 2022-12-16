@@ -69,36 +69,36 @@
 | 61 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.82 | 
 | 61 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 61 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
+| 70 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 70 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 70 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 70 | [Superliminal](games/s/superliminal.md) | 4.81 | 
 | 70 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 70 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
-| 75 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 75 | [Sifu](games/s/sifu.md) | 4.80 | 
-| 75 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 75 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 75 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 75 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 75 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
-| 75 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
-| 75 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
-| 75 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
-| 75 | [Griftlands](games/g/griftlands.md) | 4.80 | 
-| 75 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
-| 75 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
-| 75 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 75 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
-| 90 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 90 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 90 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 90 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 90 | [Journey](games/j/journey.md) | 4.79 | 
-| 90 | [Quake](games/q/quake.md) | 4.79 | 
-| 90 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
-| 90 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
-| 90 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 
-| 90 | [IXION](games/i/ixion.md) | 4.79 | 
+| 76 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 76 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 76 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 76 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 76 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
+| 76 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
+| 76 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
+| 76 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
+| 76 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
+| 76 | [Griftlands](games/g/griftlands.md) | 4.80 | 
+| 76 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
+| 76 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
+| 76 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 76 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
+| 76 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
+| 76 | [IXION](games/i/ixion.md) | 4.80 | 
+| 92 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 92 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
+| 92 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 92 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 92 | [Journey](games/j/journey.md) | 4.79 | 
+| 92 | [Quake](games/q/quake.md) | 4.79 | 
+| 92 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
+| 92 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 
 | 100 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 100 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
@@ -350,6 +350,7 @@
 | 329 | [GigaBash](games/g/gigabash.md) | 4.61 | 
 | 349 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 349 | [Control](games/c/control.md) | 4.60 | 
+| 349 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 349 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 349 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 349 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
@@ -367,25 +368,24 @@
 | 349 | [Breathedge](games/b/breathedge.md) | 4.60 | 
 | 349 | [GRIME](games/g/grime.md) | 4.60 | 
 | 349 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 368 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 368 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 368 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
-| 368 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 368 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
-| 368 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 368 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
-| 368 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
-| 368 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
-| 368 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
-| 368 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
-| 368 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
-| 368 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.59 | 
-| 368 | [RiME](games/r/rime.md) | 4.59 | 
-| 368 | [Little Inferno](games/l/little_inferno.md) | 4.59 | 
-| 368 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.59 | 
-| 368 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
-| 368 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
-| 368 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
+| 369 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 369 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 369 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 369 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
+| 369 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 369 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
+| 369 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 369 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
+| 369 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
+| 369 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
+| 369 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
+| 369 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.59 | 
+| 369 | [RiME](games/r/rime.md) | 4.59 | 
+| 369 | [Little Inferno](games/l/little_inferno.md) | 4.59 | 
+| 369 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.59 | 
+| 369 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
+| 369 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
+| 369 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 387 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
 | 387 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 387 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 

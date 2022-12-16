@@ -50,7 +50,7 @@
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.55 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
-| 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
+| 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.40 | 
@@ -120,7 +120,7 @@
 | 118 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.04 | 
 | 119 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
 | 120 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 121 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.79 | 
+| 121 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
 | 122 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 123 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
 | 124 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
@@ -341,7 +341,7 @@
 | 339 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
 | 340 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 341 | [Isonzo](games/i/isonzo.md) | 4.58 | 
-| 342 | [IXION](games/i/ixion.md) | 4.79 | 
+| 342 | [IXION](games/i/ixion.md) | 4.80 | 
 | 343 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 344 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 345 | [Journey](games/j/journey.md) | 4.79 | 
@@ -584,7 +584,7 @@
 | 582 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 
 | 583 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 584 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 585 | [Sifu](games/s/sifu.md) | 4.80 | 
+| 585 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 586 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 587 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
 | 588 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
