@@ -184,7 +184,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 37
+      "Count": 40
     },
     {
       "Text": "This game has Competitive Players",
@@ -213,6 +213,10 @@
     {
       "Text": "This game has Amazing Storytelling",
       "Count": 21
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Count": 20
     }
   ]
 }
