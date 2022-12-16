@@ -341,7 +341,7 @@
 | 339 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
 | 340 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 341 | [Isonzo](games/i/isonzo.md) | 4.58 | 
-| 342 | [IXION](games/i/ixion.md) | 4.80 | 
+| 342 | [IXION](games/i/ixion.md) | 4.72 | 
 | 343 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 344 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 345 | [Journey](games/j/journey.md) | 4.79 | 
@@ -488,7 +488,7 @@
 | 486 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 487 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 488 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 489 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 489 | [Pathway](games/p/pathway.md) | 4.46 | 
 | 490 | [Patron](games/p/patron.md) | 3.92 | 
 | 491 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 492 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
