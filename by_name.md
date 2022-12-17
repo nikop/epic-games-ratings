@@ -347,7 +347,7 @@
 | 345 | [Journey](games/j/journey.md) | 4.79 | 
 | 346 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.59 | 
 | 347 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 348 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 348 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 349 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 350 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 351 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
@@ -658,7 +658,7 @@
 | 656 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.68 | 
 | 657 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 658 | [Tacoma](games/t/tacoma.md) | 4.39 | 
-| 659 | [Tails of Iron](games/t/tails_of_iron.md) | 4.76 | 
+| 659 | [Tails of Iron](games/t/tails_of_iron.md) | 4.70 | 
 | 660 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 661 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 662 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
