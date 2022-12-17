@@ -714,15 +714,15 @@
 | 712 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 712 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 712 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 712 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
-| 716 | [EVE Online](games/e/eve_online.md) | 4.26 | 
-| 716 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 716 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 716 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.26 | 
-| 716 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
-| 716 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
-| 716 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
-| 716 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
+| 715 | [EVE Online](games/e/eve_online.md) | 4.26 | 
+| 715 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 715 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 715 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.26 | 
+| 715 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
+| 715 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
+| 715 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
+| 715 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
+| 715 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 724 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 724 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
 | 724 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 
@@ -806,7 +806,7 @@
 | 804 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 804 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.04 | 
 | 806 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 806 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
+| 807 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
 | 808 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.01 | 
 | 809 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 809 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 

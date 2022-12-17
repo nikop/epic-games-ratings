@@ -285,7 +285,7 @@
 | 283 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 284 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 285 | [Good Company](games/g/good_company.md) | 4.45 | 
-| 286 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
+| 286 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
 | 287 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 288 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 289 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
@@ -507,7 +507,7 @@
 | 505 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 506 | [Prey](games/p/prey.md) | 4.61 | 
 | 507 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 508 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
+| 508 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
 | 509 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 510 | [Quake](games/q/quake.md) | 4.78 | 
 | 511 | [Rage 2](games/r/rage_2.md) | 4.29 | 
