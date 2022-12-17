@@ -1,10 +1,10 @@
 {
   "ID": "eb99ee4694474e8da0b05a8ab391825c",
   "Name": "PUBG: BATTLEGROUNDS",
-  "Rating": 4.04,
+  "Rating": 4.05,
   "FirstSeen": "2022-12-06T17:57:24.6501738+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
-  "LastChanged": "2022-12-17T04:57:14.3636588+00:00",
+  "LastChanged": "2022-12-17T06:57:16.7670526+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-08T10:57:21.6139883+00:00",
@@ -225,6 +225,11 @@
       "Time": "2022-12-17T04:57:14.3636589+00:00",
       "Rating": 4.04,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-17T06:57:16.7670526+00:00",
+      "Rating": 4.05,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -238,7 +243,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 30
+      "Count": 38
     },
     {
       "Text": "This game has Amazing Characters",
