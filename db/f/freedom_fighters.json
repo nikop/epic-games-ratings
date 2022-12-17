@@ -1,14 +1,19 @@
 {
   "ID": "bafe9fd9f4f24ebea94a70a1fb3043fe",
   "Name": "Freedom Fighters",
-  "Rating": 4.65,
+  "Rating": 4.67,
   "FirstSeen": "2022-07-22T20:19:41.5852306+00:00",
   "FirstSeenRating": "2022-12-09T23:57:05.1665752+00:00",
-  "LastChanged": "2022-12-09T23:57:05.1665752+00:00",
+  "LastChanged": "2022-12-17T01:59:49.1993072+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-09T23:57:05.1665755+00:00",
       "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-17T01:59:49.1993075+00:00",
+      "Rating": 4.67,
       "NumberOfRatings": null
     }
   ],

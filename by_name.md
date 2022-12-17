@@ -62,7 +62,7 @@
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.56 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.52 | 
-| 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 64 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 65 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 66 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
@@ -257,7 +257,7 @@
 | 255 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 256 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 257 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 258 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.65 | 
+| 258 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.67 | 
 | 259 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 260 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 261 | [FUSER™](games/f/fuser™.md) | 4.73 | 
@@ -808,7 +808,7 @@
 | 806 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.78 | 
 | 807 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 808 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 809 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.79 | 
+| 809 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.84 | 
 | 810 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 811 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 812 | [Windbound](games/w/windbound.md) | 4.19 | 
