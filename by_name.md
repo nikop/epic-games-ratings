@@ -90,7 +90,7 @@
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
+| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.78 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -170,7 +170,7 @@
 | 168 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 169 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 170 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 171 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.45 | 
+| 171 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 172 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 173 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 
 | 174 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
@@ -285,7 +285,7 @@
 | 283 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 284 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 285 | [Good Company](games/g/good_company.md) | 4.45 | 
-| 286 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
+| 286 | [Gotham Knights](games/g/gotham_knights.md) | 4.27 | 
 | 287 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 288 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 289 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
@@ -507,7 +507,7 @@
 | 505 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 506 | [Prey](games/p/prey.md) | 4.61 | 
 | 507 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 508 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.04 | 
+| 508 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
 | 509 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 510 | [Quake](games/q/quake.md) | 4.78 | 
 | 511 | [Rage 2](games/r/rage_2.md) | 4.29 | 
