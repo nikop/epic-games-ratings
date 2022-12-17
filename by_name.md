@@ -47,7 +47,7 @@
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.55 | 
+| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
@@ -242,7 +242,7 @@
 | 240 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 241 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.63 | 
 | 242 | [Fez](games/f/fez.md) | 4.71 | 
-| 243 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 
+| 243 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
 | 244 | [Figment](games/f/figment.md) | 4.46 | 
 | 245 | [Filament](games/f/filament.md) | 4.32 | 
 | 246 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
@@ -404,7 +404,7 @@
 | 402 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 403 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 404 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 405 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.47 | 
+| 405 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.46 | 
 | 406 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 407 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 408 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
@@ -412,7 +412,7 @@
 | 410 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 411 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 412 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
-| 413 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
+| 413 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
 | 414 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 415 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
 | 416 | [Minit](games/m/minit.md) | 4.54 | 
