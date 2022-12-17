@@ -1,9 +1,9 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
 | 1 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.44 | 
-| 2 | [IXION](games/i/ixion.md) | 4.72 | 
+| 2 | [IXION](games/i/ixion.md) | 4.74 | 
 | 3 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.62 | 
-| 4 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.05 | 
+| 4 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.04 | 
 | 5 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.14 | 
 | 6 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.47 | 
 | 7 | [Predecessor](games/p/predecessor.md) | 4.36 | 

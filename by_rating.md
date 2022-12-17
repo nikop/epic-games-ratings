@@ -144,35 +144,35 @@
 | 132 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
 | 132 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
 | 132 | [Revita](games/r/revita.md) | 4.74 | 
+| 132 | [IXION](games/i/ixion.md) | 4.74 | 
 | 132 | [shapez](games/s/shapez.md) | 4.74 | 
 | 132 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
-| 147 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 147 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 147 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 147 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 147 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 147 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 147 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 147 | [FUSER™](games/f/fuser™.md) | 4.73 | 
-| 147 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
-| 147 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
-| 147 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
-| 147 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
-| 147 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
-| 147 | [Outlast](games/o/outlast.md) | 4.73 | 
-| 147 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 162 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 162 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 162 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 162 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
-| 162 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 162 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
-| 162 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 162 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
-| 162 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.72 | 
-| 162 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
-| 162 | [IXION](games/i/ixion.md) | 4.72 | 
-| 162 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
+| 148 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 148 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 148 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 148 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 148 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
+| 148 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 148 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 148 | [FUSER™](games/f/fuser™.md) | 4.73 | 
+| 148 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
+| 148 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
+| 148 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
+| 148 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
+| 148 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
+| 148 | [Outlast](games/o/outlast.md) | 4.73 | 
+| 148 | [Suzerain](games/s/suzerain.md) | 4.73 | 
+| 163 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 163 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 163 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 163 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
+| 163 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 163 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
+| 163 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 163 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
+| 163 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.72 | 
+| 163 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
+| 163 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
 | 174 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 174 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 174 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
@@ -536,6 +536,7 @@
 | 532 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
 | 532 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
 | 532 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
+| 537 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 537 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 537 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 537 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
@@ -549,17 +550,16 @@
 | 537 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.47 | 
 | 537 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 537 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 
-| 550 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 550 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 550 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 550 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
-| 550 | [Pathway](games/p/pathway.md) | 4.46 | 
-| 550 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 550 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
-| 550 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 550 | [Figment](games/f/figment.md) | 4.46 | 
-| 550 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
-| 550 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 551 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 551 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 551 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 551 | [Pathway](games/p/pathway.md) | 4.46 | 
+| 551 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 551 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
+| 551 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 551 | [Figment](games/f/figment.md) | 4.46 | 
+| 551 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
+| 551 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 561 | [SMITE](games/s/smite.md) | 4.45 | 
 | 561 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 561 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
@@ -803,9 +803,9 @@
 | 801 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 802 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 802 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
-| 802 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.05 | 
-| 805 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
-| 805 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.04 | 
+| 804 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
+| 804 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.04 | 
+| 804 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.04 | 
 | 807 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 808 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.01 | 
 | 809 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 

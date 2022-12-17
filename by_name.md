@@ -62,7 +62,7 @@
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.56 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.52 | 
-| 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
+| 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 64 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 65 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 66 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
@@ -341,7 +341,7 @@
 | 339 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 340 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 341 | [Isonzo](games/i/isonzo.md) | 4.58 | 
-| 342 | [IXION](games/i/ixion.md) | 4.72 | 
+| 342 | [IXION](games/i/ixion.md) | 4.74 | 
 | 343 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 344 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 345 | [Journey](games/j/journey.md) | 4.79 | 
@@ -507,7 +507,7 @@
 | 505 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 506 | [Prey](games/p/prey.md) | 4.61 | 
 | 507 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 508 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.05 | 
+| 508 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.04 | 
 | 509 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 510 | [Quake](games/q/quake.md) | 4.78 | 
 | 511 | [Rage 2](games/r/rage_2.md) | 4.29 | 
