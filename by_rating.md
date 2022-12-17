@@ -94,23 +94,23 @@
 | 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 91 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 91 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
 | 91 | [Journey](games/j/journey.md) | 4.79 | 
 | 91 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
 | 91 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 
-| 99 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
-| 99 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 99 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 99 | [Quake](games/q/quake.md) | 4.78 | 
-| 99 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.78 | 
-| 104 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 104 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 104 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
-| 104 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 104 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
-| 104 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
-| 104 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 
-| 104 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
+| 98 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 98 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 98 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
+| 98 | [Quake](games/q/quake.md) | 4.78 | 
+| 98 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.78 | 
+| 103 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 103 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 103 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
+| 103 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
+| 103 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
+| 103 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
+| 103 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
+| 103 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 
+| 103 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
 | 112 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 112 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 112 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
