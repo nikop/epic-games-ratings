@@ -45,7 +45,7 @@
 | 43 | [Ashen](games/a/ashen.md) | 4.34 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 
+| 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
@@ -188,7 +188,7 @@
 | 186 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.39 | 
 | 187 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 188 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
-| 189 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 
+| 189 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 
 | 190 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 191 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.59 | 
 | 192 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
@@ -224,7 +224,7 @@
 | 222 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 223 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
 | 224 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 225 | [Fangs](games/f/fangs.md) | 4.17 | 
+| 225 | [Fangs](games/f/fangs.md) | 4.20 | 
 | 226 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 227 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.22 | 
 | 228 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
@@ -315,7 +315,7 @@
 | 313 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 314 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 315 | [Horace](games/h/horace.md) | 4.53 | 
-| 316 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
+| 316 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 317 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 318 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 319 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
@@ -508,7 +508,7 @@
 | 506 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 507 | [Prey](games/p/prey.md) | 4.61 | 
 | 508 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 509 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
+| 509 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 
 | 510 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 511 | [Quake](games/q/quake.md) | 4.78 | 
 | 512 | [Rage 2](games/r/rage_2.md) | 4.29 | 
