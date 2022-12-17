@@ -337,7 +337,6 @@
 | 330 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 330 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 330 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 330 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
 | 330 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
 | 330 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 330 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 
@@ -349,26 +348,27 @@
 | 330 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
 | 330 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 330 | [GigaBash](games/g/gigabash.md) | 4.61 | 
-| 350 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
-| 350 | [Control](games/c/control.md) | 4.60 | 
-| 350 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
-| 350 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 350 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 350 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
-| 350 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 350 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
-| 350 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 350 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 350 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
-| 350 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
-| 350 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.60 | 
-| 350 | [Road 96](games/r/road_96.md) | 4.60 | 
-| 350 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
-| 350 | [RiME](games/r/rime.md) | 4.60 | 
-| 350 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
-| 350 | [Breathedge](games/b/breathedge.md) | 4.60 | 
-| 350 | [GRIME](games/g/grime.md) | 4.60 | 
-| 350 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
+| 349 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
+| 349 | [Control](games/c/control.md) | 4.60 | 
+| 349 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
+| 349 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 349 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 349 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
+| 349 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
+| 349 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
+| 349 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
+| 349 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 349 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 349 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
+| 349 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
+| 349 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.60 | 
+| 349 | [Road 96](games/r/road_96.md) | 4.60 | 
+| 349 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
+| 349 | [RiME](games/r/rime.md) | 4.60 | 
+| 349 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
+| 349 | [Breathedge](games/b/breathedge.md) | 4.60 | 
+| 349 | [GRIME](games/g/grime.md) | 4.60 | 
+| 349 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 370 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 370 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 370 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
@@ -547,19 +547,19 @@
 | 537 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
 | 537 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
 | 537 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
+| 537 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.47 | 
 | 537 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 537 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 
-| 550 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 550 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 550 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 550 | [Pathway](games/p/pathway.md) | 4.46 | 
-| 550 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 550 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
-| 550 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 550 | [Figment](games/f/figment.md) | 4.46 | 
-| 550 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
-| 550 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.46 | 
-| 550 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 551 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 551 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 551 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 551 | [Pathway](games/p/pathway.md) | 4.46 | 
+| 551 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 551 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
+| 551 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 551 | [Figment](games/f/figment.md) | 4.46 | 
+| 551 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
+| 551 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 561 | [SMITE](games/s/smite.md) | 4.45 | 
 | 561 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 561 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 

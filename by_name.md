@@ -314,7 +314,7 @@
 | 312 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 313 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 314 | [Horace](games/h/horace.md) | 4.53 | 
-| 315 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.61 | 
+| 315 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.60 | 
 | 316 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 317 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 318 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
@@ -404,7 +404,7 @@
 | 402 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 403 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 404 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 405 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.46 | 
+| 405 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.47 | 
 | 406 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 407 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 408 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
