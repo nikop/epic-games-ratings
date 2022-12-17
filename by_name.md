@@ -274,7 +274,7 @@
 | 272 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 273 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 
 | 274 | [GigaBash](games/g/gigabash.md) | 4.61 | 
-| 275 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
+| 275 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
 | 276 | [GNOG](games/g/gnog.md) | 4.64 | 
 | 277 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 278 | [God of War](games/g/god_of_war.md) | 4.90 | 
@@ -404,7 +404,7 @@
 | 402 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 403 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 404 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 405 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.46 | 
+| 405 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.47 | 
 | 406 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 407 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 408 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
@@ -687,7 +687,7 @@
 | 685 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
 | 686 | [The Guild 3](games/t/the_guild_3.md) | 4.15 | 
 | 687 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 
-| 688 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
+| 688 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.84 | 
 | 689 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 690 | [The Last Campfire](games/t/the_last_campfire.md) | 4.85 | 
 | 691 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 

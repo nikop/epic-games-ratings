@@ -51,15 +51,15 @@
 | 45 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 45 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.84 | 
 | 45 | [Huntdown](games/h/huntdown.md) | 4.84 | 
-| 52 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 52 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
-| 52 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
-| 52 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 52 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
-| 52 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
-| 52 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
-| 52 | [Grindstone](games/g/grindstone.md) | 4.83 | 
-| 52 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.83 | 
+| 45 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.84 | 
+| 53 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
+| 53 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 53 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
+| 53 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
+| 53 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
+| 53 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
+| 53 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
+| 53 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 61 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 61 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
 | 61 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
@@ -543,23 +543,23 @@
 | 537 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 537 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.47 | 
 | 537 | [Death Coming](games/d/death_coming.md) | 4.47 | 
+| 537 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
 | 537 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
 | 537 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
 | 537 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
+| 537 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.47 | 
 | 537 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 537 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 
-| 549 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 549 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 549 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 549 | [Pathway](games/p/pathway.md) | 4.46 | 
-| 549 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 549 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
-| 549 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 549 | [Figment](games/f/figment.md) | 4.46 | 
-| 549 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
-| 549 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
-| 549 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.46 | 
-| 549 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 551 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 551 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 551 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 551 | [Pathway](games/p/pathway.md) | 4.46 | 
+| 551 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 551 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
+| 551 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 551 | [Figment](games/f/figment.md) | 4.46 | 
+| 551 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
+| 551 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 561 | [SMITE](games/s/smite.md) | 4.45 | 
 | 561 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 561 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 

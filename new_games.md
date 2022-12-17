@@ -5,7 +5,7 @@
 | 3 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.62 | 
 | 4 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.05 | 
 | 5 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.14 | 
-| 6 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.46 | 
+| 6 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.47 | 
 | 7 | [Predecessor](games/p/predecessor.md) | 4.36 | 
 | 8 | [Fangs](games/f/fangs.md) | 4.17 | 
 | 9 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 

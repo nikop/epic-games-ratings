@@ -1,10 +1,10 @@
 {
   "ID": "fcefd39bedb14d6282fe2ac41edbd5f8",
   "Name": "The Jackbox Party Pack 7",
-  "Rating": 4.83,
+  "Rating": 4.84,
   "FirstSeen": "2022-07-22T20:22:27.0134432+00:00",
   "FirstSeenRating": "2022-10-13T00:01:18.3468864+00:00",
-  "LastChanged": "2022-10-23T00:32:10.6103035+00:00",
+  "LastChanged": "2022-12-17T09:57:26.8992193+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-13T00:01:18.3468869+00:00",
@@ -14,6 +14,11 @@
     {
       "Time": "2022-10-23T00:32:10.6103038+00:00",
       "Rating": 4.83,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-17T09:57:26.8992194+00:00",
+      "Rating": 4.84,
       "NumberOfRatings": null
     }
   ],
