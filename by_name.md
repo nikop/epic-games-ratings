@@ -62,7 +62,7 @@
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.56 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.52 | 
-| 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 64 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 65 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 66 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
@@ -90,7 +90,7 @@
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
+| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.80 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -232,7 +232,7 @@
 | 230 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 231 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 232 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
-| 233 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.68 | 
+| 233 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.69 | 
 | 234 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
 | 235 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
 | 236 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 

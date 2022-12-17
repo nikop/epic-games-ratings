@@ -85,19 +85,19 @@
 | 76 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
 | 76 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
 | 76 | [Griftlands](games/g/griftlands.md) | 4.80 | 
+| 76 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.80 | 
 | 76 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 76 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
 | 76 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 76 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
 | 76 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
-| 91 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 91 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 91 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.79 | 
-| 91 | [Journey](games/j/journey.md) | 4.79 | 
-| 91 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
-| 91 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 
+| 92 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 92 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
+| 92 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 92 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 92 | [Journey](games/j/journey.md) | 4.79 | 
+| 92 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
+| 92 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 
 | 99 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 99 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 99 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
@@ -214,6 +214,7 @@
 | 204 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 204 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 204 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 204 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.69 | 
 | 204 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 204 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 204 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
@@ -221,21 +222,20 @@
 | 204 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 
 | 204 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
 | 204 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 222 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 222 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 222 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 222 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 222 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 222 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
-| 222 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 222 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 222 | [Overcooked](games/o/overcooked.md) | 4.68 | 
-| 222 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
-| 222 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.68 | 
-| 222 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 222 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 222 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.68 | 
-| 222 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
+| 223 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 223 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 223 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 223 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 223 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 223 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
+| 223 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 223 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 223 | [Overcooked](games/o/overcooked.md) | 4.68 | 
+| 223 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
+| 223 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
+| 223 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 223 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.68 | 
+| 223 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 237 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 237 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 237 | [Trackmania](games/t/trackmania.md) | 4.67 | 
@@ -536,7 +536,6 @@
 | 532 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
 | 532 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
 | 532 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
-| 537 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 537 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 537 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 537 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
@@ -550,16 +549,17 @@
 | 537 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.47 | 
 | 537 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 537 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 
-| 551 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 551 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 551 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 551 | [Pathway](games/p/pathway.md) | 4.46 | 
-| 551 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 551 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
-| 551 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 551 | [Figment](games/f/figment.md) | 4.46 | 
-| 551 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
-| 551 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 550 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 550 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 550 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 550 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
+| 550 | [Pathway](games/p/pathway.md) | 4.46 | 
+| 550 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 550 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
+| 550 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 550 | [Figment](games/f/figment.md) | 4.46 | 
+| 550 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
+| 550 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 561 | [SMITE](games/s/smite.md) | 4.45 | 
 | 561 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 561 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
