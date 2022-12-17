@@ -536,6 +536,7 @@
 | 532 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
 | 532 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
 | 532 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
+| 537 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 537 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 537 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 537 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
@@ -547,19 +548,18 @@
 | 537 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 537 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 537 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 
-| 548 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 548 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 548 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 548 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
-| 548 | [Pathway](games/p/pathway.md) | 4.46 | 
-| 548 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 548 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
-| 548 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 548 | [Figment](games/f/figment.md) | 4.46 | 
-| 548 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
-| 548 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
-| 548 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.46 | 
-| 548 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 549 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 549 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 549 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 549 | [Pathway](games/p/pathway.md) | 4.46 | 
+| 549 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 549 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
+| 549 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 549 | [Figment](games/f/figment.md) | 4.46 | 
+| 549 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
+| 549 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
+| 549 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.46 | 
+| 549 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 561 | [SMITE](games/s/smite.md) | 4.45 | 
 | 561 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 561 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
@@ -789,15 +789,15 @@
 | 786 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 786 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 789 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 789 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
 | 789 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 789 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 789 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
 | 789 | [Tharsis](games/t/tharsis.md) | 4.09 | 
-| 794 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 794 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.08 | 
-| 794 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
-| 794 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
-| 794 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 
+| 795 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 795 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
+| 795 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
+| 795 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 
 | 799 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
 | 799 | [Lake](games/l/lake.md) | 4.07 | 
 | 801 | [Godfall](games/g/godfall.md) | 4.06 | 
