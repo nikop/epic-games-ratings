@@ -503,7 +503,7 @@
 | 501 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 502 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 503 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 504 | [Predecessor](games/p/predecessor.md) | 4.36 | 
+| 504 | [Predecessor](games/p/predecessor.md) | 4.37 | 
 | 505 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 506 | [Prey](games/p/prey.md) | 4.61 | 
 | 507 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
