@@ -208,7 +208,7 @@
 | 206 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 207 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 208 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
-| 209 | [Encased](games/e/encased.md) | 4.37 | 
+| 209 | [Encased](games/e/encased.md) | 4.38 | 
 | 210 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 211 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 212 | [EVE Online](games/e/eve_online.md) | 4.26 | 

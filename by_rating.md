@@ -641,6 +641,7 @@
 | 627 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
 | 640 | [Core](games/c/core.md) | 4.38 | 
 | 640 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 640 | [Encased](games/e/encased.md) | 4.38 | 
 | 640 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 640 | [Othercide](games/o/othercide.md) | 4.38 | 
 | 640 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
@@ -648,14 +649,13 @@
 | 640 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
 | 640 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
 | 640 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 649 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 649 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 649 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 649 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 649 | [Encased](games/e/encased.md) | 4.37 | 
-| 649 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 649 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 649 | [Predecessor](games/p/predecessor.md) | 4.37 | 
+| 650 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 650 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 650 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 650 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 650 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 650 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 650 | [Predecessor](games/p/predecessor.md) | 4.37 | 
 | 657 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 657 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 657 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 

@@ -1,10 +1,10 @@
 {
   "ID": "48ee23bbc7c34ac09604253e74d17b49",
   "Name": "Encased",
-  "Rating": 4.37,
+  "Rating": 4.38,
   "NumberOfRatings": 49,
   "FirstSeen": "2022-07-22T20:20:17.8710965+00:00",
-  "LastChanged": "2022-12-18T11:57:10.1865164+00:00",
+  "LastChanged": "2022-12-18T16:57:08.219378+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:17.8710967+00:00",
@@ -180,12 +180,17 @@
       "Time": "2022-12-18T11:57:10.1865165+00:00",
       "Rating": 4.37,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-18T16:57:08.2193784+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 20
+      "Count": 21
     }
   ]
 }
