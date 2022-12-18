@@ -90,7 +90,7 @@
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
+| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -353,7 +353,7 @@
 | 351 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 352 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
 | 353 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 354 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.53 | 
+| 354 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 355 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 356 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 357 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
@@ -421,7 +421,7 @@
 | 419 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 420 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 421 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
-| 422 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
+| 422 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 423 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 424 | [Moving Out](games/m/moving_out.md) | 4.57 | 
 | 425 | [MudRunner](games/m/mudrunner.md) | 4.62 | 

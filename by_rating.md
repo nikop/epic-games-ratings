@@ -107,16 +107,16 @@
 | 104 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 104 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 104 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 104 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
 | 104 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 104 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 104 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
-| 112 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 112 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 112 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 112 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 112 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 112 | [Haven](games/h/haven.md) | 4.76 | 
+| 111 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 111 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 111 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 111 | [Diabotical](games/d/diabotical.md) | 4.76 | 
+| 111 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 111 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
+| 111 | [Haven](games/h/haven.md) | 4.76 | 
 | 118 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 118 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
@@ -426,23 +426,23 @@
 | 418 | [Hue](games/h/hue.md) | 4.56 | 
 | 418 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
 | 418 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
+| 418 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 418 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 418 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.56 | 
 | 418 | [Warpips](games/w/warpips.md) | 4.56 | 
 | 418 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 418 | [Observation](games/o/observation.md) | 4.56 | 
 | 418 | [STG Football](games/s/stg_football.md) | 4.56 | 
-| 433 | [VALORANT](games/v/valorant.md) | 4.55 | 
-| 433 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 433 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 433 | [Outward](games/o/outward.md) | 4.55 | 
-| 433 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 433 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
-| 433 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 
-| 433 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 433 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
-| 433 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
-| 433 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
+| 434 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 434 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 434 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 434 | [Outward](games/o/outward.md) | 4.55 | 
+| 434 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 434 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
+| 434 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 434 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
+| 434 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
+| 434 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
 | 444 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 444 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 444 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
@@ -464,7 +464,6 @@
 | 455 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 455 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 455 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 455 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.53 | 
 | 455 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 455 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 455 | [RUINER](games/r/ruiner.md) | 4.53 | 
@@ -478,17 +477,18 @@
 | 455 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
 | 455 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 455 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 479 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 479 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 479 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 479 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 479 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 479 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 479 | [Aztez](games/a/aztez.md) | 4.52 | 
-| 479 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 479 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
-| 479 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
-| 479 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 478 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 478 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 478 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 478 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 478 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 478 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 478 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 478 | [Aztez](games/a/aztez.md) | 4.52 | 
+| 478 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 478 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
+| 478 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
+| 478 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 490 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 490 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 490 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
