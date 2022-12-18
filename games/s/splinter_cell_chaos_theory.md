@@ -1,5 +1,5 @@
 # Splinter Cell Chaos Theory
-Rating: 4.58 (-)  (as of 23.09.2022)  
+Rating: 4.59 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -15,3 +15,4 @@ Rating: 4.58 (-)  (as of 23.09.2022)
 | 2022-12-04 | 4.55 | - |
 | 2022-12-05 | 4.56 | - |
 | 2022-12-06 | 4.58 | - |
+| 2022-12-18 | 4.59 | - |

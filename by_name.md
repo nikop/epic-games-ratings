@@ -13,7 +13,7 @@
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
-| 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.69 | 
+| 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
@@ -605,7 +605,7 @@
 | 603 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 604 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
 | 605 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 606 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.80 | 
+| 606 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.81 | 
 | 607 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 608 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 609 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
@@ -618,7 +618,7 @@
 | 616 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
 | 617 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 618 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
-| 619 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.58 | 
+| 619 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
 | 620 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
 | 621 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
 | 622 | [Star Stable Online](games/s/star_stable_online.md) | 4.39 | 
