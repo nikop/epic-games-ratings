@@ -90,7 +90,7 @@
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
+| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -202,7 +202,7 @@
 | 200 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 201 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 202 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 203 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.75 | 
+| 203 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.72 | 
 | 204 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 205 | [ELEX](games/e/elex.md) | 4.41 | 
 | 206 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
@@ -442,7 +442,7 @@
 | 440 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 441 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 442 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.62 | 
-| 443 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 
+| 443 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 
 | 444 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 445 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 446 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 

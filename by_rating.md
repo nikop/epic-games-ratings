@@ -106,17 +106,17 @@
 | 104 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 104 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 104 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
+| 104 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
 | 104 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 104 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 104 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
-| 110 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 110 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 110 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 110 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 110 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 110 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
-| 110 | [Haven](games/h/haven.md) | 4.76 | 
-| 110 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.76 | 
+| 111 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 111 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 111 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 111 | [Diabotical](games/d/diabotical.md) | 4.76 | 
+| 111 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 111 | [Haven](games/h/haven.md) | 4.76 | 
+| 111 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.76 | 
 | 118 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 118 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
@@ -795,10 +795,10 @@
 | 790 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 790 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
 | 790 | [Tharsis](games/t/tharsis.md) | 4.09 | 
-| 796 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 796 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
-| 796 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
-| 796 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 
+| 790 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 
+| 797 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 797 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
+| 797 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 800 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
 | 800 | [Lake](games/l/lake.md) | 4.07 | 
 | 802 | [Godfall](games/g/godfall.md) | 4.06 | 
@@ -830,5 +830,5 @@
 | 827 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.80 | 
 | 827 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 830 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 831 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.75 | 
+| 831 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.72 | 
 | 832 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
