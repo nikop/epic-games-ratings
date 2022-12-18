@@ -112,7 +112,7 @@
 | 110 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 
 | 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 113 | [Chernobylite](games/c/chernobylite.md) | 4.11 | 
+| 113 | [Chernobylite](games/c/chernobylite.md) | 4.12 | 
 | 114 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.70 | 
 | 115 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.82 | 
 | 116 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
@@ -188,7 +188,7 @@
 | 186 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.39 | 
 | 187 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 188 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
-| 189 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 
+| 189 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
 | 190 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 191 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.59 | 
 | 192 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
@@ -324,7 +324,7 @@
 | 322 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 323 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 324 | [Huntdown](games/h/huntdown.md) | 4.84 | 
-| 325 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
+| 325 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
 | 326 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
 | 327 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
 | 328 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
@@ -801,7 +801,7 @@
 | 799 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 800 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
 | 801 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.29 | 
-| 802 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.55 | 
+| 802 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 803 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 804 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 805 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 

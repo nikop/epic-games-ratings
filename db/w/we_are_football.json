@@ -1,11 +1,11 @@
 {
   "ID": "fdd71e435e8d46faa9c46d33e694cb65",
   "Name": "WE ARE FOOTBALL",
-  "Rating": 4.55,
+  "Rating": 4.56,
   "NumberOfRatings": 24,
   "FirstSeen": "2022-07-22T20:21:52.6599178+00:00",
   "FirstSeenRating": "2022-09-05T19:30:54.6319305+00:00",
-  "LastChanged": "2022-11-22T17:03:40.4365575+00:00",
+  "LastChanged": "2022-12-18T23:57:39.9334842+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-05T19:30:54.6319307+00:00",
@@ -75,6 +75,11 @@
     {
       "Time": "2022-11-22T17:03:40.4365576+00:00",
       "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-18T23:57:39.9334844+00:00",
+      "Rating": 4.56,
       "NumberOfRatings": null
     }
   ],
