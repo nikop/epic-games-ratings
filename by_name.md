@@ -208,7 +208,7 @@
 | 206 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 207 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 208 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
-| 209 | [Encased](games/e/encased.md) | 4.36 | 
+| 209 | [Encased](games/e/encased.md) | 4.37 | 
 | 210 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 211 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 212 | [EVE Online](games/e/eve_online.md) | 4.26 | 
@@ -342,7 +342,7 @@
 | 340 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 341 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 342 | [Isonzo](games/i/isonzo.md) | 4.58 | 
-| 343 | [IXION](games/i/ixion.md) | 4.74 | 
+| 343 | [IXION](games/i/ixion.md) | 4.71 | 
 | 344 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 345 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 346 | [Journey](games/j/journey.md) | 4.79 | 
@@ -564,7 +564,7 @@
 | 562 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 563 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
 | 564 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 565 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
+| 565 | [Saturnalia](games/s/saturnalia.md) | 4.23 | 
 | 566 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 567 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 568 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 

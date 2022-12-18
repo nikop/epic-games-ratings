@@ -2,7 +2,7 @@
 | --- | ---- | ------ | 
 | 1 | [High On Life](games/h/high_on_life.md) | 4.42 | 
 | 2 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.44 | 
-| 3 | [IXION](games/i/ixion.md) | 4.74 | 
+| 3 | [IXION](games/i/ixion.md) | 4.71 | 
 | 4 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.62 | 
 | 5 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 
 | 6 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.14 | 
