@@ -1,10 +1,10 @@
 {
   "ID": "e29e6ef093fd468db40b6fb505de6fa8",
   "Name": "Session: Skate Sim",
-  "Rating": 4.63,
+  "Rating": 4.61,
   "NumberOfRatings": 111,
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
-  "LastChanged": "2022-12-05T02:08:50.5587601+00:00",
+  "LastChanged": "2022-12-18T02:02:48.0489479+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:58.6746018+00:00",
@@ -324,6 +324,11 @@
     {
       "Time": "2022-12-05T02:08:50.5587602+00:00",
       "Rating": 4.63,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-18T02:02:48.048948+00:00",
+      "Rating": 4.61,
       "NumberOfRatings": null
     }
   ],

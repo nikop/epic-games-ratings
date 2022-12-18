@@ -62,7 +62,7 @@
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.56 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.52 | 
-| 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
+| 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 64 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 65 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 66 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
@@ -90,7 +90,7 @@
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.78 | 
+| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -570,7 +570,7 @@
 | 568 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
 | 569 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 570 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
-| 571 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
+| 571 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 572 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 573 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
 | 574 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
@@ -809,7 +809,7 @@
 | 807 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.78 | 
 | 808 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 809 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 810 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.84 | 
+| 810 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
 | 811 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 812 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 813 | [Windbound](games/w/windbound.md) | 4.19 | 

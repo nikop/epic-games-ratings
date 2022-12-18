@@ -1,10 +1,10 @@
 {
   "ID": "13cba1b288ec417badb9a276cbb6d819",
   "Name": "Wildcat Gun Machine",
-  "Rating": 3.84,
+  "Rating": 3.91,
   "FirstSeen": "2022-07-22T20:28:10.3966316+00:00",
   "FirstSeenRating": "2022-12-09T16:58:13.2278182+00:00",
-  "LastChanged": "2022-12-17T02:00:27.4495994+00:00",
+  "LastChanged": "2022-12-18T02:03:02.1928163+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-09T16:58:13.227819+00:00",
@@ -49,6 +49,11 @@
     {
       "Time": "2022-12-17T02:00:27.4495997+00:00",
       "Rating": 3.84,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-18T02:03:02.1928166+00:00",
+      "Rating": 3.91,
       "NumberOfRatings": null
     }
   ],
