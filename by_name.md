@@ -30,7 +30,7 @@
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.39 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.60 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -308,7 +308,7 @@
 | 306 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 307 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 308 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 309 | [High On Life](games/h/high_on_life.md) | 4.42 | 
+| 309 | [High On Life](games/h/high_on_life.md) | 4.53 | 
 | 310 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 311 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 312 | [Hob](games/h/hob.md) | 4.57 | 
@@ -456,7 +456,7 @@
 | 454 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 455 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 456 | [Observation](games/o/observation.md) | 4.56 | 
-| 457 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
+| 457 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 458 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
 | 459 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 460 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.47 | 

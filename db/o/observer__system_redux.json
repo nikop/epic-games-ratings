@@ -1,10 +1,10 @@
 {
   "ID": "71e66acf6bb34733bd98514ebf9fcaf8",
   "Name": "Observer: System Redux",
-  "Rating": 4.48,
+  "Rating": 4.5,
   "FirstSeen": "2022-07-22T20:26:29.9715628+00:00",
   "FirstSeenRating": "2022-10-25T15:33:31.63586+00:00",
-  "LastChanged": "2022-12-02T21:58:44.3834401+00:00",
+  "LastChanged": "2022-12-18T22:57:45.1506547+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-25T15:33:31.6358604+00:00",
@@ -49,6 +49,11 @@
     {
       "Time": "2022-12-02T21:58:44.3834402+00:00",
       "Rating": 4.48,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-18T22:57:45.1506548+00:00",
+      "Rating": 4.5,
       "NumberOfRatings": null
     }
   ],
