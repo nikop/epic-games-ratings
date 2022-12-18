@@ -133,7 +133,7 @@
 | 131 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 132 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
 | 133 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 134 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
+| 134 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
 | 135 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 136 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 137 | [Crayta](games/c/crayta.md) | 4.19 | 
@@ -531,7 +531,7 @@
 | 529 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 530 | [Revita](games/r/revita.md) | 4.74 | 
 | 531 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 532 | [RiME](games/r/rime.md) | 4.60 | 
+| 532 | [RiME](games/r/rime.md) | 4.58 | 
 | 533 | [RiMS Racing](games/r/rims_racing.md) | 4.41 | 
 | 534 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 535 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -556,7 +556,7 @@
 | 554 | [Sable](games/s/sable.md) | 4.57 | 
 | 555 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
 | 556 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 557 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.44 | 
+| 557 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
 | 558 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 559 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
 | 560 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
