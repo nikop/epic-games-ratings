@@ -9,4 +9,3 @@
 | 7 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.47 | 
 | 8 | [Predecessor](games/p/predecessor.md) | 4.37 | 
 | 9 | [Fangs](games/f/fangs.md) | 4.20 | 
-| 10 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 

@@ -379,7 +379,7 @@
 | 377 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 378 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 379 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
-| 380 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.54 | 
+| 380 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
 | 381 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 382 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 383 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
@@ -746,7 +746,7 @@
 | 744 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 745 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 746 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.64 | 
-| 747 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
+| 747 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 748 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
 | 749 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
 | 750 | [Townscaper](games/t/townscaper.md) | 4.71 | 
@@ -794,7 +794,7 @@
 | 792 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 793 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 794 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 795 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.42 | 
+| 795 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 796 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 797 | [Warpips](games/w/warpips.md) | 4.56 | 
 | 798 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
