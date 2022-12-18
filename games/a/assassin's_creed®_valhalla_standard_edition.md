@@ -1,5 +1,5 @@
 # Assassin's Creed® Valhalla Standard Edition
-Rating: 4.60 (12,317)  (as of 23.09.2022)  
+Rating: 4.59 (12,317)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -70,3 +70,4 @@ Rating: 4.60 (12,317)  (as of 23.09.2022)
 | 2022-11-15 | 4.59 | - |
 | 2022-11-17 | 4.59 | - |
 | 2022-12-16 | 4.60 | - |
+| 2022-12-18 | 4.59 | - |

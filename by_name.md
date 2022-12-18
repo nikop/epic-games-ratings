@@ -50,7 +50,7 @@
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
-| 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
+| 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.40 | 
@@ -302,7 +302,7 @@
 | 300 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 301 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 302 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 303 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.62 | 
+| 303 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.65 | 
 | 304 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
 | 305 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 306 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
@@ -603,7 +603,7 @@
 | 601 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
 | 602 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
 | 603 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 604 | [Sonic Origins](games/s/sonic_origins.md) | 4.53 | 
+| 604 | [Sonic Origins](games/s/sonic_origins.md) | 4.54 | 
 | 605 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 606 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.81 | 
 | 607 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
@@ -822,7 +822,7 @@
 | 820 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 821 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
 | 822 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
-| 823 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 
+| 823 | [WRC Generations](games/w/wrc_generations.md) | 4.48 | 
 | 824 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
 | 825 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 826 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
