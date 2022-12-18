@@ -466,7 +466,7 @@
 | 464 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
 | 465 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
 | 466 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
-| 467 | [Othercide](games/o/othercide.md) | 4.37 | 
+| 467 | [Othercide](games/o/othercide.md) | 4.38 | 
 | 468 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 469 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
 | 470 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
