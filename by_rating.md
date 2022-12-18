@@ -661,7 +661,6 @@
 | 657 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 657 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 657 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 657 | [Among Trees](games/a/among_trees.md) | 4.36 | 
 | 657 | [Torchlight](games/t/torchlight.md) | 4.36 | 
 | 657 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 657 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
@@ -670,10 +669,11 @@
 | 657 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 657 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
 | 657 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
-| 671 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
-| 671 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 671 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 671 | [ZOMBI](games/z/zombi.md) | 4.35 | 
+| 670 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
+| 670 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 670 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
+| 670 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 670 | [ZOMBI](games/z/zombi.md) | 4.35 | 
 | 675 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 675 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 675 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
