@@ -394,7 +394,7 @@
 | 392 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 393 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
 | 394 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
-| 395 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.91 | 
+| 395 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.76 | 
 | 396 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 397 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 398 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
@@ -508,7 +508,7 @@
 | 506 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 507 | [Prey](games/p/prey.md) | 4.61 | 
 | 508 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 509 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
+| 509 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 
 | 510 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 511 | [Quake](games/q/quake.md) | 4.78 | 
 | 512 | [Rage 2](games/r/rage_2.md) | 4.29 | 
@@ -746,7 +746,7 @@
 | 744 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 745 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 746 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.64 | 
-| 747 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 747 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.78 | 
 | 748 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
 | 749 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
 | 750 | [Townscaper](games/t/townscaper.md) | 4.71 | 
@@ -766,7 +766,7 @@
 | 764 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 765 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
 | 766 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.22 | 
-| 767 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
+| 767 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 768 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 769 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 770 | [TUNIC](games/t/tunic.md) | 4.87 | 
