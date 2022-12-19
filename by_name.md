@@ -185,7 +185,7 @@
 | 183 | [Diabotical](games/d/diabotical.md) | 4.76 | 
 | 184 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 185 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
-| 186 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.39 | 
+| 186 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 187 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 188 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 189 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 

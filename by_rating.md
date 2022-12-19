@@ -632,23 +632,23 @@
 | 626 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 626 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
 | 626 | [Star Stable Online](games/s/star_stable_online.md) | 4.39 | 
-| 626 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.39 | 
 | 626 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.39 | 
 | 626 | [Tacoma](games/t/tacoma.md) | 4.39 | 
 | 626 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 
 | 626 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 626 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 626 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
-| 640 | [Core](games/c/core.md) | 4.38 | 
-| 640 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
-| 640 | [Encased](games/e/encased.md) | 4.38 | 
-| 640 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
-| 640 | [Othercide](games/o/othercide.md) | 4.38 | 
-| 640 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 640 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
-| 640 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
-| 640 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
-| 640 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
+| 639 | [Core](games/c/core.md) | 4.38 | 
+| 639 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 639 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 639 | [Encased](games/e/encased.md) | 4.38 | 
+| 639 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
+| 639 | [Othercide](games/o/othercide.md) | 4.38 | 
+| 639 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 639 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
+| 639 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
+| 639 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
+| 639 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 650 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 650 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 650 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
