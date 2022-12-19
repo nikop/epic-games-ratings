@@ -148,7 +148,7 @@
 | 146 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 147 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 148 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
-| 149 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 149 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
 | 150 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
 | 151 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 
 | 152 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
@@ -376,7 +376,7 @@
 | 374 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 375 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
 | 376 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 377 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
+| 377 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
 | 378 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 379 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 380 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 

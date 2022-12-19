@@ -617,7 +617,6 @@
 | 603 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
 | 603 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
 | 617 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
-| 617 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 617 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
 | 617 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
 | 617 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
@@ -626,19 +625,20 @@
 | 617 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 617 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
 | 617 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
-| 627 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 627 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 627 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 627 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
-| 627 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
-| 627 | [Star Stable Online](games/s/star_stable_online.md) | 4.39 | 
-| 627 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.39 | 
-| 627 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.39 | 
-| 627 | [Tacoma](games/t/tacoma.md) | 4.39 | 
-| 627 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 
-| 627 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
-| 627 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 627 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
+| 626 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 626 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 626 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
+| 626 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 626 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
+| 626 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
+| 626 | [Star Stable Online](games/s/star_stable_online.md) | 4.39 | 
+| 626 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.39 | 
+| 626 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.39 | 
+| 626 | [Tacoma](games/t/tacoma.md) | 4.39 | 
+| 626 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 
+| 626 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
+| 626 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
+| 626 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
 | 640 | [Core](games/c/core.md) | 4.38 | 
 | 640 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 640 | [Encased](games/e/encased.md) | 4.38 | 
@@ -738,16 +738,16 @@
 | 733 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 733 | [Saturnalia](games/s/saturnalia.md) | 4.23 | 
 | 738 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 738 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
 | 738 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
 | 738 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.22 | 
 | 738 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.22 | 
 | 738 | [Starsand](games/s/starsand.md) | 4.22 | 
 | 738 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
 | 738 | [Somerville](games/s/somerville.md) | 4.22 | 
-| 745 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
-| 745 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
-| 745 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
-| 745 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
+| 746 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
+| 746 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
+| 746 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
 | 749 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 749 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 749 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
