@@ -653,22 +653,22 @@
 | 651 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 651 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 651 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 651 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 651 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 651 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 657 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 657 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 657 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 657 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 657 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 657 | [Torchlight](games/t/torchlight.md) | 4.36 | 
-| 657 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
-| 657 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 657 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
-| 657 | [Hammerting](games/h/hammerting.md) | 4.36 | 
-| 657 | [Backbone](games/b/backbone.md) | 4.36 | 
-| 657 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
-| 657 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
+| 656 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 656 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 656 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 656 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 656 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
+| 656 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 656 | [Torchlight](games/t/torchlight.md) | 4.36 | 
+| 656 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
+| 656 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
+| 656 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
+| 656 | [Hammerting](games/h/hammerting.md) | 4.36 | 
+| 656 | [Backbone](games/b/backbone.md) | 4.36 | 
+| 656 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
+| 656 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
 | 670 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 670 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 670 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
