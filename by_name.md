@@ -508,7 +508,7 @@
 | 506 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 507 | [Prey](games/p/prey.md) | 4.61 | 
 | 508 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 509 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 
+| 509 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
 | 510 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 511 | [Quake](games/q/quake.md) | 4.78 | 
 | 512 | [Rage 2](games/r/rage_2.md) | 4.29 | 
@@ -736,7 +736,7 @@
 | 734 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
 | 735 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
 | 736 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
-| 737 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.33 | 
+| 737 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 738 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
 | 739 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 740 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
@@ -758,7 +758,7 @@
 | 756 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 757 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
 | 758 | [Transistor](games/t/transistor.md) | 4.63 | 
-| 759 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
+| 759 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
 | 760 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 761 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
 | 762 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
@@ -769,7 +769,7 @@
 | 767 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 768 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 769 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 770 | [TUNIC](games/t/tunic.md) | 4.87 | 
+| 770 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 771 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 772 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 773 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
