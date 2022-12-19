@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [High On Life](games/h/high_on_life.md) | 4.53 | 
+| 1 | [High On Life](games/h/high_on_life.md) | 4.54 | 
 | 2 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
 | 3 | [IXION](games/i/ixion.md) | 4.73 | 
 | 4 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.68 | 

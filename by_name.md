@@ -308,7 +308,7 @@
 | 306 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 307 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 308 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 309 | [High On Life](games/h/high_on_life.md) | 4.53 | 
+| 309 | [High On Life](games/h/high_on_life.md) | 4.54 | 
 | 310 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 311 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 312 | [Hob](games/h/hob.md) | 4.57 | 
@@ -348,7 +348,7 @@
 | 346 | [Journey](games/j/journey.md) | 4.79 | 
 | 347 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
 | 348 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 349 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 349 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 350 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 351 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 352 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
@@ -553,7 +553,7 @@
 | 551 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 552 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 553 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 554 | [Sable](games/s/sable.md) | 4.48 | 
+| 554 | [Sable](games/s/sable.md) | 4.46 | 
 | 555 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
 | 556 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 557 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
@@ -627,7 +627,7 @@
 | 625 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
 | 626 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
 | 627 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 628 | [Steelrising](games/s/steelrising.md) | 4.27 | 
+| 628 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 629 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
 | 630 | [STG Football](games/s/stg_football.md) | 4.56 | 
 | 631 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
