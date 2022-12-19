@@ -394,7 +394,7 @@
 | 392 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 393 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
 | 394 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
-| 395 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.76 | 
+| 395 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.74 | 
 | 396 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 397 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 398 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
@@ -730,7 +730,7 @@
 | 728 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 729 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.60 | 
 | 730 | [Timberborn](games/t/timberborn.md) | 4.71 | 
-| 731 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 
+| 731 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
 | 732 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 733 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
 | 734 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
