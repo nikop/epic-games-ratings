@@ -346,9 +346,9 @@
 | 344 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 345 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 346 | [Journey](games/j/journey.md) | 4.79 | 
-| 347 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.59 | 
+| 347 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
 | 348 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 349 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
+| 349 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
 | 350 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 351 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 352 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
