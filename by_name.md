@@ -114,7 +114,7 @@
 | 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 113 | [Chernobylite](games/c/chernobylite.md) | 4.12 | 
 | 114 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.70 | 
-| 115 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.82 | 
+| 115 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.78 | 
 | 116 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 117 | [Chorus](games/c/chorus.md) | 4.45 | 
 | 118 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.04 | 
@@ -553,7 +553,7 @@
 | 551 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 552 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 553 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 554 | [Sable](games/s/sable.md) | 4.57 | 
+| 554 | [Sable](games/s/sable.md) | 4.48 | 
 | 555 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
 | 556 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 557 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
