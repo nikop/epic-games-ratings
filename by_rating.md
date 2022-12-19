@@ -504,7 +504,6 @@
 | 501 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 501 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 501 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
-| 501 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 501 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 501 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
 | 501 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
@@ -518,21 +517,22 @@
 | 501 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 501 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 501 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
-| 519 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 519 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 519 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 519 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 519 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 519 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 519 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
-| 519 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 519 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 519 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 519 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 519 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 519 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 519 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 519 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 518 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 518 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 518 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 518 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 518 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 518 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 518 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
+| 518 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 518 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 518 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 518 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 518 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 518 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 518 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 518 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 518 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 534 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 534 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 534 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 

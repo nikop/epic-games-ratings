@@ -680,7 +680,7 @@
 | 678 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 679 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 680 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
-| 681 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 681 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 682 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 683 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
 | 684 | [The Fall](games/t/the_fall.md) | 4.29 | 
