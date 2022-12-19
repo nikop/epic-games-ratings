@@ -90,7 +90,7 @@
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
+| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -417,7 +417,7 @@
 | 415 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 416 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
 | 417 | [Minit](games/m/minit.md) | 4.54 | 
-| 418 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.86 | 
+| 418 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.88 | 
 | 419 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 420 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 421 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 

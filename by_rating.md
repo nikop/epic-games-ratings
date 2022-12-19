@@ -106,17 +106,17 @@
 | 103 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 103 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 103 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 103 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
 | 103 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 103 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 103 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
-| 111 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 111 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 111 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 111 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 111 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 111 | [Haven](games/h/haven.md) | 4.76 | 
-| 111 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.76 | 
+| 110 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 110 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 110 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 110 | [Diabotical](games/d/diabotical.md) | 4.76 | 
+| 110 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 110 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
+| 110 | [Haven](games/h/haven.md) | 4.76 | 
+| 110 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.76 | 
 | 118 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 118 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
@@ -824,8 +824,8 @@
 | 819 | [Patron](games/p/patron.md) | 3.92 | 
 | 823 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 823 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
-| 825 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.86 | 
-| 825 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
+| 825 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.88 | 
+| 826 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 827 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 827 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.80 | 
 | 827 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
