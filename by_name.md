@@ -279,7 +279,7 @@
 | 277 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 278 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 279 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
-| 280 | [Godfall](games/g/godfall.md) | 4.06 | 
+| 280 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 281 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 282 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
 | 283 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
@@ -297,12 +297,12 @@
 | 295 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 296 | [Hammerting](games/h/hammerting.md) | 4.36 | 
 | 297 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
-| 298 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
+| 298 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
 | 299 | [Haven](games/h/haven.md) | 4.76 | 
 | 300 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 301 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 302 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 303 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.65 | 
+| 303 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.68 | 
 | 304 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
 | 305 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 306 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
@@ -342,7 +342,7 @@
 | 340 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 341 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 342 | [Isonzo](games/i/isonzo.md) | 4.58 | 
-| 343 | [IXION](games/i/ixion.md) | 4.71 | 
+| 343 | [IXION](games/i/ixion.md) | 4.73 | 
 | 344 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 345 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 346 | [Journey](games/j/journey.md) | 4.79 | 
@@ -772,7 +772,7 @@
 | 770 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 771 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 772 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 773 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
+| 773 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
 | 774 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 775 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
 | 776 | [UnMetal](games/u/unmetal.md) | 4.51 | 
