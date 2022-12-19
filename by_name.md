@@ -90,7 +90,7 @@
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
+| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -138,7 +138,7 @@
 | 136 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 137 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 138 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
-| 139 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 139 | [Cris Tales](games/c/cris_tales.md) | 4.35 | 
 | 140 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
 | 141 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 142 | [CryoFall](games/c/cryofall.md) | 4.50 | 
@@ -359,7 +359,7 @@
 | 357 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 358 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
 | 359 | [King of Retail](games/k/king_of_retail.md) | 4.71 | 
-| 360 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
+| 360 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
 | 361 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 362 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.70 | 
 | 363 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
@@ -482,7 +482,7 @@
 | 480 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 481 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.54 | 
 | 482 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 483 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
+| 483 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.28 | 
 | 484 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 485 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 486 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.29 | 

@@ -1,10 +1,10 @@
 {
   "ID": "aa4742eef2744a41bdb3115cfeca8b89",
   "Name": "King\u0027s Bounty II",
-  "Rating": 4.2,
+  "Rating": 4.19,
   "NumberOfRatings": 108,
   "FirstSeen": "2022-07-22T20:20:59.0658274+00:00",
-  "LastChanged": "2022-12-09T15:57:33.3575101+00:00",
+  "LastChanged": "2022-12-19T18:57:25.1939987+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:59.0658277+00:00",
@@ -254,6 +254,11 @@
     {
       "Time": "2022-12-09T15:57:33.3575103+00:00",
       "Rating": 4.2,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-19T18:57:25.1939989+00:00",
+      "Rating": 4.19,
       "NumberOfRatings": null
     }
   ],

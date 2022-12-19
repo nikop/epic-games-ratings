@@ -106,16 +106,16 @@
 | 103 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 103 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 103 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
+| 103 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
 | 103 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 103 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 103 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
-| 110 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 110 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 110 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 110 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 110 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 110 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
-| 110 | [Haven](games/h/haven.md) | 4.76 | 
+| 111 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 111 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 111 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 111 | [Diabotical](games/d/diabotical.md) | 4.76 | 
+| 111 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 111 | [Haven](games/h/haven.md) | 4.76 | 
 | 117 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 117 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 117 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
@@ -658,7 +658,6 @@
 | 656 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 656 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 656 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 656 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 656 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
 | 656 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
 | 656 | [Torchlight](games/t/torchlight.md) | 4.36 | 
@@ -669,11 +668,12 @@
 | 656 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 656 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
 | 656 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
-| 670 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
-| 670 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 670 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 670 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 670 | [ZOMBI](games/z/zombi.md) | 4.35 | 
+| 669 | [Cris Tales](games/c/cris_tales.md) | 4.35 | 
+| 669 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
+| 669 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 669 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
+| 669 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 669 | [ZOMBI](games/z/zombi.md) | 4.35 | 
 | 675 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 675 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 675 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
@@ -711,10 +711,10 @@
 | 700 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
 | 710 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
 | 710 | [Dark Light](games/d/dark_light.md) | 4.28 | 
-| 712 | [Steelrising](games/s/steelrising.md) | 4.27 | 
-| 712 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
-| 712 | [Parkitect](games/p/parkitect.md) | 4.27 | 
-| 712 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
+| 710 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.28 | 
+| 713 | [Steelrising](games/s/steelrising.md) | 4.27 | 
+| 713 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
+| 713 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 716 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 716 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 716 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
@@ -754,15 +754,15 @@
 | 749 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 749 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 749 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
-| 749 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 
 | 749 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 749 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 749 | [Fangs](games/f/fangs.md) | 4.20 | 
-| 759 | [Windbound](games/w/windbound.md) | 4.19 | 
-| 759 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 759 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.19 | 
-| 759 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 759 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
+| 758 | [Windbound](games/w/windbound.md) | 4.19 | 
+| 758 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 758 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.19 | 
+| 758 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
+| 758 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 758 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 764 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 765 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 765 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
