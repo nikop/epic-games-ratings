@@ -177,7 +177,6 @@
 | 173 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
 | 173 | [Timberborn](games/t/timberborn.md) | 4.71 | 
 | 173 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 173 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
 | 173 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
 | 173 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 173 | [Fez](games/f/fez.md) | 4.71 | 
@@ -187,22 +186,23 @@
 | 173 | [King of Retail](games/k/king_of_retail.md) | 4.71 | 
 | 173 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
 | 173 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 188 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 188 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
-| 188 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 188 | [Barony](games/b/barony.md) | 4.70 | 
-| 188 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
-| 188 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 188 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 188 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
-| 188 | [Northgard](games/n/northgard.md) | 4.70 | 
-| 188 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 188 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.70 | 
-| 188 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 
-| 188 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.70 | 
-| 188 | [Tails of Iron](games/t/tails_of_iron.md) | 4.70 | 
-| 188 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
-| 188 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.70 | 
+| 187 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 187 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
+| 187 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 187 | [Barony](games/b/barony.md) | 4.70 | 
+| 187 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
+| 187 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 187 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
+| 187 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 187 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
+| 187 | [Northgard](games/n/northgard.md) | 4.70 | 
+| 187 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 187 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.70 | 
+| 187 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 
+| 187 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.70 | 
+| 187 | [Tails of Iron](games/t/tails_of_iron.md) | 4.70 | 
+| 187 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
+| 187 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.70 | 
 | 204 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 204 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 204 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
@@ -535,20 +535,20 @@
 | 533 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 533 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 533 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
+| 533 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.48 | 
 | 533 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 533 | [WRC Generations](games/w/wrc_generations.md) | 4.48 | 
-| 538 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 538 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
-| 538 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
-| 538 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 538 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.47 | 
-| 538 | [Death Coming](games/d/death_coming.md) | 4.47 | 
-| 538 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
-| 538 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 538 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
-| 538 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
-| 538 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.47 | 
-| 538 | [Scorn](games/s/scorn.md) | 4.47 | 
+| 539 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 539 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
+| 539 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
+| 539 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 539 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.47 | 
+| 539 | [Death Coming](games/d/death_coming.md) | 4.47 | 
+| 539 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
+| 539 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
+| 539 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
+| 539 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
+| 539 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 550 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 550 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 550 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
