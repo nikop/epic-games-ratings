@@ -30,7 +30,7 @@
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.39 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
@@ -719,7 +719,7 @@
 | 717 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
 | 718 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.82 | 
 | 719 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
-| 720 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.90 | 
+| 720 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
 | 721 | [The Witness](games/t/the_witness.md) | 4.70 | 
 | 722 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 723 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 

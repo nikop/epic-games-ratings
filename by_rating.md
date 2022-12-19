@@ -5,18 +5,18 @@
 | 3 | [Hades](games/h/hades.md) | 4.92 | 
 | 3 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 5 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
-| 6 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.90 | 
 | 6 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 6 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 6 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
-| 11 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
-| 11 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
-| 11 | [RimWorld](games/r/rimworld.md) | 4.89 | 
-| 11 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
-| 11 | [Firework](games/f/firework.md) | 4.89 | 
-| 11 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 
-| 11 | [Mago](games/m/mago.md) | 4.89 | 
+| 10 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
+| 10 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
+| 10 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
+| 10 | [RimWorld](games/r/rimworld.md) | 4.89 | 
+| 10 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
+| 10 | [Firework](games/f/firework.md) | 4.89 | 
+| 10 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 
+| 10 | [Mago](games/m/mago.md) | 4.89 | 
 | 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 18 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
@@ -52,21 +52,21 @@
 | 44 | [Huntdown](games/h/huntdown.md) | 4.84 | 
 | 44 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.84 | 
 | 52 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
+| 52 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 52 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
 | 52 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 52 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
 | 52 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
 | 52 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 52 | [Grindstone](games/g/grindstone.md) | 4.83 | 
-| 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 59 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 59 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
-| 59 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
-| 59 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 59 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.82 | 
-| 59 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.82 | 
-| 59 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
-| 59 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
+| 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 60 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
+| 60 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
+| 60 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 60 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.82 | 
+| 60 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.82 | 
+| 60 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
+| 60 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
 | 68 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 68 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.81 | 
 | 68 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 

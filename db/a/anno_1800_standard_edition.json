@@ -1,10 +1,10 @@
 {
   "ID": "oregano",
   "Name": "Anno 1800 Standard Edition",
-  "Rating": 4.82,
+  "Rating": 4.83,
   "NumberOfRatings": 4392,
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2022-12-18T22:57:04.7413186+00:00",
+  "LastChanged": "2022-12-19T09:57:19.4156489+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:47.4504915+00:00",
@@ -2720,12 +2720,17 @@
       "Time": "2022-12-18T22:57:04.7413189+00:00",
       "Rating": 4.82,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-19T09:57:19.4156491+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
-      "Count": 752
+      "Count": 757
     },
     {
       "Text": "This game is Extremely Fun",
