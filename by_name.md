@@ -30,7 +30,7 @@
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
+| 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.39 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
@@ -261,7 +261,7 @@
 | 259 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 260 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 261 | [FUSER™](games/f/fuser™.md) | 4.73 | 
-| 262 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 262 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.19 | 
 | 263 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
 | 264 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
 | 265 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
@@ -480,9 +480,9 @@
 | 478 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
 | 479 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 480 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 481 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.53 | 
+| 481 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.54 | 
 | 482 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 483 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.28 | 
+| 483 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
 | 484 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 485 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 486 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.29 | 
@@ -499,10 +499,10 @@
 | 497 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 498 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 499 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
-| 500 | [Pine](games/p/pine.md) | 4.14 | 
+| 500 | [Pine](games/p/pine.md) | 4.15 | 
 | 501 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
 | 502 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 503 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
+| 503 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 504 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 505 | [Predecessor](games/p/predecessor.md) | 4.38 | 
 | 506 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
@@ -569,7 +569,7 @@
 | 567 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 568 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
 | 569 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 570 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
+| 570 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 571 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 572 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 573 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
