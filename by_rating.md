@@ -723,10 +723,10 @@
 | 716 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 716 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 716 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
-| 716 | [Gotham Knights](games/g/gotham_knights.md) | 4.26 | 
-| 725 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
-| 725 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
-| 725 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 
+| 724 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
+| 724 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
+| 724 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
+| 724 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 
 | 728 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 728 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 728 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
