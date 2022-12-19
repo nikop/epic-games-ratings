@@ -129,22 +129,22 @@
 | 117 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
 | 117 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 117 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
-| 130 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
-| 130 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 130 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 130 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 130 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
-| 130 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
-| 130 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
-| 130 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 130 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
-| 130 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.74 | 
-| 130 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
-| 130 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 130 | [Revita](games/r/revita.md) | 4.74 | 
-| 130 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.74 | 
-| 130 | [shapez](games/s/shapez.md) | 4.74 | 
-| 130 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
+| 117 | [shapez](games/s/shapez.md) | 4.75 | 
+| 131 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
+| 131 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 131 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 131 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 131 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 
+| 131 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
+| 131 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
+| 131 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 131 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 
+| 131 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.74 | 
+| 131 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
+| 131 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 131 | [Revita](games/r/revita.md) | 4.74 | 
+| 131 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.74 | 
+| 131 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
 | 146 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 146 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 146 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
@@ -588,20 +588,20 @@
 | 581 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
 | 581 | [Faeria](games/f/faeria.md) | 4.43 | 
 | 581 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
-| 581 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
 | 581 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 581 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
 | 581 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
-| 593 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 593 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 593 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 593 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 593 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
-| 593 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 
-| 593 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
-| 593 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 593 | [The Silent Age](games/t/the_silent_age.md) | 4.42 | 
-| 593 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.42 | 
+| 592 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 592 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 592 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 592 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 592 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 592 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
+| 592 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 
+| 592 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
+| 592 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 592 | [The Silent Age](games/t/the_silent_age.md) | 4.42 | 
+| 592 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.42 | 
 | 603 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 603 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 603 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
@@ -648,14 +648,14 @@
 | 639 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
 | 639 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
 | 639 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
+| 639 | [Predecessor](games/p/predecessor.md) | 4.38 | 
 | 639 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 650 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 650 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 650 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 650 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 650 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 650 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 650 | [Predecessor](games/p/predecessor.md) | 4.37 | 
+| 651 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 651 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 651 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 651 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 651 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 651 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 657 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 657 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 657 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 

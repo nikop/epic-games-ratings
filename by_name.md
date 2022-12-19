@@ -133,7 +133,7 @@
 | 131 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 132 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
 | 133 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 134 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
+| 134 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
 | 135 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 136 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 137 | [Crayta](games/c/crayta.md) | 4.19 | 
@@ -504,7 +504,7 @@
 | 502 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 503 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 
 | 504 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 505 | [Predecessor](games/p/predecessor.md) | 4.37 | 
+| 505 | [Predecessor](games/p/predecessor.md) | 4.38 | 
 | 506 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 507 | [Prey](games/p/prey.md) | 4.61 | 
 | 508 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -578,7 +578,7 @@
 | 576 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 577 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 578 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
-| 579 | [shapez](games/s/shapez.md) | 4.74 | 
+| 579 | [shapez](games/s/shapez.md) | 4.75 | 
 | 580 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 581 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
 | 582 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
