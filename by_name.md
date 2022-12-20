@@ -133,7 +133,7 @@
 | 131 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 132 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
 | 133 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 134 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 
+| 134 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
 | 135 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 136 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 137 | [Crayta](games/c/crayta.md) | 4.19 | 
@@ -188,7 +188,7 @@
 | 186 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 187 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 188 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
-| 189 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
+| 189 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 
 | 190 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 191 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.59 | 
 | 192 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
@@ -646,7 +646,7 @@
 | 644 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 645 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
 | 646 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.72 | 
-| 647 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
+| 647 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
 | 648 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.67 | 
 | 649 | [Superliminal](games/s/superliminal.md) | 4.81 | 
 | 650 | [Supraland](games/s/supraland.md) | 4.61 | 
@@ -764,7 +764,7 @@
 | 762 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 763 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.70 | 
 | 764 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 765 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 
+| 765 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.60 | 
 | 766 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.22 | 
 | 767 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 768 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
