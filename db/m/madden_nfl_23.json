@@ -1,10 +1,10 @@
 {
   "ID": "5f4daf40211246acaddd707f7b4e8f56",
   "Name": "Madden NFL 23",
-  "Rating": 4.74,
+  "Rating": 4.68,
   "FirstSeen": "2022-10-21T06:01:19.8599973+00:00",
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
-  "LastChanged": "2022-12-19T08:57:51.5293469+00:00",
+  "LastChanged": "2022-12-20T08:57:42.9415135+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-16T08:57:24.917077+00:00",
@@ -19,6 +19,11 @@
     {
       "Time": "2022-12-19T08:57:51.5293472+00:00",
       "Rating": 4.74,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-20T08:57:42.9415135+00:00",
+      "Rating": 4.68,
       "NumberOfRatings": null
     }
   ],
