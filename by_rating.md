@@ -375,6 +375,7 @@
 | 368 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 368 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
 | 368 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 368 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
 | 368 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
 | 368 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
 | 368 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
@@ -384,26 +385,25 @@
 | 368 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
 | 368 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
 | 368 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
-| 385 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
-| 385 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 385 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 385 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
-| 385 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 385 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
-| 385 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 385 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 385 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
-| 385 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
-| 385 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 385 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 385 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 
-| 385 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
-| 385 | [Isonzo](games/i/isonzo.md) | 4.58 | 
-| 385 | [RiME](games/r/rime.md) | 4.58 | 
-| 385 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 385 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.58 | 
-| 385 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
-| 385 | [NORCO](games/n/norco.md) | 4.58 | 
+| 386 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
+| 386 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 386 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 386 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
+| 386 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 386 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
+| 386 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
+| 386 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 386 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
+| 386 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
+| 386 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
+| 386 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 
+| 386 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
+| 386 | [Isonzo](games/i/isonzo.md) | 4.58 | 
+| 386 | [RiME](games/r/rime.md) | 4.58 | 
+| 386 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
+| 386 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.58 | 
+| 386 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
+| 386 | [NORCO](games/n/norco.md) | 4.58 | 
 | 405 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 405 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 405 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
