@@ -148,7 +148,7 @@
 | 146 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
 | 147 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 148 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
-| 149 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
+| 149 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 150 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
 | 151 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 
 | 152 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
@@ -553,7 +553,7 @@
 | 551 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 552 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 553 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 554 | [Sable](games/s/sable.md) | 4.46 | 
+| 554 | [Sable](games/s/sable.md) | 4.47 | 
 | 555 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
 | 556 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 557 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
@@ -670,7 +670,7 @@
 | 668 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 669 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 670 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 671 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 
+| 671 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.14 | 
 | 672 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 673 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 674 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
