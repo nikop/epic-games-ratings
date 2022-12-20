@@ -405,7 +405,7 @@
 | 403 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 404 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 405 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 406 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.48 | 
+| 406 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.47 | 
 | 407 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 408 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 409 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
@@ -499,7 +499,7 @@
 | 497 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 498 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 499 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
-| 500 | [Pine](games/p/pine.md) | 4.15 | 
+| 500 | [Pine](games/p/pine.md) | 4.14 | 
 | 501 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
 | 502 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 503 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 

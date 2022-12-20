@@ -535,21 +535,21 @@
 | 533 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 533 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 533 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
-| 533 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.48 | 
 | 533 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 533 | [WRC Generations](games/w/wrc_generations.md) | 4.48 | 
-| 539 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 539 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
-| 539 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
-| 539 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 539 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.47 | 
-| 539 | [Death Coming](games/d/death_coming.md) | 4.47 | 
-| 539 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
-| 539 | [Sable](games/s/sable.md) | 4.47 | 
-| 539 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 539 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
-| 539 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
-| 539 | [Scorn](games/s/scorn.md) | 4.47 | 
+| 538 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 538 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
+| 538 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
+| 538 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 538 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.47 | 
+| 538 | [Death Coming](games/d/death_coming.md) | 4.47 | 
+| 538 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
+| 538 | [Sable](games/s/sable.md) | 4.47 | 
+| 538 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
+| 538 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
+| 538 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
+| 538 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.47 | 
+| 538 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 551 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 551 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 551 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
@@ -771,14 +771,14 @@
 | 767 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 767 | [Submerged](games/s/submerged.md) | 4.16 | 
 | 767 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
-| 772 | [Pine](games/p/pine.md) | 4.15 | 
 | 772 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 772 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
 | 772 | [The Guild 3](games/t/the_guild_3.md) | 4.15 | 
 | 772 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 777 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
-| 777 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.14 | 
-| 777 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.14 | 
+| 776 | [Pine](games/p/pine.md) | 4.14 | 
+| 776 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
+| 776 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.14 | 
+| 776 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.14 | 
 | 780 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 780 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 782 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
