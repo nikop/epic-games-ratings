@@ -193,7 +193,7 @@
 | 191 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.59 | 
 | 192 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 193 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
-| 194 | [DOOM 3](games/d/doom_3.md) | 4.66 | 
+| 194 | [DOOM 3](games/d/doom_3.md) | 4.64 | 
 | 195 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 196 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
 | 197 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
