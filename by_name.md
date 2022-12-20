@@ -33,7 +33,7 @@
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.39 | 
-| 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
+| 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.54 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.65 | 
 | 37 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
@@ -753,7 +753,7 @@
 | 751 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 752 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 753 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.01 | 
-| 754 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 754 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 
 | 755 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
 | 756 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 757 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
