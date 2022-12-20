@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.60 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -302,7 +302,7 @@
 | 300 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 301 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 302 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 303 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.68 | 
+| 303 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.65 | 
 | 304 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
 | 305 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 306 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
@@ -319,7 +319,7 @@
 | 317 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 318 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 319 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
-| 320 | [House Party](games/h/house_party.md) | 4.29 | 
+| 320 | [House Party](games/h/house_party.md) | 4.30 | 
 | 321 | [Hue](games/h/hue.md) | 4.56 | 
 | 322 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 323 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
@@ -342,7 +342,7 @@
 | 340 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 341 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 342 | [Isonzo](games/i/isonzo.md) | 4.58 | 
-| 343 | [IXION](games/i/ixion.md) | 4.73 | 
+| 343 | [IXION](games/i/ixion.md) | 4.60 | 
 | 344 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 345 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
 | 346 | [Journey](games/j/journey.md) | 4.79 | 
@@ -452,7 +452,7 @@
 | 450 | [Northgard](games/n/northgard.md) | 4.70 | 
 | 451 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
 | 452 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
-| 453 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.58 | 
+| 453 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
 | 454 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 455 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 456 | [Observation](games/o/observation.md) | 4.56 | 
@@ -556,7 +556,7 @@
 | 554 | [Sable](games/s/sable.md) | 4.47 | 
 | 555 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
 | 556 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 557 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
+| 557 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.44 | 
 | 558 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 559 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
 | 560 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
@@ -567,7 +567,7 @@
 | 565 | [Saturnalia](games/s/saturnalia.md) | 4.23 | 
 | 566 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 567 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 568 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
+| 568 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
 | 569 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 570 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 571 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
@@ -807,7 +807,7 @@
 | 805 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 806 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
 | 807 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 808 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.78 | 
+| 808 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 809 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 810 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
 | 811 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.92 | 
@@ -820,7 +820,7 @@
 | 818 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 
 | 819 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 820 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 821 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 821 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
 | 822 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
 | 823 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
 | 824 | [WRC Generations](games/w/wrc_generations.md) | 4.48 | 

@@ -1,5 +1,5 @@
 # Scott Pilgrim vs. The World: The Game – Complete Edition
-Rating: 4.75 (99)  (as of 23.09.2022)  
+Rating: 4.74 (99)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -50,3 +50,4 @@ Rating: 4.75 (99)  (as of 23.09.2022)
 | 2022-11-27 | 4.73 | - |
 | 2022-12-04 | 4.74 | - |
 | 2022-12-14 | 4.75 | - |
+| 2022-12-20 | 4.74 | - |

@@ -1,11 +1,11 @@
 {
   "ID": "41ac9425cf1a4867b2b73c9838dbc6f2",
   "Name": "Nowhere Prophet",
-  "Rating": 4.58,
+  "Rating": 4.52,
   "NumberOfRatings": 21,
   "FirstSeen": "2022-07-22T20:26:04.1877716+00:00",
   "FirstSeenRating": "2022-09-21T12:02:17.4428999+00:00",
-  "LastChanged": "2022-12-07T18:57:51.0776076+00:00",
+  "LastChanged": "2022-12-20T19:57:34.5700718+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-21T12:02:17.4429005+00:00",
@@ -30,6 +30,11 @@
     {
       "Time": "2022-12-07T18:57:51.0776078+00:00",
       "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-20T19:57:34.570072+00:00",
+      "Rating": 4.52,
       "NumberOfRatings": null
     }
   ],
