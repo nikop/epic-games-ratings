@@ -822,8 +822,8 @@
 | 819 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 819 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 819 | [Patron](games/p/patron.md) | 3.92 | 
-| 823 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 823 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
+| 819 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.92 | 
+| 824 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 825 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.88 | 
 | 826 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 827 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
