@@ -1,10 +1,10 @@
 {
   "ID": "28eda6de701c47dfbbe6255fcee8aa65",
   "Name": "High On Life",
-  "Rating": 4.54,
+  "Rating": 4.59,
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
-  "LastChanged": "2022-12-19T22:57:30.0725063+00:00",
+  "LastChanged": "2022-12-20T18:57:23.4678017+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-17T22:57:08.2654509+00:00",
@@ -19,6 +19,11 @@
     {
       "Time": "2022-12-19T22:57:30.0725066+00:00",
       "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-20T18:57:23.467802+00:00",
+      "Rating": 4.59,
       "NumberOfRatings": null
     }
   ],
