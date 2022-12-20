@@ -273,7 +273,6 @@
 | 271 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 271 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 271 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 271 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 271 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
 | 271 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 271 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
@@ -284,21 +283,22 @@
 | 271 | [Card Shark](games/c/card_shark.md) | 4.65 | 
 | 271 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 271 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
-| 285 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 285 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 285 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 285 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
-| 285 | [Old World](games/o/old_world.md) | 4.64 | 
-| 285 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.64 | 
-| 285 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 285 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
-| 285 | [SOMA](games/s/soma.md) | 4.64 | 
-| 285 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
-| 285 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
-| 285 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
-| 285 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.64 | 
-| 285 | [GNOG](games/g/gnog.md) | 4.64 | 
-| 285 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
+| 284 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 284 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 284 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 284 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
+| 284 | [Old World](games/o/old_world.md) | 4.64 | 
+| 284 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.64 | 
+| 284 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
+| 284 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
+| 284 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
+| 284 | [SOMA](games/s/soma.md) | 4.64 | 
+| 284 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
+| 284 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
+| 284 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
+| 284 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.64 | 
+| 284 | [GNOG](games/g/gnog.md) | 4.64 | 
+| 284 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 300 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
 | 300 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 300 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
@@ -743,11 +743,11 @@
 | 738 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.22 | 
 | 738 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.22 | 
 | 738 | [Starsand](games/s/starsand.md) | 4.22 | 
-| 738 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.22 | 
 | 738 | [Somerville](games/s/somerville.md) | 4.22 | 
-| 746 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
-| 746 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
-| 746 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
+| 745 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
+| 745 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
+| 745 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
+| 745 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
 | 749 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 749 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 749 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
