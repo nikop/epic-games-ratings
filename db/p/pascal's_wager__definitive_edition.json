@@ -1,10 +1,10 @@
 {
   "ID": "a861a0cf27d74d85ad7c3fbcf9e2af42",
   "Name": "Pascal\u0027s Wager: Definitive Edition",
-  "Rating": 4.29,
+  "Rating": 4.32,
   "FirstSeen": "2022-07-22T20:31:33.4222204+00:00",
   "FirstSeenRating": "2022-11-24T04:58:14.8204326+00:00",
-  "LastChanged": "2022-12-09T07:57:51.7032439+00:00",
+  "LastChanged": "2022-12-20T09:58:37.5765322+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-24T04:58:14.8204329+00:00",
@@ -14,6 +14,11 @@
     {
       "Time": "2022-12-09T07:57:51.7032441+00:00",
       "Rating": 4.29,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-20T09:58:37.5765325+00:00",
+      "Rating": 4.32,
       "NumberOfRatings": null
     }
   ],

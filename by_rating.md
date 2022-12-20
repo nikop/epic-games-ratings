@@ -688,27 +688,27 @@
 | 685 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
 | 685 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
 | 685 | [Filament](games/f/filament.md) | 4.32 | 
-| 689 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
-| 689 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 689 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 689 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
-| 689 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 
-| 689 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
-| 689 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
-| 696 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 696 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
-| 696 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 696 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
-| 700 | [Rage 2](games/r/rage_2.md) | 4.29 | 
-| 700 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 700 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 700 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.29 | 
-| 700 | [House Party](games/h/house_party.md) | 4.29 | 
-| 700 | [The Fall](games/t/the_fall.md) | 4.29 | 
-| 700 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
-| 700 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.29 | 
-| 700 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
-| 700 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
+| 685 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.32 | 
+| 690 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 690 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 690 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 690 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
+| 690 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 
+| 690 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
+| 690 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
+| 697 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 697 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
+| 697 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
+| 697 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
+| 701 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 701 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
+| 701 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 701 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.29 | 
+| 701 | [House Party](games/h/house_party.md) | 4.29 | 
+| 701 | [The Fall](games/t/the_fall.md) | 4.29 | 
+| 701 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
+| 701 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 701 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
 | 710 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
 | 710 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 710 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.28 | 
