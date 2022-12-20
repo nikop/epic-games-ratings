@@ -121,7 +121,7 @@
 | 119 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
 | 120 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 121 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
-| 122 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
+| 122 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 123 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
 | 124 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
 | 125 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 

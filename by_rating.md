@@ -724,15 +724,15 @@
 | 716 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 716 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 716 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
+| 725 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 725 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 725 | [Gotham Knights](games/g/gotham_knights.md) | 4.25 | 
 | 725 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
 | 725 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 
-| 729 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 729 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
-| 729 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
-| 729 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 729 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
+| 730 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
+| 730 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
+| 730 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
+| 730 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
 | 734 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 734 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 734 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
