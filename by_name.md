@@ -437,7 +437,7 @@
 | 435 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 436 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
 | 437 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
-| 438 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 438 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
 | 439 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 440 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 441 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
@@ -670,7 +670,7 @@
 | 668 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 669 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 670 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 671 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.14 | 
+| 671 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 
 | 672 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 673 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 674 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 

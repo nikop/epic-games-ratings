@@ -30,19 +30,19 @@
 | 28 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 28 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
 | 28 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 28 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
-| 34 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 34 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 34 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 34 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 34 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
-| 34 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
-| 34 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 34 | [The Last Campfire](games/t/the_last_campfire.md) | 4.85 | 
-| 34 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
-| 34 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
+| 35 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 35 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 35 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
+| 35 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
+| 35 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
+| 35 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
+| 35 | [The Last Campfire](games/t/the_last_campfire.md) | 4.85 | 
+| 35 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
+| 35 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 44 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 44 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 44 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
@@ -776,9 +776,9 @@
 | 772 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
 | 772 | [The Guild 3](games/t/the_guild_3.md) | 4.15 | 
 | 772 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 777 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
-| 777 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.14 | 
-| 777 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.14 | 
+| 772 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 
+| 778 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
+| 778 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.14 | 
 | 780 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 780 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 782 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
