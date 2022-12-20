@@ -807,7 +807,7 @@
 | 805 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 805 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.04 | 
 | 807 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 807 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
+| 808 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
 | 809 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.01 | 
 | 810 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 810 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
