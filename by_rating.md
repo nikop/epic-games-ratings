@@ -466,7 +466,6 @@
 | 457 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 457 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 457 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 457 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 457 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 457 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 457 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
@@ -478,17 +477,18 @@
 | 457 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 457 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 457 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
-| 479 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 479 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 479 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 479 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 479 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 479 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 479 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 479 | [Aztez](games/a/aztez.md) | 4.52 | 
-| 479 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 479 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
-| 479 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 478 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 478 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 478 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 478 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 478 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 478 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 478 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 478 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 478 | [Aztez](games/a/aztez.md) | 4.52 | 
+| 478 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 478 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.52 | 
+| 478 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 490 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 490 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 490 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
