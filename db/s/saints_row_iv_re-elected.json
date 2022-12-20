@@ -1,10 +1,10 @@
 {
   "ID": "151e56468b5049628653dedab7c88007",
   "Name": "Saints Row IV Re-Elected",
-  "Rating": 4.44,
+  "Rating": 4.43,
   "FirstSeen": "2022-12-08T19:57:27.2562206+00:00",
   "FirstSeenRating": "2022-12-09T02:11:05.5025317+00:00",
-  "LastChanged": "2022-12-20T19:57:11.5569479+00:00",
+  "LastChanged": "2022-12-20T20:57:16.4294601+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-09T02:11:05.5025321+00:00",
@@ -44,6 +44,11 @@
     {
       "Time": "2022-12-20T19:57:11.556948+00:00",
       "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-20T20:57:16.4294604+00:00",
+      "Rating": 4.43,
       "NumberOfRatings": null
     }
   ],

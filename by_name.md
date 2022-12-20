@@ -166,7 +166,7 @@
 | 164 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 165 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 166 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
-| 167 | [Death Coming](games/d/death_coming.md) | 4.47 | 
+| 167 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 168 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 169 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 170 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
@@ -556,7 +556,7 @@
 | 554 | [Sable](games/s/sable.md) | 4.47 | 
 | 555 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
 | 556 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 557 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.44 | 
+| 557 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
 | 558 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 559 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
 | 560 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 

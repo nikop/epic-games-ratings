@@ -543,7 +543,6 @@
 | 539 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 539 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 539 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.47 | 
-| 539 | [Death Coming](games/d/death_coming.md) | 4.47 | 
 | 539 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
 | 539 | [Sable](games/s/sable.md) | 4.47 | 
 | 539 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
@@ -551,48 +550,49 @@
 | 539 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 539 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.47 | 
 | 539 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 552 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 552 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 552 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 552 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
-| 552 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 552 | [Pathway](games/p/pathway.md) | 4.46 | 
-| 552 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 552 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
-| 552 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 552 | [Figment](games/f/figment.md) | 4.46 | 
-| 552 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
-| 552 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 564 | [SMITE](games/s/smite.md) | 4.45 | 
-| 564 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 564 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 564 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
-| 564 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
-| 564 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 564 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 564 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 564 | [Good Company](games/g/good_company.md) | 4.45 | 
-| 564 | [Chorus](games/c/chorus.md) | 4.45 | 
-| 564 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
-| 564 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
+| 551 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 551 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 551 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 551 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
+| 551 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
+| 551 | [Pathway](games/p/pathway.md) | 4.46 | 
+| 551 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 551 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
+| 551 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 551 | [Figment](games/f/figment.md) | 4.46 | 
+| 551 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
+| 551 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 563 | [SMITE](games/s/smite.md) | 4.45 | 
+| 563 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 563 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 563 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
+| 563 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 563 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 563 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 563 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 563 | [Death Coming](games/d/death_coming.md) | 4.45 | 
+| 563 | [Good Company](games/g/good_company.md) | 4.45 | 
+| 563 | [Chorus](games/c/chorus.md) | 4.45 | 
+| 563 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
+| 563 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 576 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 576 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 576 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 576 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 576 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
 | 576 | [Train Valley](games/t/train_valley.md) | 4.44 | 
-| 576 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.44 | 
-| 583 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 583 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
-| 583 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 583 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 583 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 583 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
-| 583 | [Faeria](games/f/faeria.md) | 4.43 | 
-| 583 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
-| 583 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
-| 583 | [Far Cry](games/f/far_cry.md) | 4.43 | 
-| 583 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
+| 582 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 582 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
+| 582 | [Sheltered](games/s/sheltered.md) | 4.43 | 
+| 582 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 582 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 582 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
+| 582 | [Faeria](games/f/faeria.md) | 4.43 | 
+| 582 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
+| 582 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
+| 582 | [Far Cry](games/f/far_cry.md) | 4.43 | 
+| 582 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
+| 582 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 594 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 594 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 594 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
