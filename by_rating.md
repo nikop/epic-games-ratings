@@ -753,16 +753,16 @@
 | 749 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 749 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 749 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 749 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.20 | 
 | 749 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 749 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 749 | [Fangs](games/f/fangs.md) | 4.20 | 
-| 758 | [Windbound](games/w/windbound.md) | 4.19 | 
-| 758 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 758 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.19 | 
-| 758 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
-| 758 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 758 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
+| 757 | [Windbound](games/w/windbound.md) | 4.19 | 
+| 757 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 757 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.19 | 
+| 757 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
+| 757 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
+| 757 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 757 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 764 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 765 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 765 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
