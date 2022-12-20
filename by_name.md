@@ -324,7 +324,7 @@
 | 322 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 323 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 324 | [Huntdown](games/h/huntdown.md) | 4.84 | 
-| 325 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
+| 325 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
 | 326 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
 | 327 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
 | 328 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
@@ -403,7 +403,7 @@
 | 401 | [Mago](games/m/mago.md) | 4.89 | 
 | 402 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 403 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 404 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
+| 404 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.18 | 
 | 405 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 406 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.47 | 
 | 407 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
@@ -448,7 +448,7 @@
 | 446 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 447 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 448 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
-| 449 | [NORCO](games/n/norco.md) | 4.58 | 
+| 449 | [NORCO](games/n/norco.md) | 4.60 | 
 | 450 | [Northgard](games/n/northgard.md) | 4.70 | 
 | 451 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
 | 452 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
@@ -777,7 +777,7 @@
 | 775 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 776 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
 | 777 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 778 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.53 | 
+| 778 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
 | 779 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 780 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 781 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
