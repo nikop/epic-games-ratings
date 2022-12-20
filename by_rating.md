@@ -683,11 +683,11 @@
 | 676 | [Ashen](games/a/ashen.md) | 4.34 | 
 | 676 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
 | 676 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 684 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
-| 684 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
-| 684 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
-| 684 | [Filament](games/f/filament.md) | 4.32 | 
-| 684 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
+| 684 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 
+| 685 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
+| 685 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
+| 685 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
+| 685 | [Filament](games/f/filament.md) | 4.32 | 
 | 689 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 689 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 689 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
