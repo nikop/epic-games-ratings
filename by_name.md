@@ -502,7 +502,7 @@
 | 500 | [Pine](games/p/pine.md) | 4.15 | 
 | 501 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
 | 502 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 503 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
+| 503 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
 | 504 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 505 | [Predecessor](games/p/predecessor.md) | 4.38 | 
 | 506 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
