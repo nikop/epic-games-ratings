@@ -536,19 +536,19 @@
 | 534 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 534 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 534 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
+| 534 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.48 | 
 | 534 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 534 | [WRC Generations](games/w/wrc_generations.md) | 4.48 | 
-| 539 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 539 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
-| 539 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
-| 539 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 539 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.47 | 
-| 539 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
-| 539 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 539 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
-| 539 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
-| 539 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.47 | 
-| 539 | [Scorn](games/s/scorn.md) | 4.47 | 
+| 540 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 540 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
+| 540 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
+| 540 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 540 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.47 | 
+| 540 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
+| 540 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
+| 540 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
+| 540 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
+| 540 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 550 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 550 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 550 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
