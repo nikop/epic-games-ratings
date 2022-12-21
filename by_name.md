@@ -50,7 +50,7 @@
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
-| 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
+| 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.40 | 
@@ -165,7 +165,7 @@
 | 163 | [Days Gone](games/d/days_gone.md) | 4.69 | 
 | 164 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 165 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 166 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
+| 166 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 167 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 168 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 169 | [Death's Door](games/d/death's_door.md) | 4.66 | 
@@ -200,7 +200,7 @@
 | 198 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
 | 199 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 200 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 201 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
+| 201 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 202 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 203 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.72 | 
 | 204 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -332,7 +332,7 @@
 | 330 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
 | 331 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 
 | 332 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 333 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
+| 333 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 334 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 335 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 336 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
@@ -480,7 +480,7 @@
 | 478 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
 | 479 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 480 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 481 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.54 | 
+| 481 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 482 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 483 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.28 | 
 | 484 | [Parkitect](games/p/parkitect.md) | 4.27 | 
@@ -670,7 +670,7 @@
 | 668 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 669 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 670 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 671 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 
+| 671 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.14 | 
 | 672 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 673 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 674 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
@@ -785,7 +785,7 @@
 | 783 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 784 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 785 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 786 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 786 | [Verdun](games/v/verdun.md) | 4.53 | 
 | 787 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 788 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 789 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
@@ -810,7 +810,7 @@
 | 808 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 809 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 810 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 811 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.92 | 
+| 811 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.94 | 
 | 812 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 813 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 814 | [Windbound](games/w/windbound.md) | 4.19 | 

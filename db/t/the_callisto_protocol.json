@@ -1,10 +1,10 @@
 {
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
-  "Rating": 4.15,
+  "Rating": 4.14,
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
-  "LastChanged": "2022-12-21T05:57:18.5897519+00:00",
+  "LastChanged": "2022-12-21T17:57:13.7634298+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-03T10:57:24.5094082+00:00",
@@ -189,6 +189,11 @@
     {
       "Time": "2022-12-21T05:57:18.5897521+00:00",
       "Rating": 4.15,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-21T17:57:13.7634299+00:00",
+      "Rating": 4.14,
       "NumberOfRatings": null
     }
   ],
