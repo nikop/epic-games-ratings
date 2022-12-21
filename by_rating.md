@@ -217,24 +217,24 @@
 | 202 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
 | 202 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 
 | 202 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 218 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 218 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 218 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 218 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 218 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 218 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
-| 218 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 218 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 218 | [Overcooked](games/o/overcooked.md) | 4.68 | 
-| 218 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
-| 218 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 218 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 218 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
-| 218 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.68 | 
-| 218 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 218 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
-| 218 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
-| 218 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.68 | 
+| 202 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.69 | 
+| 219 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 219 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 219 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 219 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 219 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 219 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
+| 219 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 219 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 219 | [Overcooked](games/o/overcooked.md) | 4.68 | 
+| 219 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
+| 219 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
+| 219 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 219 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
+| 219 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.68 | 
+| 219 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
+| 219 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
+| 219 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
 | 236 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 236 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 236 | [Trackmania](games/t/trackmania.md) | 4.67 | 
@@ -623,22 +623,22 @@
 | 618 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 618 | [ATOM RPG](games/a/atom_rpg.md) | 4.40 | 
 | 618 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
+| 618 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
 | 618 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 618 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
 | 618 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
-| 627 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 627 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 627 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
-| 627 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 627 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
-| 627 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
-| 627 | [Star Stable Online](games/s/star_stable_online.md) | 4.39 | 
-| 627 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.39 | 
-| 627 | [Tacoma](games/t/tacoma.md) | 4.39 | 
-| 627 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 
-| 627 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
-| 627 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 627 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
+| 628 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 628 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 628 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
+| 628 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 628 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
+| 628 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
+| 628 | [Star Stable Online](games/s/star_stable_online.md) | 4.39 | 
+| 628 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.39 | 
+| 628 | [Tacoma](games/t/tacoma.md) | 4.39 | 
+| 628 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
+| 628 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
+| 628 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
 | 640 | [Core](games/c/core.md) | 4.38 | 
 | 640 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 640 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 

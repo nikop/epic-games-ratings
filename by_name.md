@@ -394,7 +394,7 @@
 | 392 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 393 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
 | 394 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
-| 395 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.68 | 
+| 395 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.69 | 
 | 396 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 397 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 398 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
@@ -691,7 +691,7 @@
 | 689 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.84 | 
 | 690 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 691 | [The Last Campfire](games/t/the_last_campfire.md) | 4.85 | 
-| 692 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 
+| 692 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
 | 693 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
 | 694 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
 | 695 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
