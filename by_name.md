@@ -777,7 +777,7 @@
 | 775 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 776 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
 | 777 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 778 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
+| 778 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.53 | 
 | 779 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 780 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 781 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
