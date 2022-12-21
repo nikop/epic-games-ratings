@@ -507,7 +507,6 @@
 | 500 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
 | 500 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 500 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
-| 500 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
 | 500 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 500 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
 | 500 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
@@ -517,22 +516,23 @@
 | 500 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 500 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 500 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
-| 518 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 518 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 518 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 518 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 518 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 518 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 518 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
-| 518 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 518 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 518 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 518 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 518 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 518 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 518 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 518 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 518 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 517 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 517 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 517 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 517 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 517 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 517 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 517 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
+| 517 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 517 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 517 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 517 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 517 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.49 | 
+| 517 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 517 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 517 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 517 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 517 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 534 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 534 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 534 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
@@ -545,23 +545,23 @@
 | 540 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 540 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.47 | 
 | 540 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
+| 540 | [Sable](games/s/sable.md) | 4.47 | 
 | 540 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
 | 540 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
 | 540 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 540 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 550 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 550 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 550 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 550 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
-| 550 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 550 | [Pathway](games/p/pathway.md) | 4.46 | 
-| 550 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 550 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
-| 550 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 550 | [Figment](games/f/figment.md) | 4.46 | 
-| 550 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
-| 550 | [Sable](games/s/sable.md) | 4.46 | 
-| 550 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 551 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 551 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 551 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 551 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
+| 551 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
+| 551 | [Pathway](games/p/pathway.md) | 4.46 | 
+| 551 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 551 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
+| 551 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 551 | [Figment](games/f/figment.md) | 4.46 | 
+| 551 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
+| 551 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 563 | [SMITE](games/s/smite.md) | 4.45 | 
 | 563 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 563 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
@@ -649,13 +649,13 @@
 | 640 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
 | 640 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
 | 640 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
-| 640 | [Predecessor](games/p/predecessor.md) | 4.38 | 
 | 640 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 652 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 652 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 652 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 652 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 652 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 651 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 651 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 651 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 651 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 651 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 651 | [Predecessor](games/p/predecessor.md) | 4.37 | 
 | 657 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 657 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 657 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 

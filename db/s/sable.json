@@ -1,10 +1,10 @@
 {
   "ID": "66a0893b7b9a42a695f0a387d64dfcc6",
   "Name": "Sable",
-  "Rating": 4.46,
+  "Rating": 4.47,
   "NumberOfRatings": 43,
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
-  "LastChanged": "2022-12-21T05:58:46.9482892+00:00",
+  "LastChanged": "2022-12-21T14:58:55.6672153+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:24.3265083+00:00",
@@ -179,6 +179,11 @@
     {
       "Time": "2022-12-21T05:58:46.9482895+00:00",
       "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-21T14:58:55.6672155+00:00",
+      "Rating": 4.47,
       "NumberOfRatings": null
     }
   ],

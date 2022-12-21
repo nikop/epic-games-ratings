@@ -382,7 +382,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 49
+      "Count": 61
     },
     {
       "Text": "This game has Competitive Players",
@@ -391,6 +391,10 @@
     {
       "Text": "This game is Extremely Fun",
       "Count": 49
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 56
     }
   ]
 }
