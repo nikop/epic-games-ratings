@@ -621,7 +621,7 @@
 | 619 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
 | 620 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
 | 621 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 622 | [Star Stable Online](games/s/star_stable_online.md) | 4.39 | 
+| 622 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
 | 623 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 624 | [Starsand](games/s/starsand.md) | 4.22 | 
 | 625 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
@@ -724,7 +724,7 @@
 | 722 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 723 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 724 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 725 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.54 | 
+| 725 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.65 | 
 | 726 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.62 | 
 | 727 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 728 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
@@ -753,7 +753,7 @@
 | 751 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 752 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 753 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 754 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.01 | 
+| 754 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 
 | 755 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 
 | 756 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
 | 757 | [Train Valley](games/t/train_valley.md) | 4.44 | 
