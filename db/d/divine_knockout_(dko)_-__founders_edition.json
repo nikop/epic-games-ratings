@@ -1,10 +1,10 @@
 {
   "ID": "1200aeb2f87c48349594d96554e2833d",
   "Name": "Divine Knockout (DKO) -  Founders Edition",
-  "Rating": 4.59,
+  "Rating": 4.6,
   "NumberOfRatings": 60,
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2022-12-15T20:57:59.6179602+00:00",
+  "LastChanged": "2022-12-21T02:01:51.2739973+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:52.9902409+00:00",
@@ -365,6 +365,11 @@
       "Time": "2022-12-15T20:57:59.6179604+00:00",
       "Rating": 4.59,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-21T02:01:51.2739976+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -386,7 +391,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 20
+      "Count": 22
     },
     {
       "Text": "This game has Diverse Characters",

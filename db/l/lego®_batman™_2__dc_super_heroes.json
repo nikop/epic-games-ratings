@@ -1,10 +1,10 @@
 {
   "ID": "cb23c857ec0d42d89b4be34d11302959",
   "Name": "LEGO\u00AE Batman\u2122 2: DC Super Heroes",
-  "Rating": 4.64,
+  "Rating": 4.65,
   "NumberOfRatings": 489,
   "FirstSeen": "2022-07-22T20:24:32.502574+00:00",
-  "LastChanged": "2022-12-03T20:57:25.5230248+00:00",
+  "LastChanged": "2022-12-21T02:01:57.127303+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:32.5025742+00:00",
@@ -434,6 +434,11 @@
     {
       "Time": "2022-12-03T20:57:25.5230251+00:00",
       "Rating": 4.64,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-21T02:01:57.1273032+00:00",
+      "Rating": 4.65,
       "NumberOfRatings": null
     }
   ],
