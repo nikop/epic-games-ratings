@@ -79,7 +79,7 @@
 | 77 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
 | 78 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
 | 79 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
-| 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
+| 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.69 | 
 | 81 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
 | 82 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 83 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
@@ -248,7 +248,7 @@
 | 246 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 247 | [Firework](games/f/firework.md) | 4.89 | 
 | 248 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 249 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
+| 249 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 250 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 251 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 
 | 252 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
