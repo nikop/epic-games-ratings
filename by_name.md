@@ -50,7 +50,7 @@
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
-| 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
+| 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.40 | 
@@ -133,7 +133,7 @@
 | 131 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 132 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
 | 133 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 134 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
+| 134 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 135 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 136 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 137 | [Crayta](games/c/crayta.md) | 4.19 | 
@@ -322,7 +322,7 @@
 | 320 | [House Party](games/h/house_party.md) | 4.30 | 
 | 321 | [Hue](games/h/hue.md) | 4.56 | 
 | 322 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 323 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 323 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 324 | [Huntdown](games/h/huntdown.md) | 4.84 | 
 | 325 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
 | 326 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
@@ -508,7 +508,7 @@
 | 506 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 507 | [Prey](games/p/prey.md) | 4.61 | 
 | 508 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 509 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
+| 509 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
 | 510 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 511 | [Quake](games/q/quake.md) | 4.78 | 
 | 512 | [Rage 2](games/r/rage_2.md) | 4.29 | 

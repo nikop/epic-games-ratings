@@ -348,6 +348,7 @@
 | 328 | [GigaBash](games/g/gigabash.md) | 4.61 | 
 | 347 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 347 | [Control](games/c/control.md) | 4.60 | 
+| 347 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 347 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 347 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 347 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
@@ -369,24 +370,23 @@
 | 347 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 347 | [IXION](games/i/ixion.md) | 4.60 | 
 | 347 | [NORCO](games/n/norco.md) | 4.60 | 
-| 370 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 370 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 370 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
-| 370 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 370 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
-| 370 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 370 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
-| 370 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
-| 370 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
-| 370 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
-| 370 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
-| 370 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
-| 370 | [Little Inferno](games/l/little_inferno.md) | 4.59 | 
-| 370 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
-| 370 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
-| 370 | [High On Life](games/h/high_on_life.md) | 4.59 | 
-| 370 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
-| 370 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
+| 371 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 371 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 371 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
+| 371 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
+| 371 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 371 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
+| 371 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 371 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
+| 371 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
+| 371 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
+| 371 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
+| 371 | [Little Inferno](games/l/little_inferno.md) | 4.59 | 
+| 371 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
+| 371 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
+| 371 | [High On Life](games/h/high_on_life.md) | 4.59 | 
+| 371 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
+| 371 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 388 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
 | 388 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 388 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -579,20 +579,20 @@
 | 576 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 576 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 576 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 576 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 576 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
 | 576 | [Train Valley](games/t/train_valley.md) | 4.44 | 
-| 582 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 582 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
-| 582 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 582 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 582 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 582 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
-| 582 | [Faeria](games/f/faeria.md) | 4.43 | 
-| 582 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
-| 582 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
-| 582 | [Far Cry](games/f/far_cry.md) | 4.43 | 
-| 582 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
-| 582 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
+| 583 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 583 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
+| 583 | [Sheltered](games/s/sheltered.md) | 4.43 | 
+| 583 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 583 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 583 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
+| 583 | [Faeria](games/f/faeria.md) | 4.43 | 
+| 583 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
+| 583 | [Far Cry](games/f/far_cry.md) | 4.43 | 
+| 583 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
+| 583 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 594 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 594 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 594 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
@@ -669,6 +669,7 @@
 | 657 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 657 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
 | 657 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
+| 670 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 670 | [Cris Tales](games/c/cris_tales.md) | 4.35 | 
 | 670 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 670 | [Among Trees](games/a/among_trees.md) | 4.35 | 
@@ -676,14 +677,13 @@
 | 670 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 670 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 670 | [ZOMBI](games/z/zombi.md) | 4.35 | 
-| 677 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 677 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 677 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
-| 677 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 677 | [Automachef](games/a/automachef.md) | 4.34 | 
-| 677 | [Ashen](games/a/ashen.md) | 4.34 | 
-| 677 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
-| 677 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
+| 678 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 678 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
+| 678 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 678 | [Automachef](games/a/automachef.md) | 4.34 | 
+| 678 | [Ashen](games/a/ashen.md) | 4.34 | 
+| 678 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
+| 678 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 685 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
 | 685 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
 | 685 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
@@ -808,7 +808,7 @@
 | 806 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 806 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.04 | 
 | 808 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 809 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
+| 808 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
 | 810 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.01 | 
 | 811 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 811 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
