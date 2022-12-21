@@ -350,6 +350,7 @@
 | 348 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 348 | [Control](games/c/control.md) | 4.60 | 
 | 348 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
+| 348 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
 | 348 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 348 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 348 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
@@ -370,24 +371,23 @@
 | 348 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 348 | [IXION](games/i/ixion.md) | 4.60 | 
 | 348 | [NORCO](games/n/norco.md) | 4.60 | 
-| 371 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 371 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 371 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
-| 371 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
-| 371 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.59 | 
-| 371 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 371 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
-| 371 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
-| 371 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
-| 371 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
-| 371 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
-| 371 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
-| 371 | [Little Inferno](games/l/little_inferno.md) | 4.59 | 
-| 371 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
-| 371 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
-| 371 | [High On Life](games/h/high_on_life.md) | 4.59 | 
-| 371 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
-| 371 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
+| 372 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 372 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 372 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
+| 372 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.59 | 
+| 372 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 372 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
+| 372 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 372 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
+| 372 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
+| 372 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
+| 372 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
+| 372 | [Little Inferno](games/l/little_inferno.md) | 4.59 | 
+| 372 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
+| 372 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
+| 372 | [High On Life](games/h/high_on_life.md) | 4.59 | 
+| 372 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
+| 372 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 389 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
 | 389 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 389 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -488,17 +488,17 @@
 | 479 | [Aztez](games/a/aztez.md) | 4.52 | 
 | 479 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 479 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 479 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
 | 479 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 490 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 490 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 490 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 490 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 490 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 490 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 490 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
-| 490 | [The Surge](games/t/the_surge.md) | 4.51 | 
-| 490 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 490 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
+| 491 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 491 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 491 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 491 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 491 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 491 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 491 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
+| 491 | [The Surge](games/t/the_surge.md) | 4.51 | 
+| 491 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 500 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 500 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 500 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
