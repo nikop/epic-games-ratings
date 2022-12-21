@@ -40,17 +40,17 @@
 | 35 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
 | 35 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
 | 35 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
+| 35 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.85 | 
 | 35 | [The Last Campfire](games/t/the_last_campfire.md) | 4.85 | 
 | 35 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
 | 35 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
-| 44 | [Subnautica](games/s/subnautica.md) | 4.84 | 
-| 44 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
-| 44 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
-| 44 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 44 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
-| 44 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.84 | 
-| 44 | [Huntdown](games/h/huntdown.md) | 4.84 | 
-| 44 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.84 | 
+| 45 | [Subnautica](games/s/subnautica.md) | 4.84 | 
+| 45 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
+| 45 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
+| 45 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
+| 45 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.84 | 
+| 45 | [Huntdown](games/h/huntdown.md) | 4.84 | 
+| 45 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.84 | 
 | 52 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 52 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
 | 52 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
@@ -398,6 +398,7 @@
 | 389 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 389 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 389 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
+| 389 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
 | 389 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 389 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 
 | 389 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
@@ -405,18 +406,17 @@
 | 389 | [RiME](games/r/rime.md) | 4.58 | 
 | 389 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 389 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
-| 406 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 406 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 406 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 406 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
-| 406 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.57 | 
-| 406 | [Moving Out](games/m/moving_out.md) | 4.57 | 
-| 406 | [Hob](games/h/hob.md) | 4.57 | 
-| 406 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 406 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
-| 406 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
-| 406 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
-| 406 | [The Medium](games/t/the_medium.md) | 4.57 | 
+| 407 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 407 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 407 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 407 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 407 | [Moving Out](games/m/moving_out.md) | 4.57 | 
+| 407 | [Hob](games/h/hob.md) | 4.57 | 
+| 407 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 407 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
+| 407 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
+| 407 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
+| 407 | [The Medium](games/t/the_medium.md) | 4.57 | 
 | 418 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 418 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 418 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
