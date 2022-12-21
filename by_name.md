@@ -215,7 +215,7 @@
 | 213 | [Everything](games/e/everything.md) | 4.62 | 
 | 214 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 215 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 216 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
+| 216 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
 | 217 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
 | 218 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 219 | [Faeria](games/f/faeria.md) | 4.43 | 
