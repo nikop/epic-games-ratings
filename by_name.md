@@ -255,7 +255,7 @@
 | 253 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 254 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 255 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
-| 256 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
+| 256 | [Fort Triumph](games/f/fort_triumph.md) | 4.07 | 
 | 257 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 258 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.67 | 
 | 259 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
