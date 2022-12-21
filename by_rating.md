@@ -597,26 +597,26 @@
 | 594 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 594 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 594 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 594 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
 | 594 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 
 | 594 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 594 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 594 | [The Silent Age](games/t/the_silent_age.md) | 4.42 | 
 | 594 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.42 | 
-| 603 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 603 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 
-| 603 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 603 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
-| 603 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
-| 603 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
-| 603 | [ELEX](games/e/elex.md) | 4.41 | 
-| 603 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 603 | [RiMS Racing](games/r/rims_racing.md) | 4.41 | 
-| 603 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 603 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 603 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 603 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 603 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
-| 603 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
+| 604 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 604 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 
+| 604 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
+| 604 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
+| 604 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
+| 604 | [ELEX](games/e/elex.md) | 4.41 | 
+| 604 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 604 | [RiMS Racing](games/r/rims_racing.md) | 4.41 | 
+| 604 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 604 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
+| 604 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 604 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 604 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
+| 604 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
 | 618 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
 | 618 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 618 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
@@ -684,12 +684,12 @@
 | 677 | [Ashen](games/a/ashen.md) | 4.34 | 
 | 677 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
 | 677 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 685 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 
-| 686 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
-| 686 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
-| 686 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
-| 686 | [Filament](games/f/filament.md) | 4.32 | 
-| 686 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.32 | 
+| 685 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
+| 685 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
+| 685 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
+| 685 | [Filament](games/f/filament.md) | 4.32 | 
+| 685 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.32 | 
+| 685 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
 | 691 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 691 | [Vampyr](games/v/vampyr.md) | 4.31 | 
 | 691 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
