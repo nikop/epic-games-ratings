@@ -308,7 +308,7 @@
 | 306 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 307 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 308 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 309 | [High On Life](games/h/high_on_life.md) | 4.59 | 
+| 309 | [High On Life](games/h/high_on_life.md) | 4.63 | 
 | 310 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 311 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 312 | [Hob](games/h/hob.md) | 4.57 | 
@@ -344,7 +344,7 @@
 | 342 | [Isonzo](games/i/isonzo.md) | 4.58 | 
 | 343 | [IXION](games/i/ixion.md) | 4.60 | 
 | 344 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
-| 345 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.42 | 
+| 345 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 346 | [Journey](games/j/journey.md) | 4.79 | 
 | 347 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
 | 348 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
@@ -510,7 +510,7 @@
 | 508 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 509 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
 | 510 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 511 | [Quake](games/q/quake.md) | 4.78 | 
+| 511 | [Quake](games/q/quake.md) | 4.79 | 
 | 512 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 513 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 514 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
