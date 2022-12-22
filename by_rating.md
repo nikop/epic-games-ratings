@@ -582,17 +582,17 @@
 | 576 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 576 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
 | 576 | [Train Valley](games/t/train_valley.md) | 4.44 | 
-| 583 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 583 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
-| 583 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 583 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 583 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 583 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
-| 583 | [Faeria](games/f/faeria.md) | 4.43 | 
-| 583 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
-| 583 | [Far Cry](games/f/far_cry.md) | 4.43 | 
-| 583 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
-| 583 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
+| 576 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.44 | 
+| 584 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 584 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
+| 584 | [Sheltered](games/s/sheltered.md) | 4.43 | 
+| 584 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 584 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 584 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
+| 584 | [Faeria](games/f/faeria.md) | 4.43 | 
+| 584 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
+| 584 | [Far Cry](games/f/far_cry.md) | 4.43 | 
+| 584 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 594 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 594 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 594 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
@@ -748,15 +748,15 @@
 | 746 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 746 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
 | 746 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
-| 746 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 746 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 751 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 751 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 751 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 751 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 751 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 751 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 751 | [Fangs](games/f/fangs.md) | 4.20 | 
+| 750 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 750 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 750 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 750 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 750 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 750 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 750 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
+| 750 | [Fangs](games/f/fangs.md) | 4.20 | 
 | 758 | [Windbound](games/w/windbound.md) | 4.19 | 
 | 758 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 758 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 

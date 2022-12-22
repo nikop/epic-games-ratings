@@ -1,5 +1,5 @@
 # Saints Row IV Re-Elected
-Rating: 4.43 (-)  (as of 23.09.2022)  
+Rating: 4.44 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -9,3 +9,4 @@ Rating: 4.43 (-)  (as of 23.09.2022)
 | 2022-12-15 | 4.44 | - |
 | 2022-12-18 | 4.43 | - |
 | 2022-12-20 | 4.43 | - |
+| 2022-12-22 | 4.44 | - |
