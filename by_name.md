@@ -224,7 +224,7 @@
 | 222 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 223 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
 | 224 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 225 | [Fangs](games/f/fangs.md) | 4.20 | 
+| 225 | [Fangs](games/f/fangs.md) | 4.23 | 
 | 226 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 227 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.22 | 
 | 228 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
@@ -268,7 +268,7 @@
 | 266 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
 | 267 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 268 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 269 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
+| 269 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.53 | 
 | 270 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 271 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
 | 272 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
@@ -395,7 +395,7 @@
 | 393 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
 | 394 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
 | 395 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.69 | 
-| 396 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 396 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 397 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 398 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 399 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
@@ -490,7 +490,7 @@
 | 488 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 489 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 490 | [Pathway](games/p/pathway.md) | 4.46 | 
-| 491 | [Patron](games/p/patron.md) | 3.92 | 
+| 491 | [Patron](games/p/patron.md) | 3.94 | 
 | 492 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 493 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 494 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
@@ -790,7 +790,7 @@
 | 788 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 789 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
 | 790 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
-| 791 | [Warface](games/w/warface.md) | 3.91 | 
+| 791 | [Warface](games/w/warface.md) | 3.92 | 
 | 792 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 793 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 794 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 

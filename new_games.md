@@ -9,4 +9,4 @@
 | 7 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.14 | 
 | 8 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.47 | 
 | 9 | [Predecessor](games/p/predecessor.md) | 4.37 | 
-| 10 | [Fangs](games/f/fangs.md) | 4.20 | 
+| 10 | [Fangs](games/f/fangs.md) | 4.23 | 
