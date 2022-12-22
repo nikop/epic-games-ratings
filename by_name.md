@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.60 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -200,7 +200,7 @@
 | 198 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
 | 199 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 200 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 201 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
+| 201 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 202 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 203 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.72 | 
 | 204 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -294,7 +294,7 @@
 | 292 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 293 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 294 | [Hades](games/h/hades.md) | 4.92 | 
-| 295 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 295 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 296 | [Hammerting](games/h/hammerting.md) | 4.36 | 
 | 297 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
 | 298 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
@@ -508,7 +508,7 @@
 | 506 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 507 | [Prey](games/p/prey.md) | 4.61 | 
 | 508 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 509 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.04 | 
+| 509 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
 | 510 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 511 | [Quake](games/q/quake.md) | 4.79 | 
 | 512 | [Rage 2](games/r/rage_2.md) | 4.29 | 
@@ -570,7 +570,7 @@
 | 568 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
 | 569 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 570 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
-| 571 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
+| 571 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 572 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 573 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
 | 574 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
@@ -613,7 +613,7 @@
 | 611 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 612 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
 | 613 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
-| 614 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.80 | 
+| 614 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
 | 615 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
 | 616 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
 | 617 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
@@ -627,7 +627,7 @@
 | 625 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
 | 626 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
 | 627 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 628 | [Steelrising](games/s/steelrising.md) | 4.26 | 
+| 628 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 629 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
 | 630 | [STG Football](games/s/stg_football.md) | 4.56 | 
 | 631 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
