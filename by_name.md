@@ -200,7 +200,7 @@
 | 198 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
 | 199 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 200 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 201 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
+| 201 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 202 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 203 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.72 | 
 | 204 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -482,7 +482,7 @@
 | 480 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 481 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 482 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 483 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.28 | 
+| 483 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
 | 484 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 485 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 486 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.32 | 
@@ -784,7 +784,7 @@
 | 782 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
 | 783 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 784 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
-| 785 | [Vampyr](games/v/vampyr.md) | 4.31 | 
+| 785 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 786 | [Verdun](games/v/verdun.md) | 4.53 | 
 | 787 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 788 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 

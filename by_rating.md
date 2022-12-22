@@ -684,19 +684,19 @@
 | 678 | [Ashen](games/a/ashen.md) | 4.34 | 
 | 678 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
 | 678 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
+| 685 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 685 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
 | 685 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
 | 685 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
 | 685 | [Filament](games/f/filament.md) | 4.32 | 
 | 685 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.32 | 
 | 685 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
-| 691 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
-| 691 | [Vampyr](games/v/vampyr.md) | 4.31 | 
-| 691 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 691 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
-| 691 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 
-| 691 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
-| 691 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
+| 692 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 692 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 692 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
+| 692 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 
+| 692 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
+| 692 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
 | 698 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 698 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 698 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
@@ -712,9 +712,9 @@
 | 703 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
 | 711 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
 | 711 | [Dark Light](games/d/dark_light.md) | 4.28 | 
-| 711 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.28 | 
-| 714 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
-| 714 | [Parkitect](games/p/parkitect.md) | 4.27 | 
+| 713 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
+| 713 | [Parkitect](games/p/parkitect.md) | 4.27 | 
+| 713 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
 | 716 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 716 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 716 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
@@ -748,15 +748,15 @@
 | 746 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 746 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
 | 746 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
+| 746 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 746 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 750 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 750 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 750 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 750 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 750 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 750 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 750 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
-| 750 | [Fangs](games/f/fangs.md) | 4.20 | 
+| 751 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 751 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 751 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 751 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 751 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 751 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 751 | [Fangs](games/f/fangs.md) | 4.20 | 
 | 758 | [Windbound](games/w/windbound.md) | 4.19 | 
 | 758 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 758 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
