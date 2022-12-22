@@ -776,10 +776,10 @@
 | 773 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
 | 773 | [The Guild 3](games/t/the_guild_3.md) | 4.15 | 
 | 773 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 773 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 
-| 778 | [Pine](games/p/pine.md) | 4.14 | 
-| 778 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
-| 778 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.14 | 
+| 777 | [Pine](games/p/pine.md) | 4.14 | 
+| 777 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
+| 777 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.14 | 
+| 777 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.14 | 
 | 781 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 781 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 783 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
@@ -807,9 +807,9 @@
 | 804 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 806 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 806 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.04 | 
-| 808 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 808 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 
-| 808 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
+| 806 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.04 | 
+| 809 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
+| 809 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 
 | 811 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 811 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
 | 811 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 4.00 | 
@@ -820,11 +820,11 @@
 | 818 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
 | 818 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.94 | 
 | 820 | [Conarium](games/c/conarium.md) | 3.93 | 
-| 821 | [Warface](games/w/warface.md) | 3.92 | 
 | 821 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 821 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 821 | [Patron](games/p/patron.md) | 3.92 | 
-| 825 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 824 | [Warface](games/w/warface.md) | 3.91 | 
+| 824 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 826 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.88 | 
 | 827 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 828 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 

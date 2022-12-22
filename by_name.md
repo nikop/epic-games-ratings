@@ -508,7 +508,7 @@
 | 506 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 507 | [Prey](games/p/prey.md) | 4.61 | 
 | 508 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 509 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
+| 509 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.04 | 
 | 510 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 511 | [Quake](games/q/quake.md) | 4.79 | 
 | 512 | [Rage 2](games/r/rage_2.md) | 4.29 | 
@@ -670,7 +670,7 @@
 | 668 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 669 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 670 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 671 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 
+| 671 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.14 | 
 | 672 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 673 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 674 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
@@ -790,7 +790,7 @@
 | 788 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 789 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
 | 790 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
-| 791 | [Warface](games/w/warface.md) | 3.92 | 
+| 791 | [Warface](games/w/warface.md) | 3.91 | 
 | 792 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 793 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 794 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
