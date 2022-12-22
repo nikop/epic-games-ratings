@@ -10,7 +10,7 @@
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.63 | 
-| 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 
+| 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
@@ -185,7 +185,7 @@
 | 183 | [Diabotical](games/d/diabotical.md) | 4.76 | 
 | 184 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 185 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
-| 186 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 186 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 187 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 188 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 189 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 
@@ -272,7 +272,7 @@
 | 270 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 271 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
 | 272 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 273 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 
+| 273 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 274 | [GigaBash](games/g/gigabash.md) | 4.61 | 
 | 275 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
 | 276 | [GNOG](games/g/gnog.md) | 4.64 | 
@@ -335,7 +335,7 @@
 | 333 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 334 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 335 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 336 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 336 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 
 | 337 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 338 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 339 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
