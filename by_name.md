@@ -658,7 +658,7 @@
 | 656 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 657 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.68 | 
 | 658 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 659 | [Tacoma](games/t/tacoma.md) | 4.39 | 
+| 659 | [Tacoma](games/t/tacoma.md) | 4.40 | 
 | 660 | [Tails of Iron](games/t/tails_of_iron.md) | 4.70 | 
 | 661 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 662 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
@@ -780,7 +780,7 @@
 | 778 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.53 | 
 | 779 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 780 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 781 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 781 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.83 | 
 | 782 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
 | 783 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 784 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
