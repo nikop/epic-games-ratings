@@ -47,7 +47,7 @@
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.55 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
@@ -553,7 +553,7 @@
 | 551 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 552 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 553 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 554 | [Sable](games/s/sable.md) | 4.50 | 
+| 554 | [Sable](games/s/sable.md) | 4.51 | 
 | 555 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
 | 556 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 557 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.44 | 
@@ -690,7 +690,7 @@
 | 688 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 
 | 689 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.84 | 
 | 690 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 691 | [The Last Campfire](games/t/the_last_campfire.md) | 4.85 | 
+| 691 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 
 | 692 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
 | 693 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
 | 694 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
@@ -724,7 +724,7 @@
 | 722 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 723 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 724 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 725 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.63 | 
+| 725 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.65 | 
 | 726 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
 | 727 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 728 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
