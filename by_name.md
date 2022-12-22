@@ -145,7 +145,7 @@
 | 143 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 144 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
 | 145 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
-| 146 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 
+| 146 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
 | 147 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 148 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 149 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
@@ -755,7 +755,7 @@
 | 753 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 754 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 
 | 755 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 
-| 756 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 756 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
 | 757 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 758 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
 | 759 | [Transistor](games/t/transistor.md) | 4.63 | 
