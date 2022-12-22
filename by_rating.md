@@ -736,42 +736,42 @@
 | 734 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 734 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 734 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
-| 734 | [Fangs](games/f/fangs.md) | 4.23 | 
 | 734 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 734 | [Saturnalia](games/s/saturnalia.md) | 4.23 | 
-| 740 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
-| 740 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
-| 740 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
-| 740 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.22 | 
-| 740 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.22 | 
-| 740 | [Starsand](games/s/starsand.md) | 4.22 | 
-| 740 | [Somerville](games/s/somerville.md) | 4.22 | 
-| 747 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
-| 747 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
-| 747 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
-| 747 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
-| 747 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 752 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 752 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 752 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 752 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 752 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 752 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 758 | [Windbound](games/w/windbound.md) | 4.19 | 
-| 758 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 758 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
-| 758 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 758 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
-| 758 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 758 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
-| 765 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 765 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.18 | 
-| 767 | [Space Punks](games/s/space_punks.md) | 4.17 | 
-| 767 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
-| 769 | [Gone Home](games/g/gone_home.md) | 4.16 | 
-| 769 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 769 | [Submerged](games/s/submerged.md) | 4.16 | 
-| 769 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 739 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 739 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
+| 739 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
+| 739 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.22 | 
+| 739 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.22 | 
+| 739 | [Starsand](games/s/starsand.md) | 4.22 | 
+| 739 | [Somerville](games/s/somerville.md) | 4.22 | 
+| 746 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
+| 746 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
+| 746 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
+| 746 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
+| 746 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
+| 751 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 751 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 751 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 751 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 751 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 751 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 757 | [Windbound](games/w/windbound.md) | 4.19 | 
+| 757 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 757 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
+| 757 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
+| 757 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
+| 757 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 757 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
+| 764 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 764 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.18 | 
+| 766 | [Space Punks](games/s/space_punks.md) | 4.17 | 
+| 766 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
+| 768 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 768 | [Family Man](games/f/family_man.md) | 4.16 | 
+| 768 | [Submerged](games/s/submerged.md) | 4.16 | 
+| 768 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 768 | [Fangs](games/f/fangs.md) | 4.16 | 
 | 773 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 773 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
 | 773 | [The Guild 3](games/t/the_guild_3.md) | 4.15 | 

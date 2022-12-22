@@ -224,7 +224,7 @@
 | 222 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 223 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
 | 224 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 225 | [Fangs](games/f/fangs.md) | 4.23 | 
+| 225 | [Fangs](games/f/fangs.md) | 4.16 | 
 | 226 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 227 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.22 | 
 | 228 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
