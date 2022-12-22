@@ -302,7 +302,7 @@
 | 300 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 301 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 302 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 303 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.65 | 
+| 303 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.56 | 
 | 304 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
 | 305 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 306 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
@@ -405,7 +405,7 @@
 | 403 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 404 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.18 | 
 | 405 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
-| 406 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.47 | 
+| 406 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.48 | 
 | 407 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 408 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 409 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
