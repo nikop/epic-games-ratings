@@ -200,7 +200,7 @@
 | 198 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
 | 199 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 200 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 201 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
+| 201 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 202 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 203 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.72 | 
 | 204 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -405,7 +405,7 @@
 | 403 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 404 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.18 | 
 | 405 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
-| 406 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.48 | 
+| 406 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.47 | 
 | 407 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 408 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 409 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
@@ -527,7 +527,7 @@
 | 525 | [Redout 2](games/r/redout_2.md) | 4.54 | 
 | 526 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 527 | [Relicta](games/r/relicta.md) | 4.15 | 
-| 528 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
+| 528 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.59 | 
 | 529 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 530 | [Revita](games/r/revita.md) | 4.74 | 
 | 531 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
@@ -724,7 +724,7 @@
 | 722 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 723 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 724 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 725 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.65 | 
+| 725 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.63 | 
 | 726 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
 | 727 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 728 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
