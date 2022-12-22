@@ -178,7 +178,7 @@
 | 176 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 177 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 178 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
-| 179 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 179 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 180 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
 | 181 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 182 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -222,9 +222,9 @@
 | 220 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 221 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.84 | 
 | 222 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 223 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.72 | 
+| 223 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.70 | 
 | 224 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 225 | [Fangs](games/f/fangs.md) | 4.16 | 
+| 225 | [Fangs](games/f/fangs.md) | 4.23 | 
 | 226 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 227 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.22 | 
 | 228 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
@@ -284,7 +284,7 @@
 | 282 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
 | 283 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 284 | [Gone Home](games/g/gone_home.md) | 4.16 | 
-| 285 | [Good Company](games/g/good_company.md) | 4.45 | 
+| 285 | [Good Company](games/g/good_company.md) | 4.44 | 
 | 286 | [Gotham Knights](games/g/gotham_knights.md) | 4.24 | 
 | 287 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 288 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
@@ -612,7 +612,7 @@
 | 610 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 611 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 612 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
-| 613 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
+| 613 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.42 | 
 | 614 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
 | 615 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
 | 616 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
