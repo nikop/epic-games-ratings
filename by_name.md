@@ -50,7 +50,7 @@
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
-| 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
+| 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.40 | 
@@ -261,7 +261,7 @@
 | 259 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 260 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 261 | [FUSER™](games/f/fuser™.md) | 4.73 | 
-| 262 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.19 | 
+| 262 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 263 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 264 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
 | 265 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
@@ -670,7 +670,7 @@
 | 668 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 669 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 670 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 671 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.14 | 
+| 671 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 
 | 672 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 673 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 674 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 

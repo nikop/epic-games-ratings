@@ -350,7 +350,6 @@
 | 331 | [GigaBash](games/g/gigabash.md) | 4.61 | 
 | 349 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 349 | [Control](games/c/control.md) | 4.60 | 
-| 349 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 349 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
 | 349 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 349 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
@@ -372,22 +371,23 @@
 | 349 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 349 | [IXION](games/i/ixion.md) | 4.60 | 
 | 349 | [NORCO](games/n/norco.md) | 4.60 | 
-| 373 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 373 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 373 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
-| 373 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.59 | 
-| 373 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 373 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
-| 373 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
-| 373 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
-| 373 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
-| 373 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
-| 373 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
-| 373 | [Little Inferno](games/l/little_inferno.md) | 4.59 | 
-| 373 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
-| 373 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
-| 373 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
-| 373 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
+| 372 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 372 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 372 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
+| 372 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
+| 372 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.59 | 
+| 372 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 372 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
+| 372 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 372 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
+| 372 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
+| 372 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
+| 372 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
+| 372 | [Little Inferno](games/l/little_inferno.md) | 4.59 | 
+| 372 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
+| 372 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
+| 372 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
+| 372 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 389 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
 | 389 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 389 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -753,17 +753,17 @@
 | 751 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 751 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 751 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 751 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 751 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 751 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 751 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 751 | [Fangs](games/f/fangs.md) | 4.20 | 
-| 758 | [Windbound](games/w/windbound.md) | 4.19 | 
-| 758 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 758 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.19 | 
-| 758 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 758 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
-| 758 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 758 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
+| 759 | [Windbound](games/w/windbound.md) | 4.19 | 
+| 759 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 759 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
+| 759 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
+| 759 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 759 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 765 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 765 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.18 | 
 | 767 | [Space Punks](games/s/space_punks.md) | 4.17 | 
@@ -776,10 +776,10 @@
 | 773 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
 | 773 | [The Guild 3](games/t/the_guild_3.md) | 4.15 | 
 | 773 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 777 | [Pine](games/p/pine.md) | 4.14 | 
-| 777 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
-| 777 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.14 | 
-| 777 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.14 | 
+| 773 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 
+| 778 | [Pine](games/p/pine.md) | 4.14 | 
+| 778 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
+| 778 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.14 | 
 | 781 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 781 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 783 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
