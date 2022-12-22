@@ -50,7 +50,7 @@
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
-| 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
+| 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.40 | 
@@ -184,7 +184,7 @@
 | 182 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 183 | [Diabotical](games/d/diabotical.md) | 4.76 | 
 | 184 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 185 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
+| 185 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
 | 186 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 187 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 188 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
@@ -449,7 +449,7 @@
 | 447 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 448 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
 | 449 | [NORCO](games/n/norco.md) | 4.60 | 
-| 450 | [Northgard](games/n/northgard.md) | 4.70 | 
+| 450 | [Northgard](games/n/northgard.md) | 4.71 | 
 | 451 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
 | 452 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 453 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
@@ -504,7 +504,7 @@
 | 502 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 503 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
 | 504 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 505 | [Predecessor](games/p/predecessor.md) | 4.37 | 
+| 505 | [Predecessor](games/p/predecessor.md) | 4.38 | 
 | 506 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
 | 507 | [Prey](games/p/prey.md) | 4.61 | 
 | 508 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -629,7 +629,7 @@
 | 627 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 628 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 629 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
-| 630 | [STG Football](games/s/stg_football.md) | 4.56 | 
+| 630 | [STG Football](games/s/stg_football.md) | 4.57 | 
 | 631 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 632 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 633 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
@@ -659,7 +659,7 @@
 | 657 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.68 | 
 | 658 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 659 | [Tacoma](games/t/tacoma.md) | 4.40 | 
-| 660 | [Tails of Iron](games/t/tails_of_iron.md) | 4.70 | 
+| 660 | [Tails of Iron](games/t/tails_of_iron.md) | 4.71 | 
 | 661 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 662 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 663 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
