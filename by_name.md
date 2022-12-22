@@ -13,7 +13,7 @@
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
-| 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
+| 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.67 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
@@ -335,7 +335,7 @@
 | 333 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 334 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 335 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 336 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 
+| 336 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
 | 337 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 338 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 339 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
@@ -414,7 +414,7 @@
 | 412 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 413 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 414 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
-| 415 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 415 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
 | 416 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
 | 417 | [Minit](games/m/minit.md) | 4.54 | 
 | 418 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.88 | 
@@ -810,7 +810,7 @@
 | 808 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 809 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 810 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 811 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.94 | 
+| 811 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.95 | 
 | 812 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 813 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 814 | [Windbound](games/w/windbound.md) | 4.19 | 
@@ -823,7 +823,7 @@
 | 821 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 822 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
 | 823 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
-| 824 | [WRC Generations](games/w/wrc_generations.md) | 4.48 | 
+| 824 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 
 | 825 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
 | 826 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 827 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
