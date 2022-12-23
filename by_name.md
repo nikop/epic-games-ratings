@@ -308,7 +308,7 @@
 | 306 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 307 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 308 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 309 | [High On Life](games/h/high_on_life.md) | 4.63 | 
+| 309 | [High On Life](games/h/high_on_life.md) | 4.65 | 
 | 310 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 311 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 312 | [Hob](games/h/hob.md) | 4.57 | 
@@ -553,7 +553,7 @@
 | 551 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 552 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 553 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 554 | [Sable](games/s/sable.md) | 4.51 | 
+| 554 | [Sable](games/s/sable.md) | 4.52 | 
 | 555 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
 | 556 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 557 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.44 | 
