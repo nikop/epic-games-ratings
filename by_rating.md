@@ -146,6 +146,7 @@
 | 144 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 144 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 144 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
+| 144 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 144 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 144 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 144 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
@@ -157,19 +158,18 @@
 | 144 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
 | 144 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 144 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 158 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 158 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 158 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 158 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
-| 158 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 158 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
-| 158 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
-| 158 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 158 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
-| 158 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 158 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
-| 158 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.72 | 
-| 158 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
+| 159 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 159 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 159 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
+| 159 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 159 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
+| 159 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
+| 159 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 159 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
+| 159 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 159 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
+| 159 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.72 | 
+| 159 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
 | 171 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 171 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 171 | [House Flipper](games/h/house_flipper.md) | 4.71 | 

@@ -626,7 +626,7 @@
 | 624 | [Starsand](games/s/starsand.md) | 4.22 | 
 | 625 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
 | 626 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
-| 627 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 627 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 628 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 629 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
 | 630 | [STG Football](games/s/stg_football.md) | 4.57 | 
