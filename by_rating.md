@@ -142,22 +142,22 @@
 | 130 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
 | 130 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
 | 130 | [Revita](games/r/revita.md) | 4.74 | 
+| 130 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 130 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
-| 144 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 144 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 144 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
-| 144 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 144 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 144 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 144 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 144 | [FUSER™](games/f/fuser™.md) | 4.73 | 
-| 144 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
-| 144 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
-| 144 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
-| 144 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
-| 144 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
-| 144 | [Outlast](games/o/outlast.md) | 4.73 | 
-| 144 | [Suzerain](games/s/suzerain.md) | 4.73 | 
+| 145 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 145 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 145 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
+| 145 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 145 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 145 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 145 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 145 | [FUSER™](games/f/fuser™.md) | 4.73 | 
+| 145 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
+| 145 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
+| 145 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
+| 145 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
+| 145 | [Outlast](games/o/outlast.md) | 4.73 | 
+| 145 | [Suzerain](games/s/suzerain.md) | 4.73 | 
 | 159 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 159 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 159 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
@@ -537,18 +537,18 @@
 | 519 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.49 | 
 | 536 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 536 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 536 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
 | 536 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
 | 536 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
-| 540 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 540 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 540 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
-| 540 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
-| 540 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 540 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 540 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
-| 540 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
-| 540 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 540 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 
+| 541 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 541 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 541 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
+| 541 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
+| 541 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
+| 541 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
+| 541 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
+| 541 | [Scorn](games/s/scorn.md) | 4.47 | 
+| 541 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 
 | 550 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 550 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 550 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
@@ -775,11 +775,11 @@
 | 773 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 773 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
 | 773 | [The Guild 3](games/t/the_guild_3.md) | 4.15 | 
+| 773 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.15 | 
 | 773 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 773 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 
-| 778 | [Pine](games/p/pine.md) | 4.14 | 
-| 778 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
-| 778 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.14 | 
+| 779 | [Pine](games/p/pine.md) | 4.14 | 
+| 779 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 781 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
 | 781 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 781 | [Flatout](games/f/flatout.md) | 4.13 | 
