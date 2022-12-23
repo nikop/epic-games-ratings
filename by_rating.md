@@ -343,32 +343,32 @@
 | 330 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 
 | 330 | [20XX](games/2/20xx.md) | 4.61 | 
 | 330 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 330 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
 | 330 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
 | 330 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 330 | [GigaBash](games/g/gigabash.md) | 4.61 | 
-| 347 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
-| 347 | [Control](games/c/control.md) | 4.60 | 
-| 347 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
-| 347 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 347 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 347 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
-| 347 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 347 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
-| 347 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 347 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 347 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
-| 347 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
-| 347 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.60 | 
-| 347 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.60 | 
-| 347 | [Road 96](games/r/road_96.md) | 4.60 | 
-| 347 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
-| 347 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
-| 347 | [Breathedge](games/b/breathedge.md) | 4.60 | 
-| 347 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.60 | 
-| 347 | [GRIME](games/g/grime.md) | 4.60 | 
-| 347 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 347 | [NORCO](games/n/norco.md) | 4.60 | 
-| 347 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.60 | 
+| 348 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
+| 348 | [Control](games/c/control.md) | 4.60 | 
+| 348 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
+| 348 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 348 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 348 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
+| 348 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
+| 348 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
+| 348 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 348 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 348 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
+| 348 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
+| 348 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.60 | 
+| 348 | [Road 96](games/r/road_96.md) | 4.60 | 
+| 348 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
+| 348 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
+| 348 | [Breathedge](games/b/breathedge.md) | 4.60 | 
+| 348 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.60 | 
+| 348 | [GRIME](games/g/grime.md) | 4.60 | 
+| 348 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
+| 348 | [NORCO](games/n/norco.md) | 4.60 | 
+| 348 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.60 | 
 | 370 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 370 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 370 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
@@ -531,16 +531,16 @@
 | 520 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.49 | 
 | 520 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 520 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 520 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 520 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 520 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 520 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 536 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 536 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 536 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
-| 536 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
-| 536 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.48 | 
-| 536 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
+| 535 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 535 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 535 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
+| 535 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
+| 535 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
+| 535 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.48 | 
+| 535 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 542 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 542 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 542 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
