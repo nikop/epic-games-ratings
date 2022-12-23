@@ -104,18 +104,18 @@
 | 101 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 101 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 101 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
+| 101 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
 | 101 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 101 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 101 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
-| 108 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 108 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 108 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 108 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 108 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 108 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
-| 108 | [Haven](games/h/haven.md) | 4.76 | 
-| 108 | [Dishonored 2](games/d/dishonored_2.md) | 4.76 | 
-| 108 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
+| 109 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 109 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 109 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 109 | [Diabotical](games/d/diabotical.md) | 4.76 | 
+| 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 109 | [Haven](games/h/haven.md) | 4.76 | 
+| 109 | [Dishonored 2](games/d/dishonored_2.md) | 4.76 | 
+| 109 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
 | 117 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 117 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 117 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
@@ -539,6 +539,7 @@
 | 535 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
 | 535 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.48 | 
 | 535 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
+| 540 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 540 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 540 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 540 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
@@ -549,18 +550,17 @@
 | 540 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 540 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 540 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 
-| 550 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 550 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 550 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 550 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
-| 550 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 550 | [Pathway](games/p/pathway.md) | 4.46 | 
-| 550 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 550 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
-| 550 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
-| 550 | [Figment](games/f/figment.md) | 4.46 | 
-| 550 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
-| 550 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 551 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 551 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 551 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 551 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
+| 551 | [Pathway](games/p/pathway.md) | 4.46 | 
+| 551 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 551 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
+| 551 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
+| 551 | [Figment](games/f/figment.md) | 4.46 | 
+| 551 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
+| 551 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 562 | [SMITE](games/s/smite.md) | 4.45 | 
 | 562 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 562 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
