@@ -222,7 +222,6 @@
 | 218 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 218 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 218 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 218 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
 | 218 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 218 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
 | 218 | [Overcooked](games/o/overcooked.md) | 4.68 | 
@@ -233,25 +232,26 @@
 | 218 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 218 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.68 | 
 | 218 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
-| 234 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 234 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 234 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 234 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 234 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 234 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 234 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 234 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.67 | 
-| 234 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
-| 234 | [CARRION](games/c/carrion.md) | 4.67 | 
-| 234 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
-| 234 | [Rogue Lords](games/r/rogue_lords.md) | 4.67 | 
-| 234 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.67 | 
-| 234 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 234 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
-| 234 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
-| 234 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
-| 234 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.67 | 
-| 234 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
+| 233 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 233 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 233 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 233 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 233 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
+| 233 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 233 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 233 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 233 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.67 | 
+| 233 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
+| 233 | [CARRION](games/c/carrion.md) | 4.67 | 
+| 233 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
+| 233 | [Rogue Lords](games/r/rogue_lords.md) | 4.67 | 
+| 233 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.67 | 
+| 233 | [Eastward](games/e/eastward.md) | 4.67 | 
+| 233 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
+| 233 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
+| 233 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
+| 233 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.67 | 
+| 233 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
 | 253 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 253 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 253 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
