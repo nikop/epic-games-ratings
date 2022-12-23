@@ -316,6 +316,7 @@
 | 313 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 313 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 313 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 313 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.62 | 
 | 313 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 313 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 313 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
@@ -326,24 +327,23 @@
 | 313 | [Everything](games/e/everything.md) | 4.62 | 
 | 313 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.62 | 
 | 313 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 327 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 327 | [Prey](games/p/prey.md) | 4.61 | 
-| 327 | [Warframe](games/w/warframe.md) | 4.61 | 
-| 327 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
-| 327 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
-| 327 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 327 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 327 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 327 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 327 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
-| 327 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 327 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 
-| 327 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 327 | [20XX](games/2/20xx.md) | 4.61 | 
-| 327 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 327 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
-| 327 | [Darkwood](games/d/darkwood.md) | 4.61 | 
-| 327 | [GigaBash](games/g/gigabash.md) | 4.61 | 
+| 328 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 328 | [Prey](games/p/prey.md) | 4.61 | 
+| 328 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 328 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
+| 328 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
+| 328 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 328 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 328 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 328 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 328 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 328 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 328 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 
+| 328 | [20XX](games/2/20xx.md) | 4.61 | 
+| 328 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 328 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
+| 328 | [Darkwood](games/d/darkwood.md) | 4.61 | 
+| 328 | [GigaBash](games/g/gigabash.md) | 4.61 | 
 | 345 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 345 | [Control](games/c/control.md) | 4.60 | 
 | 345 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
@@ -487,19 +487,19 @@
 | 477 | [Sable](games/s/sable.md) | 4.52 | 
 | 477 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 477 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 477 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
 | 477 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 477 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
-| 490 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 490 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 490 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 490 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 490 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 490 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
-| 490 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 490 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
-| 490 | [The Surge](games/t/the_surge.md) | 4.51 | 
-| 490 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 490 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
+| 491 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 491 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 491 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 491 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 491 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 491 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
+| 491 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 491 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
+| 491 | [The Surge](games/t/the_surge.md) | 4.51 | 
+| 491 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 501 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 501 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 501 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
@@ -534,11 +534,11 @@
 | 519 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 519 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 519 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 535 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 535 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 535 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
-| 535 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.48 | 
-| 535 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
+| 519 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.49 | 
+| 536 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 536 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 536 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
+| 536 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 540 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 540 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 540 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -719,15 +719,15 @@
 | 717 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 717 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 717 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 717 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.26 | 
 | 717 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
 | 717 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 717 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 717 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
-| 725 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 725 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
-| 725 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
-| 725 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 
+| 724 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 724 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 724 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
+| 724 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
+| 724 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 
 | 729 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 729 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 729 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 

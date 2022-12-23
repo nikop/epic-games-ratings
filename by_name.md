@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.60 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -142,7 +142,7 @@
 | 140 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
 | 141 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 142 | [CryoFall](games/c/cryofall.md) | 4.50 | 
-| 143 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 143 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.62 | 
 | 144 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
 | 145 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
 | 146 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
@@ -405,7 +405,7 @@
 | 403 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 404 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.18 | 
 | 405 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
-| 406 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.48 | 
+| 406 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.49 | 
 | 407 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 408 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 409 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
@@ -703,7 +703,7 @@
 | 701 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 702 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 703 | [The Silent Age](games/t/the_silent_age.md) | 4.42 | 
-| 704 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.26 | 
+| 704 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 705 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 706 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
 | 707 | [The Surge](games/t/the_surge.md) | 4.51 | 
