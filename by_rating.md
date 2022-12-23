@@ -266,22 +266,22 @@
 | 253 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 253 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 253 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 267 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 267 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 267 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 267 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
-| 267 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 267 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
-| 267 | [Limbo](games/l/limbo.md) | 4.65 | 
-| 267 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 267 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
-| 267 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
-| 267 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
-| 267 | [APE OUT](games/a/ape_out.md) | 4.65 | 
-| 267 | [Card Shark](games/c/card_shark.md) | 4.65 | 
-| 267 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
-| 267 | [High On Life](games/h/high_on_life.md) | 4.65 | 
-| 267 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
+| 253 | [High On Life](games/h/high_on_life.md) | 4.66 | 
+| 268 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 268 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 268 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 268 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
+| 268 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 268 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
+| 268 | [Limbo](games/l/limbo.md) | 4.65 | 
+| 268 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 268 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 268 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
+| 268 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
+| 268 | [APE OUT](games/a/ape_out.md) | 4.65 | 
+| 268 | [Card Shark](games/c/card_shark.md) | 4.65 | 
+| 268 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
+| 268 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
 | 283 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 283 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 283 | [HITMAN](games/h/hitman.md) | 4.64 | 
