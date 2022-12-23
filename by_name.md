@@ -459,7 +459,7 @@
 | 457 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 458 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
 | 459 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 460 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.47 | 
+| 460 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
 | 461 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 462 | [Old World](games/o/old_world.md) | 4.64 | 
 | 463 | [Ooblets](games/o/ooblets.md) | 4.87 | 
@@ -763,7 +763,7 @@
 | 761 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 762 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
 | 763 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 764 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.70 | 
+| 764 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 765 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 766 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.60 | 
 | 767 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.22 | 
