@@ -107,15 +107,15 @@
 | 101 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 101 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 101 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
-| 108 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 108 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 108 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 108 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 108 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 108 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
-| 108 | [Haven](games/h/haven.md) | 4.76 | 
-| 108 | [Dishonored 2](games/d/dishonored_2.md) | 4.76 | 
-| 108 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
+| 101 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 
+| 109 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 109 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 109 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 109 | [Diabotical](games/d/diabotical.md) | 4.76 | 
+| 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
+| 109 | [Haven](games/h/haven.md) | 4.76 | 
+| 109 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
 | 117 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 117 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 117 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
@@ -262,26 +262,26 @@
 | 253 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 253 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
 | 253 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 253 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
 | 253 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 253 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 253 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 253 | [High On Life](games/h/high_on_life.md) | 4.66 | 
-| 268 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 268 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 268 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 268 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
-| 268 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 268 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
-| 268 | [Limbo](games/l/limbo.md) | 4.65 | 
-| 268 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 268 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
-| 268 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
-| 268 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
-| 268 | [APE OUT](games/a/ape_out.md) | 4.65 | 
-| 268 | [Card Shark](games/c/card_shark.md) | 4.65 | 
-| 268 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
-| 268 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
+| 267 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 267 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 267 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 267 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
+| 267 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 267 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
+| 267 | [Limbo](games/l/limbo.md) | 4.65 | 
+| 267 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 267 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.65 | 
+| 267 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 267 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
+| 267 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
+| 267 | [APE OUT](games/a/ape_out.md) | 4.65 | 
+| 267 | [Card Shark](games/c/card_shark.md) | 4.65 | 
+| 267 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
+| 267 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
 | 283 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 283 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 283 | [HITMAN](games/h/hitman.md) | 4.64 | 
@@ -544,24 +544,24 @@
 | 540 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 540 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 540 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 540 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
 | 540 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
 | 540 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
 | 540 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 540 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 540 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 
-| 551 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 551 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 551 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 551 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 551 | [Pathway](games/p/pathway.md) | 4.46 | 
-| 551 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 551 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
-| 551 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
-| 551 | [Figment](games/f/figment.md) | 4.46 | 
-| 551 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
-| 551 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
-| 551 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 550 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 550 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 550 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 550 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
+| 550 | [Pathway](games/p/pathway.md) | 4.46 | 
+| 550 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 550 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
+| 550 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
+| 550 | [Figment](games/f/figment.md) | 4.46 | 
+| 550 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
+| 550 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
+| 550 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
+| 550 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 563 | [SMITE](games/s/smite.md) | 4.45 | 
 | 563 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 563 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
@@ -780,22 +780,22 @@
 | 778 | [Pine](games/p/pine.md) | 4.14 | 
 | 778 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 778 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.14 | 
+| 781 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
 | 781 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 781 | [Flatout](games/f/flatout.md) | 4.13 | 
-| 783 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 783 | [Chernobylite](games/c/chernobylite.md) | 4.12 | 
-| 783 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
+| 784 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
+| 784 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
 | 786 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 786 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
 | 788 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 788 | [Train Valley 2](games/t/train_valley_2.md) | 4.10 | 
 | 788 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 788 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 791 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
-| 791 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
-| 791 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
-| 791 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
-| 791 | [Tharsis](games/t/tharsis.md) | 4.09 | 
-| 791 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 
+| 792 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
+| 792 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 792 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
+| 792 | [Tharsis](games/t/tharsis.md) | 4.09 | 
+| 792 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 
 | 797 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 797 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
 | 797 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
