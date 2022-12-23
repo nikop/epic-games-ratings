@@ -67,7 +67,7 @@
 | 65 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 66 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 67 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
-| 68 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 
+| 68 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 
 | 69 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.85 | 
 | 70 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 71 | [Barony](games/b/barony.md) | 4.70 | 
@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.60 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -224,7 +224,7 @@
 | 222 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 223 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.70 | 
 | 224 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 225 | [Fangs](games/f/fangs.md) | 4.23 | 
+| 225 | [Fangs](games/f/fangs.md) | 4.16 | 
 | 226 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 227 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.22 | 
 | 228 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
@@ -268,7 +268,7 @@
 | 266 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
 | 267 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 268 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 269 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.53 | 
+| 269 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.54 | 
 | 270 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 271 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
 | 272 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
@@ -553,7 +553,7 @@
 | 551 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 552 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 553 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 554 | [Sable](games/s/sable.md) | 4.52 | 
+| 554 | [Sable](games/s/sable.md) | 4.53 | 
 | 555 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.83 | 
 | 556 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 557 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.44 | 
@@ -706,7 +706,7 @@
 | 704 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 705 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 706 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
-| 707 | [The Surge](games/t/the_surge.md) | 4.51 | 
+| 707 | [The Surge](games/t/the_surge.md) | 4.52 | 
 | 708 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 
 | 709 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 710 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
@@ -767,7 +767,7 @@
 | 765 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 766 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.60 | 
 | 767 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.22 | 
-| 768 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 768 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
 | 769 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 770 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 771 | [TUNIC](games/t/tunic.md) | 4.86 | 
