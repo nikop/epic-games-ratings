@@ -510,7 +510,6 @@
 | 501 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 501 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
 | 501 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 501 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 501 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
 | 501 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 501 | [CryoFall](games/c/cryofall.md) | 4.50 | 
@@ -519,21 +518,22 @@
 | 501 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 501 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 501 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
-| 520 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 520 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 520 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 520 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 520 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 520 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
-| 520 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 520 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 520 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 520 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.49 | 
-| 520 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 520 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
-| 520 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 520 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 520 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 519 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 519 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 519 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 519 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 519 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 519 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
+| 519 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 519 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 519 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 519 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.49 | 
+| 519 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 519 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 519 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
+| 519 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 519 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 519 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 535 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 535 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 535 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
@@ -790,15 +790,15 @@
 | 788 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 788 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 788 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 791 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 791 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
 | 791 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
 | 791 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 791 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
 | 791 | [Tharsis](games/t/tharsis.md) | 4.09 | 
 | 791 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 
-| 798 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 798 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
+| 797 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 797 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
+| 797 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
 | 800 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 800 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
 | 800 | [Lake](games/l/lake.md) | 4.07 | 

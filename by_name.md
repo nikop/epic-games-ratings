@@ -40,7 +40,7 @@
 | 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.59 | 
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
 | 43 | [Ashen](games/a/ashen.md) | 4.34 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
@@ -157,7 +157,7 @@
 | 155 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 156 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
 | 157 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 158 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
+| 158 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 159 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
 | 160 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 161 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
