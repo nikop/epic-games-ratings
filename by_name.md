@@ -90,7 +90,7 @@
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
+| 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -505,7 +505,7 @@
 | 503 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
 | 504 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 505 | [Predecessor](games/p/predecessor.md) | 4.38 | 
-| 506 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
+| 506 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 507 | [Prey](games/p/prey.md) | 4.61 | 
 | 508 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 509 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
@@ -790,7 +790,7 @@
 | 788 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 789 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
 | 790 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
-| 791 | [Warface](games/w/warface.md) | 3.92 | 
+| 791 | [Warface](games/w/warface.md) | 3.91 | 
 | 792 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 793 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 794 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
@@ -810,7 +810,7 @@
 | 808 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 809 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 810 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 811 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.95 | 
+| 811 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.94 | 
 | 812 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 813 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 814 | [Windbound](games/w/windbound.md) | 4.19 | 

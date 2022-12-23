@@ -104,18 +104,18 @@
 | 101 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 101 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 101 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 101 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 
 | 101 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 101 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 101 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
-| 109 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 109 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 109 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 109 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 109 | [Haven](games/h/haven.md) | 4.76 | 
-| 109 | [Dishonored 2](games/d/dishonored_2.md) | 4.76 | 
-| 109 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
+| 108 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 108 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 108 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 108 | [Diabotical](games/d/diabotical.md) | 4.76 | 
+| 108 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 108 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
+| 108 | [Haven](games/h/haven.md) | 4.76 | 
+| 108 | [Dishonored 2](games/d/dishonored_2.md) | 4.76 | 
+| 108 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
 | 117 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 117 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 117 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
@@ -560,19 +560,19 @@
 | 551 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 551 | [Figment](games/f/figment.md) | 4.46 | 
 | 551 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
+| 551 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 551 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 562 | [SMITE](games/s/smite.md) | 4.45 | 
-| 562 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 562 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
-| 562 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 562 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 562 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 562 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 562 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 562 | [Death Coming](games/d/death_coming.md) | 4.45 | 
-| 562 | [Chorus](games/c/chorus.md) | 4.45 | 
-| 562 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.45 | 
-| 562 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
+| 563 | [SMITE](games/s/smite.md) | 4.45 | 
+| 563 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 563 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
+| 563 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 563 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 563 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 563 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 563 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
+| 563 | [Death Coming](games/d/death_coming.md) | 4.45 | 
+| 563 | [Chorus](games/c/chorus.md) | 4.45 | 
+| 563 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 574 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 574 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 574 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
@@ -817,14 +817,14 @@
 | 814 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
 | 816 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 817 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 817 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.95 | 
-| 819 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
-| 819 | [Patron](games/p/patron.md) | 3.94 | 
+| 818 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
+| 818 | [Patron](games/p/patron.md) | 3.94 | 
+| 818 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.94 | 
 | 821 | [Conarium](games/c/conarium.md) | 3.93 | 
-| 822 | [Warface](games/w/warface.md) | 3.92 | 
 | 822 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 822 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
-| 825 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 824 | [Warface](games/w/warface.md) | 3.91 | 
+| 824 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 826 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.88 | 
 | 827 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 828 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
