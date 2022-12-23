@@ -325,7 +325,7 @@
 | 323 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 324 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 325 | [Huntdown](games/h/huntdown.md) | 4.84 | 
-| 326 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 326 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 327 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
 | 328 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
 | 329 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
@@ -404,7 +404,7 @@
 | 402 | [Mago](games/m/mago.md) | 4.89 | 
 | 403 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 404 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 405 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.18 | 
+| 405 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 406 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
 | 407 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.48 | 
 | 408 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
@@ -778,7 +778,7 @@
 | 776 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 777 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
 | 778 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 779 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.53 | 
+| 779 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
 | 780 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 781 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 782 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.83 | 
