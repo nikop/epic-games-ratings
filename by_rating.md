@@ -754,16 +754,16 @@
 | 752 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 752 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 752 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 752 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 752 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 752 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 758 | [Windbound](games/w/windbound.md) | 4.19 | 
-| 758 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 758 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
-| 758 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 758 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
-| 758 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 758 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
+| 757 | [Windbound](games/w/windbound.md) | 4.19 | 
+| 757 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 757 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.19 | 
+| 757 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
+| 757 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
+| 757 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
+| 757 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 757 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 765 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 765 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.18 | 
 | 767 | [Space Punks](games/s/space_punks.md) | 4.17 | 
