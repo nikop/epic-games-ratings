@@ -146,7 +146,6 @@
 | 144 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 144 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 144 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
-| 144 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 144 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 144 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 144 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
@@ -158,18 +157,19 @@
 | 144 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
 | 144 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 144 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 159 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 159 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 159 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
-| 159 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 159 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
-| 159 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
-| 159 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 159 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
-| 159 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 159 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
-| 159 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.72 | 
-| 159 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
+| 158 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 158 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 158 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 158 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
+| 158 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 158 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
+| 158 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
+| 158 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 158 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
+| 158 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 158 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
+| 158 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.72 | 
+| 158 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
 | 171 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 171 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 171 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
@@ -271,6 +271,7 @@
 | 268 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 268 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 268 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
+| 268 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 268 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
 | 268 | [Limbo](games/l/limbo.md) | 4.65 | 
 | 268 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
@@ -281,22 +282,21 @@
 | 268 | [Card Shark](games/c/card_shark.md) | 4.65 | 
 | 268 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
 | 268 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
-| 282 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 282 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 282 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 282 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
-| 282 | [Old World](games/o/old_world.md) | 4.64 | 
-| 282 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.64 | 
-| 282 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 282 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
-| 282 | [SOMA](games/s/soma.md) | 4.64 | 
-| 282 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
-| 282 | [DOOM 3](games/d/doom_3.md) | 4.64 | 
-| 282 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
-| 282 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
-| 282 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
-| 282 | [GNOG](games/g/gnog.md) | 4.64 | 
-| 282 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
+| 283 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 283 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 283 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 283 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
+| 283 | [Old World](games/o/old_world.md) | 4.64 | 
+| 283 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.64 | 
+| 283 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
+| 283 | [SOMA](games/s/soma.md) | 4.64 | 
+| 283 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
+| 283 | [DOOM 3](games/d/doom_3.md) | 4.64 | 
+| 283 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
+| 283 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
+| 283 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
+| 283 | [GNOG](games/g/gnog.md) | 4.64 | 
+| 283 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 298 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
 | 298 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 298 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 

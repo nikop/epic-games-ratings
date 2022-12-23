@@ -380,7 +380,7 @@
 | 378 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 379 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 380 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
-| 381 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
+| 381 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 382 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
 | 383 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
 | 384 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
@@ -626,7 +626,7 @@
 | 624 | [Starsand](games/s/starsand.md) | 4.22 | 
 | 625 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
 | 626 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
-| 627 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 627 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 628 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 629 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
 | 630 | [STG Football](games/s/stg_football.md) | 4.57 | 
