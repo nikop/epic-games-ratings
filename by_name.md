@@ -223,7 +223,7 @@
 | 221 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.84 | 
 | 222 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 223 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.65 | 
-| 224 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.70 | 
+| 224 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.55 | 
 | 225 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 226 | [Fangs](games/f/fangs.md) | 4.16 | 
 | 227 | [Far Cry](games/f/far_cry.md) | 4.43 | 
