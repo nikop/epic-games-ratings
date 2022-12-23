@@ -11,17 +11,17 @@
 | 6 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
 | 10 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 10 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
+| 10 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 10 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 10 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
 | 10 | [Firework](games/f/firework.md) | 4.89 | 
 | 10 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 
 | 10 | [Mago](games/m/mago.md) | 4.89 | 
-| 17 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 17 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 17 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
-| 17 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
-| 17 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
-| 17 | [Black Book](games/b/black_book.md) | 4.88 | 
+| 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
+| 18 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
+| 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
+| 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
+| 18 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 23 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 23 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 23 | [Ooblets](games/o/ooblets.md) | 4.87 | 
@@ -60,12 +60,12 @@
 | 51 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 51 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 51 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 
-| 61 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 61 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
-| 61 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
-| 61 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.82 | 
-| 61 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
-| 61 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
+| 51 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.83 | 
+| 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 62 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
+| 62 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
+| 62 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.82 | 
+| 62 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 67 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 67 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.81 | 
 | 67 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
@@ -92,14 +92,14 @@
 | 89 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 89 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 89 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 89 | [Journey](games/j/journey.md) | 4.79 | 
 | 89 | [Quake](games/q/quake.md) | 4.79 | 
 | 89 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 
 | 89 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 
-| 97 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
-| 97 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 97 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 97 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.78 | 
+| 96 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 96 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 96 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
+| 96 | [Journey](games/j/journey.md) | 4.78 | 
+| 96 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.78 | 
 | 101 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 101 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 101 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
@@ -495,29 +495,29 @@
 | 491 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 491 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 491 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 491 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
 | 491 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 491 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
 | 491 | [The Surge](games/t/the_surge.md) | 4.51 | 
 | 491 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 501 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 501 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 501 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 501 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 501 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
-| 501 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 501 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
-| 501 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 501 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
-| 501 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 501 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
-| 501 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 501 | [CryoFall](games/c/cryofall.md) | 4.50 | 
-| 501 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
-| 501 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
-| 501 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
-| 501 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 501 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
+| 500 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 500 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 500 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 500 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 500 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
+| 500 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 500 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
+| 500 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 500 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
+| 500 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
+| 500 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 500 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
+| 500 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 500 | [CryoFall](games/c/cryofall.md) | 4.50 | 
+| 500 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
+| 500 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
+| 500 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
+| 500 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
+| 500 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 519 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 519 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 519 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 

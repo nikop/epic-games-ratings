@@ -165,7 +165,7 @@
 | 163 | [Days Gone](games/d/days_gone.md) | 4.69 | 
 | 164 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 165 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 166 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
+| 166 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 167 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 168 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 169 | [Death's Door](games/d/death's_door.md) | 4.66 | 
@@ -345,7 +345,7 @@
 | 343 | [IXION](games/i/ixion.md) | 4.60 | 
 | 344 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 345 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 346 | [Journey](games/j/journey.md) | 4.79 | 
+| 346 | [Journey](games/j/journey.md) | 4.78 | 
 | 347 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
 | 348 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 349 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
@@ -554,7 +554,7 @@
 | 552 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 553 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 554 | [Sable](games/s/sable.md) | 4.52 | 
-| 555 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
+| 555 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.83 | 
 | 556 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 557 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.44 | 
 | 558 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -755,7 +755,7 @@
 | 753 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 754 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 
 | 755 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 
-| 756 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
+| 756 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
 | 757 | [Train Valley](games/t/train_valley.md) | 4.44 | 
 | 758 | [Train Valley 2](games/t/train_valley_2.md) | 4.09 | 
 | 759 | [Transistor](games/t/transistor.md) | 4.63 | 
