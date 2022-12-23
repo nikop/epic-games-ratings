@@ -342,7 +342,7 @@
 | 340 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 341 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 342 | [Isonzo](games/i/isonzo.md) | 4.58 | 
-| 343 | [IXION](games/i/ixion.md) | 4.62 | 
+| 343 | [IXION](games/i/ixion.md) | 4.63 | 
 | 344 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 345 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 346 | [Journey](games/j/journey.md) | 4.78 | 
