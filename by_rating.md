@@ -618,6 +618,7 @@
 | 604 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 604 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
 | 618 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
+| 618 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 618 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
 | 618 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
 | 618 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
@@ -629,16 +630,15 @@
 | 618 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 618 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
 | 618 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
-| 630 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 630 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 630 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 
-| 630 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 630 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
-| 630 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
-| 630 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.39 | 
-| 630 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
-| 630 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 630 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
+| 631 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 631 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 631 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 631 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
+| 631 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
+| 631 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.39 | 
+| 631 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
+| 631 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
+| 631 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
 | 640 | [Core](games/c/core.md) | 4.38 | 
 | 640 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 640 | [Encased](games/e/encased.md) | 4.38 | 
@@ -776,10 +776,10 @@
 | 773 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
 | 773 | [The Guild 3](games/t/the_guild_3.md) | 4.15 | 
 | 773 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 777 | [Pine](games/p/pine.md) | 4.14 | 
-| 777 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
-| 777 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.14 | 
-| 777 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.14 | 
+| 773 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 
+| 778 | [Pine](games/p/pine.md) | 4.14 | 
+| 778 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
+| 778 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.14 | 
 | 781 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 781 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 783 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
