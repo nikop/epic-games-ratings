@@ -703,14 +703,14 @@
 | 699 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 699 | [House Party](games/h/house_party.md) | 4.30 | 
 | 699 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
-| 704 | [Rage 2](games/r/rage_2.md) | 4.29 | 
-| 704 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 704 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 704 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.29 | 
-| 704 | [The Fall](games/t/the_fall.md) | 4.29 | 
-| 704 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
-| 704 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
-| 704 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
+| 699 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
+| 705 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 705 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
+| 705 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 705 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.29 | 
+| 705 | [The Fall](games/t/the_fall.md) | 4.29 | 
+| 705 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 705 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
 | 712 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
 | 712 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 714 | [Steelrising](games/s/steelrising.md) | 4.27 | 
