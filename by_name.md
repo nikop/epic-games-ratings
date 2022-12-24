@@ -303,7 +303,7 @@
 | 301 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 302 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 303 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 304 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.56 | 
+| 304 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.57 | 
 | 305 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 306 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 307 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
@@ -554,7 +554,7 @@
 | 552 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 553 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 554 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 555 | [Sable](games/s/sable.md) | 4.52 | 
+| 555 | [Sable](games/s/sable.md) | 4.53 | 
 | 556 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
 | 557 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 558 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.44 | 
@@ -568,7 +568,7 @@
 | 566 | [Saturnalia](games/s/saturnalia.md) | 4.23 | 
 | 567 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 568 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 569 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.74 | 
+| 569 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
 | 570 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 571 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
 | 572 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
@@ -604,7 +604,7 @@
 | 602 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
 | 603 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
 | 604 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 605 | [Sonic Origins](games/s/sonic_origins.md) | 4.54 | 
+| 605 | [Sonic Origins](games/s/sonic_origins.md) | 4.55 | 
 | 606 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 607 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.81 | 
 | 608 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
