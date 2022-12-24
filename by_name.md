@@ -52,7 +52,7 @@
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
+| 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.39 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.40 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.42 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
@@ -304,7 +304,7 @@
 | 302 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 303 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 304 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.56 | 
-| 305 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
+| 305 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 306 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 307 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 308 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 

@@ -496,29 +496,29 @@
 | 491 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 491 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 491 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 491 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.51 | 
 | 491 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 491 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
-| 500 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 500 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 500 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 500 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 500 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
-| 500 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 500 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
-| 500 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 500 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
-| 500 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
-| 500 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 500 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
-| 500 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 500 | [CryoFall](games/c/cryofall.md) | 4.50 | 
-| 500 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
-| 500 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
-| 500 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
-| 500 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 500 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.50 | 
-| 500 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
+| 499 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 499 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 499 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 499 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 499 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
+| 499 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 499 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
+| 499 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 499 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
+| 499 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
+| 499 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 499 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
+| 499 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
+| 499 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 499 | [CryoFall](games/c/cryofall.md) | 4.50 | 
+| 499 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
+| 499 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
+| 499 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
+| 499 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
+| 499 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.50 | 
+| 499 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 520 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 520 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 520 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -639,18 +639,18 @@
 | 632 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.39 | 
 | 632 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 632 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
+| 632 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.39 | 
 | 632 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
-| 641 | [Core](games/c/core.md) | 4.38 | 
-| 641 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
-| 641 | [Encased](games/e/encased.md) | 4.38 | 
-| 641 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
-| 641 | [Othercide](games/o/othercide.md) | 4.38 | 
-| 641 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 641 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
-| 641 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
-| 641 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 
-| 641 | [Predecessor](games/p/predecessor.md) | 4.38 | 
-| 641 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
+| 642 | [Core](games/c/core.md) | 4.38 | 
+| 642 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 642 | [Encased](games/e/encased.md) | 4.38 | 
+| 642 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
+| 642 | [Othercide](games/o/othercide.md) | 4.38 | 
+| 642 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 642 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
+| 642 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
+| 642 | [Predecessor](games/p/predecessor.md) | 4.38 | 
+| 642 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 652 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 652 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 652 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
