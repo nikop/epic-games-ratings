@@ -197,7 +197,7 @@
 | 195 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 196 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
 | 197 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 198 | [Dungeons 3](games/d/dungeons_3.md) | 4.64 | 
+| 198 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 199 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 200 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 201 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
@@ -405,7 +405,7 @@
 | 403 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 404 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 405 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
-| 406 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
+| 406 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 407 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.48 | 
 | 408 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 409 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
@@ -627,7 +627,7 @@
 | 625 | [Starsand](games/s/starsand.md) | 4.22 | 
 | 626 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
 | 627 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
-| 628 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 628 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 629 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 630 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
 | 631 | [STG Football](games/s/stg_football.md) | 4.57 | 
@@ -801,7 +801,7 @@
 | 799 | [Warpips](games/w/warpips.md) | 4.56 | 
 | 800 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 801 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
-| 802 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.34 | 
+| 802 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 803 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.29 | 
 | 804 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 805 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
