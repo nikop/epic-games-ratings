@@ -9,14 +9,14 @@
 | 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 6 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
 | 6 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
-| 10 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
-| 10 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
-| 10 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
-| 10 | [RimWorld](games/r/rimworld.md) | 4.89 | 
-| 10 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
-| 10 | [Firework](games/f/firework.md) | 4.89 | 
-| 10 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 
-| 10 | [Mago](games/m/mago.md) | 4.89 | 
+| 6 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
+| 11 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
+| 11 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
+| 11 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
+| 11 | [RimWorld](games/r/rimworld.md) | 4.89 | 
+| 11 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
+| 11 | [Firework](games/f/firework.md) | 4.89 | 
+| 11 | [Mago](games/m/mago.md) | 4.89 | 
 | 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 18 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
@@ -595,6 +595,7 @@
 | 585 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 585 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 595 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 595 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 595 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 595 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 595 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
@@ -604,21 +605,20 @@
 | 595 | [The Silent Age](games/t/the_silent_age.md) | 4.42 | 
 | 595 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.42 | 
 | 595 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.42 | 
-| 605 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 605 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 
-| 605 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 605 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 605 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
-| 605 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
-| 605 | [ELEX](games/e/elex.md) | 4.41 | 
-| 605 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 
-| 605 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
-| 605 | [RiMS Racing](games/r/rims_racing.md) | 4.41 | 
-| 605 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 605 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 605 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 605 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 605 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
+| 606 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 606 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
+| 606 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
+| 606 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
+| 606 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
+| 606 | [ELEX](games/e/elex.md) | 4.41 | 
+| 606 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 
+| 606 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 606 | [RiMS Racing](games/r/rims_racing.md) | 4.41 | 
+| 606 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 606 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
+| 606 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 606 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 606 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
 | 620 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
 | 620 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 620 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 

@@ -251,7 +251,7 @@
 | 249 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 250 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 251 | [Flatout](games/f/flatout.md) | 4.13 | 
-| 252 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 
+| 252 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 253 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 254 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
 | 255 | [For The King](games/f/for_the_king.md) | 4.70 | 
@@ -755,7 +755,7 @@
 | 753 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 754 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 755 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 
-| 756 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 
+| 756 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 757 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
 | 758 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 759 | [Train Valley 2](games/t/train_valley_2.md) | 4.10 | 
