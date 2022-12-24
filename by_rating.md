@@ -562,28 +562,28 @@
 | 551 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
 | 551 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 551 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
+| 551 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 551 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 564 | [SMITE](games/s/smite.md) | 4.45 | 
-| 564 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 564 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
-| 564 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 564 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 564 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 564 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 564 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 564 | [Death Coming](games/d/death_coming.md) | 4.45 | 
-| 564 | [Chorus](games/c/chorus.md) | 4.45 | 
-| 564 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
-| 575 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 575 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 575 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
-| 575 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 575 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 575 | [Good Company](games/g/good_company.md) | 4.44 | 
-| 575 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 575 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
-| 575 | [Train Valley](games/t/train_valley.md) | 4.44 | 
-| 575 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.44 | 
+| 565 | [SMITE](games/s/smite.md) | 4.45 | 
+| 565 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 565 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
+| 565 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 565 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 565 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 565 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 565 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
+| 565 | [Death Coming](games/d/death_coming.md) | 4.45 | 
+| 565 | [Chorus](games/c/chorus.md) | 4.45 | 
+| 565 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
+| 576 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 576 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 576 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
+| 576 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 576 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 576 | [Good Company](games/g/good_company.md) | 4.44 | 
+| 576 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 576 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
+| 576 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.44 | 
 | 585 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 585 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 585 | [Sheltered](games/s/sheltered.md) | 4.43 | 
@@ -826,7 +826,7 @@
 | 823 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 825 | [Warface](games/w/warface.md) | 3.91 | 
 | 825 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 827 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.88 | 
+| 827 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.87 | 
 | 828 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 829 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
 | 830 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 

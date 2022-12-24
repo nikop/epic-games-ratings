@@ -418,7 +418,7 @@
 | 416 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
 | 417 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
 | 418 | [Minit](games/m/minit.md) | 4.54 | 
-| 419 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.88 | 
+| 419 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.87 | 
 | 420 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 421 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 422 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
@@ -757,7 +757,7 @@
 | 755 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 
 | 756 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 
 | 757 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
-| 758 | [Train Valley](games/t/train_valley.md) | 4.44 | 
+| 758 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 759 | [Train Valley 2](games/t/train_valley_2.md) | 4.10 | 
 | 760 | [Transistor](games/t/transistor.md) | 4.63 | 
 | 761 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
