@@ -188,7 +188,7 @@
 | 186 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 187 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 188 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
-| 189 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 
+| 189 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 
 | 190 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 191 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.60 | 
 | 192 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
@@ -200,7 +200,7 @@
 | 198 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 199 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 200 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 201 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
+| 201 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 202 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 203 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.72 | 
 | 204 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -222,7 +222,7 @@
 | 220 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 221 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.86 | 
 | 222 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 223 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.65 | 
+| 223 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.43 | 
 | 224 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.50 | 
 | 225 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 226 | [Fangs](games/f/fangs.md) | 4.16 | 
@@ -761,7 +761,7 @@
 | 759 | [Train Valley 2](games/t/train_valley_2.md) | 4.10 | 
 | 760 | [Transistor](games/t/transistor.md) | 4.63 | 
 | 761 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
-| 762 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 762 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 763 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
 | 764 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 765 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
