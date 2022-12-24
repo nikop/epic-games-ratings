@@ -313,7 +313,7 @@
 | 311 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 312 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 313 | [Hob](games/h/hob.md) | 4.57 | 
-| 314 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
+| 314 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 315 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 316 | [Horace](games/h/horace.md) | 4.53 | 
 | 317 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.59 | 
@@ -478,7 +478,7 @@
 | 476 | [Overcooked](games/o/overcooked.md) | 4.68 | 
 | 477 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 478 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 479 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
+| 479 | [Oxenfree](games/o/oxenfree.md) | 4.59 | 
 | 480 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 481 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 482 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
@@ -505,7 +505,7 @@
 | 503 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 504 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
 | 505 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 506 | [Predecessor](games/p/predecessor.md) | 4.38 | 
+| 506 | [Predecessor](games/p/predecessor.md) | 4.39 | 
 | 507 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 508 | [Prey](games/p/prey.md) | 4.61 | 
 | 509 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -778,7 +778,7 @@
 | 776 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 777 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
 | 778 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 779 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.54 | 
+| 779 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.55 | 
 | 780 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 781 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 782 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.83 | 
