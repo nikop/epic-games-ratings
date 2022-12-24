@@ -321,31 +321,31 @@
 | 314 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 314 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 314 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
-| 314 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
 | 314 | [Roguebook](games/r/roguebook.md) | 4.62 | 
 | 314 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 
 | 314 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 314 | [Everything](games/e/everything.md) | 4.62 | 
 | 314 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.62 | 
 | 314 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 329 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 329 | [Prey](games/p/prey.md) | 4.61 | 
-| 329 | [Warframe](games/w/warframe.md) | 4.61 | 
-| 329 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
-| 329 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
-| 329 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 329 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 329 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 329 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 329 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
-| 329 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 329 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 
-| 329 | [20XX](games/2/20xx.md) | 4.61 | 
-| 329 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 329 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
-| 329 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
-| 329 | [Darkwood](games/d/darkwood.md) | 4.61 | 
-| 329 | [GigaBash](games/g/gigabash.md) | 4.61 | 
+| 328 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 328 | [Prey](games/p/prey.md) | 4.61 | 
+| 328 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 328 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
+| 328 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
+| 328 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 328 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 328 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 328 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 328 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 328 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 328 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 
+| 328 | [20XX](games/2/20xx.md) | 4.61 | 
+| 328 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 328 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
+| 328 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
+| 328 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
+| 328 | [Darkwood](games/d/darkwood.md) | 4.61 | 
+| 328 | [GigaBash](games/g/gigabash.md) | 4.61 | 
 | 347 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
 | 347 | [Control](games/c/control.md) | 4.60 | 
 | 347 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
