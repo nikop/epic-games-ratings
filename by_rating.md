@@ -414,24 +414,24 @@
 | 405 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
 | 405 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
 | 405 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
-| 405 | [STG Football](games/s/stg_football.md) | 4.57 | 
 | 405 | [The Medium](games/t/the_medium.md) | 4.57 | 
-| 417 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 417 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 417 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 417 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 417 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
-| 417 | [Hue](games/h/hue.md) | 4.56 | 
-| 417 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 417 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
-| 417 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
-| 417 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
-| 417 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.56 | 
-| 417 | [Warpips](games/w/warpips.md) | 4.56 | 
-| 417 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 417 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 417 | [Observation](games/o/observation.md) | 4.56 | 
-| 417 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.56 | 
+| 416 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 416 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 416 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 416 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 416 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
+| 416 | [Hue](games/h/hue.md) | 4.56 | 
+| 416 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 416 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
+| 416 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
+| 416 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 416 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.56 | 
+| 416 | [Warpips](games/w/warpips.md) | 4.56 | 
+| 416 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 416 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 416 | [Observation](games/o/observation.md) | 4.56 | 
+| 416 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.56 | 
+| 416 | [STG Football](games/s/stg_football.md) | 4.56 | 
 | 433 | [VALORANT](games/v/valorant.md) | 4.55 | 
 | 433 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 433 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -534,13 +534,13 @@
 | 520 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 520 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 520 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 535 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 535 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 535 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
-| 535 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
-| 535 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
-| 535 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.48 | 
-| 535 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
+| 520 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.49 | 
+| 536 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 536 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 536 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
+| 536 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
+| 536 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
+| 536 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 542 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 542 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 542 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -810,7 +810,7 @@
 | 807 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.04 | 
 | 809 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 809 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 
-| 809 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
+| 811 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
 | 812 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 812 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
 | 812 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 4.00 | 

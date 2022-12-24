@@ -406,7 +406,7 @@
 | 404 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 405 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 406 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 407 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.48 | 
+| 407 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.49 | 
 | 408 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 409 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 410 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
@@ -509,7 +509,7 @@
 | 507 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 508 | [Prey](games/p/prey.md) | 4.61 | 
 | 509 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 510 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
+| 510 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
 | 511 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 512 | [Quake](games/q/quake.md) | 4.79 | 
 | 513 | [Rage 2](games/r/rage_2.md) | 4.29 | 
@@ -630,7 +630,7 @@
 | 628 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 629 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 630 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
-| 631 | [STG Football](games/s/stg_football.md) | 4.57 | 
+| 631 | [STG Football](games/s/stg_football.md) | 4.56 | 
 | 632 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 633 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 634 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
