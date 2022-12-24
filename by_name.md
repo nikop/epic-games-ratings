@@ -234,7 +234,7 @@
 | 232 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 233 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
 | 234 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.69 | 
-| 235 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
+| 235 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
 | 236 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
 | 237 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
 | 238 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.15 | 
@@ -266,7 +266,7 @@
 | 264 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 265 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
 | 266 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 267 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
+| 267 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 
 | 268 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 269 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 270 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.54 | 
@@ -478,7 +478,7 @@
 | 476 | [Overcooked](games/o/overcooked.md) | 4.68 | 
 | 477 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 478 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 479 | [Oxenfree](games/o/oxenfree.md) | 4.59 | 
+| 479 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
 | 480 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 481 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 482 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
@@ -554,7 +554,7 @@
 | 552 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 553 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 554 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 555 | [Sable](games/s/sable.md) | 4.53 | 
+| 555 | [Sable](games/s/sable.md) | 4.52 | 
 | 556 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.83 | 
 | 557 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 558 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.44 | 
@@ -766,7 +766,7 @@
 | 764 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 765 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 766 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 767 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.60 | 
+| 767 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.59 | 
 | 768 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.22 | 
 | 769 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
 | 770 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
