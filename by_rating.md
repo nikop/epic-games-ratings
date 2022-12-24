@@ -343,49 +343,49 @@
 | 329 | [20XX](games/2/20xx.md) | 4.61 | 
 | 329 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 329 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
-| 329 | [Oxenfree](games/o/oxenfree.md) | 4.61 | 
 | 329 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 329 | [GigaBash](games/g/gigabash.md) | 4.61 | 
-| 347 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
-| 347 | [Control](games/c/control.md) | 4.60 | 
-| 347 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
-| 347 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 347 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 347 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
-| 347 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 347 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
-| 347 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 347 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 347 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
-| 347 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
-| 347 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.60 | 
-| 347 | [Road 96](games/r/road_96.md) | 4.60 | 
-| 347 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
-| 347 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
-| 347 | [Breathedge](games/b/breathedge.md) | 4.60 | 
-| 347 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.60 | 
-| 347 | [GRIME](games/g/grime.md) | 4.60 | 
-| 347 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 347 | [NORCO](games/n/norco.md) | 4.60 | 
-| 368 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 368 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 368 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
-| 368 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
-| 368 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.59 | 
-| 368 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 368 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
-| 368 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
-| 368 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
-| 368 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
-| 368 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
-| 368 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
-| 368 | [Little Inferno](games/l/little_inferno.md) | 4.59 | 
-| 368 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
-| 368 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
-| 368 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.59 | 
-| 368 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
-| 368 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
-| 368 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.59 | 
+| 346 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
+| 346 | [Control](games/c/control.md) | 4.60 | 
+| 346 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
+| 346 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 346 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 346 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
+| 346 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
+| 346 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
+| 346 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 346 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 346 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
+| 346 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
+| 346 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.60 | 
+| 346 | [Road 96](games/r/road_96.md) | 4.60 | 
+| 346 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
+| 346 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
+| 346 | [Breathedge](games/b/breathedge.md) | 4.60 | 
+| 346 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.60 | 
+| 346 | [GRIME](games/g/grime.md) | 4.60 | 
+| 346 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
+| 346 | [NORCO](games/n/norco.md) | 4.60 | 
+| 367 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 367 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 367 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
+| 367 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
+| 367 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.59 | 
+| 367 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 367 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
+| 367 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 367 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
+| 367 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
+| 367 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
+| 367 | [Oxenfree](games/o/oxenfree.md) | 4.59 | 
+| 367 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
+| 367 | [Little Inferno](games/l/little_inferno.md) | 4.59 | 
+| 367 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
+| 367 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
+| 367 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.59 | 
+| 367 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
+| 367 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
+| 367 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.59 | 
 | 387 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
 | 387 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 387 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -733,12 +733,12 @@
 | 730 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 730 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
 | 730 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
-| 730 | [Gotham Knights](games/g/gotham_knights.md) | 4.24 | 
-| 735 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
-| 735 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 735 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
-| 735 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 735 | [Saturnalia](games/s/saturnalia.md) | 4.23 | 
+| 734 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
+| 734 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 734 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
+| 734 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
+| 734 | [Gotham Knights](games/g/gotham_knights.md) | 4.23 | 
+| 734 | [Saturnalia](games/s/saturnalia.md) | 4.23 | 
 | 740 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 740 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
 | 740 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
