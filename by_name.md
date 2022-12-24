@@ -57,7 +57,7 @@
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.42 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
-| 58 | [Automachef](games/a/automachef.md) | 4.34 | 
+| 58 | [Automachef](games/a/automachef.md) | 4.33 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.56 | 
@@ -234,7 +234,7 @@
 | 232 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 233 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
 | 234 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.69 | 
-| 235 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
+| 235 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
 | 236 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
 | 237 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
 | 238 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.15 | 
@@ -253,7 +253,7 @@
 | 251 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 252 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 
 | 253 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 254 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
+| 254 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
 | 255 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 256 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 257 | [Fort Triumph](games/f/fort_triumph.md) | 4.07 | 
@@ -343,7 +343,7 @@
 | 341 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 342 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 343 | [Isonzo](games/i/isonzo.md) | 4.58 | 
-| 344 | [IXION](games/i/ixion.md) | 4.63 | 
+| 344 | [IXION](games/i/ixion.md) | 4.65 | 
 | 345 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 346 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 347 | [Journey](games/j/journey.md) | 4.78 | 
@@ -509,7 +509,7 @@
 | 507 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 508 | [Prey](games/p/prey.md) | 4.61 | 
 | 509 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 510 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
+| 510 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.04 | 
 | 511 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 512 | [Quake](games/q/quake.md) | 4.79 | 
 | 513 | [Rage 2](games/r/rage_2.md) | 4.29 | 
