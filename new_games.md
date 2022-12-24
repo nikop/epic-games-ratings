@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.60 | 
+| 1 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.59 | 
 | 2 | [High On Life](games/h/high_on_life.md) | 4.66 | 
 | 3 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.44 | 
 | 4 | [IXION](games/i/ixion.md) | 4.63 | 
