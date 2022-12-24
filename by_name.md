@@ -32,7 +32,7 @@
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.83 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
-| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.39 | 
+| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.40 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.54 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.65 | 
@@ -59,7 +59,7 @@
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
+| 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.56 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.52 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
@@ -155,7 +155,7 @@
 | 153 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 154 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 155 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 156 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 
+| 156 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 157 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 158 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 159 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
@@ -208,7 +208,7 @@
 | 206 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 207 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 208 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
-| 209 | [Encased](games/e/encased.md) | 4.38 | 
+| 209 | [Encased](games/e/encased.md) | 4.35 | 
 | 210 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 211 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 212 | [EVE Online](games/e/eve_online.md) | 4.26 | 
@@ -220,7 +220,7 @@
 | 218 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 219 | [Faeria](games/f/faeria.md) | 4.43 | 
 | 220 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 221 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.84 | 
+| 221 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.86 | 
 | 222 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 223 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.65 | 
 | 224 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.50 | 
@@ -417,7 +417,7 @@
 | 415 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
 | 416 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
 | 417 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
-| 418 | [Minit](games/m/minit.md) | 4.54 | 
+| 418 | [Minit](games/m/minit.md) | 4.55 | 
 | 419 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.87 | 
 | 420 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 421 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
@@ -555,7 +555,7 @@
 | 553 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 554 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 555 | [Sable](games/s/sable.md) | 4.52 | 
-| 556 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.83 | 
+| 556 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
 | 557 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 558 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.44 | 
 | 559 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 

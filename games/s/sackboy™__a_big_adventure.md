@@ -1,5 +1,5 @@
 # Sackboy™: A Big Adventure
-Rating: 4.83 (-)  (as of 23.09.2022)  
+Rating: 4.82 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -22,3 +22,4 @@ Rating: 4.83 (-)  (as of 23.09.2022)
 | 2022-12-06 | 4.81 | - |
 | 2022-12-07 | 4.82 | - |
 | 2022-12-23 | 4.83 | - |
+| 2022-12-24 | 4.82 | - |
