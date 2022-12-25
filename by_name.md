@@ -88,7 +88,7 @@
 | 86 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 87 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
-| 89 | [Blasphemous](games/b/blasphemous.md) | 4.90 | 
+| 89 | [Blasphemous](games/b/blasphemous.md) | 4.88 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
@@ -207,7 +207,7 @@
 | 205 | [ELEX](games/e/elex.md) | 4.41 | 
 | 206 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 207 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 208 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 
+| 208 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 209 | [Encased](games/e/encased.md) | 4.35 | 
 | 210 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 211 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
@@ -509,7 +509,7 @@
 | 507 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 508 | [Prey](games/p/prey.md) | 4.61 | 
 | 509 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 510 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.04 | 
+| 510 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
 | 511 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 512 | [Quake](games/q/quake.md) | 4.79 | 
 | 513 | [Rage 2](games/r/rage_2.md) | 4.29 | 
@@ -668,7 +668,7 @@
 | 666 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 667 | [Tharsis](games/t/tharsis.md) | 4.09 | 
 | 668 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 669 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 
+| 669 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
 | 670 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 671 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
 | 672 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 
@@ -725,7 +725,7 @@
 | 723 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 724 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 725 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 726 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.59 | 
+| 726 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.61 | 
 | 727 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
 | 728 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 729 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
