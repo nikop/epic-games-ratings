@@ -611,7 +611,7 @@
 | 609 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 610 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
 | 611 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 612 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
+| 612 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 613 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
 | 614 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.42 | 
 | 615 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
@@ -756,7 +756,7 @@
 | 754 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 755 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 
 | 756 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 757 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
+| 757 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.49 | 
 | 758 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 759 | [Train Valley 2](games/t/train_valley_2.md) | 4.10 | 
 | 760 | [Transistor](games/t/transistor.md) | 4.63 | 
