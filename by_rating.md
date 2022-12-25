@@ -487,37 +487,37 @@
 | 478 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 478 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 478 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 478 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.52 | 
 | 478 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 478 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
-| 490 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 490 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 490 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 490 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 490 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 490 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 490 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
-| 490 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 490 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
-| 499 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 499 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 499 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 499 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 499 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
-| 499 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 499 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
-| 499 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 499 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
-| 499 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
-| 499 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 499 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
-| 499 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 499 | [CryoFall](games/c/cryofall.md) | 4.50 | 
-| 499 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
-| 499 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
-| 499 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
-| 499 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 499 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.50 | 
-| 499 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
+| 491 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 491 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 491 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 491 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 491 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 491 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 491 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
+| 491 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 491 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
+| 500 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 500 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 500 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 500 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 500 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
+| 500 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 500 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
+| 500 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 500 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
+| 500 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
+| 500 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 500 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
+| 500 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 500 | [CryoFall](games/c/cryofall.md) | 4.50 | 
+| 500 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
+| 500 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
+| 500 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
+| 500 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
+| 500 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 519 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 519 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 519 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
