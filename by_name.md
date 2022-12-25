@@ -8,7 +8,7 @@
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
+| 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.63 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
@@ -107,7 +107,7 @@
 | 105 | [Card Shark](games/c/card_shark.md) | 4.65 | 
 | 106 | [CARRION](games/c/carrion.md) | 4.67 | 
 | 107 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
-| 108 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.59 | 
+| 108 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.61 | 
 | 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 110 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 
@@ -671,7 +671,7 @@
 | 669 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
 | 670 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 671 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 672 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 
+| 672 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.14 | 
 | 673 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 674 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 675 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
