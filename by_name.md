@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.60 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -208,7 +208,7 @@
 | 206 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 207 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 208 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 209 | [Encased](games/e/encased.md) | 4.35 | 
+| 209 | [Encased](games/e/encased.md) | 4.39 | 
 | 210 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 211 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 212 | [EVE Online](games/e/eve_online.md) | 4.26 | 
@@ -275,7 +275,7 @@
 | 273 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 274 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 275 | [GigaBash](games/g/gigabash.md) | 4.61 | 
-| 276 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
+| 276 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
 | 277 | [GNOG](games/g/gnog.md) | 4.64 | 
 | 278 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 279 | [God of War](games/g/god_of_war.md) | 4.90 | 
@@ -440,7 +440,7 @@
 | 438 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
 | 439 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
 | 440 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 441 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.09 | 
+| 441 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
 | 442 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 443 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.62 | 
 | 444 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 
@@ -512,7 +512,7 @@
 | 510 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
 | 511 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 512 | [Quake](games/q/quake.md) | 4.79 | 
-| 513 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 513 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 514 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 515 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 516 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
@@ -811,7 +811,7 @@
 | 809 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 810 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 811 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 812 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.94 | 
+| 812 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.93 | 
 | 813 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 814 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 815 | [Windbound](games/w/windbound.md) | 4.19 | 
