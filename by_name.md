@@ -222,7 +222,7 @@
 | 220 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 221 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.81 | 
 | 222 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 223 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.43 | 
+| 223 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.48 | 
 | 224 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.53 | 
 | 225 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 226 | [Fangs](games/f/fangs.md) | 4.16 | 
@@ -406,7 +406,7 @@
 | 404 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 405 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 406 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 407 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.49 | 
+| 407 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.50 | 
 | 408 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 409 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 410 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
