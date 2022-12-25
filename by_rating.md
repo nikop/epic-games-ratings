@@ -552,7 +552,6 @@
 | 549 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 549 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 549 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 549 | [Pathway](games/p/pathway.md) | 4.46 | 
 | 549 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
 | 549 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
 | 549 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
@@ -563,17 +562,18 @@
 | 549 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 549 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 549 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 564 | [SMITE](games/s/smite.md) | 4.45 | 
-| 564 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 564 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
-| 564 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 564 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 564 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 564 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 564 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 564 | [Death Coming](games/d/death_coming.md) | 4.45 | 
-| 564 | [Chorus](games/c/chorus.md) | 4.45 | 
-| 564 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
+| 563 | [SMITE](games/s/smite.md) | 4.45 | 
+| 563 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 563 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 563 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
+| 563 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 563 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 563 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 563 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 563 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
+| 563 | [Death Coming](games/d/death_coming.md) | 4.45 | 
+| 563 | [Chorus](games/c/chorus.md) | 4.45 | 
+| 563 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 575 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 575 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 575 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 

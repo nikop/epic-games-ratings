@@ -490,7 +490,7 @@
 | 488 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 489 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 490 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 491 | [Pathway](games/p/pathway.md) | 4.46 | 
+| 491 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 492 | [Patron](games/p/patron.md) | 3.94 | 
 | 493 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 494 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
