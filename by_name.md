@@ -6,7 +6,7 @@
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 7 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
+| 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.63 | 
@@ -208,7 +208,7 @@
 | 206 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 207 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 208 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 209 | [Encased](games/e/encased.md) | 4.39 | 
+| 209 | [Encased](games/e/encased.md) | 4.41 | 
 | 210 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 211 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 212 | [EVE Online](games/e/eve_online.md) | 4.26 | 
@@ -337,7 +337,7 @@
 | 335 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 336 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 337 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
-| 338 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 338 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
 | 339 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 340 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 341 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
@@ -405,7 +405,7 @@
 | 403 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 404 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 405 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
-| 406 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
+| 406 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
 | 407 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.50 | 
 | 408 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 409 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
@@ -413,7 +413,7 @@
 | 411 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 412 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 413 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 414 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
+| 414 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 415 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
 | 416 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 417 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
@@ -750,7 +750,7 @@
 | 748 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.64 | 
 | 749 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 750 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
-| 751 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
+| 751 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 
 | 752 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 753 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 754 | [Trackmania](games/t/trackmania.md) | 4.67 | 
