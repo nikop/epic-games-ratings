@@ -384,7 +384,7 @@
 | 382 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 383 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
 | 384 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
-| 385 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 385 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
 | 386 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 387 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 388 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
@@ -660,7 +660,7 @@
 | 658 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.68 | 
 | 659 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 660 | [Tacoma](games/t/tacoma.md) | 4.40 | 
-| 661 | [Tails of Iron](games/t/tails_of_iron.md) | 4.65 | 
+| 661 | [Tails of Iron](games/t/tails_of_iron.md) | 4.60 | 
 | 662 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 663 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 664 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
