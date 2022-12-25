@@ -1,5 +1,5 @@
 # The Walking Dead: Final Season
-Rating: 4.74 (57)  (as of 23.09.2022)  
+Rating: 4.75 (57)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -33,3 +33,4 @@ Rating: 4.74 (57)  (as of 23.09.2022)
 | 2022-10-06 | 4.72 | - |
 | 2022-10-15 | 4.73 | - |
 | 2022-11-05 | 4.74 | - |
+| 2022-12-25 | 4.75 | - |
