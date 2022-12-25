@@ -115,22 +115,22 @@
 | 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 109 | [Haven](games/h/haven.md) | 4.76 | 
-| 109 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
 | 109 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
-| 118 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 118 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
-| 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 118 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
-| 118 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 118 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 118 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
-| 118 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
-| 118 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
-| 118 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
-| 118 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 
-| 118 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
-| 118 | [shapez](games/s/shapez.md) | 4.75 | 
+| 117 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 117 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 117 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 117 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 117 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
+| 117 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
+| 117 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 117 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
+| 117 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
+| 117 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
+| 117 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
+| 117 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 
+| 117 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
+| 117 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
+| 117 | [shapez](games/s/shapez.md) | 4.75 | 
 | 132 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 132 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 132 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
@@ -472,23 +472,23 @@
 | 457 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 457 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 
 | 457 | [Horace](games/h/horace.md) | 4.53 | 
+| 457 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 457 | [Sable](games/s/sable.md) | 4.53 | 
 | 457 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 457 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 457 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 477 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 477 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 477 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 477 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 477 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 477 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 477 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 477 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 477 | [Aztez](games/a/aztez.md) | 4.52 | 
-| 477 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 477 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 477 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 477 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 478 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 478 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 478 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 478 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 478 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 478 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 478 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 478 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 478 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 478 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 478 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 478 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 490 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 490 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 490 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 

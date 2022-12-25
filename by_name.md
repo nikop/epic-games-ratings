@@ -61,7 +61,7 @@
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.56 | 
-| 62 | [Aztez](games/a/aztez.md) | 4.52 | 
+| 62 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 64 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 65 | [Bad North](games/b/bad_north.md) | 4.68 | 
@@ -253,7 +253,7 @@
 | 251 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 252 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 253 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 254 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
+| 254 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 255 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 256 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 257 | [Fort Triumph](games/f/fort_triumph.md) | 4.07 | 
