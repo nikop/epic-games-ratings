@@ -130,7 +130,7 @@
 | 128 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 129 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 130 | [Core](games/c/core.md) | 4.38 | 
-| 131 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 131 | [Coromon](games/c/coromon.md) | 4.65 | 
 | 132 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
 | 133 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 134 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
@@ -316,7 +316,7 @@
 | 314 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 315 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 316 | [Horace](games/h/horace.md) | 4.53 | 
-| 317 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.59 | 
+| 317 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.58 | 
 | 318 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 319 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 320 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
