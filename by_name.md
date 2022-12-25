@@ -157,7 +157,7 @@
 | 155 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 156 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 157 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 158 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 158 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
 | 159 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
 | 160 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 161 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
@@ -708,7 +708,7 @@
 | 706 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 707 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
 | 708 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 709 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 
+| 709 | [The Surge 2](games/t/the_surge_2.md) | 4.26 | 
 | 710 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 711 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
 | 712 | [The Tenants](games/t/the_tenants.md) | 4.53 | 

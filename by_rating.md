@@ -528,18 +528,18 @@
 | 519 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
 | 519 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 519 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.49 | 
-| 519 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 519 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
 | 519 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 519 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 519 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 519 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.49 | 
-| 535 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 535 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 535 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
-| 535 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
-| 535 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
-| 535 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
+| 534 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 534 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 534 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
+| 534 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
+| 534 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
+| 534 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
+| 534 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 541 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 541 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 541 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -724,11 +724,11 @@
 | 718 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 718 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 718 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
-| 725 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 725 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
-| 725 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
-| 725 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
-| 725 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 
+| 718 | [The Surge 2](games/t/the_surge_2.md) | 4.26 | 
+| 726 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 726 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
+| 726 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
+| 726 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
 | 730 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 730 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 730 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
