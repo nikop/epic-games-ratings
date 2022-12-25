@@ -220,10 +220,10 @@
 | 218 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 219 | [Faeria](games/f/faeria.md) | 4.43 | 
 | 220 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 221 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.86 | 
+| 221 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.81 | 
 | 222 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 223 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.43 | 
-| 224 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.52 | 
+| 224 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.53 | 
 | 225 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 226 | [Fangs](games/f/fangs.md) | 4.16 | 
 | 227 | [Far Cry](games/f/far_cry.md) | 4.43 | 
@@ -343,7 +343,7 @@
 | 341 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 342 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 343 | [Isonzo](games/i/isonzo.md) | 4.58 | 
-| 344 | [IXION](games/i/ixion.md) | 4.65 | 
+| 344 | [IXION](games/i/ixion.md) | 4.63 | 
 | 345 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 346 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 347 | [Journey](games/j/journey.md) | 4.78 | 
@@ -415,7 +415,7 @@
 | 413 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 414 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.74 | 
 | 415 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
-| 416 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
+| 416 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 417 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
 | 418 | [Minit](games/m/minit.md) | 4.55 | 
 | 419 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.87 | 
@@ -509,7 +509,7 @@
 | 507 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 508 | [Prey](games/p/prey.md) | 4.61 | 
 | 509 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 510 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
+| 510 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
 | 511 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 512 | [Quake](games/q/quake.md) | 4.79 | 
 | 513 | [Rage 2](games/r/rage_2.md) | 4.29 | 
