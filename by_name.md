@@ -75,7 +75,7 @@
 | 73 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 74 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 75 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
+| 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
 | 77 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
 | 78 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
 | 79 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
@@ -313,13 +313,13 @@
 | 311 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 312 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 313 | [Hob](games/h/hob.md) | 4.57 | 
-| 314 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
+| 314 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 315 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 316 | [Horace](games/h/horace.md) | 4.53 | 
 | 317 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.58 | 
 | 318 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 319 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 320 | [House Flipper](games/h/house_flipper.md) | 4.71 | 
+| 320 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 321 | [House Party](games/h/house_party.md) | 4.30 | 
 | 322 | [Hue](games/h/hue.md) | 4.56 | 
 | 323 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
@@ -749,7 +749,7 @@
 | 747 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 748 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.64 | 
 | 749 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 750 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
+| 750 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
 | 751 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.72 | 
 | 752 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 753 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
