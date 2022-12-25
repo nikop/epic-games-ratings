@@ -178,7 +178,7 @@
 | 176 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 177 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 178 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
-| 179 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 179 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 180 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
 | 181 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 182 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -570,7 +570,7 @@
 | 568 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 569 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
 | 570 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 571 | [Second Extinction™](games/s/second_extinction™.md) | 4.14 | 
+| 571 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 572 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 573 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 574 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
@@ -630,7 +630,7 @@
 | 628 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 629 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 630 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
-| 631 | [STG Football](games/s/stg_football.md) | 4.56 | 
+| 631 | [STG Football](games/s/stg_football.md) | 4.54 | 
 | 632 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 633 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
 | 634 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
