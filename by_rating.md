@@ -677,21 +677,21 @@
 | 670 | [Encased](games/e/encased.md) | 4.35 | 
 | 670 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
 | 670 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 670 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
 | 670 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 670 | [ZOMBI](games/z/zombi.md) | 4.35 | 
-| 680 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 680 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 680 | [Ashen](games/a/ashen.md) | 4.34 | 
-| 680 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
-| 680 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 685 | [Automachef](games/a/automachef.md) | 4.33 | 
-| 686 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 686 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
-| 686 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
-| 686 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
-| 686 | [Filament](games/f/filament.md) | 4.32 | 
-| 686 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.32 | 
-| 686 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
+| 681 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 681 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 681 | [Ashen](games/a/ashen.md) | 4.34 | 
+| 681 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
+| 681 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
+| 686 | [Automachef](games/a/automachef.md) | 4.33 | 
+| 687 | [Vampyr](games/v/vampyr.md) | 4.32 | 
+| 687 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
+| 687 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
+| 687 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
+| 687 | [Filament](games/f/filament.md) | 4.32 | 
+| 687 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
 | 693 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 693 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 693 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 

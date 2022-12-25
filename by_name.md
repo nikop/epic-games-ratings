@@ -486,7 +486,7 @@
 | 484 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
 | 485 | [Parkitect](games/p/parkitect.md) | 4.27 | 
 | 486 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
-| 487 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.32 | 
+| 487 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
 | 488 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 489 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 490 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
