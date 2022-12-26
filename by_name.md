@@ -147,7 +147,7 @@
 | 145 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
 | 146 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
 | 147 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 148 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.60 | 
+| 148 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 149 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 150 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
 | 151 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 
@@ -223,7 +223,7 @@
 | 221 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.81 | 
 | 222 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 223 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.48 | 
-| 224 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.53 | 
+| 224 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.57 | 
 | 225 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 226 | [Fangs](games/f/fangs.md) | 4.16 | 
 | 227 | [Far Cry](games/f/far_cry.md) | 4.43 | 
@@ -333,7 +333,7 @@
 | 331 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
 | 332 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 
 | 333 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 334 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 334 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
 | 335 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 336 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 337 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
@@ -541,7 +541,7 @@
 | 539 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 540 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
 | 541 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 542 | [Road 96](games/r/road_96.md) | 4.60 | 
+| 542 | [Road 96](games/r/road_96.md) | 4.61 | 
 | 543 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 544 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 545 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
@@ -725,7 +725,7 @@
 | 723 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 724 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 725 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 726 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.61 | 
+| 726 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.56 | 
 | 727 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
 | 728 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
 | 729 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
@@ -783,7 +783,7 @@
 | 781 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 782 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.83 | 
 | 783 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
-| 784 | [VALORANT](games/v/valorant.md) | 4.55 | 
+| 784 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 785 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
 | 786 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 787 | [Verdun](games/v/verdun.md) | 4.53 | 

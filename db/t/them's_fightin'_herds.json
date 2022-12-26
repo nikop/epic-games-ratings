@@ -1,10 +1,10 @@
 {
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
-  "Rating": 4.61,
+  "Rating": 4.56,
   "FirstSeen": "2022-12-19T18:57:06.8658934+00:00",
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
-  "LastChanged": "2022-12-25T02:06:15.4532774+00:00",
+  "LastChanged": "2022-12-26T02:04:22.5160293+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-20T18:57:15.4745633+00:00",
@@ -39,6 +39,11 @@
     {
       "Time": "2022-12-25T02:06:15.4532776+00:00",
       "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-26T02:04:22.5160295+00:00",
+      "Rating": 4.56,
       "NumberOfRatings": null
     }
   ],
