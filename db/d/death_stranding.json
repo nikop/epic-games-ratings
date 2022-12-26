@@ -1,7 +1,16 @@
 {
   "ID": "f4a904fcef2447439c35c4e6457f3027",
   "Name": "DEATH STRANDING",
+  "Rating": 4.65,
   "FirstSeen": "2022-12-25T17:57:41.2427697+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-12-26T09:58:07.1196688+00:00",
+  "LastChanged": "2022-12-26T09:58:07.119669+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-12-26T09:58:07.1196692+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
