@@ -41,7 +41,7 @@
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
-| 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.89 | 
+| 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.88 | 
 | 43 | [Ashen](games/a/ashen.md) | 4.34 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
@@ -62,7 +62,7 @@
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.56 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.53 | 
-| 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 64 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 65 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 66 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
@@ -315,7 +315,7 @@
 | 313 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 314 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 315 | [Hob](games/h/hob.md) | 4.57 | 
-| 316 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
+| 316 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 317 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 318 | [Horace](games/h/horace.md) | 4.53 | 
 | 319 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.58 | 
@@ -445,7 +445,7 @@
 | 443 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
 | 444 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 445 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.62 | 
-| 446 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 
+| 446 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
 | 447 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 448 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 449 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -514,7 +514,7 @@
 | 512 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
 | 513 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 514 | [Quake](games/q/quake.md) | 4.79 | 
-| 515 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 515 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 516 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 517 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 518 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
@@ -659,7 +659,7 @@
 | 657 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 658 | [Suzerain](games/s/suzerain.md) | 4.73 | 
 | 659 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
-| 660 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.68 | 
+| 660 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
 | 661 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 662 | [Tacoma](games/t/tacoma.md) | 4.40 | 
 | 663 | [Tails of Iron](games/t/tails_of_iron.md) | 4.60 | 
@@ -758,7 +758,7 @@
 | 756 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 757 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 758 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 
-| 759 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 759 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 
 | 760 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.49 | 
 | 761 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 762 | [Train Valley 2](games/t/train_valley_2.md) | 4.10 | 
@@ -808,7 +808,7 @@
 | 806 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.30 | 
 | 807 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 808 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 809 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 809 | [Weird West](games/w/weird_west.md) | 4.44 | 
 | 810 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
 | 811 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
 | 812 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 

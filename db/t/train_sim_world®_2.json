@@ -1,10 +1,10 @@
 {
   "ID": "d8d8b399f3d14ac2b9b75870329a68dd",
   "Name": "Train Sim World\u00AE 2",
-  "Rating": 4.42,
+  "Rating": 4.41,
   "NumberOfRatings": 2541,
   "FirstSeen": "2022-07-22T20:17:00.3136154+00:00",
-  "LastChanged": "2022-12-24T18:57:00.3090466+00:00",
+  "LastChanged": "2022-12-26T18:56:53.3448533+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:00.3136156+00:00",
@@ -1969,6 +1969,11 @@
     {
       "Time": "2022-12-24T18:57:00.3090467+00:00",
       "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-26T18:56:53.3448535+00:00",
+      "Rating": 4.41,
       "NumberOfRatings": null
     }
   ],
