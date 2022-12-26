@@ -9,7 +9,7 @@
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 10 | [ABZU](games/a/abzu.md) | 4.63 | 
+| 10 | [ABZU](games/a/abzu.md) | 4.62 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
@@ -204,7 +204,7 @@
 | 202 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 203 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 204 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 205 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.72 | 
+| 205 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 206 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 207 | [ELEX](games/e/elex.md) | 4.41 | 
 | 208 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
@@ -224,7 +224,7 @@
 | 222 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 223 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.78 | 
 | 224 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 225 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.48 | 
+| 225 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.58 | 
 | 226 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.57 | 
 | 227 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 228 | [Fangs](games/f/fangs.md) | 4.16 | 
@@ -305,7 +305,7 @@
 | 303 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 304 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 305 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 306 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.57 | 
+| 306 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.59 | 
 | 307 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 308 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 309 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
@@ -360,7 +360,7 @@
 | 358 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 359 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 360 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
-| 361 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.40 | 
+| 361 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 362 | [King of Retail](games/k/king_of_retail.md) | 4.71 | 
 | 363 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
 | 364 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
@@ -634,7 +634,7 @@
 | 632 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
 | 633 | [STG Football](games/s/stg_football.md) | 4.54 | 
 | 634 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 635 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 
+| 635 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 636 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
 | 637 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 638 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
