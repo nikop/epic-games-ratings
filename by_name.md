@@ -79,7 +79,7 @@
 | 77 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
 | 78 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
 | 79 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
-| 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.69 | 
+| 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
 | 81 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
 | 82 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 83 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
@@ -221,7 +221,7 @@
 | 219 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 220 | [Faeria](games/f/faeria.md) | 4.43 | 
 | 221 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 222 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.81 | 
+| 222 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.78 | 
 | 223 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 224 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.48 | 
 | 225 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.57 | 
@@ -485,7 +485,7 @@
 | 483 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 484 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 485 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
-| 486 | [Parkitect](games/p/parkitect.md) | 4.27 | 
+| 486 | [Parkitect](games/p/parkitect.md) | 4.30 | 
 | 487 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 488 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
 | 489 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
@@ -816,7 +816,7 @@
 | 814 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.93 | 
 | 815 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 816 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
-| 817 | [Windbound](games/w/windbound.md) | 4.19 | 
+| 817 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 818 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
 | 819 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
 | 820 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
