@@ -342,29 +342,29 @@
 | 326 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 326 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
 | 326 | [Road 96](games/r/road_96.md) | 4.61 | 
+| 326 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
 | 326 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 326 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.61 | 
 | 326 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 326 | [GigaBash](games/g/gigabash.md) | 4.61 | 
-| 347 | [Control](games/c/control.md) | 4.60 | 
-| 347 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
-| 347 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 347 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 347 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
-| 347 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 347 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
-| 347 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 347 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 347 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
-| 347 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
-| 347 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
-| 347 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
-| 347 | [Breathedge](games/b/breathedge.md) | 4.60 | 
-| 347 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.60 | 
-| 347 | [GRIME](games/g/grime.md) | 4.60 | 
-| 347 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 347 | [NORCO](games/n/norco.md) | 4.60 | 
-| 347 | [Tails of Iron](games/t/tails_of_iron.md) | 4.60 | 
+| 348 | [Control](games/c/control.md) | 4.60 | 
+| 348 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
+| 348 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 348 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 348 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
+| 348 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
+| 348 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
+| 348 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 348 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 348 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
+| 348 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
+| 348 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
+| 348 | [Breathedge](games/b/breathedge.md) | 4.60 | 
+| 348 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.60 | 
+| 348 | [GRIME](games/g/grime.md) | 4.60 | 
+| 348 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
+| 348 | [NORCO](games/n/norco.md) | 4.60 | 
+| 348 | [Tails of Iron](games/t/tails_of_iron.md) | 4.60 | 
 | 366 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 366 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 366 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
@@ -800,9 +800,9 @@
 | 798 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 798 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
 | 798 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
-| 801 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
-| 801 | [Lake](games/l/lake.md) | 4.07 | 
-| 801 | [Fort Triumph](games/f/fort_triumph.md) | 4.07 | 
+| 798 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
+| 802 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
+| 802 | [Lake](games/l/lake.md) | 4.07 | 
 | 804 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 805 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 805 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 

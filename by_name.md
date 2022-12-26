@@ -179,7 +179,7 @@
 | 177 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 178 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
 | 179 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 180 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
+| 180 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
 | 181 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 182 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 183 | [Diabotical](games/d/diabotical.md) | 4.76 | 
@@ -256,7 +256,7 @@
 | 254 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 255 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 256 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
-| 257 | [Fort Triumph](games/f/fort_triumph.md) | 4.07 | 
+| 257 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 258 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 259 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.67 | 
 | 260 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
