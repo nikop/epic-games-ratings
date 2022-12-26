@@ -169,7 +169,7 @@
 | 167 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 168 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 169 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 170 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 170 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
 | 171 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 172 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 173 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 
@@ -178,7 +178,7 @@
 | 176 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 177 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 178 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
-| 179 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 179 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 180 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.60 | 
 | 181 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
 | 182 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
