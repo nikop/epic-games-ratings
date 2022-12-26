@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [DEATH STRANDING](games/d/death_stranding.md) | 4.65 | 
+| 1 | [DEATH STRANDING](games/d/death_stranding.md) | 4.68 | 
 | 2 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.56 | 
 | 3 | [High On Life](games/h/high_on_life.md) | 4.71 | 
 | 4 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.44 | 

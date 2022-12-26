@@ -133,7 +133,7 @@
 | 131 | [Coromon](games/c/coromon.md) | 4.65 | 
 | 132 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
 | 133 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 134 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 134 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.45 | 
 | 135 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 136 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 137 | [Crayta](games/c/crayta.md) | 4.19 | 
@@ -167,7 +167,7 @@
 | 165 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 166 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 167 | [Death Coming](games/d/death_coming.md) | 4.45 | 
-| 168 | [DEATH STRANDING](games/d/death_stranding.md) | 4.65 | 
+| 168 | [DEATH STRANDING](games/d/death_stranding.md) | 4.68 | 
 | 169 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 170 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 171 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
@@ -201,7 +201,7 @@
 | 199 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 200 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 201 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 202 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
+| 202 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 203 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 204 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.72 | 
 | 205 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -254,7 +254,7 @@
 | 252 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 253 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 254 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 255 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
+| 255 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
 | 256 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 257 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 258 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
@@ -749,11 +749,11 @@
 | 747 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 748 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 749 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
-| 750 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.64 | 
+| 750 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.65 | 
 | 751 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 752 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
 | 753 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 
-| 754 | [Townscaper](games/t/townscaper.md) | 4.71 | 
+| 754 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 755 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 756 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 757 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 
@@ -768,7 +768,7 @@
 | 766 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 767 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 768 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 769 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.59 | 
+| 769 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
 | 770 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.22 | 
 | 771 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
 | 772 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
@@ -788,7 +788,7 @@
 | 786 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 787 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
 | 788 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 789 | [Verdun](games/v/verdun.md) | 4.53 | 
+| 789 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 790 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 791 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 792 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
