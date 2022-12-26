@@ -62,7 +62,7 @@
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.56 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.53 | 
-| 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
+| 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 64 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 65 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 66 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
@@ -555,7 +555,7 @@
 | 553 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 554 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 555 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 556 | [Sable](games/s/sable.md) | 4.53 | 
+| 556 | [Sable](games/s/sable.md) | 4.52 | 
 | 557 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
 | 558 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 559 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.44 | 
@@ -566,7 +566,7 @@
 | 564 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 565 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
 | 566 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 567 | [Saturnalia](games/s/saturnalia.md) | 4.23 | 
+| 567 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 568 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 569 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 570 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 

@@ -477,21 +477,21 @@
 | 461 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 
 | 461 | [Horace](games/h/horace.md) | 4.53 | 
 | 461 | [Aztez](games/a/aztez.md) | 4.53 | 
-| 461 | [Sable](games/s/sable.md) | 4.53 | 
 | 461 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 461 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 461 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 461 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
-| 483 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 483 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 483 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 483 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 483 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 483 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 483 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 483 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 483 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 483 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 482 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 482 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 482 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 482 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 482 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 482 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 482 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 482 | [Sable](games/s/sable.md) | 4.52 | 
+| 482 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 482 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 482 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 493 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 493 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 493 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
@@ -543,6 +543,7 @@
 | 537 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
 | 537 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.48 | 
 | 537 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
+| 544 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 544 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 544 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 544 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
@@ -551,20 +552,19 @@
 | 544 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
 | 544 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 544 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 
-| 552 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 552 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 552 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 552 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
-| 552 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 552 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 552 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
-| 552 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
-| 552 | [Figment](games/f/figment.md) | 4.46 | 
-| 552 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
-| 552 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
-| 552 | [Train Valley](games/t/train_valley.md) | 4.46 | 
-| 552 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
-| 552 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 553 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 553 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 553 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 553 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
+| 553 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 553 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
+| 553 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
+| 553 | [Figment](games/f/figment.md) | 4.46 | 
+| 553 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
+| 553 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
+| 553 | [Train Valley](games/t/train_valley.md) | 4.46 | 
+| 553 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
+| 553 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 566 | [SMITE](games/s/smite.md) | 4.45 | 
 | 566 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 566 | [Pathway](games/p/pathway.md) | 4.45 | 
@@ -735,11 +735,11 @@
 | 732 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 732 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
 | 732 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
-| 736 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
-| 736 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 736 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
-| 736 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 736 | [Saturnalia](games/s/saturnalia.md) | 4.23 | 
+| 732 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
+| 737 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
+| 737 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 737 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
+| 737 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 741 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 741 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
 | 741 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
