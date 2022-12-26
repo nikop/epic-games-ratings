@@ -62,7 +62,7 @@
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.56 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.53 | 
-| 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 64 | [Backbone](games/b/backbone.md) | 4.36 | 
 | 65 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 66 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
@@ -286,7 +286,7 @@
 | 284 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 285 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 286 | [Good Company](games/g/good_company.md) | 4.44 | 
-| 287 | [Gotham Knights](games/g/gotham_knights.md) | 4.23 | 
+| 287 | [Gotham Knights](games/g/gotham_knights.md) | 4.22 | 
 | 288 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 289 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 290 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
