@@ -729,14 +729,14 @@
 | 721 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 721 | [The Surge 2](games/t/the_surge_2.md) | 4.26 | 
 | 729 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 729 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 
 | 729 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 729 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
-| 733 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 733 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
-| 733 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
-| 733 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
-| 733 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
+| 732 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
+| 732 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
+| 732 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
+| 732 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
+| 732 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
+| 732 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 738 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 738 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 738 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
