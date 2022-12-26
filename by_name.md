@@ -313,7 +313,7 @@
 | 311 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 312 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 313 | [Hob](games/h/hob.md) | 4.57 | 
-| 314 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
+| 314 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 315 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 316 | [Horace](games/h/horace.md) | 4.53 | 
 | 317 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.58 | 
@@ -395,7 +395,7 @@
 | 393 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 394 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
 | 395 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
-| 396 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.69 | 
+| 396 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.68 | 
 | 397 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 398 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 399 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
