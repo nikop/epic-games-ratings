@@ -800,10 +800,10 @@
 | 798 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 798 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
 | 798 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
-| 801 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 801 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
 | 801 | [Lake](games/l/lake.md) | 4.07 | 
 | 801 | [Fort Triumph](games/f/fort_triumph.md) | 4.07 | 
+| 804 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 805 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 805 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 807 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 

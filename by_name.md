@@ -280,7 +280,7 @@
 | 278 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 279 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 280 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
-| 281 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 281 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 282 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 283 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
 | 284 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
