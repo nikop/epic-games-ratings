@@ -50,7 +50,7 @@
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
-| 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
+| 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.39 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.40 | 
@@ -514,7 +514,7 @@
 | 512 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
 | 513 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 514 | [Quake](games/q/quake.md) | 4.78 | 
-| 515 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 515 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 516 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 517 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 518 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
