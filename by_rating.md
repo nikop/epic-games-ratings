@@ -262,26 +262,26 @@
 | 252 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
 | 252 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 252 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
+| 252 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
 | 252 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 252 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
-| 265 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 265 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 265 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 265 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 265 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
-| 265 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 265 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
-| 265 | [Limbo](games/l/limbo.md) | 4.65 | 
-| 265 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 265 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.65 | 
-| 265 | [Coromon](games/c/coromon.md) | 4.65 | 
-| 265 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
-| 265 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
-| 265 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
-| 265 | [APE OUT](games/a/ape_out.md) | 4.65 | 
-| 265 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
-| 265 | [Card Shark](games/c/card_shark.md) | 4.65 | 
-| 265 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
+| 266 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 266 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 266 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 266 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 266 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
+| 266 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 266 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
+| 266 | [Limbo](games/l/limbo.md) | 4.65 | 
+| 266 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 266 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.65 | 
+| 266 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 266 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
+| 266 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
+| 266 | [APE OUT](games/a/ape_out.md) | 4.65 | 
+| 266 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
+| 266 | [Card Shark](games/c/card_shark.md) | 4.65 | 
+| 266 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
 | 283 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 283 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 283 | [HITMAN](games/h/hitman.md) | 4.64 | 
@@ -479,18 +479,18 @@
 | 458 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 458 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 458 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 480 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 480 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 480 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 480 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 480 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 480 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 480 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 480 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 480 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 480 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
-| 480 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 480 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 458 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
+| 481 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 481 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 481 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 481 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 481 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 481 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 481 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 481 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 481 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 481 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 481 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 492 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 492 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 492 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
