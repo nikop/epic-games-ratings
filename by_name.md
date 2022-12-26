@@ -225,7 +225,7 @@
 | 223 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.78 | 
 | 224 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 225 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.58 | 
-| 226 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.57 | 
+| 226 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.59 | 
 | 227 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 228 | [Fangs](games/f/fangs.md) | 4.16 | 
 | 229 | [Far Cry](games/f/far_cry.md) | 4.43 | 
@@ -552,7 +552,7 @@
 | 550 | [Roguebook](games/r/roguebook.md) | 4.62 | 
 | 551 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 552 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
-| 553 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 553 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 554 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 555 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 556 | [Runbow](games/r/runbow.md) | 4.46 | 
@@ -721,7 +721,7 @@
 | 719 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 720 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 
 | 721 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 
-| 722 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.82 | 
+| 722 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
 | 723 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
 | 724 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
 | 725 | [The Witness](games/t/the_witness.md) | 4.70 | 
@@ -759,7 +759,7 @@
 | 757 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 758 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 
 | 759 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 
-| 760 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.49 | 
+| 760 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
 | 761 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 762 | [Train Valley 2](games/t/train_valley_2.md) | 4.10 | 
 | 763 | [Transistor](games/t/transistor.md) | 4.63 | 
