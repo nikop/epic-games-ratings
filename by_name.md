@@ -455,7 +455,7 @@
 | 453 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
 | 454 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 455 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 456 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
+| 456 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
 | 457 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 458 | [Observation](games/o/observation.md) | 4.56 | 
 | 459 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 

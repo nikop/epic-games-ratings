@@ -77,7 +77,6 @@
 | 74 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 74 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 74 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 74 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 74 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
 | 74 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
 | 74 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
@@ -89,12 +88,13 @@
 | 74 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
 | 74 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 
 | 74 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
-| 90 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 90 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 90 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 90 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 90 | [Quake](games/q/quake.md) | 4.79 | 
-| 90 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 
+| 89 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 89 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
+| 89 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 89 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 89 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
+| 89 | [Quake](games/q/quake.md) | 4.79 | 
+| 89 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 
 | 96 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 96 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 96 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
