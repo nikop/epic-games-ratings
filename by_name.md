@@ -146,7 +146,7 @@
 | 144 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
 | 145 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
 | 146 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
-| 147 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 147 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 
 | 148 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 149 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 150 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
@@ -210,7 +210,7 @@
 | 208 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 209 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 210 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 211 | [Encased](games/e/encased.md) | 4.41 | 
+| 211 | [Encased](games/e/encased.md) | 4.33 | 
 | 212 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 213 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 214 | [EVE Online](games/e/eve_online.md) | 4.26 | 
@@ -227,7 +227,7 @@
 | 225 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.58 | 
 | 226 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.59 | 
 | 227 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 228 | [Fangs](games/f/fangs.md) | 4.16 | 
+| 228 | [Fangs](games/f/fangs.md) | 4.15 | 
 | 229 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 230 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.22 | 
 | 231 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
@@ -513,7 +513,7 @@
 | 511 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 512 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
 | 513 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 514 | [Quake](games/q/quake.md) | 4.79 | 
+| 514 | [Quake](games/q/quake.md) | 4.78 | 
 | 515 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 516 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 517 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
