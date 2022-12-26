@@ -344,7 +344,7 @@
 | 342 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 343 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 344 | [Isonzo](games/i/isonzo.md) | 4.58 | 
-| 345 | [IXION](games/i/ixion.md) | 4.63 | 
+| 345 | [IXION](games/i/ixion.md) | 4.65 | 
 | 346 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 347 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 348 | [Journey](games/j/journey.md) | 4.78 | 
@@ -353,7 +353,7 @@
 | 351 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 352 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 353 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 354 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.55 | 
+| 354 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.57 | 
 | 355 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 356 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 357 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
@@ -419,7 +419,7 @@
 | 417 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 418 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
 | 419 | [Minit](games/m/minit.md) | 4.55 | 
-| 420 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.87 | 
+| 420 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.88 | 
 | 421 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 422 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 423 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
@@ -708,7 +708,7 @@
 | 706 | [The Silent Age](games/t/the_silent_age.md) | 4.42 | 
 | 707 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 708 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 709 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
+| 709 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 710 | [The Surge](games/t/the_surge.md) | 4.52 | 
 | 711 | [The Surge 2](games/t/the_surge_2.md) | 4.26 | 
 | 712 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
