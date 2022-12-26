@@ -196,7 +196,7 @@
 | 194 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 195 | [DOOM 3](games/d/doom_3.md) | 4.64 | 
 | 196 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 197 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
+| 197 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 198 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 199 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 200 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
@@ -578,7 +578,7 @@
 | 576 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 577 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
 | 578 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 579 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 579 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 580 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
 | 581 | [shapez](games/s/shapez.md) | 4.75 | 
 | 582 | [Sheltered](games/s/sheltered.md) | 4.43 | 
