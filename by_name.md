@@ -201,7 +201,7 @@
 | 199 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 200 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 201 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 202 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
+| 202 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 203 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 204 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.72 | 
 | 205 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 

@@ -752,12 +752,12 @@
 | 749 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
 | 749 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
 | 749 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
+| 749 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 749 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 754 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 754 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 754 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 754 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 754 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
+| 755 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 755 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 755 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 755 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 759 | [Windbound](games/w/windbound.md) | 4.19 | 
 | 759 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 759 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.19 | 
