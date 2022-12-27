@@ -210,7 +210,7 @@
 | 208 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 209 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 210 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 211 | [Encased](games/e/encased.md) | 4.33 | 
+| 211 | [Encased](games/e/encased.md) | 4.37 | 
 | 212 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 213 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 214 | [EVE Online](games/e/eve_online.md) | 4.26 | 
@@ -795,7 +795,7 @@
 | 793 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 794 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
 | 795 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
-| 796 | [Warface](games/w/warface.md) | 3.92 | 
+| 796 | [Warface](games/w/warface.md) | 3.91 | 
 | 797 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 798 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 799 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 

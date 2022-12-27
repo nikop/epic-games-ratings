@@ -659,37 +659,37 @@
 | 655 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 655 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 655 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
+| 655 | [Encased](games/e/encased.md) | 4.37 | 
 | 655 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 655 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 662 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 662 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 662 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 662 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 662 | [Torchlight](games/t/torchlight.md) | 4.36 | 
-| 662 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
-| 662 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 662 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
-| 662 | [Hammerting](games/h/hammerting.md) | 4.36 | 
-| 662 | [Backbone](games/b/backbone.md) | 4.36 | 
-| 662 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
-| 662 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
-| 674 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
-| 674 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 674 | [Cris Tales](games/c/cris_tales.md) | 4.35 | 
-| 674 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
-| 674 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 674 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 674 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 674 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
-| 674 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
-| 674 | [ZOMBI](games/z/zombi.md) | 4.35 | 
-| 684 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 684 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 684 | [Ashen](games/a/ashen.md) | 4.34 | 
-| 684 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
-| 684 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 689 | [Automachef](games/a/automachef.md) | 4.33 | 
-| 689 | [Encased](games/e/encased.md) | 4.33 | 
+| 663 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 663 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 663 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 663 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 663 | [Torchlight](games/t/torchlight.md) | 4.36 | 
+| 663 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
+| 663 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
+| 663 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
+| 663 | [Hammerting](games/h/hammerting.md) | 4.36 | 
+| 663 | [Backbone](games/b/backbone.md) | 4.36 | 
+| 663 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
+| 663 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
+| 675 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
+| 675 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 675 | [Cris Tales](games/c/cris_tales.md) | 4.35 | 
+| 675 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
+| 675 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 675 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
+| 675 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 675 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
+| 675 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
+| 675 | [ZOMBI](games/z/zombi.md) | 4.35 | 
+| 685 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 685 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 685 | [Ashen](games/a/ashen.md) | 4.34 | 
+| 685 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
+| 685 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
+| 690 | [Automachef](games/a/automachef.md) | 4.33 | 
 | 691 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 691 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
 | 691 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
@@ -825,10 +825,10 @@
 | 822 | [Conarium](games/c/conarium.md) | 3.94 | 
 | 822 | [Patron](games/p/patron.md) | 3.94 | 
 | 822 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
-| 826 | [Warface](games/w/warface.md) | 3.92 | 
 | 826 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 826 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
-| 829 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 828 | [Warface](games/w/warface.md) | 3.91 | 
+| 828 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 830 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.88 | 
 | 831 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.87 | 
 | 832 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
