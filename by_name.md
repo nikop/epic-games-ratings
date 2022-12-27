@@ -189,7 +189,7 @@
 | 187 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 188 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
-| 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 
+| 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
 | 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.50 | 
 | 192 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 193 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.60 | 
@@ -435,7 +435,7 @@
 | 433 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 434 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 435 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 436 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 436 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.21 | 
 | 437 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 438 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 439 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
@@ -785,7 +785,7 @@
 | 783 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.55 | 
 | 784 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 785 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 786 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.83 | 
+| 786 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 787 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
 | 788 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 789 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
