@@ -80,7 +80,7 @@
 | 78 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
 | 79 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 81 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
+| 81 | [BIOMUTANT](games/b/biomutant.md) | 4.31 | 
 | 82 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 83 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 84 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
@@ -222,7 +222,7 @@
 | 220 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 221 | [Faeria](games/f/faeria.md) | 4.43 | 
 | 222 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 223 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.78 | 
+| 223 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.79 | 
 | 224 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 225 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.57 | 
 | 226 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.58 | 
@@ -305,7 +305,7 @@
 | 303 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 304 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 305 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 306 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.59 | 
+| 306 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.60 | 
 | 307 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 308 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 309 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
@@ -408,7 +408,7 @@
 | 406 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 407 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 408 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
-| 409 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.50 | 
+| 409 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.51 | 
 | 410 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 411 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 412 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 

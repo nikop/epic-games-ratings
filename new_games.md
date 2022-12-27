@@ -7,9 +7,9 @@
 | 5 | [High On Life](games/h/high_on_life.md) | 4.73 | 
 | 6 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.44 | 
 | 7 | [IXION](games/i/ixion.md) | 4.66 | 
-| 8 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.59 | 
+| 8 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.60 | 
 | 9 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
 | 10 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 
-| 11 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.50 | 
+| 11 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.51 | 
 | 12 | [Predecessor](games/p/predecessor.md) | 4.39 | 
 | 13 | [Fangs](games/f/fangs.md) | 4.15 | 
