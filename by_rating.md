@@ -350,7 +350,6 @@
 | 328 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 328 | [GigaBash](games/g/gigabash.md) | 4.61 | 
 | 350 | [Control](games/c/control.md) | 4.60 | 
-| 350 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 350 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
 | 350 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 350 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
@@ -370,21 +369,22 @@
 | 350 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 350 | [NORCO](games/n/norco.md) | 4.60 | 
 | 350 | [Tails of Iron](games/t/tails_of_iron.md) | 4.60 | 
-| 371 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 371 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 371 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
-| 371 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 371 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
-| 371 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
-| 371 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
-| 371 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
-| 371 | [Oxenfree](games/o/oxenfree.md) | 4.59 | 
-| 371 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
-| 371 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
-| 371 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.59 | 
-| 371 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.59 | 
-| 371 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
-| 371 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
+| 370 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 370 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 370 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
+| 370 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
+| 370 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 370 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 370 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
+| 370 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
+| 370 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
+| 370 | [Oxenfree](games/o/oxenfree.md) | 4.59 | 
+| 370 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
+| 370 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
+| 370 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.59 | 
+| 370 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.59 | 
+| 370 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
+| 370 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 386 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
 | 386 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 386 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -395,7 +395,6 @@
 | 386 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 386 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.58 | 
 | 386 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
-| 386 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
 | 386 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
 | 386 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 386 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 
@@ -406,20 +405,21 @@
 | 386 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 386 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 386 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.58 | 
-| 407 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 407 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 407 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 407 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
-| 407 | [Moving Out](games/m/moving_out.md) | 4.57 | 
-| 407 | [Hob](games/h/hob.md) | 4.57 | 
-| 407 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 407 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
-| 407 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
-| 407 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
-| 407 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.57 | 
-| 407 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.57 | 
-| 407 | [The Medium](games/t/the_medium.md) | 4.57 | 
-| 407 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.57 | 
+| 406 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 406 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 406 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 406 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 406 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
+| 406 | [Moving Out](games/m/moving_out.md) | 4.57 | 
+| 406 | [Hob](games/h/hob.md) | 4.57 | 
+| 406 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 406 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
+| 406 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
+| 406 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
+| 406 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.57 | 
+| 406 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.57 | 
+| 406 | [The Medium](games/t/the_medium.md) | 4.57 | 
+| 406 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.57 | 
 | 421 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 421 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 421 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
@@ -742,6 +742,7 @@
 | 739 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 739 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
 | 739 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
+| 743 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
 | 743 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
 | 743 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
 | 743 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
@@ -750,11 +751,10 @@
 | 743 | [Starsand](games/s/starsand.md) | 4.22 | 
 | 743 | [Gotham Knights](games/g/gotham_knights.md) | 4.22 | 
 | 743 | [Somerville](games/s/somerville.md) | 4.22 | 
-| 751 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.21 | 
-| 751 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
-| 751 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
-| 751 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
-| 751 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
+| 752 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
+| 752 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
+| 752 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
+| 752 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
 | 756 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 756 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 756 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
