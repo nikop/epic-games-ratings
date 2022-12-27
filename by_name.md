@@ -139,7 +139,7 @@
 | 137 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 138 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
 | 139 | [Cris Tales](games/c/cris_tales.md) | 4.35 | 
-| 140 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
+| 140 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 141 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 142 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 143 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.62 | 
@@ -345,7 +345,7 @@
 | 343 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 344 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 345 | [Isonzo](games/i/isonzo.md) | 4.58 | 
-| 346 | [IXION](games/i/ixion.md) | 4.65 | 
+| 346 | [IXION](games/i/ixion.md) | 4.66 | 
 | 347 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 348 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 349 | [Journey](games/j/journey.md) | 4.78 | 
@@ -397,7 +397,7 @@
 | 395 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 396 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
 | 397 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
-| 398 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.68 | 
+| 398 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.69 | 
 | 399 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 400 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 401 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 

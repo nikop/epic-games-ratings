@@ -217,23 +217,23 @@
 | 200 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 
 | 200 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
 | 200 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 218 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 218 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 218 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 218 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 218 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 218 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 218 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 218 | [Overcooked](games/o/overcooked.md) | 4.68 | 
-| 218 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 218 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 218 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
-| 218 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 218 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
-| 218 | [CARRION](games/c/carrion.md) | 4.68 | 
-| 218 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
-| 218 | [DEATH STRANDING](games/d/death_stranding.md) | 4.68 | 
-| 218 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.68 | 
+| 200 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.69 | 
+| 219 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 219 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 219 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 219 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 219 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 219 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 219 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 219 | [Overcooked](games/o/overcooked.md) | 4.68 | 
+| 219 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
+| 219 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 219 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
+| 219 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
+| 219 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
+| 219 | [CARRION](games/c/carrion.md) | 4.68 | 
+| 219 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
+| 219 | [DEATH STRANDING](games/d/death_stranding.md) | 4.68 | 
 | 235 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 235 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 235 | [Trackmania](games/t/trackmania.md) | 4.67 | 
@@ -268,24 +268,24 @@
 | 252 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
 | 252 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 252 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
-| 269 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 269 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 269 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 269 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.65 | 
-| 269 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 269 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
-| 269 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 269 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
-| 269 | [Limbo](games/l/limbo.md) | 4.65 | 
-| 269 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.65 | 
-| 269 | [Coromon](games/c/coromon.md) | 4.65 | 
-| 269 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
-| 269 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
-| 269 | [APE OUT](games/a/ape_out.md) | 4.65 | 
-| 269 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
-| 269 | [Card Shark](games/c/card_shark.md) | 4.65 | 
-| 269 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
-| 269 | [IXION](games/i/ixion.md) | 4.65 | 
+| 252 | [IXION](games/i/ixion.md) | 4.66 | 
+| 270 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 270 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 270 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 270 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.65 | 
+| 270 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 270 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
+| 270 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 270 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
+| 270 | [Limbo](games/l/limbo.md) | 4.65 | 
+| 270 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.65 | 
+| 270 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 270 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
+| 270 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
+| 270 | [APE OUT](games/a/ape_out.md) | 4.65 | 
+| 270 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
+| 270 | [Card Shark](games/c/card_shark.md) | 4.65 | 
+| 270 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
 | 287 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 287 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 287 | [HITMAN](games/h/hitman.md) | 4.64 | 
@@ -657,22 +657,22 @@
 | 655 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 655 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 655 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 655 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 655 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 655 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 655 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 661 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 661 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 661 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 661 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
-| 661 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 661 | [Torchlight](games/t/torchlight.md) | 4.36 | 
-| 661 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
-| 661 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 661 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
-| 661 | [Hammerting](games/h/hammerting.md) | 4.36 | 
-| 661 | [Backbone](games/b/backbone.md) | 4.36 | 
-| 661 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
-| 661 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
+| 662 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 662 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 662 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 662 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 662 | [Torchlight](games/t/torchlight.md) | 4.36 | 
+| 662 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
+| 662 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
+| 662 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
+| 662 | [Hammerting](games/h/hammerting.md) | 4.36 | 
+| 662 | [Backbone](games/b/backbone.md) | 4.36 | 
+| 662 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
+| 662 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
 | 674 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 674 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 674 | [Cris Tales](games/c/cris_tales.md) | 4.35 | 
