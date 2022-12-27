@@ -481,7 +481,7 @@
 | 479 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 480 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
 | 481 | [Oxenfree](games/o/oxenfree.md) | 4.59 | 
-| 482 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
+| 482 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
 | 483 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 484 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 485 | [Paradigm](games/p/paradigm.md) | 4.48 | 
@@ -584,7 +584,7 @@
 | 582 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
 | 583 | [shapez](games/s/shapez.md) | 4.75 | 
 | 584 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 585 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
+| 585 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
 | 586 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.49 | 
 | 587 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 588 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 
@@ -629,7 +629,7 @@
 | 627 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 628 | [Starsand](games/s/starsand.md) | 4.22 | 
 | 629 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
-| 630 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
+| 630 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
 | 631 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 632 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 633 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
@@ -712,7 +712,7 @@
 | 710 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 711 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 712 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 713 | [The Surge 2](games/t/the_surge_2.md) | 4.26 | 
+| 713 | [The Surge 2](games/t/the_surge_2.md) | 4.27 | 
 | 714 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 715 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
 | 716 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
