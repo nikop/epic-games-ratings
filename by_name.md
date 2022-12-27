@@ -144,7 +144,7 @@
 | 142 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 143 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.62 | 
 | 144 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
-| 145 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
+| 145 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 146 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
 | 147 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 
 | 148 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
@@ -227,7 +227,7 @@
 | 225 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.57 | 
 | 226 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.58 | 
 | 227 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 228 | [Fangs](games/f/fangs.md) | 4.15 | 
+| 228 | [Fangs](games/f/fangs.md) | 4.20 | 
 | 229 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 230 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.22 | 
 | 231 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
@@ -775,7 +775,7 @@
 | 773 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
 | 774 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 775 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 776 | [TUNIC](games/t/tunic.md) | 4.86 | 
+| 776 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 777 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 778 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 779 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 

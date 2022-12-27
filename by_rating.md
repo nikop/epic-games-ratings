@@ -25,15 +25,15 @@
 | 23 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 23 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 23 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 23 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 23 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 23 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
-| 28 | [Inscryption](games/i/inscryption.md) | 4.86 | 
-| 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 28 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
-| 28 | [TUNIC](games/t/tunic.md) | 4.86 | 
-| 28 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
-| 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
+| 29 | [Inscryption](games/i/inscryption.md) | 4.86 | 
+| 29 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 29 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 29 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
+| 29 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
+| 29 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 35 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 35 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 35 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
@@ -613,7 +613,6 @@
 | 609 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 
 | 609 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 609 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 609 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
 | 609 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
 | 609 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
 | 609 | [ELEX](games/e/elex.md) | 4.41 | 
@@ -625,18 +624,19 @@
 | 609 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 609 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 609 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 626 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 626 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
-| 626 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
-| 626 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 626 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.40 | 
-| 626 | [Tacoma](games/t/tacoma.md) | 4.40 | 
-| 626 | [ATOM RPG](games/a/atom_rpg.md) | 4.40 | 
-| 626 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 626 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 626 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 626 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
-| 626 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
+| 625 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 625 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 625 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
+| 625 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
+| 625 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 625 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.40 | 
+| 625 | [Tacoma](games/t/tacoma.md) | 4.40 | 
+| 625 | [ATOM RPG](games/a/atom_rpg.md) | 4.40 | 
+| 625 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 625 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 625 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 625 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
+| 625 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 638 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 638 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 638 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
@@ -759,30 +759,30 @@
 | 756 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 756 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 756 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
-| 760 | [Windbound](games/w/windbound.md) | 4.19 | 
-| 760 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 760 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
-| 760 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.19 | 
-| 760 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
-| 760 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 760 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
-| 760 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 760 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
-| 769 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 769 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
-| 771 | [Space Punks](games/s/space_punks.md) | 4.17 | 
-| 772 | [Gone Home](games/g/gone_home.md) | 4.16 | 
-| 772 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 772 | [Submerged](games/s/submerged.md) | 4.16 | 
-| 772 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
-| 776 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
-| 776 | [Relicta](games/r/relicta.md) | 4.15 | 
-| 776 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
-| 776 | [The Guild 3](games/t/the_guild_3.md) | 4.15 | 
-| 776 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.15 | 
-| 776 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 776 | [Fangs](games/f/fangs.md) | 4.15 | 
-| 776 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 
+| 756 | [Fangs](games/f/fangs.md) | 4.20 | 
+| 761 | [Windbound](games/w/windbound.md) | 4.19 | 
+| 761 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 761 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
+| 761 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.19 | 
+| 761 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
+| 761 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
+| 761 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
+| 761 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 761 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
+| 770 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 770 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
+| 772 | [Space Punks](games/s/space_punks.md) | 4.17 | 
+| 773 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 773 | [Family Man](games/f/family_man.md) | 4.16 | 
+| 773 | [Submerged](games/s/submerged.md) | 4.16 | 
+| 773 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 777 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
+| 777 | [Relicta](games/r/relicta.md) | 4.15 | 
+| 777 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
+| 777 | [The Guild 3](games/t/the_guild_3.md) | 4.15 | 
+| 777 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.15 | 
+| 777 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
+| 777 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 
 | 784 | [Pine](games/p/pine.md) | 4.14 | 
 | 784 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 784 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
