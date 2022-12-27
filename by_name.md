@@ -112,7 +112,7 @@
 | 110 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 
 | 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 113 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
+| 113 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 114 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.70 | 
 | 115 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.78 | 
 | 116 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
@@ -507,7 +507,7 @@
 | 505 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 506 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.55 | 
 | 507 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
-| 508 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 508 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 509 | [Predecessor](games/p/predecessor.md) | 4.39 | 
 | 510 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 511 | [Prey](games/p/prey.md) | 4.61 | 
@@ -557,7 +557,7 @@
 | 555 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 556 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 557 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 558 | [Sable](games/s/sable.md) | 4.52 | 
+| 558 | [Sable](games/s/sable.md) | 4.51 | 
 | 559 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
 | 560 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 561 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.44 | 
@@ -726,12 +726,12 @@
 | 724 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
 | 725 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
 | 726 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 727 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
+| 727 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 728 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 729 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 730 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.57 | 
 | 731 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
-| 732 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 
+| 732 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 733 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 734 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 735 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
