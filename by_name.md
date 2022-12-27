@@ -13,7 +13,7 @@
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
-| 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
+| 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
@@ -190,7 +190,7 @@
 | 188 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
-| 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.50 | 
+| 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.52 | 
 | 192 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 193 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.60 | 
 | 194 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
@@ -435,7 +435,7 @@
 | 433 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 434 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 435 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 436 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.22 | 
+| 436 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.21 | 
 | 437 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 438 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 439 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
@@ -815,7 +815,7 @@
 | 813 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 814 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 815 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 816 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 
+| 816 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.87 | 
 | 817 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 818 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 819 | [Windbound](games/w/windbound.md) | 4.19 | 
