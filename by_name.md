@@ -125,7 +125,7 @@
 | 123 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
 | 124 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
 | 125 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 126 | [Conarium](games/c/conarium.md) | 3.93 | 
+| 126 | [Conarium](games/c/conarium.md) | 3.94 | 
 | 127 | [Control](games/c/control.md) | 4.60 | 
 | 128 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 129 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
@@ -354,7 +354,7 @@
 | 352 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 353 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 354 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 355 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.57 | 
+| 355 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.58 | 
 | 356 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 357 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 358 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
@@ -633,7 +633,7 @@
 | 631 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 632 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 633 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
-| 634 | [STG Football](games/s/stg_football.md) | 4.54 | 
+| 634 | [STG Football](games/s/stg_football.md) | 4.52 | 
 | 635 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 636 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 637 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
@@ -663,7 +663,7 @@
 | 661 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
 | 662 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 663 | [Tacoma](games/t/tacoma.md) | 4.40 | 
-| 664 | [Tails of Iron](games/t/tails_of_iron.md) | 4.60 | 
+| 664 | [Tails of Iron](games/t/tails_of_iron.md) | 4.55 | 
 | 665 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 666 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 667 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
