@@ -357,6 +357,7 @@
 | 350 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
 | 350 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
 | 350 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
+| 350 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
 | 350 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 350 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 350 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
@@ -369,22 +370,21 @@
 | 350 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 350 | [NORCO](games/n/norco.md) | 4.60 | 
 | 350 | [Tails of Iron](games/t/tails_of_iron.md) | 4.60 | 
-| 370 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 370 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 370 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
-| 370 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 370 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
-| 370 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
-| 370 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
-| 370 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
-| 370 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
-| 370 | [Oxenfree](games/o/oxenfree.md) | 4.59 | 
-| 370 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
-| 370 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
-| 370 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.59 | 
-| 370 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.59 | 
-| 370 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
-| 370 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
+| 371 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 371 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 371 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
+| 371 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 371 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 371 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
+| 371 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
+| 371 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
+| 371 | [Oxenfree](games/o/oxenfree.md) | 4.59 | 
+| 371 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
+| 371 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
+| 371 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.59 | 
+| 371 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.59 | 
+| 371 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
+| 371 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 386 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
 | 386 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 386 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -758,15 +758,15 @@
 | 751 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
 | 757 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 757 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 757 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 757 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 761 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 761 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.19 | 
-| 761 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
-| 761 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 761 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
-| 761 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 761 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
+| 760 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 760 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
+| 760 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.19 | 
+| 760 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
+| 760 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
+| 760 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
+| 760 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 760 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 768 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 768 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 768 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 

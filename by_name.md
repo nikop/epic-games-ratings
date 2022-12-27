@@ -158,7 +158,7 @@
 | 156 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 157 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 158 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
-| 159 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 
+| 159 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
 | 160 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 161 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
 | 162 | [Dauntless](games/d/dauntless.md) | 4.53 | 
@@ -267,7 +267,7 @@
 | 265 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.19 | 
 | 266 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 267 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
-| 268 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 268 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
 | 269 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 
 | 270 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 271 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
