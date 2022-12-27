@@ -167,7 +167,7 @@
 | 165 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 166 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 167 | [Death Coming](games/d/death_coming.md) | 4.45 | 
-| 168 | [DEATH STRANDING](games/d/death_stranding.md) | 4.69 | 
+| 168 | [DEATH STRANDING](games/d/death_stranding.md) | 4.70 | 
 | 169 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 170 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 171 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
@@ -315,7 +315,7 @@
 | 313 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 314 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 315 | [Hob](games/h/hob.md) | 4.57 | 
-| 316 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
+| 316 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 317 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 318 | [Horace](games/h/horace.md) | 4.53 | 
 | 319 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.58 | 
@@ -625,7 +625,7 @@
 | 623 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
 | 624 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
 | 625 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 626 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
+| 626 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
 | 627 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 628 | [Starsand](games/s/starsand.md) | 4.22 | 
 | 629 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
@@ -795,7 +795,7 @@
 | 793 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 794 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
 | 795 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
-| 796 | [Warface](games/w/warface.md) | 3.91 | 
+| 796 | [Warface](games/w/warface.md) | 3.92 | 
 | 797 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 798 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 799 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
