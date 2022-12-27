@@ -217,23 +217,23 @@
 | 200 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 
 | 200 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
 | 200 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
+| 200 | [DEATH STRANDING](games/d/death_stranding.md) | 4.69 | 
 | 200 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.69 | 
-| 219 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 219 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 219 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 219 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 219 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 219 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 219 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 219 | [Overcooked](games/o/overcooked.md) | 4.68 | 
-| 219 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 219 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 219 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
-| 219 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 219 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
-| 219 | [CARRION](games/c/carrion.md) | 4.68 | 
-| 219 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
-| 219 | [DEATH STRANDING](games/d/death_stranding.md) | 4.68 | 
+| 220 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 220 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 220 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 220 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 220 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 220 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 220 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 220 | [Overcooked](games/o/overcooked.md) | 4.68 | 
+| 220 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
+| 220 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 220 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
+| 220 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
+| 220 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.68 | 
+| 220 | [CARRION](games/c/carrion.md) | 4.68 | 
+| 220 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
 | 235 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 235 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 235 | [Trackmania](games/t/trackmania.md) | 4.67 | 
@@ -319,7 +319,6 @@
 | 312 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.62 | 
 | 312 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 
 | 312 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
-| 312 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
 | 312 | [ABZU](games/a/abzu.md) | 4.62 | 
 | 312 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 312 | [Roguebook](games/r/roguebook.md) | 4.62 | 
@@ -328,27 +327,28 @@
 | 312 | [Everything](games/e/everything.md) | 4.62 | 
 | 312 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.62 | 
 | 312 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 329 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
-| 329 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 329 | [Warframe](games/w/warframe.md) | 4.61 | 
-| 329 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
-| 329 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
-| 329 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 329 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 329 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 329 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 329 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
-| 329 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 329 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 
-| 329 | [20XX](games/2/20xx.md) | 4.61 | 
-| 329 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 329 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
-| 329 | [Road 96](games/r/road_96.md) | 4.61 | 
-| 329 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
-| 329 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
-| 329 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.61 | 
-| 329 | [Darkwood](games/d/darkwood.md) | 4.61 | 
-| 329 | [GigaBash](games/g/gigabash.md) | 4.61 | 
+| 328 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
+| 328 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 328 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 328 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
+| 328 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
+| 328 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 328 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 328 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 328 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 328 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 328 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 328 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 
+| 328 | [20XX](games/2/20xx.md) | 4.61 | 
+| 328 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 328 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
+| 328 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
+| 328 | [Road 96](games/r/road_96.md) | 4.61 | 
+| 328 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
+| 328 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
+| 328 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.61 | 
+| 328 | [Darkwood](games/d/darkwood.md) | 4.61 | 
+| 328 | [GigaBash](games/g/gigabash.md) | 4.61 | 
 | 350 | [Control](games/c/control.md) | 4.60 | 
 | 350 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 350 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 

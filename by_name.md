@@ -167,7 +167,7 @@
 | 165 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 166 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 167 | [Death Coming](games/d/death_coming.md) | 4.45 | 
-| 168 | [DEATH STRANDING](games/d/death_stranding.md) | 4.68 | 
+| 168 | [DEATH STRANDING](games/d/death_stranding.md) | 4.69 | 
 | 169 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 170 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 171 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
@@ -251,7 +251,7 @@
 | 249 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 250 | [Firework](games/f/firework.md) | 4.89 | 
 | 251 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 252 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 
+| 252 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 253 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 254 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 255 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
