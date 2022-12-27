@@ -447,7 +447,7 @@
 | 445 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.62 | 
 | 446 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
 | 447 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 448 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 448 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.74 | 
 | 449 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 450 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 451 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
@@ -512,7 +512,7 @@
 | 510 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 511 | [Prey](games/p/prey.md) | 4.62 | 
 | 512 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 513 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
+| 513 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
 | 514 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 515 | [Quake](games/q/quake.md) | 4.78 | 
 | 516 | [Rage 2](games/r/rage_2.md) | 4.28 | 
