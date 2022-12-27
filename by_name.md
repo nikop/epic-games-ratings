@@ -202,7 +202,7 @@
 | 200 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 201 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 202 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 203 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
+| 203 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 204 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 205 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 206 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -512,7 +512,7 @@
 | 510 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 511 | [Prey](games/p/prey.md) | 4.62 | 
 | 512 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 513 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
+| 513 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
 | 514 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 515 | [Quake](games/q/quake.md) | 4.78 | 
 | 516 | [Rage 2](games/r/rage_2.md) | 4.28 | 

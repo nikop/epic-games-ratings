@@ -754,11 +754,11 @@
 | 751 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 751 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
 | 751 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
-| 751 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 751 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 757 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 757 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 757 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 756 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 756 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 756 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 756 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 760 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 760 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
 | 760 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.19 | 
@@ -814,7 +814,7 @@
 | 812 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 813 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 813 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 
-| 813 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
+| 815 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
 | 816 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 816 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
 | 818 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
