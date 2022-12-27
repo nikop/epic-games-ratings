@@ -156,32 +156,32 @@
 | 144 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
 | 144 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
 | 144 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
+| 144 | [High On Life](games/h/high_on_life.md) | 4.73 | 
 | 144 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 144 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 159 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 159 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 159 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 159 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
-| 159 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 159 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
-| 159 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
-| 159 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 159 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 159 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.72 | 
-| 159 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
-| 170 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 170 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 170 | [Timberborn](games/t/timberborn.md) | 4.71 | 
-| 170 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 170 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 170 | [Fez](games/f/fez.md) | 4.71 | 
-| 170 | [Northgard](games/n/northgard.md) | 4.71 | 
-| 170 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
-| 170 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 
-| 170 | [High On Life](games/h/high_on_life.md) | 4.71 | 
-| 170 | [King of Retail](games/k/king_of_retail.md) | 4.71 | 
-| 170 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
-| 170 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
+| 160 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 160 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 160 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 160 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
+| 160 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 160 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
+| 160 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
+| 160 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 160 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 160 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.72 | 
+| 160 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
+| 171 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 171 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 171 | [Timberborn](games/t/timberborn.md) | 4.71 | 
+| 171 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 171 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 171 | [Fez](games/f/fez.md) | 4.71 | 
+| 171 | [Northgard](games/n/northgard.md) | 4.71 | 
+| 171 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
+| 171 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 
+| 171 | [King of Retail](games/k/king_of_retail.md) | 4.71 | 
+| 171 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
+| 171 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
 | 183 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 183 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 183 | [For The King](games/f/for_the_king.md) | 4.70 | 
@@ -498,31 +498,31 @@
 | 495 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 495 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 495 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 495 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 495 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 495 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
 | 495 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 495 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 495 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 495 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 505 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 505 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 505 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 505 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 505 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
-| 505 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 505 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
-| 505 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 505 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
-| 505 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
-| 505 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 505 | [CryoFall](games/c/cryofall.md) | 4.50 | 
-| 505 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
-| 505 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
-| 505 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 505 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.50 | 
-| 505 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.50 | 
-| 505 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
-| 505 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
+| 506 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 506 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 506 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 506 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 506 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
+| 506 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 506 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 506 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
+| 506 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
+| 506 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 506 | [CryoFall](games/c/cryofall.md) | 4.50 | 
+| 506 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
+| 506 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
+| 506 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
+| 506 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.50 | 
+| 506 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.50 | 
+| 506 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
+| 506 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
 | 524 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 524 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 524 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -806,12 +806,12 @@
 | 801 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 805 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
 | 805 | [Lake](games/l/lake.md) | 4.07 | 
+| 805 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.07 | 
 | 805 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
-| 808 | [Godfall](games/g/godfall.md) | 4.06 | 
-| 809 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 809 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
-| 811 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
-| 811 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.04 | 
+| 809 | [Godfall](games/g/godfall.md) | 4.06 | 
+| 810 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 810 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
+| 812 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 813 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 813 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 
 | 815 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 

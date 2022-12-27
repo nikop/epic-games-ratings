@@ -4,7 +4,7 @@
 | 2 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.57 | 
 | 3 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.50 | 
 | 4 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.55 | 
-| 5 | [High On Life](games/h/high_on_life.md) | 4.71 | 
+| 5 | [High On Life](games/h/high_on_life.md) | 4.73 | 
 | 6 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.44 | 
 | 7 | [IXION](games/i/ixion.md) | 4.65 | 
 | 8 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.59 | 

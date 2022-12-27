@@ -117,7 +117,7 @@
 | 115 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.78 | 
 | 116 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 117 | [Chorus](games/c/chorus.md) | 4.45 | 
-| 118 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.04 | 
+| 118 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.07 | 
 | 119 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
 | 120 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 121 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
@@ -175,7 +175,7 @@
 | 173 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 174 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 
 | 175 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
-| 176 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
+| 176 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 177 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 178 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 179 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
@@ -311,7 +311,7 @@
 | 309 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 310 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 311 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 312 | [High On Life](games/h/high_on_life.md) | 4.71 | 
+| 312 | [High On Life](games/h/high_on_life.md) | 4.73 | 
 | 313 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 314 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 315 | [Hob](games/h/hob.md) | 4.57 | 
