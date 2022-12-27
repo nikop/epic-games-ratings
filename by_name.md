@@ -50,13 +50,13 @@
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
-| 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.59 | 
+| 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.39 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.40 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.42 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
-| 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
+| 57 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.33 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
@@ -246,7 +246,7 @@
 | 244 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.63 | 
 | 245 | [Fez](games/f/fez.md) | 4.71 | 
 | 246 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
-| 247 | [Figment](games/f/figment.md) | 4.46 | 
+| 247 | [Figment](games/f/figment.md) | 4.47 | 
 | 248 | [Filament](games/f/filament.md) | 4.32 | 
 | 249 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 250 | [Firework](games/f/firework.md) | 4.89 | 
@@ -771,7 +771,7 @@
 | 769 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 770 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 771 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
-| 772 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.22 | 
+| 772 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
 | 773 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
 | 774 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 775 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
@@ -818,7 +818,7 @@
 | 816 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 
 | 817 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 818 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
-| 819 | [Windbound](games/w/windbound.md) | 4.18 | 
+| 819 | [Windbound](games/w/windbound.md) | 4.19 | 
 | 820 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
 | 821 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
 | 822 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
