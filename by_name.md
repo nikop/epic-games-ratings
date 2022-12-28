@@ -43,7 +43,7 @@
 | 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
 | 43 | [Ashen](games/a/ashen.md) | 4.33 | 
-| 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
+| 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
@@ -325,7 +325,7 @@
 | 323 | [House Party](games/h/house_party.md) | 4.30 | 
 | 324 | [Hue](games/h/hue.md) | 4.56 | 
 | 325 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 326 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
+| 326 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 327 | [Huntdown](games/h/huntdown.md) | 4.84 | 
 | 328 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 329 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
@@ -558,7 +558,7 @@
 | 556 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 557 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 558 | [Sable](games/s/sable.md) | 4.51 | 
-| 559 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
+| 559 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.83 | 
 | 560 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 561 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
 | 562 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
