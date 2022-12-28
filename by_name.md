@@ -278,7 +278,7 @@
 | 276 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 277 | [GigaBash](games/g/gigabash.md) | 4.61 | 
 | 278 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
-| 279 | [GNOG](games/g/gnog.md) | 4.64 | 
+| 279 | [GNOG](games/g/gnog.md) | 4.65 | 
 | 280 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 281 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 282 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
@@ -300,7 +300,7 @@
 | 298 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 299 | [Hammerting](games/h/hammerting.md) | 4.36 | 
 | 300 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
-| 301 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.69 | 
+| 301 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 302 | [Haven](games/h/haven.md) | 4.76 | 
 | 303 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 304 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
@@ -397,7 +397,7 @@
 | 395 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 396 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
 | 397 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
-| 398 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.69 | 
+| 398 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.67 | 
 | 399 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 400 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 401 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
