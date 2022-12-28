@@ -626,6 +626,7 @@
 | 609 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
 | 625 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 625 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 625 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 625 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
 | 625 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
 | 625 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
@@ -637,16 +638,15 @@
 | 625 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
 | 625 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
 | 625 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
-| 638 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 638 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 638 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 638 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
-| 638 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
-| 638 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
-| 638 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 638 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.39 | 
-| 638 | [Predecessor](games/p/predecessor.md) | 4.39 | 
-| 638 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
+| 639 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 639 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 639 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 639 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
+| 639 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
+| 639 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
+| 639 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.39 | 
+| 639 | [Predecessor](games/p/predecessor.md) | 4.39 | 
+| 639 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
 | 648 | [Core](games/c/core.md) | 4.38 | 
 | 648 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 648 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
