@@ -156,20 +156,20 @@
 | 146 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
 | 146 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
 | 146 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
-| 146 | [High On Life](games/h/high_on_life.md) | 4.73 | 
 | 146 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 146 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 160 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 160 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 160 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 160 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
-| 160 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 160 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
-| 160 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
-| 160 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 160 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 160 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.72 | 
-| 160 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
+| 159 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 159 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 159 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 159 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
+| 159 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 159 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
+| 159 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
+| 159 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 159 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 159 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.72 | 
+| 159 | [High On Life](games/h/high_on_life.md) | 4.72 | 
+| 159 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
 | 171 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 171 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 171 | [Timberborn](games/t/timberborn.md) | 4.71 | 
@@ -263,29 +263,29 @@
 | 251 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 251 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
 | 251 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
-| 251 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
 | 251 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
 | 251 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
 | 251 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 251 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
 | 251 | [IXION](games/i/ixion.md) | 4.66 | 
-| 270 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 270 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 270 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 270 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.65 | 
-| 270 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 270 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
-| 270 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 270 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
-| 270 | [Limbo](games/l/limbo.md) | 4.65 | 
-| 270 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.65 | 
-| 270 | [Coromon](games/c/coromon.md) | 4.65 | 
-| 270 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
-| 270 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
-| 270 | [APE OUT](games/a/ape_out.md) | 4.65 | 
-| 270 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
-| 270 | [Card Shark](games/c/card_shark.md) | 4.65 | 
-| 270 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
+| 269 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 269 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 269 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 269 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.65 | 
+| 269 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 269 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
+| 269 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 269 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
+| 269 | [Limbo](games/l/limbo.md) | 4.65 | 
+| 269 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.65 | 
+| 269 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 269 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 269 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
+| 269 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
+| 269 | [APE OUT](games/a/ape_out.md) | 4.65 | 
+| 269 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
+| 269 | [Card Shark](games/c/card_shark.md) | 4.65 | 
+| 269 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
 | 287 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 287 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 287 | [HITMAN](games/h/hitman.md) | 4.64 | 
@@ -480,20 +480,20 @@
 | 461 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 461 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 461 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 461 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
-| 482 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 482 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 482 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 482 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 482 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 482 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 482 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 482 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 482 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 482 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 482 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.52 | 
-| 482 | [STG Football](games/s/stg_football.md) | 4.52 | 
-| 482 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 481 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 481 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 481 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 481 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 481 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 481 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 481 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 481 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 481 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 481 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 481 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
+| 481 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.52 | 
+| 481 | [STG Football](games/s/stg_football.md) | 4.52 | 
+| 481 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 495 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 495 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 495 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
