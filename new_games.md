@@ -1,12 +1,12 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [DEATH STRANDING](games/d/death_stranding.md) | 4.70 | 
+| 1 | [DEATH STRANDING](games/d/death_stranding.md) | 4.74 | 
 | 2 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.57 | 
 | 3 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.52 | 
 | 4 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.55 | 
 | 5 | [High On Life](games/h/high_on_life.md) | 4.72 | 
 | 6 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
-| 7 | [IXION](games/i/ixion.md) | 4.66 | 
+| 7 | [IXION](games/i/ixion.md) | 4.57 | 
 | 8 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.60 | 
 | 9 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
 | 10 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 

@@ -1,10 +1,10 @@
 {
   "ID": "f4a904fcef2447439c35c4e6457f3027",
   "Name": "DEATH STRANDING",
-  "Rating": 4.7,
+  "Rating": 4.74,
   "FirstSeen": "2022-12-25T17:57:41.2427697+00:00",
   "FirstSeenRating": "2022-12-26T09:58:07.1196688+00:00",
-  "LastChanged": "2022-12-27T13:58:21.2003364+00:00",
+  "LastChanged": "2022-12-28T10:57:42.7454604+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-26T09:58:07.1196692+00:00",
@@ -25,7 +25,17 @@
       "Time": "2022-12-27T13:58:21.2003367+00:00",
       "Rating": 4.7,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-28T10:57:42.7454607+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 92
+    }
+  ]
 }

@@ -167,7 +167,7 @@
 | 165 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 166 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 167 | [Death Coming](games/d/death_coming.md) | 4.45 | 
-| 168 | [DEATH STRANDING](games/d/death_stranding.md) | 4.70 | 
+| 168 | [DEATH STRANDING](games/d/death_stranding.md) | 4.74 | 
 | 169 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
 | 170 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 171 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
@@ -251,7 +251,7 @@
 | 249 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 250 | [Firework](games/f/firework.md) | 4.89 | 
 | 251 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 252 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
+| 252 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
 | 253 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 254 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 255 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
@@ -345,7 +345,7 @@
 | 343 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 344 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 345 | [Isonzo](games/i/isonzo.md) | 4.58 | 
-| 346 | [IXION](games/i/ixion.md) | 4.66 | 
+| 346 | [IXION](games/i/ixion.md) | 4.57 | 
 | 347 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 348 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 349 | [Journey](games/j/journey.md) | 4.78 | 
@@ -693,7 +693,7 @@
 | 691 | [The Guild 3](games/t/the_guild_3.md) | 4.15 | 
 | 692 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 
 | 693 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
-| 694 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.84 | 
+| 694 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 
 | 695 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 696 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 
 | 697 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
@@ -778,7 +778,7 @@
 | 776 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 777 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 778 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 779 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
+| 779 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
 | 780 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 781 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
 | 782 | [UnMetal](games/u/unmetal.md) | 4.51 | 
