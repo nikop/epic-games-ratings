@@ -48,7 +48,7 @@
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
+| 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
@@ -104,7 +104,7 @@
 | 102 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
 | 103 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 104 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 105 | [Card Shark](games/c/card_shark.md) | 4.65 | 
+| 105 | [Card Shark](games/c/card_shark.md) | 4.67 | 
 | 106 | [CARRION](games/c/carrion.md) | 4.68 | 
 | 107 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
 | 108 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.61 | 
@@ -185,7 +185,7 @@
 | 183 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 184 | [Diabotical](games/d/diabotical.md) | 4.76 | 
 | 185 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 186 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
+| 186 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
 | 187 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 188 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
@@ -202,7 +202,7 @@
 | 200 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 201 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 202 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 203 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
+| 203 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 204 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 205 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 206 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -288,7 +288,7 @@
 | 286 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 287 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 288 | [Good Company](games/g/good_company.md) | 4.44 | 
-| 289 | [Gotham Knights](games/g/gotham_knights.md) | 4.21 | 
+| 289 | [Gotham Knights](games/g/gotham_knights.md) | 4.22 | 
 | 290 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 291 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 292 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
