@@ -225,7 +225,7 @@
 | 223 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.80 | 
 | 224 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 225 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.56 | 
-| 226 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.60 | 
+| 226 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.61 | 
 | 227 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 228 | [Fangs](games/f/fangs.md) | 4.20 | 
 | 229 | [Far Cry](games/f/far_cry.md) | 4.43 | 
@@ -759,7 +759,7 @@
 | 757 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 758 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 759 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 
-| 760 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 
+| 760 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 761 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
 | 762 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 763 | [Train Valley 2](games/t/train_valley_2.md) | 4.10 | 
