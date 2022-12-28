@@ -64,7 +64,7 @@
 | 62 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 64 | [Backbone](games/b/backbone.md) | 4.38 | 
-| 65 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 65 | [Bad North](games/b/bad_north.md) | 4.69 | 
 | 66 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 67 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
 | 68 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 
@@ -166,7 +166,7 @@
 | 164 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 165 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 166 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
-| 167 | [Death Coming](games/d/death_coming.md) | 4.45 | 
+| 167 | [Death Coming](games/d/death_coming.md) | 4.44 | 
 | 168 | [DEATH STRANDING](games/d/death_stranding.md) | 4.75 | 
 | 169 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.86 | 
 | 170 | [Death's Door](games/d/death's_door.md) | 4.66 | 
@@ -230,7 +230,7 @@
 | 228 | [Fangs](games/f/fangs.md) | 4.20 | 
 | 229 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 230 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.22 | 
-| 231 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 
+| 231 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 232 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 233 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 234 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
@@ -418,7 +418,7 @@
 | 416 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.72 | 
 | 417 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
 | 418 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 419 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.44 | 
+| 419 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 
 | 420 | [Minit](games/m/minit.md) | 4.55 | 
 | 421 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.88 | 
 | 422 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
@@ -485,7 +485,7 @@
 | 483 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 484 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 485 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 486 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
+| 486 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
 | 487 | [Parkitect](games/p/parkitect.md) | 4.30 | 
 | 488 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 489 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
@@ -575,7 +575,7 @@
 | 573 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 574 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 575 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
-| 576 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 
+| 576 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 577 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 578 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
 | 579 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
@@ -708,7 +708,7 @@
 | 706 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 707 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 708 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 709 | [The Silent Age](games/t/the_silent_age.md) | 4.42 | 
+| 709 | [The Silent Age](games/t/the_silent_age.md) | 4.43 | 
 | 710 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 711 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 712 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
