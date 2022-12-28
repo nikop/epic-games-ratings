@@ -57,7 +57,7 @@
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.42 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 58 | [Automachef](games/a/automachef.md) | 4.33 | 
+| 58 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
@@ -190,7 +190,7 @@
 | 188 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
 | 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
-| 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.52 | 
+| 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.46 | 
 | 192 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 193 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.60 | 
 | 194 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
@@ -345,7 +345,7 @@
 | 343 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 344 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 345 | [Isonzo](games/i/isonzo.md) | 4.58 | 
-| 346 | [IXION](games/i/ixion.md) | 4.57 | 
+| 346 | [IXION](games/i/ixion.md) | 4.58 | 
 | 347 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 348 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 349 | [Journey](games/j/journey.md) | 4.78 | 
@@ -409,7 +409,7 @@
 | 407 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 408 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
 | 409 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.50 | 
-| 410 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
+| 410 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 411 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 412 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
 | 413 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
@@ -815,7 +815,7 @@
 | 813 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 814 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 815 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 816 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.87 | 
+| 816 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 
 | 817 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 818 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 819 | [Windbound](games/w/windbound.md) | 4.19 | 
