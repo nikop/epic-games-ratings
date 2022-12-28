@@ -613,7 +613,6 @@
 | 609 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 
 | 609 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 609 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 609 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
 | 609 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
 | 609 | [ELEX](games/e/elex.md) | 4.41 | 
 | 609 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 
@@ -624,20 +623,21 @@
 | 609 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 609 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 609 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 625 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 625 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 625 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 625 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
-| 625 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
-| 625 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 625 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.40 | 
-| 625 | [Tacoma](games/t/tacoma.md) | 4.40 | 
-| 625 | [ATOM RPG](games/a/atom_rpg.md) | 4.40 | 
-| 625 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 625 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 625 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 625 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
-| 625 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
+| 624 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 624 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 624 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 624 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
+| 624 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
+| 624 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
+| 624 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 624 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.40 | 
+| 624 | [Tacoma](games/t/tacoma.md) | 4.40 | 
+| 624 | [ATOM RPG](games/a/atom_rpg.md) | 4.40 | 
+| 624 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 624 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 624 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 624 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
+| 624 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 639 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 639 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 639 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
@@ -803,11 +803,11 @@
 | 801 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 801 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
 | 801 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
-| 801 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
-| 805 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
-| 805 | [Lake](games/l/lake.md) | 4.07 | 
-| 805 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.07 | 
-| 805 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
+| 804 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
+| 804 | [Lake](games/l/lake.md) | 4.07 | 
+| 804 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.07 | 
+| 804 | [Fort Triumph](games/f/fort_triumph.md) | 4.07 | 
+| 804 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
 | 809 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 810 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 810 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 

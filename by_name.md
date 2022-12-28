@@ -258,7 +258,7 @@
 | 256 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
 | 257 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 258 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
-| 259 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
+| 259 | [Fort Triumph](games/f/fort_triumph.md) | 4.07 | 
 | 260 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 261 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.67 | 
 | 262 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
@@ -625,7 +625,7 @@
 | 623 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
 | 624 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
 | 625 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 626 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
+| 626 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
 | 627 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 628 | [Starsand](games/s/starsand.md) | 4.22 | 
 | 629 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
