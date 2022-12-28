@@ -133,7 +133,7 @@
 | 131 | [Coromon](games/c/coromon.md) | 4.65 | 
 | 132 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
 | 133 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 134 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.45 | 
+| 134 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 135 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 136 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 137 | [Crayta](games/c/crayta.md) | 4.19 | 
@@ -167,10 +167,10 @@
 | 165 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 166 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 167 | [Death Coming](games/d/death_coming.md) | 4.45 | 
-| 168 | [DEATH STRANDING](games/d/death_stranding.md) | 4.74 | 
-| 169 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
+| 168 | [DEATH STRANDING](games/d/death_stranding.md) | 4.75 | 
+| 169 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.86 | 
 | 170 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 171 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
+| 171 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 172 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 173 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 174 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 
@@ -218,13 +218,13 @@
 | 216 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 217 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 218 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
-| 219 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
+| 219 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 220 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 221 | [Faeria](games/f/faeria.md) | 4.43 | 
 | 222 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 223 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.80 | 
 | 224 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 225 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.55 | 
+| 225 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.56 | 
 | 226 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.60 | 
 | 227 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 228 | [Fangs](games/f/fangs.md) | 4.20 | 
@@ -418,7 +418,7 @@
 | 416 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
 | 417 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
 | 418 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 419 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
+| 419 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.44 | 
 | 420 | [Minit](games/m/minit.md) | 4.55 | 
 | 421 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.88 | 
 | 422 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
