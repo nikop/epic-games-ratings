@@ -42,7 +42,7 @@
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
-| 43 | [Ashen](games/a/ashen.md) | 4.34 | 
+| 43 | [Ashen](games/a/ashen.md) | 4.33 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 
@@ -75,12 +75,12 @@
 | 73 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 74 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 75 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 
+| 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.63 | 
 | 77 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
 | 78 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
 | 79 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 81 | [BIOMUTANT](games/b/biomutant.md) | 4.31 | 
+| 81 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
 | 82 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 83 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 84 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
@@ -305,7 +305,7 @@
 | 303 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 304 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 305 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 306 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.60 | 
+| 306 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.58 | 
 | 307 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 308 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 309 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
@@ -506,7 +506,7 @@
 | 504 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
 | 505 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 506 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.55 | 
-| 507 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
+| 507 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 508 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 509 | [Predecessor](games/p/predecessor.md) | 4.39 | 
 | 510 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
@@ -805,7 +805,7 @@
 | 803 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 804 | [Warpips](games/w/warpips.md) | 4.56 | 
 | 805 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
-| 806 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
+| 806 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 807 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 808 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.30 | 
 | 809 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
