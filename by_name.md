@@ -203,7 +203,7 @@
 | 201 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 202 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 203 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
-| 204 | [Eastward](games/e/eastward.md) | 4.67 | 
+| 204 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 205 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 206 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 207 | [ELEX](games/e/elex.md) | 4.41 | 
@@ -663,7 +663,7 @@
 | 661 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
 | 662 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 663 | [Tacoma](games/t/tacoma.md) | 4.40 | 
-| 664 | [Tails of Iron](games/t/tails_of_iron.md) | 4.55 | 
+| 664 | [Tails of Iron](games/t/tails_of_iron.md) | 4.56 | 
 | 665 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 666 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 667 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
@@ -711,7 +711,7 @@
 | 709 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 710 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 711 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
-| 712 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 712 | [The Surge](games/t/the_surge.md) | 4.51 | 
 | 713 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 
 | 714 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 715 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
