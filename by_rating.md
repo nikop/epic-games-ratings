@@ -125,26 +125,26 @@
 | 118 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 118 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 118 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 118 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
 | 118 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
 | 118 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
 | 118 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
 | 118 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 
 | 118 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
 | 118 | [shapez](games/s/shapez.md) | 4.75 | 
-| 133 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 133 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 133 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 133 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.74 | 
-| 133 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
-| 133 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 133 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
-| 133 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.74 | 
-| 133 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
-| 133 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 133 | [Revita](games/r/revita.md) | 4.74 | 
-| 133 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 133 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
+| 132 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 132 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 132 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 132 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.74 | 
+| 132 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
+| 132 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 132 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 132 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
+| 132 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.74 | 
+| 132 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
+| 132 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 132 | [Revita](games/r/revita.md) | 4.74 | 
+| 132 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 132 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
 | 146 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 146 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 146 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 

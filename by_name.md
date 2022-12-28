@@ -714,7 +714,7 @@
 | 712 | [The Surge](games/t/the_surge.md) | 4.52 | 
 | 713 | [The Surge 2](games/t/the_surge_2.md) | 4.27 | 
 | 714 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 715 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
+| 715 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 716 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 717 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
 | 718 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
