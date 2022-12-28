@@ -292,25 +292,25 @@
 | 287 | [Old World](games/o/old_world.md) | 4.64 | 
 | 287 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 287 | [SOMA](games/s/soma.md) | 4.64 | 
+| 287 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 287 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
 | 287 | [DOOM 3](games/d/doom_3.md) | 4.64 | 
 | 287 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
 | 287 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 287 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
 | 287 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
-| 299 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
-| 299 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 299 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 299 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 299 | [Transistor](games/t/transistor.md) | 4.63 | 
-| 299 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
-| 299 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
-| 299 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
-| 299 | [Mutazione](games/m/mutazione.md) | 4.63 | 
-| 299 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
-| 299 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.63 | 
-| 299 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
-| 299 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
+| 300 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
+| 300 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 300 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 300 | [Transistor](games/t/transistor.md) | 4.63 | 
+| 300 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
+| 300 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
+| 300 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
+| 300 | [Mutazione](games/m/mutazione.md) | 4.63 | 
+| 300 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
+| 300 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.63 | 
+| 300 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
+| 300 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 312 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 312 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 312 | [MudRunner](games/m/mudrunner.md) | 4.62 | 

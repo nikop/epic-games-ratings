@@ -661,7 +661,7 @@
 | 659 | [Suzerain](games/s/suzerain.md) | 4.73 | 
 | 660 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 661 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
-| 662 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 662 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 663 | [Tacoma](games/t/tacoma.md) | 4.40 | 
 | 664 | [Tails of Iron](games/t/tails_of_iron.md) | 4.55 | 
 | 665 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
