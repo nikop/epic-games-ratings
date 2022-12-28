@@ -32,17 +32,17 @@
 | 29 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 29 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 29 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
+| 29 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
 | 29 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 29 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
-| 35 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 35 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 35 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
-| 35 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 35 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
-| 35 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
-| 35 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.85 | 
-| 35 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
-| 35 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
+| 36 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 36 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 36 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.85 | 
+| 36 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
+| 36 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
+| 36 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
+| 36 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.85 | 
+| 36 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 44 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 44 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 44 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
@@ -428,27 +428,27 @@
 | 419 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
 | 419 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
 | 419 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
-| 419 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.56 | 
 | 419 | [Warpips](games/w/warpips.md) | 4.56 | 
 | 419 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 419 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 419 | [Observation](games/o/observation.md) | 4.56 | 
-| 434 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 434 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 434 | [Outward](games/o/outward.md) | 4.55 | 
-| 434 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 434 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
-| 434 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 434 | [Sonic Origins](games/s/sonic_origins.md) | 4.55 | 
-| 434 | [Minit](games/m/minit.md) | 4.55 | 
-| 434 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
-| 434 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 434 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.55 | 
-| 434 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
-| 434 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
-| 434 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.55 | 
-| 434 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.55 | 
-| 434 | [Tails of Iron](games/t/tails_of_iron.md) | 4.55 | 
+| 433 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 433 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 433 | [Outward](games/o/outward.md) | 4.55 | 
+| 433 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 433 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
+| 433 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
+| 433 | [Sonic Origins](games/s/sonic_origins.md) | 4.55 | 
+| 433 | [Minit](games/m/minit.md) | 4.55 | 
+| 433 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 433 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 433 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.55 | 
+| 433 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
+| 433 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
+| 433 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
+| 433 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.55 | 
+| 433 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.55 | 
+| 433 | [Tails of Iron](games/t/tails_of_iron.md) | 4.55 | 
 | 450 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 450 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 450 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
@@ -721,17 +721,17 @@
 | 719 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 719 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
 | 719 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
-| 719 | [The Surge 2](games/t/the_surge_2.md) | 4.27 | 
-| 723 | [EVE Online](games/e/eve_online.md) | 4.26 | 
-| 723 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 723 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 723 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
-| 723 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
-| 723 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
-| 723 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
-| 730 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 730 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
-| 730 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
+| 722 | [EVE Online](games/e/eve_online.md) | 4.26 | 
+| 722 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 722 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 722 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
+| 722 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
+| 722 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
+| 722 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
+| 729 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 729 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
+| 729 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
+| 729 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 
 | 733 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 733 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 733 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 

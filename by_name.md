@@ -60,7 +60,7 @@
 | 58 | [Automachef](games/a/automachef.md) | 4.33 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
-| 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.56 | 
+| 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 64 | [Backbone](games/b/backbone.md) | 4.36 | 
@@ -712,7 +712,7 @@
 | 710 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 711 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 712 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 713 | [The Surge 2](games/t/the_surge_2.md) | 4.27 | 
+| 713 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 
 | 714 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 715 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 716 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
@@ -723,7 +723,7 @@
 | 721 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 
 | 722 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 
 | 723 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
-| 724 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 
+| 724 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
 | 725 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
 | 726 | [The Witness](games/t/the_witness.md) | 4.70 | 
 | 727 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
