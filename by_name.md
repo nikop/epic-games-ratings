@@ -409,13 +409,13 @@
 | 407 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 408 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
 | 409 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.50 | 
-| 410 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
+| 410 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 411 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 412 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
 | 413 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 414 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 415 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 416 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.73 | 
+| 416 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.72 | 
 | 417 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
 | 418 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 419 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.44 | 
@@ -460,7 +460,7 @@
 | 458 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 459 | [Observation](games/o/observation.md) | 4.56 | 
 | 460 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
-| 461 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
+| 461 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.81 | 
 | 462 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 463 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
 | 464 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
@@ -716,7 +716,7 @@
 | 714 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 715 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 716 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 717 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.61 | 
+| 717 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
 | 718 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
 | 719 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 720 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
@@ -778,7 +778,7 @@
 | 776 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 777 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 778 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 779 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
+| 779 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
 | 780 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 781 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
 | 782 | [UnMetal](games/u/unmetal.md) | 4.51 | 
