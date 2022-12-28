@@ -480,7 +480,7 @@
 | 478 | [Overcooked](games/o/overcooked.md) | 4.68 | 
 | 479 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 480 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 481 | [Oxenfree](games/o/oxenfree.md) | 4.59 | 
+| 481 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
 | 482 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
 | 483 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 484 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
@@ -610,7 +610,7 @@
 | 608 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 609 | [Sonic Origins](games/s/sonic_origins.md) | 4.55 | 
 | 610 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 611 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.81 | 
+| 611 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.82 | 
 | 612 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 613 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 614 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
@@ -765,7 +765,7 @@
 | 763 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 764 | [Train Valley 2](games/t/train_valley_2.md) | 4.10 | 
 | 765 | [Transistor](games/t/transistor.md) | 4.63 | 
-| 766 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 
+| 766 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 767 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 768 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
 | 769 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
