@@ -222,9 +222,9 @@
 | 220 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 221 | [Faeria](games/f/faeria.md) | 4.43 | 
 | 222 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 223 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.79 | 
+| 223 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.80 | 
 | 224 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 225 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.57 | 
+| 225 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.55 | 
 | 226 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.60 | 
 | 227 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 228 | [Fangs](games/f/fangs.md) | 4.20 | 
@@ -369,7 +369,7 @@
 | 367 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.74 | 
 | 368 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 369 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
-| 370 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 370 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 371 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 372 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
 | 373 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
@@ -408,7 +408,7 @@
 | 406 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 407 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 408 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
-| 409 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.51 | 
+| 409 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.50 | 
 | 410 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 411 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 412 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
@@ -560,7 +560,7 @@
 | 558 | [Sable](games/s/sable.md) | 4.51 | 
 | 559 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
 | 560 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 561 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.44 | 
+| 561 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
 | 562 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 563 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
 | 564 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 

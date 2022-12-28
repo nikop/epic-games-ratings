@@ -1,10 +1,10 @@
 {
   "ID": "aae22da1fb884fa395b25bc30dd61faf",
   "Name": "Fallout 2: A Post Nuclear Role Playing Game",
-  "Rating": 4.79,
+  "Rating": 4.8,
   "FirstSeen": "2022-10-22T00:03:23.4324557+00:00",
   "FirstSeenRating": "2022-10-31T14:02:48.9261194+00:00",
-  "LastChanged": "2022-12-27T19:58:16.0728527+00:00",
+  "LastChanged": "2022-12-28T02:04:17.2648553+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-31T14:02:48.9261197+00:00",
@@ -94,6 +94,11 @@
     {
       "Time": "2022-12-27T19:58:16.0728529+00:00",
       "Rating": 4.79,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-28T02:04:17.2648554+00:00",
+      "Rating": 4.8,
       "NumberOfRatings": null
     }
   ],
