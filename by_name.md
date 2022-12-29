@@ -170,7 +170,7 @@
 | 168 | [DEATH STRANDING](games/d/death_stranding.md) | 4.76 | 
 | 169 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.86 | 
 | 170 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 171 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 171 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
 | 172 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 173 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 174 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 
@@ -345,10 +345,10 @@
 | 343 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 344 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 345 | [Isonzo](games/i/isonzo.md) | 4.58 | 
-| 346 | [IXION](games/i/ixion.md) | 4.58 | 
+| 346 | [IXION](games/i/ixion.md) | 4.57 | 
 | 347 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 348 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 349 | [Journey](games/j/journey.md) | 4.78 | 
+| 349 | [Journey](games/j/journey.md) | 4.79 | 
 | 350 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
 | 351 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 352 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
