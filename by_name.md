@@ -218,7 +218,7 @@
 | 216 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 217 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 218 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
-| 219 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
+| 219 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 220 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 221 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 222 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
@@ -420,7 +420,7 @@
 | 418 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 419 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 
 | 420 | [Minit](games/m/minit.md) | 4.55 | 
-| 421 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.88 | 
+| 421 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.89 | 
 | 422 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 423 | [Mortal Shell](games/m/mortal_shell.md) | 4.33 | 
 | 424 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
@@ -510,12 +510,12 @@
 | 508 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 509 | [Predecessor](games/p/predecessor.md) | 4.39 | 
 | 510 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
-| 511 | [Prey](games/p/prey.md) | 4.61 | 
+| 511 | [Prey](games/p/prey.md) | 4.62 | 
 | 512 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 513 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
 | 514 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 515 | [Quake](games/q/quake.md) | 4.78 | 
-| 516 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 516 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 517 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 518 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 519 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
@@ -664,7 +664,7 @@
 | 662 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
 | 663 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 664 | [Tacoma](games/t/tacoma.md) | 4.40 | 
-| 665 | [Tails of Iron](games/t/tails_of_iron.md) | 4.56 | 
+| 665 | [Tails of Iron](games/t/tails_of_iron.md) | 4.53 | 
 | 666 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 667 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 668 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
@@ -712,7 +712,7 @@
 | 710 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 711 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 712 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
-| 713 | [The Surge](games/t/the_surge.md) | 4.51 | 
+| 713 | [The Surge](games/t/the_surge.md) | 4.52 | 
 | 714 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 
 | 715 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 716 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
