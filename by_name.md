@@ -167,7 +167,7 @@
 | 165 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 166 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 167 | [Death Coming](games/d/death_coming.md) | 4.44 | 
-| 168 | [DEATH STRANDING](games/d/death_stranding.md) | 4.75 | 
+| 168 | [DEATH STRANDING](games/d/death_stranding.md) | 4.76 | 
 | 169 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.86 | 
 | 170 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 171 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
@@ -210,7 +210,7 @@
 | 208 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 209 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 210 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 211 | [Encased](games/e/encased.md) | 4.37 | 
+| 211 | [Encased](games/e/encased.md) | 4.36 | 
 | 212 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 213 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 214 | [EVE Online](games/e/eve_online.md) | 4.26 | 
@@ -371,7 +371,7 @@
 | 369 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
 | 370 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 371 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 372 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 372 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
 | 373 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 374 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
 | 375 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
@@ -485,7 +485,7 @@
 | 483 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 484 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 485 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 486 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
+| 486 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
 | 487 | [Parkitect](games/p/parkitect.md) | 4.30 | 
 | 488 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 489 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
