@@ -189,7 +189,7 @@
 | 187 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 188 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
-| 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
+| 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 
 | 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.46 | 
 | 192 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 193 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.60 | 
@@ -535,7 +535,7 @@
 | 533 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 534 | [Revita](games/r/revita.md) | 4.74 | 
 | 535 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 536 | [RiME](games/r/rime.md) | 4.58 | 
+| 536 | [RiME](games/r/rime.md) | 4.59 | 
 | 537 | [RiMS Racing](games/r/rims_racing.md) | 4.41 | 
 | 538 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 539 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 

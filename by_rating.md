@@ -95,12 +95,12 @@
 | 89 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
 | 89 | [Journey](games/j/journey.md) | 4.79 | 
 | 89 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 
-| 89 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
-| 97 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
-| 97 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 97 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 97 | [Quake](games/q/quake.md) | 4.78 | 
-| 97 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.78 | 
+| 96 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 96 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 96 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
+| 96 | [Quake](games/q/quake.md) | 4.78 | 
+| 96 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.78 | 
+| 96 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 
 | 102 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 102 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 102 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
@@ -380,31 +380,31 @@
 | 372 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
 | 372 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
 | 372 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
+| 372 | [RiME](games/r/rime.md) | 4.59 | 
 | 372 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.59 | 
 | 372 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
 | 372 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
-| 384 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
-| 384 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 384 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 384 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
-| 384 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 384 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
-| 384 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 384 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 384 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.58 | 
-| 384 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
-| 384 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
-| 384 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
-| 384 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 384 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 
-| 384 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
-| 384 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
-| 384 | [Isonzo](games/i/isonzo.md) | 4.58 | 
-| 384 | [RiME](games/r/rime.md) | 4.58 | 
-| 384 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 384 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
-| 384 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.58 | 
-| 384 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.58 | 
+| 385 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
+| 385 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 385 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 385 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
+| 385 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 385 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
+| 385 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
+| 385 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 385 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.58 | 
+| 385 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
+| 385 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
+| 385 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
+| 385 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
+| 385 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 
+| 385 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
+| 385 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
+| 385 | [Isonzo](games/i/isonzo.md) | 4.58 | 
+| 385 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
+| 385 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
+| 385 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.58 | 
+| 385 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.58 | 
 | 406 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 406 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 406 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
