@@ -326,7 +326,7 @@
 | 324 | [Hue](games/h/hue.md) | 4.56 | 
 | 325 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 326 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 327 | [Huntdown](games/h/huntdown.md) | 4.84 | 
+| 327 | [Huntdown](games/h/huntdown.md) | 4.85 | 
 | 328 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 329 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
 | 330 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
@@ -339,7 +339,7 @@
 | 337 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 338 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 339 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
-| 340 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
+| 340 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 341 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 342 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 343 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
@@ -409,7 +409,7 @@
 | 407 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 408 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
 | 409 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.51 | 
-| 410 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
+| 410 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 411 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 412 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
 | 413 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
@@ -422,7 +422,7 @@
 | 420 | [Minit](games/m/minit.md) | 4.55 | 
 | 421 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.88 | 
 | 422 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 423 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
+| 423 | [Mortal Shell](games/m/mortal_shell.md) | 4.33 | 
 | 424 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 425 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 426 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
@@ -478,7 +478,7 @@
 | 476 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 477 | [Outward](games/o/outward.md) | 4.55 | 
 | 478 | [Overcooked](games/o/overcooked.md) | 4.68 | 
-| 479 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
+| 479 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
 | 480 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
 | 481 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
 | 482 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 

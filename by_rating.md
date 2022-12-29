@@ -16,18 +16,18 @@
 | 10 | [Firework](games/f/firework.md) | 4.89 | 
 | 10 | [Mago](games/m/mago.md) | 4.89 | 
 | 16 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 16 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 16 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
 | 16 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 16 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 16 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
-| 22 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 22 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 22 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 22 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
-| 22 | [TUNIC](games/t/tunic.md) | 4.87 | 
-| 22 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
-| 22 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
+| 21 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
+| 21 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
+| 21 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 21 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 21 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
+| 21 | [TUNIC](games/t/tunic.md) | 4.87 | 
+| 21 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
+| 21 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 29 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.86 | 
 | 29 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 29 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
@@ -43,11 +43,11 @@
 | 37 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 37 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.85 | 
 | 37 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
+| 37 | [Huntdown](games/h/huntdown.md) | 4.85 | 
 | 37 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 
-| 45 | [Subnautica](games/s/subnautica.md) | 4.84 | 
-| 45 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
-| 45 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 45 | [Huntdown](games/h/huntdown.md) | 4.84 | 
+| 46 | [Subnautica](games/s/subnautica.md) | 4.84 | 
+| 46 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
+| 46 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 49 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 49 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
 | 49 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
@@ -120,7 +120,6 @@
 | 111 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
 | 119 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 119 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
 | 119 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 119 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 119 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
@@ -131,21 +130,22 @@
 | 119 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 
 | 119 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
 | 119 | [shapez](games/s/shapez.md) | 4.75 | 
-| 132 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 132 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 132 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 132 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.74 | 
-| 132 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
-| 132 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
-| 132 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 132 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
-| 132 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
-| 132 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.74 | 
-| 132 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
-| 132 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 132 | [Revita](games/r/revita.md) | 4.74 | 
-| 132 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 132 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
+| 131 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 131 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
+| 131 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 131 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 131 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.74 | 
+| 131 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
+| 131 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
+| 131 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 131 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 131 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
+| 131 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.74 | 
+| 131 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
+| 131 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 131 | [Revita](games/r/revita.md) | 4.74 | 
+| 131 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 131 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
 | 147 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 147 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 147 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
@@ -677,20 +677,20 @@
 | 664 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
 | 676 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 676 | [Cris Tales](games/c/cris_tales.md) | 4.35 | 
-| 676 | [Mortal Shell](games/m/mortal_shell.md) | 4.35 | 
 | 676 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 676 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
 | 676 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 676 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
 | 676 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 676 | [ZOMBI](games/z/zombi.md) | 4.35 | 
-| 685 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
-| 685 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 685 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 685 | [Automachef](games/a/automachef.md) | 4.34 | 
-| 685 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
-| 685 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 691 | [Ashen](games/a/ashen.md) | 4.33 | 
+| 684 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 684 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 684 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 684 | [Automachef](games/a/automachef.md) | 4.34 | 
+| 684 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
+| 684 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
+| 690 | [Mortal Shell](games/m/mortal_shell.md) | 4.33 | 
+| 690 | [Ashen](games/a/ashen.md) | 4.33 | 
 | 692 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 692 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
 | 692 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
@@ -752,16 +752,16 @@
 | 745 | [Somerville](games/s/somerville.md) | 4.22 | 
 | 751 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.21 | 
 | 751 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
-| 751 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
 | 751 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 751 | [Gotham Knights](games/g/gotham_knights.md) | 4.21 | 
 | 751 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 757 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 757 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 757 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 757 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 757 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 757 | [Fangs](games/f/fangs.md) | 4.20 | 
+| 756 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 756 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 756 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 756 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 756 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 756 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 756 | [Fangs](games/f/fangs.md) | 4.20 | 
 | 763 | [Windbound](games/w/windbound.md) | 4.19 | 
 | 763 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 763 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
