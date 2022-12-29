@@ -192,7 +192,7 @@
 | 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 
 | 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.47 | 
 | 192 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 193 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.60 | 
+| 193 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.59 | 
 | 194 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 195 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 196 | [DOOM 3](games/d/doom_3.md) | 4.64 | 
@@ -305,13 +305,13 @@
 | 303 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 304 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 305 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 306 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.58 | 
+| 306 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.59 | 
 | 307 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 308 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 309 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 310 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 311 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 312 | [High On Life](games/h/high_on_life.md) | 4.72 | 
+| 312 | [High On Life](games/h/high_on_life.md) | 4.71 | 
 | 313 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 314 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 315 | [Hob](games/h/hob.md) | 4.57 | 
@@ -423,7 +423,7 @@
 | 421 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.89 | 
 | 422 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 423 | [Mortal Shell](games/m/mortal_shell.md) | 4.33 | 
-| 424 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
+| 424 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 425 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 426 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 427 | [Moving Out](games/m/moving_out.md) | 4.57 | 
@@ -485,7 +485,7 @@
 | 483 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 484 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 485 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 486 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
+| 486 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
 | 487 | [Parkitect](games/p/parkitect.md) | 4.30 | 
 | 488 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 489 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
@@ -773,7 +773,7 @@
 | 771 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 772 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
 | 773 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
-| 774 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
+| 774 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 775 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 776 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 777 | [TUNIC](games/t/tunic.md) | 4.87 | 
@@ -812,7 +812,7 @@
 | 810 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 811 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 812 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
-| 813 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 
+| 813 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 814 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 815 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 816 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
