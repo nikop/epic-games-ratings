@@ -1,10 +1,10 @@
 {
   "ID": "ea73c08ac633414584e281f838b3a78c",
   "Name": "Marvel\u0027s Midnight Suns",
-  "Rating": 4.52,
+  "Rating": 4.51,
   "FirstSeen": "2022-12-02T09:57:07.4463087+00:00",
   "FirstSeenRating": "2022-12-03T17:57:10.4344427+00:00",
-  "LastChanged": "2022-12-29T21:57:19.3967185+00:00",
+  "LastChanged": "2022-12-29T22:57:09.5287278+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-03T17:57:10.4344429+00:00",
@@ -220,6 +220,11 @@
       "Time": "2022-12-29T21:57:19.3967189+00:00",
       "Rating": 4.52,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-29T22:57:09.5287283+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -233,7 +238,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 26
+      "Count": 29
     },
     {
       "Text": "This game has Amazing Storytelling",

@@ -181,7 +181,7 @@
 | 179 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
 | 180 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 181 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
-| 182 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.63 | 
+| 182 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
 | 183 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 184 | [Diabotical](games/d/diabotical.md) | 4.76 | 
 | 185 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
@@ -224,10 +224,10 @@
 | 222 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 223 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 224 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 225 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.52 | 
+| 225 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.48 | 
 | 226 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
 | 227 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 228 | [Fangs](games/f/fangs.md) | 4.20 | 
+| 228 | [Fangs](games/f/fangs.md) | 4.19 | 
 | 229 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 230 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.22 | 
 | 231 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
@@ -235,7 +235,7 @@
 | 233 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 234 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 235 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 236 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.69 | 
+| 236 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
 | 237 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
 | 238 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
 | 239 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
@@ -408,7 +408,7 @@
 | 406 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 407 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 408 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
-| 409 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 
+| 409 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.51 | 
 | 410 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 411 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 412 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
@@ -508,7 +508,7 @@
 | 506 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 
 | 507 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 508 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 509 | [Predecessor](games/p/predecessor.md) | 4.39 | 
+| 509 | [Predecessor](games/p/predecessor.md) | 4.40 | 
 | 510 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 511 | [Prey](games/p/prey.md) | 4.61 | 
 | 512 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -628,7 +628,7 @@
 | 626 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
 | 627 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
 | 628 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 629 | [Starsand](games/s/starsand.md) | 4.22 | 
+| 629 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 630 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
 | 631 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
 | 632 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
