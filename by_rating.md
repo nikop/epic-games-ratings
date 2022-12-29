@@ -458,28 +458,28 @@
 | 451 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.54 | 
 | 451 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 451 | [Redout 2](games/r/redout_2.md) | 4.54 | 
-| 451 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.54 | 
-| 460 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 460 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 460 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 460 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
-| 460 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 460 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 460 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 460 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 460 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
-| 460 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
-| 460 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 460 | [RUINER](games/r/ruiner.md) | 4.53 | 
-| 460 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
-| 460 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 460 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 460 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
-| 460 | [Horace](games/h/horace.md) | 4.53 | 
-| 460 | [Aztez](games/a/aztez.md) | 4.53 | 
-| 460 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 460 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 460 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
+| 459 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
+| 459 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 459 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 459 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
+| 459 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
+| 459 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 459 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 459 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 459 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
+| 459 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
+| 459 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
+| 459 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 459 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
+| 459 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 459 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 459 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
+| 459 | [Horace](games/h/horace.md) | 4.53 | 
+| 459 | [Aztez](games/a/aztez.md) | 4.53 | 
+| 459 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 459 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 459 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
+| 459 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.53 | 
 | 481 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 481 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 481 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
