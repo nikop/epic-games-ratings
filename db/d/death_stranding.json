@@ -1,10 +1,10 @@
 {
   "ID": "f4a904fcef2447439c35c4e6457f3027",
   "Name": "DEATH STRANDING",
-  "Rating": 4.76,
+  "Rating": 4.77,
   "FirstSeen": "2022-12-25T17:57:41.2427697+00:00",
   "FirstSeenRating": "2022-12-26T09:58:07.1196688+00:00",
-  "LastChanged": "2022-12-29T02:58:06.6499741+00:00",
+  "LastChanged": "2022-12-29T11:58:28.0280394+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-26T09:58:07.1196692+00:00",
@@ -39,6 +39,11 @@
     {
       "Time": "2022-12-29T02:58:06.6499743+00:00",
       "Rating": 4.76,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-29T11:58:28.0280398+00:00",
+      "Rating": 4.77,
       "NumberOfRatings": null
     }
   ],

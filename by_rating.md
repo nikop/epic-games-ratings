@@ -108,16 +108,16 @@
 | 102 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 102 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 102 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
+| 102 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 
 | 102 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
-| 110 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 110 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 110 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 110 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 110 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 110 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
-| 110 | [Haven](games/h/haven.md) | 4.76 | 
-| 110 | [DEATH STRANDING](games/d/death_stranding.md) | 4.76 | 
-| 110 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
+| 111 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 111 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 111 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 111 | [Diabotical](games/d/diabotical.md) | 4.76 | 
+| 111 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 111 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
+| 111 | [Haven](games/h/haven.md) | 4.76 | 
+| 111 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
 | 119 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 119 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.75 | 
@@ -487,26 +487,26 @@
 | 481 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
 | 481 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 481 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 481 | [Sable](games/s/sable.md) | 4.52 | 
 | 481 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 481 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
 | 481 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
 | 481 | [STG Football](games/s/stg_football.md) | 4.52 | 
 | 481 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
-| 493 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 493 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 493 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 493 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 493 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 493 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 493 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
-| 493 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 493 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
-| 493 | [The Surge](games/t/the_surge.md) | 4.51 | 
-| 493 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
-| 493 | [Sable](games/s/sable.md) | 4.51 | 
-| 493 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 493 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 493 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.51 | 
+| 494 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 494 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 494 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 494 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 494 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 494 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 494 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
+| 494 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 494 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
+| 494 | [The Surge](games/t/the_surge.md) | 4.51 | 
+| 494 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
+| 494 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 494 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
+| 494 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.51 | 
 | 508 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 508 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 508 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 

@@ -167,7 +167,7 @@
 | 165 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 166 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 167 | [Death Coming](games/d/death_coming.md) | 4.44 | 
-| 168 | [DEATH STRANDING](games/d/death_stranding.md) | 4.76 | 
+| 168 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 
 | 169 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.86 | 
 | 170 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 171 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
@@ -557,7 +557,7 @@
 | 555 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 556 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 557 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 558 | [Sable](games/s/sable.md) | 4.51 | 
+| 558 | [Sable](games/s/sable.md) | 4.52 | 
 | 559 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.83 | 
 | 560 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 561 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
