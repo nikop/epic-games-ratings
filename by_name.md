@@ -408,7 +408,7 @@
 | 406 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 407 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 408 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
-| 409 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.51 | 
+| 409 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 
 | 410 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 411 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 412 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
@@ -510,7 +510,7 @@
 | 508 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 509 | [Predecessor](games/p/predecessor.md) | 4.39 | 
 | 510 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
-| 511 | [Prey](games/p/prey.md) | 4.62 | 
+| 511 | [Prey](games/p/prey.md) | 4.61 | 
 | 512 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 513 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
 | 514 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
