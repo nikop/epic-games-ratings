@@ -5,7 +5,7 @@
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
@@ -93,7 +93,7 @@
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
 | 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.60 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
@@ -107,7 +107,7 @@
 | 105 | [Card Shark](games/c/card_shark.md) | 4.67 | 
 | 106 | [CARRION](games/c/carrion.md) | 4.68 | 
 | 107 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
-| 108 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.61 | 
+| 108 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 110 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 
@@ -222,10 +222,10 @@
 | 220 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 221 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 222 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 223 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.80 | 
+| 223 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 224 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 225 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.56 | 
-| 226 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.61 | 
+| 225 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.52 | 
+| 226 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
 | 227 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 228 | [Fangs](games/f/fangs.md) | 4.20 | 
 | 229 | [Far Cry](games/f/far_cry.md) | 4.43 | 
@@ -244,9 +244,9 @@
 | 242 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 243 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 244 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.63 | 
-| 245 | [Fez](games/f/fez.md) | 4.71 | 
+| 245 | [Fez](games/f/fez.md) | 4.70 | 
 | 246 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
-| 247 | [Figment](games/f/figment.md) | 4.47 | 
+| 247 | [Figment](games/f/figment.md) | 4.45 | 
 | 248 | [Filament](games/f/filament.md) | 4.32 | 
 | 249 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 250 | [Firework](games/f/firework.md) | 4.89 | 
@@ -575,7 +575,7 @@
 | 573 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 574 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 575 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
-| 576 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
+| 576 | [Severed Steel](games/s/severed_steel.md) | 4.67 | 
 | 577 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 578 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
 | 579 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
@@ -829,7 +829,7 @@
 | 827 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 828 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
 | 829 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
-| 830 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 
+| 830 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 
 | 831 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
 | 832 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 833 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
