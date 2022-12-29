@@ -1,10 +1,10 @@
 {
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
-  "Rating": 4.22,
+  "Rating": 4.21,
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
-  "LastChanged": "2022-12-28T20:57:02.7803739+00:00",
+  "LastChanged": "2022-12-29T02:04:39.6771695+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-22T01:00:47.4981426+00:00",
@@ -355,6 +355,11 @@
       "Time": "2022-12-28T20:57:02.7803741+00:00",
       "Rating": 4.22,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-29T02:04:39.6771697+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -368,11 +373,11 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 111
+      "Count": 114
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 101
+      "Count": 102
     },
     {
       "Text": "This game has Amazing Storytelling",

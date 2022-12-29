@@ -88,7 +88,7 @@
 | 86 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 87 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 89 | [Blasphemous](games/b/blasphemous.md) | 4.89 | 
+| 89 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
@@ -113,7 +113,7 @@
 | 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 
 | 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 113 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
-| 114 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.70 | 
+| 114 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 115 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.78 | 
 | 116 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 117 | [Chorus](games/c/chorus.md) | 4.45 | 
@@ -150,7 +150,7 @@
 | 148 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 149 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 150 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 151 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 
+| 151 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
 | 152 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
 | 153 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 154 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
@@ -288,7 +288,7 @@
 | 286 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 287 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 288 | [Good Company](games/g/good_company.md) | 4.44 | 
-| 289 | [Gotham Knights](games/g/gotham_knights.md) | 4.22 | 
+| 289 | [Gotham Knights](games/g/gotham_knights.md) | 4.21 | 
 | 290 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 291 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 292 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
@@ -408,7 +408,7 @@
 | 406 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 407 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 408 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
-| 409 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.50 | 
+| 409 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.51 | 
 | 410 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 411 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
 | 412 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
@@ -485,7 +485,7 @@
 | 483 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 484 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 485 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 486 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
+| 486 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
 | 487 | [Parkitect](games/p/parkitect.md) | 4.30 | 
 | 488 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 489 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
@@ -505,7 +505,7 @@
 | 503 | [Pine](games/p/pine.md) | 4.14 | 
 | 504 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
 | 505 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 506 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.55 | 
+| 506 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 
 | 507 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 508 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 509 | [Predecessor](games/p/predecessor.md) | 4.39 | 
@@ -730,7 +730,7 @@
 | 728 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 729 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 730 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 731 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.57 | 
+| 731 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.54 | 
 | 732 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
 | 733 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 734 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
