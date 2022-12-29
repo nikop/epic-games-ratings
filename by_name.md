@@ -59,7 +59,7 @@
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.53 | 
+| 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
@@ -391,7 +391,7 @@
 | 389 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 390 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 391 | [Limbo](games/l/limbo.md) | 4.64 | 
-| 392 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
+| 392 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.28 | 
 | 393 | [Little Inferno](games/l/little_inferno.md) | 4.60 | 
 | 394 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 395 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
@@ -807,7 +807,7 @@
 | 805 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 806 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 807 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 808 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.30 | 
+| 808 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.31 | 
 | 809 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 810 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 811 | [Weird West](games/w/weird_west.md) | 4.44 | 
