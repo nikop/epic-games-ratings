@@ -698,7 +698,7 @@
 | 696 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 697 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 
 | 698 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 699 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.87 | 
+| 699 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
 | 700 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
 | 701 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
 | 702 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
