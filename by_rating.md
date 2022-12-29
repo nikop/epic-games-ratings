@@ -721,14 +721,14 @@
 | 717 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 720 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 720 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
-| 722 | [EVE Online](games/e/eve_online.md) | 4.26 | 
-| 722 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 722 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 722 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
-| 722 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
-| 722 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
-| 722 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
-| 722 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
+| 720 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
+| 723 | [EVE Online](games/e/eve_online.md) | 4.26 | 
+| 723 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 723 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 723 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
+| 723 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
+| 723 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
+| 723 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 730 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 730 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 730 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.25 | 
@@ -819,8 +819,8 @@
 | 817 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 817 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
 | 819 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 819 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
-| 821 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
+| 820 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
+| 820 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 822 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 823 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
 | 823 | [Conarium](games/c/conarium.md) | 3.94 | 

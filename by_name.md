@@ -122,7 +122,7 @@
 | 120 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 121 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
 | 122 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 123 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
+| 123 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 124 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
 | 125 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 126 | [Conarium](games/c/conarium.md) | 3.94 | 
@@ -485,7 +485,7 @@
 | 483 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 484 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 485 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 486 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
+| 486 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
 | 487 | [Parkitect](games/p/parkitect.md) | 4.30 | 
 | 488 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 489 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
