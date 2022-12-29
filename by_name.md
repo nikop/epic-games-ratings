@@ -35,7 +35,7 @@
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.40 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.54 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 36 | [APE OUT](games/a/ape_out.md) | 4.65 | 
+| 36 | [APE OUT](games/a/ape_out.md) | 4.64 | 
 | 37 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
 | 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.59 | 
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
@@ -397,7 +397,7 @@
 | 395 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 396 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
 | 397 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
-| 398 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.67 | 
+| 398 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.60 | 
 | 399 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 400 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 401 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
@@ -789,7 +789,7 @@
 | 787 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 788 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
 | 789 | [VALORANT](games/v/valorant.md) | 4.54 | 
-| 790 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.19 | 
+| 790 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 791 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 792 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 793 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
