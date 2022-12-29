@@ -138,7 +138,7 @@
 | 136 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 137 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 138 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
-| 139 | [Cris Tales](games/c/cris_tales.md) | 4.35 | 
+| 139 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 140 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 141 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 142 | [CryoFall](games/c/cryofall.md) | 4.50 | 
@@ -167,7 +167,7 @@
 | 165 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 166 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 167 | [Death Coming](games/d/death_coming.md) | 4.44 | 
-| 168 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 
+| 168 | [DEATH STRANDING](games/d/death_stranding.md) | 4.76 | 
 | 169 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.86 | 
 | 170 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 171 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
@@ -202,7 +202,7 @@
 | 200 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 201 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 202 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 203 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
+| 203 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 204 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 205 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 206 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -409,8 +409,8 @@
 | 407 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 408 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
 | 409 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.51 | 
-| 410 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
-| 411 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.82 | 
+| 410 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
+| 411 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.81 | 
 | 412 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
 | 413 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 414 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
@@ -504,13 +504,13 @@
 | 502 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 503 | [Pine](games/p/pine.md) | 4.14 | 
 | 504 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
-| 505 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
+| 505 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
 | 506 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 
 | 507 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 508 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 509 | [Predecessor](games/p/predecessor.md) | 4.40 | 
 | 510 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
-| 511 | [Prey](games/p/prey.md) | 4.61 | 
+| 511 | [Prey](games/p/prey.md) | 4.62 | 
 | 512 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 513 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
 | 514 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
@@ -613,7 +613,7 @@
 | 611 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.82 | 
 | 612 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 613 | [Space Punks](games/s/space_punks.md) | 4.17 | 
-| 614 | [Speed Brawl](games/s/speed_brawl.md) | 4.30 | 
+| 614 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
 | 615 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 616 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 617 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
