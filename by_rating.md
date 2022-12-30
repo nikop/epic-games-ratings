@@ -669,20 +669,20 @@
 | 664 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 664 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
 | 664 | [Torchlight](games/t/torchlight.md) | 4.36 | 
-| 664 | [Encased](games/e/encased.md) | 4.36 | 
 | 664 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 664 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 664 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
 | 664 | [Hammerting](games/h/hammerting.md) | 4.36 | 
 | 664 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
 | 664 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
-| 677 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 677 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 677 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 677 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 677 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
-| 677 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
-| 677 | [ZOMBI](games/z/zombi.md) | 4.35 | 
+| 676 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 676 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 676 | [Encased](games/e/encased.md) | 4.35 | 
+| 676 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
+| 676 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 676 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
+| 676 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
+| 676 | [ZOMBI](games/z/zombi.md) | 4.35 | 
 | 684 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 684 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 684 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
@@ -826,8 +826,8 @@
 | 823 | [Conarium](games/c/conarium.md) | 3.94 | 
 | 823 | [Patron](games/p/patron.md) | 3.94 | 
 | 823 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
-| 827 | [Ironcast](games/i/ironcast.md) | 3.92 | 
-| 827 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 
+| 827 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
+| 828 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 829 | [Warface](games/w/warface.md) | 3.91 | 
 | 829 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 831 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.89 | 
