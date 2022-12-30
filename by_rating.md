@@ -416,37 +416,37 @@
 | 406 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
 | 406 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
 | 406 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
-| 406 | [IXION](games/i/ixion.md) | 4.57 | 
 | 406 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 
 | 406 | [The Medium](games/t/the_medium.md) | 4.57 | 
-| 420 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 420 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 420 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 420 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 420 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
-| 420 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
-| 420 | [Hue](games/h/hue.md) | 4.56 | 
-| 420 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 420 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
-| 420 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
-| 420 | [Warpips](games/w/warpips.md) | 4.56 | 
-| 420 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 420 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 420 | [Observation](games/o/observation.md) | 4.56 | 
-| 434 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 434 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
-| 434 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 434 | [Outward](games/o/outward.md) | 4.55 | 
-| 434 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
-| 434 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 434 | [Sonic Origins](games/s/sonic_origins.md) | 4.55 | 
-| 434 | [Minit](games/m/minit.md) | 4.55 | 
-| 434 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
-| 434 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 434 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.55 | 
-| 434 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
-| 434 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
-| 434 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
+| 419 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 419 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 419 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 419 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 419 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.56 | 
+| 419 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
+| 419 | [Hue](games/h/hue.md) | 4.56 | 
+| 419 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 419 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
+| 419 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
+| 419 | [Warpips](games/w/warpips.md) | 4.56 | 
+| 419 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 419 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 419 | [Observation](games/o/observation.md) | 4.56 | 
+| 433 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 433 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
+| 433 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 433 | [Outward](games/o/outward.md) | 4.55 | 
+| 433 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
+| 433 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
+| 433 | [Sonic Origins](games/s/sonic_origins.md) | 4.55 | 
+| 433 | [Minit](games/m/minit.md) | 4.55 | 
+| 433 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 433 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 433 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.55 | 
+| 433 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
+| 433 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
+| 433 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
+| 433 | [IXION](games/i/ixion.md) | 4.55 | 
 | 448 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 448 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 448 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
@@ -491,21 +491,21 @@
 | 480 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 480 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
 | 480 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
-| 480 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 
 | 480 | [STG Football](games/s/stg_football.md) | 4.52 | 
 | 480 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
-| 495 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 495 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 495 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 495 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 495 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 495 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 495 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
-| 495 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 495 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
-| 495 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
-| 495 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 495 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
+| 494 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 494 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 494 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 494 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 494 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 494 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 494 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
+| 494 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 494 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
+| 494 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
+| 494 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 494 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
+| 494 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.51 | 
 | 507 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 507 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 507 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
