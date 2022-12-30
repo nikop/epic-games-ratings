@@ -210,7 +210,7 @@
 | 208 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 209 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 210 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 211 | [Encased](games/e/encased.md) | 4.36 | 
+| 211 | [Encased](games/e/encased.md) | 4.37 | 
 | 212 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 213 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 214 | [EVE Online](games/e/eve_online.md) | 4.26 | 
@@ -222,7 +222,7 @@
 | 220 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 221 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 222 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 223 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
+| 223 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.75 | 
 | 224 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 225 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.48 | 
 | 226 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
@@ -397,7 +397,7 @@
 | 395 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 396 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
 | 397 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
-| 398 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.60 | 
+| 398 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.61 | 
 | 399 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 400 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 401 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
@@ -626,7 +626,7 @@
 | 624 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
 | 625 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
 | 626 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 627 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
+| 627 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
 | 628 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 629 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 630 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
