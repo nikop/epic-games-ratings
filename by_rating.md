@@ -24,18 +24,18 @@
 | 22 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 22 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 22 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 22 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
 | 22 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 22 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
 | 22 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
-| 29 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.86 | 
-| 29 | [Inscryption](games/i/inscryption.md) | 4.86 | 
-| 29 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 29 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 29 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
-| 29 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
-| 29 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
-| 29 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
+| 28 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.86 | 
+| 28 | [Inscryption](games/i/inscryption.md) | 4.86 | 
+| 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 28 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
+| 28 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 
+| 28 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
+| 28 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
+| 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 37 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 37 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 37 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
@@ -48,16 +48,16 @@
 | 46 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 46 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 46 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 49 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 49 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
-| 49 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
-| 49 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
-| 49 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
-| 49 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
-| 49 | [Grindstone](games/g/grindstone.md) | 4.83 | 
-| 49 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 
-| 49 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.83 | 
+| 46 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
+| 50 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
+| 50 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
+| 50 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
+| 50 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
+| 50 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
+| 50 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
+| 50 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
+| 50 | [Grindstone](games/g/grindstone.md) | 4.83 | 
+| 50 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.83 | 
 | 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 59 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 59 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
@@ -491,21 +491,21 @@
 | 480 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 480 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
 | 480 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
+| 480 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 
 | 480 | [STG Football](games/s/stg_football.md) | 4.52 | 
 | 480 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
-| 494 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 494 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 494 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 494 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 494 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 494 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 494 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
-| 494 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 494 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
-| 494 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
-| 494 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 494 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 494 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.51 | 
+| 495 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 495 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 495 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 495 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 495 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 495 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 495 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
+| 495 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 495 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
+| 495 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
+| 495 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 495 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 507 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 507 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 507 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
@@ -561,23 +561,23 @@
 | 554 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
 | 554 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
 | 554 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
+| 554 | [Chorus](games/c/chorus.md) | 4.46 | 
 | 554 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 554 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 554 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 554 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 566 | [SMITE](games/s/smite.md) | 4.45 | 
-| 566 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 566 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 566 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
-| 566 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 566 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 566 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 566 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 566 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 566 | [Figment](games/f/figment.md) | 4.45 | 
-| 566 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 
-| 566 | [Chorus](games/c/chorus.md) | 4.45 | 
-| 566 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
+| 567 | [SMITE](games/s/smite.md) | 4.45 | 
+| 567 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 567 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 567 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
+| 567 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 567 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 567 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 567 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 567 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
+| 567 | [Figment](games/f/figment.md) | 4.45 | 
+| 567 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 
+| 567 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 579 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 579 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 579 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 

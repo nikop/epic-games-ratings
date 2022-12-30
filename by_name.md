@@ -88,7 +88,7 @@
 | 86 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 87 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 89 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
+| 89 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
@@ -116,7 +116,7 @@
 | 114 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 115 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.78 | 
 | 116 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 117 | [Chorus](games/c/chorus.md) | 4.45 | 
+| 117 | [Chorus](games/c/chorus.md) | 4.46 | 
 | 118 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.07 | 
 | 119 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 
 | 120 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
@@ -408,7 +408,7 @@
 | 406 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 407 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 408 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
-| 409 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.51 | 
+| 409 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 
 | 410 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 411 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.81 | 
 | 412 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
@@ -696,7 +696,7 @@
 | 694 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
 | 695 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 
 | 696 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 697 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 
+| 697 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
 | 698 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
 | 699 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
 | 700 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
