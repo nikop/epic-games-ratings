@@ -16,17 +16,17 @@
 | 10 | [Firework](games/f/firework.md) | 4.89 | 
 | 10 | [Mago](games/m/mago.md) | 4.89 | 
 | 16 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 16 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 16 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
 | 16 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 16 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 16 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
-| 22 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 22 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 22 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 22 | [TUNIC](games/t/tunic.md) | 4.87 | 
-| 22 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
-| 22 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
+| 21 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
+| 21 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
+| 21 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 21 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 21 | [TUNIC](games/t/tunic.md) | 4.87 | 
+| 21 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
+| 21 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 28 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.86 | 
 | 28 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
@@ -51,7 +51,6 @@
 | 46 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 46 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
 | 51 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 51 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
 | 51 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 51 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
 | 51 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.83 | 
@@ -59,11 +58,12 @@
 | 51 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
 | 51 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 51 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.83 | 
-| 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 60 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 60 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
-| 60 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
-| 60 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.82 | 
+| 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 59 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 59 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 59 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
+| 59 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
+| 59 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.82 | 
 | 65 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 65 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 65 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.81 | 
