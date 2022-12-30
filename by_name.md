@@ -240,7 +240,7 @@
 | 238 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
 | 239 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
 | 240 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
-| 241 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.15 | 
+| 241 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.16 | 
 | 242 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 243 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 244 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
@@ -298,7 +298,7 @@
 | 296 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 297 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 298 | [Hades](games/h/hades.md) | 4.92 | 
-| 299 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 299 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 300 | [Hammerting](games/h/hammerting.md) | 4.36 | 
 | 301 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
 | 302 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
@@ -306,13 +306,13 @@
 | 304 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 305 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 306 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 307 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.59 | 
+| 307 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.56 | 
 | 308 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 309 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 310 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 311 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 312 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 313 | [High On Life](games/h/high_on_life.md) | 4.71 | 
+| 313 | [High On Life](games/h/high_on_life.md) | 4.72 | 
 | 314 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 315 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 316 | [Hob](games/h/hob.md) | 4.57 | 
@@ -409,8 +409,8 @@
 | 407 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 408 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 409 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
-| 410 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.51 | 
-| 411 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
+| 410 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 
+| 411 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 412 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.81 | 
 | 413 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
 | 414 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
@@ -731,7 +731,7 @@
 | 729 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 730 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 731 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 732 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.53 | 
+| 732 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.54 | 
 | 733 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
 | 734 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 735 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 

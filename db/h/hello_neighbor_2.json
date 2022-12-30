@@ -1,10 +1,10 @@
 {
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
-  "Rating": 4.59,
+  "Rating": 4.56,
   "FirstSeen": "2022-12-06T19:57:03.5315641+00:00",
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
-  "LastChanged": "2022-12-29T19:57:07.4514057+00:00",
+  "LastChanged": "2022-12-30T19:57:01.8521608+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-13T19:57:02.6250274+00:00",
@@ -59,6 +59,11 @@
     {
       "Time": "2022-12-29T19:57:07.4514059+00:00",
       "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-30T19:57:01.8521609+00:00",
+      "Rating": 4.56,
       "NumberOfRatings": null
     }
   ],
