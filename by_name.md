@@ -142,7 +142,7 @@
 | 140 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 141 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 142 | [CryoFall](games/c/cryofall.md) | 4.50 | 
-| 143 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.62 | 
+| 143 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 144 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
 | 145 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 146 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
@@ -210,7 +210,7 @@
 | 208 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 209 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 210 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 211 | [Encased](games/e/encased.md) | 4.35 | 
+| 211 | [Encased](games/e/encased.md) | 4.36 | 
 | 212 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 213 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 214 | [EVE Online](games/e/eve_online.md) | 4.26 | 
@@ -422,7 +422,7 @@
 | 420 | [Minit](games/m/minit.md) | 4.55 | 
 | 421 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.89 | 
 | 422 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 423 | [Mortal Shell](games/m/mortal_shell.md) | 4.33 | 
+| 423 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
 | 424 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 425 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 426 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
@@ -575,7 +575,7 @@
 | 573 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 574 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 575 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
-| 576 | [Severed Steel](games/s/severed_steel.md) | 4.67 | 
+| 576 | [Severed Steel](games/s/severed_steel.md) | 4.66 | 
 | 577 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 578 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
 | 579 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
@@ -666,7 +666,7 @@
 | 664 | [Tacoma](games/t/tacoma.md) | 4.40 | 
 | 665 | [Tails of Iron](games/t/tails_of_iron.md) | 4.53 | 
 | 666 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 667 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 667 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 668 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 669 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 670 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
