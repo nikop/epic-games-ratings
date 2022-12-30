@@ -62,7 +62,7 @@
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.53 | 
-| 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
+| 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 64 | [Backbone](games/b/backbone.md) | 4.38 | 
 | 65 | [Bad North](games/b/bad_north.md) | 4.69 | 
 | 66 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
@@ -318,7 +318,7 @@
 | 316 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 317 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 318 | [Horace](games/h/horace.md) | 4.53 | 
-| 319 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.58 | 
+| 319 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.59 | 
 | 320 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 321 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 322 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
@@ -379,7 +379,7 @@
 | 377 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 378 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
 | 379 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 380 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 
+| 380 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 381 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 382 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 383 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
@@ -481,7 +481,7 @@
 | 479 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
 | 480 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
 | 481 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
-| 482 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
+| 482 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 483 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 484 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 485 | [Paradigm](games/p/paradigm.md) | 4.48 | 
@@ -575,7 +575,7 @@
 | 573 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 574 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 575 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
-| 576 | [Severed Steel](games/s/severed_steel.md) | 4.66 | 
+| 576 | [Severed Steel](games/s/severed_steel.md) | 4.67 | 
 | 577 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 578 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
 | 579 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
@@ -773,7 +773,7 @@
 | 771 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 772 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
 | 773 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
-| 774 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 774 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
 | 775 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 776 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 777 | [TUNIC](games/t/tunic.md) | 4.87 | 
