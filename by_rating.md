@@ -537,16 +537,16 @@
 | 526 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 526 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.49 | 
 | 526 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 526 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 
 | 526 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 526 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 526 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 542 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 542 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 542 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
-| 542 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
-| 542 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
-| 542 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
+| 541 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 541 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 541 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
+| 541 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
+| 541 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
+| 541 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
+| 541 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 548 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 548 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 548 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
