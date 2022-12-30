@@ -40,7 +40,7 @@
 | 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.59 | 
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
+| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
 | 43 | [Ashen](games/a/ashen.md) | 4.33 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
@@ -219,7 +219,7 @@
 | 217 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.95 | 
 | 218 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 219 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
-| 220 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
+| 220 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 221 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 222 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 223 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
@@ -272,7 +272,7 @@
 | 270 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 
 | 271 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 272 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 273 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.54 | 
+| 273 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
 | 274 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 275 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
 | 276 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
@@ -283,7 +283,7 @@
 | 281 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 282 | [God of War](games/g/god_of_war.md) | 4.90 | 
 | 283 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
-| 284 | [Godfall](games/g/godfall.md) | 4.06 | 
+| 284 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 285 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 286 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
 | 287 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
@@ -319,7 +319,7 @@
 | 317 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 318 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 319 | [Horace](games/h/horace.md) | 4.53 | 
-| 320 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.59 | 
+| 320 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.58 | 
 | 321 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 322 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 323 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
@@ -362,7 +362,7 @@
 | 360 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 361 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 362 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
-| 363 | [King of Retail](games/k/king_of_retail.md) | 4.71 | 
+| 363 | [King of Retail](games/k/king_of_retail.md) | 4.73 | 
 | 364 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
 | 365 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 366 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.70 | 
@@ -758,9 +758,9 @@
 | 756 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
 | 757 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 
 | 758 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 759 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.27 | 
+| 759 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.29 | 
 | 760 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 761 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 
+| 761 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.04 | 
 | 762 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 763 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
 | 764 | [Train Valley](games/t/train_valley.md) | 4.46 | 
