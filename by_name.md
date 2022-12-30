@@ -5,7 +5,7 @@
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
+| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
@@ -33,7 +33,7 @@
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.41 | 
-| 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.54 | 
+| 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.56 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.64 | 
 | 37 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
@@ -226,7 +226,7 @@
 | 224 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.75 | 
 | 225 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 226 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.48 | 
-| 227 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
+| 227 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.60 | 
 | 228 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 229 | [Fangs](games/f/fangs.md) | 4.19 | 
 | 230 | [Far Cry](games/f/far_cry.md) | 4.43 | 
@@ -780,7 +780,7 @@
 | 778 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 779 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 780 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 781 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.77 | 
+| 781 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
 | 782 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 783 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
 | 784 | [UnMetal](games/u/unmetal.md) | 4.51 | 
@@ -830,7 +830,7 @@
 | 828 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 829 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
 | 830 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
-| 831 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 
+| 831 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 
 | 832 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
 | 833 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 834 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
