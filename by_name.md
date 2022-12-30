@@ -189,7 +189,7 @@
 | 187 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 188 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
-| 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 
+| 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
 | 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.47 | 
 | 192 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 193 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.59 | 
@@ -255,7 +255,7 @@
 | 253 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 254 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 255 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 256 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
+| 256 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 257 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 258 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
 | 259 | [Fort Triumph](games/f/fort_triumph.md) | 4.07 | 
@@ -409,7 +409,7 @@
 | 407 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 408 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
 | 409 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.51 | 
-| 410 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
+| 410 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 411 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.81 | 
 | 412 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
 | 413 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 

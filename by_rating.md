@@ -16,17 +16,17 @@
 | 10 | [Firework](games/f/firework.md) | 4.89 | 
 | 10 | [Mago](games/m/mago.md) | 4.89 | 
 | 16 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
+| 16 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 16 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
 | 16 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 16 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 16 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
-| 21 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
-| 21 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 21 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 21 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 21 | [TUNIC](games/t/tunic.md) | 4.87 | 
-| 21 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
-| 21 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
+| 22 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
+| 22 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 22 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 22 | [TUNIC](games/t/tunic.md) | 4.87 | 
+| 22 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
+| 22 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 28 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.86 | 
 | 28 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
@@ -95,11 +95,11 @@
 | 88 | [Journey](games/j/journey.md) | 4.79 | 
 | 88 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 
 | 88 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
-| 96 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
-| 96 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 96 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 96 | [Quake](games/q/quake.md) | 4.78 | 
-| 96 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 
+| 88 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
+| 97 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 97 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 97 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
+| 97 | [Quake](games/q/quake.md) | 4.78 | 
 | 101 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 101 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 101 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
@@ -116,21 +116,21 @@
 | 110 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 110 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 110 | [Haven](games/h/haven.md) | 4.76 | 
-| 110 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
-| 118 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 118 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 118 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
-| 118 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 118 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
-| 118 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
-| 118 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
-| 118 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
-| 118 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 
-| 118 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.75 | 
-| 118 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
-| 118 | [shapez](games/s/shapez.md) | 4.75 | 
+| 117 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 117 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 117 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 117 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
+| 117 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 117 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 117 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
+| 117 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
+| 117 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
+| 117 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
+| 117 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 
+| 117 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.75 | 
+| 117 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
+| 117 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
+| 117 | [shapez](games/s/shapez.md) | 4.75 | 
 | 132 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 132 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
 | 132 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
