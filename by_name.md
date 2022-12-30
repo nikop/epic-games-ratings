@@ -190,7 +190,7 @@
 | 188 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.73 | 
 | 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
-| 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.47 | 
+| 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.52 | 
 | 192 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 193 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.59 | 
 | 194 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
@@ -576,7 +576,7 @@
 | 574 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 575 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 576 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
-| 577 | [Severed Steel](games/s/severed_steel.md) | 4.67 | 
+| 577 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 578 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 579 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
 | 580 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
@@ -676,7 +676,7 @@
 | 674 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
 | 675 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 676 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 677 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.14 | 
+| 677 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 
 | 678 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 679 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 680 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
