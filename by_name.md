@@ -634,7 +634,7 @@
 | 632 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
 | 633 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 634 | [Steelrising](games/s/steelrising.md) | 4.27 | 
-| 635 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
+| 635 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
 | 636 | [STG Football](games/s/stg_football.md) | 4.52 | 
 | 637 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 638 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 

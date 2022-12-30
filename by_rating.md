@@ -259,6 +259,7 @@
 | 251 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 251 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 251 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
+| 251 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
 | 251 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 
 | 251 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 251 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
@@ -270,19 +271,18 @@
 | 251 | [Eastward](games/e/eastward.md) | 4.66 | 
 | 251 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 251 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
-| 271 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 271 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 271 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 271 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.65 | 
-| 271 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 271 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
-| 271 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 271 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.65 | 
-| 271 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.65 | 
-| 271 | [Coromon](games/c/coromon.md) | 4.65 | 
-| 271 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
-| 271 | [GNOG](games/g/gnog.md) | 4.65 | 
-| 271 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
+| 272 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 272 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 272 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 272 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.65 | 
+| 272 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 272 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
+| 272 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 272 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.65 | 
+| 272 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 272 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
+| 272 | [GNOG](games/g/gnog.md) | 4.65 | 
+| 272 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
 | 284 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 284 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 284 | [HITMAN](games/h/hitman.md) | 4.64 | 
