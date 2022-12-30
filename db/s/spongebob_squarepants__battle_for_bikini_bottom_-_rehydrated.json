@@ -1,10 +1,10 @@
 {
   "ID": "b3d490d845c040ee82fd02f400ab0efc",
   "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
-  "Rating": 4.65,
+  "Rating": 4.66,
   "NumberOfRatings": 76,
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
-  "LastChanged": "2022-11-26T02:14:46.1727046+00:00",
+  "LastChanged": "2022-12-30T22:57:48.3622747+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:24.5080434+00:00",
@@ -184,6 +184,11 @@
     {
       "Time": "2022-11-26T02:14:46.1727049+00:00",
       "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-30T22:57:48.3622748+00:00",
+      "Rating": 4.66,
       "NumberOfRatings": null
     }
   ],

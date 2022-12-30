@@ -43,7 +43,7 @@
 | 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
 | 43 | [Ashen](games/a/ashen.md) | 4.33 | 
-| 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
+| 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
@@ -326,7 +326,7 @@
 | 324 | [House Party](games/h/house_party.md) | 4.30 | 
 | 325 | [Hue](games/h/hue.md) | 4.56 | 
 | 326 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 327 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 327 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 328 | [Huntdown](games/h/huntdown.md) | 4.85 | 
 | 329 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 330 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
@@ -625,7 +625,7 @@
 | 623 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 624 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
 | 625 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
-| 626 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 
+| 626 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
 | 627 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
 | 628 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
 | 629 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
@@ -771,7 +771,7 @@
 | 769 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
 | 770 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 771 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
-| 772 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 772 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.68 | 
 | 773 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
 | 774 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
 | 775 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
