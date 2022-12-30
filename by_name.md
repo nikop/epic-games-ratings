@@ -114,7 +114,7 @@
 | 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 113 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 114 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
-| 115 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.78 | 
+| 115 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
 | 116 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 117 | [Chorus](games/c/chorus.md) | 4.46 | 
 | 118 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.07 | 
@@ -167,7 +167,7 @@
 | 165 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 166 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 167 | [Death Coming](games/d/death_coming.md) | 4.44 | 
-| 168 | [DEATH STRANDING](games/d/death_stranding.md) | 4.76 | 
+| 168 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 
 | 169 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.86 | 
 | 170 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 171 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
@@ -218,7 +218,7 @@
 | 216 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 217 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 218 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
-| 219 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 219 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
 | 220 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 221 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 222 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
@@ -662,7 +662,7 @@
 | 660 | [Suzerain](games/s/suzerain.md) | 4.73 | 
 | 661 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 662 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
-| 663 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
+| 663 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 664 | [Tacoma](games/t/tacoma.md) | 4.40 | 
 | 665 | [Tails of Iron](games/t/tails_of_iron.md) | 4.53 | 
 | 666 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
