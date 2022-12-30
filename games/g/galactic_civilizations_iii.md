@@ -1,5 +1,5 @@
 # Galactic Civilizations III
-Rating: 4.19 (1,085)  (as of 23.09.2022)  
+Rating: 4.20 (1,085)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -90,3 +90,4 @@ Rating: 4.19 (1,085)  (as of 23.09.2022)
 | 2022-12-19 | 4.19 | - |
 | 2022-12-22 | 4.20 | - |
 | 2022-12-23 | 4.19 | - |
+| 2022-12-30 | 4.20 | - |

@@ -188,7 +188,7 @@
 | 186 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.53 | 
 | 187 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 188 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.77 | 
+| 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.73 | 
 | 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
 | 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.47 | 
 | 192 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
@@ -225,7 +225,7 @@
 | 223 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 224 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.75 | 
 | 225 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 226 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.48 | 
+| 226 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
 | 227 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.60 | 
 | 228 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 229 | [Fangs](games/f/fangs.md) | 4.19 | 
@@ -265,7 +265,7 @@
 | 263 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 264 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 265 | [FUSER™](games/f/fuser™.md) | 4.73 | 
-| 266 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.19 | 
+| 266 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 267 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 268 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
 | 269 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
@@ -423,7 +423,7 @@
 | 421 | [Minit](games/m/minit.md) | 4.55 | 
 | 422 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.89 | 
 | 423 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 424 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
+| 424 | [Mortal Shell](games/m/mortal_shell.md) | 4.23 | 
 | 425 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 426 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 427 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
@@ -559,7 +559,7 @@
 | 557 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 558 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 559 | [Sable](games/s/sable.md) | 4.52 | 
-| 560 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.83 | 
+| 560 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
 | 561 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 562 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
 | 563 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
