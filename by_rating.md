@@ -543,17 +543,17 @@
 | 526 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 542 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 542 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 542 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
 | 542 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
 | 542 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
 | 542 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
-| 547 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 547 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
-| 547 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
-| 547 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 547 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
-| 547 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 547 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
-| 547 | [Scorn](games/s/scorn.md) | 4.47 | 
+| 548 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 548 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
+| 548 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
+| 548 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
+| 548 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
+| 548 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
+| 548 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 555 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 555 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 555 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
