@@ -427,7 +427,7 @@
 | 425 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 426 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 427 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 428 | [Moving Out](games/m/moving_out.md) | 4.57 | 
+| 428 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 429 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 430 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 431 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
@@ -806,7 +806,7 @@
 | 804 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 805 | [Warpips](games/w/warpips.md) | 4.56 | 
 | 806 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
-| 807 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
+| 807 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 808 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 809 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.31 | 
 | 810 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
