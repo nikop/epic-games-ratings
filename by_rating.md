@@ -88,15 +88,15 @@
 | 75 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
 | 75 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 
 | 75 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
-| 89 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 89 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 89 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 89 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 89 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
-| 89 | [Journey](games/j/journey.md) | 4.79 | 
-| 89 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 
-| 89 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
-| 89 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
+| 75 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
+| 90 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 90 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
+| 90 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 90 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 90 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
+| 90 | [Journey](games/j/journey.md) | 4.79 | 
+| 90 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
+| 90 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
 | 98 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 98 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 98 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
@@ -662,29 +662,29 @@
 | 658 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 658 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 658 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 658 | [Encased](games/e/encased.md) | 4.37 | 
 | 658 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 658 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 666 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 666 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 666 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 666 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 666 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 666 | [Torchlight](games/t/torchlight.md) | 4.36 | 
-| 666 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
-| 666 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 666 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
-| 666 | [Hammerting](games/h/hammerting.md) | 4.36 | 
-| 666 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
-| 666 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
-| 678 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
-| 678 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 678 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 678 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 678 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 678 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
-| 678 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
-| 678 | [ZOMBI](games/z/zombi.md) | 4.35 | 
+| 665 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 665 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 665 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 665 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 665 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 665 | [Torchlight](games/t/torchlight.md) | 4.36 | 
+| 665 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
+| 665 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
+| 665 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
+| 665 | [Hammerting](games/h/hammerting.md) | 4.36 | 
+| 665 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
+| 665 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
+| 677 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
+| 677 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 677 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 677 | [Encased](games/e/encased.md) | 4.35 | 
+| 677 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
+| 677 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 677 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
+| 677 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
+| 677 | [ZOMBI](games/z/zombi.md) | 4.35 | 
 | 686 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 686 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 686 | [Automachef](games/a/automachef.md) | 4.34 | 

@@ -210,7 +210,7 @@
 | 208 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 209 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 210 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 211 | [Encased](games/e/encased.md) | 4.37 | 
+| 211 | [Encased](games/e/encased.md) | 4.35 | 
 | 212 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 213 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 214 | [EVE Online](games/e/eve_online.md) | 4.26 | 
@@ -722,7 +722,7 @@
 | 720 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
 | 721 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 722 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 723 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 
+| 723 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
 | 724 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 
 | 725 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
 | 726 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
