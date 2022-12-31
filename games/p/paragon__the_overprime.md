@@ -1,5 +1,5 @@
 # Paragon: The Overprime
-Rating: 4.26 (-)  (as of 23.09.2022)  
+Rating: 4.27 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -25,3 +25,4 @@ Rating: 4.26 (-)  (as of 23.09.2022)
 | 2022-12-22 | 4.27 | - |
 | 2022-12-28 | 4.26 | - |
 | 2022-12-29 | 4.26 | - |
+| 2022-12-31 | 4.27 | - |
