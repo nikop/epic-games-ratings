@@ -334,7 +334,7 @@
 | 332 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
 | 333 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 334 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
-| 335 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 
+| 335 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
 | 336 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
 | 337 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
 | 338 | [Inscryption](games/i/inscryption.md) | 4.86 | 
