@@ -223,7 +223,7 @@
 | 221 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 222 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 223 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 224 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.75 | 
+| 224 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 225 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 226 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
 | 227 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.60 | 
@@ -448,7 +448,7 @@
 | 446 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.62 | 
 | 447 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
 | 448 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 449 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.74 | 
+| 449 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 450 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 451 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 452 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
@@ -513,7 +513,7 @@
 | 511 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 512 | [Prey](games/p/prey.md) | 4.62 | 
 | 513 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 514 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
+| 514 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
 | 515 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 516 | [Quake](games/q/quake.md) | 4.78 | 
 | 517 | [Rage 2](games/r/rage_2.md) | 4.29 | 
