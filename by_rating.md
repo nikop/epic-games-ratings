@@ -213,26 +213,26 @@
 | 202 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 202 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 202 | [Bad North](games/b/bad_north.md) | 4.69 | 
-| 202 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
 | 202 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 202 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 202 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
 | 202 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 
 | 202 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 220 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 220 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 220 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 220 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 220 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 220 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 220 | [Overcooked](games/o/overcooked.md) | 4.68 | 
-| 220 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 220 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 220 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 220 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.68 | 
-| 220 | [CARRION](games/c/carrion.md) | 4.68 | 
-| 220 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
-| 220 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
+| 219 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 219 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 219 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 219 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 219 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 219 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 219 | [Overcooked](games/o/overcooked.md) | 4.68 | 
+| 219 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
+| 219 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
+| 219 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 219 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
+| 219 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.68 | 
+| 219 | [CARRION](games/c/carrion.md) | 4.68 | 
+| 219 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
+| 219 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 234 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 234 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 234 | [Trackmania](games/t/trackmania.md) | 4.67 | 
@@ -688,9 +688,9 @@
 | 677 | [ZOMBI](games/z/zombi.md) | 4.35 | 
 | 687 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 687 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 687 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 687 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 691 | [Ashen](games/a/ashen.md) | 4.33 | 
+| 690 | [Automachef](games/a/automachef.md) | 4.33 | 
+| 690 | [Ashen](games/a/ashen.md) | 4.33 | 
 | 692 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 692 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
 | 692 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
@@ -761,16 +761,16 @@
 | 755 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 755 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 755 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 762 | [Windbound](games/w/windbound.md) | 4.19 | 
-| 762 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 762 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
-| 762 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 762 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
-| 762 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 762 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.19 | 
-| 762 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 
-| 762 | [Fangs](games/f/fangs.md) | 4.19 | 
-| 762 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
+| 755 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
+| 763 | [Windbound](games/w/windbound.md) | 4.19 | 
+| 763 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 763 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
+| 763 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
+| 763 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
+| 763 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 763 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 
+| 763 | [Fangs](games/f/fangs.md) | 4.19 | 
+| 763 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 772 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 772 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 774 | [Space Punks](games/s/space_punks.md) | 4.17 | 
@@ -807,11 +807,11 @@
 | 805 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 805 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
 | 805 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
-| 808 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 808 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
-| 808 | [Lake](games/l/lake.md) | 4.07 | 
-| 808 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.07 | 
-| 808 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
+| 805 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 
+| 809 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 809 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
+| 809 | [Lake](games/l/lake.md) | 4.07 | 
+| 809 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.07 | 
 | 813 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 813 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 815 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
@@ -839,5 +839,5 @@
 | 837 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 838 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 838 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
-| 840 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
+| 840 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.72 | 
 | 841 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 

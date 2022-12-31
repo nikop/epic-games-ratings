@@ -1,10 +1,10 @@
 {
   "ID": "hellebore",
   "Name": "Far Cry\u00AE3 Standard Edition",
-  "Rating": 4.69,
+  "Rating": 4.68,
   "NumberOfRatings": 504,
   "FirstSeen": "2022-07-22T20:24:43.0306746+00:00",
-  "LastChanged": "2022-12-24T17:58:07.6536381+00:00",
+  "LastChanged": "2022-12-31T17:57:51.6544708+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:43.0306749+00:00",
@@ -544,6 +544,11 @@
     {
       "Time": "2022-12-24T17:58:07.6536382+00:00",
       "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-31T17:57:51.6544712+00:00",
+      "Rating": 4.68,
       "NumberOfRatings": null
     }
   ],

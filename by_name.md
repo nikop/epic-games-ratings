@@ -57,7 +57,7 @@
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.42 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 58 | [Automachef](games/a/automachef.md) | 4.34 | 
+| 58 | [Automachef](games/a/automachef.md) | 4.33 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
@@ -131,7 +131,7 @@
 | 129 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 130 | [Core](games/c/core.md) | 4.38 | 
 | 131 | [Coromon](games/c/coromon.md) | 4.65 | 
-| 132 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
+| 132 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.72 | 
 | 133 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 134 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 135 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
@@ -202,7 +202,7 @@
 | 200 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 201 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 202 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 203 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.19 | 
+| 203 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 204 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 205 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 206 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -238,7 +238,7 @@
 | 236 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 237 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
 | 238 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
-| 239 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
+| 239 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
 | 240 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
 | 241 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
 | 242 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.16 | 
@@ -447,7 +447,7 @@
 | 445 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
 | 446 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 447 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.62 | 
-| 448 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
+| 448 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 
 | 449 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 450 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 451 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
