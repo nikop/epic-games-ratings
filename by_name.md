@@ -830,7 +830,7 @@
 | 828 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 829 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
 | 830 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
-| 831 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 
+| 831 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 
 | 832 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
 | 833 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 834 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 

@@ -578,29 +578,29 @@
 | 569 | [Figment](games/f/figment.md) | 4.45 | 
 | 569 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 
 | 569 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
-| 569 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 
-| 580 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 580 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 580 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 580 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 580 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 580 | [Faeria](games/f/faeria.md) | 4.44 | 
-| 580 | [Weird West](games/w/weird_west.md) | 4.44 | 
-| 580 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
-| 580 | [Death Coming](games/d/death_coming.md) | 4.44 | 
-| 580 | [Good Company](games/g/good_company.md) | 4.44 | 
-| 580 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 580 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
-| 592 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 592 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
-| 592 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 592 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 592 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 592 | [Far Cry](games/f/far_cry.md) | 4.43 | 
-| 592 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 592 | [The Silent Age](games/t/the_silent_age.md) | 4.43 | 
-| 592 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
-| 592 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
+| 579 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 579 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 579 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 579 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 579 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 579 | [Faeria](games/f/faeria.md) | 4.44 | 
+| 579 | [Weird West](games/w/weird_west.md) | 4.44 | 
+| 579 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
+| 579 | [Death Coming](games/d/death_coming.md) | 4.44 | 
+| 579 | [Good Company](games/g/good_company.md) | 4.44 | 
+| 579 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 579 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
+| 591 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 591 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
+| 591 | [Sheltered](games/s/sheltered.md) | 4.43 | 
+| 591 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 591 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 591 | [Far Cry](games/f/far_cry.md) | 4.43 | 
+| 591 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
+| 591 | [The Silent Age](games/t/the_silent_age.md) | 4.43 | 
+| 591 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
+| 591 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
+| 591 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 
 | 602 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 602 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 602 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
