@@ -286,7 +286,7 @@
 | 284 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
 | 285 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 286 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 287 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
+| 287 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.95 | 
 | 288 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 289 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 290 | [Good Company](games/g/good_company.md) | 4.44 | 
@@ -409,7 +409,7 @@
 | 407 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 408 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 409 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
-| 410 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
+| 410 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 411 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 
 | 412 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 413 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.81 | 
@@ -424,7 +424,7 @@
 | 422 | [Minit](games/m/minit.md) | 4.55 | 
 | 423 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.89 | 
 | 424 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 425 | [Mortal Shell](games/m/mortal_shell.md) | 4.23 | 
+| 425 | [Mortal Shell](games/m/mortal_shell.md) | 4.24 | 
 | 426 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 427 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 428 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
