@@ -1,10 +1,10 @@
 {
   "ID": "0a9e3c5ab6684506bd624a849ca0cf39",
   "Name": "DEATH STRANDING DIRECTOR\u0027S CUT",
-  "Rating": 4.86,
+  "Rating": 4.87,
   "NumberOfRatings": 3099,
   "FirstSeen": "2022-07-22T20:27:07.1002044+00:00",
-  "LastChanged": "2022-12-31T06:58:00.0132695+00:00",
+  "LastChanged": "2022-12-31T14:58:17.58658+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:07.1002046+00:00",
@@ -2020,6 +2020,11 @@
       "Time": "2022-12-31T06:58:00.0132697+00:00",
       "Rating": 4.86,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-31T14:58:17.5865802+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -2053,7 +2058,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 215
+      "Count": 219
     },
     {
       "Text": "This game has a Creative Community",
