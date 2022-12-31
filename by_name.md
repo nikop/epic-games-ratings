@@ -307,13 +307,13 @@
 | 305 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 306 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 307 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 308 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.56 | 
+| 308 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.58 | 
 | 309 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 310 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 311 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 312 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 313 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 314 | [High On Life](games/h/high_on_life.md) | 4.72 | 
+| 314 | [High On Life](games/h/high_on_life.md) | 4.70 | 
 | 315 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 316 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 317 | [Hob](games/h/hob.md) | 4.57 | 
@@ -370,7 +370,7 @@
 | 368 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
 | 369 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.74 | 
 | 370 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 371 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 371 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
 | 372 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 373 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 374 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
@@ -560,7 +560,7 @@
 | 558 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 559 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 560 | [Sable](games/s/sable.md) | 4.52 | 
-| 561 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.83 | 
+| 561 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.81 | 
 | 562 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 563 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
 | 564 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -732,7 +732,7 @@
 | 730 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 731 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 732 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 733 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.54 | 
+| 733 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.56 | 
 | 734 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
 | 735 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 736 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
