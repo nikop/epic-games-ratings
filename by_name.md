@@ -62,7 +62,7 @@
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.53 | 
-| 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
+| 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 64 | [Backbone](games/b/backbone.md) | 4.38 | 
 | 65 | [Bad North](games/b/bad_north.md) | 4.69 | 
 | 66 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
@@ -106,7 +106,7 @@
 | 104 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 105 | [Card Shark](games/c/card_shark.md) | 4.67 | 
 | 106 | [CARRION](games/c/carrion.md) | 4.68 | 
-| 107 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
+| 107 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 
 | 108 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 110 | [Celeste](games/c/celeste.md) | 4.92 | 
@@ -631,7 +631,7 @@
 | 629 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 630 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 631 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
-| 632 | [Startup Panic](games/s/startup_panic.md) | 4.40 | 
+| 632 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
 | 633 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 634 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 635 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
