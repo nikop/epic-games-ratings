@@ -168,7 +168,7 @@
 | 166 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 167 | [Death Coming](games/d/death_coming.md) | 4.44 | 
 | 168 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 
-| 169 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.86 | 
+| 169 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.87 | 
 | 170 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 171 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 172 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
@@ -259,7 +259,7 @@
 | 257 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 258 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 259 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 260 | [Fort Triumph](games/f/fort_triumph.md) | 4.07 | 
+| 260 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 261 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 262 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.67 | 
 | 263 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
@@ -687,7 +687,7 @@
 | 685 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 686 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 687 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 688 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 688 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
 | 689 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
 | 690 | [The Fall](games/t/the_fall.md) | 4.29 | 
 | 691 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
@@ -716,7 +716,7 @@
 | 714 | [The Surge](games/t/the_surge.md) | 4.52 | 
 | 715 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 
 | 716 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 717 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 717 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
 | 718 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 719 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
 | 720 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
