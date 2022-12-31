@@ -227,7 +227,7 @@
 | 225 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 226 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 227 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
-| 228 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.61 | 
+| 228 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
 | 229 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 230 | [Fangs](games/f/fangs.md) | 4.19 | 
 | 231 | [Far Cry](games/f/far_cry.md) | 4.43 | 
@@ -410,7 +410,7 @@
 | 408 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 409 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 410 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 411 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 
+| 411 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 
 | 412 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 413 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.81 | 
 | 414 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
@@ -785,7 +785,7 @@
 | 783 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 784 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
 | 785 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 786 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.55 | 
+| 786 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.53 | 
 | 787 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 788 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 789 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.83 | 
@@ -828,7 +828,7 @@
 | 826 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 
 | 827 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 828 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 829 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 829 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
 | 830 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
 | 831 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
 | 832 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 

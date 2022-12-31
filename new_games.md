@@ -10,4 +10,4 @@
 | 8 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.58 | 
 | 9 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
 | 10 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 
-| 11 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 
+| 11 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 

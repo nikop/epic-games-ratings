@@ -1,10 +1,10 @@
 {
   "ID": "2e412cfcbd954e7180930e9784a47e18",
   "Name": "Fallout: A Post Nuclear Role Playing Game",
-  "Rating": 4.61,
+  "Rating": 4.62,
   "FirstSeen": "2022-10-20T22:02:33.2875741+00:00",
   "FirstSeenRating": "2022-10-28T01:33:28.7432563+00:00",
-  "LastChanged": "2022-12-31T15:58:35.955739+00:00",
+  "LastChanged": "2022-12-31T23:58:15.8536129+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-28T01:33:28.7432566+00:00",
@@ -185,12 +185,17 @@
       "Time": "2022-12-31T15:58:35.9557392+00:00",
       "Rating": 4.61,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-31T23:58:15.8536131+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 23
+      "Count": 28
     }
   ]
 }
