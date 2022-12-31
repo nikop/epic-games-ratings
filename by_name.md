@@ -559,7 +559,7 @@
 | 557 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 558 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 559 | [Sable](games/s/sable.md) | 4.52 | 
-| 560 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
+| 560 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.83 | 
 | 561 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 562 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
 | 563 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -605,7 +605,7 @@
 | 603 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
 | 604 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 605 | [SOMA](games/s/soma.md) | 4.64 | 
-| 606 | [Somerville](games/s/somerville.md) | 4.22 | 
+| 606 | [Somerville](games/s/somerville.md) | 4.21 | 
 | 607 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
 | 608 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
 | 609 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
