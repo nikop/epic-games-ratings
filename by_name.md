@@ -111,7 +111,7 @@
 | 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 110 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 
-| 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 113 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 114 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 115 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
@@ -398,7 +398,7 @@
 | 396 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 397 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
 | 398 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
-| 399 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.61 | 
+| 399 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.63 | 
 | 400 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 401 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 402 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
@@ -439,7 +439,7 @@
 | 437 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.21 | 
 | 438 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 439 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
-| 440 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 
+| 440 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
 | 441 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
 | 442 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
 | 443 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
