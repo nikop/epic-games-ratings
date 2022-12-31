@@ -258,7 +258,7 @@
 | 256 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 257 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 258 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 259 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 
+| 259 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
 | 260 | [Fort Triumph](games/f/fort_triumph.md) | 4.07 | 
 | 261 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 262 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.67 | 
@@ -343,14 +343,14 @@
 | 341 | [Insurmountable](games/i/insurmountable.md) | 4.21 | 
 | 342 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 343 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 344 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 344 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
 | 345 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 346 | [Isonzo](games/i/isonzo.md) | 4.58 | 
 | 347 | [IXION](games/i/ixion.md) | 4.55 | 
 | 348 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 349 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 350 | [Journey](games/j/journey.md) | 4.79 | 
-| 351 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
+| 351 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 352 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 353 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 354 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
@@ -458,7 +458,7 @@
 | 456 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 457 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
 | 458 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
-| 459 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 459 | [Obduction](games/o/obduction.md) | 4.11 | 
 | 460 | [Observation](games/o/observation.md) | 4.56 | 
 | 461 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 462 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.81 | 
@@ -506,7 +506,7 @@
 | 504 | [Pine](games/p/pine.md) | 4.14 | 
 | 505 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
 | 506 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
-| 507 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 
+| 507 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
 | 508 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 509 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 510 | [Predecessor](games/p/predecessor.md) | 4.40 | 
@@ -806,7 +806,7 @@
 | 804 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 805 | [Warpips](games/w/warpips.md) | 4.56 | 
 | 806 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
-| 807 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
+| 807 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.54 | 
 | 808 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 809 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.31 | 
 | 810 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
