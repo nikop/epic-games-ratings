@@ -418,7 +418,7 @@
 | 416 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 417 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.72 | 
 | 418 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
-| 419 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 419 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
 | 420 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 
 | 421 | [Minit](games/m/minit.md) | 4.55 | 
 | 422 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.89 | 
@@ -513,7 +513,7 @@
 | 511 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 512 | [Prey](games/p/prey.md) | 4.62 | 
 | 513 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 514 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
+| 514 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
 | 515 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 516 | [Quake](games/q/quake.md) | 4.78 | 
 | 517 | [Rage 2](games/r/rage_2.md) | 4.29 | 
@@ -774,7 +774,7 @@
 | 772 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.68 | 
 | 773 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
 | 774 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
-| 775 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
+| 775 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 776 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 777 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 778 | [TUNIC](games/t/tunic.md) | 4.87 | 

@@ -515,6 +515,7 @@
 | 509 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
 | 509 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 509 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 509 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
 | 509 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
 | 509 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 509 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
@@ -525,21 +526,20 @@
 | 509 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
 | 509 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 509 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
-| 526 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 526 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 526 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 526 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 526 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 526 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
-| 526 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 526 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 526 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 526 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 526 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.49 | 
-| 526 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 526 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 526 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 526 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 527 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 527 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 527 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 527 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 527 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 527 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
+| 527 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 527 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 527 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 527 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.49 | 
+| 527 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 527 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 527 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 527 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 541 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 541 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 541 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
@@ -569,6 +569,7 @@
 | 556 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 556 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 569 | [SMITE](games/s/smite.md) | 4.45 | 
+| 569 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 569 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 569 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.45 | 
 | 569 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
@@ -578,19 +579,18 @@
 | 569 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 
 | 569 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 569 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 
-| 579 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 579 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 579 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 
-| 579 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 579 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 579 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 579 | [Faeria](games/f/faeria.md) | 4.44 | 
-| 579 | [Weird West](games/w/weird_west.md) | 4.44 | 
-| 579 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
-| 579 | [Death Coming](games/d/death_coming.md) | 4.44 | 
-| 579 | [Good Company](games/g/good_company.md) | 4.44 | 
-| 579 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 579 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
+| 580 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 580 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 580 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 580 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 580 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 580 | [Faeria](games/f/faeria.md) | 4.44 | 
+| 580 | [Weird West](games/w/weird_west.md) | 4.44 | 
+| 580 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
+| 580 | [Death Coming](games/d/death_coming.md) | 4.44 | 
+| 580 | [Good Company](games/g/good_company.md) | 4.44 | 
+| 580 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 580 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
 | 592 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 592 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 592 | [Sheltered](games/s/sheltered.md) | 4.43 | 
@@ -815,7 +815,7 @@
 | 812 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 814 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 814 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.04 | 
-| 816 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
+| 816 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
 | 817 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
 | 818 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 818 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
