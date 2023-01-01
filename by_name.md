@@ -185,7 +185,7 @@
 | 183 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 184 | [Diabotical](games/d/diabotical.md) | 4.76 | 
 | 185 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 186 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
+| 186 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
 | 187 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 188 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.73 | 
@@ -516,7 +516,7 @@
 | 514 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 515 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
 | 516 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 517 | [Quake](games/q/quake.md) | 4.78 | 
+| 517 | [Quake](games/q/quake.md) | 4.79 | 
 | 518 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 519 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 520 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
@@ -572,7 +572,7 @@
 | 570 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 571 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 572 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 573 | [Scorn](games/s/scorn.md) | 4.47 | 
+| 573 | [Scorn](games/s/scorn.md) | 4.48 | 
 | 574 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
 | 575 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 576 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
