@@ -577,7 +577,7 @@
 | 575 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 576 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 577 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
-| 578 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
+| 578 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 
 | 579 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 580 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
 | 581 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 

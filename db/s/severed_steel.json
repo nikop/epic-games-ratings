@@ -1,10 +1,10 @@
 {
   "ID": "5db7394e65044dd1bb083ee983e2b3a5",
   "Name": "Severed Steel",
-  "Rating": 4.68,
+  "Rating": 4.69,
   "FirstSeen": "2022-07-22T20:21:24.7272687+00:00",
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
-  "LastChanged": "2022-12-30T18:57:38.2580954+00:00",
+  "LastChanged": "2023-01-01T03:57:26.7041942+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-28T18:57:32.9042651+00:00",
@@ -34,6 +34,11 @@
     {
       "Time": "2022-12-30T18:57:38.2580956+00:00",
       "Rating": 4.68,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-01T03:57:26.7041951+00:00",
+      "Rating": 4.69,
       "NumberOfRatings": null
     }
   ],

@@ -218,21 +218,21 @@
 | 203 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 203 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 
 | 203 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 219 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 219 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 219 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 219 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 219 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 219 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 219 | [Overcooked](games/o/overcooked.md) | 4.68 | 
-| 219 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
-| 219 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 219 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 219 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 219 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.68 | 
-| 219 | [CARRION](games/c/carrion.md) | 4.68 | 
-| 219 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
-| 219 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
+| 203 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 
+| 220 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 220 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 220 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 220 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 220 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 220 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 220 | [Overcooked](games/o/overcooked.md) | 4.68 | 
+| 220 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
+| 220 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
+| 220 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 220 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
+| 220 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.68 | 
+| 220 | [CARRION](games/c/carrion.md) | 4.68 | 
+| 220 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
 | 234 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 234 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 234 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
