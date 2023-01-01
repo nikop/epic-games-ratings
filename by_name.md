@@ -28,7 +28,7 @@
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
-| 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.75 | 
+| 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
@@ -239,7 +239,7 @@
 | 237 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
 | 238 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
 | 239 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
-| 240 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 
+| 240 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
 | 241 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
 | 242 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.16 | 
 | 243 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
@@ -665,7 +665,7 @@
 | 663 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 664 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
 | 665 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 666 | [Tacoma](games/t/tacoma.md) | 4.40 | 
+| 666 | [Tacoma](games/t/tacoma.md) | 4.41 | 
 | 667 | [Tails of Iron](games/t/tails_of_iron.md) | 4.53 | 
 | 668 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 669 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
