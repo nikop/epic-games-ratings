@@ -302,7 +302,7 @@
 | 300 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 301 | [Hammerting](games/h/hammerting.md) | 4.36 | 
 | 302 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
-| 303 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
+| 303 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
 | 304 | [Haven](games/h/haven.md) | 4.76 | 
 | 305 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 306 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
@@ -317,7 +317,7 @@
 | 315 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 316 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 317 | [Hob](games/h/hob.md) | 4.57 | 
-| 318 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
+| 318 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 319 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 320 | [Horace](games/h/horace.md) | 4.53 | 
 | 321 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.58 | 
@@ -347,7 +347,7 @@
 | 345 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
 | 346 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 347 | [Isonzo](games/i/isonzo.md) | 4.58 | 
-| 348 | [IXION](games/i/ixion.md) | 4.55 | 
+| 348 | [IXION](games/i/ixion.md) | 4.52 | 
 | 349 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 350 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 351 | [Journey](games/j/journey.md) | 4.79 | 

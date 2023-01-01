@@ -6,7 +6,7 @@
 | 4 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.46 | 
 | 5 | [High On Life](games/h/high_on_life.md) | 4.70 | 
 | 6 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
-| 7 | [IXION](games/i/ixion.md) | 4.55 | 
+| 7 | [IXION](games/i/ixion.md) | 4.52 | 
 | 8 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.58 | 
 | 9 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
 | 10 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 
