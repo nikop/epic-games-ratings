@@ -313,7 +313,7 @@
 | 311 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 312 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 313 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 314 | [High On Life](games/h/high_on_life.md) | 4.70 | 
+| 314 | [High On Life](games/h/high_on_life.md) | 4.71 | 
 | 315 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 316 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 317 | [Hob](games/h/hob.md) | 4.57 | 
@@ -388,7 +388,7 @@
 | 386 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 387 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
 | 388 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
-| 389 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
+| 389 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 390 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 391 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 392 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 

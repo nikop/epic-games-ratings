@@ -182,26 +182,26 @@
 | 173 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
 | 173 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 
 | 173 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
+| 173 | [High On Life](games/h/high_on_life.md) | 4.71 | 
 | 173 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
 | 173 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 185 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 185 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
-| 185 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 185 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 185 | [Barony](games/b/barony.md) | 4.70 | 
-| 185 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
-| 185 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 185 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
-| 185 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
-| 185 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 185 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
-| 185 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
-| 185 | [Fez](games/f/fez.md) | 4.70 | 
-| 185 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 185 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 
-| 185 | [High On Life](games/h/high_on_life.md) | 4.70 | 
-| 185 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
-| 185 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
+| 186 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 186 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
+| 186 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 186 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 186 | [Barony](games/b/barony.md) | 4.70 | 
+| 186 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
+| 186 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 186 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
+| 186 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
+| 186 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 186 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
+| 186 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
+| 186 | [Fez](games/f/fez.md) | 4.70 | 
+| 186 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 186 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 
+| 186 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
+| 186 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 203 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 203 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 203 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
@@ -466,7 +466,6 @@
 | 458 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 458 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 458 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
-| 458 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
 | 458 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 458 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 458 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
@@ -480,20 +479,21 @@
 | 458 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 458 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 
 | 458 | [Tails of Iron](games/t/tails_of_iron.md) | 4.53 | 
-| 481 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 481 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 481 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 481 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 481 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 481 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 481 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 481 | [Sable](games/s/sable.md) | 4.52 | 
-| 481 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 481 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 481 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
-| 481 | [IXION](games/i/ixion.md) | 4.52 | 
-| 481 | [STG Football](games/s/stg_football.md) | 4.52 | 
-| 481 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 480 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 480 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 480 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 480 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 480 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 480 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 480 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 480 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 480 | [Sable](games/s/sable.md) | 4.52 | 
+| 480 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 480 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 480 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
+| 480 | [IXION](games/i/ixion.md) | 4.52 | 
+| 480 | [STG Football](games/s/stg_football.md) | 4.52 | 
+| 480 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 495 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 495 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 495 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
