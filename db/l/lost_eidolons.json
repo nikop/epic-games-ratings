@@ -1,10 +1,10 @@
 {
   "ID": "de3677b7bac547128656ac18c5b2f298",
   "Name": "Lost Eidolons",
-  "Rating": 4.3,
+  "Rating": 4.32,
   "FirstSeen": "2022-10-14T09:31:01.0806081+00:00",
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
-  "LastChanged": "2022-12-24T15:57:28.747536+00:00",
+  "LastChanged": "2023-01-01T17:57:20.3172944+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-20T13:00:36.1264313+00:00",
@@ -109,6 +109,11 @@
     {
       "Time": "2022-12-24T15:57:28.7475362+00:00",
       "Rating": 4.3,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-01T17:57:20.3172945+00:00",
+      "Rating": 4.32,
       "NumberOfRatings": null
     }
   ],

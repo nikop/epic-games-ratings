@@ -57,7 +57,7 @@
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.42 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 58 | [Automachef](games/a/automachef.md) | 4.33 | 
+| 58 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
@@ -188,7 +188,7 @@
 | 186 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.54 | 
 | 187 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 188 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
+| 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.73 | 
 | 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
 | 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.47 | 
 | 192 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
@@ -202,7 +202,7 @@
 | 200 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 201 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 202 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 203 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
+| 203 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.19 | 
 | 204 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 205 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 206 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -238,7 +238,7 @@
 | 236 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 237 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
 | 238 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
-| 239 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
+| 239 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
 | 240 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
 | 241 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
 | 242 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.16 | 
@@ -346,7 +346,7 @@
 | 344 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 345 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
 | 346 | [Ironcast](games/i/ironcast.md) | 3.91 | 
-| 347 | [Isonzo](games/i/isonzo.md) | 4.58 | 
+| 347 | [Isonzo](games/i/isonzo.md) | 4.59 | 
 | 348 | [IXION](games/i/ixion.md) | 4.52 | 
 | 349 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 350 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
@@ -393,11 +393,11 @@
 | 391 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 392 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 393 | [Limbo](games/l/limbo.md) | 4.64 | 
-| 394 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.28 | 
+| 394 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
 | 395 | [Little Inferno](games/l/little_inferno.md) | 4.60 | 
 | 396 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 397 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 398 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
+| 398 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
 | 399 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
 | 400 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.63 | 
 | 401 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
@@ -487,7 +487,7 @@
 | 485 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 486 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 487 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 488 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
+| 488 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
 | 489 | [Parkitect](games/p/parkitect.md) | 4.30 | 
 | 490 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 491 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
@@ -542,7 +542,7 @@
 | 540 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 541 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 542 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 543 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 543 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 544 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 545 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
 | 546 | [Riverbond](games/r/riverbond.md) | 4.48 | 
