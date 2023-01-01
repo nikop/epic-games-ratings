@@ -227,7 +227,7 @@
 | 225 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 226 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 227 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.52 | 
-| 228 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
+| 228 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.61 | 
 | 229 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 230 | [Fangs](games/f/fangs.md) | 4.19 | 
 | 231 | [Far Cry](games/f/far_cry.md) | 4.43 | 
@@ -297,7 +297,7 @@
 | 295 | [Griftlands](games/g/griftlands.md) | 4.80 | 
 | 296 | [GRIME](games/g/grime.md) | 4.60 | 
 | 297 | [Grindstone](games/g/grindstone.md) | 4.83 | 
-| 298 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
+| 298 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
 | 299 | [Hades](games/h/hades.md) | 4.92 | 
 | 300 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
 | 301 | [Hammerting](games/h/hammerting.md) | 4.36 | 
@@ -506,7 +506,7 @@
 | 504 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 505 | [Pine](games/p/pine.md) | 4.14 | 
 | 506 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
-| 507 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
+| 507 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 508 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.46 | 
 | 509 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 510 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
