@@ -168,7 +168,7 @@
 | 166 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 167 | [Death Coming](games/d/death_coming.md) | 4.44 | 
 | 168 | [DEATH STRANDING](games/d/death_stranding.md) | 4.76 | 
-| 169 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.86 | 
+| 169 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.87 | 
 | 170 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 171 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 172 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
@@ -514,7 +514,7 @@
 | 512 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 513 | [Prey](games/p/prey.md) | 4.62 | 
 | 514 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 515 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
+| 515 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
 | 516 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 517 | [Quake](games/q/quake.md) | 4.78 | 
 | 518 | [Rage 2](games/r/rage_2.md) | 4.29 | 
@@ -585,7 +585,7 @@
 | 583 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 584 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 585 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
-| 586 | [shapez](games/s/shapez.md) | 4.75 | 
+| 586 | [shapez](games/s/shapez.md) | 4.76 | 
 | 587 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 588 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
 | 589 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.49 | 
