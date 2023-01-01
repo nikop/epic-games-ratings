@@ -54,7 +54,7 @@
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.39 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
-| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.42 | 
+| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.43 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.34 | 
@@ -202,7 +202,7 @@
 | 200 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 201 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 202 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 203 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
+| 203 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.19 | 
 | 204 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 205 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 206 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -226,7 +226,7 @@
 | 224 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 225 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 226 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 227 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
+| 227 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.52 | 
 | 228 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
 | 229 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 230 | [Fangs](games/f/fangs.md) | 4.19 | 
@@ -282,7 +282,7 @@
 | 280 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
 | 281 | [GNOG](games/g/gnog.md) | 4.65 | 
 | 282 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
-| 283 | [God of War](games/g/god_of_war.md) | 4.90 | 
+| 283 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 284 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
 | 285 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 286 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
@@ -425,7 +425,7 @@
 | 423 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.89 | 
 | 424 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 425 | [Mortal Shell](games/m/mortal_shell.md) | 4.22 | 
-| 426 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
+| 426 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 427 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 428 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 429 | [Moving Out](games/m/moving_out.md) | 4.58 | 
@@ -687,7 +687,7 @@
 | 685 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 686 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 687 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
-| 688 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 688 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 689 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
 | 690 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
 | 691 | [The Fall](games/t/the_fall.md) | 4.29 | 
