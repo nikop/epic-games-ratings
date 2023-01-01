@@ -413,7 +413,7 @@
 | 411 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 
 | 412 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 413 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.81 | 
-| 414 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
+| 414 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 415 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 416 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 417 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
@@ -487,7 +487,7 @@
 | 485 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 486 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 487 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 488 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
+| 488 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
 | 489 | [Parkitect](games/p/parkitect.md) | 4.30 | 
 | 490 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 491 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
@@ -714,7 +714,7 @@
 | 712 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 713 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 714 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
-| 715 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 715 | [The Surge](games/t/the_surge.md) | 4.53 | 
 | 716 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 
 | 717 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 718 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
