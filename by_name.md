@@ -411,7 +411,7 @@
 | 409 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 410 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 411 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 
-| 412 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
+| 412 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 413 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.81 | 
 | 414 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
 | 415 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
@@ -760,7 +760,7 @@
 | 758 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 
 | 759 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 760 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.29 | 
-| 761 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 761 | [Trackmania](games/t/trackmania.md) | 4.66 | 
 | 762 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.04 | 
 | 763 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 764 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 

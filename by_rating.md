@@ -17,18 +17,18 @@
 | 11 | [Firework](games/f/firework.md) | 4.89 | 
 | 11 | [Mago](games/m/mago.md) | 4.89 | 
 | 17 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
+| 17 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 17 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
 | 17 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 17 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 17 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
-| 22 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
-| 22 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 22 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.87 | 
-| 22 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 22 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 22 | [TUNIC](games/t/tunic.md) | 4.87 | 
-| 22 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
-| 22 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
+| 23 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
+| 23 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.87 | 
+| 23 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 23 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 23 | [TUNIC](games/t/tunic.md) | 4.87 | 
+| 23 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
+| 23 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 30 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 30 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
@@ -236,7 +236,6 @@
 | 220 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
 | 235 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 235 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 235 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 235 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 235 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 235 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
@@ -251,25 +250,26 @@
 | 235 | [Card Shark](games/c/card_shark.md) | 4.67 | 
 | 235 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.67 | 
 | 235 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
-| 252 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 252 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 252 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 252 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 252 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
-| 252 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
-| 252 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 252 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
-| 252 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
-| 252 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
-| 252 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 
-| 252 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 252 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
-| 252 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
-| 252 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
-| 252 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
-| 252 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 252 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 252 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
+| 251 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 251 | [Trackmania](games/t/trackmania.md) | 4.66 | 
+| 251 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 251 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 251 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 251 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
+| 251 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 251 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 251 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
+| 251 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
+| 251 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
+| 251 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 
+| 251 | [Death's Door](games/d/death's_door.md) | 4.66 | 
+| 251 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
+| 251 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
+| 251 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
+| 251 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
+| 251 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 251 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 251 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
 | 271 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 271 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 271 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
