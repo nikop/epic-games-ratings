@@ -1,10 +1,10 @@
 {
   "ID": "1b60f39de33b4902a8d5fa543b1fb628",
   "Name": "Sackboy\u2122: A Big Adventure",
-  "Rating": 4.81,
+  "Rating": 4.82,
   "FirstSeen": "2022-10-27T21:31:24.5822973+00:00",
   "FirstSeenRating": "2022-11-01T17:31:11.1953561+00:00",
-  "LastChanged": "2022-12-31T19:57:05.304408+00:00",
+  "LastChanged": "2023-01-01T19:56:54.6424382+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-01T17:31:11.1953565+00:00",
@@ -134,6 +134,11 @@
     {
       "Time": "2022-12-31T19:57:05.3044081+00:00",
       "Rating": 4.81,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-01T19:56:54.6424386+00:00",
+      "Rating": 4.82,
       "NumberOfRatings": null
     }
   ],

@@ -41,8 +41,8 @@
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
-| 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.87 | 
-| 43 | [Ashen](games/a/ashen.md) | 4.33 | 
+| 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
+| 43 | [Ashen](games/a/ashen.md) | 4.34 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 
@@ -202,7 +202,7 @@
 | 200 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 201 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 202 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 203 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.19 | 
+| 203 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 204 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 205 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 206 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -307,7 +307,7 @@
 | 305 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 306 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 307 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 308 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.58 | 
+| 308 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.59 | 
 | 309 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 310 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 311 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
@@ -424,7 +424,7 @@
 | 422 | [Minit](games/m/minit.md) | 4.55 | 
 | 423 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.89 | 
 | 424 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 425 | [Mortal Shell](games/m/mortal_shell.md) | 4.24 | 
+| 425 | [Mortal Shell](games/m/mortal_shell.md) | 4.22 | 
 | 426 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 427 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 428 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
@@ -487,7 +487,7 @@
 | 485 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 486 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 487 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 488 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
+| 488 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
 | 489 | [Parkitect](games/p/parkitect.md) | 4.30 | 
 | 490 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 491 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
@@ -560,7 +560,7 @@
 | 558 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 559 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 560 | [Sable](games/s/sable.md) | 4.52 | 
-| 561 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.81 | 
+| 561 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
 | 562 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 563 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
 | 564 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -732,7 +732,7 @@
 | 730 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 731 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 732 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 733 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.56 | 
+| 733 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.57 | 
 | 734 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
 | 735 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 736 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
@@ -763,7 +763,7 @@
 | 761 | [Trackmania](games/t/trackmania.md) | 4.66 | 
 | 762 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.04 | 
 | 763 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 764 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
+| 764 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.49 | 
 | 765 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 766 | [Train Valley 2](games/t/train_valley_2.md) | 4.10 | 
 | 767 | [Transistor](games/t/transistor.md) | 4.63 | 
