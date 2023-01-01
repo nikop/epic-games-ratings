@@ -1,10 +1,10 @@
 {
   "ID": "snapdragon",
   "Name": "Metro Exodus Standard Edition",
-  "Rating": 4.8,
+  "Rating": 4.79,
   "NumberOfRatings": 7529,
   "FirstSeen": "2022-07-22T20:18:26.6430541+00:00",
-  "LastChanged": "2022-09-23T13:01:03.5120061+00:00",
+  "LastChanged": "2023-01-01T09:57:17.9811273+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:26.6430543+00:00",
@@ -2675,12 +2675,17 @@
       "Time": "2022-09-23T13:01:03.5120111+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 7529
+    },
+    {
+      "Time": "2023-01-01T09:57:17.9811275+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 5598
+      "Count": 5600
     },
     {
       "Text": "This game is Great for Beginners",

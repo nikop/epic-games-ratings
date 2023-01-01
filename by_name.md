@@ -168,7 +168,7 @@
 | 166 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 167 | [Death Coming](games/d/death_coming.md) | 4.44 | 
 | 168 | [DEATH STRANDING](games/d/death_stranding.md) | 4.76 | 
-| 169 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.87 | 
+| 169 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.86 | 
 | 170 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 171 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 172 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
@@ -416,7 +416,7 @@
 | 414 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
 | 415 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 416 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
-| 417 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 417 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 418 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.72 | 
 | 419 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
 | 420 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
@@ -760,7 +760,7 @@
 | 758 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 
 | 759 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 760 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.29 | 
-| 761 | [Trackmania](games/t/trackmania.md) | 4.66 | 
+| 761 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 762 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.04 | 
 | 763 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 764 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
