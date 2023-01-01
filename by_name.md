@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.60 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -129,7 +129,7 @@
 | 127 | [Control](games/c/control.md) | 4.60 | 
 | 128 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 129 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 130 | [Core](games/c/core.md) | 4.38 | 
+| 130 | [Core](games/c/core.md) | 4.37 | 
 | 131 | [Coromon](games/c/coromon.md) | 4.65 | 
 | 132 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.72 | 
 | 133 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
@@ -236,7 +236,7 @@
 | 234 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 235 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 236 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 237 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 237 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 
 | 238 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
 | 239 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
 | 240 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
@@ -409,7 +409,7 @@
 | 407 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 408 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 409 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
-| 410 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
+| 410 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
 | 411 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 
 | 412 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 413 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.81 | 
@@ -781,7 +781,7 @@
 | 779 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 780 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 781 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 782 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
+| 782 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
 | 783 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 784 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
 | 785 | [UnMetal](games/u/unmetal.md) | 4.51 | 

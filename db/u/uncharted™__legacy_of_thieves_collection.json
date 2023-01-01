@@ -1,10 +1,10 @@
 {
   "ID": "8b2d6cf2b45b41f1abe91bc5b7c1e8f9",
   "Name": "UNCHARTED\u2122: Legacy of Thieves Collection",
-  "Rating": 4.76,
+  "Rating": 4.75,
   "FirstSeen": "2022-10-19T19:01:42.4603943+00:00",
   "FirstSeenRating": "2022-10-20T19:02:12.9087244+00:00",
-  "LastChanged": "2022-12-30T15:57:47.7545333+00:00",
+  "LastChanged": "2023-01-01T21:58:02.7134134+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-20T19:02:12.9087246+00:00",
@@ -230,12 +230,17 @@
       "Time": "2022-12-30T15:57:47.7545335+00:00",
       "Rating": 4.76,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-01T21:58:02.7134136+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 471
+      "Count": 473
     },
     {
       "Text": "This game has Diverse Characters",
