@@ -167,7 +167,7 @@
 | 165 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 166 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 167 | [Death Coming](games/d/death_coming.md) | 4.44 | 
-| 168 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 
+| 168 | [DEATH STRANDING](games/d/death_stranding.md) | 4.76 | 
 | 169 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.87 | 
 | 170 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 171 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
@@ -290,7 +290,7 @@
 | 288 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 289 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 290 | [Good Company](games/g/good_company.md) | 4.44 | 
-| 291 | [Gotham Knights](games/g/gotham_knights.md) | 4.21 | 
+| 291 | [Gotham Knights](games/g/gotham_knights.md) | 4.20 | 
 | 292 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 293 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 294 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
@@ -373,7 +373,7 @@
 | 371 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
 | 372 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 373 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 374 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
+| 374 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
 | 375 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 376 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
 | 377 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
@@ -648,7 +648,7 @@
 | 646 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 647 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 648 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 649 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
+| 649 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
 | 650 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
 | 651 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 652 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
