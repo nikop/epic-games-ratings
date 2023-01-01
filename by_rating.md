@@ -304,6 +304,7 @@
 | 298 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 298 | [Transistor](games/t/transistor.md) | 4.63 | 
 | 298 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
+| 298 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 298 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
 | 298 | [Mutazione](games/m/mutazione.md) | 4.63 | 
 | 298 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
@@ -312,24 +313,23 @@
 | 298 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
 | 298 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 298 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.63 | 
-| 313 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 313 | [Prey](games/p/prey.md) | 4.62 | 
-| 313 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 313 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 313 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
-| 313 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 313 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
-| 313 | [ABZU](games/a/abzu.md) | 4.62 | 
-| 313 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
-| 313 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
-| 313 | [Roguebook](games/r/roguebook.md) | 4.62 | 
-| 313 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 313 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 
-| 313 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
-| 313 | [Everything](games/e/everything.md) | 4.62 | 
-| 313 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
-| 313 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.62 | 
-| 313 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 314 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 314 | [Prey](games/p/prey.md) | 4.62 | 
+| 314 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 314 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 314 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
+| 314 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 314 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
+| 314 | [ABZU](games/a/abzu.md) | 4.62 | 
+| 314 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
+| 314 | [Roguebook](games/r/roguebook.md) | 4.62 | 
+| 314 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 314 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 
+| 314 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
+| 314 | [Everything](games/e/everything.md) | 4.62 | 
+| 314 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
+| 314 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.62 | 
+| 314 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 331 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 331 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 331 | [Warframe](games/w/warframe.md) | 4.61 | 
@@ -760,16 +760,16 @@
 | 755 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 755 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 755 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 755 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
 | 755 | [Gotham Knights](games/g/gotham_knights.md) | 4.20 | 
-| 762 | [Windbound](games/w/windbound.md) | 4.19 | 
-| 762 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 762 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
-| 762 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 762 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
-| 762 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 762 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.19 | 
-| 762 | [Fangs](games/f/fangs.md) | 4.19 | 
-| 762 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
+| 763 | [Windbound](games/w/windbound.md) | 4.19 | 
+| 763 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 763 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
+| 763 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
+| 763 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
+| 763 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 763 | [Fangs](games/f/fangs.md) | 4.19 | 
+| 763 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 771 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 771 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 771 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
