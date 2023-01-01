@@ -202,7 +202,7 @@
 | 200 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 201 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 202 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 203 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
+| 203 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.19 | 
 | 204 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 205 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 206 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -218,7 +218,7 @@
 | 216 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 217 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.95 | 
 | 218 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 219 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 
+| 219 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
 | 220 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
 | 221 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 222 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
@@ -442,7 +442,7 @@
 | 440 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 441 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
 | 442 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
-| 443 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
+| 443 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 444 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 445 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
 | 446 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
@@ -459,7 +459,7 @@
 | 457 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 458 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
 | 459 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
-| 460 | [Obduction](games/o/obduction.md) | 4.11 | 
+| 460 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 461 | [Observation](games/o/observation.md) | 4.56 | 
 | 462 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 463 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.81 | 
@@ -507,7 +507,7 @@
 | 505 | [Pine](games/p/pine.md) | 4.14 | 
 | 506 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
 | 507 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 
-| 508 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
+| 508 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.46 | 
 | 509 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 510 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 511 | [Predecessor](games/p/predecessor.md) | 4.40 | 
@@ -760,7 +760,7 @@
 | 758 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 
 | 759 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 760 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.29 | 
-| 761 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 761 | [Trackmania](games/t/trackmania.md) | 4.66 | 
 | 762 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.04 | 
 | 763 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 764 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 

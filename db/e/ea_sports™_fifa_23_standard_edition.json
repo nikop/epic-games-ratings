@@ -1,10 +1,10 @@
 {
   "ID": "f5deacee017b4b109476933f7dd2edbd",
   "Name": "EA SPORTS\u2122 FIFA 23 Standard Edition",
-  "Rating": 4.2,
+  "Rating": 4.19,
   "FirstSeen": "2022-09-30T07:01:34.8859438+00:00",
   "FirstSeenRating": "2022-10-06T07:01:15.4932538+00:00",
-  "LastChanged": "2022-12-31T17:57:22.3834971+00:00",
+  "LastChanged": "2023-01-01T02:19:16.1824002+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-06T07:01:15.4932542+00:00",
@@ -445,6 +445,11 @@
       "Time": "2022-12-31T17:57:22.3834974+00:00",
       "Rating": 4.2,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-01T02:19:16.1824004+00:00",
+      "Rating": 4.19,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -470,7 +475,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 211
+      "Count": 228
     },
     {
       "Text": "This game has Amazing Storytelling",
