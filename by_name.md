@@ -37,7 +37,7 @@
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.64 | 
 | 37 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
-| 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.59 | 
+| 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
@@ -170,7 +170,7 @@
 | 168 | [DEATH STRANDING](games/d/death_stranding.md) | 4.76 | 
 | 169 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.87 | 
 | 170 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 171 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 171 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
 | 172 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
 | 173 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 174 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 
@@ -651,7 +651,7 @@
 | 649 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
 | 650 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
 | 651 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 652 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
+| 652 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
 | 653 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.72 | 
 | 654 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
 | 655 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.67 | 
@@ -747,7 +747,7 @@
 | 745 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 746 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
 | 747 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
-| 748 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
+| 748 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
 | 749 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 750 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 751 | [Torchlight](games/t/torchlight.md) | 4.36 | 
@@ -785,7 +785,7 @@
 | 783 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 784 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
 | 785 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 786 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.53 | 
+| 786 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
 | 787 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 788 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 789 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.83 | 
