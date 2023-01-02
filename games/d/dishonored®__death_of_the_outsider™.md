@@ -1,5 +1,5 @@
 # Dishonored®: Death of the Outsider™
-Rating: 4.47 (-)  (as of 23.09.2022)  
+Rating: 4.50 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -9,3 +9,4 @@ Rating: 4.47 (-)  (as of 23.09.2022)
 | 2022-12-29 | 4.47 | - |
 | 2022-12-30 | 4.52 | - |
 | 2023-01-01 | 4.47 | - |
+| 2023-01-02 | 4.50 | - |

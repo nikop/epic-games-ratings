@@ -190,7 +190,7 @@
 | 188 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 
 | 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
-| 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.47 | 
+| 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.50 | 
 | 192 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 193 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.59 | 
 | 194 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
@@ -498,7 +498,7 @@
 | 496 | [Patron](games/p/patron.md) | 3.94 | 
 | 497 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 498 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 499 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 499 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
 | 500 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 501 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
 | 502 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
