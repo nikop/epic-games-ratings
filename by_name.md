@@ -165,7 +165,7 @@
 | 163 | [Days Gone](games/d/days_gone.md) | 4.69 | 
 | 164 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 165 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 166 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
+| 166 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 167 | [Death Coming](games/d/death_coming.md) | 4.44 | 
 | 168 | [DEATH STRANDING](games/d/death_stranding.md) | 4.76 | 
 | 169 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.87 | 
@@ -411,7 +411,7 @@
 | 409 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 410 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
 | 411 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 
-| 412 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
+| 412 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 413 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.81 | 
 | 414 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
 | 415 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
@@ -454,7 +454,7 @@
 | 452 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 453 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
 | 454 | [NORCO](games/n/norco.md) | 4.60 | 
-| 455 | [Northgard](games/n/northgard.md) | 4.71 | 
+| 455 | [Northgard](games/n/northgard.md) | 4.70 | 
 | 456 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
 | 457 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 458 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
@@ -588,7 +588,7 @@
 | 586 | [shapez](games/s/shapez.md) | 4.76 | 
 | 587 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 588 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
-| 589 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.49 | 
+| 589 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.50 | 
 | 590 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 591 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 
 | 592 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
@@ -782,7 +782,7 @@
 | 780 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 781 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 782 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 783 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
+| 783 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
 | 784 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 785 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
 | 786 | [UnMetal](games/u/unmetal.md) | 4.51 | 
