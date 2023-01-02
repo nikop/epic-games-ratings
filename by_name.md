@@ -399,7 +399,7 @@
 | 397 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 398 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
 | 399 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
-| 400 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.63 | 
+| 400 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.64 | 
 | 401 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 402 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 403 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
@@ -424,7 +424,7 @@
 | 422 | [Minit](games/m/minit.md) | 4.55 | 
 | 423 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.89 | 
 | 424 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 425 | [Mortal Shell](games/m/mortal_shell.md) | 4.22 | 
+| 425 | [Mortal Shell](games/m/mortal_shell.md) | 4.24 | 
 | 426 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 427 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 428 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
