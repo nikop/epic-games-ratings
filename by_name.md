@@ -210,7 +210,7 @@
 | 208 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 209 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 210 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 211 | [Encased](games/e/encased.md) | 4.36 | 
+| 211 | [Encased](games/e/encased.md) | 4.37 | 
 | 212 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 213 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 214 | [EVE Online](games/e/eve_online.md) | 4.26 | 
@@ -356,7 +356,7 @@
 | 354 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 355 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 356 | [Just Die Already](games/j/just_die_already.md) | 4.53 | 
-| 357 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.58 | 
+| 357 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.60 | 
 | 358 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 359 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 360 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
@@ -441,7 +441,7 @@
 | 439 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 440 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 441 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
-| 442 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
+| 442 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.68 | 
 | 443 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 444 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 445 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
@@ -487,7 +487,7 @@
 | 485 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 486 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 487 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 488 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
+| 488 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
 | 489 | [Parkitect](games/p/parkitect.md) | 4.30 | 
 | 490 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 491 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
