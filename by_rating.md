@@ -478,6 +478,7 @@
 | 460 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 
 | 460 | [Tails of Iron](games/t/tails_of_iron.md) | 4.53 | 
 | 478 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 478 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 478 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 478 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 478 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -493,19 +494,18 @@
 | 478 | [IXION](games/i/ixion.md) | 4.52 | 
 | 478 | [STG Football](games/s/stg_football.md) | 4.52 | 
 | 478 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
-| 494 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 494 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 494 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 494 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 494 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 494 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
-| 494 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 494 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
-| 494 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
-| 494 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
-| 494 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 494 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 494 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
+| 495 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 495 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 495 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 495 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 495 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
+| 495 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 495 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
+| 495 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
+| 495 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
+| 495 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 495 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
+| 495 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
 | 507 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 507 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 507 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
@@ -773,48 +773,48 @@
 | 763 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 772 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 772 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
-| 772 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
-| 775 | [Space Punks](games/s/space_punks.md) | 4.17 | 
-| 776 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
-| 776 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.16 | 
-| 776 | [Gone Home](games/g/gone_home.md) | 4.16 | 
-| 776 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 776 | [Submerged](games/s/submerged.md) | 4.16 | 
-| 776 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
-| 776 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
-| 783 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
-| 783 | [Relicta](games/r/relicta.md) | 4.15 | 
-| 783 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
-| 783 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 783 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 
-| 788 | [Pine](games/p/pine.md) | 4.14 | 
-| 788 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
-| 788 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
-| 791 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
-| 791 | [Flatout](games/f/flatout.md) | 4.13 | 
-| 793 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 793 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
-| 795 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
-| 795 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
-| 797 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 797 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
-| 797 | [Train Valley 2](games/t/train_valley_2.md) | 4.10 | 
-| 797 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 797 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 802 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
-| 802 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
-| 802 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
-| 802 | [Tharsis](games/t/tharsis.md) | 4.09 | 
-| 806 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 806 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
-| 806 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
-| 806 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 
-| 810 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 810 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
-| 810 | [Lake](games/l/lake.md) | 4.07 | 
-| 810 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.07 | 
-| 814 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 814 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
+| 774 | [Space Punks](games/s/space_punks.md) | 4.17 | 
+| 775 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
+| 775 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.16 | 
+| 775 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 775 | [Family Man](games/f/family_man.md) | 4.16 | 
+| 775 | [Submerged](games/s/submerged.md) | 4.16 | 
+| 775 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 775 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
+| 782 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
+| 782 | [Relicta](games/r/relicta.md) | 4.15 | 
+| 782 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
+| 782 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
+| 782 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 
+| 787 | [Pine](games/p/pine.md) | 4.14 | 
+| 787 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
+| 787 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
+| 790 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
+| 790 | [Flatout](games/f/flatout.md) | 4.13 | 
+| 792 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
+| 792 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
+| 794 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
+| 794 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
+| 796 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 796 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
+| 796 | [Train Valley 2](games/t/train_valley_2.md) | 4.10 | 
+| 796 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 796 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
+| 801 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 801 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
+| 801 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
+| 801 | [Tharsis](games/t/tharsis.md) | 4.09 | 
+| 805 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 805 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
+| 805 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
+| 805 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 
+| 809 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 809 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
+| 809 | [Lake](games/l/lake.md) | 4.07 | 
+| 809 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.07 | 
+| 813 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 813 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
+| 813 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.05 | 
 | 816 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 816 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.04 | 
 | 818 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
