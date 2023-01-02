@@ -601,17 +601,17 @@
 | 592 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
 | 592 | [The Silent Age](games/t/the_silent_age.md) | 4.43 | 
 | 592 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.43 | 
-| 592 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
 | 592 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 592 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 
-| 605 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 605 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 605 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 605 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 605 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 605 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 
-| 605 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 605 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.42 | 
+| 604 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 604 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 604 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 604 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 604 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 604 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 
+| 604 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 604 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.42 | 
+| 604 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.42 | 
 | 613 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 613 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 613 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
@@ -783,12 +783,12 @@
 | 775 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
 | 782 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 782 | [Relicta](games/r/relicta.md) | 4.15 | 
+| 782 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 
 | 782 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
 | 782 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 782 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 
-| 787 | [Pine](games/p/pine.md) | 4.14 | 
-| 787 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
-| 787 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
+| 788 | [Pine](games/p/pine.md) | 4.14 | 
+| 788 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 790 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 790 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 792 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
@@ -834,8 +834,8 @@
 | 831 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 831 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 834 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.89 | 
-| 835 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 
-| 836 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
+| 835 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
+| 835 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.86 | 
 | 837 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
 | 838 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 839 | [Saints Row](games/s/saints_row.md) | 3.78 | 

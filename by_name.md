@@ -112,7 +112,7 @@
 | 110 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 
 | 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 113 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
+| 113 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 
 | 114 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 115 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
 | 116 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
@@ -562,7 +562,7 @@
 | 560 | [Sable](games/s/sable.md) | 4.52 | 
 | 561 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
 | 562 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 563 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
+| 563 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.42 | 
 | 564 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 565 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
 | 566 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
@@ -819,7 +819,7 @@
 | 817 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 818 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 819 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 820 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 
+| 820 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.86 | 
 | 821 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 822 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 823 | [Windbound](games/w/windbound.md) | 4.19 | 
