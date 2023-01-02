@@ -9,4 +9,3 @@
 | 7 | [IXION](games/i/ixion.md) | 4.52 | 
 | 8 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.59 | 
 | 9 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
-| 10 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 

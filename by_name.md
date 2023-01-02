@@ -188,7 +188,7 @@
 | 186 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
 | 187 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 188 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.73 | 
+| 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 
 | 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
 | 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.47 | 
 | 192 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
