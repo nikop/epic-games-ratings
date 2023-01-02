@@ -464,6 +464,7 @@
 | 460 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 460 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
 | 460 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
+| 460 | [Just Die Already](games/j/just_die_already.md) | 4.53 | 
 | 460 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 460 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 460 | [RUINER](games/r/ruiner.md) | 4.53 | 
@@ -477,23 +478,22 @@
 | 460 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 460 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 
 | 460 | [Tails of Iron](games/t/tails_of_iron.md) | 4.53 | 
-| 478 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 478 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 478 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 478 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 478 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 478 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 478 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
-| 478 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 478 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 478 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 478 | [Sable](games/s/sable.md) | 4.52 | 
-| 478 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 478 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 478 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.52 | 
-| 478 | [IXION](games/i/ixion.md) | 4.52 | 
-| 478 | [STG Football](games/s/stg_football.md) | 4.52 | 
-| 478 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 479 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 479 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 479 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 479 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 479 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 479 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
+| 479 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 479 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 479 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 479 | [Sable](games/s/sable.md) | 4.52 | 
+| 479 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 479 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 479 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.52 | 
+| 479 | [IXION](games/i/ixion.md) | 4.52 | 
+| 479 | [STG Football](games/s/stg_football.md) | 4.52 | 
+| 479 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 495 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 495 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 495 | [MythForce](games/m/mythforce.md) | 4.51 | 
@@ -577,20 +577,20 @@
 | 570 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
 | 570 | [Figment](games/f/figment.md) | 4.45 | 
 | 570 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 
+| 570 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.45 | 
 | 570 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
-| 579 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 579 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 579 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 579 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 579 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 579 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
-| 579 | [Faeria](games/f/faeria.md) | 4.44 | 
-| 579 | [Weird West](games/w/weird_west.md) | 4.44 | 
-| 579 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
-| 579 | [Death Coming](games/d/death_coming.md) | 4.44 | 
-| 579 | [Good Company](games/g/good_company.md) | 4.44 | 
-| 579 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 579 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
+| 580 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 580 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 580 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 580 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 580 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 580 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
+| 580 | [Faeria](games/f/faeria.md) | 4.44 | 
+| 580 | [Weird West](games/w/weird_west.md) | 4.44 | 
+| 580 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
+| 580 | [Death Coming](games/d/death_coming.md) | 4.44 | 
+| 580 | [Good Company](games/g/good_company.md) | 4.44 | 
+| 580 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
 | 592 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 592 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 592 | [Sheltered](games/s/sheltered.md) | 4.43 | 

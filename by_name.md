@@ -133,7 +133,7 @@
 | 131 | [Coromon](games/c/coromon.md) | 4.65 | 
 | 132 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.72 | 
 | 133 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 134 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 134 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.45 | 
 | 135 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 136 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 137 | [Crayta](games/c/crayta.md) | 4.19 | 
@@ -355,7 +355,7 @@
 | 353 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 354 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 355 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
-| 356 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 356 | [Just Die Already](games/j/just_die_already.md) | 4.53 | 
 | 357 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.58 | 
 | 358 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 359 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
