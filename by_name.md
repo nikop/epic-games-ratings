@@ -33,7 +33,7 @@
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.41 | 
-| 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.56 | 
+| 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.58 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.64 | 
 | 37 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
@@ -189,7 +189,7 @@
 | 187 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 188 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 
-| 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
+| 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
 | 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.50 | 
 | 192 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 193 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.59 | 
@@ -519,7 +519,7 @@
 | 517 | [Quake](games/q/quake.md) | 4.79 | 
 | 518 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 519 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 520 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 520 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 521 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
 | 522 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 523 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 
