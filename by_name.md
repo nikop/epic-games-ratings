@@ -63,7 +63,7 @@
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 64 | [Backbone](games/b/backbone.md) | 4.38 | 
+| 64 | [Backbone](games/b/backbone.md) | 4.34 | 
 | 65 | [Bad North](games/b/bad_north.md) | 4.69 | 
 | 66 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 67 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
@@ -124,7 +124,7 @@
 | 122 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 123 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 124 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
-| 125 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 125 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 126 | [Conarium](games/c/conarium.md) | 3.94 | 
 | 127 | [Control](games/c/control.md) | 4.60 | 
 | 128 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
@@ -189,7 +189,7 @@
 | 187 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 188 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 
-| 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
+| 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
 | 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.50 | 
 | 192 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 193 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.59 | 
@@ -245,7 +245,7 @@
 | 243 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 244 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 245 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 246 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.63 | 
+| 246 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.61 | 
 | 247 | [Fez](games/f/fez.md) | 4.70 | 
 | 248 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
 | 249 | [Figment](games/f/figment.md) | 4.45 | 
@@ -346,7 +346,7 @@
 | 344 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 345 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
 | 346 | [Ironcast](games/i/ironcast.md) | 3.91 | 
-| 347 | [Isonzo](games/i/isonzo.md) | 4.59 | 
+| 347 | [Isonzo](games/i/isonzo.md) | 4.58 | 
 | 348 | [IXION](games/i/ixion.md) | 4.52 | 
 | 349 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 350 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
@@ -505,7 +505,7 @@
 | 503 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 504 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 505 | [Pine](games/p/pine.md) | 4.14 | 
-| 506 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.48 | 
+| 506 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
 | 507 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 508 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.46 | 
 | 509 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
@@ -562,7 +562,7 @@
 | 560 | [Sable](games/s/sable.md) | 4.52 | 
 | 561 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
 | 562 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 563 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.42 | 
+| 563 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
 | 564 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 565 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
 | 566 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
@@ -639,7 +639,7 @@
 | 637 | [STG Football](games/s/stg_football.md) | 4.52 | 
 | 638 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 639 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 640 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
+| 640 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 641 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 642 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
 | 643 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
