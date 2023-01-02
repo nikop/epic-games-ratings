@@ -192,7 +192,7 @@
 | 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
 | 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.50 | 
 | 192 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 193 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.59 | 
+| 193 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.58 | 
 | 194 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 195 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 196 | [DOOM 3](games/d/doom_3.md) | 4.64 | 
@@ -207,7 +207,7 @@
 | 205 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 206 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 207 | [ELEX](games/e/elex.md) | 4.41 | 
-| 208 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
+| 208 | [ELEX II](games/e/elex_ii.md) | 4.26 | 
 | 209 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 210 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 211 | [Encased](games/e/encased.md) | 4.37 | 
@@ -359,7 +359,7 @@
 | 357 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.60 | 
 | 358 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 359 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 360 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
+| 360 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
 | 361 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 362 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 363 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
@@ -398,7 +398,7 @@
 | 396 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 397 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 398 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
-| 399 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 
+| 399 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
 | 400 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.64 | 
 | 401 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 402 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
