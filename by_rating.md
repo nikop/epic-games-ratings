@@ -29,13 +29,13 @@
 | 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 24 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 24 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
-| 30 | [Inscryption](games/i/inscryption.md) | 4.86 | 
-| 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 30 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 30 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 
-| 30 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
-| 30 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
-| 30 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
+| 24 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
+| 31 | [Inscryption](games/i/inscryption.md) | 4.86 | 
+| 31 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 31 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 31 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 
+| 31 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
+| 31 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 37 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 37 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 37 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
@@ -517,6 +517,7 @@
 | 507 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 507 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
 | 507 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
+| 507 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
 | 507 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 507 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 507 | [CryoFall](games/c/cryofall.md) | 4.50 | 
@@ -526,21 +527,20 @@
 | 507 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.50 | 
 | 507 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 507 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
-| 527 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 527 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 527 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 527 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 527 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
-| 527 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 527 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 527 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.49 | 
-| 527 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.49 | 
-| 527 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 527 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
-| 527 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
-| 527 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 527 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 527 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 528 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 528 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 528 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 528 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 528 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
+| 528 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 528 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 528 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.49 | 
+| 528 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 528 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
+| 528 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
+| 528 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 528 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 528 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 542 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 542 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 542 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
@@ -723,14 +723,14 @@
 | 720 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 722 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 722 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
-| 722 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
-| 725 | [EVE Online](games/e/eve_online.md) | 4.26 | 
-| 725 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 725 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 725 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
-| 725 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
-| 725 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
-| 725 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
+| 724 | [EVE Online](games/e/eve_online.md) | 4.26 | 
+| 724 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 724 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 724 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
+| 724 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
+| 724 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
+| 724 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
+| 724 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
 | 732 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 732 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 732 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 

@@ -487,7 +487,7 @@
 | 485 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 486 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 487 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 488 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
+| 488 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
 | 489 | [Parkitect](games/p/parkitect.md) | 4.30 | 
 | 490 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 491 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
@@ -685,7 +685,7 @@
 | 683 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 684 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
 | 685 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 686 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
+| 686 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
 | 687 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 688 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 689 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
@@ -764,7 +764,7 @@
 | 762 | [Trackmania](games/t/trackmania.md) | 4.66 | 
 | 763 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.04 | 
 | 764 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 765 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.49 | 
+| 765 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
 | 766 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 767 | [Train Valley 2](games/t/train_valley_2.md) | 4.10 | 
 | 768 | [Transistor](games/t/transistor.md) | 4.63 | 
