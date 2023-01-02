@@ -111,7 +111,7 @@
 | 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 110 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 
-| 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 113 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 114 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 115 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
@@ -136,7 +136,7 @@
 | 134 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.45 | 
 | 135 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 136 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 137 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 137 | [Crayta](games/c/crayta.md) | 4.20 | 
 | 138 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
 | 139 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 140 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
@@ -226,7 +226,7 @@
 | 224 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 225 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 226 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 227 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.52 | 
+| 227 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
 | 228 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.61 | 
 | 229 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 230 | [Fangs](games/f/fangs.md) | 4.19 | 
@@ -270,7 +270,7 @@
 | 268 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 269 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
 | 270 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
-| 271 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 
+| 271 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 272 | [Genshin Impact](games/g/genshin_impact.md) | 4.69 | 
 | 273 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 274 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
@@ -346,7 +346,7 @@
 | 344 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 345 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
 | 346 | [Ironcast](games/i/ironcast.md) | 3.91 | 
-| 347 | [Isonzo](games/i/isonzo.md) | 4.59 | 
+| 347 | [Isonzo](games/i/isonzo.md) | 4.58 | 
 | 348 | [IXION](games/i/ixion.md) | 4.52 | 
 | 349 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 350 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
@@ -577,7 +577,7 @@
 | 575 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 576 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 577 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
-| 578 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 
+| 578 | [Severed Steel](games/s/severed_steel.md) | 4.70 | 
 | 579 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 580 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.75 | 
 | 581 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 

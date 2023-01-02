@@ -1,10 +1,10 @@
 {
   "ID": "puma",
   "Name": "Genesis Alpha One Deluxe Edition",
-  "Rating": 4.41,
+  "Rating": 4.39,
   "NumberOfRatings": 50,
   "FirstSeen": "2022-07-22T20:19:52.5192552+00:00",
-  "LastChanged": "2022-12-24T13:05:23.3833551+00:00",
+  "LastChanged": "2023-01-02T13:57:26.5571418+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-24T22:00:38.9238835+00:00",
@@ -254,6 +254,11 @@
     {
       "Time": "2022-12-24T13:05:23.3833554+00:00",
       "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-02T13:57:26.557142+00:00",
+      "Rating": 4.39,
       "NumberOfRatings": null
     }
   ],
