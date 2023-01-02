@@ -68,7 +68,7 @@
 | 66 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 67 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
 | 68 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 
-| 69 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.85 | 
+| 69 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 70 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 71 | [Barony](games/b/barony.md) | 4.70 | 
 | 72 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
@@ -307,7 +307,7 @@
 | 305 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 306 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 307 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 308 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.59 | 
+| 308 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.55 | 
 | 309 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 310 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 311 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
