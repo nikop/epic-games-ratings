@@ -726,14 +726,14 @@
 | 724 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 724 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 724 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 724 | [ELEX II](games/e/elex_ii.md) | 4.26 | 
 | 724 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
 | 724 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 724 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 724 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 724 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
-| 733 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 733 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 
+| 732 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 732 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
+| 732 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 
 | 735 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 735 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 735 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
