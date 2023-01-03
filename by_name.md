@@ -32,7 +32,7 @@
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
-| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.41 | 
+| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.58 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.64 | 
@@ -93,7 +93,7 @@
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
+| 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.60 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
@@ -207,7 +207,7 @@
 | 205 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 206 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 207 | [ELEX](games/e/elex.md) | 4.41 | 
-| 208 | [ELEX II](games/e/elex_ii.md) | 4.26 | 
+| 208 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 209 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 210 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 211 | [Encased](games/e/encased.md) | 4.37 | 
@@ -359,7 +359,7 @@
 | 357 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.60 | 
 | 358 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 359 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 360 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
+| 360 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 361 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 362 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 363 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
@@ -418,7 +418,7 @@
 | 416 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 417 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 418 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.72 | 
-| 419 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
+| 419 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 
 | 420 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
 | 421 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 
 | 422 | [Minit](games/m/minit.md) | 4.55 | 
@@ -708,7 +708,7 @@
 | 706 | [The Medium](games/t/the_medium.md) | 4.57 | 
 | 707 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
 | 708 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 709 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
+| 709 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 710 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 711 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 712 | [The Silent Age](games/t/the_silent_age.md) | 4.43 | 
@@ -774,7 +774,7 @@
 | 772 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 773 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 774 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.68 | 
-| 775 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
+| 775 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
 | 776 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
 | 777 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 778 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 

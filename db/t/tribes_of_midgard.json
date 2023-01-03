@@ -1,10 +1,10 @@
 {
   "ID": "6774af9524fe4f63b2a6717d04269cd6",
   "Name": "Tribes of Midgard",
-  "Rating": 4.58,
+  "Rating": 4.57,
   "NumberOfRatings": 120,
   "FirstSeen": "2022-07-22T20:21:40.7309672+00:00",
-  "LastChanged": "2022-12-26T13:08:26.5121058+00:00",
+  "LastChanged": "2023-01-03T22:57:24.8140799+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:40.7309675+00:00",
@@ -329,6 +329,11 @@
     {
       "Time": "2022-12-26T13:08:26.5121061+00:00",
       "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-03T22:57:24.81408+00:00",
+      "Rating": 4.57,
       "NumberOfRatings": null
     }
   ],
