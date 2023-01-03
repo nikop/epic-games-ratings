@@ -124,7 +124,7 @@
 | 122 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 123 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 124 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
-| 125 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
+| 125 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 126 | [Conarium](games/c/conarium.md) | 3.94 | 
 | 127 | [Control](games/c/control.md) | 4.60 | 
 | 128 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
@@ -420,7 +420,7 @@
 | 418 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.72 | 
 | 419 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 
 | 420 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
-| 421 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 
+| 421 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
 | 422 | [Minit](games/m/minit.md) | 4.55 | 
 | 423 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.89 | 
 | 424 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 

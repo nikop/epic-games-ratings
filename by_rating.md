@@ -425,7 +425,6 @@
 | 423 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 423 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 423 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 423 | [Conan Exiles](games/c/conan_exiles.md) | 4.56 | 
 | 423 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 423 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
 | 423 | [Hue](games/h/hue.md) | 4.56 | 
@@ -436,19 +435,20 @@
 | 423 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 423 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 423 | [Observation](games/o/observation.md) | 4.56 | 
-| 437 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 437 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
-| 437 | [Outward](games/o/outward.md) | 4.55 | 
-| 437 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
-| 437 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 437 | [Sonic Origins](games/s/sonic_origins.md) | 4.55 | 
-| 437 | [Minit](games/m/minit.md) | 4.55 | 
-| 437 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
-| 437 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 437 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
-| 437 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
-| 437 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
-| 437 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
+| 436 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 436 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
+| 436 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 436 | [Outward](games/o/outward.md) | 4.55 | 
+| 436 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
+| 436 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
+| 436 | [Sonic Origins](games/s/sonic_origins.md) | 4.55 | 
+| 436 | [Minit](games/m/minit.md) | 4.55 | 
+| 436 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 436 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 436 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
+| 436 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
+| 436 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
+| 436 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
 | 450 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 450 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 450 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
@@ -564,21 +564,21 @@
 | 557 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
 | 557 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 557 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 557 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
 | 557 | [Chorus](games/c/chorus.md) | 4.46 | 
 | 557 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 557 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 557 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.46 | 
 | 557 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 570 | [SMITE](games/s/smite.md) | 4.45 | 
-| 570 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 570 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 570 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
-| 570 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 570 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 570 | [Figment](games/f/figment.md) | 4.45 | 
-| 570 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 
-| 570 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.45 | 
-| 570 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
+| 571 | [SMITE](games/s/smite.md) | 4.45 | 
+| 571 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 571 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 571 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
+| 571 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 571 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
+| 571 | [Figment](games/f/figment.md) | 4.45 | 
+| 571 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.45 | 
+| 571 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 580 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 580 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 580 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
