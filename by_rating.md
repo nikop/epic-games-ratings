@@ -319,7 +319,6 @@
 | 312 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 312 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 312 | [ABZU](games/a/abzu.md) | 4.62 | 
-| 312 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 312 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
 | 312 | [Roguebook](games/r/roguebook.md) | 4.62 | 
 | 312 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
@@ -329,28 +328,29 @@
 | 312 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
 | 312 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.62 | 
 | 312 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 330 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
-| 330 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 330 | [Warframe](games/w/warframe.md) | 4.61 | 
-| 330 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
-| 330 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
-| 330 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 330 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 330 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 330 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 330 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
-| 330 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 330 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 330 | [20XX](games/2/20xx.md) | 4.61 | 
-| 330 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 330 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
-| 330 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
-| 330 | [Road 96](games/r/road_96.md) | 4.61 | 
-| 330 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
-| 330 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.61 | 
-| 330 | [Darkwood](games/d/darkwood.md) | 4.61 | 
-| 330 | [GigaBash](games/g/gigabash.md) | 4.61 | 
-| 330 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
+| 329 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
+| 329 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 329 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 329 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
+| 329 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
+| 329 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 329 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 329 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 329 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 329 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 329 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 329 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 329 | [20XX](games/2/20xx.md) | 4.61 | 
+| 329 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 329 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
+| 329 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
+| 329 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
+| 329 | [Road 96](games/r/road_96.md) | 4.61 | 
+| 329 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
+| 329 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.61 | 
+| 329 | [Darkwood](games/d/darkwood.md) | 4.61 | 
+| 329 | [GigaBash](games/g/gigabash.md) | 4.61 | 
+| 329 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
 | 352 | [Control](games/c/control.md) | 4.60 | 
 | 352 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 352 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
@@ -489,22 +489,22 @@
 | 478 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
 | 478 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 478 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 478 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
 | 478 | [STG Football](games/s/stg_football.md) | 4.52 | 
 | 478 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
-| 492 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 492 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 492 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 492 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 492 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 492 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
-| 492 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 492 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
-| 492 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
-| 492 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
-| 492 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 492 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 492 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
-| 492 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
+| 493 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 493 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 493 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 493 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 493 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 493 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
+| 493 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 493 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
+| 493 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
+| 493 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
+| 493 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 493 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
+| 493 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
 | 506 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 506 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 506 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 

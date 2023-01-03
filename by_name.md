@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.60 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -576,7 +576,7 @@
 | 574 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
 | 575 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 576 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
-| 577 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
+| 577 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 578 | [Severed Steel](games/s/severed_steel.md) | 4.70 | 
 | 579 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 580 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.73 | 
