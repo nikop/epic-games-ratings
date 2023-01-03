@@ -289,7 +289,7 @@
 | 287 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.95 | 
 | 288 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 289 | [Gone Home](games/g/gone_home.md) | 4.16 | 
-| 290 | [Good Company](games/g/good_company.md) | 4.44 | 
+| 290 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 291 | [Gotham Knights](games/g/gotham_knights.md) | 4.20 | 
 | 292 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 293 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
@@ -307,7 +307,7 @@
 | 305 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 306 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 307 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 308 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.55 | 
+| 308 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.57 | 
 | 309 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 310 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 311 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
@@ -347,7 +347,7 @@
 | 345 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
 | 346 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 347 | [Isonzo](games/i/isonzo.md) | 4.59 | 
-| 348 | [IXION](games/i/ixion.md) | 4.53 | 
+| 348 | [IXION](games/i/ixion.md) | 4.54 | 
 | 349 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 350 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 351 | [Journey](games/j/journey.md) | 4.80 | 
@@ -370,7 +370,7 @@
 | 368 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
 | 369 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.74 | 
 | 370 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 371 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
+| 371 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 372 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 373 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 374 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
