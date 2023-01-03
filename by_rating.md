@@ -732,8 +732,8 @@
 | 725 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 725 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 725 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
-| 733 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 733 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 
+| 725 | [The Surge 2](games/t/the_surge_2.md) | 4.26 | 
+| 734 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 735 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 735 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 735 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
