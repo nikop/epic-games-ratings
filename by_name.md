@@ -487,7 +487,7 @@
 | 485 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 486 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 487 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 488 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
+| 488 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
 | 489 | [Parkitect](games/p/parkitect.md) | 4.30 | 
 | 490 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 491 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
@@ -667,7 +667,7 @@
 | 665 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 666 | [Tacoma](games/t/tacoma.md) | 4.41 | 
 | 667 | [Tails of Iron](games/t/tails_of_iron.md) | 4.53 | 
-| 668 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
+| 668 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
 | 669 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 670 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 671 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 

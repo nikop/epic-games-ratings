@@ -220,22 +220,22 @@
 | 206 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 206 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 206 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 
-| 206 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 222 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 222 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 222 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 222 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 222 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 222 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 222 | [Overcooked](games/o/overcooked.md) | 4.68 | 
-| 222 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 222 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 222 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 222 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.68 | 
-| 222 | [CARRION](games/c/carrion.md) | 4.68 | 
-| 222 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
-| 222 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.68 | 
-| 222 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
+| 221 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 221 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 221 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 221 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 221 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 221 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 221 | [Overcooked](games/o/overcooked.md) | 4.68 | 
+| 221 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
+| 221 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 221 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
+| 221 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.68 | 
+| 221 | [CARRION](games/c/carrion.md) | 4.68 | 
+| 221 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
+| 221 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
+| 221 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.68 | 
+| 221 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
 | 237 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 237 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 237 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
@@ -723,15 +723,15 @@
 | 720 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 722 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 722 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
-| 724 | [EVE Online](games/e/eve_online.md) | 4.26 | 
-| 724 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 724 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 724 | [ELEX II](games/e/elex_ii.md) | 4.26 | 
-| 724 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
-| 724 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
-| 724 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
-| 724 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
-| 724 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
+| 722 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
+| 725 | [EVE Online](games/e/eve_online.md) | 4.26 | 
+| 725 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 725 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 725 | [ELEX II](games/e/elex_ii.md) | 4.26 | 
+| 725 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
+| 725 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
+| 725 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
+| 725 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 733 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 733 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 
 | 735 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
