@@ -591,7 +591,6 @@
 | 580 | [Good Company](games/g/good_company.md) | 4.44 | 
 | 580 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
 | 591 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 591 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 591 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 591 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 591 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 
@@ -604,14 +603,15 @@
 | 591 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
 | 591 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 591 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 
-| 605 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 605 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 605 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 605 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 605 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 605 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 
-| 605 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 605 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.42 | 
+| 604 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 604 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 604 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 604 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 604 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 604 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 604 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 
+| 604 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 604 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.42 | 
 | 613 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 613 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 613 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 

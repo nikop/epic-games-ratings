@@ -477,7 +477,7 @@
 | 475 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 476 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 477 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 478 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
+| 478 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 479 | [Outward](games/o/outward.md) | 4.55 | 
 | 480 | [Overcooked](games/o/overcooked.md) | 4.68 | 
 | 481 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
