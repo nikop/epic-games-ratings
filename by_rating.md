@@ -83,22 +83,22 @@
 | 75 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
 | 75 | [Griftlands](games/g/griftlands.md) | 4.80 | 
 | 75 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
+| 75 | [Journey](games/j/journey.md) | 4.80 | 
 | 75 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 75 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
 | 75 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 
 | 75 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
 | 75 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
-| 89 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
-| 89 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 89 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 89 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 89 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 89 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
-| 89 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 89 | [Journey](games/j/journey.md) | 4.79 | 
-| 89 | [Quake](games/q/quake.md) | 4.79 | 
-| 89 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
-| 89 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
+| 90 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
+| 90 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 90 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
+| 90 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 90 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 90 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
+| 90 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 90 | [Quake](games/q/quake.md) | 4.79 | 
+| 90 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
+| 90 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
 | 100 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 100 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
@@ -585,25 +585,25 @@
 | 580 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 580 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 580 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
-| 580 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 580 | [Weird West](games/w/weird_west.md) | 4.44 | 
 | 580 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
 | 580 | [Death Coming](games/d/death_coming.md) | 4.44 | 
 | 580 | [Good Company](games/g/good_company.md) | 4.44 | 
 | 580 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
-| 592 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 592 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
-| 592 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 592 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 592 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 
-| 592 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 592 | [Far Cry](games/f/far_cry.md) | 4.43 | 
-| 592 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 592 | [The Silent Age](games/t/the_silent_age.md) | 4.43 | 
-| 592 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.43 | 
-| 592 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
-| 592 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
-| 592 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 
+| 591 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 591 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
+| 591 | [Sheltered](games/s/sheltered.md) | 4.43 | 
+| 591 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 591 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 
+| 591 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 591 | [Faeria](games/f/faeria.md) | 4.43 | 
+| 591 | [Far Cry](games/f/far_cry.md) | 4.43 | 
+| 591 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
+| 591 | [The Silent Age](games/t/the_silent_age.md) | 4.43 | 
+| 591 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.43 | 
+| 591 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
+| 591 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
+| 591 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 
 | 605 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 605 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 605 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 

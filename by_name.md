@@ -222,7 +222,7 @@
 | 220 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
 | 221 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 222 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
-| 223 | [Faeria](games/f/faeria.md) | 4.44 | 
+| 223 | [Faeria](games/f/faeria.md) | 4.43 | 
 | 224 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 225 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 226 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
@@ -350,7 +350,7 @@
 | 348 | [IXION](games/i/ixion.md) | 4.53 | 
 | 349 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 350 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 351 | [Journey](games/j/journey.md) | 4.79 | 
+| 351 | [Journey](games/j/journey.md) | 4.80 | 
 | 352 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 353 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 354 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
