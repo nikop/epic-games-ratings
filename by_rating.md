@@ -790,10 +790,10 @@
 | 788 | [Pine](games/p/pine.md) | 4.14 | 
 | 788 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 790 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
+| 790 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.13 | 
 | 790 | [Flatout](games/f/flatout.md) | 4.13 | 
-| 792 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 792 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
-| 792 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.12 | 
+| 793 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
+| 793 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
 | 795 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 795 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
 | 797 | [Obduction](games/o/obduction.md) | 4.10 | 
