@@ -188,7 +188,7 @@
 | 186 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
 | 187 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 188 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.73 | 
+| 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.72 | 
 | 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
 | 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.50 | 
 | 192 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
@@ -666,7 +666,7 @@
 | 664 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
 | 665 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 666 | [Tacoma](games/t/tacoma.md) | 4.41 | 
-| 667 | [Tails of Iron](games/t/tails_of_iron.md) | 4.53 | 
+| 667 | [Tails of Iron](games/t/tails_of_iron.md) | 4.48 | 
 | 668 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
 | 669 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
 | 670 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
