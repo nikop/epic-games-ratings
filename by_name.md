@@ -103,7 +103,7 @@
 | 101 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
 | 102 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
 | 103 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 104 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 104 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
 | 105 | [Card Shark](games/c/card_shark.md) | 4.67 | 
 | 106 | [CARRION](games/c/carrion.md) | 4.68 | 
 | 107 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
@@ -370,7 +370,7 @@
 | 368 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
 | 369 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.74 | 
 | 370 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 371 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 371 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.83 | 
 | 372 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 373 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 374 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
