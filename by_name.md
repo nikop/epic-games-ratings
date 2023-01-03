@@ -313,7 +313,7 @@
 | 311 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 312 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 313 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 314 | [High On Life](games/h/high_on_life.md) | 4.71 | 
+| 314 | [High On Life](games/h/high_on_life.md) | 4.69 | 
 | 315 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 316 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 317 | [Hob](games/h/hob.md) | 4.57 | 
@@ -562,7 +562,7 @@
 | 560 | [Sable](games/s/sable.md) | 4.52 | 
 | 561 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
 | 562 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 563 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
+| 563 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.42 | 
 | 564 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 565 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
 | 566 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
