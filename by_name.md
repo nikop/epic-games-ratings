@@ -346,7 +346,7 @@
 | 344 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 345 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
 | 346 | [Ironcast](games/i/ironcast.md) | 3.91 | 
-| 347 | [Isonzo](games/i/isonzo.md) | 4.58 | 
+| 347 | [Isonzo](games/i/isonzo.md) | 4.59 | 
 | 348 | [IXION](games/i/ixion.md) | 4.53 | 
 | 349 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 350 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
@@ -514,7 +514,7 @@
 | 512 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 513 | [Prey](games/p/prey.md) | 4.62 | 
 | 514 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 515 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
+| 515 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
 | 516 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 517 | [Quake](games/q/quake.md) | 4.79 | 
 | 518 | [Rage 2](games/r/rage_2.md) | 4.29 | 

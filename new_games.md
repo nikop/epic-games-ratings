@@ -8,4 +8,4 @@
 | 6 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
 | 7 | [IXION](games/i/ixion.md) | 4.53 | 
 | 8 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.55 | 
-| 9 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.03 | 
+| 9 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
