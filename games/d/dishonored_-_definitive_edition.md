@@ -1,5 +1,5 @@
 # Dishonored - Definitive Edition
-Rating: 4.72 (234)  (as of 23.09.2022)  
+Rating: 4.71 (234)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -69,3 +69,4 @@ Rating: 4.72 (234)  (as of 23.09.2022)
 | 2023-01-01 | 4.73 | - |
 | 2023-01-02 | 4.74 | - |
 | 2023-01-03 | 4.72 | - |
+| 2023-01-04 | 4.71 | - |
