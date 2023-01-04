@@ -522,7 +522,7 @@
 | 520 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 521 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
 | 522 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 523 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 
+| 523 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 
 | 524 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
 | 525 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 526 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
@@ -588,7 +588,7 @@
 | 586 | [shapez](games/s/shapez.md) | 4.76 | 
 | 587 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 588 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
-| 589 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.49 | 
+| 589 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
 | 590 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 591 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 
 | 592 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
@@ -683,7 +683,7 @@
 | 681 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 682 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 683 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 684 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
+| 684 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 685 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 686 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
 | 687 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
@@ -779,7 +779,7 @@
 | 777 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 778 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 779 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 780 | [TUNIC](games/t/tunic.md) | 4.87 | 
+| 780 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 781 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 782 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 783 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
@@ -832,7 +832,7 @@
 | 830 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 831 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
 | 832 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
-| 833 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 
+| 833 | [WRC Generations](games/w/wrc_generations.md) | 4.41 | 
 | 834 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
 | 835 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 836 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
