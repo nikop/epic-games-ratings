@@ -75,7 +75,7 @@
 | 73 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 74 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 75 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.63 | 
+| 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
 | 77 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
 | 78 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
 | 79 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
@@ -179,7 +179,7 @@
 | 177 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 178 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 179 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
-| 180 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 180 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 181 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
 | 182 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
 | 183 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -422,7 +422,7 @@
 | 420 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 421 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
 | 422 | [Minit](games/m/minit.md) | 4.55 | 
-| 423 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.89 | 
+| 423 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.90 | 
 | 424 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 425 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
 | 426 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
@@ -829,7 +829,7 @@
 | 827 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 
 | 828 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 829 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 830 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
+| 830 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 831 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
 | 832 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
 | 833 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 
