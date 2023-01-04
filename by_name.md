@@ -218,7 +218,7 @@
 | 216 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 217 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.95 | 
 | 218 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 219 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.13 | 
+| 219 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.14 | 
 | 220 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
 | 221 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 222 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
@@ -516,7 +516,7 @@
 | 514 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 515 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
 | 516 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 517 | [Quake](games/q/quake.md) | 4.79 | 
+| 517 | [Quake](games/q/quake.md) | 4.78 | 
 | 518 | [Rage 2](games/r/rage_2.md) | 4.29 | 
 | 519 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 520 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 

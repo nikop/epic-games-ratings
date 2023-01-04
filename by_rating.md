@@ -96,12 +96,12 @@
 | 89 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
 | 89 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 
 | 89 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 89 | [Quake](games/q/quake.md) | 4.79 | 
 | 89 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
 | 89 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
-| 100 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
-| 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 100 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
+| 99 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 99 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 99 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
+| 99 | [Quake](games/q/quake.md) | 4.78 | 
 | 103 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 103 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 103 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
@@ -789,9 +789,9 @@
 | 782 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 
 | 788 | [Pine](games/p/pine.md) | 4.14 | 
 | 788 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
-| 790 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
-| 790 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.13 | 
-| 790 | [Flatout](games/f/flatout.md) | 4.13 | 
+| 788 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.14 | 
+| 791 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
+| 791 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 793 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 793 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
 | 795 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
