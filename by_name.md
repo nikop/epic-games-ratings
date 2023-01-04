@@ -206,7 +206,7 @@
 | 204 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 205 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 206 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 207 | [ELEX](games/e/elex.md) | 4.41 | 
+| 207 | [ELEX](games/e/elex.md) | 4.40 | 
 | 208 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
 | 209 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 210 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
@@ -253,7 +253,7 @@
 | 251 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 252 | [Firework](games/f/firework.md) | 4.89 | 
 | 253 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 254 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 
+| 254 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
 | 255 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 256 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 257 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
@@ -554,7 +554,7 @@
 | 552 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
 | 553 | [Roguebook](games/r/roguebook.md) | 4.62 | 
 | 554 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 555 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
+| 555 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
 | 556 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
 | 557 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 558 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
@@ -646,7 +646,7 @@
 | 644 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
 | 645 | [Submerged](games/s/submerged.md) | 4.16 | 
 | 646 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 647 | [Subnautica](games/s/subnautica.md) | 4.84 | 
+| 647 | [Subnautica](games/s/subnautica.md) | 4.85 | 
 | 648 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 649 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
 | 650 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
