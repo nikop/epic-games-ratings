@@ -93,7 +93,7 @@
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
 | 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.60 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
@@ -417,7 +417,7 @@
 | 415 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 416 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 417 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
-| 418 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.72 | 
+| 418 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
 | 419 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 
 | 420 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
 | 421 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
@@ -837,7 +837,7 @@
 | 835 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 836 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 837 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
-| 838 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 838 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
 | 839 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
 | 840 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
 | 841 | [ZOMBI](games/z/zombi.md) | 4.35 | 

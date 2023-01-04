@@ -162,7 +162,6 @@
 | 144 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 144 | [Suzerain](games/s/suzerain.md) | 4.73 | 
 | 162 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 162 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.72 | 
 | 162 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 162 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 162 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
@@ -173,17 +172,18 @@
 | 162 | [Slipways](games/s/slipways.md) | 4.72 | 
 | 162 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.72 | 
 | 162 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
-| 174 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 174 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 174 | [Timberborn](games/t/timberborn.md) | 4.71 | 
-| 174 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 174 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 174 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
-| 174 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 174 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 
-| 174 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
-| 174 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
-| 174 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
+| 173 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 173 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 173 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
+| 173 | [Timberborn](games/t/timberborn.md) | 4.71 | 
+| 173 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 173 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 173 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
+| 173 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
+| 173 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 
+| 173 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
+| 173 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
+| 173 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
 | 185 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 185 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 185 | [For The King](games/f/for_the_king.md) | 4.70 | 
@@ -506,6 +506,7 @@
 | 494 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 494 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 506 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 506 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
 | 506 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 506 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 506 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
@@ -523,23 +524,22 @@
 | 506 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.50 | 
 | 506 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 506 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
-| 524 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 524 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 524 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
-| 524 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 524 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 524 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 524 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
-| 524 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 524 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 524 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.49 | 
-| 524 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.49 | 
-| 524 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 524 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
-| 524 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
-| 524 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 524 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 524 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 525 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 525 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 525 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 525 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 525 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 525 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
+| 525 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 525 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 525 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.49 | 
+| 525 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.49 | 
+| 525 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 525 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
+| 525 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
+| 525 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 525 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 525 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 541 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 541 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 541 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
@@ -630,7 +630,6 @@
 | 614 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
 | 629 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 629 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 629 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 629 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
 | 629 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 629 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
@@ -639,17 +638,18 @@
 | 629 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 629 | [Predecessor](games/p/predecessor.md) | 4.40 | 
 | 629 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
-| 640 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 640 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 640 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 640 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
-| 640 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
-| 640 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
-| 640 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
-| 640 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
-| 640 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 640 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.39 | 
-| 640 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
+| 639 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 639 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 639 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 639 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
+| 639 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
+| 639 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
+| 639 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
+| 639 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
+| 639 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
+| 639 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
+| 639 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.39 | 
+| 639 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
 | 651 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 
 | 651 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 651 | [Othercide](games/o/othercide.md) | 4.38 | 
