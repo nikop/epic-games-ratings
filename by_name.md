@@ -419,7 +419,7 @@
 | 417 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 418 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
 | 419 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 
-| 420 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
+| 420 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 421 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
 | 422 | [Minit](games/m/minit.md) | 4.55 | 
 | 423 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.89 | 
@@ -542,7 +542,7 @@
 | 540 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 541 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 542 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 543 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 543 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 544 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 545 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
 | 546 | [Riverbond](games/r/riverbond.md) | 4.48 | 

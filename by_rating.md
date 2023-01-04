@@ -515,7 +515,6 @@
 | 506 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 506 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 506 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
-| 506 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
 | 506 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 506 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 506 | [CryoFall](games/c/cryofall.md) | 4.50 | 
@@ -525,21 +524,22 @@
 | 506 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.50 | 
 | 506 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 506 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
-| 526 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 526 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 526 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 526 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 526 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
-| 526 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 526 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 526 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.49 | 
-| 526 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.49 | 
-| 526 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 526 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
-| 526 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
-| 526 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 526 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 526 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 525 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 525 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 525 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 525 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 525 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
+| 525 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 525 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 525 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 525 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.49 | 
+| 525 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.49 | 
+| 525 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 525 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
+| 525 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
+| 525 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 525 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 525 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 541 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 541 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 541 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
@@ -627,17 +627,17 @@
 | 614 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 614 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 614 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 614 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 614 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 629 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 629 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 629 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
-| 629 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 629 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 629 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 629 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 629 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
-| 629 | [Predecessor](games/p/predecessor.md) | 4.40 | 
-| 629 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 630 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 630 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 630 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
+| 630 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 630 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 630 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 630 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 630 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
+| 630 | [Predecessor](games/p/predecessor.md) | 4.40 | 
 | 639 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 639 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 639 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
