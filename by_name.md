@@ -15,7 +15,7 @@
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
+| 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
@@ -231,7 +231,7 @@
 | 229 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 230 | [Fangs](games/f/fangs.md) | 4.19 | 
 | 231 | [Far Cry](games/f/far_cry.md) | 4.43 | 
-| 232 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.22 | 
+| 232 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.23 | 
 | 233 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 234 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 235 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
@@ -327,7 +327,7 @@
 | 325 | [House Party](games/h/house_party.md) | 4.30 | 
 | 326 | [Hue](games/h/hue.md) | 4.56 | 
 | 327 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 328 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
+| 328 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 329 | [Huntdown](games/h/huntdown.md) | 4.85 | 
 | 330 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 331 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
