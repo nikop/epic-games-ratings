@@ -648,7 +648,7 @@
 | 646 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 647 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 648 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 649 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
+| 649 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
 | 650 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
 | 651 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 652 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
@@ -689,7 +689,7 @@
 | 687 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 688 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
 | 689 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
-| 690 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
+| 690 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 691 | [The Fall](games/t/the_fall.md) | 4.29 | 
 | 692 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
 | 693 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
