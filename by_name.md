@@ -226,7 +226,7 @@
 | 224 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 225 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 226 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 227 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
+| 227 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.52 | 
 | 228 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
 | 229 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 230 | [Fangs](games/f/fangs.md) | 4.19 | 
@@ -448,7 +448,7 @@
 | 446 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 447 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.62 | 
 | 448 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 
-| 449 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 449 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.55 | 
 | 450 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 451 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 452 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
@@ -716,7 +716,7 @@
 | 714 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 715 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 716 | [The Surge](games/t/the_surge.md) | 4.53 | 
-| 717 | [The Surge 2](games/t/the_surge_2.md) | 4.26 | 
+| 717 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
 | 718 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 719 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
 | 720 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
@@ -733,7 +733,7 @@
 | 731 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 732 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 733 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 734 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.57 | 
+| 734 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.58 | 
 | 735 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
 | 736 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 737 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
