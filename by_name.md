@@ -57,14 +57,14 @@
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.43 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 58 | [Automachef](games/a/automachef.md) | 4.34 | 
+| 58 | [Automachef](games/a/automachef.md) | 4.33 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 64 | [Backbone](games/b/backbone.md) | 4.34 | 
-| 65 | [Bad North](games/b/bad_north.md) | 4.69 | 
+| 65 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 66 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 67 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
 | 68 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 
@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.60 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -121,7 +121,7 @@
 | 119 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
 | 120 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 121 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
-| 122 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
+| 122 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
 | 123 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 124 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
 | 125 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -220,7 +220,7 @@
 | 218 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 219 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.14 | 
 | 220 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
-| 221 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 221 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
 | 222 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 223 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 224 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
@@ -510,7 +510,7 @@
 | 508 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.46 | 
 | 509 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 510 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 511 | [Predecessor](games/p/predecessor.md) | 4.40 | 
+| 511 | [Predecessor](games/p/predecessor.md) | 4.41 | 
 | 512 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 513 | [Prey](games/p/prey.md) | 4.62 | 
 | 514 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -559,7 +559,7 @@
 | 557 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 558 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 559 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 560 | [Sable](games/s/sable.md) | 4.52 | 
+| 560 | [Sable](games/s/sable.md) | 4.50 | 
 | 561 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.79 | 
 | 562 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 563 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
@@ -687,7 +687,7 @@
 | 685 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 686 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
 | 687 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
-| 688 | [The Escapists](games/t/the_escapists.md) | 4.50 | 
+| 688 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 689 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
 | 690 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 691 | [The Fall](games/t/the_fall.md) | 4.29 | 
