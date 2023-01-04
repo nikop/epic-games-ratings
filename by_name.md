@@ -424,7 +424,7 @@
 | 422 | [Minit](games/m/minit.md) | 4.55 | 
 | 423 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.89 | 
 | 424 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 425 | [Mortal Shell](games/m/mortal_shell.md) | 4.24 | 
+| 425 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
 | 426 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 427 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 428 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 

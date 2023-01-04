@@ -732,15 +732,15 @@
 | 725 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 725 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 732 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 732 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
 | 732 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
-| 734 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 734 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
-| 734 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
-| 734 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 734 | [Mortal Shell](games/m/mortal_shell.md) | 4.24 | 
-| 734 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
-| 734 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
-| 734 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
+| 735 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
+| 735 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
+| 735 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
+| 735 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
+| 735 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
+| 735 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
+| 735 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 742 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 742 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 742 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
