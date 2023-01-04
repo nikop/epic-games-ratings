@@ -193,7 +193,7 @@
 | 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.50 | 
 | 192 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 193 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.58 | 
-| 194 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
+| 194 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 195 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 196 | [DOOM 3](games/d/doom_3.md) | 4.64 | 
 | 197 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
