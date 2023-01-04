@@ -108,18 +108,18 @@
 | 103 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 103 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 103 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
-| 109 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 109 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 109 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 109 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
-| 109 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
-| 109 | [Haven](games/h/haven.md) | 4.76 | 
-| 109 | [DEATH STRANDING](games/d/death_stranding.md) | 4.76 | 
-| 109 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
-| 109 | [shapez](games/s/shapez.md) | 4.76 | 
-| 109 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
+| 103 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
+| 110 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 110 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 110 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 110 | [Diabotical](games/d/diabotical.md) | 4.76 | 
+| 110 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 110 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
+| 110 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
+| 110 | [Haven](games/h/haven.md) | 4.76 | 
+| 110 | [DEATH STRANDING](games/d/death_stranding.md) | 4.76 | 
+| 110 | [shapez](games/s/shapez.md) | 4.76 | 
+| 110 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
 | 121 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 121 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 121 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
