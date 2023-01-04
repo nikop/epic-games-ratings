@@ -560,7 +560,7 @@
 | 558 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 559 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 560 | [Sable](games/s/sable.md) | 4.52 | 
-| 561 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.82 | 
+| 561 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.79 | 
 | 562 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 563 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.42 | 
 | 564 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
