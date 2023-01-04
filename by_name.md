@@ -179,7 +179,7 @@
 | 177 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 178 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 179 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
-| 180 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 180 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
 | 181 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
 | 182 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
 | 183 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -192,7 +192,7 @@
 | 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
 | 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.50 | 
 | 192 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 193 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.59 | 
+| 193 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.58 | 
 | 194 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 
 | 195 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 196 | [DOOM 3](games/d/doom_3.md) | 4.64 | 
@@ -399,7 +399,7 @@
 | 397 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 398 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
 | 399 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
-| 400 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.64 | 
+| 400 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.63 | 
 | 401 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 402 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 403 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
@@ -413,7 +413,7 @@
 | 411 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 
 | 412 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 413 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.81 | 
-| 414 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
+| 414 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 415 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 416 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 417 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
@@ -546,7 +546,7 @@
 | 544 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 545 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
 | 546 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 547 | [Road 96](games/r/road_96.md) | 4.61 | 
+| 547 | [Road 96](games/r/road_96.md) | 4.60 | 
 | 548 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
 | 549 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 550 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
@@ -764,7 +764,7 @@
 | 762 | [Trackmania](games/t/trackmania.md) | 4.66 | 
 | 763 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.04 | 
 | 764 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 765 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
+| 765 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.49 | 
 | 766 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 767 | [Train Valley 2](games/t/train_valley_2.md) | 4.10 | 
 | 768 | [Transistor](games/t/transistor.md) | 4.63 | 
