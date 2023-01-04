@@ -1,10 +1,10 @@
 {
   "ID": "5db7394e65044dd1bb083ee983e2b3a5",
   "Name": "Severed Steel",
-  "Rating": 4.7,
+  "Rating": 4.69,
   "FirstSeen": "2022-07-22T20:21:24.7272687+00:00",
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
-  "LastChanged": "2023-01-02T13:57:39.6188687+00:00",
+  "LastChanged": "2023-01-04T10:57:07.1965809+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-28T18:57:32.9042651+00:00",
@@ -45,12 +45,17 @@
       "Time": "2023-01-02T13:57:39.6188689+00:00",
       "Rating": 4.7,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-04T10:57:07.1965812+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 26
+      "Count": 29
     }
   ]
 }

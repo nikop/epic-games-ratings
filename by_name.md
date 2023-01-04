@@ -222,7 +222,7 @@
 | 220 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
 | 221 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 222 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
-| 223 | [Faeria](games/f/faeria.md) | 4.43 | 
+| 223 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 224 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 225 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 226 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
@@ -547,7 +547,7 @@
 | 545 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
 | 546 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 547 | [Road 96](games/r/road_96.md) | 4.60 | 
-| 548 | [Rocket League®](games/r/rocket_league®.md) | 4.54 | 
+| 548 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
 | 549 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 550 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 551 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
@@ -577,7 +577,7 @@
 | 575 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 576 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 577 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
-| 578 | [Severed Steel](games/s/severed_steel.md) | 4.70 | 
+| 578 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 
 | 579 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 580 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.73 | 
 | 581 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
