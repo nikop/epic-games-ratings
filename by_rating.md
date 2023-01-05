@@ -476,22 +476,22 @@
 | 461 | [Horace](games/h/horace.md) | 4.53 | 
 | 461 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 461 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 461 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
 | 461 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.53 | 
 | 461 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 
-| 480 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 480 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 480 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 480 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 480 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
-| 480 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 480 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 480 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 480 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
-| 480 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 480 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 480 | [STG Football](games/s/stg_football.md) | 4.52 | 
-| 480 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 479 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 479 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 479 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 479 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 479 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
+| 479 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 479 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 479 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 479 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
+| 479 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 479 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 479 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
+| 479 | [STG Football](games/s/stg_football.md) | 4.52 | 
+| 479 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 493 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 493 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 493 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
