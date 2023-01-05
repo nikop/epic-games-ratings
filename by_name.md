@@ -54,7 +54,7 @@
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.39 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
-| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.43 | 
+| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.33 | 
@@ -64,7 +64,7 @@
 | 62 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 64 | [Backbone](games/b/backbone.md) | 4.34 | 
-| 65 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 65 | [Bad North](games/b/bad_north.md) | 4.69 | 
 | 66 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 67 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
 | 68 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 
@@ -207,7 +207,7 @@
 | 205 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 206 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 207 | [ELEX](games/e/elex.md) | 4.40 | 
-| 208 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
+| 208 | [ELEX II](games/e/elex_ii.md) | 4.26 | 
 | 209 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 210 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 211 | [Encased](games/e/encased.md) | 4.37 | 
@@ -347,7 +347,7 @@
 | 345 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
 | 346 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 347 | [Isonzo](games/i/isonzo.md) | 4.59 | 
-| 348 | [IXION](games/i/ixion.md) | 4.54 | 
+| 348 | [IXION](games/i/ixion.md) | 4.53 | 
 | 349 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 350 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 351 | [Journey](games/j/journey.md) | 4.80 | 
@@ -708,7 +708,7 @@
 | 706 | [The Medium](games/t/the_medium.md) | 4.57 | 
 | 707 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
 | 708 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 709 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
+| 709 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 710 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 711 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 712 | [The Silent Age](games/t/the_silent_age.md) | 4.43 | 
