@@ -802,12 +802,12 @@
 | 797 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 797 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 802 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
-| 802 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
 | 802 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 802 | [Tharsis](games/t/tharsis.md) | 4.09 | 
-| 806 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 806 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
-| 806 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 
+| 805 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 805 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.08 | 
+| 805 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
+| 805 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 
 | 809 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 809 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
 | 809 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
