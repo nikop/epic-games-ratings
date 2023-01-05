@@ -45,7 +45,7 @@
 | 43 | [Ashen](games/a/ashen.md) | 4.34 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 
+| 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
@@ -80,7 +80,7 @@
 | 78 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
 | 79 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 81 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
+| 81 | [BIOMUTANT](games/b/biomutant.md) | 4.31 | 
 | 82 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 83 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 84 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
@@ -110,7 +110,7 @@
 | 108 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 110 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 
+| 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
 | 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 113 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 
 | 114 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
@@ -218,7 +218,7 @@
 | 216 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 217 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.95 | 
 | 218 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 219 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 
+| 219 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 
 | 220 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
 | 221 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 222 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
@@ -313,7 +313,7 @@
 | 311 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 312 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 313 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 314 | [High On Life](games/h/high_on_life.md) | 4.69 | 
+| 314 | [High On Life](games/h/high_on_life.md) | 4.70 | 
 | 315 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 316 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 317 | [Hob](games/h/hob.md) | 4.57 | 
@@ -618,7 +618,7 @@
 | 616 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
 | 617 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 618 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
-| 619 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
+| 619 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
 | 620 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.42 | 
 | 621 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
 | 622 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
