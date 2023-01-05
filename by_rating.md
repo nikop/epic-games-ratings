@@ -575,20 +575,20 @@
 | 571 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 571 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 571 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 571 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 571 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
 | 571 | [Figment](games/f/figment.md) | 4.45 | 
 | 571 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
-| 579 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 579 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 579 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 579 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 579 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 579 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
-| 579 | [Faeria](games/f/faeria.md) | 4.44 | 
-| 579 | [Weird West](games/w/weird_west.md) | 4.44 | 
-| 579 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
-| 579 | [Death Coming](games/d/death_coming.md) | 4.44 | 
-| 579 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
+| 580 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 580 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 580 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 580 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 580 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 580 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
+| 580 | [Faeria](games/f/faeria.md) | 4.44 | 
+| 580 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
+| 580 | [Death Coming](games/d/death_coming.md) | 4.44 | 
+| 580 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
 | 590 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
 | 590 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 590 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 

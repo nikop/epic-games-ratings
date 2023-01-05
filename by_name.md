@@ -813,7 +813,7 @@
 | 811 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.31 | 
 | 812 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 813 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 814 | [Weird West](games/w/weird_west.md) | 4.44 | 
+| 814 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 815 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 
 | 816 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 817 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
