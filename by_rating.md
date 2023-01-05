@@ -477,21 +477,21 @@
 | 461 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 461 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 461 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
+| 461 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.53 | 
 | 461 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 
-| 479 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 479 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 479 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 479 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 479 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
-| 479 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 479 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 479 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 479 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
-| 479 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 479 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 479 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.52 | 
-| 479 | [STG Football](games/s/stg_football.md) | 4.52 | 
-| 479 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 480 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 480 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 480 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 480 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 480 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
+| 480 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 480 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 480 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 480 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
+| 480 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 480 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 480 | [STG Football](games/s/stg_football.md) | 4.52 | 
+| 480 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 493 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 493 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 493 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
@@ -774,22 +774,22 @@
 | 772 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 772 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 774 | [Space Punks](games/s/space_punks.md) | 4.17 | 
-| 775 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
-| 775 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.16 | 
-| 775 | [Gone Home](games/g/gone_home.md) | 4.16 | 
-| 775 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 775 | [Submerged](games/s/submerged.md) | 4.16 | 
-| 775 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
-| 775 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
-| 782 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
-| 782 | [Relicta](games/r/relicta.md) | 4.15 | 
-| 782 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 
-| 782 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
-| 782 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 782 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 
-| 788 | [Pine](games/p/pine.md) | 4.14 | 
-| 788 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
-| 788 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.14 | 
+| 774 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 
+| 776 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
+| 776 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.16 | 
+| 776 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 776 | [Family Man](games/f/family_man.md) | 4.16 | 
+| 776 | [Submerged](games/s/submerged.md) | 4.16 | 
+| 776 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 776 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
+| 783 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
+| 783 | [Relicta](games/r/relicta.md) | 4.15 | 
+| 783 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 
+| 783 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
+| 783 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
+| 783 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 
+| 789 | [Pine](games/p/pine.md) | 4.14 | 
+| 789 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 791 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 791 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 793 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 

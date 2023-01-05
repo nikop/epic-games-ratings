@@ -218,7 +218,7 @@
 | 216 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 217 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.95 | 
 | 218 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 219 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.14 | 
+| 219 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 
 | 220 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
 | 221 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
 | 222 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
@@ -226,7 +226,7 @@
 | 224 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 225 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 226 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 227 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.52 | 
+| 227 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.53 | 
 | 228 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
 | 229 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 230 | [Fangs](games/f/fangs.md) | 4.21 | 
