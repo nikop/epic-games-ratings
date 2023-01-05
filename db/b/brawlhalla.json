@@ -1,10 +1,10 @@
 {
   "ID": "15e6680a0c164ee189fcc3eb10398fd6",
   "Name": "Brawlhalla",
-  "Rating": 4.52,
+  "Rating": 4.53,
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-01-05T04:57:06.7915238+00:00",
+  "LastChanged": "2023-01-05T13:56:51.6926629+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-21T06:57:02.0735411+00:00",
@@ -274,6 +274,11 @@
     {
       "Time": "2023-01-05T04:57:06.7915239+00:00",
       "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-05T13:56:51.692663+00:00",
+      "Rating": 4.53,
       "NumberOfRatings": null
     }
   ],
