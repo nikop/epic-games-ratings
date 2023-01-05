@@ -136,7 +136,7 @@
 | 134 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
 | 135 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 136 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 137 | [Crayta](games/c/crayta.md) | 4.20 | 
+| 137 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 138 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
 | 139 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 140 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
@@ -220,7 +220,7 @@
 | 218 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 219 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 
 | 220 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
-| 221 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
+| 221 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
 | 222 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 223 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 224 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
@@ -747,7 +747,7 @@
 | 745 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 746 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 747 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
-| 748 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.60 | 
+| 748 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
 | 749 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
 | 750 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 751 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 

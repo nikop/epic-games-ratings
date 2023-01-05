@@ -1,10 +1,10 @@
 {
   "ID": "03ecca4e19a9483aa05b3d99948c43ce",
   "Name": "Tom Clancy\u0027s The Division",
-  "Rating": 4.6,
+  "Rating": 4.59,
   "NumberOfRatings": 247,
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2023-01-03T18:57:09.7550505+00:00",
+  "LastChanged": "2023-01-05T14:57:07.8583156+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:11.4605073+00:00",
@@ -465,6 +465,11 @@
       "Time": "2023-01-03T18:57:09.7550506+00:00",
       "Rating": 4.6,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-05T14:57:07.858316+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -474,7 +479,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 128
+      "Count": 129
     },
     {
       "Text": "This game has Challenging Combat",
