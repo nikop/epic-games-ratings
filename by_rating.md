@@ -769,11 +769,11 @@
 | 764 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 764 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
 | 764 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 764 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.19 | 
 | 764 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 
 | 764 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
-| 773 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 773 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
+| 772 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 772 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
+| 772 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.18 | 
 | 775 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 776 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
 | 776 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.16 | 
@@ -787,9 +787,9 @@
 | 784 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 784 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 
 | 784 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
+| 784 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.15 | 
 | 784 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 789 | [Pine](games/p/pine.md) | 4.14 | 
-| 789 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
+| 790 | [Pine](games/p/pine.md) | 4.14 | 
 | 791 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 791 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 793 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 

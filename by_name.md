@@ -202,7 +202,7 @@
 | 200 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 201 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 202 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 203 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.19 | 
+| 203 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.18 | 
 | 204 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 205 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 206 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -408,7 +408,7 @@
 | 406 | [Mago](games/m/mago.md) | 4.89 | 
 | 407 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 408 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 409 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
+| 409 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.15 | 
 | 410 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
 | 411 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 
 | 412 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
