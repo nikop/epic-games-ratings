@@ -526,7 +526,7 @@
 | 524 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
 | 525 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 526 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 527 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
+| 527 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 528 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 529 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 530 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
@@ -646,7 +646,7 @@
 | 644 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
 | 645 | [Submerged](games/s/submerged.md) | 4.16 | 
 | 646 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 647 | [Subnautica](games/s/subnautica.md) | 4.85 | 
+| 647 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 648 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 649 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
 | 650 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 

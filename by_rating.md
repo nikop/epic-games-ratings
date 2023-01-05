@@ -38,7 +38,6 @@
 | 30 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 37 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 37 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 37 | [Subnautica](games/s/subnautica.md) | 4.85 | 
 | 37 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
 | 37 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
 | 37 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
@@ -47,10 +46,11 @@
 | 37 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 37 | [Huntdown](games/h/huntdown.md) | 4.85 | 
 | 37 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 
-| 48 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
-| 48 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 48 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
-| 48 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
+| 47 | [Subnautica](games/s/subnautica.md) | 4.84 | 
+| 47 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
+| 47 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
+| 47 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
+| 47 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
 | 52 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 52 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 52 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
@@ -490,38 +490,38 @@
 | 479 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 479 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
 | 479 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
+| 479 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 479 | [STG Football](games/s/stg_football.md) | 4.52 | 
 | 479 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
-| 493 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 493 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 493 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 493 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 493 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 493 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 493 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
-| 493 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 493 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
-| 493 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
-| 493 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
-| 493 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
-| 493 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 493 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 507 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 507 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 507 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 507 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 507 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
-| 507 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 507 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 507 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
-| 507 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 507 | [CryoFall](games/c/cryofall.md) | 4.50 | 
-| 507 | [Sable](games/s/sable.md) | 4.50 | 
-| 507 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
-| 507 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 507 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.50 | 
-| 507 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
-| 507 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 
+| 494 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 494 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 494 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 494 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 494 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 494 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 494 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
+| 494 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 494 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
+| 494 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
+| 494 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
+| 494 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
+| 494 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 494 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
+| 508 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 508 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
+| 508 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 508 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 508 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
+| 508 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 508 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 508 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
+| 508 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 508 | [CryoFall](games/c/cryofall.md) | 4.50 | 
+| 508 | [Sable](games/s/sable.md) | 4.50 | 
+| 508 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
+| 508 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
+| 508 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.50 | 
+| 508 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 523 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 523 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 523 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
