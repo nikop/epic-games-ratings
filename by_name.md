@@ -186,7 +186,7 @@
 | 184 | [Diabotical](games/d/diabotical.md) | 4.76 | 
 | 185 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 186 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
-| 187 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
+| 187 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 188 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.71 | 
 | 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
@@ -677,7 +677,7 @@
 | 675 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
 | 676 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 677 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 678 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 
+| 678 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.16 | 
 | 679 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 680 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 681 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 

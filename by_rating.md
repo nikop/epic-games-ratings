@@ -651,19 +651,19 @@
 | 639 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.39 | 
 | 639 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.39 | 
 | 651 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 
+| 651 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 651 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 651 | [Othercide](games/o/othercide.md) | 4.38 | 
 | 651 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 651 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
 | 651 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 657 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 657 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 657 | [Core](games/c/core.md) | 4.37 | 
-| 657 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 657 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 657 | [Encased](games/e/encased.md) | 4.37 | 
-| 657 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 657 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 658 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 658 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 658 | [Core](games/c/core.md) | 4.37 | 
+| 658 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 658 | [Encased](games/e/encased.md) | 4.37 | 
+| 658 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 658 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 665 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 665 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 665 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
@@ -782,12 +782,12 @@
 | 776 | [Submerged](games/s/submerged.md) | 4.16 | 
 | 776 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
 | 776 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
-| 783 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
-| 783 | [Relicta](games/r/relicta.md) | 4.15 | 
-| 783 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 
-| 783 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
-| 783 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 783 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.15 | 
+| 776 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.16 | 
+| 784 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
+| 784 | [Relicta](games/r/relicta.md) | 4.15 | 
+| 784 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 
+| 784 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
+| 784 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 789 | [Pine](games/p/pine.md) | 4.14 | 
 | 789 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.14 | 
 | 791 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
