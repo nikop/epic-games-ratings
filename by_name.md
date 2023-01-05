@@ -487,7 +487,7 @@
 | 485 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 486 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 487 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 488 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
+| 488 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
 | 489 | [Parkitect](games/p/parkitect.md) | 4.30 | 
 | 490 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 491 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
@@ -507,7 +507,7 @@
 | 505 | [Pine](games/p/pine.md) | 4.14 | 
 | 506 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
 | 507 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 508 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.46 | 
+| 508 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.48 | 
 | 509 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 510 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 511 | [Predecessor](games/p/predecessor.md) | 4.41 | 
@@ -790,7 +790,7 @@
 | 788 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 789 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 790 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.83 | 
-| 791 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
+| 791 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
 | 792 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 793 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 794 | [Vampyr](games/v/vampyr.md) | 4.32 | 

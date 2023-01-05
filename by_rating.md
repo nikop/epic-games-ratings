@@ -71,22 +71,22 @@
 | 65 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 65 | [Superliminal](games/s/superliminal.md) | 4.81 | 
 | 65 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 
+| 65 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
 | 65 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 65 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.81 | 
 | 65 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
-| 75 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 75 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 75 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 75 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
-| 75 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
-| 75 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
-| 75 | [Griftlands](games/g/griftlands.md) | 4.80 | 
-| 75 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
-| 75 | [Journey](games/j/journey.md) | 4.80 | 
-| 75 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 75 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
-| 75 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.80 | 
-| 75 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
+| 76 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 76 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 76 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 76 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
+| 76 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
+| 76 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
+| 76 | [Griftlands](games/g/griftlands.md) | 4.80 | 
+| 76 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
+| 76 | [Journey](games/j/journey.md) | 4.80 | 
+| 76 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 76 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
+| 76 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
 | 88 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 88 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 88 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
@@ -544,32 +544,32 @@
 | 540 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
 | 540 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
 | 540 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
+| 540 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.48 | 
 | 540 | [Scorn](games/s/scorn.md) | 4.48 | 
 | 540 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 540 | [Tails of Iron](games/t/tails_of_iron.md) | 4.48 | 
-| 548 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 548 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 548 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
-| 548 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
-| 548 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 548 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
-| 548 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 548 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
-| 548 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
-| 557 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 557 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 557 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 557 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 557 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 557 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
-| 557 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
-| 557 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
-| 557 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
-| 557 | [Chorus](games/c/chorus.md) | 4.46 | 
-| 557 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
-| 557 | [Train Valley](games/t/train_valley.md) | 4.46 | 
-| 557 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.46 | 
-| 557 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 549 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 549 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 549 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
+| 549 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
+| 549 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 549 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
+| 549 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
+| 549 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
+| 549 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
+| 558 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 558 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 558 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 558 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
+| 558 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 558 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
+| 558 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
+| 558 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 558 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
+| 558 | [Chorus](games/c/chorus.md) | 4.46 | 
+| 558 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
+| 558 | [Train Valley](games/t/train_valley.md) | 4.46 | 
+| 558 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 571 | [SMITE](games/s/smite.md) | 4.45 | 
 | 571 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 571 | [Pathway](games/p/pathway.md) | 4.45 | 
@@ -723,14 +723,14 @@
 | 720 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 722 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 722 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
-| 722 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
-| 725 | [EVE Online](games/e/eve_online.md) | 4.26 | 
-| 725 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 725 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 725 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
-| 725 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
-| 725 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
-| 725 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
+| 724 | [EVE Online](games/e/eve_online.md) | 4.26 | 
+| 724 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 724 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 724 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
+| 724 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
+| 724 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
+| 724 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
+| 724 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
 | 732 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 732 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
 | 732 | [ELEX II](games/e/elex_ii.md) | 4.25 | 
