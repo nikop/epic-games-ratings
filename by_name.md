@@ -190,7 +190,7 @@
 | 188 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.72 | 
 | 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
-| 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.51 | 
+| 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.52 | 
 | 192 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 193 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.58 | 
 | 194 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
@@ -307,7 +307,7 @@
 | 305 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 306 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 307 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 308 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.57 | 
+| 308 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.56 | 
 | 309 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 310 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 311 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
@@ -340,7 +340,7 @@
 | 338 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
 | 339 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 340 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 341 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 
+| 341 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
 | 342 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 343 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 344 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
@@ -636,7 +636,7 @@
 | 634 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 635 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 636 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
-| 637 | [STG Football](games/s/stg_football.md) | 4.52 | 
+| 637 | [STG Football](games/s/stg_football.md) | 4.49 | 
 | 638 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 639 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 640 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
@@ -784,7 +784,7 @@
 | 782 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 783 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
 | 784 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 785 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
+| 785 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 786 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 787 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
 | 788 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
