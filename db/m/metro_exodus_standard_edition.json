@@ -1,10 +1,10 @@
 {
   "ID": "snapdragon",
   "Name": "Metro Exodus Standard Edition",
-  "Rating": 4.79,
+  "Rating": 4.8,
   "NumberOfRatings": 7529,
   "FirstSeen": "2022-07-22T20:18:26.6430541+00:00",
-  "LastChanged": "2023-01-01T09:57:17.9811273+00:00",
+  "LastChanged": "2023-01-05T17:57:09.8666196+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:26.6430543+00:00",
@@ -2679,6 +2679,11 @@
     {
       "Time": "2023-01-01T09:57:17.9811275+00:00",
       "Rating": 4.79,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-05T17:57:09.86662+00:00",
+      "Rating": 4.8,
       "NumberOfRatings": null
     }
   ],

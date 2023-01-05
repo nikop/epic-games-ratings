@@ -416,7 +416,7 @@
 | 414 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 415 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 416 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
-| 417 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
+| 417 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 418 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
 | 419 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 
 | 420 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
@@ -424,7 +424,7 @@
 | 422 | [Minit](games/m/minit.md) | 4.55 | 
 | 423 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.90 | 
 | 424 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 425 | [Mortal Shell](games/m/mortal_shell.md) | 4.24 | 
+| 425 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
 | 426 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 427 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 428 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
@@ -441,13 +441,13 @@
 | 439 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 440 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 441 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
-| 442 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.68 | 
+| 442 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.69 | 
 | 443 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 444 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 445 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
 | 446 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 447 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.62 | 
-| 448 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 
+| 448 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 
 | 449 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.55 | 
 | 450 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 451 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -487,7 +487,7 @@
 | 485 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 486 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 487 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 488 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
+| 488 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
 | 489 | [Parkitect](games/p/parkitect.md) | 4.30 | 
 | 490 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 491 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
@@ -560,7 +560,7 @@
 | 558 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 559 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 560 | [Sable](games/s/sable.md) | 4.50 | 
-| 561 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.79 | 
+| 561 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.80 | 
 | 562 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 563 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
 | 564 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -715,7 +715,7 @@
 | 713 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 714 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 715 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
-| 716 | [The Surge](games/t/the_surge.md) | 4.53 | 
+| 716 | [The Surge](games/t/the_surge.md) | 4.52 | 
 | 717 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
 | 718 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 719 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
