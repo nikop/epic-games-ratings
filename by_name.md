@@ -668,7 +668,7 @@
 | 666 | [Tacoma](games/t/tacoma.md) | 4.41 | 
 | 667 | [Tails of Iron](games/t/tails_of_iron.md) | 4.48 | 
 | 668 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
-| 669 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
+| 669 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 670 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 671 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 672 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 

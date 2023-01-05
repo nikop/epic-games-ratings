@@ -439,6 +439,7 @@
 | 436 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 436 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 436 | [Outward](games/o/outward.md) | 4.55 | 
+| 436 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 436 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
 | 436 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 436 | [Sonic Origins](games/s/sonic_origins.md) | 4.55 | 
@@ -450,16 +451,15 @@
 | 436 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 436 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.55 | 
 | 436 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
-| 451 | [VALORANT](games/v/valorant.md) | 4.54 | 
-| 451 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 451 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
-| 451 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
-| 451 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 
-| 451 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
-| 451 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
-| 451 | [IXION](games/i/ixion.md) | 4.54 | 
-| 451 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 451 | [Redout 2](games/r/redout_2.md) | 4.54 | 
+| 452 | [VALORANT](games/v/valorant.md) | 4.54 | 
+| 452 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 452 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
+| 452 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
+| 452 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
+| 452 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
+| 452 | [IXION](games/i/ixion.md) | 4.54 | 
+| 452 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 452 | [Redout 2](games/r/redout_2.md) | 4.54 | 
 | 461 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 461 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
 | 461 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
