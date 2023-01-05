@@ -188,14 +188,14 @@
 | 186 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
 | 187 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 188 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.71 | 
+| 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.72 | 
 | 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
 | 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.51 | 
 | 192 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 193 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.58 | 
 | 194 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 195 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
-| 196 | [DOOM 3](games/d/doom_3.md) | 4.64 | 
+| 196 | [DOOM 3](games/d/doom_3.md) | 4.63 | 
 | 197 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 198 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 199 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
@@ -424,7 +424,7 @@
 | 422 | [Minit](games/m/minit.md) | 4.55 | 
 | 423 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.90 | 
 | 424 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 425 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
+| 425 | [Mortal Shell](games/m/mortal_shell.md) | 4.24 | 
 | 426 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 427 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 428 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
@@ -487,7 +487,7 @@
 | 485 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 486 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 487 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 488 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
+| 488 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
 | 489 | [Parkitect](games/p/parkitect.md) | 4.30 | 
 | 490 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 491 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
