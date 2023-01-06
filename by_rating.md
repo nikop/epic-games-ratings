@@ -587,22 +587,22 @@
 | 581 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 581 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
 | 581 | [Faeria](games/f/faeria.md) | 4.44 | 
-| 581 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
 | 581 | [Death Coming](games/d/death_coming.md) | 4.44 | 
 | 581 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
 | 581 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
-| 592 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
-| 592 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 592 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 592 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 
-| 592 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 592 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
-| 592 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
-| 592 | [Far Cry](games/f/far_cry.md) | 4.43 | 
-| 592 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 592 | [The Silent Age](games/t/the_silent_age.md) | 4.43 | 
-| 592 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
-| 592 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
+| 591 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 591 | [Sheltered](games/s/sheltered.md) | 4.43 | 
+| 591 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 591 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 
+| 591 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 591 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
+| 591 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
+| 591 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
+| 591 | [Far Cry](games/f/far_cry.md) | 4.43 | 
+| 591 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
+| 591 | [The Silent Age](games/t/the_silent_age.md) | 4.43 | 
+| 591 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
+| 591 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 604 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 604 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 604 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 

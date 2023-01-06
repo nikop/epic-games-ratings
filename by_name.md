@@ -758,7 +758,7 @@
 | 756 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 757 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.65 | 
 | 758 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 759 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
+| 759 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
 | 760 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 
 | 761 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 762 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.29 | 
