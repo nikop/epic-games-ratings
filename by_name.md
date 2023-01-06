@@ -279,7 +279,7 @@
 | 277 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 278 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 279 | [GigaBash](games/g/gigabash.md) | 4.61 | 
-| 280 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
+| 280 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
 | 281 | [GNOG](games/g/gnog.md) | 4.65 | 
 | 282 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 283 | [God of War](games/g/god_of_war.md) | 4.89 | 
@@ -560,7 +560,7 @@
 | 558 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 559 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 560 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 561 | [Sable](games/s/sable.md) | 4.50 | 
+| 561 | [Sable](games/s/sable.md) | 4.51 | 
 | 562 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.80 | 
 | 563 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 564 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
