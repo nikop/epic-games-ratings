@@ -67,7 +67,7 @@
 | 65 | [Bad North](games/b/bad_north.md) | 4.69 | 
 | 66 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 67 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
-| 68 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 
+| 68 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
 | 69 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 70 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 71 | [Barony](games/b/barony.md) | 4.70 | 
@@ -188,7 +188,7 @@
 | 186 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
 | 187 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 188 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.72 | 
+| 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.71 | 
 | 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
 | 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.52 | 
 | 192 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
@@ -284,7 +284,7 @@
 | 282 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 283 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 284 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
-| 285 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 285 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 286 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 287 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.95 | 
 | 288 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
@@ -340,7 +340,7 @@
 | 338 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
 | 339 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 340 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 341 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 341 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 
 | 342 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 343 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 344 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
@@ -425,7 +425,7 @@
 | 423 | [Minit](games/m/minit.md) | 4.55 | 
 | 424 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.91 | 
 | 425 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 426 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
+| 426 | [Mortal Shell](games/m/mortal_shell.md) | 4.23 | 
 | 427 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 428 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 429 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
@@ -761,7 +761,7 @@
 | 759 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
 | 760 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 
 | 761 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 762 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.29 | 
+| 762 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.30 | 
 | 763 | [Trackmania](games/t/trackmania.md) | 4.66 | 
 | 764 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.04 | 
 | 765 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
@@ -811,7 +811,7 @@
 | 809 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 810 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 811 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 812 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.31 | 
+| 812 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.32 | 
 | 813 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 814 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 815 | [Weird West](games/w/weird_west.md) | 4.45 | 
@@ -820,7 +820,7 @@
 | 818 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 819 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 820 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 821 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.86 | 
+| 821 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.87 | 
 | 822 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 823 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 824 | [Windbound](games/w/windbound.md) | 4.19 | 
