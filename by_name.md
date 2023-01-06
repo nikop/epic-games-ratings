@@ -591,7 +591,7 @@
 | 589 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
 | 590 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
 | 591 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 592 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 
+| 592 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
 | 593 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 594 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 595 | [Sifu](games/s/sifu.md) | 4.81 | 
@@ -765,7 +765,7 @@
 | 763 | [Trackmania](games/t/trackmania.md) | 4.66 | 
 | 764 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.04 | 
 | 765 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 766 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.49 | 
+| 766 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
 | 767 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 768 | [Train Valley 2](games/t/train_valley_2.md) | 4.10 | 
 | 769 | [Transistor](games/t/transistor.md) | 4.63 | 
