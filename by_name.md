@@ -177,7 +177,7 @@
 | 175 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 176 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
 | 177 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
-| 178 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 178 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 
 | 179 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
 | 180 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 181 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
@@ -207,7 +207,7 @@
 | 205 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 206 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 207 | [ELEX](games/e/elex.md) | 4.40 | 
-| 208 | [ELEX II](games/e/elex_ii.md) | 4.26 | 
+| 208 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
 | 209 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 210 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 211 | [Encased](games/e/encased.md) | 4.38 | 
@@ -326,7 +326,7 @@
 | 324 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 325 | [House Party](games/h/house_party.md) | 4.30 | 
 | 326 | [Hue](games/h/hue.md) | 4.56 | 
-| 327 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 327 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
 | 328 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
 | 329 | [Huntdown](games/h/huntdown.md) | 4.85 | 
 | 330 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
@@ -419,8 +419,8 @@
 | 417 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 418 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
 | 419 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
-| 420 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 
-| 421 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 420 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
+| 421 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
 | 422 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
 | 423 | [Minit](games/m/minit.md) | 4.55 | 
 | 424 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.91 | 
@@ -752,7 +752,7 @@
 | 750 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 751 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 752 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 753 | [Torchlight](games/t/torchlight.md) | 4.36 | 
+| 753 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 754 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 755 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 756 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
