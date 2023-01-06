@@ -56,7 +56,7 @@
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
-| 57 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.33 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
@@ -235,7 +235,7 @@
 | 233 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 234 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 235 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 236 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.43 | 
+| 236 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
 | 237 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 
 | 238 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
 | 239 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
@@ -253,7 +253,7 @@
 | 251 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 252 | [Firework](games/f/firework.md) | 4.89 | 
 | 253 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 254 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 
+| 254 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.59 | 
 | 255 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 256 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 257 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
@@ -306,7 +306,7 @@
 | 304 | [Haven](games/h/haven.md) | 4.76 | 
 | 305 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 306 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
-| 307 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 307 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 308 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.56 | 
 | 309 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 310 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
@@ -511,7 +511,7 @@
 | 509 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.52 | 
 | 510 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 511 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 512 | [Predecessor](games/p/predecessor.md) | 4.41 | 
+| 512 | [Predecessor](games/p/predecessor.md) | 4.40 | 
 | 513 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 514 | [Prey](games/p/prey.md) | 4.62 | 
 | 515 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -578,7 +578,7 @@
 | 576 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 577 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 578 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
-| 579 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 
+| 579 | [Severed Steel](games/s/severed_steel.md) | 4.70 | 
 | 580 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 581 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.73 | 
 | 582 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
