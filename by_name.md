@@ -483,7 +483,7 @@
 | 481 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
 | 482 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
 | 483 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
-| 484 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
+| 484 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 485 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 486 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 487 | [Paradigm](games/p/paradigm.md) | 4.48 | 
@@ -657,7 +657,7 @@
 | 655 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.67 | 
 | 656 | [Superliminal](games/s/superliminal.md) | 4.81 | 
 | 657 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 658 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
+| 658 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
 | 659 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
 | 660 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 661 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 

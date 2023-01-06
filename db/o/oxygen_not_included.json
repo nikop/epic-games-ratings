@@ -1,10 +1,10 @@
 {
   "ID": "lotus",
   "Name": "Oxygen Not Included",
-  "Rating": 4.83,
+  "Rating": 4.84,
   "NumberOfRatings": 897,
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2023-01-04T14:57:19.4220057+00:00",
+  "LastChanged": "2023-01-06T03:57:25.1027946+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:44.1555171+00:00",
@@ -1135,6 +1135,11 @@
       "Time": "2023-01-04T14:57:19.422006+00:00",
       "Rating": 4.83,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-06T03:57:25.1027949+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -1148,7 +1153,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 207
+      "Count": 209
     },
     {
       "Text": "This game has Amazing Characters",
