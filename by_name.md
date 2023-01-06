@@ -5,7 +5,7 @@
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
 | 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 
+| 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
@@ -663,11 +663,11 @@
 | 661 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 662 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 663 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 664 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
+| 664 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.32 | 
 | 665 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
-| 666 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 666 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 667 | [Tacoma](games/t/tacoma.md) | 4.41 | 
-| 668 | [Tails of Iron](games/t/tails_of_iron.md) | 4.48 | 
+| 668 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
 | 669 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 670 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 671 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
