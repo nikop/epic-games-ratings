@@ -109,16 +109,16 @@
 | 102 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 102 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 102 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
-| 102 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 
-| 111 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 111 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 111 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 111 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 111 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 111 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
-| 111 | [Haven](games/h/haven.md) | 4.76 | 
-| 111 | [shapez](games/s/shapez.md) | 4.76 | 
-| 111 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
+| 110 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 110 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 110 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 110 | [Diabotical](games/d/diabotical.md) | 4.76 | 
+| 110 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 110 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
+| 110 | [Haven](games/h/haven.md) | 4.76 | 
+| 110 | [DEATH STRANDING](games/d/death_stranding.md) | 4.76 | 
+| 110 | [shapez](games/s/shapez.md) | 4.76 | 
+| 110 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
 | 120 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 120 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 120 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
@@ -471,6 +471,7 @@
 | 465 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
 | 465 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 465 | [Just Die Already](games/j/just_die_already.md) | 4.53 | 
+| 465 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 465 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 465 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 465 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
@@ -480,21 +481,20 @@
 | 465 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 465 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
 | 465 | [IXION](games/i/ixion.md) | 4.53 | 
-| 481 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 481 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 481 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 481 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 481 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
-| 481 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 481 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 481 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 481 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 481 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
-| 481 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 481 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 481 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.52 | 
-| 481 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 481 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 482 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 482 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 482 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 482 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 482 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 482 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 482 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 482 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 482 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
+| 482 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 482 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 482 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.52 | 
+| 482 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 482 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 496 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 496 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 496 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
@@ -739,6 +739,7 @@
 | 735 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
 | 735 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
 | 735 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
+| 740 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
 | 740 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 740 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
 | 740 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
@@ -746,9 +747,8 @@
 | 740 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.23 | 
 | 740 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 740 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
-| 747 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 747 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
-| 747 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.22 | 
+| 748 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
+| 748 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.22 | 
 | 750 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.21 | 
 | 750 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 750 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
