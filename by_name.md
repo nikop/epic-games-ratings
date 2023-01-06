@@ -218,7 +218,7 @@
 | 216 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 217 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.95 | 
 | 218 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 219 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.22 | 
+| 219 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 
 | 220 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
 | 221 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
 | 222 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
@@ -347,7 +347,7 @@
 | 345 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
 | 346 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 347 | [Isonzo](games/i/isonzo.md) | 4.59 | 
-| 348 | [IXION](games/i/ixion.md) | 4.53 | 
+| 348 | [IXION](games/i/ixion.md) | 4.52 | 
 | 349 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 350 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 351 | [Journey](games/j/journey.md) | 4.80 | 
@@ -360,7 +360,7 @@
 | 358 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 359 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 360 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 361 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.74 | 
+| 361 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.72 | 
 | 362 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 363 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 364 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
@@ -384,7 +384,7 @@
 | 382 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 383 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 384 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 385 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
+| 385 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 386 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
 | 387 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 388 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 

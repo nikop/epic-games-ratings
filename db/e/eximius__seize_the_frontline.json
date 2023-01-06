@@ -1,10 +1,10 @@
 {
   "ID": "1c943de0163f4f0982f34dc0fc37dce9",
   "Name": "Eximius: Seize the Frontline",
-  "Rating": 4.22,
+  "Rating": 4.19,
   "FirstSeen": "2022-07-22T20:26:39.4598269+00:00",
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
-  "LastChanged": "2023-01-06T11:58:29.1777553+00:00",
+  "LastChanged": "2023-01-06T22:58:42.6316471+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-31T16:58:21.8302488+00:00",
@@ -49,6 +49,11 @@
     {
       "Time": "2023-01-06T11:58:29.1777556+00:00",
       "Rating": 4.22,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-06T22:58:42.6316473+00:00",
+      "Rating": 4.19,
       "NumberOfRatings": null
     }
   ],
