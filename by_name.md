@@ -137,7 +137,7 @@
 | 135 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 136 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 137 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 138 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 
+| 138 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 139 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 140 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 141 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
@@ -218,7 +218,7 @@
 | 216 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 217 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.95 | 
 | 218 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 219 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 
+| 219 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.22 | 
 | 220 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
 | 221 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
 | 222 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
@@ -306,7 +306,7 @@
 | 304 | [Haven](games/h/haven.md) | 4.76 | 
 | 305 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 306 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
-| 307 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 307 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 308 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.56 | 
 | 309 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 310 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 

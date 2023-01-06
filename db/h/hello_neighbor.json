@@ -1,10 +1,10 @@
 {
   "ID": "helloneighbor",
   "Name": "Hello Neighbor",
-  "Rating": 4.54,
+  "Rating": 4.53,
   "NumberOfRatings": 1166,
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
-  "LastChanged": "2022-12-06T16:57:49.0329109+00:00",
+  "LastChanged": "2023-01-06T11:57:56.1732999+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:23.0108394+00:00",
@@ -1385,6 +1385,11 @@
       "Time": "2022-12-06T16:57:49.0329111+00:00",
       "Rating": 4.54,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-06T11:57:56.1733001+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -1402,7 +1407,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 148
+      "Count": 149
     },
     {
       "Text": "This game is Great for Quick Sessions",
