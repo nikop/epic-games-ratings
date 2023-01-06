@@ -189,7 +189,7 @@
 | 187 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 188 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.72 | 
-| 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
+| 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
 | 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.52 | 
 | 192 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 193 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.58 | 
@@ -210,7 +210,7 @@
 | 208 | [ELEX II](games/e/elex_ii.md) | 4.26 | 
 | 209 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 210 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 211 | [Encased](games/e/encased.md) | 4.37 | 
+| 211 | [Encased](games/e/encased.md) | 4.38 | 
 | 212 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 213 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 214 | [EVE Online](games/e/eve_online.md) | 4.26 | 
@@ -463,7 +463,7 @@
 | 461 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 462 | [Observation](games/o/observation.md) | 4.56 | 
 | 463 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
-| 464 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
+| 464 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.81 | 
 | 465 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 466 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
 | 467 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 

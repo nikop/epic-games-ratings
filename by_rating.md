@@ -67,6 +67,7 @@
 | 65 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 65 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 65 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 65 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.81 | 
 | 65 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 65 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 65 | [Superliminal](games/s/superliminal.md) | 4.81 | 
@@ -75,29 +76,28 @@
 | 65 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 65 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.81 | 
 | 65 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
-| 76 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 76 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 76 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 76 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 76 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
-| 76 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
-| 76 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
-| 76 | [Griftlands](games/g/griftlands.md) | 4.80 | 
-| 76 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
-| 76 | [Journey](games/j/journey.md) | 4.80 | 
-| 76 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 76 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
-| 76 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
-| 76 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.80 | 
-| 90 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 90 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 90 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 90 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 90 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
-| 90 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 
-| 90 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 90 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
-| 90 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 
+| 77 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 77 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 77 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 77 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 77 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
+| 77 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
+| 77 | [Griftlands](games/g/griftlands.md) | 4.80 | 
+| 77 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
+| 77 | [Journey](games/j/journey.md) | 4.80 | 
+| 77 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 77 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
+| 77 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
+| 77 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
+| 77 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.80 | 
+| 91 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
+| 91 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 91 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
+| 91 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 
+| 91 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 91 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
 | 99 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 99 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 99 | [Quake](games/q/quake.md) | 4.78 | 
@@ -653,18 +653,18 @@
 | 641 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.39 | 
 | 652 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 
 | 652 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 652 | [Encased](games/e/encased.md) | 4.38 | 
 | 652 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 652 | [Othercide](games/o/othercide.md) | 4.38 | 
 | 652 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 652 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
 | 652 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 659 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 659 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 659 | [Core](games/c/core.md) | 4.37 | 
-| 659 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 659 | [Encased](games/e/encased.md) | 4.37 | 
-| 659 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 659 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 660 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 660 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 660 | [Core](games/c/core.md) | 4.37 | 
+| 660 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 660 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 660 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 666 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 666 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 666 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
