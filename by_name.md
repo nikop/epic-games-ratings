@@ -360,7 +360,7 @@
 | 358 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 359 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 360 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 361 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.63 | 
+| 361 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.74 | 
 | 362 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 363 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 364 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
@@ -561,7 +561,7 @@
 | 559 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 560 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 561 | [Sable](games/s/sable.md) | 4.51 | 
-| 562 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.80 | 
+| 562 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.79 | 
 | 563 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 564 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
 | 565 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -837,7 +837,7 @@
 | 835 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
 | 836 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 837 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 838 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
+| 838 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
 | 839 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
 | 840 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
 | 841 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
