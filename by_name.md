@@ -179,7 +179,7 @@
 | 177 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 178 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 179 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
-| 180 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 
+| 180 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 181 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
 | 182 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
 | 183 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
@@ -220,7 +220,7 @@
 | 218 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 219 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 
 | 220 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
-| 221 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.59 | 
+| 221 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
 | 222 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 223 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 224 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
