@@ -188,9 +188,9 @@
 | 186 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
 | 187 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 188 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.71 | 
+| 189 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.72 | 
 | 190 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
-| 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.52 | 
+| 191 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.58 | 
 | 192 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 193 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.58 | 
 | 194 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
@@ -224,7 +224,7 @@
 | 222 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 223 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 224 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 225 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
+| 225 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.75 | 
 | 226 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 227 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.54 | 
 | 228 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
@@ -307,7 +307,7 @@
 | 305 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 306 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 307 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 308 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.56 | 
+| 308 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.55 | 
 | 309 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 310 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 311 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
@@ -384,7 +384,7 @@
 | 382 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 383 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 384 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 385 | [League of Legends](games/l/league_of_legends.md) | 4.23 | 
+| 385 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 386 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
 | 387 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 388 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
@@ -734,7 +734,7 @@
 | 732 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 733 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 734 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 735 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.55 | 
+| 735 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.56 | 
 | 736 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
 | 737 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 738 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
