@@ -834,7 +834,7 @@
 | 832 | [Warface](games/w/warface.md) | 3.91 | 
 | 832 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 832 | [Ironcast](games/i/ironcast.md) | 3.91 | 
-| 835 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.90 | 
+| 832 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.91 | 
 | 836 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 836 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.86 | 
 | 838 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
