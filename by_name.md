@@ -175,7 +175,7 @@
 | 173 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 174 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 
 | 175 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
-| 176 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 176 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
 | 177 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 178 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 179 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
@@ -200,7 +200,7 @@
 | 198 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 199 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 200 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 201 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
+| 201 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 202 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 203 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.18 | 
 | 204 | [Eastward](games/e/eastward.md) | 4.67 | 
@@ -226,7 +226,7 @@
 | 224 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 225 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 226 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 227 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.53 | 
+| 227 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.54 | 
 | 228 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
 | 229 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 230 | [Fangs](games/f/fangs.md) | 4.21 | 
@@ -290,7 +290,7 @@
 | 288 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 289 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 290 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 291 | [Gotham Knights](games/g/gotham_knights.md) | 4.20 | 
+| 291 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 
 | 292 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 293 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 294 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
@@ -507,7 +507,7 @@
 | 505 | [Pine](games/p/pine.md) | 4.14 | 
 | 506 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
 | 507 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 508 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.48 | 
+| 508 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.52 | 
 | 509 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 510 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 511 | [Predecessor](games/p/predecessor.md) | 4.41 | 
@@ -667,7 +667,7 @@
 | 665 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 666 | [Tacoma](games/t/tacoma.md) | 4.41 | 
 | 667 | [Tails of Iron](games/t/tails_of_iron.md) | 4.48 | 
-| 668 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.68 | 
+| 668 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 669 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 670 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 671 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
