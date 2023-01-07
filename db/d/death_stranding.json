@@ -96,7 +96,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 22
+      "Count": 31
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -105,6 +105,10 @@
     {
       "Text": "This game is Highly Recommended",
       "Count": 24
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 23
     }
   ]
 }
