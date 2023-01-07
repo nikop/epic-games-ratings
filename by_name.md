@@ -360,7 +360,7 @@
 | 358 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 359 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 360 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 361 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.74 | 
+| 361 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.73 | 
 | 362 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 363 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 364 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
@@ -410,7 +410,7 @@
 | 408 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 409 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 410 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.15 | 
-| 411 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
+| 411 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 412 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
 | 413 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 414 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.81 | 
