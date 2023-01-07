@@ -360,7 +360,7 @@
 | 358 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 359 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 360 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 361 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.73 | 
+| 361 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.74 | 
 | 362 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 363 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 364 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
@@ -607,7 +607,7 @@
 | 605 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
 | 606 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 607 | [SOMA](games/s/soma.md) | 4.64 | 
-| 608 | [Somerville](games/s/somerville.md) | 4.21 | 
+| 608 | [Somerville](games/s/somerville.md) | 4.18 | 
 | 609 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
 | 610 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
 | 611 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
@@ -838,7 +838,7 @@
 | 836 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 837 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 838 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
-| 839 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
+| 839 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 840 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
 | 841 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
 | 842 | [ZOMBI](games/z/zombi.md) | 4.35 | 
