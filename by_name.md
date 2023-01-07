@@ -360,7 +360,7 @@
 | 358 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 359 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 360 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 361 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.72 | 
+| 361 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.73 | 
 | 362 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 363 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 364 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
@@ -518,7 +518,7 @@
 | 516 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
 | 517 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 518 | [Quake](games/q/quake.md) | 4.78 | 
-| 519 | [Rage 2](games/r/rage_2.md) | 4.29 | 
+| 519 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 520 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 521 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 522 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
