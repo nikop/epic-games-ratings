@@ -56,7 +56,7 @@
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
-| 57 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
+| 57 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.33 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
@@ -361,7 +361,7 @@
 | 359 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 360 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 361 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 362 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.73 | 
+| 362 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.75 | 
 | 363 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 364 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 365 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 

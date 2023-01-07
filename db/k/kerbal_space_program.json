@@ -1,10 +1,10 @@
 {
   "ID": "ca0530b485754032be50cb6f27be0c2c",
   "Name": "Kerbal Space Program",
-  "Rating": 4.73,
+  "Rating": 4.75,
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
-  "LastChanged": "2023-01-07T14:57:18.4879326+00:00",
+  "LastChanged": "2023-01-07T18:57:31.1190854+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-06T04:57:07.6192795+00:00",
@@ -34,6 +34,11 @@
     {
       "Time": "2023-01-07T14:57:18.4879328+00:00",
       "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-07T18:57:31.1190855+00:00",
+      "Rating": 4.75,
       "NumberOfRatings": null
     }
   ],
