@@ -242,7 +242,7 @@
 | 240 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
 | 241 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
 | 242 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
-| 243 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.16 | 
+| 243 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
 | 244 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 245 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 246 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
@@ -290,7 +290,7 @@
 | 288 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.95 | 
 | 289 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 290 | [Gone Home](games/g/gone_home.md) | 4.16 | 
-| 291 | [Good Company](games/g/good_company.md) | 4.42 | 
+| 291 | [Good Company](games/g/good_company.md) | 4.41 | 
 | 292 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 
 | 293 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 294 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
@@ -302,7 +302,7 @@
 | 300 | [Hades](games/h/hades.md) | 4.92 | 
 | 301 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 302 | [Hammerting](games/h/hammerting.md) | 4.36 | 
-| 303 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 303 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 304 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
 | 305 | [Haven](games/h/haven.md) | 4.76 | 
 | 306 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
@@ -574,7 +574,7 @@
 | 572 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 573 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 574 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 575 | [Scorn](games/s/scorn.md) | 4.48 | 
+| 575 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 576 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
 | 577 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 578 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
