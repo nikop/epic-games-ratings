@@ -167,7 +167,7 @@
 | 165 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 166 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 167 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
-| 168 | [Death Coming](games/d/death_coming.md) | 4.44 | 
+| 168 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 169 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 
 | 170 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.88 | 
 | 171 | [Death's Door](games/d/death's_door.md) | 4.66 | 
@@ -227,13 +227,13 @@
 | 225 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 226 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 227 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 228 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.56 | 
+| 228 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.55 | 
 | 229 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
 | 230 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 231 | [Fangs](games/f/fangs.md) | 4.21 | 
 | 232 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 233 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
-| 234 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
+| 234 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 
 | 235 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 236 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 237 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
@@ -564,7 +564,7 @@
 | 562 | [Sable](games/s/sable.md) | 4.51 | 
 | 563 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.79 | 
 | 564 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 565 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
+| 565 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.42 | 
 | 566 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 567 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
 | 568 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
