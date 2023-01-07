@@ -231,7 +231,7 @@
 | 229 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 230 | [Fangs](games/f/fangs.md) | 4.21 | 
 | 231 | [Far Cry](games/f/far_cry.md) | 4.43 | 
-| 232 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.23 | 
+| 232 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
 | 233 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 234 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 235 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
@@ -404,7 +404,7 @@
 | 402 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 403 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 404 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 405 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 
+| 405 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 406 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 407 | [Mago](games/m/mago.md) | 4.89 | 
 | 408 | [Maneater](games/m/maneater.md) | 4.49 | 
@@ -425,7 +425,7 @@
 | 423 | [Minit](games/m/minit.md) | 4.55 | 
 | 424 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.91 | 
 | 425 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 426 | [Mortal Shell](games/m/mortal_shell.md) | 4.23 | 
+| 426 | [Mortal Shell](games/m/mortal_shell.md) | 4.24 | 
 | 427 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 428 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 429 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 

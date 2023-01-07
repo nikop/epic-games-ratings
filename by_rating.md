@@ -651,7 +651,6 @@
 | 642 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 642 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 642 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.39 | 
-| 652 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 
 | 652 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 652 | [Encased](games/e/encased.md) | 4.38 | 
 | 652 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
@@ -659,12 +658,13 @@
 | 652 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 652 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
 | 652 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 660 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 660 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 660 | [Core](games/c/core.md) | 4.37 | 
-| 660 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 660 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 660 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 659 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 659 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 659 | [Core](games/c/core.md) | 4.37 | 
+| 659 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 659 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 659 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 659 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 666 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
 | 666 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 666 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
@@ -736,16 +736,16 @@
 | 734 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 735 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 735 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
+| 735 | [Mortal Shell](games/m/mortal_shell.md) | 4.24 | 
+| 735 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
 | 735 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
 | 735 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
 | 735 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
-| 740 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 740 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
-| 740 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 740 | [Mortal Shell](games/m/mortal_shell.md) | 4.23 | 
-| 740 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.23 | 
-| 740 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 740 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
+| 742 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 742 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
+| 742 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
+| 742 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
+| 742 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
 | 747 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 747 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
 | 749 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.21 | 
