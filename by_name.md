@@ -146,7 +146,7 @@
 | 144 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
 | 145 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 146 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
-| 147 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 
+| 147 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 148 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 149 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 150 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.33 | 
@@ -348,7 +348,7 @@
 | 346 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
 | 347 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 348 | [Isonzo](games/i/isonzo.md) | 4.57 | 
-| 349 | [IXION](games/i/ixion.md) | 4.52 | 
+| 349 | [IXION](games/i/ixion.md) | 4.47 | 
 | 350 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 351 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 352 | [Journey](games/j/journey.md) | 4.80 | 
@@ -414,7 +414,7 @@
 | 412 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 413 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 
 | 414 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 415 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.81 | 
+| 415 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
 | 416 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 417 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 418 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
