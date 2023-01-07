@@ -101,7 +101,7 @@
 | 99 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 100 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
 | 101 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
-| 102 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.08 | 
+| 102 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
 | 103 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 104 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
 | 105 | [Card Shark](games/c/card_shark.md) | 4.67 | 
@@ -531,7 +531,7 @@
 | 529 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 530 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 531 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
-| 532 | [Redout 2](games/r/redout_2.md) | 4.54 | 
+| 532 | [Redout 2](games/r/redout_2.md) | 4.56 | 
 | 533 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 534 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 535 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
@@ -630,7 +630,7 @@
 | 628 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
 | 629 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
 | 630 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
-| 631 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 631 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
 | 632 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 633 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
 | 634 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 

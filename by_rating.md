@@ -435,35 +435,35 @@
 | 424 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 424 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 424 | [Observation](games/o/observation.md) | 4.56 | 
+| 424 | [Redout 2](games/r/redout_2.md) | 4.56 | 
 | 424 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.56 | 
-| 437 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 437 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
-| 437 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 437 | [Outward](games/o/outward.md) | 4.55 | 
-| 437 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 437 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
-| 437 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 437 | [Sonic Origins](games/s/sonic_origins.md) | 4.55 | 
-| 437 | [Minit](games/m/minit.md) | 4.55 | 
-| 437 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
-| 437 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 437 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
-| 437 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
-| 437 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
-| 437 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.55 | 
-| 437 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
-| 437 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.55 | 
-| 454 | [VALORANT](games/v/valorant.md) | 4.54 | 
-| 454 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
-| 454 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 454 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
-| 454 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
-| 454 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
-| 454 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
-| 454 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.54 | 
-| 454 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 
-| 454 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 454 | [Redout 2](games/r/redout_2.md) | 4.54 | 
+| 438 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 438 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
+| 438 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 438 | [Outward](games/o/outward.md) | 4.55 | 
+| 438 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 438 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
+| 438 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
+| 438 | [Sonic Origins](games/s/sonic_origins.md) | 4.55 | 
+| 438 | [Minit](games/m/minit.md) | 4.55 | 
+| 438 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 438 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 438 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
+| 438 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
+| 438 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
+| 438 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.55 | 
+| 438 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
+| 438 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.55 | 
+| 455 | [VALORANT](games/v/valorant.md) | 4.54 | 
+| 455 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
+| 455 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 455 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
+| 455 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
+| 455 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
+| 455 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
+| 455 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.54 | 
+| 455 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 
+| 455 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 465 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 465 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
 | 465 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
@@ -573,6 +573,7 @@
 | 558 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 572 | [SMITE](games/s/smite.md) | 4.45 | 
 | 572 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 572 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
 | 572 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 572 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 572 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
@@ -580,17 +581,16 @@
 | 572 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
 | 572 | [Figment](games/f/figment.md) | 4.45 | 
 | 572 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
-| 581 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
-| 581 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 581 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 581 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 581 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 581 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 581 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
-| 581 | [Faeria](games/f/faeria.md) | 4.44 | 
-| 581 | [Death Coming](games/d/death_coming.md) | 4.44 | 
-| 581 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
-| 581 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
+| 582 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
+| 582 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 582 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 582 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
+| 582 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 582 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
+| 582 | [Faeria](games/f/faeria.md) | 4.44 | 
+| 582 | [Death Coming](games/d/death_coming.md) | 4.44 | 
+| 582 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
+| 582 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
 | 592 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 592 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 592 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 
@@ -803,12 +803,12 @@
 | 798 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 798 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 803 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 803 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
 | 803 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 803 | [Tharsis](games/t/tharsis.md) | 4.09 | 
 | 803 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 
-| 807 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 807 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.08 | 
-| 807 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
+| 808 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 808 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 810 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
 | 810 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
 | 810 | [Lake](games/l/lake.md) | 4.07 | 
