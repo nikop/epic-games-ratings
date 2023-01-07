@@ -452,8 +452,8 @@
 | 438 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
 | 438 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 438 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.55 | 
-| 438 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
 | 438 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.55 | 
+| 438 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
 | 455 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 455 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
 | 455 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
@@ -461,8 +461,8 @@
 | 455 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
 | 455 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
 | 455 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
+| 455 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.54 | 
 | 455 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.54 | 
-| 455 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 
 | 455 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 465 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 465 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
