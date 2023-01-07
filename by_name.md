@@ -172,7 +172,7 @@
 | 170 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.88 | 
 | 171 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 172 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
-| 173 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.41 | 
+| 173 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
 | 174 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 175 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 
 | 176 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
@@ -189,11 +189,11 @@
 | 187 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
 | 188 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 189 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 190 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.72 | 
+| 190 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.73 | 
 | 191 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
 | 192 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.58 | 
 | 193 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 194 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.58 | 
+| 194 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.57 | 
 | 195 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 196 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 197 | [DOOM 3](games/d/doom_3.md) | 4.64 | 
@@ -225,7 +225,7 @@
 | 223 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 224 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 225 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 226 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.75 | 
+| 226 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 227 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 228 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.56 | 
 | 229 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
@@ -300,7 +300,7 @@
 | 298 | [Grindstone](games/g/grindstone.md) | 4.83 | 
 | 299 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
 | 300 | [Hades](games/h/hades.md) | 4.92 | 
-| 301 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 
+| 301 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 302 | [Hammerting](games/h/hammerting.md) | 4.36 | 
 | 303 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
 | 304 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
@@ -418,7 +418,7 @@
 | 416 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 417 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 418 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
-| 419 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 419 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 420 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
 | 421 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
 | 422 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
@@ -735,7 +735,7 @@
 | 733 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 734 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 735 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 736 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.56 | 
+| 736 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.57 | 
 | 737 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
 | 738 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 739 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
@@ -796,7 +796,7 @@
 | 794 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 795 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 796 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 797 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 797 | [Verdun](games/v/verdun.md) | 4.53 | 
 | 798 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 799 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 800 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
