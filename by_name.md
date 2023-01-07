@@ -302,7 +302,7 @@
 | 300 | [Hades](games/h/hades.md) | 4.92 | 
 | 301 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 302 | [Hammerting](games/h/hammerting.md) | 4.36 | 
-| 303 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 303 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
 | 304 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
 | 305 | [Haven](games/h/haven.md) | 4.76 | 
 | 306 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
@@ -401,7 +401,7 @@
 | 399 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 400 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
 | 401 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
-| 402 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.63 | 
+| 402 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.64 | 
 | 403 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 404 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 405 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
@@ -410,7 +410,7 @@
 | 408 | [Mago](games/m/mago.md) | 4.89 | 
 | 409 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 410 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 411 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.15 | 
+| 411 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 412 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 413 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 
 | 414 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
