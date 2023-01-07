@@ -313,7 +313,7 @@
 | 311 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
 | 312 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 313 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 314 | [High On Life](games/h/high_on_life.md) | 4.70 | 
+| 314 | [High On Life](games/h/high_on_life.md) | 4.68 | 
 | 315 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 316 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 317 | [Hob](games/h/hob.md) | 4.57 | 
@@ -517,7 +517,7 @@
 | 515 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 516 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
 | 517 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 518 | [Quake](games/q/quake.md) | 4.78 | 
+| 518 | [Quake](games/q/quake.md) | 4.77 | 
 | 519 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 520 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 521 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
