@@ -18,16 +18,16 @@
 | 11 | [Firework](games/f/firework.md) | 4.89 | 
 | 11 | [Mago](games/m/mago.md) | 4.89 | 
 | 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
+| 18 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 18 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.88 | 
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 18 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 18 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 18 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
-| 25 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
-| 25 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 25 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 25 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 26 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
+| 26 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 26 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 29 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 29 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 29 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
@@ -435,35 +435,35 @@
 | 424 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 424 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 424 | [Observation](games/o/observation.md) | 4.56 | 
+| 424 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.56 | 
 | 424 | [Redout 2](games/r/redout_2.md) | 4.56 | 
 | 424 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.56 | 
-| 438 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 438 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
-| 438 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 438 | [Outward](games/o/outward.md) | 4.55 | 
-| 438 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 438 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
-| 438 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 438 | [Sonic Origins](games/s/sonic_origins.md) | 4.55 | 
-| 438 | [Minit](games/m/minit.md) | 4.55 | 
-| 438 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
-| 438 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 438 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
-| 438 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
-| 438 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
-| 438 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.55 | 
-| 438 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.55 | 
-| 438 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
-| 455 | [VALORANT](games/v/valorant.md) | 4.54 | 
-| 455 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
-| 455 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 455 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
-| 455 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
-| 455 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
-| 455 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
-| 455 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.54 | 
-| 455 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.54 | 
-| 455 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 439 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 439 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
+| 439 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 439 | [Outward](games/o/outward.md) | 4.55 | 
+| 439 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 439 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
+| 439 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
+| 439 | [Sonic Origins](games/s/sonic_origins.md) | 4.55 | 
+| 439 | [Minit](games/m/minit.md) | 4.55 | 
+| 439 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 439 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 439 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
+| 439 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
+| 439 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
+| 439 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.55 | 
+| 439 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.55 | 
+| 439 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
+| 456 | [VALORANT](games/v/valorant.md) | 4.54 | 
+| 456 | [Auto Chess](games/a/auto_chess.md) | 4.54 | 
+| 456 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 456 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
+| 456 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
+| 456 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
+| 456 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
+| 456 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.54 | 
+| 456 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 465 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 465 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
 | 465 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
@@ -589,20 +589,20 @@
 | 582 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
 | 582 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 582 | [Death Coming](games/d/death_coming.md) | 4.44 | 
+| 582 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 582 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
 | 582 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
-| 592 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 592 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 592 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 
-| 592 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 592 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
-| 592 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
-| 592 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
-| 592 | [Far Cry](games/f/far_cry.md) | 4.43 | 
-| 592 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 592 | [The Silent Age](games/t/the_silent_age.md) | 4.43 | 
-| 592 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
-| 592 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
+| 593 | [Sheltered](games/s/sheltered.md) | 4.43 | 
+| 593 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 593 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 
+| 593 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 593 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
+| 593 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
+| 593 | [Far Cry](games/f/far_cry.md) | 4.43 | 
+| 593 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
+| 593 | [The Silent Age](games/t/the_silent_age.md) | 4.43 | 
+| 593 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.43 | 
+| 593 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 604 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 604 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 604 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
@@ -762,15 +762,15 @@
 | 756 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 756 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 756 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 763 | [Windbound](games/w/windbound.md) | 4.19 | 
-| 763 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 763 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
-| 763 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 763 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
-| 763 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 763 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 
-| 763 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 
-| 763 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
+| 756 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 
+| 764 | [Windbound](games/w/windbound.md) | 4.19 | 
+| 764 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 764 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
+| 764 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
+| 764 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
+| 764 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 764 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 
+| 764 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 772 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 772 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 772 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.18 | 
