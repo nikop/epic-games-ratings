@@ -695,19 +695,19 @@
 | 693 | [Automachef](games/a/automachef.md) | 4.33 | 
 | 694 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 694 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.32 | 
-| 694 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.32 | 
 | 694 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
 | 694 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
 | 694 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
 | 694 | [Filament](games/f/filament.md) | 4.32 | 
 | 694 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
 | 694 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
-| 703 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
-| 703 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 703 | [BIOMUTANT](games/b/biomutant.md) | 4.31 | 
-| 703 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
-| 703 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
-| 703 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
+| 702 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 702 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 702 | [BIOMUTANT](games/b/biomutant.md) | 4.31 | 
+| 702 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.31 | 
+| 702 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
+| 702 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
+| 702 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
 | 709 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 709 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 709 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 

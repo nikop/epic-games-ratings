@@ -811,7 +811,7 @@
 | 809 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 810 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 811 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 812 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.32 | 
+| 812 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.31 | 
 | 813 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 814 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 815 | [Weird West](games/w/weird_west.md) | 4.45 | 
