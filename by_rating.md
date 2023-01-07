@@ -67,7 +67,6 @@
 | 65 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 65 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 65 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 65 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.81 | 
 | 65 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 65 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 65 | [Superliminal](games/s/superliminal.md) | 4.81 | 
@@ -76,20 +75,21 @@
 | 65 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 65 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.81 | 
 | 65 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
-| 77 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 77 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
-| 77 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 77 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 77 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
-| 77 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
-| 77 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
-| 77 | [Griftlands](games/g/griftlands.md) | 4.80 | 
-| 77 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
-| 77 | [Journey](games/j/journey.md) | 4.80 | 
-| 77 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 77 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
-| 77 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
-| 77 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
+| 76 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 76 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.80 | 
+| 76 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 76 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 76 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
+| 76 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
+| 76 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
+| 76 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
+| 76 | [Griftlands](games/g/griftlands.md) | 4.80 | 
+| 76 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
+| 76 | [Journey](games/j/journey.md) | 4.80 | 
+| 76 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 76 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
+| 76 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
+| 76 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
 | 91 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 91 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
