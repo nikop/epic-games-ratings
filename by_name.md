@@ -12,7 +12,7 @@
 | 10 | [ABZU](games/a/abzu.md) | 4.62 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 13 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
@@ -402,7 +402,7 @@
 | 400 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 401 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
 | 402 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
-| 403 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.64 | 
+| 403 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.65 | 
 | 404 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 405 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 406 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
