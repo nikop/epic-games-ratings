@@ -228,7 +228,7 @@
 | 226 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 227 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 228 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 229 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.55 | 
+| 229 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.54 | 
 | 230 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
 | 231 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 232 | [Fangs](games/f/fangs.md) | 4.21 | 
@@ -342,7 +342,7 @@
 | 340 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
 | 341 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 342 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 343 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 
+| 343 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
 | 344 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 345 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 346 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
