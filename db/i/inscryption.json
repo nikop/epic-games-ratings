@@ -1,10 +1,10 @@
 {
   "ID": "78546100323d461dbda0306d6af277e3",
   "Name": "Inscryption",
-  "Rating": 4.86,
+  "Rating": 4.85,
   "NumberOfRatings": 771,
   "FirstSeen": "2022-07-22T20:27:28.221027+00:00",
-  "LastChanged": "2022-11-19T22:57:37.3421388+00:00",
+  "LastChanged": "2023-01-08T13:57:56.2747133+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:28.2210273+00:00",
@@ -559,6 +559,11 @@
     {
       "Time": "2022-11-19T22:57:37.3421392+00:00",
       "Rating": 4.86,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-08T13:57:56.2747135+00:00",
+      "Rating": 4.85,
       "NumberOfRatings": null
     }
   ],
