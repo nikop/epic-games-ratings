@@ -786,7 +786,7 @@
 | 784 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 785 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 786 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 787 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
+| 787 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
 | 788 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 789 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 790 | [UnMetal](games/u/unmetal.md) | 4.51 | 
@@ -823,7 +823,7 @@
 | 821 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 822 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 823 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 824 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.87 | 
+| 824 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 
 | 825 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 826 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 827 | [Windbound](games/w/windbound.md) | 4.19 | 

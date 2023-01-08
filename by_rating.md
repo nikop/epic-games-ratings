@@ -120,19 +120,19 @@
 | 112 | [Haven](games/h/haven.md) | 4.76 | 
 | 112 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 112 | [shapez](games/s/shapez.md) | 4.76 | 
-| 121 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 121 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 121 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 121 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 121 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
-| 121 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 121 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
-| 121 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
-| 121 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
-| 121 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 
-| 121 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
-| 121 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
-| 121 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
+| 112 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
+| 122 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 122 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 122 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
+| 122 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 122 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 122 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
+| 122 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
+| 122 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
+| 122 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 
+| 122 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
+| 122 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
 | 134 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 134 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
 | 134 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
@@ -837,7 +837,7 @@
 | 834 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 834 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 834 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.91 | 
-| 838 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.87 | 
+| 838 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 
 | 839 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 840 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
 | 841 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
