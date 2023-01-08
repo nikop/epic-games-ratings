@@ -121,19 +121,19 @@
 | 113 | [Haven](games/h/haven.md) | 4.76 | 
 | 113 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.76 | 
 | 113 | [shapez](games/s/shapez.md) | 4.76 | 
-| 113 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
-| 123 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 123 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 123 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 123 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
-| 123 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 123 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
-| 123 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
-| 123 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
-| 123 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 
-| 123 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
-| 123 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
+| 122 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 122 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 122 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
+| 122 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 122 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 122 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
+| 122 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
+| 122 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
+| 122 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 
+| 122 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
+| 122 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
+| 122 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
 | 135 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 135 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
 | 135 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
@@ -666,27 +666,27 @@
 | 660 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 660 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 660 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 667 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
-| 667 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 667 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 667 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 667 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 667 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
-| 667 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
-| 667 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 667 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
-| 667 | [Hammerting](games/h/hammerting.md) | 4.36 | 
-| 667 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
-| 667 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
-| 679 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
-| 679 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 679 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 679 | [Torchlight](games/t/torchlight.md) | 4.35 | 
-| 679 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 679 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 679 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
-| 679 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
-| 679 | [ZOMBI](games/z/zombi.md) | 4.35 | 
+| 660 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
+| 668 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 668 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 668 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 668 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 668 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 668 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
+| 668 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
+| 668 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
+| 668 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
+| 668 | [Hammerting](games/h/hammerting.md) | 4.36 | 
+| 668 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
+| 668 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
+| 680 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
+| 680 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 680 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 680 | [Torchlight](games/t/torchlight.md) | 4.35 | 
+| 680 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
+| 680 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 680 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
+| 680 | [ZOMBI](games/z/zombi.md) | 4.35 | 
 | 688 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 688 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 688 | [Ashen](games/a/ashen.md) | 4.34 | 
@@ -833,10 +833,10 @@
 | 829 | [Patron](games/p/patron.md) | 3.94 | 
 | 829 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
 | 833 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
-| 834 | [Warface](games/w/warface.md) | 3.91 | 
-| 834 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 834 | [Ironcast](games/i/ironcast.md) | 3.91 | 
-| 834 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.91 | 
+| 834 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.92 | 
+| 835 | [Warface](games/w/warface.md) | 3.91 | 
+| 835 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 835 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 838 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 
 | 839 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 840 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 

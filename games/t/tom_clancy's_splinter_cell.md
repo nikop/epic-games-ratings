@@ -1,5 +1,5 @@
 # Tom Clancy's Splinter Cell
-Rating: 4.35 (-)  (as of 23.09.2022)  
+Rating: 4.37 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -16,3 +16,4 @@ Rating: 4.35 (-)  (as of 23.09.2022)
 | 2022-11-30 | 4.31 | - |
 | 2022-12-12 | 4.33 | - |
 | 2022-12-19 | 4.35 | - |
+| 2023-01-08 | 4.37 | - |

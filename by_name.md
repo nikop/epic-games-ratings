@@ -425,7 +425,7 @@
 | 423 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 424 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
 | 425 | [Minit](games/m/minit.md) | 4.55 | 
-| 426 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.91 | 
+| 426 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.92 | 
 | 427 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 428 | [Mortal Shell](games/m/mortal_shell.md) | 4.24 | 
 | 429 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
@@ -750,7 +750,7 @@
 | 748 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
 | 749 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 750 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
-| 751 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 
+| 751 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
 | 752 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
 | 753 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
 | 754 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
@@ -786,7 +786,7 @@
 | 784 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 785 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 786 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 787 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.76 | 
+| 787 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
 | 788 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 789 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 790 | [UnMetal](games/u/unmetal.md) | 4.51 | 
