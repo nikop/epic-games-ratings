@@ -818,7 +818,7 @@
 | 816 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 817 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 818 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 819 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
+| 819 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
 | 820 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 821 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 822 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
