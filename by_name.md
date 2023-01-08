@@ -112,7 +112,7 @@
 | 110 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
 | 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 113 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 
+| 113 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 114 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 115 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
 | 116 | [Chimeraland](games/c/chimeraland.md) | 3.62 | 
@@ -157,7 +157,7 @@
 | 155 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 156 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 157 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 158 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
+| 158 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 159 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 160 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
 | 161 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
@@ -192,7 +192,7 @@
 | 190 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 191 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.73 | 
 | 192 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
-| 193 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.58 | 
+| 193 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.59 | 
 | 194 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 195 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.57 | 
 | 196 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
@@ -238,7 +238,7 @@
 | 236 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 237 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 238 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
-| 239 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 
+| 239 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
 | 240 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
 | 241 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
 | 242 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
