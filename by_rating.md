@@ -480,21 +480,21 @@
 | 465 | [Horace](games/h/horace.md) | 4.53 | 
 | 465 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 465 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 465 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
-| 482 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 482 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 482 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 482 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
-| 482 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 482 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 482 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 482 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 482 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
-| 482 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 482 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 482 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.52 | 
-| 482 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 482 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 481 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 481 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 481 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 481 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
+| 481 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 481 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 481 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 481 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 481 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
+| 481 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 481 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 481 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
+| 481 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.52 | 
+| 481 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 481 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 496 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 496 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 496 | [MythForce](games/m/mythforce.md) | 4.51 | 
