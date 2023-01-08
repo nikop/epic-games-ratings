@@ -421,7 +421,7 @@
 | 419 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 420 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
 | 421 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
-| 422 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
+| 422 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 423 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
 | 424 | [Minit](games/m/minit.md) | 4.55 | 
 | 425 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.91 | 
@@ -812,7 +812,7 @@
 | 810 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 811 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 812 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 813 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.31 | 
+| 813 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.32 | 
 | 814 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 815 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
 | 816 | [Weird West](games/w/weird_west.md) | 4.45 | 

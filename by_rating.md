@@ -517,7 +517,6 @@
 | 508 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 508 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
 | 508 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 508 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
 | 508 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
 | 508 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 508 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
@@ -525,22 +524,23 @@
 | 508 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
 | 508 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 508 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
-| 526 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 526 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 526 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 526 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 526 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
-| 526 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 526 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 526 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 526 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 526 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
-| 526 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
-| 526 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 526 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 526 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 526 | [STG Football](games/s/stg_football.md) | 4.49 | 
-| 526 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
+| 525 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 525 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 525 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 525 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 525 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
+| 525 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 525 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 525 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 525 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 525 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 525 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
+| 525 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
+| 525 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 525 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 525 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 525 | [STG Football](games/s/stg_football.md) | 4.49 | 
+| 525 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
 | 542 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 542 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 542 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
@@ -696,19 +696,19 @@
 | 693 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.33 | 
 | 695 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 695 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.32 | 
+| 695 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.32 | 
 | 695 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
 | 695 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
 | 695 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
 | 695 | [Filament](games/f/filament.md) | 4.32 | 
 | 695 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
 | 695 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
-| 703 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
-| 703 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 703 | [BIOMUTANT](games/b/biomutant.md) | 4.31 | 
-| 703 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.31 | 
-| 703 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
-| 703 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
-| 703 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
+| 704 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 704 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 704 | [BIOMUTANT](games/b/biomutant.md) | 4.31 | 
+| 704 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
+| 704 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
+| 704 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
 | 710 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 710 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 710 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
