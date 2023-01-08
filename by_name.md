@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.60 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -178,7 +178,7 @@
 | 176 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 177 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
 | 178 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
-| 179 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 
+| 179 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 180 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
 | 181 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 182 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
@@ -211,7 +211,7 @@
 | 209 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
 | 210 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 211 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 212 | [Encased](games/e/encased.md) | 4.38 | 
+| 212 | [Encased](games/e/encased.md) | 4.39 | 
 | 213 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 214 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 215 | [EVE Online](games/e/eve_online.md) | 4.26 | 
@@ -328,7 +328,7 @@
 | 326 | [House Party](games/h/house_party.md) | 4.30 | 
 | 327 | [Hue](games/h/hue.md) | 4.56 | 
 | 328 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
-| 329 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.34 | 
+| 329 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 330 | [Huntdown](games/h/huntdown.md) | 4.85 | 
 | 331 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
 | 332 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
@@ -579,7 +579,7 @@
 | 577 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 578 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 579 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
-| 580 | [Severed Steel](games/s/severed_steel.md) | 4.70 | 
+| 580 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 
 | 581 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 582 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.73 | 
 | 583 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
