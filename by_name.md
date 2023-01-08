@@ -318,7 +318,7 @@
 | 316 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 317 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 318 | [Hob](games/h/hob.md) | 4.57 | 
-| 319 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
+| 319 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 
 | 320 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 321 | [Horace](games/h/horace.md) | 4.53 | 
 | 322 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.58 | 
