@@ -778,15 +778,15 @@
 | 773 | [Somerville](games/s/somerville.md) | 4.18 | 
 | 777 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 777 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.17 | 
-| 779 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
-| 779 | [Gone Home](games/g/gone_home.md) | 4.16 | 
-| 779 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
-| 779 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 779 | [Submerged](games/s/submerged.md) | 4.16 | 
-| 779 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
-| 779 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
-| 779 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.16 | 
-| 779 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.16 | 
+| 777 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 
+| 780 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
+| 780 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 780 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
+| 780 | [Family Man](games/f/family_man.md) | 4.16 | 
+| 780 | [Submerged](games/s/submerged.md) | 4.16 | 
+| 780 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 780 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
+| 780 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.16 | 
 | 788 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 788 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 788 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
