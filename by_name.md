@@ -233,7 +233,7 @@
 | 231 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 232 | [Fangs](games/f/fangs.md) | 4.21 | 
 | 233 | [Far Cry](games/f/far_cry.md) | 4.43 | 
-| 234 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
+| 234 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.23 | 
 | 235 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 
 | 236 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 237 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
@@ -362,7 +362,7 @@
 | 360 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 361 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 362 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 363 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.74 | 
+| 363 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.75 | 
 | 364 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 365 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 366 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
@@ -840,7 +840,7 @@
 | 838 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
 | 839 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 840 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 841 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
+| 841 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
 | 842 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 843 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
 | 844 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
