@@ -775,10 +775,10 @@
 | 773 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 773 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 773 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
-| 773 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
 | 773 | [Somerville](games/s/somerville.md) | 4.18 | 
-| 778 | [Space Punks](games/s/space_punks.md) | 4.17 | 
-| 778 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.17 | 
+| 777 | [Space Punks](games/s/space_punks.md) | 4.17 | 
+| 777 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.17 | 
+| 777 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 
 | 780 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
 | 780 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 780 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
