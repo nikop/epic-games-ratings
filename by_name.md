@@ -13,7 +13,7 @@
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
+| 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.60 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -288,7 +288,7 @@
 | 286 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
 | 287 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 288 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 289 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.95 | 
+| 289 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
 | 290 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 291 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 292 | [Good Company](games/g/good_company.md) | 4.41 | 
@@ -362,7 +362,7 @@
 | 360 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 361 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 362 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 363 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.75 | 
+| 363 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.76 | 
 | 364 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 365 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 366 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
@@ -391,7 +391,7 @@
 | 389 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 390 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
 | 391 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
-| 392 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 392 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
 | 393 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 394 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 395 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
@@ -666,7 +666,7 @@
 | 664 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 665 | [Suzerain](games/s/suzerain.md) | 4.73 | 
 | 666 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.32 | 
-| 667 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
+| 667 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 668 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 669 | [Tacoma](games/t/tacoma.md) | 4.41 | 
 | 670 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
