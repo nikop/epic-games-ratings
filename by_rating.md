@@ -267,26 +267,26 @@
 | 255 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 255 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 
 | 255 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
+| 255 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 255 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
 | 255 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
 | 255 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
 | 255 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 255 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
-| 273 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 273 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 273 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 273 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.65 | 
-| 273 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 273 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
-| 273 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 273 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 273 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.65 | 
-| 273 | [Coromon](games/c/coromon.md) | 4.65 | 
-| 273 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
-| 273 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
-| 273 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
-| 273 | [GNOG](games/g/gnog.md) | 4.65 | 
-| 273 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
+| 274 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 274 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 274 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 274 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.65 | 
+| 274 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 274 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
+| 274 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 274 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 274 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.65 | 
+| 274 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 274 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
+| 274 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
+| 274 | [GNOG](games/g/gnog.md) | 4.65 | 
+| 274 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
 | 288 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 288 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 288 | [HITMAN](games/h/hitman.md) | 4.64 | 
@@ -480,21 +480,21 @@
 | 465 | [Horace](games/h/horace.md) | 4.53 | 
 | 465 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 465 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 481 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 481 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 481 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 481 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
-| 481 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 481 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 481 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 481 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 481 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
-| 481 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 481 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 481 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
-| 481 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.52 | 
-| 481 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 481 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 465 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
+| 482 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 482 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 482 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 482 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
+| 482 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 482 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 482 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 482 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 482 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
+| 482 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 482 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 482 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.52 | 
+| 482 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 482 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 496 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 496 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 496 | [MythForce](games/m/mythforce.md) | 4.51 | 
@@ -845,3 +845,4 @@
 | 842 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 844 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.72 | 
 | 845 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
+| 846 | [Chimeraland](games/c/chimeraland.md) | 3.62 | 

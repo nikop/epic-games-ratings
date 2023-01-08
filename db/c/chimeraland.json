@@ -1,7 +1,16 @@
 {
   "ID": "0b595db2a0604a3c91d77847a59f5895",
   "Name": "Chimeraland",
+  "Rating": 3.62,
   "FirstSeen": "2022-12-22T08:56:57.9222177+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-01-08T08:57:11.5833974+00:00",
+  "LastChanged": "2023-01-08T08:57:11.5833975+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-01-08T08:57:11.5833977+00:00",
+      "Rating": 3.62,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
