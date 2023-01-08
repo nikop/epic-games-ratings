@@ -80,7 +80,7 @@
 | 78 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
 | 79 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 81 | [BIOMUTANT](games/b/biomutant.md) | 4.31 | 
+| 81 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
 | 82 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 83 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 84 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
@@ -513,13 +513,13 @@
 | 511 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.52 | 
 | 512 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 513 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 514 | [Predecessor](games/p/predecessor.md) | 4.40 | 
+| 514 | [Predecessor](games/p/predecessor.md) | 4.41 | 
 | 515 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 516 | [Prey](games/p/prey.md) | 4.62 | 
 | 517 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 518 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
 | 519 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 520 | [Quake](games/q/quake.md) | 4.77 | 
+| 520 | [Quake](games/q/quake.md) | 4.78 | 
 | 521 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 522 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 523 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
@@ -830,7 +830,7 @@
 | 828 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
 | 829 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
 | 830 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 831 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 
+| 831 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
 | 832 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 833 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 834 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
