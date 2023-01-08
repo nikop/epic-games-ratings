@@ -220,13 +220,13 @@
 | 218 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 219 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.95 | 
 | 220 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 221 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 
+| 221 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.16 | 
 | 222 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
 | 223 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
 | 224 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 225 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 226 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 227 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
+| 227 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 228 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 229 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.54 | 
 | 230 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
@@ -281,7 +281,7 @@
 | 279 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 280 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 281 | [GigaBash](games/g/gigabash.md) | 4.61 | 
-| 282 | [Gloomhaven](games/g/gloomhaven.md) | 4.46 | 
+| 282 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
 | 283 | [GNOG](games/g/gnog.md) | 4.65 | 
 | 284 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 285 | [God of War](games/g/god_of_war.md) | 4.89 | 
@@ -309,7 +309,7 @@
 | 307 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 308 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 309 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 310 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.55 | 
+| 310 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.51 | 
 | 311 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 312 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 313 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
@@ -562,7 +562,7 @@
 | 560 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 561 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 562 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 563 | [Sable](games/s/sable.md) | 4.51 | 
+| 563 | [Sable](games/s/sable.md) | 4.50 | 
 | 564 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.79 | 
 | 565 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 566 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.42 | 
@@ -584,7 +584,7 @@
 | 582 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 583 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.73 | 
 | 584 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
-| 585 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
+| 585 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
 | 586 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 587 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 588 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
@@ -613,7 +613,7 @@
 | 611 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
 | 612 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
 | 613 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 614 | [Sonic Origins](games/s/sonic_origins.md) | 4.55 | 
+| 614 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
 | 615 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 616 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.82 | 
 | 617 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
@@ -734,7 +734,7 @@
 | 732 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
 | 733 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
 | 734 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 735 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 735 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 736 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 737 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 738 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.57 | 
@@ -798,7 +798,7 @@
 | 796 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 797 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 798 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 799 | [Verdun](games/v/verdun.md) | 4.53 | 
+| 799 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 800 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 801 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 802 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
