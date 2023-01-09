@@ -28,13 +28,13 @@
 | 26 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 26 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 26 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 26 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
-| 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 30 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 30 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 
-| 30 | [TUNIC](games/t/tunic.md) | 4.86 | 
-| 30 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
-| 30 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
+| 29 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 29 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 29 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 
+| 29 | [TUNIC](games/t/tunic.md) | 4.86 | 
+| 29 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
+| 29 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
+| 29 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 36 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 36 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 36 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
@@ -272,22 +272,22 @@
 | 256 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
 | 256 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 256 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
-| 273 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 273 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 273 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 273 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.65 | 
-| 273 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 273 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
-| 273 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 273 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 273 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.65 | 
-| 273 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
-| 273 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 
-| 273 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
-| 273 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
-| 273 | [GNOG](games/g/gnog.md) | 4.65 | 
-| 273 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
-| 273 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.65 | 
+| 256 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.66 | 
+| 274 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 274 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 274 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 274 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.65 | 
+| 274 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 274 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
+| 274 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 274 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 274 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.65 | 
+| 274 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 274 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 
+| 274 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
+| 274 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
+| 274 | [GNOG](games/g/gnog.md) | 4.65 | 
+| 274 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
 | 289 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 289 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 289 | [HITMAN](games/h/hitman.md) | 4.64 | 
@@ -600,20 +600,20 @@
 | 595 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
 | 595 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 595 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 595 | [The Silent Age](games/t/the_silent_age.md) | 4.43 | 
 | 595 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
-| 603 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 603 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 603 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 603 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 603 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 603 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 603 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 603 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
-| 603 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
-| 603 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.42 | 
-| 603 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
-| 603 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.42 | 
+| 602 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 602 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 602 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 602 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 602 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 602 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 602 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 602 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
+| 602 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 602 | [The Silent Age](games/t/the_silent_age.md) | 4.42 | 
+| 602 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.42 | 
+| 602 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
+| 602 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.42 | 
 | 615 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 615 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 615 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 

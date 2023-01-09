@@ -402,7 +402,7 @@
 | 400 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 401 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
 | 402 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
-| 403 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.65 | 
+| 403 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.66 | 
 | 404 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 405 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 406 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
@@ -689,7 +689,7 @@
 | 687 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 688 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 689 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 690 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
+| 690 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 691 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 692 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 693 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
@@ -715,7 +715,7 @@
 | 713 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 714 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 715 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 716 | [The Silent Age](games/t/the_silent_age.md) | 4.43 | 
+| 716 | [The Silent Age](games/t/the_silent_age.md) | 4.42 | 
 | 717 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 718 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 719 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
