@@ -167,7 +167,7 @@
 | 165 | [Days Gone](games/d/days_gone.md) | 4.69 | 
 | 166 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 167 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 168 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
+| 168 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 169 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 170 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 
 | 171 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.88 | 
@@ -191,7 +191,7 @@
 | 189 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 190 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 191 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.73 | 
-| 192 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
+| 192 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 193 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.59 | 
 | 194 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 195 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.57 | 
@@ -226,7 +226,7 @@
 | 224 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 225 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 226 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 227 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
+| 227 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.75 | 
 | 228 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 229 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.54 | 
 | 230 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 
@@ -655,7 +655,7 @@
 | 653 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
 | 654 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 655 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
-| 656 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.72 | 
+| 656 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.70 | 
 | 657 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
 | 658 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.67 | 
 | 659 | [Superliminal](games/s/superliminal.md) | 4.81 | 
