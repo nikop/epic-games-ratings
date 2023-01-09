@@ -255,7 +255,7 @@
 | 253 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 254 | [Firework](games/f/firework.md) | 4.89 | 
 | 255 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 256 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.59 | 
+| 256 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 
 | 257 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 258 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 259 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
@@ -362,7 +362,7 @@
 | 360 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 361 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 362 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 363 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.76 | 
+| 363 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.77 | 
 | 364 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 365 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 366 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
