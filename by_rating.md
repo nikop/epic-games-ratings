@@ -802,19 +802,19 @@
 | 799 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
 | 799 | [Train Valley 2](games/t/train_valley_2.md) | 4.10 | 
 | 799 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 799 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
 | 799 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 804 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
-| 804 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
-| 804 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
-| 804 | [Tharsis](games/t/tharsis.md) | 4.09 | 
-| 804 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 
-| 809 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 809 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
-| 809 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
-| 812 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
-| 812 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
-| 812 | [Lake](games/l/lake.md) | 4.07 | 
-| 812 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.07 | 
+| 805 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 805 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
+| 805 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
+| 805 | [Tharsis](games/t/tharsis.md) | 4.09 | 
+| 805 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 
+| 810 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 810 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
+| 810 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
+| 813 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
+| 813 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
+| 813 | [Lake](games/l/lake.md) | 4.07 | 
 | 816 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 817 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 817 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
@@ -845,4 +845,4 @@
 | 842 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 844 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.72 | 
 | 845 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
-| 846 | [Chimeraland](games/c/chimeraland.md) | 3.62 | 
+| 846 | [Chimeraland](games/c/chimeraland.md) | 3.52 | 

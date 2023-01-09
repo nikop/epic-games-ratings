@@ -1,5 +1,5 @@
 # Chronos: Before the Ashes
-Rating: 4.07 (-)  (as of 23.09.2022)  
+Rating: 4.10 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,3 +11,4 @@ Rating: 4.07 (-)  (as of 23.09.2022)
 | 2022-11-25 | 4.00 | - |
 | 2022-12-06 | 4.04 | - |
 | 2022-12-27 | 4.07 | - |
+| 2023-01-09 | 4.10 | - |
