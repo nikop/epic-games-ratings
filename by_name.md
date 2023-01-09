@@ -347,7 +347,7 @@
 | 345 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 346 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 347 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
-| 348 | [Ironcast](games/i/ironcast.md) | 3.91 | 
+| 348 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 349 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 350 | [IXION](games/i/ixion.md) | 4.47 | 
 | 351 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
@@ -482,7 +482,7 @@
 | 480 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
 | 481 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 482 | [Outward](games/o/outward.md) | 4.55 | 
-| 483 | [Overcooked](games/o/overcooked.md) | 4.68 | 
+| 483 | [Overcooked](games/o/overcooked.md) | 4.67 | 
 | 484 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
 | 485 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
 | 486 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
@@ -582,7 +582,7 @@
 | 580 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 581 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 
 | 582 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 583 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.73 | 
+| 583 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 
 | 584 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 585 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
 | 586 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
@@ -689,7 +689,7 @@
 | 687 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 688 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 689 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 690 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
+| 690 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
 | 691 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 692 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 693 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
