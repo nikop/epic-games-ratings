@@ -1,10 +1,10 @@
 {
   "ID": "ea73c08ac633414584e281f838b3a78c",
   "Name": "Marvel\u0027s Midnight Suns",
-  "Rating": 4.53,
+  "Rating": 4.54,
   "FirstSeen": "2022-12-02T09:57:07.4463087+00:00",
   "FirstSeenRating": "2022-12-03T17:57:10.4344427+00:00",
-  "LastChanged": "2023-01-09T06:57:07.7915197+00:00",
+  "LastChanged": "2023-01-09T17:02:32.9093247+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-03T17:57:10.4344429+00:00",
@@ -265,6 +265,11 @@
       "Time": "2023-01-09T06:57:07.7915198+00:00",
       "Rating": 4.53,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-09T17:02:32.9093248+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -290,7 +295,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 47
+      "Count": 51
     },
     {
       "Text": "This game has Challenging Combat",
@@ -306,7 +311,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Amazing Characters",

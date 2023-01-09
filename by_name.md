@@ -93,7 +93,7 @@
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
 | 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.60 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
@@ -220,7 +220,7 @@
 | 218 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 219 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.95 | 
 | 220 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 221 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 
+| 221 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
 | 222 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
 | 223 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
 | 224 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
@@ -413,7 +413,7 @@
 | 411 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 412 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 413 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 414 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 
+| 414 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 
 | 415 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 416 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.81 | 
 | 417 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
@@ -620,7 +620,7 @@
 | 618 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 619 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
 | 620 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 621 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
+| 621 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
 | 622 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
 | 623 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.42 | 
 | 624 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
