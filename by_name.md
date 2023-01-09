@@ -557,7 +557,7 @@
 | 555 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
 | 556 | [Roguebook](games/r/roguebook.md) | 4.62 | 
 | 557 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 558 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.67 | 
+| 558 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
 | 559 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
 | 560 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 561 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
