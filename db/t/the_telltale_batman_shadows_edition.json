@@ -1,10 +1,10 @@
 {
   "ID": "f2bfff793b224f6190a394f461c9a4b8",
   "Name": "The Telltale Batman Shadows Edition",
-  "Rating": 4.75,
+  "Rating": 4.76,
   "NumberOfRatings": 135,
   "FirstSeen": "2022-07-22T20:24:13.2126101+00:00",
-  "LastChanged": "2022-12-31T03:57:34.5426597+00:00",
+  "LastChanged": "2023-01-09T03:58:08.8964733+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:13.2126103+00:00",
@@ -284,6 +284,11 @@
     {
       "Time": "2022-12-31T03:57:34.5426599+00:00",
       "Rating": 4.75,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-09T03:58:08.8964734+00:00",
+      "Rating": 4.76,
       "NumberOfRatings": null
     }
   ],

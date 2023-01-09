@@ -229,7 +229,7 @@
 | 227 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 228 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 229 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.54 | 
-| 230 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
+| 230 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 
 | 231 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 232 | [Fangs](games/f/fangs.md) | 4.21 | 
 | 233 | [Far Cry](games/f/far_cry.md) | 4.43 | 
@@ -312,7 +312,7 @@
 | 310 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.51 | 
 | 311 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 312 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
-| 313 | [Hero's Hour](games/h/hero's_hour.md) | 4.36 | 
+| 313 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
 | 314 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 315 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 316 | [High On Life](games/h/high_on_life.md) | 4.68 | 
@@ -660,7 +660,7 @@
 | 658 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.67 | 
 | 659 | [Superliminal](games/s/superliminal.md) | 4.81 | 
 | 660 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 661 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
+| 661 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 662 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
 | 663 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 664 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
@@ -722,7 +722,7 @@
 | 720 | [The Surge](games/t/the_surge.md) | 4.52 | 
 | 721 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
 | 722 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 723 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
+| 723 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
 | 724 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 725 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
 | 726 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
