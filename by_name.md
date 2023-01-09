@@ -49,7 +49,7 @@
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
+| 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.39 | 
@@ -427,7 +427,7 @@
 | 425 | [Minit](games/m/minit.md) | 4.55 | 
 | 426 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.92 | 
 | 427 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 428 | [Mortal Shell](games/m/mortal_shell.md) | 4.24 | 
+| 428 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
 | 429 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 430 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 431 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 

@@ -552,25 +552,25 @@
 | 550 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 550 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 550 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
-| 550 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 550 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 550 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
 | 550 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
 | 550 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
 | 550 | [IXION](games/i/ixion.md) | 4.47 | 
 | 550 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 560 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 560 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 560 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 560 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 560 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 560 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
-| 560 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
-| 560 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
-| 560 | [Chorus](games/c/chorus.md) | 4.46 | 
-| 560 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
-| 560 | [Train Valley](games/t/train_valley.md) | 4.46 | 
-| 560 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 559 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 559 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 559 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 559 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
+| 559 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 559 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
+| 559 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
+| 559 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
+| 559 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
+| 559 | [Chorus](games/c/chorus.md) | 4.46 | 
+| 559 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
+| 559 | [Train Valley](games/t/train_valley.md) | 4.46 | 
+| 559 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 572 | [SMITE](games/s/smite.md) | 4.45 | 
 | 572 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 572 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
@@ -736,13 +736,13 @@
 | 729 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 729 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 736 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 737 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 737 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
-| 737 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
-| 737 | [Mortal Shell](games/m/mortal_shell.md) | 4.24 | 
-| 737 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
-| 737 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
-| 737 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
+| 736 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
+| 738 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
+| 738 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
+| 738 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
+| 738 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
+| 738 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
+| 738 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 744 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 744 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
 | 744 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.23 | 
