@@ -190,7 +190,7 @@
 | 188 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
 | 189 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 190 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 191 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.73 | 
+| 191 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.72 | 
 | 192 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 193 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.58 | 
 | 194 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
@@ -362,7 +362,7 @@
 | 360 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 361 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 362 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 363 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.77 | 
+| 363 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.76 | 
 | 364 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 365 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 366 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
