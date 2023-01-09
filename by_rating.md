@@ -546,18 +546,18 @@
 | 542 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
 | 542 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
 | 542 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
-| 542 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 
 | 542 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 542 | [Tails of Iron](games/t/tails_of_iron.md) | 4.48 | 
-| 550 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 550 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 550 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
-| 550 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 550 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
-| 550 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 550 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
-| 550 | [IXION](games/i/ixion.md) | 4.47 | 
-| 550 | [Scorn](games/s/scorn.md) | 4.47 | 
+| 549 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 549 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 549 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
+| 549 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 549 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
+| 549 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
+| 549 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
+| 549 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
+| 549 | [IXION](games/i/ixion.md) | 4.47 | 
+| 549 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 559 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 559 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 559 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
@@ -804,14 +804,14 @@
 | 799 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 799 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
 | 799 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 805 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 805 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
 | 805 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 805 | [Tharsis](games/t/tharsis.md) | 4.09 | 
 | 805 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 
-| 810 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 810 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
-| 810 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
+| 809 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 809 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
+| 809 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
+| 809 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 813 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
 | 813 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
 | 813 | [Lake](games/l/lake.md) | 4.07 | 

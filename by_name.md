@@ -40,7 +40,7 @@
 | 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
 | 43 | [Ashen](games/a/ashen.md) | 4.34 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
@@ -319,7 +319,7 @@
 | 317 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 318 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 319 | [Hob](games/h/hob.md) | 4.57 | 
-| 320 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 
+| 320 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 321 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 322 | [Horace](games/h/horace.md) | 4.53 | 
 | 323 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.58 | 
