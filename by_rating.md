@@ -452,17 +452,17 @@
 | 440 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
 | 440 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 440 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.55 | 
-| 453 | [VALORANT](games/v/valorant.md) | 4.54 | 
-| 453 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 453 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
-| 453 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
-| 453 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
-| 453 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
-| 453 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
-| 453 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.54 | 
-| 453 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.54 | 
-| 453 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 
-| 453 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 440 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
+| 454 | [VALORANT](games/v/valorant.md) | 4.54 | 
+| 454 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 454 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
+| 454 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
+| 454 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
+| 454 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
+| 454 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
+| 454 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.54 | 
+| 454 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 
+| 454 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 464 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 464 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
 | 464 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
