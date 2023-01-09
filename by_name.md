@@ -63,7 +63,7 @@
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 64 | [Backbone](games/b/backbone.md) | 4.34 | 
+| 64 | [Backbone](games/b/backbone.md) | 4.31 | 
 | 65 | [Bad North](games/b/bad_north.md) | 4.69 | 
 | 66 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 67 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
@@ -309,13 +309,13 @@
 | 307 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 308 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 309 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 310 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.51 | 
+| 310 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.53 | 
 | 311 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 312 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 313 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
 | 314 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 315 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 316 | [High On Life](games/h/high_on_life.md) | 4.68 | 
+| 316 | [High On Life](games/h/high_on_life.md) | 4.67 | 
 | 317 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 318 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 319 | [Hob](games/h/hob.md) | 4.57 | 
@@ -415,7 +415,7 @@
 | 413 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 414 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 
 | 415 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 416 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.81 | 
+| 416 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
 | 417 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 418 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 419 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
@@ -639,7 +639,7 @@
 | 637 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 638 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 639 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
-| 640 | [STG Football](games/s/stg_football.md) | 4.49 | 
+| 640 | [STG Football](games/s/stg_football.md) | 4.48 | 
 | 641 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 642 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 643 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
@@ -737,7 +737,7 @@
 | 735 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 736 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 737 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 738 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.57 | 
+| 738 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.58 | 
 | 739 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
 | 740 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 741 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
