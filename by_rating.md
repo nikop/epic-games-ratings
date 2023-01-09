@@ -541,14 +541,14 @@
 | 525 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 525 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 525 | [STG Football](games/s/stg_football.md) | 4.49 | 
-| 525 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
-| 543 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 543 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 543 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
-| 543 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
-| 543 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
-| 543 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 
-| 543 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
+| 542 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 542 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 542 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
+| 542 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
+| 542 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
+| 542 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 
+| 542 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
+| 542 | [Tails of Iron](games/t/tails_of_iron.md) | 4.48 | 
 | 550 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 550 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 550 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 

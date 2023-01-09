@@ -669,7 +669,7 @@
 | 667 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 668 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 669 | [Tacoma](games/t/tacoma.md) | 4.41 | 
-| 670 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
+| 670 | [Tails of Iron](games/t/tails_of_iron.md) | 4.48 | 
 | 671 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 672 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 673 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
