@@ -488,25 +488,25 @@
 | 480 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 480 | [The Surge](games/t/the_surge.md) | 4.52 | 
 | 480 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 480 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
 | 480 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 480 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
 | 480 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.52 | 
 | 480 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 480 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
-| 495 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 495 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 495 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 495 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 495 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
-| 495 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 495 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
-| 495 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
-| 495 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
-| 495 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 495 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 495 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
-| 495 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.51 | 
+| 494 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 494 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 494 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 494 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 494 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
+| 494 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 494 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
+| 494 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
+| 494 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.51 | 
+| 494 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
+| 494 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 494 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
+| 494 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
+| 494 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.51 | 
 | 508 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 508 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 508 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
