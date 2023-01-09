@@ -1,10 +1,10 @@
 {
   "ID": "f696430be718494fac1d6542cfb22542",
   "Name": "Marvel\u2019s Spider-Man: Miles Morales",
-  "Rating": 4.8,
+  "Rating": 4.81,
   "FirstSeen": "2022-11-18T19:57:18.4413349+00:00",
   "FirstSeenRating": "2022-11-19T02:30:31.0923375+00:00",
-  "LastChanged": "2023-01-07T22:57:20.1235943+00:00",
+  "LastChanged": "2023-01-09T02:06:11.8226879+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-19T02:30:31.0923377+00:00",
@@ -90,12 +90,17 @@
       "Time": "2023-01-07T22:57:20.1235945+00:00",
       "Rating": 4.8,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-09T02:06:11.8226881+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 787
+      "Count": 795
     },
     {
       "Text": "This game has Diverse Characters",

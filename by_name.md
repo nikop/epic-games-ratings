@@ -31,7 +31,7 @@
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 32 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 
+| 32 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.58 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
@@ -289,7 +289,7 @@
 | 287 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 288 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 289 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
-| 290 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 290 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 
 | 291 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 292 | [Good Company](games/g/good_company.md) | 4.41 | 
 | 293 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 
@@ -415,7 +415,7 @@
 | 413 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 414 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 
 | 415 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 416 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
+| 416 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.81 | 
 | 417 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 418 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 419 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
@@ -615,10 +615,10 @@
 | 613 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 614 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
 | 615 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 616 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.82 | 
+| 616 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.81 | 
 | 617 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 618 | [Space Punks](games/s/space_punks.md) | 4.17 | 
-| 619 | [Speed Brawl](games/s/speed_brawl.md) | 4.31 | 
+| 619 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
 | 620 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 621 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 622 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 

@@ -1,5 +1,5 @@
 # Marvel’s Spider-Man: Miles Morales
-Rating: 4.80 (-)  (as of 23.09.2022)  
+Rating: 4.81 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -15,3 +15,4 @@ Rating: 4.80 (-)  (as of 23.09.2022)
 | 2022-12-03 | 4.82 | - |
 | 2022-12-29 | 4.81 | - |
 | 2023-01-07 | 4.80 | - |
+| 2023-01-09 | 4.81 | - |
