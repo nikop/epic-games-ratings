@@ -362,7 +362,7 @@
 | 360 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 361 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 362 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 363 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.76 | 
+| 363 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.77 | 
 | 364 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 365 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 366 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
@@ -823,7 +823,7 @@
 | 821 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 822 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 823 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 824 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 
+| 824 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.89 | 
 | 825 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 826 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 827 | [Windbound](games/w/windbound.md) | 4.19 | 

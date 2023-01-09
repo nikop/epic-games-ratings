@@ -111,16 +111,16 @@
 | 104 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 104 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 104 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 
-| 112 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 112 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 112 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 112 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 112 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 112 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
-| 112 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
-| 112 | [Haven](games/h/haven.md) | 4.76 | 
-| 112 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.76 | 
-| 112 | [shapez](games/s/shapez.md) | 4.76 | 
+| 104 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.77 | 
+| 113 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 113 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 113 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 113 | [Diabotical](games/d/diabotical.md) | 4.76 | 
+| 113 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 113 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
+| 113 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
+| 113 | [Haven](games/h/haven.md) | 4.76 | 
+| 113 | [shapez](games/s/shapez.md) | 4.76 | 
 | 122 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 122 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
@@ -837,7 +837,7 @@
 | 835 | [Warface](games/w/warface.md) | 3.91 | 
 | 835 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 835 | [Ironcast](games/i/ironcast.md) | 3.91 | 
-| 838 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 
+| 838 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.89 | 
 | 839 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 840 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
 | 841 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
