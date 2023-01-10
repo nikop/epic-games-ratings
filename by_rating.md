@@ -119,21 +119,21 @@
 | 113 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 113 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 113 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
+| 113 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
 | 113 | [Haven](games/h/haven.md) | 4.76 | 
 | 113 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
 | 113 | [shapez](games/s/shapez.md) | 4.76 | 
-| 123 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 123 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 123 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 123 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
-| 123 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 123 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
-| 123 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
-| 123 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 
-| 123 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.75 | 
-| 123 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
-| 123 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
+| 124 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 124 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 124 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 124 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
+| 124 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 124 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 124 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
+| 124 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
+| 124 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.75 | 
+| 124 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
+| 124 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
 | 135 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 135 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
 | 135 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
@@ -176,6 +176,7 @@
 | 174 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 174 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 174 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
+| 174 | [Barony](games/b/barony.md) | 4.71 | 
 | 174 | [Timberborn](games/t/timberborn.md) | 4.71 | 
 | 174 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 174 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
@@ -187,23 +188,22 @@
 | 174 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 174 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
 | 174 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 188 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 188 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
-| 188 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 188 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 188 | [Barony](games/b/barony.md) | 4.70 | 
-| 188 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
-| 188 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 188 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
-| 188 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 188 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
-| 188 | [Fez](games/f/fez.md) | 4.70 | 
-| 188 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
-| 188 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 188 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 
-| 188 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.70 | 
-| 188 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
-| 188 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
+| 189 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 189 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
+| 189 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 189 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 189 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
+| 189 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 189 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
+| 189 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 189 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
+| 189 | [Fez](games/f/fez.md) | 4.70 | 
+| 189 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
+| 189 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 189 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 
+| 189 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.70 | 
+| 189 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
+| 189 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 205 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 205 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 205 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
@@ -573,6 +573,7 @@
 | 559 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 572 | [SMITE](games/s/smite.md) | 4.45 | 
 | 572 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 572 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 572 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
 | 572 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 572 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
@@ -584,16 +585,15 @@
 | 572 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 572 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 572 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
-| 585 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
-| 585 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 585 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 585 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 585 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 585 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
-| 585 | [Faeria](games/f/faeria.md) | 4.44 | 
-| 585 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
-| 585 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 585 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
+| 586 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
+| 586 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 586 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 586 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 586 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
+| 586 | [Faeria](games/f/faeria.md) | 4.44 | 
+| 586 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
+| 586 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 586 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
 | 595 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 595 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 595 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
