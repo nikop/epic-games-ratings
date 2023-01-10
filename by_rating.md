@@ -64,18 +64,18 @@
 | 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 62 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 62 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 62 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
 | 62 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
-| 67 | [Sifu](games/s/sifu.md) | 4.81 | 
-| 67 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.81 | 
-| 67 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
-| 67 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
-| 67 | [Superliminal](games/s/superliminal.md) | 4.81 | 
-| 67 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 
-| 67 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
-| 67 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
-| 67 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
-| 67 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
+| 66 | [Sifu](games/s/sifu.md) | 4.81 | 
+| 66 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 66 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.81 | 
+| 66 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
+| 66 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
+| 66 | [Superliminal](games/s/superliminal.md) | 4.81 | 
+| 66 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 
+| 66 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
+| 66 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
+| 66 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
+| 66 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
 | 77 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 77 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 77 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
@@ -126,7 +126,6 @@
 | 124 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 124 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 124 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 124 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 124 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 124 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 124 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
@@ -134,18 +133,19 @@
 | 124 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.75 | 
 | 124 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
 | 124 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
-| 135 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 135 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
-| 135 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 135 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 135 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
-| 135 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
-| 135 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.74 | 
-| 135 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
-| 135 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 135 | [Revita](games/r/revita.md) | 4.74 | 
-| 135 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 135 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
+| 134 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 134 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
+| 134 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 134 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 134 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
+| 134 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.74 | 
+| 134 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
+| 134 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.74 | 
+| 134 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
+| 134 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 134 | [Revita](games/r/revita.md) | 4.74 | 
+| 134 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 134 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
 | 147 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 147 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 147 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
@@ -191,6 +191,7 @@
 | 189 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 189 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 189 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 189 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
 | 189 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 189 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
 | 189 | [The Witness](games/t/the_witness.md) | 4.70 | 
@@ -204,25 +205,24 @@
 | 189 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.70 | 
 | 189 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
 | 189 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
-| 205 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 205 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 205 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
-| 205 | [Days Gone](games/d/days_gone.md) | 4.69 | 
-| 205 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 205 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 205 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 205 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 205 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
-| 205 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 205 | [Bad North](games/b/bad_north.md) | 4.69 | 
-| 205 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
-| 205 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 205 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
-| 205 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 205 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
-| 205 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 205 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.69 | 
-| 205 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 
+| 206 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 206 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 206 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
+| 206 | [Days Gone](games/d/days_gone.md) | 4.69 | 
+| 206 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
+| 206 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 206 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 206 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
+| 206 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 206 | [Bad North](games/b/bad_north.md) | 4.69 | 
+| 206 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
+| 206 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 206 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
+| 206 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
+| 206 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
+| 206 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
+| 206 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.69 | 
+| 206 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 
 | 224 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
 | 224 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 224 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 

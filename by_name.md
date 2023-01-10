@@ -12,7 +12,7 @@
 | 10 | [ABZU](games/a/abzu.md) | 4.62 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 13 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
+| 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
@@ -362,7 +362,7 @@
 | 360 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.60 | 
 | 361 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 362 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 363 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
+| 363 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
 | 364 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.77 | 
 | 365 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 366 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
@@ -715,7 +715,7 @@
 | 713 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 714 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 715 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
-| 716 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
+| 716 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.74 | 
 | 717 | [The Silent Age](games/t/the_silent_age.md) | 4.42 | 
 | 718 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 719 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
