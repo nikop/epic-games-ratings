@@ -845,4 +845,4 @@
 | 842 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 844 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.72 | 
 | 845 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
-| 846 | [Chimeraland](games/c/chimeraland.md) | 3.52 | 
+| 846 | [Chimeraland](games/c/chimeraland.md) | 3.64 | 
