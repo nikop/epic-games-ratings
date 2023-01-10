@@ -259,7 +259,7 @@
 | 257 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 258 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 259 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 260 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
+| 260 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
 | 261 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 262 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
 | 263 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
@@ -551,7 +551,7 @@
 | 549 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 550 | [Road 96](games/r/road_96.md) | 4.60 | 
 | 551 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
-| 552 | [Rogue Company](games/r/rogue_company.md) | 4.36 | 
+| 552 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
 | 553 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 554 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
 | 555 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
