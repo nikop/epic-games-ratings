@@ -198,7 +198,7 @@
 | 196 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.57 | 
 | 197 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 198 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
-| 199 | [DOOM 3](games/d/doom_3.md) | 4.64 | 
+| 199 | [DOOM 3](games/d/doom_3.md) | 4.63 | 
 | 200 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 201 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 202 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
@@ -518,7 +518,7 @@
 | 516 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 517 | [Prey](games/p/prey.md) | 4.62 | 
 | 518 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 519 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.02 | 
+| 519 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 
 | 520 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 521 | [Quake](games/q/quake.md) | 4.78 | 
 | 522 | [Rage 2](games/r/rage_2.md) | 4.28 | 
@@ -577,7 +577,7 @@
 | 575 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 576 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 577 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 578 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.75 | 
+| 578 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
 | 579 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 580 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 581 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
@@ -632,7 +632,7 @@
 | 630 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
 | 631 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
 | 632 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 633 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
+| 633 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
 | 634 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
 | 635 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 636 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
@@ -693,7 +693,7 @@
 | 691 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 692 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 693 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 694 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
+| 694 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 695 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 696 | [The Fall](games/t/the_fall.md) | 4.29 | 
 | 697 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
