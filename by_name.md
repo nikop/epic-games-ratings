@@ -111,7 +111,7 @@
 | 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 110 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
-| 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 113 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 114 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 115 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
@@ -826,7 +826,7 @@
 | 824 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.89 | 
 | 825 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 826 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
-| 827 | [Windbound](games/w/windbound.md) | 4.19 | 
+| 827 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 828 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
 | 829 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
 | 830 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
