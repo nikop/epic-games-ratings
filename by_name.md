@@ -343,7 +343,7 @@
 | 341 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
 | 342 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 343 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 344 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 344 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 
 | 345 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 346 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 347 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
@@ -520,7 +520,7 @@
 | 518 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 519 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 
 | 520 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 521 | [Quake](games/q/quake.md) | 4.78 | 
+| 521 | [Quake](games/q/quake.md) | 4.77 | 
 | 522 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 523 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 524 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
