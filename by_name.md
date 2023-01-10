@@ -232,7 +232,7 @@
 | 230 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.55 | 
 | 231 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
 | 232 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 233 | [Fangs](games/f/fangs.md) | 4.13 | 
+| 233 | [Fangs](games/f/fangs.md) | 4.05 | 
 | 234 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 235 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.23 | 
 | 236 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 
@@ -403,7 +403,7 @@
 | 401 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 402 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
 | 403 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
-| 404 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.66 | 
+| 404 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.67 | 
 | 405 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 406 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 407 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
