@@ -153,6 +153,7 @@
 | 147 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 147 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 147 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 147 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.73 | 
 | 147 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
 | 147 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 147 | [FUSER™](games/f/fuser™.md) | 4.73 | 
@@ -163,31 +164,30 @@
 | 147 | [King of Retail](games/k/king_of_retail.md) | 4.73 | 
 | 147 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 147 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 164 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 164 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 164 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 164 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.72 | 
-| 164 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 164 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
-| 164 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 164 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 164 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
-| 164 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
-| 174 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 174 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 174 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
-| 174 | [Barony](games/b/barony.md) | 4.71 | 
-| 174 | [Timberborn](games/t/timberborn.md) | 4.71 | 
-| 174 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 174 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
-| 174 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 174 | [Northgard](games/n/northgard.md) | 4.71 | 
-| 174 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 
-| 174 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
-| 174 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 174 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
-| 174 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
-| 174 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
+| 165 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 165 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 165 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 165 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 165 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
+| 165 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 165 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
+| 165 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 165 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
+| 165 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
+| 175 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 175 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 175 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
+| 175 | [Barony](games/b/barony.md) | 4.71 | 
+| 175 | [Timberborn](games/t/timberborn.md) | 4.71 | 
+| 175 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 175 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 175 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 175 | [Northgard](games/n/northgard.md) | 4.71 | 
+| 175 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
+| 175 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
+| 175 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
+| 175 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
+| 175 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
 | 189 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 189 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 189 | [For The King](games/f/for_the_king.md) | 4.70 | 
@@ -370,41 +370,41 @@
 | 354 | [Little Inferno](games/l/little_inferno.md) | 4.60 | 
 | 354 | [Breathedge](games/b/breathedge.md) | 4.60 | 
 | 354 | [GRIME](games/g/grime.md) | 4.60 | 
+| 354 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.60 | 
 | 354 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 354 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.60 | 
 | 354 | [NORCO](games/n/norco.md) | 4.60 | 
-| 374 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 374 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 374 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
-| 374 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 374 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
-| 374 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
-| 374 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
-| 374 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
-| 374 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
-| 374 | [RiME](games/r/rime.md) | 4.59 | 
-| 374 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
-| 374 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
-| 374 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
-| 387 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
-| 387 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 387 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 387 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
-| 387 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 387 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 387 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 387 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.58 | 
-| 387 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
-| 387 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
-| 387 | [Moving Out](games/m/moving_out.md) | 4.58 | 
-| 387 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 387 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
-| 387 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
-| 387 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 387 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.58 | 
-| 387 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
-| 387 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.58 | 
-| 387 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.58 | 
+| 375 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 375 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 375 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
+| 375 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 375 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 375 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
+| 375 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
+| 375 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
+| 375 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
+| 375 | [RiME](games/r/rime.md) | 4.59 | 
+| 375 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
+| 375 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
+| 375 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
+| 388 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
+| 388 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 388 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 388 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
+| 388 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 388 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
+| 388 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 388 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.58 | 
+| 388 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
+| 388 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
+| 388 | [Moving Out](games/m/moving_out.md) | 4.58 | 
+| 388 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
+| 388 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
+| 388 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
+| 388 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
+| 388 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.58 | 
+| 388 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
+| 388 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.58 | 
 | 406 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 406 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 406 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
