@@ -157,7 +157,7 @@
 | 155 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 156 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 157 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 158 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 158 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 159 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 160 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
 | 161 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
@@ -414,8 +414,8 @@
 | 412 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 413 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 414 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 415 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 
-| 416 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
+| 415 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 
+| 416 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 417 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
 | 418 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 419 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 

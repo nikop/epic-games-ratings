@@ -72,5 +72,10 @@
       "NumberOfRatings": null
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game is Relaxing",
+      "Count": 20
+    }
+  ]
 }
