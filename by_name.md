@@ -256,7 +256,7 @@
 | 254 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 255 | [Firework](games/f/firework.md) | 4.89 | 
 | 256 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 257 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 
+| 257 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.57 | 
 | 258 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 259 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 260 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
