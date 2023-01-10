@@ -111,7 +111,7 @@
 | 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 110 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
-| 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 113 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 114 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 115 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
@@ -222,7 +222,7 @@
 | 220 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 221 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
 | 222 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 
-| 223 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
+| 223 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
 | 224 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 225 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 226 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
@@ -679,7 +679,7 @@
 | 677 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 678 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
 | 679 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
-| 680 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.42 | 
+| 680 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
 | 681 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.16 | 
 | 682 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 683 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
