@@ -17,7 +17,6 @@
 | 11 | [Firework](games/f/firework.md) | 4.89 | 
 | 11 | [Mago](games/m/mago.md) | 4.89 | 
 | 17 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 17 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 17 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.88 | 
 | 17 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 17 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
@@ -25,9 +24,10 @@
 | 17 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 17 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 17 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
-| 26 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 26 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 26 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 25 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
+| 25 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
+| 25 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 25 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 29 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 29 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 29 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 
@@ -453,16 +453,16 @@
 | 440 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 440 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.55 | 
 | 440 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
-| 454 | [VALORANT](games/v/valorant.md) | 4.54 | 
-| 454 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 454 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
-| 454 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
-| 454 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
-| 454 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
-| 454 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
-| 454 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.54 | 
-| 454 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 
-| 454 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 440 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.55 | 
+| 455 | [VALORANT](games/v/valorant.md) | 4.54 | 
+| 455 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 455 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
+| 455 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
+| 455 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
+| 455 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
+| 455 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
+| 455 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 
+| 455 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 464 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 464 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
 | 464 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
@@ -722,12 +722,12 @@
 | 717 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 717 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
 | 722 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 722 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 722 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
 | 722 | [Dark Light](games/d/dark_light.md) | 4.28 | 
-| 725 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
-| 725 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
-| 725 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
-| 725 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
+| 726 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
+| 726 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
+| 726 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
 | 729 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 729 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 729 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
