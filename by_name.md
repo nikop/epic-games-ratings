@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.60 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -213,7 +213,7 @@
 | 211 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 212 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 213 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 214 | [Encased](games/e/encased.md) | 4.39 | 
+| 214 | [Encased](games/e/encased.md) | 4.38 | 
 | 215 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 216 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 217 | [EVE Online](games/e/eve_online.md) | 4.26 | 

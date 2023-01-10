@@ -491,22 +491,22 @@
 | 482 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 482 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 482 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 482 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
 | 482 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.52 | 
 | 482 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 482 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
-| 495 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 495 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 495 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 495 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 495 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
-| 495 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 495 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
-| 495 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
-| 495 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.51 | 
-| 495 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
-| 495 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 495 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 495 | [Brawlhalla](games/b/brawlhalla.md) | 4.51 | 
+| 496 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 496 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 496 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 496 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 496 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
+| 496 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 496 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
+| 496 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
+| 496 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.51 | 
+| 496 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
+| 496 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 496 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 508 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 508 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 508 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
@@ -648,18 +648,18 @@
 | 642 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
 | 642 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
 | 642 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
-| 642 | [Encased](games/e/encased.md) | 4.39 | 
 | 642 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 642 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 642 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.39 | 
-| 653 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 653 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
-| 653 | [Othercide](games/o/othercide.md) | 4.38 | 
-| 653 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
-| 653 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
-| 653 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 653 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
-| 653 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
+| 652 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 652 | [Encased](games/e/encased.md) | 4.38 | 
+| 652 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
+| 652 | [Othercide](games/o/othercide.md) | 4.38 | 
+| 652 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
+| 652 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
+| 652 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 652 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
+| 652 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 661 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 661 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 661 | [Core](games/c/core.md) | 4.37 | 
