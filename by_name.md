@@ -305,7 +305,7 @@
 | 303 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 304 | [Hammerting](games/h/hammerting.md) | 4.36 | 
 | 305 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
-| 306 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
+| 306 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.61 | 
 | 307 | [Haven](games/h/haven.md) | 4.76 | 
 | 308 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 309 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
