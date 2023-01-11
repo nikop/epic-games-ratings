@@ -310,7 +310,7 @@
 | 308 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 309 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 310 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 311 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.53 | 
+| 311 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.54 | 
 | 312 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 313 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
 | 314 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
@@ -690,7 +690,7 @@
 | 688 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 689 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 690 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 691 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
+| 691 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
 | 692 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 693 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 694 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
@@ -738,7 +738,7 @@
 | 736 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 737 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 738 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 739 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.58 | 
+| 739 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.57 | 
 | 740 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
 | 741 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 742 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 

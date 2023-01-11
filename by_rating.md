@@ -28,14 +28,14 @@
 | 25 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 25 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 25 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 29 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 29 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 29 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 
-| 29 | [TUNIC](games/t/tunic.md) | 4.86 | 
-| 29 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
-| 29 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
-| 29 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.86 | 
-| 29 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
+| 25 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
+| 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 30 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 30 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 
+| 30 | [TUNIC](games/t/tunic.md) | 4.86 | 
+| 30 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
+| 30 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
+| 30 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.86 | 
 | 37 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 37 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 37 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
@@ -405,26 +405,26 @@
 | 387 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 387 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.58 | 
 | 387 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
-| 387 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.58 | 
-| 407 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 407 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 407 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 407 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
-| 407 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 407 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
-| 407 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 407 | [Hob](games/h/hob.md) | 4.57 | 
-| 407 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
-| 407 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 407 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.57 | 
-| 407 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
-| 407 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
-| 407 | [Isonzo](games/i/isonzo.md) | 4.57 | 
-| 407 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
-| 407 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.57 | 
-| 407 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
-| 407 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
-| 407 | [The Medium](games/t/the_medium.md) | 4.57 | 
+| 406 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 406 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 406 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 406 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
+| 406 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 406 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 406 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 406 | [Hob](games/h/hob.md) | 4.57 | 
+| 406 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
+| 406 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 406 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.57 | 
+| 406 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
+| 406 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
+| 406 | [Isonzo](games/i/isonzo.md) | 4.57 | 
+| 406 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
+| 406 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.57 | 
+| 406 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
+| 406 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
+| 406 | [The Medium](games/t/the_medium.md) | 4.57 | 
+| 406 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.57 | 
 | 426 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 426 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 426 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
@@ -461,26 +461,26 @@
 | 454 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
 | 454 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 454 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.54 | 
+| 454 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.54 | 
 | 454 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 
 | 454 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 464 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 464 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
-| 464 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 464 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 464 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
-| 464 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 464 | [Just Die Already](games/j/just_die_already.md) | 4.53 | 
-| 464 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 464 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
-| 464 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 464 | [RUINER](games/r/ruiner.md) | 4.53 | 
-| 464 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 464 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 464 | [Horace](games/h/horace.md) | 4.53 | 
-| 464 | [Aztez](games/a/aztez.md) | 4.53 | 
-| 464 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 464 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.53 | 
-| 464 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.53 | 
+| 465 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
+| 465 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
+| 465 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 465 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 465 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
+| 465 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
+| 465 | [Just Die Already](games/j/just_die_already.md) | 4.53 | 
+| 465 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 465 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
+| 465 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
+| 465 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 465 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 465 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 465 | [Horace](games/h/horace.md) | 4.53 | 
+| 465 | [Aztez](games/a/aztez.md) | 4.53 | 
+| 465 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
+| 465 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.53 | 
 | 482 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 482 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 482 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
