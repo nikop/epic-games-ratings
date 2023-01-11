@@ -1,10 +1,10 @@
 {
   "ID": "076c0aa2704a4741a2cb7e2436efd2fd",
   "Name": "Potion Craft: Alchemist Simulator",
-  "Rating": 4.52,
+  "Rating": 4.53,
   "FirstSeen": "2022-12-14T02:15:37.2843558+00:00",
   "FirstSeenRating": "2022-12-27T02:02:09.6574842+00:00",
-  "LastChanged": "2023-01-06T02:11:23.3034502+00:00",
+  "LastChanged": "2023-01-11T02:10:26.1163111+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-27T02:02:09.6574845+00:00",
@@ -34,6 +34,11 @@
     {
       "Time": "2023-01-06T02:11:23.3034505+00:00",
       "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-11T02:10:26.1163113+00:00",
+      "Rating": 4.53,
       "NumberOfRatings": null
     }
   ],

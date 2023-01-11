@@ -153,7 +153,6 @@
 | 147 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 147 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 147 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 147 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.73 | 
 | 147 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
 | 147 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 147 | [FUSER™](games/f/fuser™.md) | 4.73 | 
@@ -164,16 +163,17 @@
 | 147 | [King of Retail](games/k/king_of_retail.md) | 4.73 | 
 | 147 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 147 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 165 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 165 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 165 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 165 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 165 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
-| 165 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 165 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
-| 165 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 165 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
-| 165 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
+| 164 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 164 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 164 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 164 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.72 | 
+| 164 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 164 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
+| 164 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 164 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
+| 164 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 164 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
+| 164 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
 | 175 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 175 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 175 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
@@ -368,25 +368,25 @@
 | 354 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
 | 354 | [Road 96](games/r/road_96.md) | 4.60 | 
 | 354 | [Little Inferno](games/l/little_inferno.md) | 4.60 | 
-| 354 | [Breathedge](games/b/breathedge.md) | 4.60 | 
 | 354 | [GRIME](games/g/grime.md) | 4.60 | 
 | 354 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.60 | 
 | 354 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 354 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.60 | 
 | 354 | [NORCO](games/n/norco.md) | 4.60 | 
-| 375 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 375 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 375 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
-| 375 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 375 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
-| 375 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
-| 375 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
-| 375 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
-| 375 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
-| 375 | [RiME](games/r/rime.md) | 4.59 | 
-| 375 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
-| 375 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
-| 375 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
+| 374 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 374 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 374 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
+| 374 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 374 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 374 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
+| 374 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
+| 374 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
+| 374 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
+| 374 | [RiME](games/r/rime.md) | 4.59 | 
+| 374 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
+| 374 | [Breathedge](games/b/breathedge.md) | 4.59 | 
+| 374 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
+| 374 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 388 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
 | 388 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 388 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -471,7 +471,6 @@
 | 464 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 464 | [Just Die Already](games/j/just_die_already.md) | 4.53 | 
 | 464 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 464 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 464 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
 | 464 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 464 | [RUINER](games/r/ruiner.md) | 4.53 | 
@@ -481,17 +480,18 @@
 | 464 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 464 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 464 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.53 | 
+| 464 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.53 | 
 | 482 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 482 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 482 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 482 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 482 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
 | 482 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 482 | [The Surge](games/t/the_surge.md) | 4.52 | 
 | 482 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 482 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 482 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
 | 482 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
-| 482 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.52 | 
 | 482 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 482 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 495 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
@@ -769,24 +769,24 @@
 | 765 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 765 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
 | 765 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 765 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 
 | 765 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
-| 772 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 772 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 772 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
-| 772 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
-| 772 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.18 | 
-| 772 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
-| 772 | [Somerville](games/s/somerville.md) | 4.18 | 
+| 771 | [Windbound](games/w/windbound.md) | 4.18 | 
+| 771 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 771 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
+| 771 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
+| 771 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.18 | 
+| 771 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
+| 771 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 
+| 771 | [Somerville](games/s/somerville.md) | 4.18 | 
 | 779 | [Space Punks](games/s/space_punks.md) | 4.17 | 
-| 780 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
-| 780 | [Gone Home](games/g/gone_home.md) | 4.16 | 
-| 780 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
-| 780 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 780 | [Submerged](games/s/submerged.md) | 4.16 | 
-| 780 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
-| 780 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
-| 780 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.16 | 
+| 779 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.17 | 
+| 781 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
+| 781 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 781 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
+| 781 | [Family Man](games/f/family_man.md) | 4.16 | 
+| 781 | [Submerged](games/s/submerged.md) | 4.16 | 
+| 781 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 781 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
 | 788 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 788 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 788 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 

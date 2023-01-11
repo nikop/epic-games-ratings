@@ -95,7 +95,7 @@
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
 | 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
-| 96 | [Breathedge](games/b/breathedge.md) | 4.60 | 
+| 96 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 99 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
@@ -191,7 +191,7 @@
 | 189 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
 | 190 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 191 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 192 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.73 | 
+| 192 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.72 | 
 | 193 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 194 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.60 | 
 | 195 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
@@ -293,7 +293,7 @@
 | 291 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 
 | 292 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 293 | [Good Company](games/g/good_company.md) | 4.41 | 
-| 294 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 
+| 294 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 
 | 295 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 296 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 297 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
@@ -511,7 +511,7 @@
 | 509 | [Pine](games/p/pine.md) | 4.14 | 
 | 510 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
 | 511 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 512 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.52 | 
+| 512 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.53 | 
 | 513 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 514 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 515 | [Predecessor](games/p/predecessor.md) | 4.41 | 
@@ -681,7 +681,7 @@
 | 679 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
 | 680 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 681 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
-| 682 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.16 | 
+| 682 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.17 | 
 | 683 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 684 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 685 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
@@ -753,7 +753,7 @@
 | 751 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 752 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
 | 753 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
-| 754 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
+| 754 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
 | 755 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 756 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 757 | [Torchlight](games/t/torchlight.md) | 4.35 | 
