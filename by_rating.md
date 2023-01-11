@@ -520,26 +520,26 @@
 | 508 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
 | 508 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 508 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 508 | [CryoFall](games/c/cryofall.md) | 4.50 | 
 | 508 | [Sable](games/s/sable.md) | 4.50 | 
 | 508 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
 | 508 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 508 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
-| 526 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 526 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 526 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 526 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 526 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
-| 526 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 526 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 526 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 526 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 526 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 526 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
-| 526 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
-| 526 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 526 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 526 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 525 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 525 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 525 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 525 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 525 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
+| 525 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 525 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 525 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 525 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 525 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 525 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
+| 525 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
+| 525 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 525 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 525 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 525 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 541 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 541 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 541 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
@@ -779,14 +779,14 @@
 | 772 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
 | 772 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 
 | 779 | [Space Punks](games/s/space_punks.md) | 4.17 | 
+| 779 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
 | 779 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.17 | 
-| 781 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
-| 781 | [Gone Home](games/g/gone_home.md) | 4.16 | 
-| 781 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
-| 781 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 781 | [Submerged](games/s/submerged.md) | 4.16 | 
-| 781 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
-| 781 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
+| 782 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 782 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
+| 782 | [Family Man](games/f/family_man.md) | 4.16 | 
+| 782 | [Submerged](games/s/submerged.md) | 4.16 | 
+| 782 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 782 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
 | 788 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 788 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 788 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 

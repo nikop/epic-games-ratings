@@ -142,7 +142,7 @@
 | 140 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 141 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
 | 142 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 143 | [CryoFall](games/c/cryofall.md) | 4.50 | 
+| 143 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 144 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 145 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
 | 146 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
@@ -698,7 +698,7 @@
 | 696 | [The Fall](games/t/the_fall.md) | 4.29 | 
 | 697 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
 | 698 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
-| 699 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
+| 699 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
 | 700 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 
 | 701 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 
 | 702 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
