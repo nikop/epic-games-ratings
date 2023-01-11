@@ -610,7 +610,7 @@
 | 608 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
 | 609 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 610 | [SOMA](games/s/soma.md) | 4.64 | 
-| 611 | [Somerville](games/s/somerville.md) | 4.18 | 
+| 611 | [Somerville](games/s/somerville.md) | 4.20 | 
 | 612 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
 | 613 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
 | 614 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
