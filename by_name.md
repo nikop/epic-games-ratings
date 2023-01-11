@@ -428,7 +428,7 @@
 | 426 | [Minit](games/m/minit.md) | 4.55 | 
 | 427 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.92 | 
 | 428 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 429 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
+| 429 | [Mortal Shell](games/m/mortal_shell.md) | 4.24 | 
 | 430 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 431 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
 | 432 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
@@ -588,7 +588,7 @@
 | 586 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
 | 587 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 588 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 589 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 
+| 589 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
 | 590 | [shapez](games/s/shapez.md) | 4.76 | 
 | 591 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 592 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
