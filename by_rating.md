@@ -844,6 +844,6 @@
 | 842 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 843 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 843 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
-| 845 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.72 | 
-| 846 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
-| 847 | [Chimeraland](games/c/chimeraland.md) | 3.64 | 
+| 845 | [Chimeraland](games/c/chimeraland.md) | 3.74 | 
+| 846 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.72 | 
+| 847 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
