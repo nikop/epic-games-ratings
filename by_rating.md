@@ -577,7 +577,6 @@
 | 572 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
 | 572 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 572 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 572 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.45 | 
 | 572 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 572 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 572 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
@@ -585,16 +584,17 @@
 | 572 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 572 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 572 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
-| 586 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
-| 586 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 586 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 586 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 586 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
-| 586 | [Faeria](games/f/faeria.md) | 4.44 | 
-| 586 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
-| 586 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 586 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
-| 586 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
+| 585 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
+| 585 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 585 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 585 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 585 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
+| 585 | [Faeria](games/f/faeria.md) | 4.44 | 
+| 585 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
+| 585 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
+| 585 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 585 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
+| 585 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
 | 596 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 596 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 596 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
@@ -694,17 +694,17 @@
 | 688 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 693 | [Automachef](games/a/automachef.md) | 4.33 | 
 | 693 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.33 | 
-| 695 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 695 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.32 | 
-| 695 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
-| 695 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.32 | 
-| 695 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
-| 695 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
-| 695 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
-| 695 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
-| 695 | [Filament](games/f/filament.md) | 4.32 | 
-| 695 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
-| 695 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
+| 693 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 
+| 696 | [Vampyr](games/v/vampyr.md) | 4.32 | 
+| 696 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.32 | 
+| 696 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
+| 696 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.32 | 
+| 696 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
+| 696 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
+| 696 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
+| 696 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
+| 696 | [Filament](games/f/filament.md) | 4.32 | 
+| 696 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
 | 706 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 706 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 706 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
