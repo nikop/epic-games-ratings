@@ -379,7 +379,6 @@
 | 374 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 374 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 374 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
-| 374 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
 | 374 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
 | 374 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 374 | [RiME](games/r/rime.md) | 4.59 | 
@@ -387,25 +386,26 @@
 | 374 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 374 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
 | 374 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
-| 388 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
-| 388 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 388 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 388 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
-| 388 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 388 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 388 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 388 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.58 | 
-| 388 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
-| 388 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
-| 388 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
-| 388 | [Moving Out](games/m/moving_out.md) | 4.58 | 
-| 388 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 388 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
-| 388 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
-| 388 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 388 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.58 | 
-| 388 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
-| 388 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.58 | 
+| 387 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
+| 387 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 387 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 387 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
+| 387 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 387 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
+| 387 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 387 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.58 | 
+| 387 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
+| 387 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
+| 387 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
+| 387 | [Moving Out](games/m/moving_out.md) | 4.58 | 
+| 387 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
+| 387 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
+| 387 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
+| 387 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
+| 387 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
+| 387 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.58 | 
+| 387 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
+| 387 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.58 | 
 | 407 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 407 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 407 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
@@ -776,17 +776,17 @@
 | 772 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 772 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
 | 772 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.18 | 
-| 772 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
 | 772 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 
-| 779 | [Space Punks](games/s/space_punks.md) | 4.17 | 
-| 779 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
-| 779 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.17 | 
-| 782 | [Gone Home](games/g/gone_home.md) | 4.16 | 
-| 782 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
-| 782 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 782 | [Submerged](games/s/submerged.md) | 4.16 | 
-| 782 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
-| 782 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
+| 778 | [Space Punks](games/s/space_punks.md) | 4.17 | 
+| 778 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
+| 778 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.17 | 
+| 781 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 781 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
+| 781 | [Family Man](games/f/family_man.md) | 4.16 | 
+| 781 | [Submerged](games/s/submerged.md) | 4.16 | 
+| 781 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 781 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
+| 781 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.16 | 
 | 788 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 788 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 788 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
