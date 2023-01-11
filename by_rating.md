@@ -17,6 +17,7 @@
 | 11 | [Firework](games/f/firework.md) | 4.89 | 
 | 11 | [Mago](games/m/mago.md) | 4.89 | 
 | 17 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
+| 17 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 17 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.88 | 
 | 17 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 17 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
@@ -24,11 +25,10 @@
 | 17 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 17 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 17 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
-| 25 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
-| 25 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 25 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 25 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 25 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
+| 26 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
+| 26 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 26 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 26 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
 | 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 30 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 30 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 
@@ -770,13 +770,13 @@
 | 766 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 766 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
 | 766 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 766 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.19 | 
 | 766 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
-| 772 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 772 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 772 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
-| 772 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
-| 772 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.18 | 
-| 772 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 
+| 773 | [Windbound](games/w/windbound.md) | 4.18 | 
+| 773 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 773 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
+| 773 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
+| 773 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 
 | 778 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 778 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
 | 778 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.17 | 
