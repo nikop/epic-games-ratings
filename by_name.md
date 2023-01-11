@@ -134,7 +134,7 @@
 | 132 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 133 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.72 | 
 | 134 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 135 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 135 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
 | 136 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 137 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 138 | [Crayta](games/c/crayta.md) | 4.19 | 
@@ -223,7 +223,7 @@
 | 221 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 222 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
 | 223 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 224 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
+| 224 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
 | 225 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 226 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 227 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
@@ -343,7 +343,7 @@
 | 341 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
 | 342 | [Inscryption](games/i/inscryption.md) | 4.85 | 
 | 343 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 344 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 
+| 344 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
 | 345 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 346 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 347 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
