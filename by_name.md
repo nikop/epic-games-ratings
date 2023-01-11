@@ -685,7 +685,7 @@
 | 683 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 684 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 685 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 686 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.85 | 
+| 686 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.86 | 
 | 687 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 688 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 689 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 

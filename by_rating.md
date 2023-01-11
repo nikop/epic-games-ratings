@@ -34,19 +34,19 @@
 | 29 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 29 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
 | 29 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
+| 29 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.86 | 
 | 29 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
-| 36 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 36 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 36 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 36 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
-| 36 | [Inscryption](games/i/inscryption.md) | 4.85 | 
-| 36 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
-| 36 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
-| 36 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
-| 36 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
-| 36 | [Huntdown](games/h/huntdown.md) | 4.85 | 
-| 36 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.85 | 
-| 36 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 
+| 37 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 37 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 37 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
+| 37 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
+| 37 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 37 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
+| 37 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 37 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
+| 37 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
+| 37 | [Huntdown](games/h/huntdown.md) | 4.85 | 
+| 37 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 
 | 48 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 48 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 48 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
