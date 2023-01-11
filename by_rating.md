@@ -17,7 +17,6 @@
 | 11 | [Firework](games/f/firework.md) | 4.89 | 
 | 11 | [Mago](games/m/mago.md) | 4.89 | 
 | 17 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 17 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 17 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.88 | 
 | 17 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 17 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
@@ -25,9 +24,10 @@
 | 17 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 17 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 17 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
-| 26 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 26 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 26 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 25 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
+| 25 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
+| 25 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 25 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 29 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 29 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 29 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 
@@ -127,25 +127,25 @@
 | 125 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 125 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 125 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 125 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 125 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 125 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 125 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.75 | 
 | 125 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
 | 125 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
-| 134 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 134 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
-| 134 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 134 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 134 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
-| 134 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.74 | 
-| 134 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
-| 134 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.74 | 
-| 134 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
-| 134 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 134 | [Revita](games/r/revita.md) | 4.74 | 
-| 134 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 134 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
+| 133 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 133 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
+| 133 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 133 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 133 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
+| 133 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.74 | 
+| 133 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 133 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
+| 133 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.74 | 
+| 133 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
+| 133 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 133 | [Revita](games/r/revita.md) | 4.74 | 
+| 133 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 133 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
 | 147 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 147 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 147 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
