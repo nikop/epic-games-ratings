@@ -841,7 +841,7 @@
 | 839 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
 | 840 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 841 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 842 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
+| 842 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
 | 843 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 844 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
 | 845 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 

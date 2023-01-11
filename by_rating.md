@@ -739,16 +739,16 @@
 | 737 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 738 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 738 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
-| 738 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 
 | 738 | [Mortal Shell](games/m/mortal_shell.md) | 4.24 | 
 | 738 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
 | 738 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
 | 738 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
-| 745 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 745 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 745 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.23 | 
-| 745 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 745 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
+| 744 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 744 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
+| 744 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
+| 744 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.23 | 
+| 744 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
+| 744 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
 | 750 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 750 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
 | 752 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.21 | 
