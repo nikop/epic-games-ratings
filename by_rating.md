@@ -414,7 +414,6 @@
 | 406 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 406 | [Hob](games/h/hob.md) | 4.57 | 
 | 406 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
-| 406 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
 | 406 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.57 | 
 | 406 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
 | 406 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
@@ -425,20 +424,21 @@
 | 406 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
 | 406 | [The Medium](games/t/the_medium.md) | 4.57 | 
 | 406 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.57 | 
-| 426 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 426 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 426 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 426 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 426 | [Hue](games/h/hue.md) | 4.56 | 
-| 426 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 426 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
-| 426 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
-| 426 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
-| 426 | [Warpips](games/w/warpips.md) | 4.56 | 
-| 426 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 426 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 426 | [Observation](games/o/observation.md) | 4.56 | 
-| 426 | [Redout 2](games/r/redout_2.md) | 4.56 | 
+| 425 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 425 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 425 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 425 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 425 | [Hue](games/h/hue.md) | 4.56 | 
+| 425 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 425 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 425 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
+| 425 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
+| 425 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
+| 425 | [Warpips](games/w/warpips.md) | 4.56 | 
+| 425 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 425 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 425 | [Observation](games/o/observation.md) | 4.56 | 
+| 425 | [Redout 2](games/r/redout_2.md) | 4.56 | 
 | 440 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 440 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 440 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -472,6 +472,7 @@
 | 465 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
 | 465 | [Just Die Already](games/j/just_die_already.md) | 4.53 | 
 | 465 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 465 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 465 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
 | 465 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 465 | [RUINER](games/r/ruiner.md) | 4.53 | 
@@ -481,19 +482,18 @@
 | 465 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 465 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 465 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.53 | 
-| 482 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 482 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 482 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 482 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 482 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
-| 482 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 482 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 482 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 482 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 482 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 482 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
-| 482 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 482 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 483 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 483 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 483 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 483 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 483 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 483 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 483 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 483 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 483 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 483 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
+| 483 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 483 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 495 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 495 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 495 | [MythForce](games/m/mythforce.md) | 4.51 | 
@@ -547,6 +547,7 @@
 | 541 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 541 | [STG Football](games/s/stg_football.md) | 4.48 | 
 | 541 | [Tails of Iron](games/t/tails_of_iron.md) | 4.48 | 
+| 548 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 548 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 548 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 548 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -558,19 +559,18 @@
 | 548 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 548 | [IXION](games/i/ixion.md) | 4.47 | 
 | 548 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 559 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 559 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 559 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 559 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 559 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 559 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
-| 559 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
-| 559 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
-| 559 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
-| 559 | [Chorus](games/c/chorus.md) | 4.46 | 
-| 559 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
-| 559 | [Train Valley](games/t/train_valley.md) | 4.46 | 
-| 559 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 560 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 560 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 560 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
+| 560 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 560 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
+| 560 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
+| 560 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
+| 560 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
+| 560 | [Chorus](games/c/chorus.md) | 4.46 | 
+| 560 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
+| 560 | [Train Valley](games/t/train_valley.md) | 4.46 | 
+| 560 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 572 | [SMITE](games/s/smite.md) | 4.45 | 
 | 572 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 572 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
