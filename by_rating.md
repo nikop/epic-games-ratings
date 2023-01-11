@@ -102,16 +102,16 @@
 | 100 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 100 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 103 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 103 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 103 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 103 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 
-| 103 | [Quake](games/q/quake.md) | 4.77 | 
-| 103 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
-| 103 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
-| 103 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
-| 103 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 
-| 103 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.77 | 
+| 100 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.78 | 
+| 104 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 104 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 104 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
+| 104 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 
+| 104 | [Quake](games/q/quake.md) | 4.77 | 
+| 104 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
+| 104 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
+| 104 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
+| 104 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 
 | 113 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 113 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 113 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 

@@ -363,7 +363,7 @@
 | 361 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 362 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 363 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
-| 364 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.77 | 
+| 364 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.78 | 
 | 365 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 366 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 367 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
