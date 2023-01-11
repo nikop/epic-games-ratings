@@ -229,7 +229,7 @@
 | 227 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 228 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 229 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 230 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.55 | 
+| 230 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.54 | 
 | 231 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
 | 232 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 233 | [Fangs](games/f/fangs.md) | 4.05 | 
@@ -635,7 +635,7 @@
 | 633 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
 | 634 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
 | 635 | [Starsand](games/s/starsand.md) | 4.21 | 
-| 636 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
+| 636 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 637 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
 | 638 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 639 | [Steelrising](games/s/steelrising.md) | 4.26 | 
