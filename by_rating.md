@@ -498,7 +498,6 @@
 | 495 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 495 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 495 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 495 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
 | 495 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 495 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 495 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
@@ -507,23 +506,24 @@
 | 495 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 495 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 495 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 508 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 508 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 508 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 508 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 508 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 508 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
-| 508 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
-| 508 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 508 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
-| 508 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 508 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
-| 508 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
-| 508 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 508 | [Sable](games/s/sable.md) | 4.50 | 
-| 508 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
-| 508 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 508 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
+| 507 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 507 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 507 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
+| 507 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 507 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 507 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
+| 507 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
+| 507 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 507 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
+| 507 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 507 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
+| 507 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 507 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
+| 507 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 507 | [Sable](games/s/sable.md) | 4.50 | 
+| 507 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
+| 507 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
+| 507 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 525 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 525 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 525 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
