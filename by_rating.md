@@ -9,15 +9,15 @@
 | 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 7 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
 | 7 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
+| 7 | [Mago](games/m/mago.md) | 4.90 | 
 | 7 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 
-| 11 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
-| 11 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
-| 11 | [God of War](games/g/god_of_war.md) | 4.89 | 
-| 11 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
-| 11 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
-| 11 | [RimWorld](games/r/rimworld.md) | 4.89 | 
-| 11 | [Firework](games/f/firework.md) | 4.89 | 
-| 11 | [Mago](games/m/mago.md) | 4.89 | 
+| 12 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
+| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
+| 12 | [God of War](games/g/god_of_war.md) | 4.89 | 
+| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
+| 12 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
+| 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 
+| 12 | [Firework](games/f/firework.md) | 4.89 | 
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 19 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
@@ -323,6 +323,7 @@
 | 312 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
 | 312 | [Roguebook](games/r/roguebook.md) | 4.62 | 
 | 312 | [Mutazione](games/m/mutazione.md) | 4.62 | 
+| 312 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.62 | 
 | 312 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 312 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 
 | 312 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
@@ -330,29 +331,28 @@
 | 312 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
 | 312 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.62 | 
 | 312 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 331 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
-| 331 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 331 | [Warframe](games/w/warframe.md) | 4.61 | 
-| 331 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
-| 331 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 331 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 331 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 331 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 331 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
-| 331 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 331 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 
-| 331 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 331 | [20XX](games/2/20xx.md) | 4.61 | 
-| 331 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 331 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
-| 331 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
-| 331 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
-| 331 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 
-| 331 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.61 | 
-| 331 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.61 | 
-| 331 | [Darkwood](games/d/darkwood.md) | 4.61 | 
-| 331 | [GigaBash](games/g/gigabash.md) | 4.61 | 
-| 331 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
+| 332 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
+| 332 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 332 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 332 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
+| 332 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 332 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 332 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 332 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 332 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 332 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 332 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 
+| 332 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 332 | [20XX](games/2/20xx.md) | 4.61 | 
+| 332 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 332 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
+| 332 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
+| 332 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
+| 332 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 
+| 332 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.61 | 
+| 332 | [Darkwood](games/d/darkwood.md) | 4.61 | 
+| 332 | [GigaBash](games/g/gigabash.md) | 4.61 | 
+| 332 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
 | 354 | [Control](games/c/control.md) | 4.60 | 
 | 354 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 354 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
@@ -405,25 +405,25 @@
 | 387 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 387 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.58 | 
 | 387 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
-| 406 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 406 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 406 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 406 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
-| 406 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 406 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
-| 406 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 406 | [Hob](games/h/hob.md) | 4.57 | 
-| 406 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
-| 406 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.57 | 
-| 406 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
-| 406 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
-| 406 | [Isonzo](games/i/isonzo.md) | 4.57 | 
-| 406 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
-| 406 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.57 | 
-| 406 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
-| 406 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
-| 406 | [The Medium](games/t/the_medium.md) | 4.57 | 
-| 406 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.57 | 
+| 387 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.58 | 
+| 407 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 407 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 407 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 407 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
+| 407 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 407 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 407 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 407 | [Hob](games/h/hob.md) | 4.57 | 
+| 407 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
+| 407 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.57 | 
+| 407 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
+| 407 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
+| 407 | [Isonzo](games/i/isonzo.md) | 4.57 | 
+| 407 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
+| 407 | [Divine Knockout (DKO) -  Founders Edition](games/d/divine_knockout_(dko)_-__founders_edition.md) | 4.57 | 
+| 407 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
+| 407 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
+| 407 | [The Medium](games/t/the_medium.md) | 4.57 | 
 | 425 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 425 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 425 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 

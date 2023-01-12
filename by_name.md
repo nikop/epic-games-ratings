@@ -305,7 +305,7 @@
 | 303 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 304 | [Hammerting](games/h/hammerting.md) | 4.36 | 
 | 305 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
-| 306 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.61 | 
+| 306 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.62 | 
 | 307 | [Haven](games/h/haven.md) | 4.76 | 
 | 308 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 309 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
@@ -409,7 +409,7 @@
 | 407 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 408 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 409 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 410 | [Mago](games/m/mago.md) | 4.89 | 
+| 410 | [Mago](games/m/mago.md) | 4.90 | 
 | 411 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 412 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 413 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
@@ -738,7 +738,7 @@
 | 736 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 737 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 738 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 739 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.57 | 
+| 739 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.58 | 
 | 740 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
 | 741 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 742 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
