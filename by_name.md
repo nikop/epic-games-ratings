@@ -115,7 +115,7 @@
 | 113 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 114 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 115 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
-| 116 | [Chimeraland](games/c/chimeraland.md) | 3.74 | 
+| 116 | [Chimeraland](games/c/chimeraland.md) | 3.75 | 
 | 117 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 118 | [Chorus](games/c/chorus.md) | 4.46 | 
 | 119 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
@@ -223,7 +223,7 @@
 | 221 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 222 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.16 | 
 | 223 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 224 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
+| 224 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
 | 225 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 226 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 227 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
