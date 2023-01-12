@@ -150,7 +150,7 @@
 | 148 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 149 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 150 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 151 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.33 | 
+| 151 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.18 | 
 | 152 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
 | 153 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
 | 154 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
@@ -617,7 +617,7 @@
 | 615 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
 | 616 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 617 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.82 | 
-| 618 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
+| 618 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.81 | 
 | 619 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 620 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
 | 621 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
