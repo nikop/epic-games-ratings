@@ -309,27 +309,27 @@
 | 301 | [DOOM 3](games/d/doom_3.md) | 4.63 | 
 | 301 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
 | 301 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 301 | [Mutazione](games/m/mutazione.md) | 4.63 | 
 | 301 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
 | 301 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
-| 313 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 313 | [Prey](games/p/prey.md) | 4.62 | 
-| 313 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 313 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 313 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
-| 313 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 313 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
-| 313 | [ABZU](games/a/abzu.md) | 4.62 | 
-| 313 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
-| 313 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
-| 313 | [Roguebook](games/r/roguebook.md) | 4.62 | 
-| 313 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 313 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 
-| 313 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
-| 313 | [Everything](games/e/everything.md) | 4.62 | 
-| 313 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
-| 313 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.62 | 
-| 313 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 312 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 312 | [Prey](games/p/prey.md) | 4.62 | 
+| 312 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 312 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 312 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
+| 312 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 312 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
+| 312 | [ABZU](games/a/abzu.md) | 4.62 | 
+| 312 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
+| 312 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
+| 312 | [Roguebook](games/r/roguebook.md) | 4.62 | 
+| 312 | [Mutazione](games/m/mutazione.md) | 4.62 | 
+| 312 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 312 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 
+| 312 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
+| 312 | [Everything](games/e/everything.md) | 4.62 | 
+| 312 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
+| 312 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.62 | 
+| 312 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 331 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 331 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 331 | [Warframe](games/w/warframe.md) | 4.61 | 
@@ -788,11 +788,11 @@
 | 781 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
 | 781 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.16 | 
 | 788 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
-| 788 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 788 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
 | 788 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 792 | [Pine](games/p/pine.md) | 4.14 | 
-| 792 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
+| 791 | [Pine](games/p/pine.md) | 4.14 | 
+| 791 | [Relicta](games/r/relicta.md) | 4.14 | 
+| 791 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 794 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 794 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 796 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 

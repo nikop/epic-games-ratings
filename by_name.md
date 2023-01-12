@@ -436,7 +436,7 @@
 | 434 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 435 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 436 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 437 | [Mutazione](games/m/mutazione.md) | 4.63 | 
+| 437 | [Mutazione](games/m/mutazione.md) | 4.62 | 
 | 438 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
 | 439 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 440 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
@@ -536,7 +536,7 @@
 | 534 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 535 | [Redout 2](games/r/redout_2.md) | 4.56 | 
 | 536 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 537 | [Relicta](games/r/relicta.md) | 4.15 | 
+| 537 | [Relicta](games/r/relicta.md) | 4.14 | 
 | 538 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
 | 539 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 540 | [Revita](games/r/revita.md) | 4.74 | 
