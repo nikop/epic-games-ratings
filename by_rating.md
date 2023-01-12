@@ -156,7 +156,6 @@
 | 147 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.73 | 
 | 147 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
 | 147 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
-| 147 | [FUSER™](games/f/fuser™.md) | 4.73 | 
 | 147 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 147 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
 | 147 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
@@ -164,29 +163,30 @@
 | 147 | [King of Retail](games/k/king_of_retail.md) | 4.73 | 
 | 147 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 147 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 165 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
-| 165 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 165 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 165 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 165 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
-| 165 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 165 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 165 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
-| 173 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 173 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 173 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
-| 173 | [Barony](games/b/barony.md) | 4.71 | 
-| 173 | [Timberborn](games/t/timberborn.md) | 4.71 | 
-| 173 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 173 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
-| 173 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 173 | [Northgard](games/n/northgard.md) | 4.71 | 
-| 173 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 
-| 173 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
-| 173 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 173 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
-| 173 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
-| 173 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
+| 164 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 164 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 164 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 164 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 164 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
+| 164 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 164 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 164 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
+| 172 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 172 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 172 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
+| 172 | [Barony](games/b/barony.md) | 4.71 | 
+| 172 | [Timberborn](games/t/timberborn.md) | 4.71 | 
+| 172 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 172 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 172 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 172 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 172 | [Northgard](games/n/northgard.md) | 4.71 | 
+| 172 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 
+| 172 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
+| 172 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
+| 172 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
+| 172 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
+| 172 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
 | 188 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 188 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 188 | [For The King](games/f/for_the_king.md) | 4.70 | 

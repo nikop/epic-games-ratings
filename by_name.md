@@ -268,7 +268,7 @@
 | 266 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.67 | 
 | 267 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 268 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 269 | [FUSER™](games/f/fuser™.md) | 4.73 | 
+| 269 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 270 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 271 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 272 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.49 | 
