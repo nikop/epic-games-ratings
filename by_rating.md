@@ -13,18 +13,18 @@
 | 11 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 11 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
 | 11 | [God of War](games/g/god_of_war.md) | 4.89 | 
+| 11 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
 | 11 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 11 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 11 | [Firework](games/f/firework.md) | 4.89 | 
 | 11 | [Mago](games/m/mago.md) | 4.89 | 
-| 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 18 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 18 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.88 | 
-| 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
-| 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
-| 18 | [Black Book](games/b/black_book.md) | 4.88 | 
-| 18 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
-| 18 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
+| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
+| 19 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
+| 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
+| 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
+| 19 | [Black Book](games/b/black_book.md) | 4.88 | 
+| 19 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
+| 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
 | 26 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 26 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 26 | [Ooblets](games/o/ooblets.md) | 4.87 | 
@@ -265,6 +265,7 @@
 | 256 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 256 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 256 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
+| 256 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 
 | 256 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
 | 256 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 256 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
@@ -273,20 +274,19 @@
 | 256 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
 | 256 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 256 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
-| 274 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 274 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 274 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 274 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.65 | 
-| 274 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 274 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
-| 274 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 274 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 274 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.65 | 
-| 274 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
-| 274 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 
-| 274 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
-| 274 | [GNOG](games/g/gnog.md) | 4.65 | 
-| 274 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
+| 275 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 275 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 275 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 275 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.65 | 
+| 275 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 275 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
+| 275 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 275 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.65 | 
+| 275 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 275 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 
+| 275 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
+| 275 | [GNOG](games/g/gnog.md) | 4.65 | 
+| 275 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
 | 288 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 288 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 288 | [HITMAN](games/h/hitman.md) | 4.64 | 
@@ -719,22 +719,22 @@
 | 717 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 717 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 717 | [The Fall](games/t/the_fall.md) | 4.29 | 
+| 717 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 717 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 717 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 722 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 722 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
-| 722 | [Dark Light](games/d/dark_light.md) | 4.28 | 
-| 725 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
-| 725 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
-| 725 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
-| 725 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
-| 729 | [EVE Online](games/e/eve_online.md) | 4.26 | 
-| 729 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 729 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 729 | [Steelrising](games/s/steelrising.md) | 4.26 | 
-| 729 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
-| 729 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
-| 729 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
+| 723 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 723 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
+| 723 | [Dark Light](games/d/dark_light.md) | 4.28 | 
+| 726 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
+| 726 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
+| 726 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
+| 726 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
+| 730 | [EVE Online](games/e/eve_online.md) | 4.26 | 
+| 730 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 730 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 730 | [Steelrising](games/s/steelrising.md) | 4.26 | 
+| 730 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
+| 730 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 736 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 737 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 737 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 

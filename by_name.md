@@ -170,7 +170,7 @@
 | 168 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 169 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 170 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 
-| 171 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.88 | 
+| 171 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
 | 172 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 173 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
 | 174 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
@@ -312,7 +312,7 @@
 | 310 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 311 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.54 | 
 | 312 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
-| 313 | [Hellpoint](games/h/hellpoint.md) | 4.26 | 
+| 313 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 314 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
 | 315 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 316 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
@@ -389,7 +389,7 @@
 | 387 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 388 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 389 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
-| 390 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 390 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 
 | 391 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
 | 392 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
 | 393 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
