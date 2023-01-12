@@ -13,18 +13,18 @@
 | 11 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 11 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
 | 11 | [God of War](games/g/god_of_war.md) | 4.89 | 
+| 11 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 11 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 11 | [Firework](games/f/firework.md) | 4.89 | 
 | 11 | [Mago](games/m/mago.md) | 4.89 | 
-| 17 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 17 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
-| 17 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.88 | 
-| 17 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
-| 17 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
-| 17 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
-| 17 | [Black Book](games/b/black_book.md) | 4.88 | 
-| 17 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
-| 17 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
+| 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
+| 18 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.88 | 
+| 18 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.88 | 
+| 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
+| 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
+| 18 | [Black Book](games/b/black_book.md) | 4.88 | 
+| 18 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
+| 18 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
 | 26 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 26 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 26 | [Ooblets](games/o/ooblets.md) | 4.87 | 
@@ -453,35 +453,35 @@
 | 440 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 440 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.55 | 
 | 440 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
-| 454 | [VALORANT](games/v/valorant.md) | 4.54 | 
-| 454 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 454 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
-| 454 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
-| 454 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
-| 454 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
-| 454 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
-| 454 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.54 | 
-| 454 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.54 | 
-| 454 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 
-| 454 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 465 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 465 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
-| 465 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 465 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 465 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
-| 465 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
-| 465 | [Just Die Already](games/j/just_die_already.md) | 4.53 | 
-| 465 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 465 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
-| 465 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
-| 465 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 465 | [RUINER](games/r/ruiner.md) | 4.53 | 
-| 465 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 465 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 465 | [Horace](games/h/horace.md) | 4.53 | 
-| 465 | [Aztez](games/a/aztez.md) | 4.53 | 
-| 465 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 465 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.53 | 
+| 440 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.55 | 
+| 455 | [VALORANT](games/v/valorant.md) | 4.54 | 
+| 455 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 455 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
+| 455 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
+| 455 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
+| 455 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
+| 455 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
+| 455 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.54 | 
+| 455 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 
+| 455 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.54 | 
+| 455 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 466 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
+| 466 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
+| 466 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 466 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 466 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
+| 466 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
+| 466 | [Just Die Already](games/j/just_die_already.md) | 4.53 | 
+| 466 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 466 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
+| 466 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
+| 466 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
+| 466 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 466 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 466 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 466 | [Horace](games/h/horace.md) | 4.53 | 
+| 466 | [Aztez](games/a/aztez.md) | 4.53 | 
+| 466 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 483 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 483 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 483 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 

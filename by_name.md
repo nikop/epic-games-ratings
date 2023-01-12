@@ -167,7 +167,7 @@
 | 165 | [Days Gone](games/d/days_gone.md) | 4.69 | 
 | 166 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 167 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 168 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
+| 168 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 169 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 170 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 
 | 171 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.88 | 
@@ -229,7 +229,7 @@
 | 227 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 228 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 229 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 230 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.54 | 
+| 230 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.55 | 
 | 231 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
 | 232 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 233 | [Fangs](games/f/fangs.md) | 4.05 | 
@@ -511,7 +511,7 @@
 | 509 | [Pine](games/p/pine.md) | 4.14 | 
 | 510 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
 | 511 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 512 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.53 | 
+| 512 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.54 | 
 | 513 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 514 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 515 | [Predecessor](games/p/predecessor.md) | 4.41 | 
