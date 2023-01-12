@@ -223,7 +223,7 @@
 | 221 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 222 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.16 | 
 | 223 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 224 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
+| 224 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
 | 225 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 226 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 227 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
@@ -310,7 +310,7 @@
 | 308 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 309 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 310 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 311 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.54 | 
+| 311 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.55 | 
 | 312 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 313 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 314 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
