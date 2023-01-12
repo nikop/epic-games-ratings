@@ -723,12 +723,12 @@
 | 718 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 718 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
 | 723 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 723 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 723 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
 | 723 | [Dark Light](games/d/dark_light.md) | 4.28 | 
-| 727 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
-| 727 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
-| 727 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
+| 726 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
+| 726 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
+| 726 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
+| 726 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
 | 730 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 730 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 730 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
