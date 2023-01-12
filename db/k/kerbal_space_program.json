@@ -89,6 +89,14 @@
     {
       "Text": "This game has Amazing Characters",
       "Count": 25
+    },
+    {
+      "Text": "This game is Educational",
+      "Count": 31
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 28
     }
   ]
 }
