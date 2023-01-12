@@ -171,7 +171,7 @@
 | 169 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 170 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 
 | 171 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.88 | 
-| 172 | [Death's Door](games/d/death's_door.md) | 4.67 | 
+| 172 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 173 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
 | 174 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
 | 175 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
