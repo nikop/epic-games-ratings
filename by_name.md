@@ -832,7 +832,7 @@
 | 830 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
 | 831 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 832 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
-| 833 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
+| 833 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 834 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 835 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 836 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
