@@ -271,7 +271,7 @@
 | 269 | [FUSER™](games/f/fuser™.md) | 4.73 | 
 | 270 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 271 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 272 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.50 | 
+| 272 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.49 | 
 | 273 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
 | 274 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 275 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
@@ -287,7 +287,7 @@
 | 285 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 286 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 287 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
-| 288 | [Godfall](games/g/godfall.md) | 4.06 | 
+| 288 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 289 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 290 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
 | 291 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 
@@ -316,7 +316,7 @@
 | 314 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
 | 315 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 316 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 317 | [High On Life](games/h/high_on_life.md) | 4.68 | 
+| 317 | [High On Life](games/h/high_on_life.md) | 4.69 | 
 | 318 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 319 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 320 | [Hob](games/h/hob.md) | 4.57 | 
@@ -512,8 +512,8 @@
 | 510 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
 | 511 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 512 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.54 | 
-| 513 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
-| 514 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 513 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
+| 514 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 515 | [Predecessor](games/p/predecessor.md) | 4.41 | 
 | 516 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 517 | [Prey](games/p/prey.md) | 4.62 | 
@@ -837,7 +837,7 @@
 | 835 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 836 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
 | 837 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
-| 838 | [WRC Generations](games/w/wrc_generations.md) | 4.41 | 
+| 838 | [WRC Generations](games/w/wrc_generations.md) | 4.42 | 
 | 839 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
 | 840 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 841 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
