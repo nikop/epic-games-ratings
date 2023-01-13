@@ -1,10 +1,10 @@
 {
   "ID": "39c6dd5409944922a04cac3f59fbbcd4",
   "Name": "Shadow Tactics - Aiko\u0027s Choice",
-  "Rating": 4.72,
+  "Rating": 4.71,
   "NumberOfRatings": 68,
   "FirstSeen": "2022-07-22T20:30:07.8581549+00:00",
-  "LastChanged": "2023-01-13T11:58:28.5673838+00:00",
+  "LastChanged": "2023-01-13T14:58:09.6813952+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:07.8581551+00:00",
@@ -300,7 +300,17 @@
       "Time": "2023-01-13T11:58:28.567384+00:00",
       "Rating": 4.72,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-13T14:58:09.6813955+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": null
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 44
+    }
+  ]
 }
