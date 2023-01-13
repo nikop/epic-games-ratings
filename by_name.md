@@ -134,7 +134,7 @@
 | 132 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 133 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.72 | 
 | 134 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 135 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.43 | 
+| 135 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 136 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 137 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 138 | [Crayta](games/c/crayta.md) | 4.19 | 
