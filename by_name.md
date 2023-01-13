@@ -111,7 +111,7 @@
 | 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 110 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
-| 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 113 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 114 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 115 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
@@ -275,7 +275,7 @@
 | 273 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
 | 274 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 275 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
-| 276 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.53 | 
+| 276 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
 | 277 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
 | 278 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 279 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
@@ -679,7 +679,7 @@
 | 677 | [Tharsis](games/t/tharsis.md) | 4.09 | 
 | 678 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 679 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
-| 680 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
+| 680 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 681 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
 | 682 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.17 | 
 | 683 | [The Captain](games/t/the_captain.md) | 4.44 | 
