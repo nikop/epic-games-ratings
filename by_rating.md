@@ -169,24 +169,24 @@
 | 164 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 164 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
 | 164 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 164 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
 | 164 | [Slipways](games/s/slipways.md) | 4.72 | 
 | 164 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
-| 172 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 172 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 172 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
-| 172 | [Barony](games/b/barony.md) | 4.71 | 
-| 172 | [Timberborn](games/t/timberborn.md) | 4.71 | 
-| 172 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 172 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
-| 172 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 172 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 172 | [Northgard](games/n/northgard.md) | 4.71 | 
-| 172 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 
-| 172 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
-| 172 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 172 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
-| 172 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
-| 172 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
+| 173 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 173 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 173 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
+| 173 | [Barony](games/b/barony.md) | 4.71 | 
+| 173 | [Timberborn](games/t/timberborn.md) | 4.71 | 
+| 173 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 173 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 173 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 173 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 173 | [Northgard](games/n/northgard.md) | 4.71 | 
+| 173 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
+| 173 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
+| 173 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
+| 173 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
+| 173 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
 | 188 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 188 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 188 | [For The King](games/f/for_the_king.md) | 4.70 | 
@@ -237,24 +237,24 @@
 | 225 | [CARRION](games/c/carrion.md) | 4.68 | 
 | 225 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
 | 225 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
-| 238 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 238 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 238 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 238 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
-| 238 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 238 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 238 | [Overcooked](games/o/overcooked.md) | 4.67 | 
-| 238 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 238 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
-| 238 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
-| 238 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
-| 238 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.67 | 
-| 238 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 238 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
-| 238 | [Card Shark](games/c/card_shark.md) | 4.67 | 
-| 238 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.67 | 
-| 238 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.67 | 
-| 238 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
+| 225 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
+| 239 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 239 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 239 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 239 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
+| 239 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 239 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 239 | [Overcooked](games/o/overcooked.md) | 4.67 | 
+| 239 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 239 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
+| 239 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
+| 239 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
+| 239 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.67 | 
+| 239 | [Eastward](games/e/eastward.md) | 4.67 | 
+| 239 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
+| 239 | [Card Shark](games/c/card_shark.md) | 4.67 | 
+| 239 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.67 | 
+| 239 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
 | 256 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 256 | [Trackmania](games/t/trackmania.md) | 4.66 | 
 | 256 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
@@ -724,12 +724,12 @@
 | 718 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 718 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
 | 724 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 724 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 724 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
 | 724 | [Dark Light](games/d/dark_light.md) | 4.28 | 
-| 727 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
-| 727 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
-| 727 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
-| 727 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
+| 728 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
+| 728 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
+| 728 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
 | 731 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 731 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 731 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
@@ -839,7 +839,7 @@
 | 836 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.92 | 
 | 838 | [Warface](games/w/warface.md) | 3.91 | 
 | 838 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 840 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.89 | 
+| 840 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 
 | 841 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 842 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
 | 843 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 

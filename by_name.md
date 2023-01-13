@@ -210,7 +210,7 @@
 | 208 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 209 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 210 | [ELEX](games/e/elex.md) | 4.40 | 
-| 211 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
+| 211 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 212 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 213 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 214 | [Encased](games/e/encased.md) | 4.38 | 
@@ -266,7 +266,7 @@
 | 264 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
 | 265 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 266 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 267 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.67 | 
+| 267 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
 | 268 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 269 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 270 | [FUSER™](games/f/fuser™.md) | 4.71 | 
@@ -584,7 +584,7 @@
 | 582 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 583 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 
 | 584 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 585 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 
+| 585 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
 | 586 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 587 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
 | 588 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
@@ -825,7 +825,7 @@
 | 823 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 824 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 825 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 826 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.89 | 
+| 826 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 
 | 827 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 828 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 829 | [Windbound](games/w/windbound.md) | 4.18 | 
