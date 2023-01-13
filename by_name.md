@@ -307,7 +307,7 @@
 | 305 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
 | 306 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.62 | 
 | 307 | [Haven](games/h/haven.md) | 4.76 | 
-| 308 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
+| 308 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 309 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 310 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 311 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.55 | 
@@ -514,7 +514,7 @@
 | 512 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.54 | 
 | 513 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
 | 514 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 515 | [Predecessor](games/p/predecessor.md) | 4.41 | 
+| 515 | [Predecessor](games/p/predecessor.md) | 4.42 | 
 | 516 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 517 | [Prey](games/p/prey.md) | 4.62 | 
 | 518 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
