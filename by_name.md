@@ -115,7 +115,7 @@
 | 113 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 114 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 115 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
-| 116 | [Chimeraland](games/c/chimeraland.md) | 3.75 | 
+| 116 | [Chimeraland](games/c/chimeraland.md) | 3.79 | 
 | 117 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 118 | [Chorus](games/c/chorus.md) | 4.46 | 
 | 119 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
@@ -467,7 +467,7 @@
 | 465 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 466 | [Observation](games/o/observation.md) | 4.56 | 
 | 467 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
-| 468 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
+| 468 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.81 | 
 | 469 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 470 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
 | 471 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 

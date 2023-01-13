@@ -68,6 +68,7 @@
 | 62 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.82 | 
 | 67 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 67 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 67 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.81 | 
 | 67 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.81 | 
 | 67 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 67 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
@@ -77,19 +78,18 @@
 | 67 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 67 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 67 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
-| 78 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 78 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 78 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 78 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
-| 78 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
-| 78 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
-| 78 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
-| 78 | [Griftlands](games/g/griftlands.md) | 4.80 | 
-| 78 | [Journey](games/j/journey.md) | 4.80 | 
-| 78 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 78 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
-| 78 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
-| 78 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
+| 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 79 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 79 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
+| 79 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
+| 79 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
+| 79 | [Griftlands](games/g/griftlands.md) | 4.80 | 
+| 79 | [Journey](games/j/journey.md) | 4.80 | 
+| 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 79 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
+| 79 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
+| 79 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
 | 91 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 91 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
@@ -843,8 +843,8 @@
 | 841 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 842 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
 | 843 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
+| 844 | [Chimeraland](games/c/chimeraland.md) | 3.79 | 
 | 844 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
-| 845 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 846 | [Chimeraland](games/c/chimeraland.md) | 3.75 | 
+| 846 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 847 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.72 | 
 | 848 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
