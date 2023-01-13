@@ -1,10 +1,10 @@
 {
   "ID": "48ee23bbc7c34ac09604253e74d17b49",
   "Name": "Encased",
-  "Rating": 4.38,
+  "Rating": 4.37,
   "NumberOfRatings": 49,
   "FirstSeen": "2022-07-22T20:20:17.8710965+00:00",
-  "LastChanged": "2023-01-10T15:57:26.3759492+00:00",
+  "LastChanged": "2023-01-13T15:57:11.3971033+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:17.8710967+00:00",
@@ -259,6 +259,11 @@
     {
       "Time": "2023-01-10T15:57:26.3759494+00:00",
       "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-13T15:57:11.3971034+00:00",
+      "Rating": 4.37,
       "NumberOfRatings": null
     }
   ],
