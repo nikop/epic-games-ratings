@@ -689,12 +689,12 @@
 | 680 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
 | 680 | [ZOMBI](games/z/zombi.md) | 4.35 | 
 | 689 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 689 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
 | 689 | [Ashen](games/a/ashen.md) | 4.34 | 
 | 689 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
 | 689 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 694 | [Automachef](games/a/automachef.md) | 4.33 | 
-| 694 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 
+| 693 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
+| 693 | [Automachef](games/a/automachef.md) | 4.33 | 
+| 693 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 
 | 696 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 696 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.32 | 
 | 696 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
@@ -756,16 +756,16 @@
 | 751 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
 | 751 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 751 | [Starsand](games/s/starsand.md) | 4.21 | 
+| 751 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 751 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 758 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 758 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 758 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 758 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 758 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 758 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 758 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 758 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
-| 758 | [Somerville](games/s/somerville.md) | 4.20 | 
+| 759 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 759 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 759 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 759 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 759 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 759 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 759 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 759 | [Somerville](games/s/somerville.md) | 4.20 | 
 | 767 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 767 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
 | 767 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 

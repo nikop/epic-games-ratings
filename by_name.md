@@ -27,7 +27,7 @@
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.34 | 
+| 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.51 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
@@ -205,7 +205,7 @@
 | 203 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 204 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 205 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 206 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.20 | 
+| 206 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 207 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 208 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 209 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
