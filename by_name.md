@@ -300,7 +300,7 @@
 | 298 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
 | 299 | [Griftlands](games/g/griftlands.md) | 4.80 | 
 | 300 | [GRIME](games/g/grime.md) | 4.60 | 
-| 301 | [Grindstone](games/g/grindstone.md) | 4.83 | 
+| 301 | [Grindstone](games/g/grindstone.md) | 4.84 | 
 | 302 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
 | 303 | [Hades](games/h/hades.md) | 4.92 | 
 | 304 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
@@ -685,7 +685,7 @@
 | 683 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.17 | 
 | 684 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 685 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
-| 686 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 686 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
 | 687 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.86 | 
 | 688 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 689 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
@@ -716,7 +716,7 @@
 | 714 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 715 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 716 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
-| 717 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.74 | 
+| 717 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 718 | [The Silent Age](games/t/the_silent_age.md) | 4.42 | 
 | 719 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 720 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
