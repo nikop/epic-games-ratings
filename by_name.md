@@ -205,7 +205,7 @@
 | 203 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 204 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 205 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 206 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
+| 206 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 207 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 208 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 209 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -255,7 +255,7 @@
 | 253 | [Filament](games/f/filament.md) | 4.32 | 
 | 254 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 255 | [Firework](games/f/firework.md) | 4.89 | 
-| 256 | [First Class Trouble](games/f/first_class_trouble.md) | 4.61 | 
+| 256 | [First Class Trouble](games/f/first_class_trouble.md) | 4.63 | 
 | 257 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 258 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.57 | 
 | 259 | [Flatout](games/f/flatout.md) | 4.13 | 
@@ -404,7 +404,7 @@
 | 402 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 403 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
 | 404 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
-| 405 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.67 | 
+| 405 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.65 | 
 | 406 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 407 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 408 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
