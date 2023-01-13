@@ -1,7 +1,16 @@
 {
   "ID": "27834480410d4000a987b32801e9abba",
   "Name": "First Class Trouble",
+  "Rating": 4.43,
   "FirstSeen": "2022-09-22T22:01:01.54229+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-01-13T07:56:45.2170746+00:00",
+  "LastChanged": "2023-01-13T07:56:45.2170747+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-01-13T07:56:45.2170748+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
