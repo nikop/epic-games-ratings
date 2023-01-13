@@ -160,7 +160,7 @@
 | 158 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 159 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 160 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
-| 161 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
+| 161 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 
 | 162 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 163 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
 | 164 | [Dauntless](games/d/dauntless.md) | 4.53 | 
