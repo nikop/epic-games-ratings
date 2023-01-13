@@ -482,18 +482,18 @@
 | 467 | [Horace](games/h/horace.md) | 4.53 | 
 | 467 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 467 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 483 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 483 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 483 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 483 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
-| 483 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 483 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 483 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 483 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 483 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 483 | [Brawlhalla](games/b/brawlhalla.md) | 4.52 | 
-| 483 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 483 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 467 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
+| 484 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 484 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 484 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 484 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 484 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 484 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 484 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 484 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 484 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 484 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 484 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 495 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 495 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 495 | [MythForce](games/m/mythforce.md) | 4.51 | 
