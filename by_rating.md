@@ -844,7 +844,7 @@
 | 842 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
 | 843 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 844 | [Chimeraland](games/c/chimeraland.md) | 3.79 | 
-| 844 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 
-| 846 | [Saints Row](games/s/saints_row.md) | 3.78 | 
+| 845 | [Saints Row](games/s/saints_row.md) | 3.78 | 
+| 845 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 847 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.72 | 
 | 848 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
