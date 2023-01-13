@@ -370,24 +370,24 @@
 | 356 | [Road 96](games/r/road_96.md) | 4.60 | 
 | 356 | [Little Inferno](games/l/little_inferno.md) | 4.60 | 
 | 356 | [GRIME](games/g/grime.md) | 4.60 | 
-| 356 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.60 | 
 | 356 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 356 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.60 | 
 | 356 | [NORCO](games/n/norco.md) | 4.60 | 
-| 375 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 375 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 375 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
-| 375 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 375 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
-| 375 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
-| 375 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
-| 375 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
-| 375 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
-| 375 | [RiME](games/r/rime.md) | 4.59 | 
-| 375 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
-| 375 | [Breathedge](games/b/breathedge.md) | 4.59 | 
-| 375 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
-| 375 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
+| 374 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 374 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 374 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
+| 374 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 374 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 374 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
+| 374 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
+| 374 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
+| 374 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
+| 374 | [RiME](games/r/rime.md) | 4.59 | 
+| 374 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
+| 374 | [Breathedge](games/b/breathedge.md) | 4.59 | 
+| 374 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.59 | 
+| 374 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
+| 374 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 389 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
 | 389 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 389 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -777,17 +777,17 @@
 | 773 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 773 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
 | 773 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.18 | 
+| 773 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
 | 773 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 
-| 779 | [Space Punks](games/s/space_punks.md) | 4.17 | 
-| 779 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
-| 779 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.17 | 
-| 782 | [Gone Home](games/g/gone_home.md) | 4.16 | 
-| 782 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
-| 782 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 782 | [Submerged](games/s/submerged.md) | 4.16 | 
-| 782 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
-| 782 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
-| 782 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.16 | 
+| 780 | [Space Punks](games/s/space_punks.md) | 4.17 | 
+| 780 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
+| 780 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.17 | 
+| 783 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 783 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
+| 783 | [Family Man](games/f/family_man.md) | 4.16 | 
+| 783 | [Submerged](games/s/submerged.md) | 4.16 | 
+| 783 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 783 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
 | 789 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 789 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
 | 789 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
