@@ -319,7 +319,6 @@
 | 312 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 312 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 312 | [ABZU](games/a/abzu.md) | 4.62 | 
-| 312 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 312 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
 | 312 | [Roguebook](games/r/roguebook.md) | 4.62 | 
 | 312 | [Mutazione](games/m/mutazione.md) | 4.62 | 
@@ -331,28 +330,29 @@
 | 312 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
 | 312 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.62 | 
 | 312 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 332 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
-| 332 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 332 | [Warframe](games/w/warframe.md) | 4.61 | 
-| 332 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
-| 332 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 332 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 332 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 332 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 332 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
-| 332 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 332 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 
-| 332 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 332 | [20XX](games/2/20xx.md) | 4.61 | 
-| 332 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 332 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
-| 332 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
-| 332 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
-| 332 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 
-| 332 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.61 | 
-| 332 | [Darkwood](games/d/darkwood.md) | 4.61 | 
-| 332 | [GigaBash](games/g/gigabash.md) | 4.61 | 
-| 332 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
+| 331 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
+| 331 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 331 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 331 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
+| 331 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 331 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 331 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 331 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 331 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 331 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 331 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 
+| 331 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 331 | [20XX](games/2/20xx.md) | 4.61 | 
+| 331 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
+| 331 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
+| 331 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
+| 331 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
+| 331 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
+| 331 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 
+| 331 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.61 | 
+| 331 | [Darkwood](games/d/darkwood.md) | 4.61 | 
+| 331 | [GigaBash](games/g/gigabash.md) | 4.61 | 
+| 331 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
 | 354 | [Control](games/c/control.md) | 4.60 | 
 | 354 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 354 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
