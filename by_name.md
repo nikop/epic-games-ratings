@@ -195,7 +195,7 @@
 | 193 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 194 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.59 | 
 | 195 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 196 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.51 | 
+| 196 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.50 | 
 | 197 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 198 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 199 | [DOOM 3](games/d/doom_3.md) | 4.63 | 
@@ -235,7 +235,7 @@
 | 233 | [Fangs](games/f/fangs.md) | 4.05 | 
 | 234 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 235 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.23 | 
-| 236 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 
+| 236 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 237 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 238 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 239 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
@@ -363,7 +363,7 @@
 | 361 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.60 | 
 | 362 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 363 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 364 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
+| 364 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 365 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.78 | 
 | 366 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 367 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
@@ -513,7 +513,7 @@
 | 511 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
 | 512 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 513 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 
-| 514 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
+| 514 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
 | 515 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 516 | [Predecessor](games/p/predecessor.md) | 4.42 | 
 | 517 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
