@@ -46,7 +46,7 @@
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
-| 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
@@ -788,7 +788,7 @@
 | 786 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 787 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 788 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 789 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
+| 789 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 
 | 790 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 791 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
 | 792 | [UnMetal](games/u/unmetal.md) | 4.51 | 
@@ -824,7 +824,7 @@
 | 822 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 823 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 824 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
-| 825 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 825 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
 | 826 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.89 | 
 | 827 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 828 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
