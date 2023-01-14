@@ -1,10 +1,10 @@
 {
   "ID": "1200aeb2f87c48349594d96554e2833d",
   "Name": "Divine Knockout (DKO) - Starter Edition",
-  "Rating": 4.53,
+  "Rating": 4.51,
   "NumberOfRatings": 60,
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2023-01-14T02:57:26.7337394+00:00",
+  "LastChanged": "2023-01-14T11:57:29.3215545+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:52.9902409+00:00",
@@ -415,6 +415,11 @@
       "Time": "2023-01-14T02:57:26.7337396+00:00",
       "Rating": 4.53,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-14T11:57:29.3215547+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -436,7 +441,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has Diverse Characters",

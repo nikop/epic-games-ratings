@@ -479,34 +479,34 @@
 | 467 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 467 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 467 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 467 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.53 | 
 | 467 | [Horace](games/h/horace.md) | 4.53 | 
 | 467 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 467 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 467 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
-| 485 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 485 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 485 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 485 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 485 | [The Surge](games/t/the_surge.md) | 4.52 | 
-| 485 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 485 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 485 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 485 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 485 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
-| 495 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 495 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 495 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 495 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 495 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 495 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 495 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
-| 495 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
-| 495 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
-| 495 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.51 | 
-| 495 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
-| 495 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 495 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
+| 484 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 484 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 484 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 484 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 484 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 484 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 484 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 484 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 484 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 484 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 494 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 494 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 494 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 494 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 494 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 494 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 494 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
+| 494 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.51 | 
+| 494 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
+| 494 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
+| 494 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.51 | 
+| 494 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
+| 494 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 494 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 508 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 508 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 508 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
@@ -839,7 +839,7 @@
 | 836 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.92 | 
 | 838 | [Warface](games/w/warface.md) | 3.91 | 
 | 838 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 840 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 
+| 840 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.89 | 
 | 841 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 842 | [Chimeraland](games/c/chimeraland.md) | 3.84 | 
 | 843 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 

@@ -195,7 +195,7 @@
 | 193 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 194 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.59 | 
 | 195 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 196 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.53 | 
+| 196 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.51 | 
 | 197 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 198 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 199 | [DOOM 3](games/d/doom_3.md) | 4.63 | 
@@ -825,7 +825,7 @@
 | 823 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 824 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 825 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 826 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 
+| 826 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.89 | 
 | 827 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 828 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 829 | [Windbound](games/w/windbound.md) | 4.18 | 
