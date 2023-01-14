@@ -573,6 +573,7 @@
 | 559 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 572 | [SMITE](games/s/smite.md) | 4.45 | 
 | 572 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 572 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 572 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
 | 572 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 572 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
@@ -583,18 +584,17 @@
 | 572 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 572 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 572 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
-| 584 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
-| 584 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 584 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 584 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
-| 584 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 584 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
-| 584 | [Faeria](games/f/faeria.md) | 4.44 | 
-| 584 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
-| 584 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
-| 584 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 584 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
-| 584 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
+| 585 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
+| 585 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 585 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 585 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 585 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
+| 585 | [Faeria](games/f/faeria.md) | 4.44 | 
+| 585 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
+| 585 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
+| 585 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 585 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
+| 585 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
 | 596 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 596 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 596 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 

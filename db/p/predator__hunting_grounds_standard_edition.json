@@ -1,10 +1,10 @@
 {
   "ID": "5a82d5954a1943d79dc6b49cde2fe972",
   "Name": "Predator: Hunting Grounds Standard Edition",
-  "Rating": 4.44,
+  "Rating": 4.45,
   "NumberOfRatings": 1373,
   "FirstSeen": "2022-07-22T20:19:15.8732166+00:00",
-  "LastChanged": "2023-01-12T20:57:15.3066953+00:00",
+  "LastChanged": "2023-01-14T04:56:58.2477473+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:15.8732169+00:00",
@@ -1754,6 +1754,11 @@
     {
       "Time": "2023-01-12T20:57:15.3066954+00:00",
       "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-14T04:56:58.2477476+00:00",
+      "Rating": 4.45,
       "NumberOfRatings": null
     }
   ],
