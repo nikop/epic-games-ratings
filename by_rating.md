@@ -222,22 +222,22 @@
 | 205 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 205 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.69 | 
 | 205 | [High On Life](games/h/high_on_life.md) | 4.69 | 
+| 205 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 
 | 205 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
-| 224 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
-| 224 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 224 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 224 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 224 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 224 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 224 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 224 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 224 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 224 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.68 | 
-| 224 | [CARRION](games/c/carrion.md) | 4.68 | 
-| 224 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
-| 224 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
-| 224 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
-| 224 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
+| 225 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
+| 225 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 225 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 225 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 225 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 225 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 225 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 225 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
+| 225 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
+| 225 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.68 | 
+| 225 | [CARRION](games/c/carrion.md) | 4.68 | 
+| 225 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
+| 225 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
+| 225 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
 | 239 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 239 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 239 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
@@ -412,7 +412,6 @@
 | 408 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 408 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 408 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 408 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
 | 408 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 408 | [Hob](games/h/hob.md) | 4.57 | 
 | 408 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
@@ -425,21 +424,22 @@
 | 408 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
 | 408 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 
 | 408 | [The Medium](games/t/the_medium.md) | 4.57 | 
-| 426 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 426 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 426 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 426 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 426 | [Hue](games/h/hue.md) | 4.56 | 
-| 426 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 426 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 426 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
-| 426 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
-| 426 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
-| 426 | [Warpips](games/w/warpips.md) | 4.56 | 
-| 426 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 426 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 426 | [Observation](games/o/observation.md) | 4.56 | 
-| 426 | [Redout 2](games/r/redout_2.md) | 4.56 | 
+| 425 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 425 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 425 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 425 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 425 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 425 | [Hue](games/h/hue.md) | 4.56 | 
+| 425 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 425 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 425 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
+| 425 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
+| 425 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
+| 425 | [Warpips](games/w/warpips.md) | 4.56 | 
+| 425 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 425 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 425 | [Observation](games/o/observation.md) | 4.56 | 
+| 425 | [Redout 2](games/r/redout_2.md) | 4.56 | 
 | 441 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 441 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 441 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 

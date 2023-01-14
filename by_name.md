@@ -305,7 +305,7 @@
 | 303 | [Hades](games/h/hades.md) | 4.92 | 
 | 304 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 305 | [Hammerting](games/h/hammerting.md) | 4.36 | 
-| 306 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 306 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 307 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.63 | 
 | 308 | [Haven](games/h/haven.md) | 4.76 | 
 | 309 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
@@ -582,7 +582,7 @@
 | 580 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 581 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 582 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
-| 583 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
+| 583 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 
 | 584 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 585 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 
 | 586 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
