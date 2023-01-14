@@ -13,7 +13,7 @@
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
-| 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 
+| 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
@@ -132,7 +132,7 @@
 | 130 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 131 | [Core](games/c/core.md) | 4.38 | 
 | 132 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 133 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.72 | 
+| 133 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.70 | 
 | 134 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 135 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 136 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
@@ -463,7 +463,7 @@
 | 461 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
 | 462 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 463 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 464 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
+| 464 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 465 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 466 | [Observation](games/o/observation.md) | 4.56 | 
 | 467 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
@@ -619,7 +619,7 @@
 | 617 | [Souldiers](games/s/souldiers.md) | 4.55 | 
 | 618 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.82 | 
 | 619 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.81 | 
-| 620 | [Space Punks](games/s/space_punks.md) | 4.17 | 
+| 620 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 621 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
 | 622 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 623 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
