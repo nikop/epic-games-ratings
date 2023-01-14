@@ -1,5 +1,5 @@
 # Gamedec - Definitive Edition
-Rating: 4.36 (33)  (as of 23.09.2022)  
+Rating: 4.21 (33)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -25,3 +25,4 @@ Rating: 4.36 (33)  (as of 23.09.2022)
 | 2022-12-03 | 4.50 | - |
 | 2023-01-12 | 4.49 | - |
 | 2023-01-13 | 4.36 | - |
+| 2023-01-14 | 4.21 | - |

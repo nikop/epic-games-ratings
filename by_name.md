@@ -272,7 +272,7 @@
 | 270 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 271 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 272 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 273 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.36 | 
+| 273 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.21 | 
 | 274 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
 | 275 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 276 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
@@ -305,7 +305,7 @@
 | 303 | [Hades](games/h/hades.md) | 4.92 | 
 | 304 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 305 | [Hammerting](games/h/hammerting.md) | 4.36 | 
-| 306 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 306 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
 | 307 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.63 | 
 | 308 | [Haven](games/h/haven.md) | 4.76 | 
 | 309 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
@@ -402,7 +402,7 @@
 | 400 | [Little Inferno](games/l/little_inferno.md) | 4.60 | 
 | 401 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 402 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 403 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
+| 403 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.31 | 
 | 404 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
 | 405 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.65 | 
 | 406 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
