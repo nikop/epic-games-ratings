@@ -169,7 +169,7 @@
 | 167 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 168 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 169 | [Death Coming](games/d/death_coming.md) | 4.45 | 
-| 170 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 
+| 170 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 171 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
 | 172 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 173 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
@@ -213,7 +213,7 @@
 | 211 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 212 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 213 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 214 | [Encased](games/e/encased.md) | 4.37 | 
+| 214 | [Encased](games/e/encased.md) | 4.38 | 
 | 215 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 216 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 217 | [EVE Online](games/e/eve_online.md) | 4.26 | 
