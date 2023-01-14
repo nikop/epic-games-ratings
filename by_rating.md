@@ -20,15 +20,15 @@
 | 12 | [Firework](games/f/firework.md) | 4.89 | 
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
-| 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 19 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 19 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
-| 25 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
-| 25 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 25 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 25 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 25 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
+| 24 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
+| 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
+| 24 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 24 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
+| 24 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
 | 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 30 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 30 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 
@@ -750,35 +750,35 @@
 | 744 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 744 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
 | 750 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 750 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.22 | 
 | 750 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
-| 752 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.21 | 
-| 752 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
-| 752 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
-| 752 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
-| 752 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
-| 752 | [Starsand](games/s/starsand.md) | 4.21 | 
-| 752 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 759 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 759 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 759 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 759 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 759 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 759 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 759 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 759 | [Somerville](games/s/somerville.md) | 4.20 | 
-| 767 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 767 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
-| 767 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 767 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
-| 767 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 767 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
-| 773 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 773 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 773 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
-| 773 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
-| 773 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.18 | 
-| 773 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
-| 773 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 
+| 753 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.21 | 
+| 753 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
+| 753 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
+| 753 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
+| 753 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
+| 753 | [Starsand](games/s/starsand.md) | 4.21 | 
+| 753 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
+| 760 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 760 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 760 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 760 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 760 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 760 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 760 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 760 | [Somerville](games/s/somerville.md) | 4.20 | 
+| 768 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 768 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
+| 768 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
+| 768 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
+| 768 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 768 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
+| 774 | [Windbound](games/w/windbound.md) | 4.18 | 
+| 774 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 774 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
+| 774 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
+| 774 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
+| 774 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 
 | 780 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 780 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
 | 780 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.17 | 

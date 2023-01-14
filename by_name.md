@@ -55,7 +55,7 @@
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.39 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
-| 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
+| 56 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.33 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
@@ -150,7 +150,7 @@
 | 148 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 149 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 150 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 151 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.18 | 
+| 151 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.22 | 
 | 152 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
 | 153 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
 | 154 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
