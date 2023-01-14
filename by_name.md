@@ -189,7 +189,7 @@
 | 187 | [Dice Legacy](games/d/dice_legacy.md) | 4.30 | 
 | 188 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 189 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
-| 190 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 190 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 191 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 192 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.73 | 
 | 193 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
@@ -229,7 +229,7 @@
 | 227 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 228 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 229 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 230 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.55 | 
+| 230 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.56 | 
 | 231 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
 | 232 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 233 | [Fangs](games/f/fangs.md) | 4.05 | 
@@ -685,7 +685,7 @@
 | 683 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.17 | 
 | 684 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 685 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
-| 686 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 686 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
 | 687 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.86 | 
 | 688 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 689 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
