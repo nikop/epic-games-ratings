@@ -255,7 +255,7 @@
 | 253 | [Filament](games/f/filament.md) | 4.32 | 
 | 254 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 255 | [Firework](games/f/firework.md) | 4.89 | 
-| 256 | [First Class Trouble](games/f/first_class_trouble.md) | 4.56 | 
+| 256 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
 | 257 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 258 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.57 | 
 | 259 | [Flatout](games/f/flatout.md) | 4.13 | 
@@ -348,7 +348,7 @@
 | 346 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 347 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 348 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 349 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
+| 349 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 350 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 351 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 352 | [IXION](games/i/ixion.md) | 4.48 | 
@@ -451,7 +451,7 @@
 | 449 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 450 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
 | 451 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 452 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.62 | 
+| 452 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 
 | 453 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 
 | 454 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.55 | 
 | 455 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
@@ -584,7 +584,7 @@
 | 582 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 583 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 
 | 584 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 585 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
+| 585 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 
 | 586 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 587 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
 | 588 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
