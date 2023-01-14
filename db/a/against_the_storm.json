@@ -1,10 +1,10 @@
 {
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
-  "Rating": 4.81,
+  "Rating": 4.82,
   "NumberOfRatings": 1845,
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
-  "LastChanged": "2023-01-10T13:13:59.1271161+00:00",
+  "LastChanged": "2023-01-14T02:57:41.9825822+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:52.7561903+00:00",
@@ -1829,6 +1829,11 @@
     {
       "Time": "2023-01-10T13:13:59.1271167+00:00",
       "Rating": 4.81,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-14T02:57:41.9825822+00:00",
+      "Rating": 4.82,
       "NumberOfRatings": null
     }
   ],
