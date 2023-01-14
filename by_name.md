@@ -130,7 +130,7 @@
 | 128 | [Control](games/c/control.md) | 4.60 | 
 | 129 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 130 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 131 | [Core](games/c/core.md) | 4.37 | 
+| 131 | [Core](games/c/core.md) | 4.38 | 
 | 132 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 133 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.72 | 
 | 134 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
@@ -255,7 +255,7 @@
 | 253 | [Filament](games/f/filament.md) | 4.32 | 
 | 254 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 255 | [Firework](games/f/firework.md) | 4.89 | 
-| 256 | [First Class Trouble](games/f/first_class_trouble.md) | 4.63 | 
+| 256 | [First Class Trouble](games/f/first_class_trouble.md) | 4.56 | 
 | 257 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 258 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.57 | 
 | 259 | [Flatout](games/f/flatout.md) | 4.13 | 
