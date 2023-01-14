@@ -1,10 +1,10 @@
 {
   "ID": "80e804312c2149c69a75aee703e85a9a",
   "Name": "Warface",
-  "Rating": 3.91,
+  "Rating": 3.92,
   "NumberOfRatings": 3179,
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2022-12-27T23:58:14.960095+00:00",
+  "LastChanged": "2023-01-14T13:05:22.7610348+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:34.3823286+00:00",
@@ -2174,6 +2174,11 @@
     {
       "Time": "2022-12-27T23:58:14.9600952+00:00",
       "Rating": 3.91,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-14T13:05:22.761035+00:00",
+      "Rating": 3.92,
       "NumberOfRatings": null
     }
   ],

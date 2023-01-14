@@ -351,7 +351,7 @@
 | 349 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 
 | 350 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 351 | [Isonzo](games/i/isonzo.md) | 4.57 | 
-| 352 | [IXION](games/i/ixion.md) | 4.47 | 
+| 352 | [IXION](games/i/ixion.md) | 4.48 | 
 | 353 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 354 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 355 | [Journey](games/j/journey.md) | 4.80 | 
@@ -633,7 +633,7 @@
 | 631 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
 | 632 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
 | 633 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 634 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
+| 634 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
 | 635 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
 | 636 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 637 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
@@ -685,7 +685,7 @@
 | 683 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.17 | 
 | 684 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 685 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
-| 686 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
+| 686 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 687 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.86 | 
 | 688 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 689 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
@@ -805,7 +805,7 @@
 | 803 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 804 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
 | 805 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
-| 806 | [Warface](games/w/warface.md) | 3.91 | 
+| 806 | [Warface](games/w/warface.md) | 3.92 | 
 | 807 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 808 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 809 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
