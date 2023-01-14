@@ -32,7 +32,7 @@
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.51 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
-| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.42 | 
+| 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.58 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.64 | 
@@ -94,7 +94,7 @@
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.53 | 
+| 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.54 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 98 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -115,7 +115,7 @@
 | 113 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 114 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 115 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
-| 116 | [Chimeraland](games/c/chimeraland.md) | 3.84 | 
+| 116 | [Chimeraland](games/c/chimeraland.md) | 3.86 | 
 | 117 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 118 | [Chorus](games/c/chorus.md) | 4.46 | 
 | 119 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
@@ -272,7 +272,7 @@
 | 270 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 271 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 272 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 273 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.21 | 
+| 273 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.23 | 
 | 274 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
 | 275 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 276 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
