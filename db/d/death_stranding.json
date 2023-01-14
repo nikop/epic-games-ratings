@@ -1,10 +1,10 @@
 {
   "ID": "f4a904fcef2447439c35c4e6457f3027",
   "Name": "DEATH STRANDING",
-  "Rating": 4.78,
+  "Rating": 4.77,
   "FirstSeen": "2022-12-25T17:57:41.2427697+00:00",
   "FirstSeenRating": "2022-12-26T09:58:07.1196688+00:00",
-  "LastChanged": "2023-01-13T15:57:39.2843296+00:00",
+  "LastChanged": "2023-01-14T02:02:21.5770163+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-26T09:58:07.1196692+00:00",
@@ -80,6 +80,11 @@
       "Time": "2023-01-13T15:57:39.2843298+00:00",
       "Rating": 4.78,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-14T02:02:21.5770165+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -89,7 +94,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 43
+      "Count": 48
     },
     {
       "Text": "This game has Amazing Storytelling",

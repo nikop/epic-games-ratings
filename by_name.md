@@ -169,7 +169,7 @@
 | 167 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 168 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 169 | [Death Coming](games/d/death_coming.md) | 4.45 | 
-| 170 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
+| 170 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 
 | 171 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
 | 172 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 173 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
@@ -415,7 +415,7 @@
 | 413 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 414 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 415 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 416 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
+| 416 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 
 | 417 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 418 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
 | 419 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
@@ -512,7 +512,7 @@
 | 510 | [Pine](games/p/pine.md) | 4.14 | 
 | 511 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
 | 512 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 513 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.54 | 
+| 513 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 
 | 514 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 
 | 515 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 
 | 516 | [Predecessor](games/p/predecessor.md) | 4.42 | 
@@ -626,7 +626,7 @@
 | 624 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
 | 625 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.42 | 
 | 626 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
-| 627 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
+| 627 | [SpiderHeck](games/s/spiderheck.md) | 4.75 | 
 | 628 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
 | 629 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 630 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
