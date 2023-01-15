@@ -229,7 +229,7 @@
 | 227 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 228 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 229 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 230 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.56 | 
+| 230 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.54 | 
 | 231 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
 | 232 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 233 | [Fangs](games/f/fangs.md) | 4.05 | 
@@ -312,7 +312,7 @@
 | 310 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 311 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 312 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.55 | 
-| 313 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
+| 313 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
 | 314 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 315 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
 | 316 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
@@ -748,7 +748,7 @@
 | 746 | [Timberborn](games/t/timberborn.md) | 4.71 | 
 | 747 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
 | 748 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 749 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.65 | 
+| 749 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
 | 750 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 
 | 751 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 752 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
