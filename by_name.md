@@ -115,7 +115,7 @@
 | 113 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 114 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 115 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
-| 116 | [Chimeraland](games/c/chimeraland.md) | 3.86 | 
+| 116 | [Chimeraland](games/c/chimeraland.md) | 3.92 | 
 | 117 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 118 | [Chorus](games/c/chorus.md) | 4.46 | 
 | 119 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
@@ -297,7 +297,7 @@
 | 295 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 
 | 296 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 297 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 298 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
+| 298 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
 | 299 | [Griftlands](games/g/griftlands.md) | 4.80 | 
 | 300 | [GRIME](games/g/grime.md) | 4.60 | 
 | 301 | [Grindstone](games/g/grindstone.md) | 4.84 | 
@@ -530,7 +530,7 @@
 | 528 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 529 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 
 | 530 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
-| 531 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
+| 531 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 532 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 533 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 534 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
@@ -583,7 +583,7 @@
 | 581 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 582 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 583 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
-| 584 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 
+| 584 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 585 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 586 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 
 | 587 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 

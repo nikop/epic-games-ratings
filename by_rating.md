@@ -223,22 +223,22 @@
 | 205 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 205 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.69 | 
 | 205 | [High On Life](games/h/high_on_life.md) | 4.69 | 
-| 205 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 
 | 205 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
-| 226 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
-| 226 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 226 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 226 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 226 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 226 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 226 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 226 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 226 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 226 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.68 | 
-| 226 | [CARRION](games/c/carrion.md) | 4.68 | 
-| 226 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
-| 226 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
-| 226 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
+| 225 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
+| 225 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 225 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 225 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 225 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 225 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 225 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 225 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
+| 225 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
+| 225 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.68 | 
+| 225 | [CARRION](games/c/carrion.md) | 4.68 | 
+| 225 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
+| 225 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
+| 225 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
+| 225 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 240 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 240 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 240 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
@@ -712,17 +712,17 @@
 | 705 | [Backbone](games/b/backbone.md) | 4.31 | 
 | 705 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.31 | 
 | 712 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 712 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 712 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 712 | [House Party](games/h/house_party.md) | 4.30 | 
 | 712 | [Parkitect](games/p/parkitect.md) | 4.30 | 
 | 712 | [Dice Legacy](games/d/dice_legacy.md) | 4.30 | 
-| 718 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 718 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 718 | [The Fall](games/t/the_fall.md) | 4.29 | 
-| 718 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
-| 718 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
-| 718 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
+| 717 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
+| 717 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 717 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 717 | [The Fall](games/t/the_fall.md) | 4.29 | 
+| 717 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
+| 717 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 717 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
 | 724 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 724 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 724 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
@@ -812,12 +812,12 @@
 | 810 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 810 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
 | 810 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
+| 810 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
 | 810 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
-| 814 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 814 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
-| 814 | [Tharsis](games/t/tharsis.md) | 4.07 | 
-| 814 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 
-| 814 | [Lake](games/l/lake.md) | 4.07 | 
+| 815 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 815 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
+| 815 | [Tharsis](games/t/tharsis.md) | 4.07 | 
+| 815 | [Lake](games/l/lake.md) | 4.07 | 
 | 819 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 819 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 819 | [Fangs](games/f/fangs.md) | 4.05 | 
@@ -839,10 +839,10 @@
 | 837 | [Warface](games/w/warface.md) | 3.92 | 
 | 837 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 837 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.92 | 
-| 840 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 841 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.89 | 
-| 842 | [Chimeraland](games/c/chimeraland.md) | 3.86 | 
-| 842 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
+| 837 | [Chimeraland](games/c/chimeraland.md) | 3.92 | 
+| 841 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 842 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.89 | 
+| 843 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 844 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
 | 845 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 846 | [Saints Row](games/s/saints_row.md) | 3.78 | 
