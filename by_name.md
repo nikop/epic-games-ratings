@@ -132,7 +132,7 @@
 | 130 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 131 | [Core](games/c/core.md) | 4.38 | 
 | 132 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 133 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.70 | 
+| 133 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
 | 134 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 135 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 136 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
@@ -227,9 +227,9 @@
 | 225 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 226 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 227 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 228 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
+| 228 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 229 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 230 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.54 | 
+| 230 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.53 | 
 | 231 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
 | 232 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 233 | [Fangs](games/f/fangs.md) | 4.05 | 
@@ -464,7 +464,7 @@
 | 462 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
 | 463 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 464 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 465 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
+| 465 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
 | 466 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 467 | [Observation](games/o/observation.md) | 4.56 | 
 | 468 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 

@@ -81,7 +81,6 @@
 | 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 79 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 79 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 79 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
 | 79 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
 | 79 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
@@ -91,15 +90,16 @@
 | 79 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
 | 79 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
 | 79 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
-| 92 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
-| 92 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 92 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 92 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 92 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 92 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 92 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
-| 92 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 92 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.79 | 
+| 91 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
+| 91 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
+| 91 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 91 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
+| 91 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 91 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
+| 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
+| 91 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.79 | 
 | 101 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 101 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 101 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
@@ -112,18 +112,18 @@
 | 105 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 105 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 105 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
-| 105 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
-| 114 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 114 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 114 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 114 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 114 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 114 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
-| 114 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
-| 114 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
-| 114 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
-| 114 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
-| 114 | [shapez](games/s/shapez.md) | 4.76 | 
+| 113 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 113 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 113 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 113 | [Diabotical](games/d/diabotical.md) | 4.76 | 
+| 113 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 113 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
+| 113 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
+| 113 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
+| 113 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
+| 113 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
+| 113 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
+| 113 | [shapez](games/s/shapez.md) | 4.76 | 
 | 125 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 125 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 125 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
@@ -465,25 +465,25 @@
 | 457 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
 | 457 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 457 | [Brawlhalla](games/b/brawlhalla.md) | 4.54 | 
-| 457 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.54 | 
 | 457 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
 | 457 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 469 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 469 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
-| 469 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 469 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 469 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
-| 469 | [Just Die Already](games/j/just_die_already.md) | 4.53 | 
-| 469 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 469 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
-| 469 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
-| 469 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 469 | [RUINER](games/r/ruiner.md) | 4.53 | 
-| 469 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 469 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 469 | [Horace](games/h/horace.md) | 4.53 | 
-| 469 | [Aztez](games/a/aztez.md) | 4.53 | 
-| 469 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
+| 468 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
+| 468 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
+| 468 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 468 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 468 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
+| 468 | [Just Die Already](games/j/just_die_already.md) | 4.53 | 
+| 468 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 468 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
+| 468 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
+| 468 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
+| 468 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 468 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 468 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 468 | [Horace](games/h/horace.md) | 4.53 | 
+| 468 | [Aztez](games/a/aztez.md) | 4.53 | 
+| 468 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
+| 468 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.53 | 
 | 485 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 485 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 485 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -847,5 +847,5 @@
 | 845 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 846 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 847 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
-| 848 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
-| 848 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.70 | 
+| 848 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
+| 849 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
