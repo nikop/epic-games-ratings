@@ -255,7 +255,7 @@
 | 253 | [Filament](games/f/filament.md) | 4.32 | 
 | 254 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 255 | [Firework](games/f/firework.md) | 4.89 | 
-| 256 | [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 
+| 256 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
 | 257 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 258 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.57 | 
 | 259 | [Flatout](games/f/flatout.md) | 4.13 | 
@@ -678,7 +678,7 @@
 | 676 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 677 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 678 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 679 | [Tharsis](games/t/tharsis.md) | 4.09 | 
+| 679 | [Tharsis](games/t/tharsis.md) | 4.07 | 
 | 680 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 681 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
 | 682 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
@@ -722,7 +722,7 @@
 | 720 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 721 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 722 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
-| 723 | [The Surge](games/t/the_surge.md) | 4.52 | 
+| 723 | [The Surge](games/t/the_surge.md) | 4.50 | 
 | 724 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
 | 725 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 726 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
