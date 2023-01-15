@@ -195,7 +195,7 @@
 | 193 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 194 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.59 | 
 | 195 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 196 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.49 | 
+| 196 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.48 | 
 | 197 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 198 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 199 | [DOOM 3](games/d/doom_3.md) | 4.63 | 
@@ -227,7 +227,7 @@
 | 225 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 226 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 227 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 228 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
+| 228 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 229 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 230 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.54 | 
 | 231 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 

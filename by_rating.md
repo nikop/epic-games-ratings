@@ -112,18 +112,18 @@
 | 105 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 105 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 105 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
-| 113 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 113 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 113 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 113 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 113 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 113 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
-| 113 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
-| 113 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
-| 113 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
-| 113 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
-| 113 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
-| 113 | [shapez](games/s/shapez.md) | 4.76 | 
+| 105 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
+| 114 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 114 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 114 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 114 | [Diabotical](games/d/diabotical.md) | 4.76 | 
+| 114 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 114 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
+| 114 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
+| 114 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
+| 114 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
+| 114 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
+| 114 | [shapez](games/s/shapez.md) | 4.76 | 
 | 125 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 125 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 125 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
@@ -533,7 +533,6 @@
 | 523 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 523 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
 | 523 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
-| 523 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.49 | 
 | 523 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
 | 523 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
 | 523 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -541,13 +540,14 @@
 | 523 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 523 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 523 | [STG Football](games/s/stg_football.md) | 4.49 | 
-| 542 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 542 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 542 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
-| 542 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
-| 542 | [IXION](games/i/ixion.md) | 4.48 | 
-| 542 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
-| 542 | [Tails of Iron](games/t/tails_of_iron.md) | 4.48 | 
+| 541 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 541 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 541 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
+| 541 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
+| 541 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.48 | 
+| 541 | [IXION](games/i/ixion.md) | 4.48 | 
+| 541 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
+| 541 | [Tails of Iron](games/t/tails_of_iron.md) | 4.48 | 
 | 549 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 549 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 549 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
