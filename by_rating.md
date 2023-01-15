@@ -143,26 +143,26 @@
 | 134 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.74 | 
 | 134 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
 | 134 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 134 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 134 | [Revita](games/r/revita.md) | 4.74 | 
 | 134 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 134 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 
-| 147 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 147 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 147 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
-| 147 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 147 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 147 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 147 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 147 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.73 | 
-| 147 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
-| 147 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
-| 147 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
-| 147 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
-| 147 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
-| 147 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
-| 147 | [King of Retail](games/k/king_of_retail.md) | 4.73 | 
-| 147 | [Outlast](games/o/outlast.md) | 4.73 | 
-| 147 | [Suzerain](games/s/suzerain.md) | 4.73 | 
+| 148 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 148 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 148 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
+| 148 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 148 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
+| 148 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 148 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 148 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.73 | 
+| 148 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
+| 148 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
+| 148 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
+| 148 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
+| 148 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.73 | 
+| 148 | [King of Retail](games/k/king_of_retail.md) | 4.73 | 
+| 148 | [Outlast](games/o/outlast.md) | 4.73 | 
+| 148 | [Suzerain](games/s/suzerain.md) | 4.73 | 
 | 164 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 164 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 164 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
