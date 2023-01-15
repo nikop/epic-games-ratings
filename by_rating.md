@@ -400,29 +400,29 @@
 | 388 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
 | 388 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 388 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
+| 388 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 
 | 388 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
 | 388 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 388 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.58 | 
 | 388 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 388 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
-| 406 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 406 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 406 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 406 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
-| 406 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 406 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
-| 406 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 406 | [Hob](games/h/hob.md) | 4.57 | 
-| 406 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
-| 406 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.57 | 
-| 406 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
-| 406 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
-| 406 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
-| 406 | [Isonzo](games/i/isonzo.md) | 4.57 | 
-| 406 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
-| 406 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
-| 406 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
-| 406 | [The Medium](games/t/the_medium.md) | 4.57 | 
+| 407 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 407 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 407 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 407 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
+| 407 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 407 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 407 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 407 | [Hob](games/h/hob.md) | 4.57 | 
+| 407 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.57 | 
+| 407 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
+| 407 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
+| 407 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
+| 407 | [Isonzo](games/i/isonzo.md) | 4.57 | 
+| 407 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
+| 407 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
+| 407 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
+| 407 | [The Medium](games/t/the_medium.md) | 4.57 | 
 | 424 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 424 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 424 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
@@ -735,14 +735,14 @@
 | 730 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 730 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 730 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
-| 736 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 737 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 737 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
-| 737 | [Mortal Shell](games/m/mortal_shell.md) | 4.24 | 
-| 737 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
-| 737 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.24 | 
-| 737 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
-| 737 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
+| 730 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.26 | 
+| 737 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 738 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
+| 738 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
+| 738 | [Mortal Shell](games/m/mortal_shell.md) | 4.24 | 
+| 738 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
+| 738 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
+| 738 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 744 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 744 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
 | 744 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
