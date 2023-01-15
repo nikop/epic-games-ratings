@@ -652,6 +652,7 @@
 | 642 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.39 | 
 | 651 | [Core](games/c/core.md) | 4.38 | 
 | 651 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 651 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 651 | [Encased](games/e/encased.md) | 4.38 | 
 | 651 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 651 | [Othercide](games/o/othercide.md) | 4.38 | 
@@ -660,14 +661,13 @@
 | 651 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 651 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
 | 651 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 661 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 661 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 661 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 661 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 661 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 661 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 661 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 661 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
+| 662 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 662 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 662 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 662 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 662 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 662 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 662 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
 | 669 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 669 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 669 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 

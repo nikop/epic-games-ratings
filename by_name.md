@@ -189,7 +189,7 @@
 | 187 | [Dice Legacy](games/d/dice_legacy.md) | 4.30 | 
 | 188 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 189 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
-| 190 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
+| 190 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 191 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 192 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.73 | 
 | 193 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
