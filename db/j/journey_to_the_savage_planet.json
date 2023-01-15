@@ -1,10 +1,10 @@
 {
   "ID": "oleander",
   "Name": "Journey to the Savage Planet",
-  "Rating": 4.58,
+  "Rating": 4.57,
   "NumberOfRatings": 114,
   "FirstSeen": "2022-07-22T20:21:18.1838434+00:00",
-  "LastChanged": "2022-12-31T02:01:39.3049228+00:00",
+  "LastChanged": "2023-01-15T03:01:14.3793641+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:18.1838436+00:00",
@@ -284,6 +284,11 @@
     {
       "Time": "2022-12-31T02:01:39.304923+00:00",
       "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-15T03:01:14.3793644+00:00",
+      "Rating": 4.57,
       "NumberOfRatings": null
     }
   ],

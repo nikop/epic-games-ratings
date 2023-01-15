@@ -111,7 +111,7 @@
 | 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 110 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
-| 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 113 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 114 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 115 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
@@ -307,7 +307,7 @@
 | 305 | [Hammerting](games/h/hammerting.md) | 4.36 | 
 | 306 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
 | 307 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.63 | 
-| 308 | [Haven](games/h/haven.md) | 4.76 | 
+| 308 | [Haven](games/h/haven.md) | 4.75 | 
 | 309 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 310 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 311 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
@@ -355,7 +355,7 @@
 | 353 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 354 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 355 | [Journey](games/j/journey.md) | 4.80 | 
-| 356 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
+| 356 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
 | 357 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 358 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 359 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
@@ -739,7 +739,7 @@
 | 737 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 738 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 739 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 740 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.58 | 
+| 740 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.59 | 
 | 741 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
 | 742 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 743 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
