@@ -364,7 +364,7 @@
 | 362 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 363 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 364 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 365 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.78 | 
+| 365 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
 | 366 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 367 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 368 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
@@ -537,7 +537,7 @@
 | 535 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 536 | [Redout 2](games/r/redout_2.md) | 4.56 | 
 | 537 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 538 | [Relicta](games/r/relicta.md) | 4.14 | 
+| 538 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 539 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
 | 540 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 541 | [Revita](games/r/revita.md) | 4.74 | 

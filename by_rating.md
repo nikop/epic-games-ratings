@@ -98,12 +98,12 @@
 | 92 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 92 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 92 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
+| 92 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
 | 92 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.79 | 
-| 100 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
-| 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 100 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 100 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
-| 100 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.78 | 
+| 101 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 101 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 101 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
+| 101 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 105 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 105 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 105 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
@@ -789,11 +789,11 @@
 | 783 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
 | 783 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
 | 789 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
+| 789 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 789 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
 | 789 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 792 | [Pine](games/p/pine.md) | 4.14 | 
-| 792 | [Relicta](games/r/relicta.md) | 4.14 | 
-| 792 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
+| 793 | [Pine](games/p/pine.md) | 4.14 | 
+| 793 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 795 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 795 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 797 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
