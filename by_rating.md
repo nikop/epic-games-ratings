@@ -59,13 +59,13 @@
 | 56 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 56 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
 | 56 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
-| 56 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.83 | 
 | 56 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
-| 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 62 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 62 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 62 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
-| 62 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.82 | 
+| 61 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 61 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 61 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 61 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
+| 61 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.82 | 
+| 61 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 67 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 67 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 67 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.81 | 
@@ -519,28 +519,28 @@
 | 509 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
 | 509 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 509 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
-| 509 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.50 | 
 | 509 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 509 | [Sable](games/s/sable.md) | 4.50 | 
 | 509 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 509 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
-| 525 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 525 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 525 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 525 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 525 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
-| 525 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 525 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 525 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 525 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 525 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 525 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
-| 525 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
-| 525 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 525 | [CryoFall](games/c/cryofall.md) | 4.49 | 
-| 525 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 525 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 525 | [STG Football](games/s/stg_football.md) | 4.49 | 
+| 524 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 524 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 524 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 524 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 524 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
+| 524 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 524 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 524 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 524 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 524 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 524 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.49 | 
+| 524 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
+| 524 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
+| 524 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 524 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 524 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 524 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 524 | [STG Football](games/s/stg_football.md) | 4.49 | 
 | 542 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 542 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 542 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 

@@ -195,7 +195,7 @@
 | 193 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 194 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.59 | 
 | 195 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 196 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.50 | 
+| 196 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.49 | 
 | 197 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 198 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 199 | [DOOM 3](games/d/doom_3.md) | 4.63 | 
@@ -795,7 +795,7 @@
 | 793 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
 | 794 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 795 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 796 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.83 | 
+| 796 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 797 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
 | 798 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 799 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
