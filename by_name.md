@@ -130,7 +130,7 @@
 | 128 | [Control](games/c/control.md) | 4.60 | 
 | 129 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 130 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 131 | [Core](games/c/core.md) | 4.38 | 
+| 131 | [Core](games/c/core.md) | 4.37 | 
 | 132 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 133 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
 | 134 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
@@ -791,7 +791,7 @@
 | 789 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 790 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 
 | 791 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 792 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.59 | 
+| 792 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
 | 793 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 794 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
 | 795 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
