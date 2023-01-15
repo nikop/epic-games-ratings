@@ -93,7 +93,7 @@
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 93 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
+| 94 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 95 | [Brawlhalla](games/b/brawlhalla.md) | 4.54 | 
 | 96 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 97 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
@@ -213,7 +213,7 @@
 | 211 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 212 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 213 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 214 | [Encased](games/e/encased.md) | 4.38 | 
+| 214 | [Encased](games/e/encased.md) | 4.39 | 
 | 215 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 216 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 217 | [EVE Online](games/e/eve_online.md) | 4.26 | 
@@ -255,7 +255,7 @@
 | 253 | [Filament](games/f/filament.md) | 4.32 | 
 | 254 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 255 | [Firework](games/f/firework.md) | 4.89 | 
-| 256 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
+| 256 | [First Class Trouble](games/f/first_class_trouble.md) | 4.56 | 
 | 257 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 258 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.57 | 
 | 259 | [Flatout](games/f/flatout.md) | 4.13 | 
@@ -311,7 +311,7 @@
 | 309 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 310 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 311 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 312 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.55 | 
+| 312 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.56 | 
 | 313 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
 | 314 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 315 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
@@ -333,7 +333,7 @@
 | 331 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
 | 332 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 333 | [Huntdown](games/h/huntdown.md) | 4.85 | 
-| 334 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 
+| 334 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 335 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
 | 336 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
 | 337 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
@@ -687,7 +687,7 @@
 | 685 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 686 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 687 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
-| 688 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.86 | 
+| 688 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.87 | 
 | 689 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 690 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 691 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
