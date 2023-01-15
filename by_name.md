@@ -177,7 +177,7 @@
 | 175 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 176 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 
 | 177 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
-| 178 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
+| 178 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 179 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 180 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 181 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
@@ -272,7 +272,7 @@
 | 270 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 271 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 272 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 273 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.23 | 
+| 273 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.24 | 
 | 274 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
 | 275 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 276 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
@@ -512,7 +512,7 @@
 | 510 | [Pine](games/p/pine.md) | 4.14 | 
 | 511 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
 | 512 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 513 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 
+| 513 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
 | 514 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
 | 515 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 516 | [Predecessor](games/p/predecessor.md) | 4.42 | 
@@ -641,7 +641,7 @@
 | 639 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 640 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 641 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
-| 642 | [STG Football](games/s/stg_football.md) | 4.48 | 
+| 642 | [STG Football](games/s/stg_football.md) | 4.49 | 
 | 643 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 644 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 645 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
