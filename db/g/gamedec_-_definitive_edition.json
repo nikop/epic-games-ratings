@@ -1,11 +1,11 @@
 {
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
-  "Rating": 4.26,
+  "Rating": 4.28,
   "NumberOfRatings": 33,
   "FirstSeen": "2022-07-22T20:19:30.52798+00:00",
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
-  "LastChanged": "2023-01-15T15:57:05.5986208+00:00",
+  "LastChanged": "2023-01-16T02:07:47.3642184+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-13T10:30:34.4977327+00:00",
@@ -145,6 +145,11 @@
     {
       "Time": "2023-01-15T15:57:05.5986209+00:00",
       "Rating": 4.26,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-16T02:07:47.3642185+00:00",
+      "Rating": 4.28,
       "NumberOfRatings": null
     }
   ],

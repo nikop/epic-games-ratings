@@ -435,28 +435,28 @@
 | 426 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
 | 426 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
 | 426 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
-| 426 | [Warpips](games/w/warpips.md) | 4.56 | 
 | 426 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 426 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 426 | [Observation](games/o/observation.md) | 4.56 | 
-| 426 | [First Class Trouble](games/f/first_class_trouble.md) | 4.56 | 
 | 426 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.56 | 
 | 426 | [Redout 2](games/r/redout_2.md) | 4.56 | 
-| 443 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 443 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
-| 443 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 443 | [Outward](games/o/outward.md) | 4.55 | 
-| 443 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 443 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 443 | [Minit](games/m/minit.md) | 4.55 | 
-| 443 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
-| 443 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 443 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
-| 443 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
-| 443 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
-| 443 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.55 | 
-| 443 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
-| 443 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
+| 441 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 441 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
+| 441 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 441 | [Outward](games/o/outward.md) | 4.55 | 
+| 441 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 441 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
+| 441 | [Minit](games/m/minit.md) | 4.55 | 
+| 441 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 441 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 441 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
+| 441 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
+| 441 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
+| 441 | [Warpips](games/w/warpips.md) | 4.55 | 
+| 441 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.55 | 
+| 441 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
+| 441 | [First Class Trouble](games/f/first_class_trouble.md) | 4.55 | 
+| 441 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
 | 458 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 458 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
 | 458 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
@@ -726,17 +726,17 @@
 | 724 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 724 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 724 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
+| 724 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.28 | 
 | 724 | [Dark Light](games/d/dark_light.md) | 4.28 | 
-| 728 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
-| 728 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
-| 728 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
-| 731 | [EVE Online](games/e/eve_online.md) | 4.26 | 
-| 731 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 731 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 731 | [Steelrising](games/s/steelrising.md) | 4.26 | 
-| 731 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
-| 731 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
-| 731 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.26 | 
+| 729 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
+| 729 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
+| 729 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
+| 732 | [EVE Online](games/e/eve_online.md) | 4.26 | 
+| 732 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 732 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 732 | [Steelrising](games/s/steelrising.md) | 4.26 | 
+| 732 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
+| 732 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 738 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 739 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 739 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
