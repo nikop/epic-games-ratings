@@ -195,7 +195,6 @@
 | 187 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
 | 187 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 187 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 187 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
 | 187 | [Fez](games/f/fez.md) | 4.70 | 
 | 187 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
 | 187 | [Townscaper](games/t/townscaper.md) | 4.70 | 
@@ -204,26 +203,27 @@
 | 187 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
 | 187 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
 | 187 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
-| 205 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 205 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 205 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
-| 205 | [Days Gone](games/d/days_gone.md) | 4.69 | 
-| 205 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 205 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 205 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 205 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 205 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
-| 205 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 205 | [Bad North](games/b/bad_north.md) | 4.69 | 
-| 205 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
-| 205 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 205 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
-| 205 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 205 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
-| 205 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 205 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.69 | 
-| 205 | [High On Life](games/h/high_on_life.md) | 4.69 | 
-| 205 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
+| 204 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 204 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 204 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
+| 204 | [Days Gone](games/d/days_gone.md) | 4.69 | 
+| 204 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
+| 204 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
+| 204 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 204 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 204 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
+| 204 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 204 | [Bad North](games/b/bad_north.md) | 4.69 | 
+| 204 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
+| 204 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 204 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 204 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
+| 204 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
+| 204 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
+| 204 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
+| 204 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.69 | 
+| 204 | [High On Life](games/h/high_on_life.md) | 4.69 | 
+| 204 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
 | 225 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
 | 225 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 225 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
@@ -696,7 +696,6 @@
 | 693 | [Automachef](games/a/automachef.md) | 4.33 | 
 | 693 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 
 | 696 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 696 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.32 | 
 | 696 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
 | 696 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.32 | 
 | 696 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
@@ -704,13 +703,14 @@
 | 696 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
 | 696 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
 | 696 | [Filament](games/f/filament.md) | 4.32 | 
-| 705 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
-| 705 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 705 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
-| 705 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.31 | 
-| 705 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
-| 705 | [Backbone](games/b/backbone.md) | 4.31 | 
-| 705 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.31 | 
+| 704 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 704 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 704 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
+| 704 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
+| 704 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.31 | 
+| 704 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
+| 704 | [Backbone](games/b/backbone.md) | 4.31 | 
+| 704 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.31 | 
 | 712 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 712 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 712 | [House Party](games/h/house_party.md) | 4.30 | 

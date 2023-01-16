@@ -613,7 +613,7 @@
 | 611 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 612 | [SOMA](games/s/soma.md) | 4.64 | 
 | 613 | [Somerville](games/s/somerville.md) | 4.20 | 
-| 614 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
+| 614 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 615 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
 | 616 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 617 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
@@ -668,7 +668,7 @@
 | 666 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 667 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 668 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 669 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.32 | 
+| 669 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 670 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 671 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 672 | [Tacoma](games/t/tacoma.md) | 4.41 | 
