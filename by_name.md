@@ -255,7 +255,7 @@
 | 253 | [Filament](games/f/filament.md) | 4.32 | 
 | 254 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 255 | [Firework](games/f/firework.md) | 4.89 | 
-| 256 | [First Class Trouble](games/f/first_class_trouble.md) | 4.58 | 
+| 256 | [First Class Trouble](games/f/first_class_trouble.md) | 4.57 | 
 | 257 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 258 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.57 | 
 | 259 | [Flatout](games/f/flatout.md) | 4.13 | 
@@ -349,7 +349,7 @@
 | 347 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 348 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 349 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
-| 350 | [Ironcast](games/i/ironcast.md) | 3.92 | 
+| 350 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 351 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 352 | [IXION](games/i/ixion.md) | 4.48 | 
 | 353 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
