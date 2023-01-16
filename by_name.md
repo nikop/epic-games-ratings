@@ -469,7 +469,7 @@
 | 467 | [Observation](games/o/observation.md) | 4.56 | 
 | 468 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 469 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.81 | 
-| 470 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 470 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
 | 471 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
 | 472 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 473 | [Old World](games/o/old_world.md) | 4.64 | 
