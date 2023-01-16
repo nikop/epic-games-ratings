@@ -21,7 +21,7 @@
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
-| 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 24 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
@@ -317,7 +317,7 @@
 | 315 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
 | 316 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 317 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 318 | [High On Life](games/h/high_on_life.md) | 4.69 | 
+| 318 | [High On Life](games/h/high_on_life.md) | 4.70 | 
 | 319 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 320 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 321 | [Hob](games/h/hob.md) | 4.57 | 
@@ -351,7 +351,7 @@
 | 349 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 350 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 351 | [Isonzo](games/i/isonzo.md) | 4.57 | 
-| 352 | [IXION](games/i/ixion.md) | 4.48 | 
+| 352 | [IXION](games/i/ixion.md) | 4.49 | 
 | 353 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 354 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 355 | [Journey](games/j/journey.md) | 4.80 | 
