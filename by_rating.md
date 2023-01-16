@@ -835,11 +835,11 @@
 | 832 | [Conarium](games/c/conarium.md) | 3.94 | 
 | 832 | [Patron](games/p/patron.md) | 3.94 | 
 | 832 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
+| 836 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
 | 836 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
-| 837 | [Warface](games/w/warface.md) | 3.92 | 
-| 837 | [Ironcast](games/i/ironcast.md) | 3.92 | 
-| 837 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.92 | 
-| 837 | [Chimeraland](games/c/chimeraland.md) | 3.92 | 
+| 838 | [Warface](games/w/warface.md) | 3.92 | 
+| 838 | [Ironcast](games/i/ironcast.md) | 3.92 | 
+| 838 | [Chimeraland](games/c/chimeraland.md) | 3.92 | 
 | 841 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 842 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.89 | 
 | 843 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
