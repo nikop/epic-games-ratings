@@ -255,7 +255,7 @@
 | 253 | [Filament](games/f/filament.md) | 4.32 | 
 | 254 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 255 | [Firework](games/f/firework.md) | 4.89 | 
-| 256 | [First Class Trouble](games/f/first_class_trouble.md) | 4.57 | 
+| 256 | [First Class Trouble](games/f/first_class_trouble.md) | 4.58 | 
 | 257 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 258 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.57 | 
 | 259 | [Flatout](games/f/flatout.md) | 4.13 | 
@@ -748,7 +748,7 @@
 | 746 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
 | 747 | [Timberborn](games/t/timberborn.md) | 4.71 | 
 | 748 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 749 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 749 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.58 | 
 | 750 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
 | 751 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 
 | 752 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
