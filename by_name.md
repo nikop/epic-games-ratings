@@ -493,7 +493,7 @@
 | 491 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 492 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 493 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 494 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
+| 494 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
 | 495 | [Parkitect](games/p/parkitect.md) | 4.30 | 
 | 496 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 497 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
@@ -762,7 +762,7 @@
 | 760 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 761 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 762 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
-| 763 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.65 | 
+| 763 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
 | 764 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 765 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
 | 766 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 
