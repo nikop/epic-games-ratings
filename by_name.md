@@ -115,7 +115,7 @@
 | 113 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 114 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 115 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
-| 116 | [Chimeraland](games/c/chimeraland.md) | 3.92 | 
+| 116 | [Chimeraland](games/c/chimeraland.md) | 3.95 | 
 | 117 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 118 | [Chorus](games/c/chorus.md) | 4.46 | 
 | 119 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
@@ -762,7 +762,7 @@
 | 760 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 761 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 762 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
-| 763 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
+| 763 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.65 | 
 | 764 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 765 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
 | 766 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 

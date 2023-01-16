@@ -260,7 +260,6 @@
 | 257 | [Trackmania](games/t/trackmania.md) | 4.66 | 
 | 257 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 257 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 257 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
 | 257 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
 | 257 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 257 | [Crashlands](games/c/crashlands.md) | 4.66 | 
@@ -277,16 +276,17 @@
 | 257 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
 | 257 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 257 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
-| 278 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 278 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 278 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 278 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 278 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
-| 278 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 278 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
-| 278 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
-| 278 | [GNOG](games/g/gnog.md) | 4.65 | 
-| 278 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
+| 277 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 277 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 277 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 277 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.65 | 
+| 277 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 277 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
+| 277 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 277 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 277 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
+| 277 | [GNOG](games/g/gnog.md) | 4.65 | 
+| 277 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
 | 288 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 288 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 288 | [HITMAN](games/h/hitman.md) | 4.64 | 
@@ -831,14 +831,14 @@
 | 829 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 829 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 831 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 832 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
-| 832 | [Conarium](games/c/conarium.md) | 3.94 | 
-| 832 | [Patron](games/p/patron.md) | 3.94 | 
-| 832 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
-| 836 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
-| 836 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
-| 838 | [Warface](games/w/warface.md) | 3.92 | 
-| 838 | [Chimeraland](games/c/chimeraland.md) | 3.92 | 
+| 831 | [Chimeraland](games/c/chimeraland.md) | 3.95 | 
+| 833 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
+| 833 | [Conarium](games/c/conarium.md) | 3.94 | 
+| 833 | [Patron](games/p/patron.md) | 3.94 | 
+| 833 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
+| 837 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
+| 837 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
+| 839 | [Warface](games/w/warface.md) | 3.92 | 
 | 840 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 840 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 842 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.89 | 
