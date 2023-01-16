@@ -1,10 +1,10 @@
 {
   "ID": "c9be94273fe244c08032ca493ad87434",
   "Name": "Assassin\u0027s Creed Syndicate Standard Edition",
-  "Rating": 4.51,
+  "Rating": 4.5,
   "NumberOfRatings": 2854,
   "FirstSeen": "2022-07-22T20:16:50.1720529+00:00",
-  "LastChanged": "2023-01-14T15:56:45.2391566+00:00",
+  "LastChanged": "2023-01-16T18:56:58.8781239+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:50.1720532+00:00",
@@ -1289,6 +1289,11 @@
     {
       "Time": "2023-01-14T15:56:45.2391567+00:00",
       "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-16T18:56:58.8781241+00:00",
+      "Rating": 4.5,
       "NumberOfRatings": null
     }
   ],

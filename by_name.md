@@ -46,7 +46,7 @@
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 
-| 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 
+| 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
@@ -493,7 +493,7 @@
 | 491 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 492 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
 | 493 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 494 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
+| 494 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
 | 495 | [Parkitect](games/p/parkitect.md) | 4.30 | 
 | 496 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 497 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 

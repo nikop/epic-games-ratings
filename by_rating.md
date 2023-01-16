@@ -494,7 +494,6 @@
 | 485 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 485 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 494 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 494 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 
 | 494 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 494 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 494 | [MythForce](games/m/mythforce.md) | 4.51 | 
@@ -508,20 +507,21 @@
 | 494 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 494 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 494 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 509 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 509 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 509 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 509 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
-| 509 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
-| 509 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 509 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 509 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
-| 509 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 509 | [The Surge](games/t/the_surge.md) | 4.50 | 
-| 509 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 509 | [Sable](games/s/sable.md) | 4.50 | 
-| 509 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 509 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
+| 508 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 508 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 508 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 508 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 508 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
+| 508 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
+| 508 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 508 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 508 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
+| 508 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 508 | [The Surge](games/t/the_surge.md) | 4.50 | 
+| 508 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 508 | [Sable](games/s/sable.md) | 4.50 | 
+| 508 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
+| 508 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 523 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 523 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 523 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -730,13 +730,13 @@
 | 724 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 729 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 729 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
-| 731 | [EVE Online](games/e/eve_online.md) | 4.26 | 
-| 731 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 731 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 731 | [Steelrising](games/s/steelrising.md) | 4.26 | 
-| 731 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
-| 731 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
-| 731 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
+| 729 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
+| 732 | [EVE Online](games/e/eve_online.md) | 4.26 | 
+| 732 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 732 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 732 | [Steelrising](games/s/steelrising.md) | 4.26 | 
+| 732 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
+| 732 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 738 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 739 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 739 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
