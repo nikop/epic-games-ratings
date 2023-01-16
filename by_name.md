@@ -432,7 +432,7 @@
 | 430 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 431 | [Mortal Shell](games/m/mortal_shell.md) | 4.24 | 
 | 432 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
-| 433 | [MotoGP™21](games/m/motogp™21.md) | 4.56 | 
+| 433 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 434 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 435 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 436 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
@@ -825,7 +825,7 @@
 | 823 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 824 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 825 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
-| 826 | [while True: learn()](games/w/while_true__learn().md) | 4.52 | 
+| 826 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 827 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.89 | 
 | 828 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 829 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
