@@ -446,7 +446,6 @@
 | 442 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 442 | [Outward](games/o/outward.md) | 4.55 | 
 | 442 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 442 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 442 | [Minit](games/m/minit.md) | 4.55 | 
 | 442 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 442 | [Souldiers](games/s/souldiers.md) | 4.55 | 
@@ -457,16 +456,17 @@
 | 442 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.55 | 
 | 442 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
 | 442 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
-| 458 | [VALORANT](games/v/valorant.md) | 4.54 | 
-| 458 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
-| 458 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 458 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
-| 458 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
-| 458 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
-| 458 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
-| 458 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
-| 458 | [Brawlhalla](games/b/brawlhalla.md) | 4.54 | 
-| 458 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 457 | [VALORANT](games/v/valorant.md) | 4.54 | 
+| 457 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
+| 457 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 457 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
+| 457 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
+| 457 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
+| 457 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 457 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
+| 457 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
+| 457 | [Brawlhalla](games/b/brawlhalla.md) | 4.54 | 
+| 457 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 468 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 468 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
 | 468 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
@@ -541,13 +541,13 @@
 | 523 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 523 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 523 | [STG Football](games/s/stg_football.md) | 4.49 | 
-| 542 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 542 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 542 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
-| 542 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
-| 542 | [IXION](games/i/ixion.md) | 4.48 | 
-| 542 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
-| 542 | [Tails of Iron](games/t/tails_of_iron.md) | 4.48 | 
+| 523 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
+| 543 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 543 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 543 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
+| 543 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
+| 543 | [IXION](games/i/ixion.md) | 4.48 | 
+| 543 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 549 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 549 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 549 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -641,17 +641,17 @@
 | 634 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
 | 634 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 634 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 634 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 
 | 634 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
-| 643 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 643 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 643 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 643 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
-| 643 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
-| 643 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
-| 643 | [Encased](games/e/encased.md) | 4.39 | 
-| 643 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
-| 643 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 643 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.39 | 
+| 644 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 644 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 644 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 644 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
+| 644 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
+| 644 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
+| 644 | [Encased](games/e/encased.md) | 4.39 | 
+| 644 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
+| 644 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 653 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 653 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 653 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 

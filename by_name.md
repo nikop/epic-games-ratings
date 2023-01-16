@@ -52,7 +52,7 @@
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.39 | 
+| 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
@@ -589,7 +589,7 @@
 | 587 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 588 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
 | 589 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 590 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
+| 590 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 591 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
 | 592 | [shapez](games/s/shapez.md) | 4.76 | 
 | 593 | [Sheltered](games/s/sheltered.md) | 4.43 | 
@@ -672,7 +672,7 @@
 | 670 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 671 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 672 | [Tacoma](games/t/tacoma.md) | 4.41 | 
-| 673 | [Tails of Iron](games/t/tails_of_iron.md) | 4.48 | 
+| 673 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
 | 674 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 675 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 676 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
