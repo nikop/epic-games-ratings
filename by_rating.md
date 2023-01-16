@@ -438,25 +438,25 @@
 | 426 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 426 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 426 | [Observation](games/o/observation.md) | 4.56 | 
+| 426 | [First Class Trouble](games/f/first_class_trouble.md) | 4.56 | 
 | 426 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.56 | 
 | 426 | [Redout 2](games/r/redout_2.md) | 4.56 | 
-| 441 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 441 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
-| 441 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 441 | [Outward](games/o/outward.md) | 4.55 | 
-| 441 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 441 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 441 | [Minit](games/m/minit.md) | 4.55 | 
-| 441 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
-| 441 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 441 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
-| 441 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
-| 441 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
-| 441 | [Warpips](games/w/warpips.md) | 4.55 | 
-| 441 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.55 | 
-| 441 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
-| 441 | [First Class Trouble](games/f/first_class_trouble.md) | 4.55 | 
-| 441 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
+| 442 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 442 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
+| 442 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 442 | [Outward](games/o/outward.md) | 4.55 | 
+| 442 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 442 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
+| 442 | [Minit](games/m/minit.md) | 4.55 | 
+| 442 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 442 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 442 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
+| 442 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
+| 442 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
+| 442 | [Warpips](games/w/warpips.md) | 4.55 | 
+| 442 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.55 | 
+| 442 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
+| 442 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
 | 458 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 458 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
 | 458 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
