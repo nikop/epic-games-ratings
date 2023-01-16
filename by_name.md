@@ -257,7 +257,7 @@
 | 255 | [Firework](games/f/firework.md) | 4.89 | 
 | 256 | [First Class Trouble](games/f/first_class_trouble.md) | 4.58 | 
 | 257 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 258 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.57 | 
+| 258 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 
 | 259 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 260 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
 | 261 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
@@ -291,7 +291,7 @@
 | 289 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 290 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 291 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
-| 292 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 
+| 292 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 293 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 294 | [Good Company](games/g/good_company.md) | 4.41 | 
 | 295 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 
