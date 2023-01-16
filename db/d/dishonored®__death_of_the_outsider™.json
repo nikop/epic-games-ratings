@@ -1,10 +1,10 @@
 {
   "ID": "87c84bc5f43d4fe69ad8f3ccde0594b0",
   "Name": "Dishonored\u00AE: Death of the Outsider\u2122",
-  "Rating": 4.59,
+  "Rating": 4.57,
   "FirstSeen": "2022-12-15T22:58:09.2323476+00:00",
   "FirstSeenRating": "2022-12-26T17:58:45.352902+00:00",
-  "LastChanged": "2023-01-13T18:58:06.5402344+00:00",
+  "LastChanged": "2023-01-16T19:58:28.1702151+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-26T17:58:45.3529025+00:00",
@@ -74,6 +74,11 @@
     {
       "Time": "2023-01-13T18:58:06.5402345+00:00",
       "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-16T19:58:28.1702154+00:00",
+      "Rating": 4.57,
       "NumberOfRatings": null
     }
   ],

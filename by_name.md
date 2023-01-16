@@ -193,7 +193,7 @@
 | 191 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 192 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.73 | 
 | 193 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
-| 194 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.59 | 
+| 194 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.57 | 
 | 195 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 196 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.44 | 
 | 197 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
