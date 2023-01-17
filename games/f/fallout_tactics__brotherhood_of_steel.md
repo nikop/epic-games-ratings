@@ -1,5 +1,5 @@
 # Fallout Tactics: Brotherhood of Steel
-Rating: 4.53 (-)  (as of 23.09.2022)  
+Rating: 4.51 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -24,3 +24,4 @@ Rating: 4.53 (-)  (as of 23.09.2022)
 | 2023-01-12 | 4.55 | - |
 | 2023-01-14 | 4.56 | - |
 | 2023-01-15 | 4.53 | - |
+| 2023-01-17 | 4.51 | - |
