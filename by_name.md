@@ -223,7 +223,7 @@
 | 221 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 222 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
 | 223 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 224 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
+| 224 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
 | 225 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 226 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 227 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
@@ -255,7 +255,7 @@
 | 253 | [Filament](games/f/filament.md) | 4.32 | 
 | 254 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 255 | [Firework](games/f/firework.md) | 4.89 | 
-| 256 | [First Class Trouble](games/f/first_class_trouble.md) | 4.57 | 
+| 256 | [First Class Trouble](games/f/first_class_trouble.md) | 4.58 | 
 | 257 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 258 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 
 | 259 | [Flatout](games/f/flatout.md) | 4.13 | 

@@ -397,7 +397,6 @@
 | 388 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 388 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.58 | 
 | 388 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
-| 388 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.58 | 
 | 388 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
 | 388 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 388 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
@@ -407,12 +406,14 @@
 | 388 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 388 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.58 | 
 | 388 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
+| 388 | [First Class Trouble](games/f/first_class_trouble.md) | 4.58 | 
 | 388 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
 | 409 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 409 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 409 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 409 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 409 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 409 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
 | 409 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 409 | [Hob](games/h/hob.md) | 4.57 | 
 | 409 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
@@ -425,7 +426,6 @@
 | 409 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 409 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
 | 409 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.57 | 
-| 409 | [First Class Trouble](games/f/first_class_trouble.md) | 4.57 | 
 | 409 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.57 | 
 | 409 | [The Medium](games/t/the_medium.md) | 4.57 | 
 | 429 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
