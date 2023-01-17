@@ -255,7 +255,7 @@
 | 253 | [Filament](games/f/filament.md) | 4.32 | 
 | 254 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 255 | [Firework](games/f/firework.md) | 4.89 | 
-| 256 | [First Class Trouble](games/f/first_class_trouble.md) | 4.58 | 
+| 256 | [First Class Trouble](games/f/first_class_trouble.md) | 4.57 | 
 | 257 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 258 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 
 | 259 | [Flatout](games/f/flatout.md) | 4.13 | 
@@ -625,7 +625,7 @@
 | 623 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 624 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
 | 625 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
-| 626 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.42 | 
+| 626 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
 | 627 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
 | 628 | [SpiderHeck](games/s/spiderheck.md) | 4.75 | 
 | 629 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
