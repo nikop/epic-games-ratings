@@ -8,7 +8,7 @@
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 
+| 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.62 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
@@ -425,12 +425,12 @@
 | 423 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 424 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
 | 425 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
-| 426 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 426 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
 | 427 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
 | 428 | [Minit](games/m/minit.md) | 4.55 | 
 | 429 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
 | 430 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 431 | [Mortal Shell](games/m/mortal_shell.md) | 4.24 | 
+| 431 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
 | 432 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 433 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 434 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
