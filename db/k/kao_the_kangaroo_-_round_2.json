@@ -1,10 +1,10 @@
 {
   "ID": "ba4d5efc4fa443769df759ee56c0c88e",
   "Name": "Kao the Kangaroo - Round 2",
-  "Rating": 4.6,
+  "Rating": 4.62,
   "FirstSeen": "2022-07-22T20:17:54.8839251+00:00",
   "FirstSeenRating": "2022-11-11T08:58:40.4466787+00:00",
-  "LastChanged": "2023-01-02T16:57:19.6684342+00:00",
+  "LastChanged": "2023-01-17T18:56:51.7863458+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-11T08:58:40.4466789+00:00",
@@ -34,6 +34,11 @@
     {
       "Time": "2023-01-02T16:57:19.6684345+00:00",
       "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-17T18:56:51.786346+00:00",
+      "Rating": 4.62,
       "NumberOfRatings": null
     }
   ],

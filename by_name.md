@@ -342,7 +342,7 @@
 | 340 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
 | 341 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
 | 342 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
-| 343 | [Inscryption](games/i/inscryption.md) | 4.85 | 
+| 343 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 344 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 345 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
 | 346 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
@@ -360,7 +360,7 @@
 | 358 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 359 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 360 | [Just Die Already](games/j/just_die_already.md) | 4.53 | 
-| 361 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.60 | 
+| 361 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.62 | 
 | 362 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 363 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 364 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
