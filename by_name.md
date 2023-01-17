@@ -635,7 +635,7 @@
 | 633 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
 | 634 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
 | 635 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
-| 636 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
+| 636 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 637 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 638 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 639 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
