@@ -729,14 +729,14 @@
 | 724 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 728 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 728 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
-| 728 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
-| 731 | [EVE Online](games/e/eve_online.md) | 4.26 | 
-| 731 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 731 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 731 | [Steelrising](games/s/steelrising.md) | 4.26 | 
-| 731 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
-| 731 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
-| 731 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.26 | 
+| 730 | [EVE Online](games/e/eve_online.md) | 4.26 | 
+| 730 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 730 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 730 | [Steelrising](games/s/steelrising.md) | 4.26 | 
+| 730 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
+| 730 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
+| 730 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.26 | 
+| 730 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
 | 738 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 738 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
 | 740 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
