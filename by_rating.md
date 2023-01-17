@@ -223,22 +223,22 @@
 | 205 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
 | 205 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 205 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.69 | 
+| 205 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 
 | 205 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
-| 225 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
-| 225 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 225 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 225 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 225 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 225 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 225 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 225 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 225 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 225 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.68 | 
-| 225 | [CARRION](games/c/carrion.md) | 4.68 | 
-| 225 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
-| 225 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
-| 225 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
-| 225 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
+| 226 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
+| 226 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 226 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 226 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 226 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 226 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 226 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 226 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
+| 226 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
+| 226 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.68 | 
+| 226 | [CARRION](games/c/carrion.md) | 4.68 | 
+| 226 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
+| 226 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
+| 226 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
 | 240 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 240 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 240 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
@@ -588,6 +588,7 @@
 | 585 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 585 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 585 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 585 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
 | 585 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
 | 585 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 585 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
@@ -596,14 +597,13 @@
 | 585 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.44 | 
 | 585 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
 | 585 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
-| 597 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 597 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 597 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 597 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
-| 597 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
-| 597 | [Far Cry](games/f/far_cry.md) | 4.43 | 
-| 597 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 597 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
+| 598 | [Sheltered](games/s/sheltered.md) | 4.43 | 
+| 598 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 598 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
+| 598 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
+| 598 | [Far Cry](games/f/far_cry.md) | 4.43 | 
+| 598 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
+| 598 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 605 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 605 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 605 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 

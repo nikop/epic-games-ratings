@@ -583,7 +583,7 @@
 | 581 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 582 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 583 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
-| 584 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
+| 584 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 
 | 585 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 586 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 
 | 587 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
@@ -595,7 +595,7 @@
 | 593 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 594 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
 | 595 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
-| 596 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
+| 596 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
 | 597 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
 | 598 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 599 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
