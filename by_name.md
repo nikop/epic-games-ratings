@@ -248,7 +248,7 @@
 | 246 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 247 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 248 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 249 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.61 | 
+| 249 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
 | 250 | [Fez](games/f/fez.md) | 4.70 | 
 | 251 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
 | 252 | [Figment](games/f/figment.md) | 4.45 | 
@@ -317,7 +317,7 @@
 | 315 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
 | 316 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 317 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 318 | [High On Life](games/h/high_on_life.md) | 4.70 | 
+| 318 | [High On Life](games/h/high_on_life.md) | 4.69 | 
 | 319 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 320 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 321 | [Hob](games/h/hob.md) | 4.57 | 
