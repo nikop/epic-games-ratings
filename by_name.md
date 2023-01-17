@@ -291,7 +291,7 @@
 | 289 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 290 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 291 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
-| 292 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 292 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 
 | 293 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 294 | [Good Company](games/g/good_company.md) | 4.41 | 
 | 295 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 
