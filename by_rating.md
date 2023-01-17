@@ -542,12 +542,12 @@
 | 523 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 523 | [IXION](games/i/ixion.md) | 4.49 | 
 | 523 | [STG Football](games/s/stg_football.md) | 4.49 | 
-| 523 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
-| 544 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 544 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 544 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
-| 544 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
-| 544 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
+| 543 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 543 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 543 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
+| 543 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
+| 543 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
+| 543 | [Tails of Iron](games/t/tails_of_iron.md) | 4.48 | 
 | 549 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 549 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 549 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -594,16 +594,16 @@
 | 585 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
 | 585 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
 | 585 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 585 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.44 | 
 | 585 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
 | 585 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
-| 598 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 598 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 598 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
-| 598 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
-| 598 | [Far Cry](games/f/far_cry.md) | 4.43 | 
-| 598 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 598 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
+| 597 | [Sheltered](games/s/sheltered.md) | 4.43 | 
+| 597 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 597 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
+| 597 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.43 | 
+| 597 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
+| 597 | [Far Cry](games/f/far_cry.md) | 4.43 | 
+| 597 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
+| 597 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 605 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 605 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 605 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 

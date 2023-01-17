@@ -195,7 +195,7 @@
 | 193 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 194 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.57 | 
 | 195 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 196 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.44 | 
+| 196 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.43 | 
 | 197 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 198 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 199 | [DOOM 3](games/d/doom_3.md) | 4.63 | 
@@ -672,7 +672,7 @@
 | 670 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 671 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 672 | [Tacoma](games/t/tacoma.md) | 4.41 | 
-| 673 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
+| 673 | [Tails of Iron](games/t/tails_of_iron.md) | 4.48 | 
 | 674 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 675 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 676 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
