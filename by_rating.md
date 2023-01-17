@@ -838,9 +838,9 @@
 | 833 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
 | 837 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
 | 837 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
-| 839 | [Warface](games/w/warface.md) | 3.92 | 
-| 840 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 840 | [Ironcast](games/i/ironcast.md) | 3.91 | 
+| 839 | [Warface](games/w/warface.md) | 3.91 | 
+| 839 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 839 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 842 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.89 | 
 | 843 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 844 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 

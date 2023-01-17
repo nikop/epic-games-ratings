@@ -806,7 +806,7 @@
 | 804 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 805 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
 | 806 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
-| 807 | [Warface](games/w/warface.md) | 3.92 | 
+| 807 | [Warface](games/w/warface.md) | 3.91 | 
 | 808 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 809 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 810 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
