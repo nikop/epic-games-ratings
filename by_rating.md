@@ -818,9 +818,9 @@
 | 815 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
 | 815 | [Tharsis](games/t/tharsis.md) | 4.07 | 
 | 815 | [Lake](games/l/lake.md) | 4.07 | 
-| 819 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 819 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
-| 819 | [Fangs](games/f/fangs.md) | 4.05 | 
+| 815 | [Fangs](games/f/fangs.md) | 4.07 | 
+| 820 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 820 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 822 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 822 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.04 | 
 | 824 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 

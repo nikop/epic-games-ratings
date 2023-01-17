@@ -232,7 +232,7 @@
 | 230 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.53 | 
 | 231 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
 | 232 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 233 | [Fangs](games/f/fangs.md) | 4.05 | 
+| 233 | [Fangs](games/f/fangs.md) | 4.07 | 
 | 234 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 235 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.23 | 
 | 236 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
