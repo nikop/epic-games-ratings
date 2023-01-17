@@ -609,7 +609,7 @@
 | 607 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
 | 608 | [SMITE](games/s/smite.md) | 4.45 | 
 | 609 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 610 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 
+| 610 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
 | 611 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 612 | [SOMA](games/s/soma.md) | 4.64 | 
 | 613 | [Somerville](games/s/somerville.md) | 4.20 | 
