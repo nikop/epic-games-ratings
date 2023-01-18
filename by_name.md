@@ -230,7 +230,7 @@
 | 228 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 229 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 230 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 231 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
+| 231 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.52 | 
 | 232 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
 | 233 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 234 | [Fangs](games/f/fangs.md) | 4.07 | 
@@ -288,7 +288,7 @@
 | 286 | [GNOG](games/g/gnog.md) | 4.65 | 
 | 287 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 288 | [God of War](games/g/god_of_war.md) | 4.89 | 
-| 289 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
+| 289 | [God's Trigger](games/g/god's_trigger.md) | 4.16 | 
 | 290 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 291 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 292 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
@@ -653,7 +653,7 @@
 | 651 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
 | 652 | [Submerged](games/s/submerged.md) | 4.16 | 
 | 653 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 654 | [Subnautica](games/s/subnautica.md) | 4.85 | 
+| 654 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 655 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 656 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
 | 657 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 

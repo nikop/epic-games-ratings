@@ -39,7 +39,6 @@
 | 32 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 38 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 38 | [Subnautica](games/s/subnautica.md) | 4.85 | 
 | 38 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
 | 38 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
@@ -48,13 +47,14 @@
 | 38 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 38 | [Huntdown](games/h/huntdown.md) | 4.85 | 
 | 38 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 
-| 49 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
-| 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
-| 49 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 49 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
-| 49 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
-| 49 | [Grindstone](games/g/grindstone.md) | 4.84 | 
-| 49 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
+| 48 | [Subnautica](games/s/subnautica.md) | 4.84 | 
+| 48 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
+| 48 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
+| 48 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
+| 48 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
+| 48 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
+| 48 | [Grindstone](games/g/grindstone.md) | 4.84 | 
+| 48 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
 | 56 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 56 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 56 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
@@ -490,24 +490,24 @@
 | 483 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 483 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 483 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 483 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.52 | 
 | 483 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 483 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
-| 493 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 493 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 493 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 493 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 493 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 493 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 493 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
-| 493 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 493 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
-| 493 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
-| 493 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
-| 493 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.51 | 
-| 493 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
-| 493 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 493 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 493 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
+| 494 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 494 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 494 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 494 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 494 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 494 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 494 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
+| 494 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 494 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
+| 494 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
+| 494 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
+| 494 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.51 | 
+| 494 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
+| 494 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 494 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 509 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 509 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 509 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
@@ -783,16 +783,16 @@
 | 776 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 
 | 782 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
 | 782 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.17 | 
+| 784 | [God's Trigger](games/g/god's_trigger.md) | 4.16 | 
 | 784 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 784 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 784 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 784 | [Submerged](games/s/submerged.md) | 4.16 | 
 | 784 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
 | 784 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
-| 790 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
-| 790 | [Relicta](games/r/relicta.md) | 4.15 | 
-| 790 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 
-| 790 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
+| 791 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
+| 791 | [Relicta](games/r/relicta.md) | 4.15 | 
+| 791 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 794 | [Pine](games/p/pine.md) | 4.14 | 
 | 794 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 796 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
