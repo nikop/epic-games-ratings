@@ -111,7 +111,7 @@
 | 109 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 110 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 111 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
-| 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 112 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 113 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 114 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 115 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
@@ -255,7 +255,7 @@
 | 253 | [Filament](games/f/filament.md) | 4.32 | 
 | 254 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 255 | [Firework](games/f/firework.md) | 4.89 | 
-| 256 | [First Class Trouble](games/f/first_class_trouble.md) | 4.58 | 
+| 256 | [First Class Trouble](games/f/first_class_trouble.md) | 4.59 | 
 | 257 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 258 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 
 | 259 | [Flatout](games/f/flatout.md) | 4.13 | 
@@ -583,7 +583,7 @@
 | 581 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 582 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 583 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
-| 584 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 
+| 584 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 585 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 586 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 
 | 587 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
