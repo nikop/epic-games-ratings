@@ -383,51 +383,51 @@
 | 373 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 373 | [RiME](games/r/rime.md) | 4.59 | 
 | 373 | [Breathedge](games/b/breathedge.md) | 4.59 | 
-| 373 | [First Class Trouble](games/f/first_class_trouble.md) | 4.59 | 
 | 373 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 
 | 373 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.59 | 
 | 373 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
 | 373 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
-| 373 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.59 | 
-| 390 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
-| 390 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 390 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 390 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
-| 390 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 390 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 390 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 390 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.58 | 
-| 390 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
-| 390 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
-| 390 | [Moving Out](games/m/moving_out.md) | 4.58 | 
-| 390 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 390 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
-| 390 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 
-| 390 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 390 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.58 | 
-| 390 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
-| 407 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 407 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 407 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 407 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
-| 407 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 407 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
-| 407 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
-| 407 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 407 | [Hob](games/h/hob.md) | 4.57 | 
-| 407 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
-| 407 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 407 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
-| 407 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
-| 407 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
-| 407 | [Isonzo](games/i/isonzo.md) | 4.57 | 
-| 407 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 407 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
-| 407 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
-| 407 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
-| 407 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.57 | 
-| 407 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.57 | 
-| 407 | [The Medium](games/t/the_medium.md) | 4.57 | 
+| 388 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
+| 388 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 388 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 388 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
+| 388 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 388 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
+| 388 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 388 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.58 | 
+| 388 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
+| 388 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
+| 388 | [Moving Out](games/m/moving_out.md) | 4.58 | 
+| 388 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
+| 388 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
+| 388 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 
+| 388 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
+| 388 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.58 | 
+| 388 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
+| 405 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 405 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 405 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 405 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
+| 405 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 405 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 405 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
+| 405 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 405 | [Hob](games/h/hob.md) | 4.57 | 
+| 405 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
+| 405 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 405 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
+| 405 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
+| 405 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
+| 405 | [Isonzo](games/i/isonzo.md) | 4.57 | 
+| 405 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 405 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
+| 405 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
+| 405 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
+| 405 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.57 | 
+| 405 | [First Class Trouble](games/f/first_class_trouble.md) | 4.57 | 
+| 405 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.57 | 
+| 405 | [The Medium](games/t/the_medium.md) | 4.57 | 
+| 405 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.57 | 
 | 429 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 429 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 429 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
