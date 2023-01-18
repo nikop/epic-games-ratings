@@ -39,6 +39,7 @@
 | 32 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 38 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 38 | [Subnautica](games/s/subnautica.md) | 4.85 | 
 | 38 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
 | 38 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
@@ -47,14 +48,13 @@
 | 38 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 38 | [Huntdown](games/h/huntdown.md) | 4.85 | 
 | 38 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 
-| 48 | [Subnautica](games/s/subnautica.md) | 4.84 | 
-| 48 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
-| 48 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
-| 48 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 48 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
-| 48 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
-| 48 | [Grindstone](games/g/grindstone.md) | 4.84 | 
-| 48 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
+| 49 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
+| 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
+| 49 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
+| 49 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
+| 49 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
+| 49 | [Grindstone](games/g/grindstone.md) | 4.84 | 
+| 49 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
 | 56 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 56 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 56 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
@@ -610,29 +610,29 @@
 | 604 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 604 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
 | 604 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 604 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.42 | 
 | 604 | [The Silent Age](games/t/the_silent_age.md) | 4.42 | 
 | 604 | [Predecessor](games/p/predecessor.md) | 4.42 | 
 | 604 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.42 | 
 | 604 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
 | 604 | [WRC Generations](games/w/wrc_generations.md) | 4.42 | 
-| 616 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
-| 616 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 616 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 616 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 616 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
-| 616 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
-| 616 | [Good Company](games/g/good_company.md) | 4.41 | 
-| 616 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
-| 616 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.41 | 
-| 616 | [Tacoma](games/t/tacoma.md) | 4.41 | 
-| 616 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
-| 616 | [RiMS Racing](games/r/rims_racing.md) | 4.41 | 
-| 616 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 616 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 616 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 616 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 616 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
-| 616 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
+| 617 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
+| 617 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 617 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
+| 617 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
+| 617 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
+| 617 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
+| 617 | [Good Company](games/g/good_company.md) | 4.41 | 
+| 617 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
+| 617 | [Tacoma](games/t/tacoma.md) | 4.41 | 
+| 617 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
+| 617 | [RiMS Racing](games/r/rims_racing.md) | 4.41 | 
+| 617 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 617 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
+| 617 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 617 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 617 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
+| 617 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
 | 634 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 634 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
 | 634 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
@@ -847,5 +847,6 @@
 | 845 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 846 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 847 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
-| 848 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
-| 849 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
+| 848 | [Blood of Steel](games/b/blood_of_steel.md) | 3.75 | 
+| 849 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
+| 850 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 

@@ -1,6 +1,5 @@
-# Blood of Steel
-Rating: 3.75 (-)  (as of 23.09.2022)  
+# Mahokenshi
+Rating: - (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
-| 2023-01-18 | 3.75 | - |
