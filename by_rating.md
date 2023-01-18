@@ -781,8 +781,8 @@
 | 775 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
 | 775 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
 | 775 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 
-| 782 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
-| 782 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.17 | 
+| 775 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
+| 783 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
 | 784 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 784 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 784 | [Family Man](games/f/family_man.md) | 4.16 | 
