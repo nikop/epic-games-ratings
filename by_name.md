@@ -111,7 +111,7 @@
 | 109 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 110 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 111 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 112 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 
+| 112 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 113 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 114 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 115 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
@@ -713,7 +713,7 @@
 | 711 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
 | 712 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
 | 713 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 714 | [The Medium](games/t/the_medium.md) | 4.57 | 
+| 714 | [The Medium](games/t/the_medium.md) | 4.55 | 
 | 715 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
 | 716 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 717 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
