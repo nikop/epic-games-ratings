@@ -1,10 +1,10 @@
 {
   "ID": "8ff186a4415d4ce6b5a287ccfd11cf04",
   "Name": "Core",
-  "Rating": 4.37,
+  "Rating": 4.38,
   "NumberOfRatings": 1439,
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
-  "LastChanged": "2023-01-15T20:57:50.6252071+00:00",
+  "LastChanged": "2023-01-18T10:57:43.9243638+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:10.3468581+00:00",
@@ -1429,6 +1429,11 @@
     {
       "Time": "2023-01-15T20:57:50.6252073+00:00",
       "Rating": 4.37,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-18T10:57:43.9243639+00:00",
+      "Rating": 4.38,
       "NumberOfRatings": null
     }
   ],

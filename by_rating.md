@@ -641,16 +641,17 @@
 | 634 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
 | 634 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 634 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 634 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 
 | 634 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
-| 644 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 644 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 644 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
-| 644 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
-| 644 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
-| 644 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
-| 644 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
-| 644 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
+| 643 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 643 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 643 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 643 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
+| 643 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
+| 643 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
+| 643 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
+| 643 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
+| 643 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.39 | 
+| 652 | [Core](games/c/core.md) | 4.38 | 
 | 652 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 652 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 652 | [Encased](games/e/encased.md) | 4.38 | 
@@ -661,14 +662,13 @@
 | 652 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 652 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
 | 652 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 662 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 662 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 662 | [Core](games/c/core.md) | 4.37 | 
-| 662 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 662 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 662 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 662 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 662 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
+| 663 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 663 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 663 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 663 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 663 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 663 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 663 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
 | 670 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 670 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 670 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
@@ -830,8 +830,8 @@
 | 828 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 829 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 829 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
-| 831 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 831 | [Chimeraland](games/c/chimeraland.md) | 3.95 | 
+| 831 | [Chimeraland](games/c/chimeraland.md) | 3.97 | 
+| 832 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 833 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
 | 833 | [Conarium](games/c/conarium.md) | 3.94 | 
 | 833 | [Patron](games/p/patron.md) | 3.94 | 

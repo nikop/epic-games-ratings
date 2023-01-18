@@ -52,7 +52,7 @@
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 
+| 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.39 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
@@ -115,7 +115,7 @@
 | 113 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 114 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 115 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
-| 116 | [Chimeraland](games/c/chimeraland.md) | 3.95 | 
+| 116 | [Chimeraland](games/c/chimeraland.md) | 3.97 | 
 | 117 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 118 | [Chorus](games/c/chorus.md) | 4.46 | 
 | 119 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
@@ -130,7 +130,7 @@
 | 128 | [Control](games/c/control.md) | 4.60 | 
 | 129 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 130 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 131 | [Core](games/c/core.md) | 4.37 | 
+| 131 | [Core](games/c/core.md) | 4.38 | 
 | 132 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 133 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
 | 134 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
