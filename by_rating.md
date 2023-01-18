@@ -128,26 +128,26 @@
 | 125 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 125 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 125 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
+| 125 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 125 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 125 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 125 | [Haven](games/h/haven.md) | 4.75 | 
 | 125 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
 | 125 | [SpiderHeck](games/s/spiderheck.md) | 4.75 | 
-| 134 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 134 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
-| 134 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 134 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 134 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
-| 134 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 134 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
-| 134 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.74 | 
-| 134 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
-| 134 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 134 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 134 | [Revita](games/r/revita.md) | 4.74 | 
-| 134 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 134 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
-| 134 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 
+| 135 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 135 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
+| 135 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 135 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 135 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
+| 135 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
+| 135 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.74 | 
+| 135 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
+| 135 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 135 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 135 | [Revita](games/r/revita.md) | 4.74 | 
+| 135 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 135 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
+| 135 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 
 | 149 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 149 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 149 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
@@ -720,23 +720,23 @@
 | 717 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 717 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 717 | [The Fall](games/t/the_fall.md) | 4.29 | 
+| 717 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.29 | 
 | 717 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 717 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 717 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 724 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 724 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
-| 724 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
-| 724 | [Dark Light](games/d/dark_light.md) | 4.28 | 
-| 728 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
-| 728 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
-| 730 | [EVE Online](games/e/eve_online.md) | 4.26 | 
-| 730 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 730 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 730 | [Steelrising](games/s/steelrising.md) | 4.26 | 
-| 730 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
-| 730 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
-| 730 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.26 | 
-| 730 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
+| 725 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 725 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 725 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
+| 725 | [Dark Light](games/d/dark_light.md) | 4.28 | 
+| 729 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
+| 729 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
+| 731 | [EVE Online](games/e/eve_online.md) | 4.26 | 
+| 731 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 731 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 731 | [Steelrising](games/s/steelrising.md) | 4.26 | 
+| 731 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
+| 731 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
+| 731 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
 | 738 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 738 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
 | 740 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
