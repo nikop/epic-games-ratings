@@ -95,7 +95,7 @@
 | 93 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 94 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 95 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 96 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 
+| 96 | [Brawlhalla](games/b/brawlhalla.md) | 4.54 | 
 | 97 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 98 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 99 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -222,7 +222,7 @@
 | 220 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 221 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.95 | 
 | 222 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 223 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
+| 223 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 
 | 224 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 225 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
 | 226 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
@@ -325,7 +325,7 @@
 | 323 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 324 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 325 | [Horace](games/h/horace.md) | 4.53 | 
-| 326 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.58 | 
+| 326 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.57 | 
 | 327 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 328 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 329 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
@@ -465,7 +465,7 @@
 | 463 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
 | 464 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 465 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 466 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
+| 466 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
 | 467 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 468 | [Observation](games/o/observation.md) | 4.56 | 
 | 469 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
