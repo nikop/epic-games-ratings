@@ -472,7 +472,6 @@
 | 468 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 468 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 468 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
-| 468 | [Just Die Already](games/j/just_die_already.md) | 4.53 | 
 | 468 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 468 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 468 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
@@ -483,15 +482,16 @@
 | 468 | [Horace](games/h/horace.md) | 4.53 | 
 | 468 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 468 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 484 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 484 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 484 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 484 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 484 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 484 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 484 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 484 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 484 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 483 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 483 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 483 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 483 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 483 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 483 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 483 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 483 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 483 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 483 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 493 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 493 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 493 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 

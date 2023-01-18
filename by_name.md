@@ -359,7 +359,7 @@
 | 357 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 358 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 359 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
-| 360 | [Just Die Already](games/j/just_die_already.md) | 4.53 | 
+| 360 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 361 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.62 | 
 | 362 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 363 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
