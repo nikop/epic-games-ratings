@@ -686,7 +686,7 @@
 | 684 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
 | 685 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 686 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
-| 687 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 687 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
 | 688 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.87 | 
 | 689 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 690 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
@@ -748,7 +748,7 @@
 | 746 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
 | 747 | [Timberborn](games/t/timberborn.md) | 4.71 | 
 | 748 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 749 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 749 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.58 | 
 | 750 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
 | 751 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 
 | 752 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
