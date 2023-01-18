@@ -27,16 +27,16 @@
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 24 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 24 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
 | 24 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 24 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.87 | 
 | 24 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
-| 31 | [Inscryption](games/i/inscryption.md) | 4.86 | 
-| 31 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 31 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 31 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 
-| 31 | [TUNIC](games/t/tunic.md) | 4.86 | 
-| 31 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
-| 31 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
+| 32 | [Inscryption](games/i/inscryption.md) | 4.86 | 
+| 32 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 32 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 32 | [TUNIC](games/t/tunic.md) | 4.86 | 
+| 32 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
+| 32 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 38 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 38 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
@@ -243,7 +243,6 @@
 | 240 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 240 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 240 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
-| 240 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
 | 240 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 240 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 240 | [Overcooked](games/o/overcooked.md) | 4.67 | 
@@ -256,26 +255,27 @@
 | 240 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
 | 240 | [Card Shark](games/c/card_shark.md) | 4.67 | 
 | 240 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
-| 257 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 257 | [Trackmania](games/t/trackmania.md) | 4.66 | 
-| 257 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 257 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 257 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
-| 257 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
-| 257 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 257 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
-| 257 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
-| 257 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 
-| 257 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
-| 257 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 257 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
-| 257 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
-| 257 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 257 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
-| 257 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
-| 257 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 257 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 257 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
+| 256 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 256 | [Trackmania](games/t/trackmania.md) | 4.66 | 
+| 256 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 256 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 256 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 256 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
+| 256 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 256 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 256 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
+| 256 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
+| 256 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 
+| 256 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
+| 256 | [Death's Door](games/d/death's_door.md) | 4.66 | 
+| 256 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
+| 256 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
+| 256 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 256 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
+| 256 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
+| 256 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 256 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 256 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
 | 277 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 277 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 277 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 

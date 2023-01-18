@@ -88,7 +88,7 @@
 | 86 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 87 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 89 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 
+| 89 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 92 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
@@ -686,7 +686,7 @@
 | 684 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
 | 685 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 686 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
-| 687 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
+| 687 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 688 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.87 | 
 | 689 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 690 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
