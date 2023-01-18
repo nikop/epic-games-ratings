@@ -63,7 +63,7 @@
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 64 | [Backbone](games/b/backbone.md) | 4.31 | 
+| 64 | [Backbone](games/b/backbone.md) | 4.33 | 
 | 65 | [Bad North](games/b/bad_north.md) | 4.69 | 
 | 66 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 67 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
@@ -194,7 +194,7 @@
 | 192 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 193 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.73 | 
 | 194 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
-| 195 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.57 | 
+| 195 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.58 | 
 | 196 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 197 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.41 | 
 | 198 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
@@ -687,7 +687,7 @@
 | 685 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.17 | 
 | 686 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 687 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
-| 688 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
+| 688 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 689 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.87 | 
 | 690 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 691 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
