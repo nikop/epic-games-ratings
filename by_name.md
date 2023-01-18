@@ -341,7 +341,7 @@
 | 339 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
 | 340 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
 | 341 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 342 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
+| 342 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
 | 343 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 344 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 345 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
@@ -748,7 +748,7 @@
 | 746 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
 | 747 | [Timberborn](games/t/timberborn.md) | 4.71 | 
 | 748 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 749 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.58 | 
+| 749 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 750 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
 | 751 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 
 | 752 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
