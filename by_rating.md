@@ -814,11 +814,11 @@
 | 810 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
 | 810 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
 | 810 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
-| 815 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 815 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
 | 815 | [Tharsis](games/t/tharsis.md) | 4.07 | 
 | 815 | [Lake](games/l/lake.md) | 4.07 | 
 | 815 | [Fangs](games/f/fangs.md) | 4.07 | 
+| 819 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 820 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 820 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 822 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
