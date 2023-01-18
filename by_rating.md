@@ -390,7 +390,6 @@
 | 373 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.59 | 
 | 389 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
 | 389 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 389 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.58 | 
 | 389 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 389 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 389 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
@@ -408,26 +407,27 @@
 | 389 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.58 | 
 | 389 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 389 | [First Class Trouble](games/f/first_class_trouble.md) | 4.58 | 
-| 409 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 409 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 409 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
-| 409 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 409 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
-| 409 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
-| 409 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 409 | [Hob](games/h/hob.md) | 4.57 | 
-| 409 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 409 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
-| 409 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
-| 409 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
-| 409 | [Isonzo](games/i/isonzo.md) | 4.57 | 
-| 409 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 409 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
-| 409 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
-| 409 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
-| 409 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.57 | 
-| 409 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.57 | 
-| 409 | [The Medium](games/t/the_medium.md) | 4.57 | 
+| 408 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 408 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 408 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 408 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
+| 408 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 408 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 408 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
+| 408 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 408 | [Hob](games/h/hob.md) | 4.57 | 
+| 408 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 408 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
+| 408 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
+| 408 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
+| 408 | [Isonzo](games/i/isonzo.md) | 4.57 | 
+| 408 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 408 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
+| 408 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
+| 408 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
+| 408 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.57 | 
+| 408 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.57 | 
+| 408 | [The Medium](games/t/the_medium.md) | 4.57 | 
 | 429 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 429 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 429 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
@@ -841,7 +841,7 @@
 | 839 | [Warface](games/w/warface.md) | 3.91 | 
 | 839 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 839 | [Ironcast](games/i/ironcast.md) | 3.91 | 
-| 842 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.89 | 
+| 842 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.90 | 
 | 843 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 844 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
 | 845 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 

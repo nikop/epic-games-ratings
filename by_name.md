@@ -748,7 +748,7 @@
 | 746 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
 | 747 | [Timberborn](games/t/timberborn.md) | 4.71 | 
 | 748 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 749 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.58 | 
+| 749 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 750 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
 | 751 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 
 | 752 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
@@ -826,7 +826,7 @@
 | 824 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 825 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 826 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 827 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.89 | 
+| 827 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.90 | 
 | 828 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 829 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 830 | [Windbound](games/w/windbound.md) | 4.18 | 
