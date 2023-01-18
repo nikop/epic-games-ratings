@@ -195,7 +195,7 @@
 | 193 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 194 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.57 | 
 | 195 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 196 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.43 | 
+| 196 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.41 | 
 | 197 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 198 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 199 | [DOOM 3](games/d/doom_3.md) | 4.63 | 
@@ -513,7 +513,7 @@
 | 511 | [Pine](games/p/pine.md) | 4.14 | 
 | 512 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
 | 513 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 514 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
+| 514 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.59 | 
 | 515 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
 | 516 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 517 | [Predecessor](games/p/predecessor.md) | 4.42 | 
@@ -780,7 +780,7 @@
 | 778 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
 | 779 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
 | 780 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
-| 781 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.68 | 
+| 781 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
 | 782 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
 | 783 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
 | 784 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
