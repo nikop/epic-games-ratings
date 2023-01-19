@@ -95,7 +95,7 @@
 | 93 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 94 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 95 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 96 | [Brawlhalla](games/b/brawlhalla.md) | 4.54 | 
+| 96 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 
 | 97 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 98 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 99 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -230,7 +230,7 @@
 | 228 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 229 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 230 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 231 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.52 | 
+| 231 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
 | 232 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
 | 233 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 234 | [Fangs](games/f/fangs.md) | 4.07 | 
