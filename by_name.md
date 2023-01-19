@@ -158,7 +158,7 @@
 | 156 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 157 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 158 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 159 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
+| 159 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 160 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 161 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
 | 162 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 
@@ -222,7 +222,7 @@
 | 220 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 221 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.95 | 
 | 222 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 223 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 
+| 223 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.21 | 
 | 224 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 225 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
 | 226 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
@@ -369,7 +369,7 @@
 | 367 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
 | 368 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 369 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
-| 370 | [King of Retail](games/k/king_of_retail.md) | 4.73 | 
+| 370 | [King of Retail](games/k/king_of_retail.md) | 4.74 | 
 | 371 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
 | 372 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 373 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
