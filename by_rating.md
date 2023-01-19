@@ -518,36 +518,36 @@
 | 510 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 510 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
 | 510 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
+| 510 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 510 | [The Surge](games/t/the_surge.md) | 4.50 | 
 | 510 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 510 | [Sable](games/s/sable.md) | 4.50 | 
 | 510 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 510 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
-| 524 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 524 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 524 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 524 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 524 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 524 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
-| 524 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 524 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 524 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 524 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 524 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
-| 524 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
-| 524 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
-| 524 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 524 | [CryoFall](games/c/cryofall.md) | 4.49 | 
-| 524 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 524 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 524 | [IXION](games/i/ixion.md) | 4.49 | 
-| 524 | [STG Football](games/s/stg_football.md) | 4.49 | 
-| 543 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 543 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 543 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
-| 543 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
-| 543 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
-| 543 | [Tails of Iron](games/t/tails_of_iron.md) | 4.48 | 
+| 525 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 525 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 525 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 525 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 525 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 525 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
+| 525 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 525 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 525 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 525 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 525 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
+| 525 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
+| 525 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 525 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 525 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 525 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 525 | [IXION](games/i/ixion.md) | 4.49 | 
+| 525 | [STG Football](games/s/stg_football.md) | 4.49 | 
+| 525 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
+| 544 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 544 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 544 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
+| 544 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
+| 544 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 549 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 549 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 549 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -827,10 +827,10 @@
 | 825 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 
 | 826 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 826 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
-| 828 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 829 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
-| 829 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
-| 831 | [Chimeraland](games/c/chimeraland.md) | 3.97 | 
+| 826 | [Chimeraland](games/c/chimeraland.md) | 4.00 | 
+| 829 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
+| 830 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
+| 830 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 832 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 833 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
 | 833 | [Conarium](games/c/conarium.md) | 3.94 | 

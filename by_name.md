@@ -116,7 +116,7 @@
 | 114 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 115 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 116 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
-| 117 | [Chimeraland](games/c/chimeraland.md) | 3.97 | 
+| 117 | [Chimeraland](games/c/chimeraland.md) | 4.00 | 
 | 118 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 119 | [Chorus](games/c/chorus.md) | 4.46 | 
 | 120 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
@@ -313,7 +313,7 @@
 | 311 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 312 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 313 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.52 | 
-| 314 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
+| 314 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 315 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 316 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
 | 317 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
@@ -673,7 +673,7 @@
 | 671 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 672 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 673 | [Tacoma](games/t/tacoma.md) | 4.41 | 
-| 674 | [Tails of Iron](games/t/tails_of_iron.md) | 4.48 | 
+| 674 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
 | 675 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 676 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 677 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
