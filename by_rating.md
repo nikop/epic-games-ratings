@@ -164,28 +164,28 @@
 | 149 | [King of Retail](games/k/king_of_retail.md) | 4.73 | 
 | 149 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 149 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 165 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
 | 165 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 165 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 165 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 165 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
 | 165 | [Slipways](games/s/slipways.md) | 4.72 | 
 | 165 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
-| 172 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 172 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 172 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
-| 172 | [Barony](games/b/barony.md) | 4.71 | 
-| 172 | [Timberborn](games/t/timberborn.md) | 4.71 | 
-| 172 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 172 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 172 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 172 | [Northgard](games/n/northgard.md) | 4.71 | 
-| 172 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 
-| 172 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
-| 172 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 172 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
-| 172 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
-| 172 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
+| 171 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
+| 171 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 171 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 171 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
+| 171 | [Barony](games/b/barony.md) | 4.71 | 
+| 171 | [Timberborn](games/t/timberborn.md) | 4.71 | 
+| 171 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 171 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 171 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 171 | [Northgard](games/n/northgard.md) | 4.71 | 
+| 171 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 
+| 171 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
+| 171 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
+| 171 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
+| 171 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
+| 171 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
 | 187 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 187 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 187 | [For The King](games/f/for_the_king.md) | 4.70 | 
@@ -472,6 +472,7 @@
 | 467 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 467 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
 | 467 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 467 | [Verdun](games/v/verdun.md) | 4.53 | 
 | 467 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 467 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
 | 467 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
@@ -481,18 +482,17 @@
 | 467 | [Horace](games/h/horace.md) | 4.53 | 
 | 467 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 467 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
-| 482 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 482 | [Verdun](games/v/verdun.md) | 4.52 | 
-| 482 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 482 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 482 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 482 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 482 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
-| 482 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 482 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.52 | 
-| 482 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.52 | 
-| 482 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 482 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 483 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 483 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 483 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 483 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 483 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 483 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 483 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 483 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.52 | 
+| 483 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.52 | 
+| 483 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 483 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 494 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 494 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 
 | 494 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
@@ -838,9 +838,9 @@
 | 833 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
 | 837 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
 | 837 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
-| 839 | [Warface](games/w/warface.md) | 3.91 | 
-| 839 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 839 | [Ironcast](games/i/ironcast.md) | 3.91 | 
+| 839 | [Warface](games/w/warface.md) | 3.92 | 
+| 840 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 840 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 842 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.89 | 
 | 843 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 844 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 

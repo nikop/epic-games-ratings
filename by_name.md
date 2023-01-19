@@ -246,7 +246,7 @@
 | 244 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
 | 245 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 246 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
-| 247 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.72 | 
+| 247 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 248 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 249 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 250 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
@@ -802,12 +802,12 @@
 | 800 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 801 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 802 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 803 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 803 | [Verdun](games/v/verdun.md) | 4.53 | 
 | 804 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 805 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 806 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
 | 807 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
-| 808 | [Warface](games/w/warface.md) | 3.91 | 
+| 808 | [Warface](games/w/warface.md) | 3.92 | 
 | 809 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 810 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 811 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
