@@ -424,37 +424,37 @@
 | 406 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
 | 406 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 406 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
+| 406 | [First Class Trouble](games/f/first_class_trouble.md) | 4.57 | 
 | 406 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.57 | 
 | 406 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.57 | 
-| 427 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 427 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 427 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 427 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 427 | [Hue](games/h/hue.md) | 4.56 | 
-| 427 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 427 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
-| 427 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
-| 427 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 427 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 427 | [Observation](games/o/observation.md) | 4.56 | 
-| 427 | [First Class Trouble](games/f/first_class_trouble.md) | 4.56 | 
-| 427 | [Redout 2](games/r/redout_2.md) | 4.56 | 
-| 440 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 440 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
-| 440 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 440 | [Outward](games/o/outward.md) | 4.55 | 
-| 440 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 440 | [Minit](games/m/minit.md) | 4.55 | 
-| 440 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
-| 440 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 440 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
-| 440 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
-| 440 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
-| 440 | [Warpips](games/w/warpips.md) | 4.55 | 
-| 440 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.55 | 
-| 440 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
-| 440 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
-| 440 | [The Medium](games/t/the_medium.md) | 4.55 | 
+| 428 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 428 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 428 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 428 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 428 | [Hue](games/h/hue.md) | 4.56 | 
+| 428 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 428 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
+| 428 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
+| 428 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.56 | 
+| 428 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 428 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 428 | [Observation](games/o/observation.md) | 4.56 | 
+| 428 | [Redout 2](games/r/redout_2.md) | 4.56 | 
+| 441 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 441 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
+| 441 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 441 | [Outward](games/o/outward.md) | 4.55 | 
+| 441 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 441 | [Minit](games/m/minit.md) | 4.55 | 
+| 441 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 441 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 441 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
+| 441 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
+| 441 | [Warpips](games/w/warpips.md) | 4.55 | 
+| 441 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.55 | 
+| 441 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
+| 441 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
+| 441 | [The Medium](games/t/the_medium.md) | 4.55 | 
 | 456 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 456 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
 | 456 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
@@ -622,7 +622,6 @@
 | 615 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
 | 615 | [Good Company](games/g/good_company.md) | 4.41 | 
 | 615 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
-| 615 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.41 | 
 | 615 | [Tacoma](games/t/tacoma.md) | 4.41 | 
 | 615 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
 | 615 | [RiMS Racing](games/r/rims_racing.md) | 4.41 | 
@@ -633,15 +632,16 @@
 | 615 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 615 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
 | 615 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 634 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 634 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 634 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
-| 634 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 634 | [ELEX](games/e/elex.md) | 4.40 | 
-| 634 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 634 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 634 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 634 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
+| 633 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 633 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 633 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
+| 633 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 633 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.40 | 
+| 633 | [ELEX](games/e/elex.md) | 4.40 | 
+| 633 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 633 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 633 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 633 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 643 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 643 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 643 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 

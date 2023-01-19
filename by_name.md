@@ -196,7 +196,7 @@
 | 194 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 195 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.58 | 
 | 196 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 197 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.41 | 
+| 197 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.40 | 
 | 198 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 199 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 200 | [DOOM 3](games/d/doom_3.md) | 4.63 | 
@@ -256,7 +256,7 @@
 | 254 | [Filament](games/f/filament.md) | 4.32 | 
 | 255 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 256 | [Firework](games/f/firework.md) | 4.89 | 
-| 257 | [First Class Trouble](games/f/first_class_trouble.md) | 4.56 | 
+| 257 | [First Class Trouble](games/f/first_class_trouble.md) | 4.57 | 
 | 258 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 259 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 
 | 260 | [Flatout](games/f/flatout.md) | 4.13 | 
@@ -492,7 +492,7 @@
 | 490 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
 | 491 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 492 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 493 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.55 | 
+| 493 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.56 | 
 | 494 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 495 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
 | 496 | [Parkitect](games/p/parkitect.md) | 4.30 | 

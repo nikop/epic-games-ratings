@@ -1,10 +1,10 @@
 {
   "ID": "a60b160cb14c4c258b70299310b63e56",
   "Name": "Panzer Corps 2",
-  "Rating": 4.55,
+  "Rating": 4.56,
   "NumberOfRatings": 37,
   "FirstSeen": "2022-07-22T20:19:07.3866122+00:00",
-  "LastChanged": "2022-12-21T17:57:13.5341595+00:00",
+  "LastChanged": "2023-01-19T03:57:31.4533059+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:07.3866124+00:00",
@@ -149,6 +149,11 @@
     {
       "Time": "2022-12-21T17:57:13.5341596+00:00",
       "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-19T03:57:31.4533063+00:00",
+      "Rating": 4.56,
       "NumberOfRatings": null
     }
   ],
