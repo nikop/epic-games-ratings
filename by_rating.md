@@ -781,9 +781,9 @@
 | 776 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 776 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
 | 776 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 
-| 782 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
-| 782 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.17 | 
-| 782 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.17 | 
+| 776 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
+| 783 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
+| 783 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.17 | 
 | 785 | [God's Trigger](games/g/god's_trigger.md) | 4.16 | 
 | 785 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 785 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
