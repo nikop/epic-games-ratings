@@ -71,7 +71,7 @@
 | 69 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 70 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 71 | [Barony](games/b/barony.md) | 4.71 | 
-| 72 | [Bassmaster® Fishing 2022](games/b/bassmaster®_fishing_2022.md) | 4.31 | 
+| 72 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.31 | 
 | 73 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 74 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 75 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
@@ -426,7 +426,7 @@
 | 424 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 425 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
 | 426 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
-| 427 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
+| 427 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 428 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
 | 429 | [Minit](games/m/minit.md) | 4.55 | 
 | 430 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
@@ -827,7 +827,7 @@
 | 825 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 826 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 827 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 828 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.90 | 
+| 828 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.89 | 
 | 829 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 830 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 831 | [Windbound](games/w/windbound.md) | 4.18 | 
