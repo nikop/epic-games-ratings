@@ -494,6 +494,7 @@
 | 482 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 482 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 494 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 494 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 
 | 494 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 494 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 494 | [MythForce](games/m/mythforce.md) | 4.51 | 
@@ -508,21 +509,20 @@
 | 494 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 494 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 494 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 509 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 509 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 509 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 509 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 509 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
-| 509 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
-| 509 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 509 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 509 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
-| 509 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
-| 509 | [The Surge](games/t/the_surge.md) | 4.50 | 
-| 509 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 509 | [Sable](games/s/sable.md) | 4.50 | 
-| 509 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 509 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
+| 510 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 510 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 510 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 510 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
+| 510 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
+| 510 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 510 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 510 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
+| 510 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
+| 510 | [The Surge](games/t/the_surge.md) | 4.50 | 
+| 510 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 510 | [Sable](games/s/sable.md) | 4.50 | 
+| 510 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
+| 510 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 524 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 524 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 524 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
