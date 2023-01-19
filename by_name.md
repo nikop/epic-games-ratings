@@ -151,7 +151,7 @@
 | 149 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 150 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 151 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 152 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.22 | 
+| 152 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.17 | 
 | 153 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
 | 154 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
 | 155 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
@@ -312,7 +312,7 @@
 | 310 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 311 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 312 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 313 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.56 | 
+| 313 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.52 | 
 | 314 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
 | 315 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 316 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
@@ -405,7 +405,7 @@
 | 403 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 404 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 405 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.31 | 
-| 406 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
+| 406 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.05 | 
 | 407 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.57 | 
 | 408 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 409 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
@@ -596,7 +596,7 @@
 | 594 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 595 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
 | 596 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
-| 597 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
+| 597 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 598 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
 | 599 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 600 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
@@ -719,7 +719,7 @@
 | 717 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 718 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 719 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 720 | [The Silent Age](games/t/the_silent_age.md) | 4.42 | 
+| 720 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
 | 721 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 722 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 723 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
