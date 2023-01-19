@@ -531,7 +531,7 @@
 | 529 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 530 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 
 | 531 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
-| 532 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
+| 532 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 533 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 534 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 535 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
@@ -567,7 +567,7 @@
 | 565 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 566 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 567 | [Sable](games/s/sable.md) | 4.50 | 
-| 568 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.79 | 
+| 568 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
 | 569 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 570 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.42 | 
 | 571 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
