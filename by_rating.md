@@ -39,6 +39,7 @@
 | 32 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 38 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 38 | [Subnautica](games/s/subnautica.md) | 4.85 | 
 | 38 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
 | 38 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
@@ -47,14 +48,13 @@
 | 38 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 38 | [Huntdown](games/h/huntdown.md) | 4.85 | 
 | 38 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 
-| 48 | [Subnautica](games/s/subnautica.md) | 4.84 | 
-| 48 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
-| 48 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
-| 48 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 48 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
-| 48 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
-| 48 | [Grindstone](games/g/grindstone.md) | 4.84 | 
-| 48 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
+| 49 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
+| 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
+| 49 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
+| 49 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
+| 49 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
+| 49 | [Grindstone](games/g/grindstone.md) | 4.84 | 
+| 49 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
 | 56 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 56 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 56 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
@@ -655,7 +655,6 @@
 | 651 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 651 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 651 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.38 | 
-| 651 | [Encased](games/e/encased.md) | 4.38 | 
 | 651 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 651 | [Othercide](games/o/othercide.md) | 4.38 | 
 | 651 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
@@ -663,13 +662,14 @@
 | 651 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 651 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
 | 651 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 664 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 664 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 664 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 664 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 664 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 664 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 664 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
+| 663 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 663 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 663 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 663 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 663 | [Encased](games/e/encased.md) | 4.37 | 
+| 663 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 663 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 663 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
 | 671 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 671 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 671 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
@@ -773,17 +773,17 @@
 | 769 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 769 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
 | 769 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 769 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.19 | 
 | 769 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
-| 775 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 775 | [Space Punks](games/s/space_punks.md) | 4.18 | 
-| 775 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 775 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
-| 775 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
-| 775 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
-| 781 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
-| 781 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.17 | 
-| 781 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 
-| 781 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
+| 776 | [Windbound](games/w/windbound.md) | 4.18 | 
+| 776 | [Space Punks](games/s/space_punks.md) | 4.18 | 
+| 776 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 776 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
+| 776 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
+| 776 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
+| 782 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
+| 782 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 
+| 782 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
 | 785 | [God's Trigger](games/g/god's_trigger.md) | 4.16 | 
 | 785 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 785 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 

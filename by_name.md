@@ -151,7 +151,7 @@
 | 149 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 150 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 151 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 152 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.17 | 
+| 152 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.19 | 
 | 153 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
 | 154 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
 | 155 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
@@ -214,7 +214,7 @@
 | 212 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 213 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 214 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 215 | [Encased](games/e/encased.md) | 4.38 | 
+| 215 | [Encased](games/e/encased.md) | 4.37 | 
 | 216 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 217 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 218 | [EVE Online](games/e/eve_online.md) | 4.26 | 
@@ -654,7 +654,7 @@
 | 652 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
 | 653 | [Submerged](games/s/submerged.md) | 4.16 | 
 | 654 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 655 | [Subnautica](games/s/subnautica.md) | 4.84 | 
+| 655 | [Subnautica](games/s/subnautica.md) | 4.85 | 
 | 656 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 657 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
 | 658 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
