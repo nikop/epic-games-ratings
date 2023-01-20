@@ -461,7 +461,7 @@
 | 459 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 460 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
 | 461 | [NORCO](games/n/norco.md) | 4.60 | 
-| 462 | [Northgard](games/n/northgard.md) | 4.71 | 
+| 462 | [Northgard](games/n/northgard.md) | 4.72 | 
 | 463 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
 | 464 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 465 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
