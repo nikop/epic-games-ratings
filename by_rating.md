@@ -168,24 +168,24 @@
 | 166 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 166 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 166 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
+| 166 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
 | 166 | [Slipways](games/s/slipways.md) | 4.72 | 
 | 166 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
-| 171 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
-| 171 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 171 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
-| 171 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
-| 171 | [Barony](games/b/barony.md) | 4.71 | 
-| 171 | [Timberborn](games/t/timberborn.md) | 4.71 | 
-| 171 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 171 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 171 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 171 | [Northgard](games/n/northgard.md) | 4.71 | 
-| 171 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 
-| 171 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
-| 171 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 171 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
-| 171 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
-| 171 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
+| 172 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
+| 172 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 172 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 172 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
+| 172 | [Barony](games/b/barony.md) | 4.71 | 
+| 172 | [Timberborn](games/t/timberborn.md) | 4.71 | 
+| 172 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 172 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 172 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 172 | [Northgard](games/n/northgard.md) | 4.71 | 
+| 172 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
+| 172 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
+| 172 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
+| 172 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
+| 172 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
 | 187 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 187 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 187 | [For The King](games/f/for_the_king.md) | 4.70 | 
