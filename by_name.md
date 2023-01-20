@@ -260,7 +260,7 @@
 | 258 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 259 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 
 | 260 | [Flatout](games/f/flatout.md) | 4.13 | 
-| 261 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
+| 261 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
 | 262 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 263 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
 | 264 | [For The King](games/f/for_the_king.md) | 4.70 | 
@@ -273,7 +273,7 @@
 | 271 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 272 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 273 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 274 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.28 | 
+| 274 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.29 | 
 | 275 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
 | 276 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 277 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
@@ -318,7 +318,7 @@
 | 316 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
 | 317 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 318 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 319 | [High On Life](games/h/high_on_life.md) | 4.69 | 
+| 319 | [High On Life](games/h/high_on_life.md) | 4.68 | 
 | 320 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 321 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 322 | [Hob](games/h/hob.md) | 4.57 | 

@@ -5,12 +5,12 @@
 | 3 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.95 | 
 | 4 | [Hades](games/h/hades.md) | 4.92 | 
 | 4 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 6 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
-| 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 6 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
-| 6 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 
-| 6 | [Mago](games/m/mago.md) | 4.90 | 
-| 6 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 
+| 6 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
+| 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
+| 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
+| 7 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
+| 7 | [Mago](games/m/mago.md) | 4.90 | 
+| 7 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 
 | 12 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
 | 12 | [God of War](games/g/god_of_war.md) | 4.89 | 
@@ -223,22 +223,22 @@
 | 204 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.69 | 
 | 204 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 204 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.69 | 
-| 204 | [High On Life](games/h/high_on_life.md) | 4.69 | 
 | 204 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
-| 226 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
-| 226 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 226 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 226 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 226 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 226 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 226 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 226 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 226 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
-| 226 | [CARRION](games/c/carrion.md) | 4.68 | 
-| 226 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
-| 226 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
-| 226 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
-| 226 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
+| 225 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
+| 225 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 225 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 225 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 225 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 225 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 225 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 225 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
+| 225 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
+| 225 | [CARRION](games/c/carrion.md) | 4.68 | 
+| 225 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
+| 225 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
+| 225 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
+| 225 | [High On Life](games/h/high_on_life.md) | 4.68 | 
+| 225 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 240 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 240 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 240 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
@@ -721,14 +721,14 @@
 | 718 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 718 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 718 | [The Fall](games/t/the_fall.md) | 4.29 | 
+| 718 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.29 | 
 | 718 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 718 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 718 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 725 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 725 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
-| 725 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
-| 725 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.28 | 
-| 725 | [Dark Light](games/d/dark_light.md) | 4.28 | 
+| 726 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 726 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 726 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
+| 726 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 730 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 730 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
 | 732 | [EVE Online](games/e/eve_online.md) | 4.26 | 
