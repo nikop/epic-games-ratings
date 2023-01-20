@@ -780,7 +780,7 @@
 | 778 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 779 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 780 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 781 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.52 | 
+| 781 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
 | 782 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 783 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
 | 784 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
@@ -847,7 +847,7 @@
 | 845 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 846 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
 | 847 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 848 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.67 | 
+| 848 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
 | 849 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
 | 850 | [ZOMBI](games/z/zombi.md) | 4.35 | 
 | 851 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
