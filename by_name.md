@@ -324,7 +324,7 @@
 | 322 | [Hob](games/h/hob.md) | 4.57 | 
 | 323 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 324 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 325 | [Horace](games/h/horace.md) | 4.53 | 
+| 325 | [Horace](games/h/horace.md) | 4.52 | 
 | 326 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.57 | 
 | 327 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 328 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
