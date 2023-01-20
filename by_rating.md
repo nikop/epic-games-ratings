@@ -752,15 +752,15 @@
 | 746 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 746 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
 | 752 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 752 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
 | 752 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
-| 754 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.21 | 
-| 754 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
-| 754 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
-| 754 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
-| 754 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
-| 754 | [Starsand](games/s/starsand.md) | 4.21 | 
-| 754 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.21 | 
-| 754 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
+| 755 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.21 | 
+| 755 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
+| 755 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
+| 755 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
+| 755 | [Starsand](games/s/starsand.md) | 4.21 | 
+| 755 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.21 | 
+| 755 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
 | 762 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 762 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 762 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
