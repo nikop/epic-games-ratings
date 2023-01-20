@@ -514,7 +514,7 @@
 | 512 | [Pine](games/p/pine.md) | 4.14 | 
 | 513 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
 | 514 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 515 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.59 | 
+| 515 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.60 | 
 | 516 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
 | 517 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 518 | [Predecessor](games/p/predecessor.md) | 4.42 | 
@@ -559,7 +559,7 @@
 | 557 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 558 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
 | 559 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 560 | [Roguebook](games/r/roguebook.md) | 4.62 | 
+| 560 | [Roguebook](games/r/roguebook.md) | 4.61 | 
 | 561 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 562 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
 | 563 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
@@ -670,7 +670,7 @@
 | 668 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 669 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 670 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 671 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
+| 671 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.32 | 
 | 672 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 673 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 674 | [Tacoma](games/t/tacoma.md) | 4.41 | 
