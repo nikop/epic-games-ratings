@@ -780,10 +780,10 @@
 | 776 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 776 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 776 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
-| 776 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 
 | 776 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
-| 783 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
-| 783 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.17 | 
+| 782 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
+| 782 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.17 | 
+| 782 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
 | 785 | [God's Trigger](games/g/god's_trigger.md) | 4.16 | 
 | 785 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 785 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
@@ -830,8 +830,8 @@
 | 827 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
 | 827 | [Chimeraland](games/c/chimeraland.md) | 4.00 | 
 | 830 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 831 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
-| 831 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
+| 830 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
+| 832 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 833 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 834 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
 | 834 | [Conarium](games/c/conarium.md) | 3.94 | 

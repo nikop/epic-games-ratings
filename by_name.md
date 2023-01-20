@@ -124,7 +124,7 @@
 | 122 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 123 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
 | 124 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 125 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
+| 125 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
 | 126 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
 | 127 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 128 | [Conarium](games/c/conarium.md) | 3.94 | 
@@ -295,7 +295,7 @@
 | 293 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 
 | 294 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 295 | [Good Company](games/g/good_company.md) | 4.41 | 
-| 296 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 
+| 296 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
 | 297 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 298 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 299 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
