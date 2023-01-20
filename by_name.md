@@ -196,7 +196,7 @@
 | 194 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 195 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.56 | 
 | 196 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 197 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.39 | 
+| 197 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.38 | 
 | 198 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 199 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 200 | [DOOM 3](games/d/doom_3.md) | 4.63 | 
@@ -417,7 +417,7 @@
 | 415 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 416 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 417 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 418 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
+| 418 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.56 | 
 | 419 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 420 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
 | 421 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
@@ -602,7 +602,7 @@
 | 600 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 601 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 602 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
-| 603 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.69 | 
+| 603 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
 | 604 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 605 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 606 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 

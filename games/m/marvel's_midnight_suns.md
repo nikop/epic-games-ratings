@@ -1,5 +1,5 @@
 # Marvel's Midnight Suns
-Rating: 4.55 (-)  (as of 23.09.2022)  
+Rating: 4.56 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -35,3 +35,4 @@ Rating: 4.55 (-)  (as of 23.09.2022)
 | 2023-01-10 | 4.54 | - |
 | 2023-01-13 | 4.55 | - |
 | 2023-01-14 | 4.55 | - |
+| 2023-01-20 | 4.56 | - |

@@ -1,5 +1,5 @@
 # Divine Knockout (DKO) - Starter Edition
-Rating: 4.39 (60)  (as of 23.09.2022)  
+Rating: 4.38 (60)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -73,3 +73,4 @@ Rating: 4.39 (60)  (as of 23.09.2022)
 | 2023-01-17 | 4.43 | - |
 | 2023-01-18 | 4.41 | - |
 | 2023-01-19 | 4.39 | - |
+| 2023-01-20 | 4.38 | - |
