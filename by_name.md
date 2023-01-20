@@ -46,7 +46,7 @@
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
-| 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 
+| 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
@@ -222,7 +222,7 @@
 | 220 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 221 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.95 | 
 | 222 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 223 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.21 | 
+| 223 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 
 | 224 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 225 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
 | 226 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
@@ -635,7 +635,7 @@
 | 633 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
 | 634 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
 | 635 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 636 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
+| 636 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
 | 637 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
 | 638 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.65 | 
 | 639 | [Starsand](games/s/starsand.md) | 4.21 | 
