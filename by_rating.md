@@ -721,14 +721,14 @@
 | 718 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 718 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 718 | [The Fall](games/t/the_fall.md) | 4.29 | 
-| 718 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.29 | 
 | 718 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 718 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 718 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 726 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 726 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
-| 726 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
-| 726 | [Dark Light](games/d/dark_light.md) | 4.28 | 
+| 725 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 725 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 725 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
+| 725 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.28 | 
+| 725 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 730 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 730 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
 | 732 | [EVE Online](games/e/eve_online.md) | 4.26 | 

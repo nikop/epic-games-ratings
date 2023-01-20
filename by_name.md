@@ -273,7 +273,7 @@
 | 271 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 272 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 273 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 274 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.29 | 
+| 274 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.28 | 
 | 275 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
 | 276 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 277 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
