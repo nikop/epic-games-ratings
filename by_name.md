@@ -644,7 +644,7 @@
 | 642 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 643 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 644 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
-| 645 | [STG Football](games/s/stg_football.md) | 4.49 | 
+| 645 | [STG Football](games/s/stg_football.md) | 4.48 | 
 | 646 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 647 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 648 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
@@ -685,7 +685,7 @@
 | 683 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
 | 684 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 685 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
-| 686 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
+| 686 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.17 | 
 | 687 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 688 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 689 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 

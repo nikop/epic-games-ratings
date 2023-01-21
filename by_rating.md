@@ -541,13 +541,13 @@
 | 525 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 525 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 525 | [IXION](games/i/ixion.md) | 4.49 | 
-| 525 | [STG Football](games/s/stg_football.md) | 4.49 | 
 | 525 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
-| 544 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 544 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 544 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
-| 544 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
-| 544 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
+| 543 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 543 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 543 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
+| 543 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
+| 543 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
+| 543 | [STG Football](games/s/stg_football.md) | 4.48 | 
 | 549 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 549 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 549 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -781,9 +781,9 @@
 | 776 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 776 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
 | 776 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 
-| 776 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
-| 783 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
-| 783 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 
+| 782 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
+| 782 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 
+| 782 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.17 | 
 | 785 | [God's Trigger](games/g/god's_trigger.md) | 4.16 | 
 | 785 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 785 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 

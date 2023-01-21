@@ -1,10 +1,10 @@
 {
   "ID": "5c30028c7a144f91b4a6ee4011bea27b",
   "Name": "STG Football",
-  "Rating": 4.49,
+  "Rating": 4.48,
   "FirstSeen": "2022-10-25T20:04:22.7982366+00:00",
   "FirstSeenRating": "2022-10-28T23:02:10.4160395+00:00",
-  "LastChanged": "2023-01-15T02:11:00.1784923+00:00",
+  "LastChanged": "2023-01-21T15:57:52.8821984+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-28T23:02:10.4160399+00:00",
@@ -250,6 +250,11 @@
       "Time": "2023-01-15T02:11:00.1784924+00:00",
       "Rating": 4.49,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-21T15:57:52.8821987+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -275,7 +280,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game has a Competitive Community",
