@@ -192,7 +192,7 @@
 | 190 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
 | 191 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 192 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 193 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.73 | 
+| 193 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 
 | 194 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 195 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.56 | 
 | 196 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
@@ -495,7 +495,7 @@
 | 493 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 494 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.56 | 
 | 495 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 496 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
+| 496 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
 | 497 | [Parkitect](games/p/parkitect.md) | 4.30 | 
 | 498 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 499 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
@@ -715,7 +715,7 @@
 | 713 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
 | 714 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
 | 715 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 716 | [The Medium](games/t/the_medium.md) | 4.55 | 
+| 716 | [The Medium](games/t/the_medium.md) | 4.56 | 
 | 717 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
 | 718 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 719 | [The Pathless](games/t/the_pathless.md) | 4.67 | 

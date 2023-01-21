@@ -1,10 +1,10 @@
 {
   "ID": "7bb9b09415a544f78fadf6390b2e3a80",
   "Name": "Paragon: The Overprime",
-  "Rating": 4.26,
+  "Rating": 4.27,
   "FirstSeen": "2022-11-07T03:53:37.8993563+00:00",
   "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
-  "LastChanged": "2023-01-17T23:59:06.7144424+00:00",
+  "LastChanged": "2023-01-21T21:58:41.7576356+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-10T14:19:52.8915147+00:00",
@@ -300,6 +300,11 @@
       "Time": "2023-01-17T23:59:06.7144425+00:00",
       "Rating": 4.26,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-21T21:58:41.7576357+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -337,7 +342,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 105
+      "Count": 108
     },
     {
       "Text": "This game has a Competitive Community",
