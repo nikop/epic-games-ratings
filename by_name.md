@@ -657,7 +657,7 @@
 | 655 | [Subnautica](games/s/subnautica.md) | 4.85 | 
 | 656 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 657 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
-| 658 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
+| 658 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
 | 659 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 660 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
 | 661 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.70 | 
