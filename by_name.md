@@ -686,7 +686,7 @@
 | 684 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
 | 685 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 686 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
-| 687 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.17 | 
+| 687 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
 | 688 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 689 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 690 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
@@ -790,7 +790,7 @@
 | 788 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 789 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 790 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 791 | [TUNIC](games/t/tunic.md) | 4.86 | 
+| 791 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 792 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 793 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 794 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 

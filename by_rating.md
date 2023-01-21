@@ -29,14 +29,14 @@
 | 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 24 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
 | 24 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
+| 24 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 24 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.87 | 
 | 24 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
-| 32 | [Inscryption](games/i/inscryption.md) | 4.86 | 
-| 32 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 32 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 32 | [TUNIC](games/t/tunic.md) | 4.86 | 
-| 32 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
-| 32 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
+| 33 | [Inscryption](games/i/inscryption.md) | 4.86 | 
+| 33 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 33 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 33 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
+| 33 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 38 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 38 | [Subnautica](games/s/subnautica.md) | 4.85 | 
@@ -782,10 +782,10 @@
 | 778 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 778 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 778 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
-| 783 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
-| 783 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 
-| 783 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
-| 783 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.17 | 
+| 778 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
+| 784 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
+| 784 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 
+| 784 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
 | 787 | [God's Trigger](games/g/god's_trigger.md) | 4.16 | 
 | 787 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 787 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
