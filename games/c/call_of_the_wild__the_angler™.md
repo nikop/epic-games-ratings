@@ -1,5 +1,5 @@
 # Call of the Wild: The Angler™
-Rating: 4.09 (281)  (as of 23.09.2022)  
+Rating: 4.10 (281)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -42,3 +42,4 @@ Rating: 4.09 (281)  (as of 23.09.2022)
 | 2022-12-17 | 4.09 | - |
 | 2023-01-05 | 4.08 | - |
 | 2023-01-07 | 4.09 | - |
+| 2023-01-21 | 4.10 | - |

@@ -52,7 +52,7 @@
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.39 | 
+| 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
@@ -102,7 +102,7 @@
 | 100 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 101 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
 | 102 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
-| 103 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.09 | 
+| 103 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.10 | 
 | 104 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 105 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
 | 106 | [Card Shark](games/c/card_shark.md) | 4.67 | 
@@ -256,7 +256,7 @@
 | 254 | [Filament](games/f/filament.md) | 4.32 | 
 | 255 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 256 | [Firework](games/f/firework.md) | 4.89 | 
-| 257 | [First Class Trouble](games/f/first_class_trouble.md) | 4.57 | 
+| 257 | [First Class Trouble](games/f/first_class_trouble.md) | 4.56 | 
 | 258 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 259 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 
 | 260 | [Flatout](games/f/flatout.md) | 4.13 | 
@@ -427,7 +427,7 @@
 | 425 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
 | 426 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
 | 427 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 428 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
+| 428 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.47 | 
 | 429 | [Minit](games/m/minit.md) | 4.55 | 
 | 430 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
 | 431 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
