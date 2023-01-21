@@ -178,7 +178,7 @@
 | 176 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 177 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.63 | 
 | 178 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
-| 179 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 179 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
 | 180 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 181 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 182 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
@@ -312,7 +312,7 @@
 | 310 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 311 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 312 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 313 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.52 | 
+| 313 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.53 | 
 | 314 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 315 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 316 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
@@ -472,7 +472,7 @@
 | 470 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.81 | 
 | 471 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
 | 472 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 473 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 473 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 474 | [Old World](games/o/old_world.md) | 4.64 | 
 | 475 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 476 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
