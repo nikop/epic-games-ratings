@@ -116,7 +116,7 @@
 | 114 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 115 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 116 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
-| 117 | [Chimeraland](games/c/chimeraland.md) | 4.00 | 
+| 117 | [Chimeraland](games/c/chimeraland.md) | 3.98 | 
 | 118 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 119 | [Chorus](games/c/chorus.md) | 4.46 | 
 | 120 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
@@ -721,7 +721,7 @@
 | 719 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 720 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 721 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 722 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 722 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.26 | 
 | 723 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 724 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 725 | [The Surge](games/t/the_surge.md) | 4.50 | 

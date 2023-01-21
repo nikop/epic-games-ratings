@@ -734,12 +734,12 @@
 | 732 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 732 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 732 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 732 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.26 | 
 | 732 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 732 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 732 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 732 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
-| 739 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 739 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
+| 740 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
 | 741 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 741 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 741 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
@@ -828,10 +828,10 @@
 | 826 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 
 | 827 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 827 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
-| 827 | [Chimeraland](games/c/chimeraland.md) | 4.00 | 
-| 830 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 830 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
-| 832 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
+| 829 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
+| 829 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
+| 831 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
+| 831 | [Chimeraland](games/c/chimeraland.md) | 3.98 | 
 | 833 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 834 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
 | 834 | [Conarium](games/c/conarium.md) | 3.94 | 
