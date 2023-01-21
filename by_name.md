@@ -295,7 +295,7 @@
 | 293 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 
 | 294 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 295 | [Good Company](games/g/good_company.md) | 4.41 | 
-| 296 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
+| 296 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 
 | 297 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 298 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 299 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
@@ -656,7 +656,7 @@
 | 654 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 655 | [Subnautica](games/s/subnautica.md) | 4.85 | 
 | 656 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 657 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
+| 657 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
 | 658 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
 | 659 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 660 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 

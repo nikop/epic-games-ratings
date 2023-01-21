@@ -196,6 +196,7 @@
 | 186 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
 | 186 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 186 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 186 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
 | 186 | [Fez](games/f/fez.md) | 4.70 | 
 | 186 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
 | 186 | [Townscaper](games/t/townscaper.md) | 4.70 | 
@@ -203,27 +204,26 @@
 | 186 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
 | 186 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
 | 186 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
-| 204 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 204 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 204 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
-| 204 | [Days Gone](games/d/days_gone.md) | 4.69 | 
-| 204 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 204 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 204 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 204 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
-| 204 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 204 | [Bad North](games/b/bad_north.md) | 4.69 | 
-| 204 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
-| 204 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 204 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 204 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
-| 204 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 204 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
-| 204 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
-| 204 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.69 | 
-| 204 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 204 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.69 | 
-| 204 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
+| 205 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 205 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 205 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
+| 205 | [Days Gone](games/d/days_gone.md) | 4.69 | 
+| 205 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
+| 205 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 205 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 205 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
+| 205 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 205 | [Bad North](games/b/bad_north.md) | 4.69 | 
+| 205 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
+| 205 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 205 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 205 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
+| 205 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
+| 205 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
+| 205 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.69 | 
+| 205 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
+| 205 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.69 | 
+| 205 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
 | 225 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
 | 225 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 225 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
@@ -780,10 +780,10 @@
 | 776 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 776 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 776 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
+| 776 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 
 | 776 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
-| 782 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
-| 782 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 
-| 782 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
+| 783 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
+| 783 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 
 | 785 | [God's Trigger](games/g/god's_trigger.md) | 4.16 | 
 | 785 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 785 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
