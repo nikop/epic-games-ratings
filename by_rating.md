@@ -128,27 +128,27 @@
 | 125 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 125 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 125 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 125 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 125 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 125 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 125 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.75 | 
 | 125 | [Haven](games/h/haven.md) | 4.75 | 
 | 125 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
 | 125 | [SpiderHeck](games/s/spiderheck.md) | 4.75 | 
-| 136 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 136 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
-| 136 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 136 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 136 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
-| 136 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
-| 136 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
-| 136 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 136 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 136 | [Revita](games/r/revita.md) | 4.74 | 
-| 136 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 136 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
-| 136 | [King of Retail](games/k/king_of_retail.md) | 4.74 | 
-| 136 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 
+| 135 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 135 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
+| 135 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 135 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 135 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
+| 135 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 135 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
+| 135 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
+| 135 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 135 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 135 | [Revita](games/r/revita.md) | 4.74 | 
+| 135 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 135 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
+| 135 | [King of Retail](games/k/king_of_retail.md) | 4.74 | 
+| 135 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 
 | 150 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 150 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 150 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
