@@ -490,24 +490,24 @@
 | 485 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 485 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 485 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 485 | [Horace](games/h/horace.md) | 4.52 | 
 | 485 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
 | 485 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 485 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
-| 495 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 495 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 495 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 495 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 495 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 495 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
-| 495 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 495 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
-| 495 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
-| 495 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.51 | 
-| 495 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
-| 495 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 495 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 495 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
+| 494 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 494 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 494 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 494 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 494 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 494 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
+| 494 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 494 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
+| 494 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
+| 494 | [Horace](games/h/horace.md) | 4.51 | 
+| 494 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.51 | 
+| 494 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
+| 494 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 494 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
+| 494 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
 | 509 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 509 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 509 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
@@ -652,7 +652,6 @@
 | 643 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.39 | 
 | 651 | [Core](games/c/core.md) | 4.38 | 
 | 651 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
-| 651 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 651 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 651 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.38 | 
 | 651 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
@@ -662,14 +661,15 @@
 | 651 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 651 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
 | 651 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 663 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 663 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 663 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 663 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 663 | [Encased](games/e/encased.md) | 4.37 | 
-| 663 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 663 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 663 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
+| 662 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 662 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 662 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 662 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 662 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 662 | [Encased](games/e/encased.md) | 4.37 | 
+| 662 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 662 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 662 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
 | 671 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 671 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 671 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 

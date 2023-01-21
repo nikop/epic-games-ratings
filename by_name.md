@@ -324,7 +324,7 @@
 | 322 | [Hob](games/h/hob.md) | 4.57 | 
 | 323 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 324 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 325 | [Horace](games/h/horace.md) | 4.52 | 
+| 325 | [Horace](games/h/horace.md) | 4.51 | 
 | 326 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.57 | 
 | 327 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 328 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
@@ -349,7 +349,7 @@
 | 347 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 348 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 349 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 350 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 350 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
 | 351 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 352 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 353 | [IXION](games/i/ixion.md) | 4.49 | 
