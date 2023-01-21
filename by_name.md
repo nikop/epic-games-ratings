@@ -619,7 +619,7 @@
 | 617 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 618 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
 | 619 | [Souldiers](games/s/souldiers.md) | 4.55 | 
-| 620 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.82 | 
+| 620 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.81 | 
 | 621 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.81 | 
 | 622 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 623 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
