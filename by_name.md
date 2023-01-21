@@ -53,7 +53,7 @@
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 
-| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
+| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.39 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
@@ -295,7 +295,7 @@
 | 293 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 
 | 294 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 295 | [Good Company](games/g/good_company.md) | 4.41 | 
-| 296 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 
+| 296 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
 | 297 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 298 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 299 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
@@ -305,7 +305,7 @@
 | 303 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
 | 304 | [Hades](games/h/hades.md) | 4.92 | 
 | 305 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 306 | [Hammerting](games/h/hammerting.md) | 4.36 | 
+| 306 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 307 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
 | 308 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.63 | 
 | 309 | [Haven](games/h/haven.md) | 4.75 | 
