@@ -247,7 +247,7 @@
 | 245 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 246 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
 | 247 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
-| 248 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 248 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
 | 249 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 250 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
 | 251 | [Fez](games/f/fez.md) | 4.70 | 

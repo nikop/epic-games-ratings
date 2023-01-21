@@ -174,7 +174,6 @@
 | 166 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
 | 173 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 173 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 173 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 173 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
 | 173 | [Barony](games/b/barony.md) | 4.71 | 
 | 173 | [Timberborn](games/t/timberborn.md) | 4.71 | 
@@ -186,23 +185,24 @@
 | 173 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 173 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
 | 173 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 187 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 187 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
-| 187 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 187 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
-| 187 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 187 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
-| 187 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 187 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
-| 187 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
-| 187 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 187 | [Fez](games/f/fez.md) | 4.70 | 
-| 187 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
-| 187 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 187 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.70 | 
-| 187 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
-| 187 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
-| 187 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
+| 186 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 186 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
+| 186 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
+| 186 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 186 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
+| 186 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 186 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
+| 186 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 186 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
+| 186 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
+| 186 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 186 | [Fez](games/f/fez.md) | 4.70 | 
+| 186 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
+| 186 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 186 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.70 | 
+| 186 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
+| 186 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
+| 186 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 204 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 204 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 204 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
