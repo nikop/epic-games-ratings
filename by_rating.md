@@ -90,15 +90,15 @@
 | 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 79 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
 | 79 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
+| 79 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
 | 79 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
-| 92 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
-| 92 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 92 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 92 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 92 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 92 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 92 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
-| 92 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
+| 93 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
+| 93 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 93 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
+| 93 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 93 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 93 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 93 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
 | 100 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 100 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
@@ -650,7 +650,6 @@
 | 644 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 644 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 644 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 651 | [Core](games/c/core.md) | 4.38 | 
 | 651 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 651 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 651 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.38 | 
@@ -661,15 +660,16 @@
 | 651 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 651 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
 | 651 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 662 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 662 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 662 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 662 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 662 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 662 | [Encased](games/e/encased.md) | 4.37 | 
-| 662 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 662 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 662 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
+| 661 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 661 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 661 | [Core](games/c/core.md) | 4.37 | 
+| 661 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 661 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 661 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 661 | [Encased](games/e/encased.md) | 4.37 | 
+| 661 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 661 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 661 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
 | 671 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 671 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 671 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 

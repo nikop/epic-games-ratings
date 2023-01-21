@@ -1,5 +1,5 @@
 # Child of Light: Ultimate Edition
-Rating: 4.79 (-)  (as of 23.09.2022)  
+Rating: 4.80 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -8,3 +8,4 @@ Rating: 4.79 (-)  (as of 23.09.2022)
 | 2022-12-07 | 4.82 | - |
 | 2022-12-19 | 4.78 | - |
 | 2022-12-30 | 4.79 | - |
+| 2023-01-21 | 4.80 | - |

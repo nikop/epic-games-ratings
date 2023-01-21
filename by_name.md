@@ -115,7 +115,7 @@
 | 113 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 114 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 115 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
-| 116 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 
+| 116 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
 | 117 | [Chimeraland](games/c/chimeraland.md) | 3.98 | 
 | 118 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 119 | [Chorus](games/c/chorus.md) | 4.46 | 
@@ -131,7 +131,7 @@
 | 129 | [Control](games/c/control.md) | 4.60 | 
 | 130 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 131 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 132 | [Core](games/c/core.md) | 4.38 | 
+| 132 | [Core](games/c/core.md) | 4.37 | 
 | 133 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 134 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
 | 135 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
