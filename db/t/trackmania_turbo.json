@@ -1,7 +1,16 @@
 {
   "ID": "8bd4f3286d414820bc7cbcbb849b1f72",
   "Name": "Trackmania Turbo",
+  "Rating": 4.8,
   "FirstSeen": "2022-07-22T20:28:57.415353+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-01-21T19:58:17.0263364+00:00",
+  "LastChanged": "2023-01-21T19:58:17.0263365+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-01-21T19:58:17.0263366+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
