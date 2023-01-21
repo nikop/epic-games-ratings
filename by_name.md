@@ -112,7 +112,7 @@
 | 110 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 111 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 112 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
-| 113 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 113 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 114 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 115 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 116 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
@@ -146,7 +146,7 @@
 | 144 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 145 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 146 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
-| 147 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
+| 147 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 148 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
 | 149 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 150 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
