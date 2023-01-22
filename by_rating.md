@@ -831,8 +831,8 @@
 | 828 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
 | 828 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.00 | 
 | 831 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 831 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.99 | 
-| 833 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
+| 832 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
+| 832 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 834 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 835 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
 | 835 | [Conarium](games/c/conarium.md) | 3.94 | 
