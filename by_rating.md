@@ -735,13 +735,13 @@
 | 732 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
 | 734 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 734 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 734 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 734 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 734 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 734 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 734 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
-| 741 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 741 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
+| 740 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
+| 740 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 740 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
 | 743 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 743 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 743 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
