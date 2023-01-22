@@ -31,12 +31,12 @@
 | 24 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 24 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 24 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.87 | 
-| 24 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
-| 33 | [Inscryption](games/i/inscryption.md) | 4.86 | 
-| 33 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 33 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 33 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
-| 33 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
+| 32 | [Inscryption](games/i/inscryption.md) | 4.86 | 
+| 32 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 32 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 32 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
+| 32 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
+| 32 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 38 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 38 | [Subnautica](games/s/subnautica.md) | 4.85 | 
@@ -543,24 +543,24 @@
 | 526 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 526 | [IXION](games/i/ixion.md) | 4.49 | 
 | 526 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
+| 544 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 544 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 544 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 544 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
 | 544 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
 | 544 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 544 | [STG Football](games/s/stg_football.md) | 4.48 | 
-| 550 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 550 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 550 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
-| 550 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.47 | 
-| 550 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 550 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.47 | 
-| 550 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
-| 550 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
-| 550 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 550 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
-| 550 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
-| 550 | [Scorn](games/s/scorn.md) | 4.47 | 
+| 551 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 551 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 551 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.47 | 
+| 551 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 551 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.47 | 
+| 551 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
+| 551 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
+| 551 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
+| 551 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
+| 551 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
+| 551 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 562 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 562 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 562 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
@@ -608,7 +608,6 @@
 | 599 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 607 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 607 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 607 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 607 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 607 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 607 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
@@ -617,21 +616,22 @@
 | 607 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.42 | 
 | 607 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
 | 607 | [WRC Generations](games/w/wrc_generations.md) | 4.42 | 
-| 618 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
-| 618 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 618 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 618 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 618 | [Good Company](games/g/good_company.md) | 4.41 | 
-| 618 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
-| 618 | [Tacoma](games/t/tacoma.md) | 4.41 | 
-| 618 | [RiMS Racing](games/r/rims_racing.md) | 4.41 | 
-| 618 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 618 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 618 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 618 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 618 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 618 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
-| 618 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
+| 617 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
+| 617 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 617 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 617 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
+| 617 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
+| 617 | [Good Company](games/g/good_company.md) | 4.41 | 
+| 617 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
+| 617 | [Tacoma](games/t/tacoma.md) | 4.41 | 
+| 617 | [RiMS Racing](games/r/rims_racing.md) | 4.41 | 
+| 617 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
+| 617 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 617 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
+| 617 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 617 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 617 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
+| 617 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
 | 633 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 633 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 633 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 

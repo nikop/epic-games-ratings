@@ -1,10 +1,10 @@
 {
   "ID": "c8738a4d1ead40368eab9688b3c7d737",
   "Name": "The Elder Scrolls V: Skyrim Special Edition",
-  "Rating": 4.87,
+  "Rating": 4.86,
   "FirstSeen": "2022-10-06T16:01:22.0492256+00:00",
   "FirstSeenRating": "2022-10-10T18:31:07.4618498+00:00",
-  "LastChanged": "2023-01-11T19:58:20.4311506+00:00",
+  "LastChanged": "2023-01-22T16:57:38.8839912+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-10T18:31:07.4618502+00:00",
@@ -295,12 +295,17 @@
       "Time": "2023-01-11T19:58:20.4311508+00:00",
       "Rating": 4.87,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-22T16:57:38.8839913+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 1056
+      "Count": 1058
     },
     {
       "Text": "This game has Quickly Understood Controls",

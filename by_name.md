@@ -98,7 +98,7 @@
 | 96 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 
 | 97 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 98 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
-| 99 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
+| 99 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 100 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 101 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
 | 102 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
@@ -112,7 +112,7 @@
 | 110 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
 | 111 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 112 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
-| 113 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 113 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 114 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 115 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 116 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
@@ -695,7 +695,7 @@
 | 693 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 694 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 695 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 696 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
+| 696 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 697 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 698 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 699 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
