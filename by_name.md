@@ -257,7 +257,7 @@
 | 255 | [Filament](games/f/filament.md) | 4.32 | 
 | 256 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 257 | [Firework](games/f/firework.md) | 4.89 | 
-| 258 | [First Class Trouble](games/f/first_class_trouble.md) | 4.57 | 
+| 258 | [First Class Trouble](games/f/first_class_trouble.md) | 4.56 | 
 | 259 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 260 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 
 | 261 | [Flatout](games/f/flatout.md) | 4.13 | 
@@ -274,7 +274,7 @@
 | 272 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 273 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 274 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 275 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.29 | 
+| 275 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.30 | 
 | 276 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
 | 277 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 278 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
@@ -406,7 +406,7 @@
 | 404 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 405 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 406 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
-| 407 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.05 | 
+| 407 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.04 | 
 | 408 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.57 | 
 | 409 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 410 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
@@ -524,7 +524,7 @@
 | 522 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 523 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 
 | 524 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 525 | [Quake](games/q/quake.md) | 4.77 | 
+| 525 | [Quake](games/q/quake.md) | 4.76 | 
 | 526 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 527 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 528 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
@@ -587,7 +587,7 @@
 | 585 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
 | 586 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 587 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 588 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
+| 588 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.73 | 
 | 589 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 590 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
 | 591 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
@@ -619,7 +619,7 @@
 | 617 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
 | 618 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 619 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
-| 620 | [Souldiers](games/s/souldiers.md) | 4.55 | 
+| 620 | [Souldiers](games/s/souldiers.md) | 4.52 | 
 | 621 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.81 | 
 | 622 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.81 | 
 | 623 | [Space Punks](games/s/space_punks.md) | 4.18 | 
@@ -757,7 +757,7 @@
 | 755 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 756 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 757 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
-| 758 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
+| 758 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
 | 759 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 760 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 761 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
