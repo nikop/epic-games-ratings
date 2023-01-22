@@ -782,10 +782,10 @@
 | 778 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 778 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 778 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
-| 778 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 
 | 778 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
-| 785 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
-| 785 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 
+| 784 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
+| 784 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 
+| 784 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
 | 787 | [God's Trigger](games/g/god's_trigger.md) | 4.16 | 
 | 787 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 787 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 

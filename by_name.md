@@ -296,7 +296,7 @@
 | 294 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 
 | 295 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 296 | [Good Company](games/g/good_company.md) | 4.41 | 
-| 297 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 
+| 297 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
 | 298 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 299 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 300 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
