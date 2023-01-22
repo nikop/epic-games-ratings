@@ -70,6 +70,7 @@
 | 67 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 67 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.81 | 
 | 67 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.81 | 
+| 67 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 67 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.81 | 
 | 67 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 67 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
@@ -78,21 +79,20 @@
 | 67 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 67 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 67 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
-| 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 79 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 79 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 79 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
-| 79 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
-| 79 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
-| 79 | [Griftlands](games/g/griftlands.md) | 4.80 | 
-| 79 | [Journey](games/j/journey.md) | 4.80 | 
-| 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 79 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
-| 79 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
-| 79 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
-| 79 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
-| 79 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.80 | 
+| 80 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 80 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 80 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 80 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
+| 80 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
+| 80 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
+| 80 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
+| 80 | [Journey](games/j/journey.md) | 4.80 | 
+| 80 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 80 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
+| 80 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
+| 80 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
+| 80 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
+| 80 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.80 | 
 | 94 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 94 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 94 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
@@ -655,7 +655,6 @@
 | 653 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 653 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 653 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.38 | 
-| 653 | [Encased](games/e/encased.md) | 4.38 | 
 | 653 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 653 | [Othercide](games/o/othercide.md) | 4.38 | 
 | 653 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
@@ -664,15 +663,16 @@
 | 653 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
 | 653 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 653 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 665 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 665 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 665 | [Core](games/c/core.md) | 4.37 | 
-| 665 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 665 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 665 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 665 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 665 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 665 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
+| 664 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 664 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 664 | [Core](games/c/core.md) | 4.37 | 
+| 664 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 664 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 664 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 664 | [Encased](games/e/encased.md) | 4.37 | 
+| 664 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 664 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 664 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
 | 674 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 674 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 674 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
@@ -699,16 +699,16 @@
 | 696 | [Automachef](games/a/automachef.md) | 4.33 | 
 | 696 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 696 | [Backbone](games/b/backbone.md) | 4.33 | 
-| 700 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 700 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.32 | 
-| 700 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
-| 700 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.32 | 
-| 700 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
-| 700 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
-| 700 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
-| 700 | [Filament](games/f/filament.md) | 4.32 | 
-| 700 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
-| 700 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
+| 696 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 
+| 701 | [Vampyr](games/v/vampyr.md) | 4.32 | 
+| 701 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.32 | 
+| 701 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
+| 701 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.32 | 
+| 701 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
+| 701 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
+| 701 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
+| 701 | [Filament](games/f/filament.md) | 4.32 | 
+| 701 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
 | 710 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 710 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 710 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 

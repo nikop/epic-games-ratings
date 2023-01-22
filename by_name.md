@@ -214,7 +214,7 @@
 | 212 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 213 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 214 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 215 | [Encased](games/e/encased.md) | 4.38 | 
+| 215 | [Encased](games/e/encased.md) | 4.37 | 
 | 216 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 217 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.44 | 
 | 218 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
@@ -300,7 +300,7 @@
 | 298 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 299 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 300 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
-| 301 | [Griftlands](games/g/griftlands.md) | 4.80 | 
+| 301 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 302 | [GRIME](games/g/grime.md) | 4.61 | 
 | 303 | [Grindstone](games/g/grindstone.md) | 4.84 | 
 | 304 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
@@ -405,7 +405,7 @@
 | 403 | [Little Inferno](games/l/little_inferno.md) | 4.60 | 
 | 404 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 405 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 406 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 
+| 406 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 
 | 407 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.04 | 
 | 408 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.57 | 
 | 409 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
