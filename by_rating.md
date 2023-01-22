@@ -662,26 +662,26 @@
 | 653 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 653 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
 | 653 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 653 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
 | 653 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 664 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 664 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 664 | [Core](games/c/core.md) | 4.37 | 
-| 664 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 664 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 664 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 664 | [Encased](games/e/encased.md) | 4.37 | 
-| 664 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 664 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 664 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
-| 674 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 674 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 674 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 674 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 674 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
-| 674 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 674 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
-| 674 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
-| 674 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.36 | 
+| 665 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 665 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 665 | [Core](games/c/core.md) | 4.37 | 
+| 665 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 665 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 665 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 665 | [Encased](games/e/encased.md) | 4.37 | 
+| 665 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 665 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 665 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
+| 675 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 675 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 675 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 675 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 675 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
+| 675 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
+| 675 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
+| 675 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
 | 683 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
 | 683 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 683 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
