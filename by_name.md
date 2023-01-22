@@ -151,7 +151,7 @@
 | 149 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 150 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 151 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 152 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.19 | 
+| 152 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.18 | 
 | 153 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
 | 154 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
 | 155 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
@@ -275,7 +275,7 @@
 | 273 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 274 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 275 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 
-| 276 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
+| 276 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 277 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 278 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
 | 279 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
@@ -362,7 +362,7 @@
 | 360 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 361 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 362 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 363 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.62 | 
+| 363 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.63 | 
 | 364 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 365 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 366 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
@@ -778,7 +778,7 @@
 | 776 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
 | 777 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 778 | [Train Valley 2](games/t/train_valley_2.md) | 4.10 | 
-| 779 | [Transistor](games/t/transistor.md) | 4.63 | 
+| 779 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 780 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 781 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 782 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 

@@ -305,7 +305,6 @@
 | 302 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 302 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 302 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 302 | [Transistor](games/t/transistor.md) | 4.63 | 
 | 302 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
 | 302 | [DOOM 3](games/d/doom_3.md) | 4.63 | 
 | 302 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
@@ -314,6 +313,7 @@
 | 302 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.63 | 
 | 302 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.63 | 
 | 302 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
+| 302 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.63 | 
 | 315 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 315 | [Prey](games/p/prey.md) | 4.62 | 
 | 315 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
@@ -322,13 +322,13 @@
 | 315 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
 | 315 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 315 | [ABZU](games/a/abzu.md) | 4.62 | 
+| 315 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 315 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
 | 315 | [Mutazione](games/m/mutazione.md) | 4.62 | 
 | 315 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 315 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 315 | [Everything](games/e/everything.md) | 4.62 | 
 | 315 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
-| 315 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.62 | 
 | 315 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 315 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.62 | 
 | 332 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
@@ -764,25 +764,25 @@
 | 757 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
 | 763 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 763 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 763 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 763 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 763 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 763 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 763 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 763 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 763 | [Somerville](games/s/somerville.md) | 4.20 | 
-| 771 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 771 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
-| 771 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 771 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
-| 771 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 771 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.19 | 
-| 771 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
-| 778 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 778 | [Space Punks](games/s/space_punks.md) | 4.18 | 
-| 778 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 778 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
-| 778 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
-| 778 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
+| 772 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 772 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
+| 772 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
+| 772 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 772 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
+| 777 | [Windbound](games/w/windbound.md) | 4.18 | 
+| 777 | [Space Punks](games/s/space_punks.md) | 4.18 | 
+| 777 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 777 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
+| 777 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
+| 777 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.18 | 
+| 777 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
 | 784 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
 | 784 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 
 | 784 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
