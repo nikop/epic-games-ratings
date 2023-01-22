@@ -160,19 +160,19 @@
 | 151 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 151 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
 | 151 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
-| 151 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
 | 151 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.73 | 
 | 151 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 151 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
 | 151 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 151 | [SpiderHeck](games/s/spiderheck.md) | 4.73 | 
 | 151 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 168 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 168 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 168 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
-| 168 | [Northgard](games/n/northgard.md) | 4.72 | 
-| 168 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 168 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
+| 167 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 167 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 167 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
+| 167 | [Northgard](games/n/northgard.md) | 4.72 | 
+| 167 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 167 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 167 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
 | 174 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 174 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 174 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
