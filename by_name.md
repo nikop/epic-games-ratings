@@ -109,7 +109,7 @@
 | 107 | [CARRION](games/c/carrion.md) | 4.68 | 
 | 108 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
 | 109 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 110 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 110 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
 | 111 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 112 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 113 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
@@ -231,7 +231,7 @@
 | 229 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 230 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 231 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 232 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
+| 232 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.52 | 
 | 233 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
 | 234 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 235 | [Fangs](games/f/fangs.md) | 4.07 | 

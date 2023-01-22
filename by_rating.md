@@ -117,7 +117,6 @@
 | 114 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 114 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 114 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 114 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 114 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 114 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
 | 114 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
@@ -125,16 +124,17 @@
 | 114 | [Quake](games/q/quake.md) | 4.76 | 
 | 114 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
 | 114 | [shapez](games/s/shapez.md) | 4.76 | 
-| 126 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 126 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 126 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 126 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 126 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
-| 126 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 126 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
-| 126 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.75 | 
-| 126 | [Haven](games/h/haven.md) | 4.75 | 
-| 126 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
+| 125 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 125 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 125 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 125 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
+| 125 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
+| 125 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 125 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 125 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
+| 125 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.75 | 
+| 125 | [Haven](games/h/haven.md) | 4.75 | 
+| 125 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
 | 136 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 136 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
 | 136 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
@@ -492,23 +492,23 @@
 | 485 | [Souldiers](games/s/souldiers.md) | 4.52 | 
 | 485 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 485 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 485 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.52 | 
 | 485 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 485 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
-| 495 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 495 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 495 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 495 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 495 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 495 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
-| 495 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 495 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
-| 495 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
-| 495 | [Horace](games/h/horace.md) | 4.51 | 
-| 495 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.51 | 
-| 495 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
-| 495 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 495 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 495 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
+| 496 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 496 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 496 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 496 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 496 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 496 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
+| 496 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 496 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
+| 496 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
+| 496 | [Horace](games/h/horace.md) | 4.51 | 
+| 496 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.51 | 
+| 496 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
+| 496 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 496 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 510 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 510 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 510 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
