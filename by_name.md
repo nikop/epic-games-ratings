@@ -530,7 +530,7 @@
 | 528 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 529 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
 | 530 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 531 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 
+| 531 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
 | 532 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
 | 533 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 534 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
