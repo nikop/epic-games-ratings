@@ -516,7 +516,7 @@
 | 514 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
 | 515 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 516 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.60 | 
-| 517 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
+| 517 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 518 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 519 | [Predecessor](games/p/predecessor.md) | 4.42 | 
 | 520 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
@@ -625,7 +625,7 @@
 | 623 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 624 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
 | 625 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 626 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
+| 626 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 627 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
 | 628 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
 | 629 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 

@@ -548,19 +548,19 @@
 | 544 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 544 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
 | 544 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
+| 544 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 544 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 544 | [STG Football](games/s/stg_football.md) | 4.48 | 
-| 551 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 551 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 551 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.47 | 
-| 551 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 551 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.47 | 
-| 551 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
-| 551 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
-| 551 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 551 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
-| 551 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
-| 551 | [Scorn](games/s/scorn.md) | 4.47 | 
+| 552 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 552 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 552 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.47 | 
+| 552 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 552 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.47 | 
+| 552 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
+| 552 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
+| 552 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
+| 552 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
+| 552 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 562 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 562 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 562 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
@@ -850,6 +850,6 @@
 | 848 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
 | 849 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 850 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 851 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 
+| 851 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 852 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
 | 853 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
