@@ -216,7 +216,7 @@
 | 214 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 215 | [Encased](games/e/encased.md) | 4.38 | 
 | 216 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 217 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.22 | 
+| 217 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.44 | 
 | 218 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 219 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 220 | [Everything](games/e/everything.md) | 4.62 | 
@@ -229,7 +229,7 @@
 | 227 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 228 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 229 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 230 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
+| 230 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 231 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 232 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
 | 233 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
@@ -378,7 +378,7 @@
 | 376 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.75 | 
 | 377 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 378 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 379 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 379 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 380 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 381 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
 | 382 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
