@@ -134,39 +134,39 @@
 | 126 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.75 | 
 | 126 | [Haven](games/h/haven.md) | 4.75 | 
 | 126 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
-| 126 | [SpiderHeck](games/s/spiderheck.md) | 4.75 | 
-| 136 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
-| 136 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
-| 136 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 136 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 136 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
-| 136 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 
-| 136 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 136 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
-| 136 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
-| 136 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 136 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 136 | [Revita](games/r/revita.md) | 4.74 | 
-| 136 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 136 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
-| 136 | [King of Retail](games/k/king_of_retail.md) | 4.74 | 
-| 136 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 
-| 152 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 152 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 152 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
-| 152 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 152 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 152 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 152 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 152 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 152 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
-| 152 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
-| 152 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
-| 152 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.73 | 
-| 152 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
-| 152 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
-| 152 | [Outlast](games/o/outlast.md) | 4.73 | 
-| 152 | [Suzerain](games/s/suzerain.md) | 4.73 | 
+| 135 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 135 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
+| 135 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 135 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 135 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
+| 135 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 
+| 135 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 135 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
+| 135 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
+| 135 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 135 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 135 | [Revita](games/r/revita.md) | 4.74 | 
+| 135 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 135 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
+| 135 | [King of Retail](games/k/king_of_retail.md) | 4.74 | 
+| 135 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 
+| 151 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 151 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 151 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
+| 151 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 151 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 151 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
+| 151 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 151 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 151 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
+| 151 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
+| 151 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.73 | 
+| 151 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.73 | 
+| 151 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
+| 151 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
+| 151 | [Outlast](games/o/outlast.md) | 4.73 | 
+| 151 | [SpiderHeck](games/s/spiderheck.md) | 4.73 | 
+| 151 | [Suzerain](games/s/suzerain.md) | 4.73 | 
 | 168 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 168 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 168 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
@@ -654,6 +654,7 @@
 | 652 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 652 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 652 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.38 | 
+| 652 | [Encased](games/e/encased.md) | 4.38 | 
 | 652 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 652 | [Othercide](games/o/othercide.md) | 4.38 | 
 | 652 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
@@ -662,16 +663,15 @@
 | 652 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
 | 652 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 652 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 663 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 663 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 663 | [Core](games/c/core.md) | 4.37 | 
-| 663 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 663 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 663 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 663 | [Encased](games/e/encased.md) | 4.37 | 
-| 663 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 663 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 663 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
+| 664 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 664 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 664 | [Core](games/c/core.md) | 4.37 | 
+| 664 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 664 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 664 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 664 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 664 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 664 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
 | 673 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 673 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 673 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 

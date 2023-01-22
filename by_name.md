@@ -214,7 +214,7 @@
 | 212 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 213 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 214 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 215 | [Encased](games/e/encased.md) | 4.37 | 
+| 215 | [Encased](games/e/encased.md) | 4.38 | 
 | 216 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 217 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.22 | 
 | 218 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
@@ -629,7 +629,7 @@
 | 627 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
 | 628 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
 | 629 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
-| 630 | [SpiderHeck](games/s/spiderheck.md) | 4.75 | 
+| 630 | [SpiderHeck](games/s/spiderheck.md) | 4.73 | 
 | 631 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
 | 632 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 633 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
