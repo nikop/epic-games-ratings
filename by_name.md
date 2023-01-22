@@ -116,7 +116,7 @@
 | 114 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 115 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 116 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
-| 117 | [Chimeraland](games/c/chimeraland.md) | 3.98 | 
+| 117 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
 | 118 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 119 | [Chorus](games/c/chorus.md) | 4.46 | 
 | 120 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
