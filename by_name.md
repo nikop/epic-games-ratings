@@ -90,7 +90,7 @@
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 91 | [Blood of Steel](games/b/blood_of_steel.md) | 3.75 | 
+| 91 | [Blood of Steel](games/b/blood_of_steel.md) | 3.83 | 
 | 92 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 93 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 94 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -257,7 +257,7 @@
 | 255 | [Filament](games/f/filament.md) | 4.32 | 
 | 256 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 257 | [Firework](games/f/firework.md) | 4.89 | 
-| 258 | [First Class Trouble](games/f/first_class_trouble.md) | 4.56 | 
+| 258 | [First Class Trouble](games/f/first_class_trouble.md) | 4.57 | 
 | 259 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 260 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 
 | 261 | [Flatout](games/f/flatout.md) | 4.13 | 
@@ -274,7 +274,7 @@
 | 272 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 273 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 274 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 275 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.30 | 
+| 275 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 
 | 276 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 
 | 277 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 278 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
@@ -795,7 +795,7 @@
 | 793 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 794 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 
 | 795 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 796 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
+| 796 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 
 | 797 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 798 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 
 | 799 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
