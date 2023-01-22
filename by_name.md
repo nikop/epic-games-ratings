@@ -53,7 +53,7 @@
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 
-| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.39 | 
+| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.40 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
@@ -638,7 +638,7 @@
 | 636 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
 | 637 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
 | 638 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
-| 639 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.65 | 
+| 639 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.62 | 
 | 640 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 641 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 642 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
@@ -768,7 +768,7 @@
 | 766 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
 | 767 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 768 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
-| 769 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.69 | 
+| 769 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 
 | 770 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 771 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.31 | 
 | 772 | [Trackmania](games/t/trackmania.md) | 4.66 | 
