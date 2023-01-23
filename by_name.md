@@ -172,7 +172,7 @@
 | 170 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 171 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 172 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
-| 173 | [Death's Door](games/d/death's_door.md) | 4.66 | 
+| 173 | [Death's Door](games/d/death's_door.md) | 4.67 | 
 | 174 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 175 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
 | 176 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
@@ -194,7 +194,7 @@
 | 192 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 193 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 
 | 194 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
-| 195 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.56 | 
+| 195 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.55 | 
 | 196 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 197 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.38 | 
 | 198 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
@@ -353,7 +353,7 @@
 | 351 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
 | 352 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 353 | [Isonzo](games/i/isonzo.md) | 4.57 | 
-| 354 | [IXION](games/i/ixion.md) | 4.49 | 
+| 354 | [IXION](games/i/ixion.md) | 4.50 | 
 | 355 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 356 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 357 | [Journey](games/j/journey.md) | 4.80 | 
