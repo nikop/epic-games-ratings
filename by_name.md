@@ -83,7 +83,7 @@
 | 81 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
 | 82 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 83 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
-| 84 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
+| 84 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 85 | [Black Book](games/b/black_book.md) | 4.88 | 
 | 86 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 87 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
@@ -299,7 +299,7 @@
 | 297 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
 | 298 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 299 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 300 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
+| 300 | [Gravewood High](games/g/gravewood_high.md) | 4.10 | 
 | 301 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 302 | [GRIME](games/g/grime.md) | 4.61 | 
 | 303 | [Grindstone](games/g/grindstone.md) | 4.84 | 
@@ -418,7 +418,7 @@
 | 416 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 417 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 418 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 419 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.56 | 
+| 419 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
 | 420 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 421 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
 | 422 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 

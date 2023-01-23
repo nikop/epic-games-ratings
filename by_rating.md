@@ -289,6 +289,7 @@
 | 279 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
 | 279 | [GNOG](games/g/gnog.md) | 4.65 | 
 | 279 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
+| 290 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 290 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 290 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 290 | [HITMAN](games/h/hitman.md) | 4.64 | 
@@ -302,18 +303,17 @@
 | 290 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
 | 290 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
 | 290 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
-| 303 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.63 | 
-| 303 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 303 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 303 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 303 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
-| 303 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
-| 303 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 303 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
-| 303 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.63 | 
-| 303 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
-| 303 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 
-| 303 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.63 | 
+| 304 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 304 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 304 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 304 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
+| 304 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
+| 304 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
+| 304 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
+| 304 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.63 | 
+| 304 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
+| 304 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 
+| 304 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.63 | 
 | 315 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 315 | [Prey](games/p/prey.md) | 4.62 | 
 | 315 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
@@ -426,23 +426,23 @@
 | 407 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 407 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
 | 407 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.57 | 
-| 427 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 427 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 427 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 427 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 427 | [Hue](games/h/hue.md) | 4.56 | 
-| 427 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 427 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
-| 427 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
-| 427 | [Aragami 2](games/a/aragami_2.md) | 4.56 | 
-| 427 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.56 | 
-| 427 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 427 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 427 | [Observation](games/o/observation.md) | 4.56 | 
-| 427 | [First Class Trouble](games/f/first_class_trouble.md) | 4.56 | 
-| 427 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.56 | 
-| 427 | [Redout 2](games/r/redout_2.md) | 4.56 | 
-| 427 | [The Medium](games/t/the_medium.md) | 4.56 | 
+| 407 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
+| 428 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 428 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 428 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 428 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 428 | [Hue](games/h/hue.md) | 4.56 | 
+| 428 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 428 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
+| 428 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
+| 428 | [Aragami 2](games/a/aragami_2.md) | 4.56 | 
+| 428 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.56 | 
+| 428 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 428 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 428 | [Observation](games/o/observation.md) | 4.56 | 
+| 428 | [First Class Trouble](games/f/first_class_trouble.md) | 4.56 | 
+| 428 | [Redout 2](games/r/redout_2.md) | 4.56 | 
+| 428 | [The Medium](games/t/the_medium.md) | 4.56 | 
 | 444 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 444 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 444 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -808,15 +808,15 @@
 | 804 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
 | 804 | [Train Valley 2](games/t/train_valley_2.md) | 4.10 | 
 | 804 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 804 | [Gravewood High](games/g/gravewood_high.md) | 4.10 | 
 | 804 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
 | 804 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 811 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
-| 811 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 
-| 813 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 813 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
-| 813 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
-| 813 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 
-| 813 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
+| 812 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
+| 812 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 
+| 814 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 814 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
+| 814 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
+| 814 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 818 | [Tharsis](games/t/tharsis.md) | 4.07 | 
 | 818 | [Lake](games/l/lake.md) | 4.07 | 
 | 818 | [Fangs](games/f/fangs.md) | 4.07 | 
