@@ -843,8 +843,8 @@
 | 841 | [Warface](games/w/warface.md) | 3.92 | 
 | 842 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 842 | [Ironcast](games/i/ironcast.md) | 3.91 | 
-| 842 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
-| 845 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.89 | 
+| 844 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.89 | 
+| 845 | [Chimeraland](games/c/chimeraland.md) | 3.87 | 
 | 846 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 847 | [Blood of Steel](games/b/blood_of_steel.md) | 3.83 | 
 | 848 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
