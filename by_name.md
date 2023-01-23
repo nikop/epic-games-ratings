@@ -96,7 +96,7 @@
 | 94 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 95 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 96 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 
-| 97 | [Breathedge](games/b/breathedge.md) | 4.59 | 
+| 97 | [Breathedge](games/b/breathedge.md) | 4.58 | 
 | 98 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 99 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 100 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
@@ -293,7 +293,7 @@
 | 291 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 292 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 293 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
-| 294 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 
+| 294 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 295 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 296 | [Good Company](games/g/good_company.md) | 4.41 | 
 | 297 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
