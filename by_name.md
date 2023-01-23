@@ -109,7 +109,7 @@
 | 107 | [CARRION](games/c/carrion.md) | 4.68 | 
 | 108 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
 | 109 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 110 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
+| 110 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 111 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 112 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 113 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
@@ -216,7 +216,7 @@
 | 214 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 215 | [Encased](games/e/encased.md) | 4.37 | 
 | 216 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 217 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.37 | 
+| 217 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.39 | 
 | 218 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 219 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 220 | [Everything](games/e/everything.md) | 4.62 | 
@@ -367,7 +367,7 @@
 | 365 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 366 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
 | 367 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 368 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 
+| 368 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 369 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 370 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 371 | [King of Retail](games/k/king_of_retail.md) | 4.74 | 
@@ -655,7 +655,7 @@
 | 653 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
 | 654 | [Submerged](games/s/submerged.md) | 4.16 | 
 | 655 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 656 | [Subnautica](games/s/subnautica.md) | 4.85 | 
+| 656 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 657 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 658 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
 | 659 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.58 | 
