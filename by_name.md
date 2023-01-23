@@ -206,7 +206,7 @@
 | 204 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 205 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 206 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 207 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
+| 207 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
 | 208 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 209 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 210 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -257,7 +257,7 @@
 | 255 | [Filament](games/f/filament.md) | 4.32 | 
 | 256 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 257 | [Firework](games/f/firework.md) | 4.89 | 
-| 258 | [First Class Trouble](games/f/first_class_trouble.md) | 4.57 | 
+| 258 | [First Class Trouble](games/f/first_class_trouble.md) | 4.56 | 
 | 259 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 260 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 
 | 261 | [Flatout](games/f/flatout.md) | 4.13 | 
@@ -284,7 +284,7 @@
 | 282 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
 | 283 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 284 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 285 | [GigaBash](games/g/gigabash.md) | 4.61 | 
+| 285 | [GigaBash](games/g/gigabash.md) | 4.62 | 
 | 286 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
 | 287 | [GNOG](games/g/gnog.md) | 4.65 | 
 | 288 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
@@ -636,7 +636,7 @@
 | 634 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
 | 635 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
 | 636 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 637 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
+| 637 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
 | 638 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
 | 639 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.62 | 
 | 640 | [Starsand](games/s/starsand.md) | 4.21 | 
