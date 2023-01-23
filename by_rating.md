@@ -620,7 +620,6 @@
 | 616 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 616 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 616 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 616 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
 | 616 | [Good Company](games/g/good_company.md) | 4.41 | 
 | 616 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
 | 616 | [Tacoma](games/t/tacoma.md) | 4.41 | 
@@ -632,18 +631,19 @@
 | 616 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 616 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
 | 616 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 633 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 633 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 633 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 633 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
-| 633 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 633 | [ELEX](games/e/elex.md) | 4.40 | 
-| 633 | [ATOM RPG](games/a/atom_rpg.md) | 4.40 | 
-| 633 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 633 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 633 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 633 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 
-| 633 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
+| 632 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 632 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 632 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 632 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
+| 632 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
+| 632 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 632 | [ELEX](games/e/elex.md) | 4.40 | 
+| 632 | [ATOM RPG](games/a/atom_rpg.md) | 4.40 | 
+| 632 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 632 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 632 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 632 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 
+| 632 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 645 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 645 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 645 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
@@ -773,15 +773,15 @@
 | 763 | [Somerville](games/s/somerville.md) | 4.20 | 
 | 772 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 772 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 772 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
 | 772 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 772 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
-| 777 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 777 | [Space Punks](games/s/space_punks.md) | 4.18 | 
-| 777 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 777 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
-| 777 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
-| 777 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
+| 776 | [Windbound](games/w/windbound.md) | 4.18 | 
+| 776 | [Space Punks](games/s/space_punks.md) | 4.18 | 
+| 776 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 776 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
+| 776 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
+| 776 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
+| 776 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
 | 783 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
 | 783 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.17 | 
 | 783 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 

@@ -371,7 +371,7 @@
 | 369 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 370 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 371 | [King of Retail](games/k/king_of_retail.md) | 4.74 | 
-| 372 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 
+| 372 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
 | 373 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 374 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
 | 375 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
@@ -636,7 +636,7 @@
 | 634 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
 | 635 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
 | 636 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 637 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
+| 637 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
 | 638 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
 | 639 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.62 | 
 | 640 | [Starsand](games/s/starsand.md) | 4.21 | 
