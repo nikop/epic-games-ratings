@@ -151,7 +151,7 @@
 | 149 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 150 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 151 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 152 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.18 | 
+| 152 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.17 | 
 | 153 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
 | 154 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
 | 155 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
