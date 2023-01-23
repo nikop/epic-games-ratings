@@ -214,7 +214,7 @@
 | 212 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 213 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 214 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 215 | [Encased](games/e/encased.md) | 4.37 | 
+| 215 | [Encased](games/e/encased.md) | 4.38 | 
 | 216 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 217 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.39 | 
 | 218 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
@@ -232,7 +232,7 @@
 | 230 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 231 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 232 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.52 | 
-| 233 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
+| 233 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 
 | 234 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 235 | [Fangs](games/f/fangs.md) | 4.07 | 
 | 236 | [Far Cry](games/f/far_cry.md) | 4.43 | 
@@ -405,7 +405,7 @@
 | 403 | [Little Inferno](games/l/little_inferno.md) | 4.60 | 
 | 404 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 405 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 406 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 
+| 406 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.31 | 
 | 407 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.04 | 
 | 408 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.57 | 
 | 409 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
@@ -572,7 +572,7 @@
 | 570 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 571 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.42 | 
 | 572 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 573 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 
+| 573 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
 | 574 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 575 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
 | 576 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
@@ -842,7 +842,7 @@
 | 840 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 841 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
 | 842 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
-| 843 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
+| 843 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
 | 844 | [WRC Generations](games/w/wrc_generations.md) | 4.42 | 
 | 845 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
 | 846 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
