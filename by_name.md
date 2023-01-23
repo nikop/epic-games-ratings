@@ -199,7 +199,7 @@
 | 197 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.38 | 
 | 198 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 199 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
-| 200 | [DOOM 3](games/d/doom_3.md) | 4.63 | 
+| 200 | [DOOM 3](games/d/doom_3.md) | 4.62 | 
 | 201 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 202 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 203 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
@@ -775,7 +775,7 @@
 | 773 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.80 | 
 | 774 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.04 | 
 | 775 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 776 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
+| 776 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
 | 777 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 778 | [Train Valley 2](games/t/train_valley_2.md) | 4.10 | 
 | 779 | [Transistor](games/t/transistor.md) | 4.62 | 
@@ -840,7 +840,7 @@
 | 838 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
 | 839 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 840 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 841 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 841 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
 | 842 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
 | 843 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 
 | 844 | [WRC Generations](games/w/wrc_generations.md) | 4.42 | 

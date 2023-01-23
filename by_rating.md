@@ -307,31 +307,31 @@
 | 303 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 303 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
 | 303 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
-| 303 | [DOOM 3](games/d/doom_3.md) | 4.63 | 
 | 303 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
 | 303 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 303 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.63 | 
 | 303 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.63 | 
 | 303 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
 | 303 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.63 | 
-| 315 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 315 | [Prey](games/p/prey.md) | 4.62 | 
-| 315 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 315 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 315 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
-| 315 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
-| 315 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
-| 315 | [ABZU](games/a/abzu.md) | 4.62 | 
-| 315 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 315 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
-| 315 | [Mutazione](games/m/mutazione.md) | 4.62 | 
-| 315 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 315 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
-| 315 | [Everything](games/e/everything.md) | 4.62 | 
-| 315 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
-| 315 | [GigaBash](games/g/gigabash.md) | 4.62 | 
-| 315 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 315 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.62 | 
+| 314 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 314 | [Prey](games/p/prey.md) | 4.62 | 
+| 314 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 314 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 314 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
+| 314 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 314 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
+| 314 | [ABZU](games/a/abzu.md) | 4.62 | 
+| 314 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 314 | [DOOM 3](games/d/doom_3.md) | 4.62 | 
+| 314 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
+| 314 | [Mutazione](games/m/mutazione.md) | 4.62 | 
+| 314 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 314 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
+| 314 | [Everything](games/e/everything.md) | 4.62 | 
+| 314 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 
+| 314 | [GigaBash](games/g/gigabash.md) | 4.62 | 
+| 314 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 314 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.62 | 
 | 333 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 333 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 333 | [Warframe](games/w/warframe.md) | 4.61 | 
@@ -499,7 +499,7 @@
 | 496 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 496 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 496 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 496 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 496 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
 | 496 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
 | 496 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 496 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
@@ -518,7 +518,7 @@
 | 510 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 510 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
 | 510 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 510 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.50 | 
+| 510 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
 | 510 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 510 | [The Surge](games/t/the_surge.md) | 4.50 | 
 | 510 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
