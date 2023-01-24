@@ -268,7 +268,6 @@
 | 258 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 258 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 258 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
-| 258 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 
 | 258 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
 | 258 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
 | 258 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
@@ -278,17 +277,18 @@
 | 258 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
 | 258 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 258 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
-| 279 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 279 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 279 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 279 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 279 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
-| 279 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 279 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
-| 279 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
-| 279 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
-| 279 | [GNOG](games/g/gnog.md) | 4.65 | 
-| 279 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
+| 278 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 278 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 278 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 278 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 278 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
+| 278 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 278 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 278 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
+| 278 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 278 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
+| 278 | [GNOG](games/g/gnog.md) | 4.65 | 
+| 278 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
 | 290 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 290 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 290 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
