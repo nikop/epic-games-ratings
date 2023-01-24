@@ -472,7 +472,7 @@
 | 470 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 471 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.81 | 
 | 472 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 473 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
+| 473 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
 | 474 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 475 | [Old World](games/o/old_world.md) | 4.64 | 
 | 476 | [Ooblets](games/o/ooblets.md) | 4.87 | 
@@ -777,7 +777,7 @@
 | 775 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 776 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
 | 777 | [Train Valley](games/t/train_valley.md) | 4.46 | 
-| 778 | [Train Valley 2](games/t/train_valley_2.md) | 4.10 | 
+| 778 | [Train Valley 2](games/t/train_valley_2.md) | 4.11 | 
 | 779 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 780 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 781 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
