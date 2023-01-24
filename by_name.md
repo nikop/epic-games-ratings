@@ -407,7 +407,7 @@
 | 405 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 406 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.31 | 
 | 407 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.04 | 
-| 408 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.57 | 
+| 408 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
 | 409 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 410 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 411 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
@@ -418,7 +418,7 @@
 | 416 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 417 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 418 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 419 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
+| 419 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.56 | 
 | 420 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 421 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
 | 422 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
@@ -649,7 +649,7 @@
 | 647 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 648 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 649 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 650 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
+| 650 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
 | 651 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
 | 652 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
 | 653 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
