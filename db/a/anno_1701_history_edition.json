@@ -1,11 +1,11 @@
 {
   "ID": "db9ef498b3fa4b26afb501ea352e3c46",
   "Name": "Anno 1701 History Edition",
-  "Rating": 4.51,
+  "Rating": 4.52,
   "NumberOfRatings": 37,
   "FirstSeen": "2022-07-22T20:24:28.7529915+00:00",
   "FirstSeenRating": "2022-08-06T11:01:24.6446808+00:00",
-  "LastChanged": "2023-01-09T13:58:00.074246+00:00",
+  "LastChanged": "2023-01-24T17:58:10.9853539+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-06T11:01:24.644681+00:00",
@@ -210,6 +210,11 @@
     {
       "Time": "2023-01-09T13:58:00.0742462+00:00",
       "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-24T17:58:10.9853542+00:00",
+      "Rating": 4.52,
       "NumberOfRatings": null
     }
   ],
