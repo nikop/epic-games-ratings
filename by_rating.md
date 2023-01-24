@@ -792,12 +792,12 @@
 | 786 | [Submerged](games/s/submerged.md) | 4.16 | 
 | 786 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
 | 786 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
+| 793 | [Pine](games/p/pine.md) | 4.15 | 
 | 793 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 793 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 793 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 793 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.15 | 
-| 797 | [Pine](games/p/pine.md) | 4.14 | 
-| 797 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
+| 798 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 799 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 799 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 801 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
