@@ -725,12 +725,12 @@
 | 722 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 722 | [The Fall](games/t/the_fall.md) | 4.29 | 
 | 722 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
-| 722 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 722 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 728 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 728 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
-| 728 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
-| 728 | [Dark Light](games/d/dark_light.md) | 4.28 | 
+| 727 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 727 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 727 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
+| 727 | [Dark Light](games/d/dark_light.md) | 4.28 | 
+| 727 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
 | 732 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 732 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
 | 734 | [EVE Online](games/e/eve_online.md) | 4.26 | 
