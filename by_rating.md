@@ -652,6 +652,7 @@
 | 645 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 645 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 645 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.39 | 
+| 653 | [Core](games/c/core.md) | 4.38 | 
 | 653 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 653 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 653 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.38 | 
@@ -665,15 +666,14 @@
 | 653 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 653 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
 | 653 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 666 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 666 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 666 | [Core](games/c/core.md) | 4.37 | 
-| 666 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 666 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 666 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 666 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 666 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 666 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
+| 667 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 667 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 667 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 667 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 667 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 667 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 667 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 667 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
 | 675 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 675 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 675 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 

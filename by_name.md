@@ -131,7 +131,7 @@
 | 129 | [Control](games/c/control.md) | 4.60 | 
 | 130 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 131 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 132 | [Core](games/c/core.md) | 4.37 | 
+| 132 | [Core](games/c/core.md) | 4.38 | 
 | 133 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 134 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
 | 135 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
