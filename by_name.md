@@ -216,7 +216,7 @@
 | 214 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 215 | [Encased](games/e/encased.md) | 4.37 | 
 | 216 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 217 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.39 | 
+| 217 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.38 | 
 | 218 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 219 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 220 | [Everything](games/e/everything.md) | 4.62 | 
@@ -416,7 +416,7 @@
 | 414 | [Mago](games/m/mago.md) | 4.90 | 
 | 415 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 416 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 417 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
+| 417 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
 | 418 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 419 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
 | 420 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
@@ -449,7 +449,7 @@
 | 447 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 448 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 449 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
-| 450 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.69 | 
+| 450 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
 | 451 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
 | 452 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 453 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
@@ -655,7 +655,7 @@
 | 653 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
 | 654 | [Submerged](games/s/submerged.md) | 4.16 | 
 | 655 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 656 | [Subnautica](games/s/subnautica.md) | 4.84 | 
+| 656 | [Subnautica](games/s/subnautica.md) | 4.85 | 
 | 657 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 658 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
 | 659 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
