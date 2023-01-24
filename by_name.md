@@ -51,7 +51,7 @@
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
-| 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.74 | 
+| 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.40 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
@@ -416,7 +416,7 @@
 | 414 | [Mago](games/m/mago.md) | 4.90 | 
 | 415 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 416 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 417 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
+| 417 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
 | 418 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 419 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
 | 420 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
