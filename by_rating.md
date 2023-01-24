@@ -752,11 +752,11 @@
 | 748 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
 | 748 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.23 | 
 | 748 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.23 | 
-| 748 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
 | 748 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 748 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
-| 756 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 756 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
+| 755 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 755 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
+| 755 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 758 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.21 | 
 | 758 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 758 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
