@@ -27,16 +27,16 @@
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 24 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 24 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
 | 24 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 24 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 24 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.87 | 
-| 32 | [Inscryption](games/i/inscryption.md) | 4.86 | 
-| 32 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 32 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 32 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
-| 32 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
-| 32 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
+| 31 | [Inscryption](games/i/inscryption.md) | 4.86 | 
+| 31 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 31 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 31 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 
+| 31 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
+| 31 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
+| 31 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 38 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 38 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
@@ -751,41 +751,41 @@
 | 748 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
 | 748 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
 | 748 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.23 | 
+| 748 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.23 | 
 | 748 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
 | 748 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 748 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
-| 755 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 755 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
-| 757 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.21 | 
-| 757 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
-| 757 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
-| 757 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
-| 757 | [Starsand](games/s/starsand.md) | 4.21 | 
-| 757 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 763 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 763 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 763 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 763 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 763 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 763 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 763 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 763 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 763 | [Somerville](games/s/somerville.md) | 4.20 | 
-| 772 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 772 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 772 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 772 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
-| 776 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 776 | [Space Punks](games/s/space_punks.md) | 4.18 | 
-| 776 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 776 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
-| 776 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
-| 776 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
-| 776 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
-| 783 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
-| 783 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.17 | 
-| 783 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 
-| 783 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
+| 756 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 756 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
+| 758 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.21 | 
+| 758 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
+| 758 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
+| 758 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
+| 758 | [Starsand](games/s/starsand.md) | 4.21 | 
+| 758 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
+| 764 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 764 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 764 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 764 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 764 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 764 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 764 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 764 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 764 | [Somerville](games/s/somerville.md) | 4.20 | 
+| 773 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 773 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
+| 773 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 773 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
+| 777 | [Windbound](games/w/windbound.md) | 4.18 | 
+| 777 | [Space Punks](games/s/space_punks.md) | 4.18 | 
+| 777 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 777 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
+| 777 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
+| 777 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
+| 777 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
+| 784 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
+| 784 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 
+| 784 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
 | 787 | [God's Trigger](games/g/god's_trigger.md) | 4.16 | 
 | 787 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 787 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
