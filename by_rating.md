@@ -656,7 +656,6 @@
 | 653 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 653 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 653 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.38 | 
-| 653 | [Encased](games/e/encased.md) | 4.38 | 
 | 653 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 653 | [Othercide](games/o/othercide.md) | 4.38 | 
 | 653 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
@@ -666,14 +665,15 @@
 | 653 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 653 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
 | 653 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 667 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 667 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 667 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 667 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 667 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 667 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 667 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 667 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
+| 666 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 666 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 666 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 666 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 666 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 666 | [Encased](games/e/encased.md) | 4.37 | 
+| 666 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 666 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 666 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
 | 675 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 675 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 675 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
@@ -792,11 +792,11 @@
 | 786 | [Submerged](games/s/submerged.md) | 4.16 | 
 | 786 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
 | 786 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
-| 793 | [Pine](games/p/pine.md) | 4.15 | 
-| 793 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
-| 793 | [Relicta](games/r/relicta.md) | 4.15 | 
-| 793 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 793 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.15 | 
+| 786 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.16 | 
+| 794 | [Pine](games/p/pine.md) | 4.15 | 
+| 794 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
+| 794 | [Relicta](games/r/relicta.md) | 4.15 | 
+| 794 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 798 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 799 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 799 | [Flatout](games/f/flatout.md) | 4.13 | 

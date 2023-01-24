@@ -214,7 +214,7 @@
 | 212 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 213 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 214 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 215 | [Encased](games/e/encased.md) | 4.38 | 
+| 215 | [Encased](games/e/encased.md) | 4.37 | 
 | 216 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 217 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.39 | 
 | 218 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
@@ -223,7 +223,7 @@
 | 221 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 222 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.95 | 
 | 223 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 224 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.15 | 
+| 224 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.16 | 
 | 225 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 226 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
 | 227 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
