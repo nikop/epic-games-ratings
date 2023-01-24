@@ -784,18 +784,18 @@
 | 777 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
 | 777 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
 | 784 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
-| 784 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 
 | 784 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
-| 787 | [God's Trigger](games/g/god's_trigger.md) | 4.16 | 
-| 787 | [Gone Home](games/g/gone_home.md) | 4.16 | 
-| 787 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
-| 787 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 787 | [Submerged](games/s/submerged.md) | 4.16 | 
-| 787 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
-| 787 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
-| 794 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
-| 794 | [Relicta](games/r/relicta.md) | 4.15 | 
-| 794 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
+| 786 | [God's Trigger](games/g/god's_trigger.md) | 4.16 | 
+| 786 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 786 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
+| 786 | [Family Man](games/f/family_man.md) | 4.16 | 
+| 786 | [Submerged](games/s/submerged.md) | 4.16 | 
+| 786 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 786 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
+| 793 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
+| 793 | [Relicta](games/r/relicta.md) | 4.15 | 
+| 793 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
+| 793 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.15 | 
 | 797 | [Pine](games/p/pine.md) | 4.14 | 
 | 797 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 799 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
