@@ -438,24 +438,24 @@
 | 426 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 426 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 426 | [Observation](games/o/observation.md) | 4.56 | 
-| 426 | [First Class Trouble](games/f/first_class_trouble.md) | 4.56 | 
 | 426 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.56 | 
 | 426 | [Redout 2](games/r/redout_2.md) | 4.56 | 
 | 426 | [The Medium](games/t/the_medium.md) | 4.56 | 
-| 443 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 443 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
-| 443 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 443 | [Outward](games/o/outward.md) | 4.55 | 
-| 443 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 443 | [Minit](games/m/minit.md) | 4.55 | 
-| 443 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
-| 443 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
-| 443 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
-| 443 | [Warpips](games/w/warpips.md) | 4.55 | 
-| 443 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.55 | 
-| 443 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
-| 443 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 
-| 443 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.55 | 
+| 442 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 442 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
+| 442 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 442 | [Outward](games/o/outward.md) | 4.55 | 
+| 442 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 442 | [Minit](games/m/minit.md) | 4.55 | 
+| 442 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 442 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
+| 442 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
+| 442 | [Warpips](games/w/warpips.md) | 4.55 | 
+| 442 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.55 | 
+| 442 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
+| 442 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 
+| 442 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.55 | 
+| 442 | [First Class Trouble](games/f/first_class_trouble.md) | 4.55 | 
 | 457 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 457 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
 | 457 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
