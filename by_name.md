@@ -196,7 +196,7 @@
 | 194 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 195 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.55 | 
 | 196 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 197 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.38 | 
+| 197 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
 | 198 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 199 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 200 | [DOOM 3](games/d/doom_3.md) | 4.62 | 
@@ -248,7 +248,7 @@
 | 246 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 247 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
 | 248 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
-| 249 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
+| 249 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 250 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 251 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
 | 252 | [Fez](games/f/fez.md) | 4.70 | 
@@ -570,7 +570,7 @@
 | 568 | [Sable](games/s/sable.md) | 4.50 | 
 | 569 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
 | 570 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 571 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.42 | 
+| 571 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 
 | 572 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 573 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
 | 574 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
