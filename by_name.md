@@ -100,7 +100,7 @@
 | 98 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 99 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 100 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
-| 101 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
+| 101 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
 | 102 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
 | 103 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.10 | 
 | 104 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
@@ -495,7 +495,7 @@
 | 493 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 494 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.56 | 
 | 495 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 496 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
+| 496 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
 | 497 | [Parkitect](games/p/parkitect.md) | 4.30 | 
 | 498 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 499 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
@@ -645,7 +645,7 @@
 | 643 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 644 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 645 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
-| 646 | [STG Football](games/s/stg_football.md) | 4.47 | 
+| 646 | [STG Football](games/s/stg_football.md) | 4.45 | 
 | 647 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 648 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 649 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 

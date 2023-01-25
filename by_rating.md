@@ -560,31 +560,31 @@
 | 552 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
 | 552 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 552 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 552 | [STG Football](games/s/stg_football.md) | 4.47 | 
-| 562 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 562 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 562 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 562 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 562 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 562 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
-| 562 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
-| 562 | [Chorus](games/c/chorus.md) | 4.46 | 
-| 562 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 
-| 562 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
-| 562 | [Train Valley](games/t/train_valley.md) | 4.46 | 
-| 562 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 574 | [SMITE](games/s/smite.md) | 4.45 | 
-| 574 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 574 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 574 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
-| 574 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 574 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 574 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 574 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 574 | [Figment](games/f/figment.md) | 4.45 | 
-| 574 | [Death Coming](games/d/death_coming.md) | 4.45 | 
-| 574 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
-| 574 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
+| 561 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 561 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 561 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 561 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
+| 561 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 561 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 
+| 561 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
+| 561 | [Chorus](games/c/chorus.md) | 4.46 | 
+| 561 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 
+| 561 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
+| 561 | [Train Valley](games/t/train_valley.md) | 4.46 | 
+| 561 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 573 | [SMITE](games/s/smite.md) | 4.45 | 
+| 573 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 573 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 573 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
+| 573 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 573 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 573 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 573 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 573 | [Figment](games/f/figment.md) | 4.45 | 
+| 573 | [Death Coming](games/d/death_coming.md) | 4.45 | 
+| 573 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
+| 573 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
+| 573 | [STG Football](games/s/stg_football.md) | 4.45 | 
 | 586 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
 | 586 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 586 | [The Captain](games/t/the_captain.md) | 4.44 | 
@@ -699,15 +699,15 @@
 | 696 | [Automachef](games/a/automachef.md) | 4.33 | 
 | 696 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 696 | [Backbone](games/b/backbone.md) | 4.33 | 
-| 700 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 700 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.32 | 
-| 700 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
-| 700 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.32 | 
-| 700 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
-| 700 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
-| 700 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.32 | 
-| 700 | [Filament](games/f/filament.md) | 4.32 | 
-| 700 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
+| 696 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
+| 701 | [Vampyr](games/v/vampyr.md) | 4.32 | 
+| 701 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.32 | 
+| 701 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
+| 701 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.32 | 
+| 701 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
+| 701 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
+| 701 | [Filament](games/f/filament.md) | 4.32 | 
+| 701 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
 | 709 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 709 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 709 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
@@ -733,13 +733,13 @@
 | 727 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
 | 732 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 732 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
-| 732 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
-| 735 | [EVE Online](games/e/eve_online.md) | 4.26 | 
-| 735 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 735 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
-| 735 | [Steelrising](games/s/steelrising.md) | 4.26 | 
-| 735 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
-| 735 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
+| 734 | [EVE Online](games/e/eve_online.md) | 4.26 | 
+| 734 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 734 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
+| 734 | [Steelrising](games/s/steelrising.md) | 4.26 | 
+| 734 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
+| 734 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
+| 734 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
 | 741 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
 | 741 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 741 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.25 | 
