@@ -174,7 +174,6 @@
 | 166 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
 | 173 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 173 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 173 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 173 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
 | 173 | [Barony](games/b/barony.md) | 4.71 | 
 | 173 | [Timberborn](games/t/timberborn.md) | 4.71 | 
@@ -187,24 +186,25 @@
 | 173 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 173 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
 | 173 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 188 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 188 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
-| 188 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 188 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
-| 188 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 188 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
-| 188 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 188 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
-| 188 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
-| 188 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 188 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
-| 188 | [Fez](games/f/fez.md) | 4.70 | 
-| 188 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
-| 188 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 188 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.70 | 
-| 188 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
-| 188 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
-| 188 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
+| 187 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 187 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
+| 187 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
+| 187 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 187 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
+| 187 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 187 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
+| 187 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 187 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
+| 187 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
+| 187 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 187 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
+| 187 | [Fez](games/f/fez.md) | 4.70 | 
+| 187 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
+| 187 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 187 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.70 | 
+| 187 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
+| 187 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
+| 187 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 206 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 206 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 206 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
@@ -647,24 +647,24 @@
 | 645 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 645 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 645 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 645 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 645 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
 | 645 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 645 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 645 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 652 | [Core](games/c/core.md) | 4.38 | 
-| 652 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
-| 652 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 652 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.38 | 
-| 652 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
-| 652 | [Othercide](games/o/othercide.md) | 4.38 | 
-| 652 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
-| 652 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
-| 652 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 652 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
-| 652 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 652 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.38 | 
-| 652 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
-| 652 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
+| 653 | [Core](games/c/core.md) | 4.38 | 
+| 653 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 653 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.38 | 
+| 653 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
+| 653 | [Othercide](games/o/othercide.md) | 4.38 | 
+| 653 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
+| 653 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
+| 653 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 653 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
+| 653 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 653 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.38 | 
+| 653 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
+| 653 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 666 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 666 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 666 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 

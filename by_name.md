@@ -248,7 +248,7 @@
 | 246 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 247 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
 | 248 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
-| 249 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 249 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
 | 250 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 251 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
 | 252 | [Fez](games/f/fez.md) | 4.70 | 
@@ -433,7 +433,7 @@
 | 431 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
 | 432 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 433 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
-| 434 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
+| 434 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 435 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 436 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 437 | [Moving Out](games/m/moving_out.md) | 4.58 | 
