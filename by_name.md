@@ -823,7 +823,7 @@
 | 821 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 822 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.32 | 
 | 823 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 824 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 
+| 824 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
 | 825 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 826 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
 | 827 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
