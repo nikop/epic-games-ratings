@@ -845,9 +845,9 @@
 | 842 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 844 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.89 | 
 | 845 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 846 | [Blood of Steel](games/b/blood_of_steel.md) | 3.83 | 
-| 847 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
-| 847 | [Chimeraland](games/c/chimeraland.md) | 3.81 | 
+| 846 | [Chimeraland](games/c/chimeraland.md) | 3.84 | 
+| 847 | [Blood of Steel](games/b/blood_of_steel.md) | 3.83 | 
+| 848 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
 | 849 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 850 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 851 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
