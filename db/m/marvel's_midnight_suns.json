@@ -1,10 +1,10 @@
 {
   "ID": "ea73c08ac633414584e281f838b3a78c",
   "Name": "Marvel\u0027s Midnight Suns",
-  "Rating": 4.56,
+  "Rating": 4.57,
   "FirstSeen": "2022-12-02T09:57:07.4463087+00:00",
   "FirstSeenRating": "2022-12-03T17:57:10.4344427+00:00",
-  "LastChanged": "2023-01-24T21:57:00.142871+00:00",
+  "LastChanged": "2023-01-25T20:57:09.4012786+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-03T17:57:10.4344429+00:00",
@@ -309,6 +309,11 @@
     {
       "Time": "2023-01-24T21:57:00.1428712+00:00",
       "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-25T20:57:09.4012787+00:00",
+      "Rating": 4.57,
       "NumberOfRatings": null
     }
   ],

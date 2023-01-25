@@ -84,7 +84,7 @@
 | 82 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 83 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
 | 84 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 85 | [Black Book](games/b/black_book.md) | 4.88 | 
+| 85 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 86 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 87 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
@@ -231,7 +231,7 @@
 | 229 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 230 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 231 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 232 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.52 | 
+| 232 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.53 | 
 | 233 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 
 | 234 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 235 | [Fangs](games/f/fangs.md) | 4.07 | 
@@ -418,7 +418,7 @@
 | 416 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 417 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
 | 418 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 419 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.56 | 
+| 419 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
 | 420 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 421 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
 | 422 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
@@ -589,7 +589,7 @@
 | 587 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 588 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.73 | 
 | 589 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
-| 590 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
+| 590 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
 | 591 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 592 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 593 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
@@ -740,7 +740,7 @@
 | 738 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
 | 739 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
 | 740 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 741 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
+| 741 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 742 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 743 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 744 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.58 | 
