@@ -53,7 +53,7 @@
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 
-| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.40 | 
+| 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
@@ -248,7 +248,7 @@
 | 246 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 247 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
 | 248 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
-| 249 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 249 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
 | 250 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 251 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
 | 252 | [Fez](games/f/fez.md) | 4.70 | 
@@ -386,7 +386,7 @@
 | 384 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 385 | [Lake](games/l/lake.md) | 4.07 | 
 | 386 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 387 | [Last Day of June](games/l/last_day_of_june.md) | 4.64 | 
+| 387 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
 | 388 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 389 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 390 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
@@ -432,7 +432,7 @@
 | 430 | [Minit](games/m/minit.md) | 4.55 | 
 | 431 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
 | 432 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 433 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
+| 433 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
 | 434 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 435 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 436 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
@@ -495,7 +495,7 @@
 | 493 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 494 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.56 | 
 | 495 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 496 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
+| 496 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
 | 497 | [Parkitect](games/p/parkitect.md) | 4.30 | 
 | 498 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 499 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
@@ -522,7 +522,7 @@
 | 520 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 521 | [Prey](games/p/prey.md) | 4.62 | 
 | 522 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 523 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.00 | 
+| 523 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 
 | 524 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 525 | [Quake](games/q/quake.md) | 4.76 | 
 | 526 | [Rage 2](games/r/rage_2.md) | 4.28 | 
