@@ -39,7 +39,6 @@
 | 31 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 38 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 38 | [Subnautica](games/s/subnautica.md) | 4.85 | 
 | 38 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
 | 38 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
@@ -48,13 +47,14 @@
 | 38 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 38 | [Huntdown](games/h/huntdown.md) | 4.85 | 
 | 38 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 
-| 49 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
-| 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
-| 49 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 49 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
-| 49 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
-| 49 | [Grindstone](games/g/grindstone.md) | 4.84 | 
-| 49 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
+| 48 | [Subnautica](games/s/subnautica.md) | 4.84 | 
+| 48 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
+| 48 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
+| 48 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
+| 48 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
+| 48 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
+| 48 | [Grindstone](games/g/grindstone.md) | 4.84 | 
+| 48 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
 | 56 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 56 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 56 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
@@ -123,19 +123,19 @@
 | 114 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
 | 114 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
 | 114 | [Quake](games/q/quake.md) | 4.76 | 
-| 114 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
 | 114 | [shapez](games/s/shapez.md) | 4.76 | 
-| 126 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 126 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
-| 126 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 126 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 126 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 126 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
-| 126 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 126 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
-| 126 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.75 | 
-| 126 | [Haven](games/h/haven.md) | 4.75 | 
-| 126 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
+| 125 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 125 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
+| 125 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 125 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 125 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
+| 125 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 125 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 125 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
+| 125 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.75 | 
+| 125 | [Haven](games/h/haven.md) | 4.75 | 
+| 125 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
+| 125 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
 | 137 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
 | 137 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 137 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
@@ -653,7 +653,6 @@
 | 645 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 645 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 653 | [Core](games/c/core.md) | 4.38 | 
-| 653 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 653 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 653 | [Othercide](games/o/othercide.md) | 4.38 | 
 | 653 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
@@ -663,17 +662,18 @@
 | 653 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 653 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
 | 653 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 664 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 664 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 664 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 664 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 664 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 664 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
-| 664 | [Encased](games/e/encased.md) | 4.37 | 
-| 664 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 664 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.37 | 
-| 664 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 664 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
+| 663 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 663 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 663 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 663 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 663 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 663 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
+| 663 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
+| 663 | [Encased](games/e/encased.md) | 4.37 | 
+| 663 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 663 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.37 | 
+| 663 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 663 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
 | 675 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 675 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 675 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 

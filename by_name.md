@@ -190,7 +190,7 @@
 | 188 | [Dice Legacy](games/d/dice_legacy.md) | 4.30 | 
 | 189 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 190 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
-| 191 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 191 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 192 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 193 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 
 | 194 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
@@ -263,7 +263,7 @@
 | 261 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 262 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
 | 263 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 264 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
+| 264 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 265 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 266 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
 | 267 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
@@ -655,7 +655,7 @@
 | 653 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
 | 654 | [Submerged](games/s/submerged.md) | 4.16 | 
 | 655 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 656 | [Subnautica](games/s/subnautica.md) | 4.85 | 
+| 656 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 657 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 658 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
 | 659 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
