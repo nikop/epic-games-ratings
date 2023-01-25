@@ -313,7 +313,7 @@
 | 311 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 312 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 313 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 314 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.53 | 
+| 314 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.54 | 
 | 315 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 316 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 317 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
@@ -416,7 +416,7 @@
 | 414 | [Mago](games/m/mago.md) | 4.90 | 
 | 415 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 416 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 417 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.16 | 
+| 417 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
 | 418 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 419 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.56 | 
 | 420 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
