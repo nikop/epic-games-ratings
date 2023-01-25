@@ -194,7 +194,7 @@
 | 192 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 193 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 
 | 194 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
-| 195 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.55 | 
+| 195 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.56 | 
 | 196 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 197 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
 | 198 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
@@ -216,7 +216,7 @@
 | 214 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 215 | [Encased](games/e/encased.md) | 4.37 | 
 | 216 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 217 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.38 | 
+| 217 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.37 | 
 | 218 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 219 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 220 | [Everything](games/e/everything.md) | 4.62 | 
@@ -274,7 +274,7 @@
 | 272 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 273 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 274 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 275 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 
+| 275 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.30 | 
 | 276 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 277 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 278 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
@@ -522,7 +522,7 @@
 | 520 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 521 | [Prey](games/p/prey.md) | 4.62 | 
 | 522 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 523 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 
+| 523 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.00 | 
 | 524 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 525 | [Quake](games/q/quake.md) | 4.76 | 
 | 526 | [Rage 2](games/r/rage_2.md) | 4.28 | 
@@ -698,7 +698,7 @@
 | 696 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 697 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 698 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 699 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
+| 699 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 700 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 701 | [The Fall](games/t/the_fall.md) | 4.29 | 
 | 702 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
