@@ -151,7 +151,7 @@
 | 149 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 150 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 151 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 152 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.23 | 
+| 152 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.25 | 
 | 153 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
 | 154 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
 | 155 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
@@ -199,7 +199,7 @@
 | 197 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
 | 198 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 199 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
-| 200 | [DOOM 3](games/d/doom_3.md) | 4.62 | 
+| 200 | [DOOM 3](games/d/doom_3.md) | 4.61 | 
 | 201 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 202 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 203 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
@@ -223,7 +223,7 @@
 | 221 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 222 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.95 | 
 | 223 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 224 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.16 | 
+| 224 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.15 | 
 | 225 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 226 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
 | 227 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
@@ -684,7 +684,7 @@
 | 682 | [Tharsis](games/t/tharsis.md) | 4.07 | 
 | 683 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 684 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
-| 685 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
+| 685 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 686 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
 | 687 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
 | 688 | [The Captain](games/t/the_captain.md) | 4.44 | 
