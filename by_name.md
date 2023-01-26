@@ -190,7 +190,7 @@
 | 188 | [Dice Legacy](games/d/dice_legacy.md) | 4.30 | 
 | 189 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 190 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
-| 191 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
+| 191 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 192 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 193 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 
 | 194 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
@@ -216,7 +216,7 @@
 | 214 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 215 | [Encased](games/e/encased.md) | 4.37 | 
 | 216 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 217 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.37 | 
+| 217 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.38 | 
 | 218 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 219 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 220 | [Everything](games/e/everything.md) | 4.62 | 
@@ -763,7 +763,7 @@
 | 761 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 762 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 763 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 764 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.56 | 
+| 764 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.55 | 
 | 765 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 766 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 767 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 

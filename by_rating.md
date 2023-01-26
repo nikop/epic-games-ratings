@@ -653,6 +653,7 @@
 | 645 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 645 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 653 | [Core](games/c/core.md) | 4.38 | 
+| 653 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 653 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 653 | [Othercide](games/o/othercide.md) | 4.38 | 
 | 653 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
@@ -660,20 +661,19 @@
 | 653 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 653 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
 | 653 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 653 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.38 | 
 | 653 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
 | 653 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 663 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 663 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 663 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 663 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 663 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 663 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 663 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
-| 663 | [Encased](games/e/encased.md) | 4.37 | 
-| 663 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 663 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.37 | 
-| 663 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 663 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
+| 665 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 665 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 665 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 665 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 665 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 665 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
+| 665 | [Encased](games/e/encased.md) | 4.37 | 
+| 665 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 665 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 665 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
 | 675 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 675 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 675 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
@@ -853,4 +853,4 @@
 | 851 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 852 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
 | 853 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
-| 854 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.56 | 
+| 854 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.55 | 
