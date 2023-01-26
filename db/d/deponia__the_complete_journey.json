@@ -1,10 +1,10 @@
 {
   "ID": "e5decf71f325458b92653616ee98682a",
   "Name": "Deponia: The Complete Journey",
-  "Rating": 4.62,
+  "Rating": 4.61,
   "NumberOfRatings": 777,
   "FirstSeen": "2022-07-22T20:29:58.1804178+00:00",
-  "LastChanged": "2023-01-08T02:13:00.3060796+00:00",
+  "LastChanged": "2023-01-26T02:08:15.2403372+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:58.180418+00:00",
@@ -544,6 +544,11 @@
     {
       "Time": "2023-01-08T02:13:00.3060799+00:00",
       "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-26T02:08:15.2403373+00:00",
+      "Rating": 4.61,
       "NumberOfRatings": null
     }
   ],

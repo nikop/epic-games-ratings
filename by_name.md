@@ -180,7 +180,7 @@
 | 178 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 179 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
 | 180 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
-| 181 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 
+| 181 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 
 | 182 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
 | 183 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 184 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
@@ -604,7 +604,7 @@
 | 602 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 603 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 604 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
-| 605 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 
+| 605 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 606 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 607 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 608 | [Slipways](games/s/slipways.md) | 4.72 | 
