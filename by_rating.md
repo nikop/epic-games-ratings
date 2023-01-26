@@ -795,8 +795,8 @@
 | 793 | [Pine](games/p/pine.md) | 4.15 | 
 | 793 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 793 | [Relicta](games/r/relicta.md) | 4.15 | 
+| 793 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 
 | 793 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 797 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 798 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
 | 798 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 798 | [Flatout](games/f/flatout.md) | 4.13 | 

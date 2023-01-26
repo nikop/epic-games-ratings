@@ -113,7 +113,7 @@
 | 111 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 112 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 113 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 114 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
+| 114 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 
 | 115 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 116 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
 | 117 | [Chimeraland](games/c/chimeraland.md) | 3.84 | 
