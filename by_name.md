@@ -744,7 +744,7 @@
 | 742 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 743 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 744 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.59 | 
-| 745 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.63 | 
+| 745 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 746 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 747 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 748 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
