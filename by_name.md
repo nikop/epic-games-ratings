@@ -257,7 +257,7 @@
 | 255 | [Filament](games/f/filament.md) | 4.32 | 
 | 256 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 257 | [Firework](games/f/firework.md) | 4.89 | 
-| 258 | [First Class Trouble](games/f/first_class_trouble.md) | 4.55 | 
+| 258 | [First Class Trouble](games/f/first_class_trouble.md) | 4.56 | 
 | 259 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 260 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 
 | 261 | [Flatout](games/f/flatout.md) | 4.13 | 
@@ -421,7 +421,7 @@
 | 419 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
 | 420 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 421 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
-| 422 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
+| 422 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
 | 423 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 424 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 425 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
@@ -655,7 +655,7 @@
 | 653 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
 | 654 | [Submerged](games/s/submerged.md) | 4.16 | 
 | 655 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 656 | [Subnautica](games/s/subnautica.md) | 4.84 | 
+| 656 | [Subnautica](games/s/subnautica.md) | 4.85 | 
 | 657 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 658 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
 | 659 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
