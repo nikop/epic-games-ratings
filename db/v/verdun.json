@@ -1,10 +1,10 @@
 {
   "ID": "e4a2a414d46849f49a35c0f80df2903a",
   "Name": "Verdun",
-  "Rating": 4.53,
+  "Rating": 4.52,
   "NumberOfRatings": 1999,
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
-  "LastChanged": "2023-01-19T16:58:46.0816064+00:00",
+  "LastChanged": "2023-01-26T13:58:09.0891281+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:07.9846698+00:00",
@@ -1324,6 +1324,11 @@
     {
       "Time": "2023-01-19T16:58:46.0816066+00:00",
       "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-26T13:58:09.0891285+00:00",
+      "Rating": 4.52,
       "NumberOfRatings": null
     }
   ],

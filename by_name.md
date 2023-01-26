@@ -806,7 +806,7 @@
 | 804 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 805 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 806 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 807 | [Verdun](games/v/verdun.md) | 4.53 | 
+| 807 | [Verdun](games/v/verdun.md) | 4.52 | 
 | 808 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 809 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 810 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 

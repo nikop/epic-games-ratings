@@ -470,7 +470,6 @@
 | 465 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 465 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
 | 465 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 465 | [Verdun](games/v/verdun.md) | 4.53 | 
 | 465 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 465 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 465 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
@@ -486,16 +485,17 @@
 | 465 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
 | 465 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.53 | 
 | 465 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
-| 487 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 487 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 487 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 487 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 487 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 487 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 487 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
-| 487 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 487 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 487 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 486 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 486 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 486 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 486 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 486 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 486 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 486 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 486 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
+| 486 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 486 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 486 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 497 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 497 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 497 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
