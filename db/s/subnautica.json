@@ -1,10 +1,10 @@
 {
   "ID": "jaguar",
   "Name": "Subnautica",
-  "Rating": 4.85,
+  "Rating": 4.84,
   "NumberOfRatings": 7928,
   "FirstSeen": "2022-07-22T20:29:19.8641148+00:00",
-  "LastChanged": "2023-01-26T21:58:29.6930785+00:00",
+  "LastChanged": "2023-01-26T23:58:23.3018807+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:19.864115+00:00",
@@ -2750,6 +2750,11 @@
       "Time": "2023-01-26T21:58:29.6930786+00:00",
       "Rating": 4.85,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-26T23:58:23.3018808+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -2759,7 +2764,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 594
+      "Count": 595
     },
     {
       "Text": "This game is Great for Beginners",

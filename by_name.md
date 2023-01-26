@@ -11,7 +11,7 @@
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.62 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.47 | 
-| 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.53 | 
+| 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.55 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
@@ -421,7 +421,7 @@
 | 419 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
 | 420 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 421 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
-| 422 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
+| 422 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
 | 423 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 424 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
 | 425 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
@@ -655,7 +655,7 @@
 | 653 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
 | 654 | [Submerged](games/s/submerged.md) | 4.16 | 
 | 655 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 656 | [Subnautica](games/s/subnautica.md) | 4.85 | 
+| 656 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 657 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 658 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
 | 659 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
