@@ -223,7 +223,7 @@
 | 221 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 222 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.95 | 
 | 223 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 224 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.15 | 
+| 224 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.16 | 
 | 225 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 226 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
 | 227 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
@@ -263,7 +263,7 @@
 | 261 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 262 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
 | 263 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 264 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
+| 264 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
 | 265 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 266 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
 | 267 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
