@@ -257,7 +257,7 @@
 | 255 | [Filament](games/f/filament.md) | 4.32 | 
 | 256 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 257 | [Firework](games/f/firework.md) | 4.89 | 
-| 258 | [First Class Trouble](games/f/first_class_trouble.md) | 4.56 | 
+| 258 | [First Class Trouble](games/f/first_class_trouble.md) | 4.55 | 
 | 259 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 260 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 
 | 261 | [Flatout](games/f/flatout.md) | 4.13 | 
@@ -645,7 +645,7 @@
 | 643 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 644 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 645 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
-| 646 | [STG Football](games/s/stg_football.md) | 4.45 | 
+| 646 | [STG Football](games/s/stg_football.md) | 4.46 | 
 | 647 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 648 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 649 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 

@@ -441,21 +441,21 @@
 | 428 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 428 | [Observation](games/o/observation.md) | 4.56 | 
 | 428 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.56 | 
-| 428 | [First Class Trouble](games/f/first_class_trouble.md) | 4.56 | 
 | 428 | [The Medium](games/t/the_medium.md) | 4.56 | 
-| 444 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 444 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
-| 444 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 444 | [Outward](games/o/outward.md) | 4.55 | 
-| 444 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 444 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
-| 444 | [Minit](games/m/minit.md) | 4.55 | 
-| 444 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
-| 444 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
-| 444 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
-| 444 | [Warpips](games/w/warpips.md) | 4.55 | 
-| 444 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.55 | 
-| 444 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
+| 443 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 443 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
+| 443 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 443 | [Outward](games/o/outward.md) | 4.55 | 
+| 443 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 443 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
+| 443 | [Minit](games/m/minit.md) | 4.55 | 
+| 443 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 443 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
+| 443 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
+| 443 | [Warpips](games/w/warpips.md) | 4.55 | 
+| 443 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.55 | 
+| 443 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
+| 443 | [First Class Trouble](games/f/first_class_trouble.md) | 4.55 | 
 | 457 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 457 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
 | 457 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
@@ -572,19 +572,19 @@
 | 561 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 561 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 561 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 573 | [SMITE](games/s/smite.md) | 4.45 | 
-| 573 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 573 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 573 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
-| 573 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 573 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 573 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 573 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 573 | [Figment](games/f/figment.md) | 4.45 | 
-| 573 | [Death Coming](games/d/death_coming.md) | 4.45 | 
-| 573 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
-| 573 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
-| 573 | [STG Football](games/s/stg_football.md) | 4.45 | 
+| 561 | [STG Football](games/s/stg_football.md) | 4.46 | 
+| 574 | [SMITE](games/s/smite.md) | 4.45 | 
+| 574 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 574 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 574 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
+| 574 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 574 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 574 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 574 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 574 | [Figment](games/f/figment.md) | 4.45 | 
+| 574 | [Death Coming](games/d/death_coming.md) | 4.45 | 
+| 574 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
+| 574 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
 | 586 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
 | 586 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 586 | [The Captain](games/t/the_captain.md) | 4.44 | 
