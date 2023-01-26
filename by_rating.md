@@ -713,24 +713,24 @@
 | 709 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
 | 709 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.31 | 
 | 709 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.31 | 
-| 709 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.31 | 
-| 715 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 715 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 715 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 715 | [House Party](games/h/house_party.md) | 4.30 | 
-| 715 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.30 | 
-| 715 | [Parkitect](games/p/parkitect.md) | 4.30 | 
-| 715 | [Dice Legacy](games/d/dice_legacy.md) | 4.30 | 
-| 722 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 722 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
-| 722 | [The Fall](games/t/the_fall.md) | 4.29 | 
-| 722 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
-| 722 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
-| 722 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 728 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 728 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
-| 728 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
-| 728 | [Dark Light](games/d/dark_light.md) | 4.28 | 
+| 714 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 714 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
+| 714 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
+| 714 | [House Party](games/h/house_party.md) | 4.30 | 
+| 714 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.30 | 
+| 714 | [Parkitect](games/p/parkitect.md) | 4.30 | 
+| 714 | [Dice Legacy](games/d/dice_legacy.md) | 4.30 | 
+| 721 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
+| 721 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 721 | [The Fall](games/t/the_fall.md) | 4.29 | 
+| 721 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
+| 721 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 721 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
+| 727 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 727 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 727 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
+| 727 | [Dark Light](games/d/dark_light.md) | 4.28 | 
+| 727 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
 | 732 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 732 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
 | 732 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 

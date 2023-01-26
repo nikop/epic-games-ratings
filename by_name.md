@@ -405,7 +405,7 @@
 | 403 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
 | 404 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 405 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 406 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.31 | 
+| 406 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
 | 407 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.04 | 
 | 408 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
 | 409 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
