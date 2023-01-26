@@ -76,23 +76,23 @@
 | 66 | [Superliminal](games/s/superliminal.md) | 4.81 | 
 | 66 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
 | 66 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
+| 66 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
 | 66 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 66 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
-| 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 79 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 79 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 79 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
-| 79 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
-| 79 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
-| 79 | [Journey](games/j/journey.md) | 4.80 | 
-| 79 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
-| 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 79 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
-| 79 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
-| 79 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
-| 79 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
-| 79 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.80 | 
+| 80 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 80 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 80 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 80 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
+| 80 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
+| 80 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
+| 80 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
+| 80 | [Journey](games/j/journey.md) | 4.80 | 
+| 80 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
+| 80 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 80 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
+| 80 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
+| 80 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
+| 80 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.80 | 
 | 94 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 94 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 94 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
@@ -385,28 +385,28 @@
 | 376 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
 | 376 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
 | 376 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
-| 376 | [RiME](games/r/rime.md) | 4.59 | 
 | 376 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 
 | 376 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
 | 376 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 376 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.59 | 
-| 391 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
-| 391 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 391 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 391 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
-| 391 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 391 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 391 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 391 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
-| 391 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
-| 391 | [Moving Out](games/m/moving_out.md) | 4.58 | 
-| 391 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 391 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 
-| 391 | [Breathedge](games/b/breathedge.md) | 4.58 | 
-| 391 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 391 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.58 | 
-| 391 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
-| 391 | [Redout 2](games/r/redout_2.md) | 4.58 | 
+| 390 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
+| 390 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 390 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 390 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
+| 390 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 390 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
+| 390 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 390 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
+| 390 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
+| 390 | [Moving Out](games/m/moving_out.md) | 4.58 | 
+| 390 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
+| 390 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 
+| 390 | [RiME](games/r/rime.md) | 4.58 | 
+| 390 | [Breathedge](games/b/breathedge.md) | 4.58 | 
+| 390 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
+| 390 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.58 | 
+| 390 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
+| 390 | [Redout 2](games/r/redout_2.md) | 4.58 | 
 | 408 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 408 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 408 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
@@ -534,6 +534,7 @@
 | 527 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
 | 527 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 527 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 527 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 527 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 527 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 527 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
@@ -543,13 +544,12 @@
 | 527 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 527 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 527 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
-| 544 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
-| 544 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 544 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 544 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
-| 544 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
-| 544 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
-| 544 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
+| 545 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
+| 545 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 545 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
+| 545 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
+| 545 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
+| 545 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 551 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 551 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 551 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.47 | 

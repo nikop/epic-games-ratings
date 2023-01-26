@@ -115,7 +115,7 @@
 | 113 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 114 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 115 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
-| 116 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 
+| 116 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
 | 117 | [Chimeraland](games/c/chimeraland.md) | 3.84 | 
 | 118 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 119 | [Chorus](games/c/chorus.md) | 4.46 | 
@@ -545,7 +545,7 @@
 | 543 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 544 | [Revita](games/r/revita.md) | 4.74 | 
 | 545 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 546 | [RiME](games/r/rime.md) | 4.59 | 
+| 546 | [RiME](games/r/rime.md) | 4.58 | 
 | 547 | [RiMS Racing](games/r/rims_racing.md) | 4.41 | 
 | 548 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 549 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -553,7 +553,7 @@
 | 551 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 552 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 553 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
-| 554 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 554 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 555 | [Road 96](games/r/road_96.md) | 4.60 | 
 | 556 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
 | 557 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
