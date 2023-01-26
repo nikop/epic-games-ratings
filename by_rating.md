@@ -109,22 +109,22 @@
 | 106 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 106 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
 | 106 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 
+| 106 | [Quake](games/q/quake.md) | 4.77 | 
 | 106 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 106 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 106 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 106 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
-| 114 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 114 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 114 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 114 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 114 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
-| 114 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
-| 114 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
-| 114 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
-| 114 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
-| 114 | [Quake](games/q/quake.md) | 4.76 | 
-| 114 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
-| 114 | [shapez](games/s/shapez.md) | 4.76 | 
+| 115 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 115 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 115 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 115 | [Diabotical](games/d/diabotical.md) | 4.76 | 
+| 115 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 115 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
+| 115 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
+| 115 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
+| 115 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
+| 115 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
+| 115 | [shapez](games/s/shapez.md) | 4.76 | 
 | 126 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 126 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
 | 126 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -853,4 +853,4 @@
 | 851 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 852 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
 | 853 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
-| 854 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.64 | 
+| 854 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.56 | 

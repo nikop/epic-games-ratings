@@ -524,7 +524,7 @@
 | 522 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 523 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.00 | 
 | 524 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 525 | [Quake](games/q/quake.md) | 4.76 | 
+| 525 | [Quake](games/q/quake.md) | 4.77 | 
 | 526 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 527 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 528 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
@@ -763,7 +763,7 @@
 | 761 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 762 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 763 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 764 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.64 | 
+| 764 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.56 | 
 | 765 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 766 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 767 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
