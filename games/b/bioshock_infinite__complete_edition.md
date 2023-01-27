@@ -1,5 +1,5 @@
 # BioShock Infinite: Complete Edition
-Rating: 4.69 (18,329)  (as of 23.09.2022)  
+Rating: 4.70 (18,329)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -71,3 +71,4 @@ Rating: 4.69 (18,329)  (as of 23.09.2022)
 | 2022-10-17 | 4.70 | - |
 | 2022-10-18 | 4.69 | - |
 | 2022-11-05 | 4.69 | - |
+| 2023-01-27 | 4.70 | - |

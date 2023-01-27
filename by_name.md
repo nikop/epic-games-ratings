@@ -82,7 +82,7 @@
 | 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
 | 81 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
 | 82 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 83 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.69 | 
+| 83 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 84 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 85 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 86 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
@@ -301,7 +301,7 @@
 | 299 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 300 | [Gravewood High](games/g/gravewood_high.md) | 4.10 | 
 | 301 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 302 | [GRIME](games/g/grime.md) | 4.61 | 
+| 302 | [GRIME](games/g/grime.md) | 4.62 | 
 | 303 | [Grindstone](games/g/grindstone.md) | 4.84 | 
 | 304 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
 | 305 | [Hades](games/h/hades.md) | 4.92 | 
@@ -319,7 +319,7 @@
 | 317 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
 | 318 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 319 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 320 | [High On Life](games/h/high_on_life.md) | 4.68 | 
+| 320 | [High On Life](games/h/high_on_life.md) | 4.69 | 
 | 321 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 322 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 323 | [Hob](games/h/hob.md) | 4.57 | 
@@ -471,7 +471,7 @@
 | 469 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 470 | [Observation](games/o/observation.md) | 4.56 | 
 | 471 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
-| 472 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.81 | 
+| 472 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
 | 473 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 474 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
 | 475 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
@@ -764,7 +764,7 @@
 | 762 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 763 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 764 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 765 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.55 | 
+| 765 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.69 | 
 | 766 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 767 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 768 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
