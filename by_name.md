@@ -259,7 +259,7 @@
 | 257 | [Firework](games/f/firework.md) | 4.89 | 
 | 258 | [First Class Trouble](games/f/first_class_trouble.md) | 4.56 | 
 | 259 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 260 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 
+| 260 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.57 | 
 | 261 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 262 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
 | 263 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
@@ -571,7 +571,7 @@
 | 569 | [Sable](games/s/sable.md) | 4.50 | 
 | 570 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
 | 571 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 572 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 
+| 572 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.42 | 
 | 573 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 574 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
 | 575 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
@@ -729,7 +729,7 @@
 | 727 | [The Surge](games/t/the_surge.md) | 4.50 | 
 | 728 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
 | 729 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 730 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 
+| 730 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
 | 731 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 732 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
 | 733 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
