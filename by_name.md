@@ -41,7 +41,7 @@
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
-| 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
+| 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
 | 43 | [Ashen](games/a/ashen.md) | 4.34 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
@@ -585,7 +585,7 @@
 | 583 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
 | 584 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 585 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
-| 586 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.61 | 
+| 586 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 587 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 
 | 588 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 589 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.74 | 
@@ -682,7 +682,7 @@
 | 680 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 681 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 682 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 683 | [Tharsis](games/t/tharsis.md) | 4.07 | 
+| 683 | [Tharsis](games/t/tharsis.md) | 4.06 | 
 | 684 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 685 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
 | 686 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
@@ -807,7 +807,7 @@
 | 805 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 806 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 807 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 808 | [Verdun](games/v/verdun.md) | 4.52 | 
+| 808 | [Verdun](games/v/verdun.md) | 4.53 | 
 | 809 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 810 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 811 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
