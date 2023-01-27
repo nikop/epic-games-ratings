@@ -637,7 +637,7 @@
 | 635 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
 | 636 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
 | 637 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 638 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
+| 638 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
 | 639 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
 | 640 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.62 | 
 | 641 | [Starsand](games/s/starsand.md) | 4.21 | 

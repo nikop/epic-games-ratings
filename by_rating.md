@@ -621,6 +621,7 @@
 | 617 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
 | 617 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 617 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
+| 617 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
 | 617 | [Good Company](games/g/good_company.md) | 4.41 | 
 | 617 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
 | 617 | [Tacoma](games/t/tacoma.md) | 4.41 | 
@@ -633,18 +634,17 @@
 | 617 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 617 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
 | 617 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 634 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 634 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 634 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 634 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
-| 634 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
-| 634 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 634 | [ELEX](games/e/elex.md) | 4.40 | 
-| 634 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 634 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 634 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 634 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 
-| 634 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
+| 635 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 635 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 635 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 635 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
+| 635 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 635 | [ELEX](games/e/elex.md) | 4.40 | 
+| 635 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 635 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 635 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 635 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 
+| 635 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
 | 646 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 646 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 646 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
