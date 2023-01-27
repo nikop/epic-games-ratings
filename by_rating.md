@@ -534,7 +534,6 @@
 | 527 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
 | 527 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 527 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 527 | [Riverbond](games/r/riverbond.md) | 4.49 | 
 | 527 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 527 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 527 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
@@ -545,11 +544,12 @@
 | 527 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 527 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
 | 527 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
-| 546 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
-| 546 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 546 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
-| 546 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
-| 546 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
+| 545 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
+| 545 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 545 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 545 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
+| 545 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
+| 545 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 551 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 551 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 551 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.47 | 

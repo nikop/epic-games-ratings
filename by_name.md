@@ -554,7 +554,7 @@
 | 552 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 553 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 554 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
-| 555 | [Riverbond](games/r/riverbond.md) | 4.49 | 
+| 555 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 556 | [Road 96](games/r/road_96.md) | 4.60 | 
 | 557 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
 | 558 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
