@@ -229,7 +229,7 @@
 | 227 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 228 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 229 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 230 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
+| 230 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.75 | 
 | 231 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 232 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.53 | 
 | 233 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 
@@ -845,7 +845,7 @@
 | 843 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
 | 844 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
 | 845 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 846 | [WRC Generations](games/w/wrc_generations.md) | 4.42 | 
+| 846 | [WRC Generations](games/w/wrc_generations.md) | 4.40 | 
 | 847 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
 | 848 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 849 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
