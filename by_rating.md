@@ -835,10 +835,10 @@
 | 833 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 833 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 835 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 836 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.94 | 
-| 836 | [Conarium](games/c/conarium.md) | 3.94 | 
-| 836 | [Patron](games/p/patron.md) | 3.94 | 
-| 836 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
+| 835 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.95 | 
+| 837 | [Conarium](games/c/conarium.md) | 3.94 | 
+| 837 | [Patron](games/p/patron.md) | 3.94 | 
+| 837 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
 | 840 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
 | 840 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 842 | [Warface](games/w/warface.md) | 3.92 | 
