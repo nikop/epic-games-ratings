@@ -116,7 +116,7 @@
 | 114 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 
 | 115 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 116 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
-| 117 | [Chimeraland](games/c/chimeraland.md) | 3.84 | 
+| 117 | [Chimeraland](games/c/chimeraland.md) | 3.81 | 
 | 118 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 119 | [Chorus](games/c/chorus.md) | 4.46 | 
 | 120 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
@@ -693,7 +693,7 @@
 | 691 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 692 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.87 | 
 | 693 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
-| 694 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 694 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 
 | 695 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 696 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 697 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
