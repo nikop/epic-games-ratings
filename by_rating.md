@@ -195,7 +195,6 @@
 | 187 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 187 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
 | 187 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 187 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
 | 187 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 187 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 187 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
@@ -206,25 +205,26 @@
 | 187 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
 | 187 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
 | 187 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
-| 207 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 207 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 207 | [Days Gone](games/d/days_gone.md) | 4.69 | 
-| 207 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 207 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 207 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 207 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
-| 207 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 207 | [Bad North](games/b/bad_north.md) | 4.69 | 
-| 207 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
-| 207 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 207 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 207 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
-| 207 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 207 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
-| 207 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 207 | [High On Life](games/h/high_on_life.md) | 4.69 | 
-| 207 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 
-| 207 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
+| 206 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 206 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 206 | [Days Gone](games/d/days_gone.md) | 4.69 | 
+| 206 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
+| 206 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 206 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 206 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
+| 206 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 206 | [Bad North](games/b/bad_north.md) | 4.69 | 
+| 206 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
+| 206 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.69 | 
+| 206 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 206 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 206 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
+| 206 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
+| 206 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
+| 206 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
+| 206 | [High On Life](games/h/high_on_life.md) | 4.69 | 
+| 206 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 
+| 206 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
 | 226 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
 | 226 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 226 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
@@ -334,6 +334,7 @@
 | 331 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 331 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 331 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
+| 331 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
 | 331 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 331 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 331 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
@@ -356,25 +357,24 @@
 | 331 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 
 | 331 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 331 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
-| 357 | [Control](games/c/control.md) | 4.60 | 
-| 357 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
-| 357 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
-| 357 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 357 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.60 | 
-| 357 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 357 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 357 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
-| 357 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 357 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 357 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
-| 357 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
-| 357 | [Road 96](games/r/road_96.md) | 4.60 | 
-| 357 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 357 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.60 | 
-| 357 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
-| 357 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 357 | [NORCO](games/n/norco.md) | 4.60 | 
-| 357 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.60 | 
+| 358 | [Control](games/c/control.md) | 4.60 | 
+| 358 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
+| 358 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
+| 358 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 358 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 358 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
+| 358 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
+| 358 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 358 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 358 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
+| 358 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
+| 358 | [Road 96](games/r/road_96.md) | 4.60 | 
+| 358 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
+| 358 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.60 | 
+| 358 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
+| 358 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
+| 358 | [NORCO](games/n/norco.md) | 4.60 | 
+| 358 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.60 | 
 | 376 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 376 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 376 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 

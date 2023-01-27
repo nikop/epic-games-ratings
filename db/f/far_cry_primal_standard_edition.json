@@ -1,10 +1,10 @@
 {
   "ID": "larkspur",
   "Name": "Far Cry Primal Standard Edition",
-  "Rating": 4.7,
+  "Rating": 4.69,
   "NumberOfRatings": 463,
   "FirstSeen": "2022-07-22T20:23:55.0433269+00:00",
-  "LastChanged": "2022-12-29T22:57:36.8449766+00:00",
+  "LastChanged": "2023-01-27T21:57:47.4458743+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:55.0433272+00:00",
@@ -509,6 +509,11 @@
     {
       "Time": "2022-12-29T22:57:36.8449769+00:00",
       "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-27T21:57:47.4458745+00:00",
+      "Rating": 4.69,
       "NumberOfRatings": null
     }
   ],
