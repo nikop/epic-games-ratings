@@ -741,14 +741,14 @@
 | 736 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 736 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 736 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
-| 742 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
-| 742 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 744 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 744 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
-| 744 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
-| 744 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
-| 744 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.24 | 
-| 744 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
+| 736 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.26 | 
+| 743 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
+| 743 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 745 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
+| 745 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
+| 745 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
+| 745 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
+| 745 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 750 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 750 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
 | 750 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
