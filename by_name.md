@@ -263,7 +263,7 @@
 | 261 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 262 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
 | 263 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 264 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
+| 264 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 265 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 266 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
 | 267 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
@@ -692,14 +692,14 @@
 | 690 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 691 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 692 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.87 | 
-| 693 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
+| 693 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 694 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 
 | 695 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 696 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 697 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 698 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 699 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 700 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 700 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
 | 701 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 702 | [The Fall](games/t/the_fall.md) | 4.29 | 
 | 703 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 

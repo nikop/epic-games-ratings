@@ -182,5 +182,10 @@
       "NumberOfRatings": null
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 20
+    }
+  ]
 }
