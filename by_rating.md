@@ -759,21 +759,21 @@
 | 757 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 757 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
 | 757 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
-| 760 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.21 | 
 | 760 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 760 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
 | 760 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 760 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 760 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 766 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 766 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 766 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 766 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 766 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 766 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 766 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 766 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 766 | [Somerville](games/s/somerville.md) | 4.20 | 
+| 765 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
+| 765 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 765 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 765 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 765 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 765 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 765 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 765 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 765 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 765 | [Somerville](games/s/somerville.md) | 4.20 | 
 | 775 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 775 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 775 | [Crayta](games/c/crayta.md) | 4.19 | 
