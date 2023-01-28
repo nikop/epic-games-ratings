@@ -231,7 +231,7 @@
 | 229 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 230 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.75 | 
 | 231 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 232 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.53 | 
+| 232 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
 | 233 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 
 | 234 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 235 | [Fangs](games/f/fangs.md) | 4.07 | 
@@ -385,7 +385,7 @@
 | 383 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 384 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
 | 385 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 386 | [Knockout City™](games/k/knockout_city™.md) | 4.43 | 
+| 386 | [Knockout City™](games/k/knockout_city™.md) | 4.50 | 
 | 387 | [Lake](games/l/lake.md) | 4.07 | 
 | 388 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 389 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
@@ -452,7 +452,7 @@
 | 450 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 451 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
 | 452 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
-| 453 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 
+| 453 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
 | 454 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 455 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
 | 456 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
