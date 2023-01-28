@@ -112,7 +112,7 @@
 | 110 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 111 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 112 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
-| 113 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 113 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 114 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 
 | 115 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 116 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
@@ -410,7 +410,7 @@
 | 408 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 409 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
 | 410 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.04 | 
-| 411 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
+| 411 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.52 | 
 | 412 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 413 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 414 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
