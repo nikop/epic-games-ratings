@@ -597,6 +597,7 @@
 | 586 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 586 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
 | 586 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
+| 598 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 598 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 598 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
 | 598 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
@@ -605,14 +606,13 @@
 | 598 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 598 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
 | 598 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
-| 606 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 606 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 606 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 606 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 606 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 606 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 606 | [Predecessor](games/p/predecessor.md) | 4.42 | 
-| 606 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
+| 607 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 607 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 607 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 607 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 607 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 607 | [Predecessor](games/p/predecessor.md) | 4.42 | 
+| 607 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
 | 614 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 614 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 614 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
