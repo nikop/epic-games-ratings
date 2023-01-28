@@ -645,7 +645,7 @@
 | 643 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 644 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 645 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
-| 646 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 646 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 647 | [Steelrising](games/s/steelrising.md) | 4.26 | 
 | 648 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
 | 649 | [STG Football](games/s/stg_football.md) | 4.46 | 
@@ -658,7 +658,7 @@
 | 656 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
 | 657 | [Submerged](games/s/submerged.md) | 4.16 | 
 | 658 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 659 | [Subnautica](games/s/subnautica.md) | 4.84 | 
+| 659 | [Subnautica](games/s/subnautica.md) | 4.85 | 
 | 660 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 661 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
 | 662 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
