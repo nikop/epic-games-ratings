@@ -263,7 +263,7 @@
 | 261 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 262 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
 | 263 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 264 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
+| 264 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 265 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 266 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
 | 267 | [Forspoken](games/f/forspoken.md) | 3.73 | 
@@ -701,7 +701,7 @@
 | 699 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 700 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 701 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 702 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 
+| 702 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 703 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 704 | [The Fall](games/t/the_fall.md) | 4.29 | 
 | 705 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
@@ -782,7 +782,7 @@
 | 780 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
 | 781 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 782 | [Train Valley 2](games/t/train_valley_2.md) | 4.11 | 
-| 783 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 783 | [Transistor](games/t/transistor.md) | 4.63 | 
 | 784 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 785 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 786 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
