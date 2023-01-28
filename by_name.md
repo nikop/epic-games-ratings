@@ -33,7 +33,7 @@
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
-| 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.58 | 
+| 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.59 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.64 | 
 | 37 | [Aragami 2](games/a/aragami_2.md) | 4.56 | 
@@ -151,7 +151,7 @@
 | 149 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 150 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 151 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 152 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.26 | 
+| 152 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.28 | 
 | 153 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
 | 154 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
 | 155 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
@@ -266,7 +266,7 @@
 | 264 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
 | 265 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 266 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 267 | [Forspoken](games/f/forspoken.md) | 3.65 | 
+| 267 | [Forspoken](games/f/forspoken.md) | 3.73 | 
 | 268 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 269 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 270 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
@@ -435,7 +435,7 @@
 | 433 | [Minit](games/m/minit.md) | 4.55 | 
 | 434 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
 | 435 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 436 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
+| 436 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
 | 437 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
 | 438 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 439 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
@@ -458,7 +458,7 @@
 | 456 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
 | 457 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 458 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 
-| 459 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 
+| 459 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
 | 460 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.55 | 
 | 461 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 462 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
@@ -666,7 +666,7 @@
 | 664 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
 | 665 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.70 | 
 | 666 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
-| 667 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.67 | 
+| 667 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 
 | 668 | [Superliminal](games/s/superliminal.md) | 4.81 | 
 | 669 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 670 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
@@ -742,7 +742,7 @@
 | 740 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
 | 741 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
 | 742 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
-| 743 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 743 | [The Witness](games/t/the_witness.md) | 4.69 | 
 | 744 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 745 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 746 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
@@ -813,7 +813,7 @@
 | 811 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 812 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 813 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
-| 814 | [War Mongrels](games/w/war_mongrels.md) | 4.28 | 
+| 814 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
 | 815 | [Warface](games/w/warface.md) | 3.92 | 
 | 816 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 817 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 

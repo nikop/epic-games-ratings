@@ -1,11 +1,11 @@
 {
   "ID": "56e54e682d614c468e3d5afc54ca0adf",
   "Name": "SUPERHOT: Mind Control Delete",
-  "Rating": 4.67,
+  "Rating": 4.68,
   "NumberOfRatings": 34,
   "FirstSeen": "2022-07-22T20:29:05.7159497+00:00",
   "FirstSeenRating": "2022-08-09T03:31:43.3372712+00:00",
-  "LastChanged": "2022-11-28T06:57:50.7624292+00:00",
+  "LastChanged": "2023-01-28T17:58:07.793615+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-09T03:31:43.3372715+00:00",
@@ -140,6 +140,11 @@
     {
       "Time": "2022-11-28T06:57:50.7624293+00:00",
       "Rating": 4.67,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-28T17:58:07.7936152+00:00",
+      "Rating": 4.68,
       "NumberOfRatings": null
     }
   ],
