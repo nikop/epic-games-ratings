@@ -216,7 +216,7 @@
 | 214 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 215 | [Encased](games/e/encased.md) | 4.37 | 
 | 216 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 217 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.41 | 
+| 217 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.38 | 
 | 218 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 219 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 220 | [Everything](games/e/everything.md) | 4.62 | 
@@ -386,7 +386,7 @@
 | 384 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 385 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
 | 386 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 387 | [Knockout City™](games/k/knockout_city™.md) | 4.50 | 
+| 387 | [Knockout City™](games/k/knockout_city™.md) | 4.40 | 
 | 388 | [Lake](games/l/lake.md) | 4.07 | 
 | 389 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 390 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
@@ -473,7 +473,7 @@
 | 471 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 472 | [Observation](games/o/observation.md) | 4.56 | 
 | 473 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
-| 474 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
+| 474 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.81 | 
 | 475 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 476 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
 | 477 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
@@ -766,7 +766,7 @@
 | 764 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 765 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 766 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 767 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.69 | 
+| 767 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.68 | 
 | 768 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 769 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 770 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
