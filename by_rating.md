@@ -491,23 +491,23 @@
 | 486 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 486 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 486 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 486 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
 | 486 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
 | 486 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
 | 486 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 486 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
-| 496 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 496 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 496 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 496 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 496 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
-| 496 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
-| 496 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 496 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
-| 496 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
-| 496 | [Horace](games/h/horace.md) | 4.51 | 
-| 496 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
-| 496 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 496 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
+| 497 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 497 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 497 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 497 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 497 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
+| 497 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
+| 497 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 497 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
+| 497 | [Horace](games/h/horace.md) | 4.51 | 
+| 497 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
+| 497 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 497 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 509 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 509 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 509 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
@@ -613,27 +613,27 @@
 | 607 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
 | 607 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 607 | [Predecessor](games/p/predecessor.md) | 4.42 | 
-| 607 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.42 | 
 | 607 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
-| 616 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
-| 616 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 616 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
-| 616 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 616 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 616 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
-| 616 | [Good Company](games/g/good_company.md) | 4.41 | 
-| 616 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
-| 616 | [Tacoma](games/t/tacoma.md) | 4.41 | 
-| 616 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
-| 616 | [RiMS Racing](games/r/rims_racing.md) | 4.41 | 
-| 616 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 616 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 616 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 616 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 616 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.41 | 
-| 616 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 616 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
-| 616 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
+| 615 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
+| 615 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 615 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 
+| 615 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
+| 615 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
+| 615 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
+| 615 | [Good Company](games/g/good_company.md) | 4.41 | 
+| 615 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
+| 615 | [Tacoma](games/t/tacoma.md) | 4.41 | 
+| 615 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
+| 615 | [RiMS Racing](games/r/rims_racing.md) | 4.41 | 
+| 615 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
+| 615 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 615 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
+| 615 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 615 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.41 | 
+| 615 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 615 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 
+| 615 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
+| 615 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
 | 635 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 635 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 635 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 

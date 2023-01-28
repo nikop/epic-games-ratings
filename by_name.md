@@ -153,7 +153,7 @@
 | 151 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 152 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.26 | 
 | 153 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 154 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 
+| 154 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
 | 155 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
 | 156 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 157 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
@@ -572,7 +572,7 @@
 | 570 | [Sable](games/s/sable.md) | 4.50 | 
 | 571 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
 | 572 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 573 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.42 | 
+| 573 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 
 | 574 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 575 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
 | 576 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 

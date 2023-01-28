@@ -1,10 +1,10 @@
 {
   "ID": "bddbb30a6c36455a9ca82c3a0f91af06",
   "Name": "Dark Deception",
-  "Rating": 4.51,
+  "Rating": 4.52,
   "NumberOfRatings": 50,
   "FirstSeen": "2022-07-22T20:17:45.5721818+00:00",
-  "LastChanged": "2022-12-29T02:04:32.0857985+00:00",
+  "LastChanged": "2023-01-28T05:56:51.2128974+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:45.5721825+00:00",
@@ -234,6 +234,11 @@
     {
       "Time": "2022-12-29T02:04:32.0857986+00:00",
       "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-28T05:56:51.2128975+00:00",
+      "Rating": 4.52,
       "NumberOfRatings": null
     }
   ],
