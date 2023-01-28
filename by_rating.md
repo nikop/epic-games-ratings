@@ -482,19 +482,19 @@
 | 465 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 465 | [Souldiers](games/s/souldiers.md) | 4.53 | 
 | 465 | [Aztez](games/a/aztez.md) | 4.53 | 
+| 465 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 465 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
 | 465 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
-| 485 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 485 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 485 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 485 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 485 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 485 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 485 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
-| 485 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
-| 485 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 485 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 485 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 486 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 486 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 486 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 486 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 486 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 486 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 486 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
+| 486 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 486 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 486 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 496 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 496 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 496 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
@@ -786,14 +786,14 @@
 | 779 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
 | 779 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
 | 786 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
+| 786 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 
 | 786 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
-| 788 | [God's Trigger](games/g/god's_trigger.md) | 4.16 | 
-| 788 | [Gone Home](games/g/gone_home.md) | 4.16 | 
-| 788 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 788 | [Submerged](games/s/submerged.md) | 4.16 | 
-| 788 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
-| 788 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
-| 788 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.16 | 
+| 789 | [God's Trigger](games/g/god's_trigger.md) | 4.16 | 
+| 789 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 789 | [Family Man](games/f/family_man.md) | 4.16 | 
+| 789 | [Submerged](games/s/submerged.md) | 4.16 | 
+| 789 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 789 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
 | 795 | [Pine](games/p/pine.md) | 4.15 | 
 | 795 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 795 | [Relicta](games/r/relicta.md) | 4.15 | 
@@ -803,16 +803,16 @@
 | 800 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 800 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 803 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 804 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 804 | [Train Valley 2](games/t/train_valley_2.md) | 4.11 | 
 | 804 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
-| 807 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.10 | 
-| 807 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 807 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
-| 807 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 807 | [Gravewood High](games/g/gravewood_high.md) | 4.10 | 
-| 807 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
-| 807 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
+| 806 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
+| 806 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.10 | 
+| 806 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 806 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
+| 806 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 806 | [Gravewood High](games/g/gravewood_high.md) | 4.10 | 
+| 806 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
+| 806 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 814 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 814 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 
 | 816 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
