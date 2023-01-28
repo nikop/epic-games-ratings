@@ -263,7 +263,7 @@
 | 261 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 262 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
 | 263 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 264 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
+| 264 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 
 | 265 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 266 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
 | 267 | [Forspoken](games/f/forspoken.md) | 3.65 | 
@@ -275,7 +275,7 @@
 | 273 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 274 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 275 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 276 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.30 | 
+| 276 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 
 | 277 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 278 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 279 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
