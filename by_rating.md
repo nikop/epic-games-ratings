@@ -121,21 +121,21 @@
 | 114 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 114 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
 | 114 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
+| 114 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 114 | [shapez](games/s/shapez.md) | 4.76 | 
-| 123 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 123 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
-| 123 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 123 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 123 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
-| 123 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 123 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
-| 123 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
-| 123 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.75 | 
-| 123 | [Haven](games/h/haven.md) | 4.75 | 
-| 123 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.75 | 
-| 123 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
-| 123 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
+| 124 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 124 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
+| 124 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 124 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 124 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
+| 124 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 124 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 124 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
+| 124 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
+| 124 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.75 | 
+| 124 | [Haven](games/h/haven.md) | 4.75 | 
+| 124 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
+| 124 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
 | 137 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
 | 137 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 137 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
@@ -812,15 +812,15 @@
 | 806 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 806 | [Gravewood High](games/g/gravewood_high.md) | 4.10 | 
 | 806 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
+| 806 | [Fangs](games/f/fangs.md) | 4.10 | 
 | 806 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 814 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
-| 815 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 815 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
-| 815 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
-| 815 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
-| 819 | [Lake](games/l/lake.md) | 4.07 | 
-| 819 | [Fangs](games/f/fangs.md) | 4.07 | 
-| 819 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
+| 815 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
+| 816 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 816 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
+| 816 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
+| 816 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
+| 820 | [Lake](games/l/lake.md) | 4.07 | 
+| 820 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
 | 822 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 822 | [Tharsis](games/t/tharsis.md) | 4.06 | 
 | 824 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
@@ -852,7 +852,7 @@
 | 849 | [Chimeraland](games/c/chimeraland.md) | 3.81 | 
 | 851 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 852 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 853 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
+| 853 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
 | 854 | [Forspoken](games/f/forspoken.md) | 3.73 | 
 | 855 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
 | 856 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 

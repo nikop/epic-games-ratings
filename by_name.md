@@ -229,12 +229,12 @@
 | 227 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 228 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 229 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 230 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.75 | 
+| 230 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 231 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 232 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
 | 233 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 
 | 234 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 235 | [Fangs](games/f/fangs.md) | 4.07 | 
+| 235 | [Fangs](games/f/fangs.md) | 4.10 | 
 | 236 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 237 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.23 | 
 | 238 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
@@ -519,7 +519,7 @@
 | 517 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
 | 518 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 519 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.60 | 
-| 520 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
+| 520 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
 | 521 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 522 | [Predecessor](games/p/predecessor.md) | 4.42 | 
 | 523 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
