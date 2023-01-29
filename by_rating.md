@@ -231,6 +231,7 @@
 | 226 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 226 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 226 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 226 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
 | 226 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
 | 226 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
 | 226 | [CARRION](games/c/carrion.md) | 4.68 | 
@@ -239,23 +240,22 @@
 | 226 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
 | 226 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
 | 226 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
-| 240 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 240 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 240 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 240 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
-| 240 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 240 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 240 | [Overcooked](games/o/overcooked.md) | 4.67 | 
-| 240 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 240 | [Death's Door](games/d/death's_door.md) | 4.67 | 
-| 240 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
-| 240 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
-| 240 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
-| 240 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 240 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 
-| 240 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
-| 240 | [Card Shark](games/c/card_shark.md) | 4.67 | 
-| 240 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
+| 241 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 241 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 241 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 241 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 241 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 241 | [Overcooked](games/o/overcooked.md) | 4.67 | 
+| 241 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 241 | [Death's Door](games/d/death's_door.md) | 4.67 | 
+| 241 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
+| 241 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
+| 241 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
+| 241 | [Eastward](games/e/eastward.md) | 4.67 | 
+| 241 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 
+| 241 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
+| 241 | [Card Shark](games/c/card_shark.md) | 4.67 | 
+| 241 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
 | 257 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 257 | [Trackmania](games/t/trackmania.md) | 4.66 | 
 | 257 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
@@ -413,7 +413,6 @@
 | 407 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.57 | 
 | 407 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 407 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
-| 407 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
 | 407 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 407 | [Hob](games/h/hob.md) | 4.57 | 
 | 407 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
@@ -427,22 +426,23 @@
 | 407 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 407 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
 | 407 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
-| 428 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 428 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 428 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 428 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 428 | [Hue](games/h/hue.md) | 4.56 | 
-| 428 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 428 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
-| 428 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
-| 428 | [Aragami 2](games/a/aragami_2.md) | 4.56 | 
-| 428 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.56 | 
-| 428 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 428 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 428 | [Observation](games/o/observation.md) | 4.56 | 
-| 428 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.56 | 
-| 428 | [First Class Trouble](games/f/first_class_trouble.md) | 4.56 | 
-| 428 | [The Medium](games/t/the_medium.md) | 4.56 | 
+| 427 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 427 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 427 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 427 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 427 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 
+| 427 | [Hue](games/h/hue.md) | 4.56 | 
+| 427 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 427 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
+| 427 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
+| 427 | [Aragami 2](games/a/aragami_2.md) | 4.56 | 
+| 427 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.56 | 
+| 427 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 427 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 427 | [Observation](games/o/observation.md) | 4.56 | 
+| 427 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.56 | 
+| 427 | [First Class Trouble](games/f/first_class_trouble.md) | 4.56 | 
+| 427 | [The Medium](games/t/the_medium.md) | 4.56 | 
 | 444 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 444 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 444 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 

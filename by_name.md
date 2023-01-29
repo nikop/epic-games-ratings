@@ -72,7 +72,7 @@
 | 70 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 71 | [Barony](games/b/barony.md) | 4.71 | 
 | 72 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.31 | 
-| 73 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
+| 73 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
 | 74 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 75 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 76 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
@@ -225,7 +225,7 @@
 | 223 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 224 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 
 | 225 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 226 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
+| 226 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 
 | 227 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 228 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 229 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
