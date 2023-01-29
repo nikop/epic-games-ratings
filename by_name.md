@@ -187,7 +187,7 @@
 | 185 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
 | 186 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 187 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 188 | [Dice Legacy](games/d/dice_legacy.md) | 4.30 | 
+| 188 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
 | 189 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 190 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
 | 191 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
@@ -223,7 +223,7 @@
 | 221 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 222 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.95 | 
 | 223 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 224 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 
+| 224 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
 | 225 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 226 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 
 | 227 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
@@ -266,7 +266,7 @@
 | 264 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 265 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 266 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 267 | [Forspoken](games/f/forspoken.md) | 3.73 | 
+| 267 | [Forspoken](games/f/forspoken.md) | 3.80 | 
 | 268 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 269 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 270 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
@@ -473,7 +473,7 @@
 | 471 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 472 | [Observation](games/o/observation.md) | 4.56 | 
 | 473 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
-| 474 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.81 | 
+| 474 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
 | 475 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 476 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
 | 477 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
@@ -498,7 +498,7 @@
 | 496 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 497 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.56 | 
 | 498 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 499 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.27 | 
+| 499 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
 | 500 | [Parkitect](games/p/parkitect.md) | 4.30 | 
 | 501 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 502 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
