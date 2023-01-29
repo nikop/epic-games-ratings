@@ -194,7 +194,7 @@
 | 192 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 193 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 
 | 194 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
-| 195 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.56 | 
+| 195 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.57 | 
 | 196 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 197 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.38 | 
 | 198 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
@@ -766,7 +766,7 @@
 | 764 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 765 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 766 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 767 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.68 | 
+| 767 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.77 | 
 | 768 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 769 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 770 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 

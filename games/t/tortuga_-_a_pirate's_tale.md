@@ -1,8 +1,9 @@
 # Tortuga - A Pirate's Tale
-Rating: 3.68 (-)  (as of 23.09.2022)  
+Rating: 3.77 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
 | 2023-01-26 | 3.55 | - |
 | 2023-01-27 | 3.69 | - |
 | 2023-01-28 | 3.68 | - |
+| 2023-01-29 | 3.77 | - |
