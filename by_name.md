@@ -426,7 +426,7 @@
 | 424 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
 | 425 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
 | 426 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 427 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 
+| 427 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 428 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 429 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
 | 430 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
@@ -436,7 +436,7 @@
 | 434 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
 | 435 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 436 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
-| 437 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 
+| 437 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 438 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 439 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 440 | [Moving Out](games/m/moving_out.md) | 4.58 | 
