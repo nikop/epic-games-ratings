@@ -113,7 +113,7 @@
 | 111 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 112 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 113 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 114 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 
+| 114 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 115 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 116 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
 | 117 | [Chimeraland](games/c/chimeraland.md) | 3.81 | 
@@ -211,7 +211,7 @@
 | 209 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 210 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 211 | [ELEX](games/e/elex.md) | 4.40 | 
-| 212 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 212 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 213 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 214 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 215 | [Encased](games/e/encased.md) | 4.37 | 
@@ -397,7 +397,7 @@
 | 395 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
 | 396 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 397 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
-| 398 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
+| 398 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 
 | 399 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
 | 400 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
 | 401 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 

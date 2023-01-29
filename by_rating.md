@@ -379,6 +379,7 @@
 | 376 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 376 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 376 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 376 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 
 | 376 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 376 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
 | 376 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
@@ -390,22 +391,21 @@
 | 376 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
 | 376 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 376 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.59 | 
-| 391 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
-| 391 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 391 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 391 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
-| 391 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 391 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 391 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 391 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
-| 391 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
-| 391 | [Moving Out](games/m/moving_out.md) | 4.58 | 
-| 391 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 391 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
-| 391 | [RiME](games/r/rime.md) | 4.58 | 
-| 391 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 391 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
-| 391 | [Redout 2](games/r/redout_2.md) | 4.58 | 
+| 392 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
+| 392 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 392 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 392 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
+| 392 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 392 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
+| 392 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 392 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
+| 392 | [Moving Out](games/m/moving_out.md) | 4.58 | 
+| 392 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
+| 392 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
+| 392 | [RiME](games/r/rime.md) | 4.58 | 
+| 392 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
+| 392 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
+| 392 | [Redout 2](games/r/redout_2.md) | 4.58 | 
 | 407 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 407 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 407 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
@@ -723,17 +723,17 @@
 | 716 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
 | 722 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 722 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 722 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 722 | [The Fall](games/t/the_fall.md) | 4.29 | 
 | 722 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
 | 722 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 722 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
 | 722 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 722 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 730 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 730 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
-| 730 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.28 | 
-| 730 | [Dark Light](games/d/dark_light.md) | 4.28 | 
-| 730 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
+| 731 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 731 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.28 | 
+| 731 | [Dark Light](games/d/dark_light.md) | 4.28 | 
+| 731 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
 | 735 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 735 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
 | 737 | [EVE Online](games/e/eve_online.md) | 4.26 | 
@@ -797,8 +797,8 @@
 | 795 | [Pine](games/p/pine.md) | 4.15 | 
 | 795 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 795 | [Relicta](games/r/relicta.md) | 4.15 | 
-| 795 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 
 | 795 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
+| 799 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 800 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
 | 800 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 800 | [Flatout](games/f/flatout.md) | 4.13 | 
