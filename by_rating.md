@@ -543,25 +543,25 @@
 | 526 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 526 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
 | 526 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
-| 544 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 544 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 544 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 544 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
 | 544 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
 | 544 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 544 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.48 | 
-| 551 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 
-| 551 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
-| 551 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 551 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 551 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.47 | 
-| 551 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 551 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.47 | 
-| 551 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
-| 551 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 551 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
-| 551 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
-| 551 | [Scorn](games/s/scorn.md) | 4.47 | 
+| 550 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 
+| 550 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
+| 550 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 550 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 550 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
+| 550 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.47 | 
+| 550 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 550 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.47 | 
+| 550 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
+| 550 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
+| 550 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
+| 550 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
+| 550 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 563 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 563 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
 | 563 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 

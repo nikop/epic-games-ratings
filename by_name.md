@@ -98,7 +98,7 @@
 | 96 | [Brawlhalla](games/b/brawlhalla.md) | 4.54 | 
 | 97 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 98 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
-| 99 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
+| 99 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 100 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 101 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
 | 102 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
