@@ -266,7 +266,6 @@
 | 257 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 257 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 257 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
-| 257 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
 | 257 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
 | 257 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
 | 257 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
@@ -277,18 +276,19 @@
 | 257 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
 | 257 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 257 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
-| 278 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 278 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 278 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 278 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 278 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
-| 278 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 278 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 278 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
-| 278 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
-| 278 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
-| 278 | [GNOG](games/g/gnog.md) | 4.65 | 
-| 278 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
+| 277 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 277 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 277 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 277 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 277 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
+| 277 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
+| 277 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 277 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 277 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
+| 277 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 277 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
+| 277 | [GNOG](games/g/gnog.md) | 4.65 | 
+| 277 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
 | 290 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 290 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 290 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
@@ -620,6 +620,7 @@
 | 616 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 616 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 616 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
+| 616 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
 | 616 | [Good Company](games/g/good_company.md) | 4.41 | 
 | 616 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
 | 616 | [Tacoma](games/t/tacoma.md) | 4.41 | 
@@ -632,19 +633,18 @@
 | 616 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 616 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
 | 616 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 633 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 633 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 633 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 633 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
-| 633 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 633 | [ELEX](games/e/elex.md) | 4.40 | 
-| 633 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 633 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 633 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 633 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 
-| 633 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
-| 633 | [Knockout City™](games/k/knockout_city™.md) | 4.40 | 
-| 633 | [WRC Generations](games/w/wrc_generations.md) | 4.40 | 
+| 634 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 634 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 634 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 634 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 634 | [ELEX](games/e/elex.md) | 4.40 | 
+| 634 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 634 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 634 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 634 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 
+| 634 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
+| 634 | [Knockout City™](games/k/knockout_city™.md) | 4.40 | 
+| 634 | [WRC Generations](games/w/wrc_generations.md) | 4.40 | 
 | 646 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 646 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 646 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
@@ -747,15 +747,15 @@
 | 744 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 746 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 746 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
+| 746 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
 | 746 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
 | 746 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
 | 746 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
-| 751 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 751 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
-| 751 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 751 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.23 | 
-| 751 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 751 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
+| 752 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 752 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
+| 752 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
+| 752 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
+| 752 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
 | 757 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 757 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
 | 757 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 

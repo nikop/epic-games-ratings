@@ -145,7 +145,7 @@
 | 143 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 144 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 145 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 146 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 
+| 146 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 147 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 148 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
 | 149 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
@@ -236,7 +236,7 @@
 | 234 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 235 | [Fangs](games/f/fangs.md) | 4.10 | 
 | 236 | [Far Cry](games/f/far_cry.md) | 4.43 | 
-| 237 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.23 | 
+| 237 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
 | 238 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 239 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 240 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
@@ -619,7 +619,7 @@
 | 617 | [SOMA](games/s/soma.md) | 4.64 | 
 | 618 | [Somerville](games/s/somerville.md) | 4.20 | 
 | 619 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 620 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
+| 620 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
 | 621 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 622 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
 | 623 | [Souldiers](games/s/souldiers.md) | 4.53 | 
