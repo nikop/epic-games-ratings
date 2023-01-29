@@ -96,7 +96,7 @@
 | 94 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 95 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 96 | [Brawlhalla](games/b/brawlhalla.md) | 4.54 | 
-| 97 | [Breathedge](games/b/breathedge.md) | 4.58 | 
+| 97 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 98 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 99 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 100 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
@@ -687,7 +687,7 @@
 | 685 | [Tharsis](games/t/tharsis.md) | 4.06 | 
 | 686 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 687 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
-| 688 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
+| 688 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 689 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
 | 690 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
 | 691 | [The Captain](games/t/the_captain.md) | 4.44 | 
@@ -771,7 +771,7 @@
 | 769 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 770 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
 | 771 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 772 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
+| 772 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
 | 773 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 
 | 774 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 775 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.31 | 
@@ -825,7 +825,7 @@
 | 823 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 824 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 825 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 826 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.32 | 
+| 826 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.33 | 
 | 827 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 828 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
 | 829 | [Weird West](games/w/weird_west.md) | 4.45 | 
@@ -842,7 +842,7 @@
 | 840 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
 | 841 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 842 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
-| 843 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 843 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 844 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 845 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
 | 846 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
