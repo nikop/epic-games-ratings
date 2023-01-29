@@ -403,7 +403,7 @@
 | 401 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 402 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 403 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
-| 404 | [Limbo](games/l/limbo.md) | 4.64 | 
+| 404 | [Limbo](games/l/limbo.md) | 4.63 | 
 | 405 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
 | 406 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
 | 407 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
