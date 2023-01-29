@@ -435,7 +435,7 @@
 | 433 | [Minit](games/m/minit.md) | 4.55 | 
 | 434 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
 | 435 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 436 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
+| 436 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
 | 437 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 438 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 439 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
@@ -512,7 +512,7 @@
 | 510 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
 | 511 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 512 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 513 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 513 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 514 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 515 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 516 | [Pine](games/p/pine.md) | 4.15 | 
@@ -571,7 +571,7 @@
 | 569 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 570 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 571 | [Sable](games/s/sable.md) | 4.50 | 
-| 572 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
+| 572 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.79 | 
 | 573 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 574 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.42 | 
 | 575 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
