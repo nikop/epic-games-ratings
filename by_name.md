@@ -450,7 +450,7 @@
 | 448 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 449 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
 | 450 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 451 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
+| 451 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
 | 452 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
 | 453 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
 | 454 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 

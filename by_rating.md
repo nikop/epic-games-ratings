@@ -809,12 +809,12 @@
 | 806 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.10 | 
 | 806 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 806 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
+| 806 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
 | 806 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 806 | [Gravewood High](games/g/gravewood_high.md) | 4.10 | 
 | 806 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
 | 806 | [Fangs](games/f/fangs.md) | 4.10 | 
 | 806 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 815 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.09 | 
 | 816 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 816 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
 | 816 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
