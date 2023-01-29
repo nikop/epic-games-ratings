@@ -384,7 +384,7 @@
 | 382 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 383 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
 | 384 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 385 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
+| 385 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 386 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 387 | [Knockout City™](games/k/knockout_city™.md) | 4.40 | 
 | 388 | [Lake](games/l/lake.md) | 4.07 | 
@@ -592,7 +592,7 @@
 | 590 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 591 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.73 | 
 | 592 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
-| 593 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.55 | 
+| 593 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
 | 594 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 595 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 596 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
