@@ -774,7 +774,7 @@
 | 772 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
 | 773 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
 | 774 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 775 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.31 | 
+| 775 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.33 | 
 | 776 | [Trackmania](games/t/trackmania.md) | 4.66 | 
 | 777 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
 | 778 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.04 | 
