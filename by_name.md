@@ -630,7 +630,7 @@
 | 628 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 629 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 630 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
-| 631 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
+| 631 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
 | 632 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
 | 633 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
 | 634 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 

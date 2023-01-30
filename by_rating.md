@@ -631,20 +631,20 @@
 | 616 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 616 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 616 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 616 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
 | 616 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 634 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 634 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 634 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 634 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 634 | [ELEX](games/e/elex.md) | 4.40 | 
-| 634 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 634 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 634 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 634 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 
-| 634 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
-| 634 | [Knockout City™](games/k/knockout_city™.md) | 4.40 | 
-| 634 | [WRC Generations](games/w/wrc_generations.md) | 4.40 | 
+| 633 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 633 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 633 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 633 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 633 | [ELEX](games/e/elex.md) | 4.40 | 
+| 633 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 633 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 633 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 633 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 
+| 633 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
+| 633 | [Knockout City™](games/k/knockout_city™.md) | 4.40 | 
+| 633 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
+| 633 | [WRC Generations](games/w/wrc_generations.md) | 4.40 | 
 | 646 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 646 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 646 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
