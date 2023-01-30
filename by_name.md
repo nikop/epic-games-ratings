@@ -313,7 +313,7 @@
 | 311 | [Haven](games/h/haven.md) | 4.75 | 
 | 312 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 313 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
-| 314 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 314 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 315 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.49 | 
 | 316 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 317 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
@@ -588,7 +588,7 @@
 | 586 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 587 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 588 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
-| 589 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 
+| 589 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 590 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 591 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.74 | 
 | 592 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
@@ -694,7 +694,7 @@
 | 692 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 693 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 694 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.87 | 
-| 695 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
+| 695 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 696 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 
 | 697 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 698 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 

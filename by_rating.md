@@ -223,24 +223,24 @@
 | 205 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
 | 205 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 205 | [High On Life](games/h/high_on_life.md) | 4.69 | 
-| 205 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 
 | 205 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
-| 226 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
-| 226 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 226 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 226 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 226 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 226 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 226 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
-| 226 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 226 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 226 | [CARRION](games/c/carrion.md) | 4.68 | 
-| 226 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 
-| 226 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
-| 226 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
-| 226 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
-| 226 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
-| 226 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
+| 225 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
+| 225 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 225 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 225 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 225 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 225 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 225 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
+| 225 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 225 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
+| 225 | [CARRION](games/c/carrion.md) | 4.68 | 
+| 225 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 
+| 225 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
+| 225 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
+| 225 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
+| 225 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
+| 225 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
+| 225 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 242 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 242 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 242 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
@@ -458,32 +458,32 @@
 | 443 | [First Class Trouble](games/f/first_class_trouble.md) | 4.55 | 
 | 457 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 457 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
+| 457 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 457 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
 | 457 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
 | 457 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 457 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
 | 457 | [Brawlhalla](games/b/brawlhalla.md) | 4.54 | 
 | 457 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 465 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 465 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
-| 465 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 465 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 465 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
-| 465 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 465 | [Verdun](games/v/verdun.md) | 4.53 | 
-| 465 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 465 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 465 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
-| 465 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
-| 465 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 465 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 465 | [RUINER](games/r/ruiner.md) | 4.53 | 
-| 465 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 465 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 465 | [Souldiers](games/s/souldiers.md) | 4.53 | 
-| 465 | [Aztez](games/a/aztez.md) | 4.53 | 
-| 465 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 465 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
+| 466 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
+| 466 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
+| 466 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 466 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 466 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
+| 466 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 466 | [Verdun](games/v/verdun.md) | 4.53 | 
+| 466 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
+| 466 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
+| 466 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
+| 466 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
+| 466 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
+| 466 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 466 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 466 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 466 | [Souldiers](games/s/souldiers.md) | 4.53 | 
+| 466 | [Aztez](games/a/aztez.md) | 4.53 | 
+| 466 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 466 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
 | 485 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 485 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 485 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -803,17 +803,17 @@
 | 800 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 800 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 803 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
+| 804 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 804 | [Train Valley 2](games/t/train_valley_2.md) | 4.11 | 
 | 804 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
-| 806 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
-| 806 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.10 | 
-| 806 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 806 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
-| 806 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
-| 806 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 806 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
-| 806 | [Fangs](games/f/fangs.md) | 4.10 | 
-| 806 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
+| 807 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.10 | 
+| 807 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 807 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
+| 807 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
+| 807 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 807 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
+| 807 | [Fangs](games/f/fangs.md) | 4.10 | 
+| 807 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 815 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 815 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
 | 815 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
