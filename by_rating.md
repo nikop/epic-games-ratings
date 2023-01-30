@@ -589,6 +589,7 @@
 | 586 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 586 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 586 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 586 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
 | 586 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
 | 586 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 586 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
@@ -596,15 +597,14 @@
 | 586 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 586 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
 | 586 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
-| 597 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
-| 597 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 597 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 
-| 597 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 597 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
-| 597 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
-| 597 | [Far Cry](games/f/far_cry.md) | 4.43 | 
-| 597 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 597 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
+| 598 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
+| 598 | [Sheltered](games/s/sheltered.md) | 4.43 | 
+| 598 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 598 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
+| 598 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
+| 598 | [Far Cry](games/f/far_cry.md) | 4.43 | 
+| 598 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
+| 598 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 606 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 606 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 606 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
