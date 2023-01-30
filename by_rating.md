@@ -812,8 +812,8 @@
 | 807 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
 | 807 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 807 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
-| 807 | [Fangs](games/f/fangs.md) | 4.10 | 
 | 807 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
+| 814 | [Fangs](games/f/fangs.md) | 4.09 | 
 | 815 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 815 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
 | 815 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
