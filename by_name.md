@@ -521,7 +521,7 @@
 | 519 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.60 | 
 | 520 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
 | 521 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 522 | [Predecessor](games/p/predecessor.md) | 4.42 | 
+| 522 | [Predecessor](games/p/predecessor.md) | 4.43 | 
 | 523 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 524 | [Prey](games/p/prey.md) | 4.62 | 
 | 525 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -549,7 +549,7 @@
 | 547 | [Revita](games/r/revita.md) | 4.74 | 
 | 548 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 549 | [RiME](games/r/rime.md) | 4.58 | 
-| 550 | [RiMS Racing](games/r/rims_racing.md) | 4.41 | 
+| 550 | [RiMS Racing](games/r/rims_racing.md) | 4.43 | 
 | 551 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 552 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 553 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
@@ -684,7 +684,7 @@
 | 682 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 683 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 684 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 685 | [Tharsis](games/t/tharsis.md) | 4.06 | 
+| 685 | [Tharsis](games/t/tharsis.md) | 4.04 | 
 | 686 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 687 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
 | 688 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
@@ -789,7 +789,7 @@
 | 787 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
 | 788 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 789 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
-| 790 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
+| 790 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
 | 791 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
 | 792 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 793 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
