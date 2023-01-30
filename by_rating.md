@@ -150,20 +150,20 @@
 | 137 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 137 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
 | 137 | [King of Retail](games/k/king_of_retail.md) | 4.74 | 
+| 137 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
 | 137 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 
-| 152 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 152 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 152 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
-| 152 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 152 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 152 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 152 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 152 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
-| 152 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
-| 152 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
-| 152 | [Outlast](games/o/outlast.md) | 4.73 | 
-| 152 | [SpiderHeck](games/s/spiderheck.md) | 4.73 | 
-| 152 | [Suzerain](games/s/suzerain.md) | 4.73 | 
+| 153 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 153 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 153 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
+| 153 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 153 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
+| 153 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 153 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 153 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
+| 153 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
+| 153 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
+| 153 | [Outlast](games/o/outlast.md) | 4.73 | 
+| 153 | [Suzerain](games/s/suzerain.md) | 4.73 | 
 | 165 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
 | 165 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 165 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
