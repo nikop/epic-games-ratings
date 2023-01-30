@@ -196,7 +196,7 @@
 | 194 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 195 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.57 | 
 | 196 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 197 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.38 | 
+| 197 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
 | 198 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 199 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 200 | [DOOM 3](games/d/doom_3.md) | 4.61 | 
@@ -266,7 +266,7 @@
 | 264 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 265 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 266 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 267 | [Forspoken](games/f/forspoken.md) | 3.80 | 
+| 267 | [Forspoken](games/f/forspoken.md) | 3.83 | 
 | 268 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 269 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 270 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
@@ -646,7 +646,7 @@
 | 644 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 645 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
 | 646 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 647 | [Steelrising](games/s/steelrising.md) | 4.26 | 
+| 647 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 648 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
 | 649 | [STG Football](games/s/stg_football.md) | 4.46 | 
 | 650 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 

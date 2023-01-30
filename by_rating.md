@@ -656,7 +656,6 @@
 | 654 | [Core](games/c/core.md) | 4.38 | 
 | 654 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 654 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 654 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.38 | 
 | 654 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 654 | [Othercide](games/o/othercide.md) | 4.38 | 
 | 654 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
@@ -666,15 +665,16 @@
 | 654 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 654 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
 | 654 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 667 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 667 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 667 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 667 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 667 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 667 | [Encased](games/e/encased.md) | 4.37 | 
-| 667 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 667 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 667 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
+| 666 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 666 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 666 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 666 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 666 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 666 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
+| 666 | [Encased](games/e/encased.md) | 4.37 | 
+| 666 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 666 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 666 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
 | 676 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 676 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 676 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
@@ -734,15 +734,15 @@
 | 731 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.28 | 
 | 731 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 731 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
+| 735 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 735 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 735 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
-| 737 | [EVE Online](games/e/eve_online.md) | 4.26 | 
-| 737 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 737 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
-| 737 | [Steelrising](games/s/steelrising.md) | 4.26 | 
-| 737 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
-| 737 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
-| 737 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
+| 738 | [EVE Online](games/e/eve_online.md) | 4.26 | 
+| 738 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 738 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
+| 738 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
+| 738 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
+| 738 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
 | 744 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
 | 744 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 746 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
@@ -848,10 +848,10 @@
 | 846 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.90 | 
 | 847 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 848 | [Blood of Steel](games/b/blood_of_steel.md) | 3.83 | 
-| 849 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
-| 849 | [Chimeraland](games/c/chimeraland.md) | 3.81 | 
-| 851 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
-| 851 | [Forspoken](games/f/forspoken.md) | 3.80 | 
+| 848 | [Forspoken](games/f/forspoken.md) | 3.83 | 
+| 850 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
+| 850 | [Chimeraland](games/c/chimeraland.md) | 3.81 | 
+| 852 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 853 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 854 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.77 | 
 | 855 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
