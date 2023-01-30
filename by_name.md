@@ -42,7 +42,7 @@
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
-| 43 | [Ashen](games/a/ashen.md) | 4.34 | 
+| 43 | [Ashen](games/a/ashen.md) | 4.35 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
@@ -148,7 +148,7 @@
 | 146 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 147 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 148 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
-| 149 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 149 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 
 | 150 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 151 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 152 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.28 | 
@@ -689,7 +689,7 @@
 | 687 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
 | 688 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 689 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
-| 690 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
+| 690 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
 | 691 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 692 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 693 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
@@ -766,7 +766,7 @@
 | 764 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 765 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 766 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 767 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.77 | 
+| 767 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.70 | 
 | 768 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 769 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 770 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
@@ -776,7 +776,7 @@
 | 774 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 775 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.31 | 
 | 776 | [Trackmania](games/t/trackmania.md) | 4.66 | 
-| 777 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.80 | 
+| 777 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
 | 778 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.04 | 
 | 779 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 780 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
@@ -812,7 +812,7 @@
 | 810 | [Verdun](games/v/verdun.md) | 4.53 | 
 | 811 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 812 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
-| 813 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
+| 813 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 814 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
 | 815 | [Warface](games/w/warface.md) | 3.92 | 
 | 816 | [Warframe](games/w/warframe.md) | 4.61 | 
