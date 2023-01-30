@@ -570,7 +570,7 @@
 | 568 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 569 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 570 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 571 | [Sable](games/s/sable.md) | 4.50 | 
+| 571 | [Sable](games/s/sable.md) | 4.51 | 
 | 572 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.79 | 
 | 573 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 574 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.42 | 
