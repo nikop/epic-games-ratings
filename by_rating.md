@@ -238,24 +238,24 @@
 | 226 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 
 | 226 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
 | 226 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
+| 226 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
 | 226 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
 | 226 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
-| 241 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 241 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 241 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 241 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 241 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 241 | [Overcooked](games/o/overcooked.md) | 4.67 | 
-| 241 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 241 | [Death's Door](games/d/death's_door.md) | 4.67 | 
-| 241 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
-| 241 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
-| 241 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
-| 241 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 241 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 
-| 241 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
-| 241 | [Card Shark](games/c/card_shark.md) | 4.67 | 
-| 241 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
+| 242 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 242 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 242 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 242 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 242 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 242 | [Overcooked](games/o/overcooked.md) | 4.67 | 
+| 242 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 242 | [Death's Door](games/d/death's_door.md) | 4.67 | 
+| 242 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
+| 242 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
+| 242 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
+| 242 | [Eastward](games/e/eastward.md) | 4.67 | 
+| 242 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
+| 242 | [Card Shark](games/c/card_shark.md) | 4.67 | 
+| 242 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
 | 257 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 257 | [Trackmania](games/t/trackmania.md) | 4.66 | 
 | 257 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
@@ -541,14 +541,14 @@
 | 526 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 526 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 526 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 526 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.49 | 
 | 526 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
 | 526 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
-| 544 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 544 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 544 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
-| 544 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
-| 544 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
-| 544 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.48 | 
+| 545 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 545 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 545 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
+| 545 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
+| 545 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 550 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 
 | 550 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 550 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
@@ -652,20 +652,20 @@
 | 646 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 646 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 646 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 653 | [Core](games/c/core.md) | 4.38 | 
-| 653 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
-| 653 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 653 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.38 | 
-| 653 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
-| 653 | [Othercide](games/o/othercide.md) | 4.38 | 
-| 653 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
-| 653 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
-| 653 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 653 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
-| 653 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 653 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.38 | 
-| 653 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
-| 653 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
+| 646 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.39 | 
+| 654 | [Core](games/c/core.md) | 4.38 | 
+| 654 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
+| 654 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 654 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.38 | 
+| 654 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
+| 654 | [Othercide](games/o/othercide.md) | 4.38 | 
+| 654 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
+| 654 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
+| 654 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 654 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
+| 654 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 654 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
+| 654 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 667 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 667 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 667 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 

@@ -216,7 +216,7 @@
 | 214 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 215 | [Encased](games/e/encased.md) | 4.37 | 
 | 216 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 217 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.38 | 
+| 217 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.39 | 
 | 218 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 219 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 220 | [Everything](games/e/everything.md) | 4.62 | 
@@ -314,7 +314,7 @@
 | 312 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 313 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 314 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 315 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.48 | 
+| 315 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.49 | 
 | 316 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 317 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 318 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
@@ -772,7 +772,7 @@
 | 770 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
 | 771 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 772 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
-| 773 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 
+| 773 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
 | 774 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 775 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.31 | 
 | 776 | [Trackmania](games/t/trackmania.md) | 4.66 | 
