@@ -855,6 +855,6 @@
 | 853 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 854 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 855 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
-| 856 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
-| 857 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
-| 857 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.70 | 
+| 856 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.73 | 
+| 857 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
+| 858 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 

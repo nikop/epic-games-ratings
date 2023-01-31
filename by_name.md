@@ -767,7 +767,7 @@
 | 765 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 766 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 767 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 768 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.70 | 
+| 768 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.73 | 
 | 769 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 770 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 771 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
