@@ -577,7 +577,7 @@
 | 575 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 576 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
 | 577 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 578 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
+| 578 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 579 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 580 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
 | 581 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
@@ -799,7 +799,7 @@
 | 797 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 798 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 
 | 799 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 800 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 
+| 800 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 
 | 801 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 802 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 
 | 803 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
