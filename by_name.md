@@ -178,7 +178,7 @@
 | 176 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 177 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.63 | 
 | 178 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
-| 179 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.50 | 
+| 179 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 180 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 181 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 
 | 182 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
