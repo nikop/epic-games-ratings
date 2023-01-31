@@ -259,7 +259,7 @@
 | 257 | [Firework](games/f/firework.md) | 4.89 | 
 | 258 | [First Class Trouble](games/f/first_class_trouble.md) | 4.55 | 
 | 259 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 260 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.57 | 
+| 260 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 
 | 261 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 262 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
 | 263 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
