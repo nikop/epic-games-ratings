@@ -737,14 +737,14 @@
 | 735 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 735 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 735 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
-| 738 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 738 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 738 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
 | 738 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 738 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 738 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
-| 744 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
-| 744 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 743 | [EVE Online](games/e/eve_online.md) | 4.25 | 
+| 743 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
+| 743 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 746 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 746 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 746 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 

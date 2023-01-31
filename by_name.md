@@ -218,7 +218,7 @@
 | 216 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 217 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.40 | 
 | 218 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 219 | [EVE Online](games/e/eve_online.md) | 4.26 | 
+| 219 | [EVE Online](games/e/eve_online.md) | 4.25 | 
 | 220 | [Everything](games/e/everything.md) | 4.62 | 
 | 221 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 222 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.95 | 
