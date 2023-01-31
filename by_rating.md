@@ -168,25 +168,25 @@
 | 165 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 165 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 165 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 165 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
 | 165 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
 | 165 | [Northgard](games/n/northgard.md) | 4.72 | 
 | 165 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 165 | [Slipways](games/s/slipways.md) | 4.72 | 
 | 165 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
-| 175 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
-| 175 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 175 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
-| 175 | [Barony](games/b/barony.md) | 4.71 | 
-| 175 | [Timberborn](games/t/timberborn.md) | 4.71 | 
-| 175 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 175 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
-| 175 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
-| 175 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 175 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
-| 175 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
-| 175 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
-| 175 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
+| 174 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
+| 174 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 174 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
+| 174 | [Barony](games/b/barony.md) | 4.71 | 
+| 174 | [Timberborn](games/t/timberborn.md) | 4.71 | 
+| 174 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
+| 174 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 174 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
+| 174 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
+| 174 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
+| 174 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
+| 174 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
+| 174 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
+| 174 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
 | 188 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 188 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 188 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
@@ -401,6 +401,7 @@
 | 392 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 392 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 392 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
+| 392 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 
 | 392 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 392 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 
 | 392 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
@@ -408,27 +409,26 @@
 | 392 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 392 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 392 | [Redout 2](games/r/redout_2.md) | 4.58 | 
-| 409 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 409 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 409 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 409 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
-| 409 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.57 | 
-| 409 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 409 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
-| 409 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 409 | [Hob](games/h/hob.md) | 4.57 | 
-| 409 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
-| 409 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 409 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 409 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
-| 409 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
-| 409 | [Isonzo](games/i/isonzo.md) | 4.57 | 
-| 409 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 409 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.57 | 
-| 409 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
-| 409 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
-| 409 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.57 | 
-| 409 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
+| 410 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 410 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 410 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 410 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
+| 410 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.57 | 
+| 410 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 410 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 410 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 410 | [Hob](games/h/hob.md) | 4.57 | 
+| 410 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 410 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 410 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
+| 410 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
+| 410 | [Isonzo](games/i/isonzo.md) | 4.57 | 
+| 410 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 410 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.57 | 
+| 410 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
+| 410 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
+| 410 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.57 | 
+| 410 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
 | 430 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 430 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 430 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
@@ -456,16 +456,16 @@
 | 444 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.55 | 
 | 444 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
 | 444 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.55 | 
-| 444 | [First Class Trouble](games/f/first_class_trouble.md) | 4.55 | 
-| 458 | [VALORANT](games/v/valorant.md) | 4.54 | 
-| 458 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
-| 458 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 458 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
-| 458 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
-| 458 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 458 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
-| 458 | [Brawlhalla](games/b/brawlhalla.md) | 4.54 | 
-| 458 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 457 | [VALORANT](games/v/valorant.md) | 4.54 | 
+| 457 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
+| 457 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 457 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
+| 457 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
+| 457 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 457 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
+| 457 | [Brawlhalla](games/b/brawlhalla.md) | 4.54 | 
+| 457 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
+| 457 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 467 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 467 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
 | 467 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 

@@ -45,7 +45,7 @@
 | 43 | [Ashen](games/a/ashen.md) | 4.35 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
+| 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
@@ -258,7 +258,7 @@
 | 256 | [Filament](games/f/filament.md) | 4.32 | 
 | 257 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 258 | [Firework](games/f/firework.md) | 4.89 | 
-| 259 | [First Class Trouble](games/f/first_class_trouble.md) | 4.55 | 
+| 259 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
 | 260 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 261 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 
 | 262 | [Flatout](games/f/flatout.md) | 4.13 | 
@@ -666,7 +666,7 @@
 | 664 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 665 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
 | 666 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
-| 667 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
+| 667 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
 | 668 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 
 | 669 | [Superliminal](games/s/superliminal.md) | 4.81 | 
 | 670 | [Supraland](games/s/supraland.md) | 4.61 | 
