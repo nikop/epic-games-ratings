@@ -1,5 +1,5 @@
 # The Division 2 Standard Edition
-Rating: 4.47 (6,675)  (as of 23.09.2022)  
+Rating: 4.46 (6,675)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -75,3 +75,4 @@ Rating: 4.47 (6,675)  (as of 23.09.2022)
 | 2022-11-11 | 4.46 | - |
 | 2022-11-12 | 4.46 | - |
 | 2023-01-27 | 4.47 | - |
+| 2023-01-31 | 4.46 | - |

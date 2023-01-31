@@ -664,7 +664,7 @@
 | 662 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
 | 663 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 664 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
-| 665 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.70 | 
+| 665 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
 | 666 | [SUPERHOT](games/s/superhot.md) | 4.72 | 
 | 667 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 
 | 668 | [Superliminal](games/s/superliminal.md) | 4.81 | 
@@ -695,7 +695,7 @@
 | 693 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 694 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.87 | 
 | 695 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
-| 696 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 
+| 696 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 697 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 698 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
 | 699 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 

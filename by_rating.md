@@ -183,27 +183,27 @@
 | 175 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
 | 175 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
 | 175 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
+| 175 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
 | 175 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 175 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
 | 175 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 187 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
-| 187 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
-| 187 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
-| 187 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 187 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
-| 187 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 187 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
-| 187 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 187 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
-| 187 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 187 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
-| 187 | [Fez](games/f/fez.md) | 4.70 | 
-| 187 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
-| 187 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 187 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.70 | 
-| 187 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
-| 187 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
-| 187 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
+| 188 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 188 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
+| 188 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
+| 188 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 188 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
+| 188 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 188 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
+| 188 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 188 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
+| 188 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 188 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
+| 188 | [Fez](games/f/fez.md) | 4.70 | 
+| 188 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
+| 188 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 188 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
+| 188 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
+| 188 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 205 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 205 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 205 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
@@ -549,7 +549,6 @@
 | 545 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
 | 545 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
 | 545 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
-| 550 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 
 | 550 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 550 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 550 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
@@ -562,16 +561,17 @@
 | 550 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
 | 550 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 550 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 563 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 563 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 563 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 563 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
-| 563 | [Chorus](games/c/chorus.md) | 4.46 | 
-| 563 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 
-| 563 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
-| 563 | [Train Valley](games/t/train_valley.md) | 4.46 | 
-| 563 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 563 | [STG Football](games/s/stg_football.md) | 4.46 | 
+| 562 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 562 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 562 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
+| 562 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 562 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
+| 562 | [Chorus](games/c/chorus.md) | 4.46 | 
+| 562 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 
+| 562 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
+| 562 | [Train Valley](games/t/train_valley.md) | 4.46 | 
+| 562 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 562 | [STG Football](games/s/stg_football.md) | 4.46 | 
 | 573 | [SMITE](games/s/smite.md) | 4.45 | 
 | 573 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 573 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
