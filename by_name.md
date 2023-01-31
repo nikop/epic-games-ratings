@@ -386,7 +386,7 @@
 | 384 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 385 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 386 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 387 | [Knockout City™](games/k/knockout_city™.md) | 4.40 | 
+| 387 | [Knockout City™](games/k/knockout_city™.md) | 4.38 | 
 | 388 | [Lake](games/l/lake.md) | 4.07 | 
 | 389 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 390 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
