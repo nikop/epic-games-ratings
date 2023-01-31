@@ -12,7 +12,7 @@
 | 10 | [ABZU](games/a/abzu.md) | 4.62 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.47 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.55 | 
-| 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 13 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
@@ -366,7 +366,7 @@
 | 364 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 365 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 366 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.63 | 
-| 367 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 367 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 368 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 369 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
 | 370 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
@@ -525,7 +525,7 @@
 | 523 | [Predecessor](games/p/predecessor.md) | 4.43 | 
 | 524 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 525 | [Prey](games/p/prey.md) | 4.62 | 
-| 526 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 526 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
 | 527 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.00 | 
 | 528 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 529 | [Quake](games/q/quake.md) | 4.77 | 
@@ -675,7 +675,7 @@
 | 673 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 674 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 675 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 676 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.32 | 
+| 676 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 677 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 678 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 679 | [Tacoma](games/t/tacoma.md) | 4.41 | 
