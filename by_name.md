@@ -35,7 +35,7 @@
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.59 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 36 | [APE OUT](games/a/ape_out.md) | 4.64 | 
+| 36 | [APE OUT](games/a/ape_out.md) | 4.65 | 
 | 37 | [Aragami 2](games/a/aragami_2.md) | 4.56 | 
 | 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
@@ -52,7 +52,7 @@
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
-| 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 
+| 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 
@@ -90,7 +90,7 @@
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 91 | [Blood of Steel](games/b/blood_of_steel.md) | 3.83 | 
+| 91 | [Blood of Steel](games/b/blood_of_steel.md) | 3.88 | 
 | 92 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 93 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 94 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -206,7 +206,7 @@
 | 204 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 205 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 206 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 207 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
+| 207 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
 | 208 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 209 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 210 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -266,7 +266,7 @@
 | 264 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 265 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 266 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 267 | [Forspoken](games/f/forspoken.md) | 3.83 | 
+| 267 | [Forspoken](games/f/forspoken.md) | 3.81 | 
 | 268 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 269 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 270 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
