@@ -577,7 +577,7 @@
 | 575 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 576 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
 | 577 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 578 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 578 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
 | 579 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 580 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
 | 581 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
