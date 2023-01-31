@@ -287,7 +287,7 @@
 | 285 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 286 | [GigaBash](games/g/gigabash.md) | 4.63 | 
 | 287 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
-| 288 | [GNOG](games/g/gnog.md) | 4.65 | 
+| 288 | [GNOG](games/g/gnog.md) | 4.67 | 
 | 289 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 290 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 291 | [God's Trigger](games/g/god's_trigger.md) | 4.16 | 
@@ -847,7 +847,7 @@
 | 845 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
 | 846 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
 | 847 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 848 | [WRC Generations](games/w/wrc_generations.md) | 4.40 | 
+| 848 | [WRC Generations](games/w/wrc_generations.md) | 4.42 | 
 | 849 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
 | 850 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 851 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
