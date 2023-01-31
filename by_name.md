@@ -80,7 +80,7 @@
 | 78 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
 | 79 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 80 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 81 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
+| 81 | [BIOMUTANT](games/b/biomutant.md) | 4.31 | 
 | 82 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 83 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 84 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
@@ -313,7 +313,7 @@
 | 311 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 312 | [Haven](games/h/haven.md) | 4.75 | 
 | 313 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
-| 314 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
+| 314 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 315 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 316 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.49 | 
 | 317 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
@@ -432,7 +432,7 @@
 | 430 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
 | 431 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
 | 432 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 433 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.47 | 
+| 433 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
 | 434 | [Minit](games/m/minit.md) | 4.55 | 
 | 435 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
 | 436 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
@@ -829,7 +829,7 @@
 | 827 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.33 | 
 | 828 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 829 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
-| 830 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 830 | [Weird West](games/w/weird_west.md) | 4.46 | 
 | 831 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
 | 832 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 833 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 

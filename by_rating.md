@@ -285,22 +285,22 @@
 | 279 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 279 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
 | 279 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 279 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 279 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
 | 279 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
 | 279 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
 | 279 | [APE OUT](games/a/ape_out.md) | 4.65 | 
 | 279 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
-| 291 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 291 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 291 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 291 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 291 | [Old World](games/o/old_world.md) | 4.64 | 
-| 291 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
-| 291 | [SOMA](games/s/soma.md) | 4.64 | 
-| 291 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
-| 291 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
-| 291 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
-| 291 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
+| 292 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 292 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 292 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 292 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 292 | [Old World](games/o/old_world.md) | 4.64 | 
+| 292 | [SOMA](games/s/soma.md) | 4.64 | 
+| 292 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
+| 292 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
+| 292 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
+| 292 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 302 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 302 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 302 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
@@ -557,35 +557,35 @@
 | 551 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 551 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.47 | 
 | 551 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 551 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.47 | 
 | 551 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
 | 551 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
 | 551 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
 | 551 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 551 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 564 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 564 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 564 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 564 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
-| 564 | [Chorus](games/c/chorus.md) | 4.46 | 
-| 564 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 
-| 564 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
-| 564 | [Train Valley](games/t/train_valley.md) | 4.46 | 
-| 564 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 564 | [STG Football](games/s/stg_football.md) | 4.46 | 
-| 574 | [SMITE](games/s/smite.md) | 4.45 | 
-| 574 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 574 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 574 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
-| 574 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 574 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
-| 574 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 574 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 574 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 574 | [Figment](games/f/figment.md) | 4.45 | 
-| 574 | [Death Coming](games/d/death_coming.md) | 4.45 | 
-| 574 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
-| 574 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
+| 563 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 563 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
+| 563 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 563 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
+| 563 | [Weird West](games/w/weird_west.md) | 4.46 | 
+| 563 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
+| 563 | [Chorus](games/c/chorus.md) | 4.46 | 
+| 563 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 
+| 563 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
+| 563 | [Train Valley](games/t/train_valley.md) | 4.46 | 
+| 563 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 563 | [STG Football](games/s/stg_football.md) | 4.46 | 
+| 575 | [SMITE](games/s/smite.md) | 4.45 | 
+| 575 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 575 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 575 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
+| 575 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 575 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
+| 575 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 575 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 575 | [Figment](games/f/figment.md) | 4.45 | 
+| 575 | [Death Coming](games/d/death_coming.md) | 4.45 | 
+| 575 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
+| 575 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
 | 587 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
 | 587 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 587 | [The Captain](games/t/the_captain.md) | 4.44 | 
@@ -705,17 +705,17 @@
 | 698 | [Backbone](games/b/backbone.md) | 4.33 | 
 | 698 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
 | 705 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 705 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
 | 705 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
 | 705 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 
 | 705 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
 | 705 | [Filament](games/f/filament.md) | 4.32 | 
 | 705 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
-| 712 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
-| 712 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 712 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
-| 712 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
-| 712 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.31 | 
+| 711 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 711 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 711 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
+| 711 | [BIOMUTANT](games/b/biomutant.md) | 4.31 | 
+| 711 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
+| 711 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.31 | 
 | 717 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 717 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 717 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
