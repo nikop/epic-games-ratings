@@ -284,24 +284,24 @@
 | 279 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 279 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 279 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
-| 279 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 279 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 279 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
 | 279 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
 | 279 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
 | 279 | [APE OUT](games/a/ape_out.md) | 4.65 | 
 | 279 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
-| 292 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 292 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 292 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 292 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 292 | [Old World](games/o/old_world.md) | 4.64 | 
-| 292 | [SOMA](games/s/soma.md) | 4.64 | 
-| 292 | [Limbo](games/l/limbo.md) | 4.64 | 
-| 292 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
-| 292 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
-| 292 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
-| 292 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
+| 291 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 291 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 291 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 291 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 291 | [Old World](games/o/old_world.md) | 4.64 | 
+| 291 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
+| 291 | [SOMA](games/s/soma.md) | 4.64 | 
+| 291 | [Limbo](games/l/limbo.md) | 4.64 | 
+| 291 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
+| 291 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
+| 291 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
+| 291 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 303 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 303 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 303 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
@@ -617,25 +617,25 @@
 | 610 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 610 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
 | 610 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
-| 610 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.42 | 
 | 610 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
 | 610 | [WRC Generations](games/w/wrc_generations.md) | 4.42 | 
-| 621 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
-| 621 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 621 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 621 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 621 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
-| 621 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
-| 621 | [Good Company](games/g/good_company.md) | 4.41 | 
-| 621 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
-| 621 | [Tacoma](games/t/tacoma.md) | 4.41 | 
-| 621 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
-| 621 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 621 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 621 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 621 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 621 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 621 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
+| 620 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
+| 620 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 620 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
+| 620 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
+| 620 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
+| 620 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
+| 620 | [Good Company](games/g/good_company.md) | 4.41 | 
+| 620 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
+| 620 | [Tacoma](games/t/tacoma.md) | 4.41 | 
+| 620 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
+| 620 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
+| 620 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 620 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
+| 620 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 620 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 620 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 
+| 620 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
 | 637 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 637 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 637 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
@@ -849,9 +849,9 @@
 | 847 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.90 | 
 | 848 | [Blood of Steel](games/b/blood_of_steel.md) | 3.88 | 
 | 849 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 850 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
-| 850 | [Chimeraland](games/c/chimeraland.md) | 3.81 | 
-| 850 | [Forspoken](games/f/forspoken.md) | 3.81 | 
+| 850 | [Forspoken](games/f/forspoken.md) | 3.85 | 
+| 851 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
+| 851 | [Chimeraland](games/c/chimeraland.md) | 3.81 | 
 | 853 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 854 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 855 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 

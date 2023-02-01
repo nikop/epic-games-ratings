@@ -267,7 +267,7 @@
 | 265 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 266 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 267 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 268 | [Forspoken](games/f/forspoken.md) | 3.81 | 
+| 268 | [Forspoken](games/f/forspoken.md) | 3.85 | 
 | 269 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 270 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 271 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
@@ -396,7 +396,7 @@
 | 394 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 395 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 396 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
-| 397 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 397 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 398 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
 | 399 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 
 | 400 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
@@ -574,7 +574,7 @@
 | 572 | [Sable](games/s/sable.md) | 4.51 | 
 | 573 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.79 | 
 | 574 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 575 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.42 | 
+| 575 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 
 | 576 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 577 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
 | 578 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
