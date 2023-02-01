@@ -1,14 +1,19 @@
 {
   "ID": "4ec958d5e4b6429aadbc116cee0b6ea0",
   "Name": "Dead Space",
-  "Rating": 4.62,
+  "Rating": 4.63,
   "FirstSeen": "2023-01-27T17:57:20.5533157+00:00",
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
-  "LastChanged": "2023-01-31T17:57:54.7682728+00:00",
+  "LastChanged": "2023-02-01T17:57:18.4404652+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-31T17:57:54.7682729+00:00",
       "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-01T17:57:18.4404654+00:00",
+      "Rating": 4.63,
       "NumberOfRatings": null
     }
   ],
