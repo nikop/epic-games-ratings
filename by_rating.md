@@ -695,15 +695,15 @@
 | 686 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
 | 686 | [ZOMBI](games/z/zombi.md) | 4.35 | 
 | 695 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 695 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 695 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
 | 695 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 698 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
-| 698 | [Automachef](games/a/automachef.md) | 4.33 | 
-| 698 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.33 | 
-| 698 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
-| 698 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.33 | 
-| 698 | [Backbone](games/b/backbone.md) | 4.33 | 
-| 698 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
+| 699 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
+| 699 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.33 | 
+| 699 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 699 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.33 | 
+| 699 | [Backbone](games/b/backbone.md) | 4.33 | 
+| 699 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
 | 705 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 705 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.32 | 
 | 705 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
