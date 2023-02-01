@@ -182,7 +182,7 @@
 | 180 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 181 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 182 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 
-| 183 | [Desperados III](games/d/desperados_iii.md) | 4.83 | 
+| 183 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 184 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 185 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
 | 186 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
