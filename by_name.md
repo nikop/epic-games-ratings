@@ -300,7 +300,7 @@
 | 298 | [Good Company](games/g/good_company.md) | 4.41 | 
 | 299 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
 | 300 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 301 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
+| 301 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 302 | [Gravewood High](games/g/gravewood_high.md) | 4.05 | 
 | 303 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 304 | [GRIME](games/g/grime.md) | 4.62 | 
