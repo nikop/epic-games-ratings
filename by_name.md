@@ -173,7 +173,7 @@
 | 171 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 172 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 173 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
-| 174 | [Death's Door](games/d/death's_door.md) | 4.67 | 
+| 174 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 175 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 176 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
 | 177 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
@@ -646,7 +646,7 @@
 | 644 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 645 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
 | 646 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
-| 647 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
+| 647 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 648 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 649 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
 | 650 | [STG Football](games/s/stg_football.md) | 4.46 | 
@@ -675,7 +675,7 @@
 | 673 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 674 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 675 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 676 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
+| 676 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.32 | 
 | 677 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 678 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 679 | [Tacoma](games/t/tacoma.md) | 4.41 | 

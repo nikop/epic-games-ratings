@@ -155,6 +155,7 @@
 | 153 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 153 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 153 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
+| 153 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 153 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 153 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 153 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
@@ -164,15 +165,14 @@
 | 153 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 153 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 153 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 165 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 
-| 165 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 165 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 165 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 165 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
-| 165 | [Northgard](games/n/northgard.md) | 4.72 | 
-| 165 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 165 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 165 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
+| 166 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 166 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 166 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 166 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
+| 166 | [Northgard](games/n/northgard.md) | 4.72 | 
+| 166 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 166 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 166 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
 | 174 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 174 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 174 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
@@ -248,7 +248,6 @@
 | 242 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 242 | [Overcooked](games/o/overcooked.md) | 4.67 | 
 | 242 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 242 | [Death's Door](games/d/death's_door.md) | 4.67 | 
 | 242 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 242 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 242 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
@@ -257,27 +256,28 @@
 | 242 | [Card Shark](games/c/card_shark.md) | 4.67 | 
 | 242 | [GNOG](games/g/gnog.md) | 4.67 | 
 | 242 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
-| 258 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 258 | [Trackmania](games/t/trackmania.md) | 4.66 | 
-| 258 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 258 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 258 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 258 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
-| 258 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
-| 258 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
-| 258 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 258 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
-| 258 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
-| 258 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 
-| 258 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
-| 258 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
-| 258 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
-| 258 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 258 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
-| 258 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
-| 258 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 258 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 258 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
+| 257 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 257 | [Trackmania](games/t/trackmania.md) | 4.66 | 
+| 257 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 257 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 257 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 257 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
+| 257 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
+| 257 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 257 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 257 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
+| 257 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
+| 257 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 
+| 257 | [Death's Door](games/d/death's_door.md) | 4.66 | 
+| 257 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
+| 257 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
+| 257 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
+| 257 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 257 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
+| 257 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
+| 257 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 257 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 257 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
 | 279 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 279 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 279 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
@@ -705,17 +705,17 @@
 | 698 | [Backbone](games/b/backbone.md) | 4.33 | 
 | 698 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
 | 705 | [Vampyr](games/v/vampyr.md) | 4.32 | 
+| 705 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.32 | 
 | 705 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
 | 705 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
 | 705 | [Filament](games/f/filament.md) | 4.32 | 
 | 705 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
-| 710 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
-| 710 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 710 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
-| 710 | [BIOMUTANT](games/b/biomutant.md) | 4.31 | 
-| 710 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
-| 710 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 
-| 710 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.31 | 
+| 711 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 711 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 711 | [BIOMUTANT](games/b/biomutant.md) | 4.31 | 
+| 711 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
+| 711 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 
+| 711 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.31 | 
 | 717 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 717 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 717 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
