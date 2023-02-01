@@ -300,7 +300,7 @@
 | 298 | [Good Company](games/g/good_company.md) | 4.41 | 
 | 299 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
 | 300 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 301 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
+| 301 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.70 | 
 | 302 | [Gravewood High](games/g/gravewood_high.md) | 4.05 | 
 | 303 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 304 | [GRIME](games/g/grime.md) | 4.62 | 
@@ -404,7 +404,7 @@
 | 402 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 403 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 404 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
-| 405 | [Limbo](games/l/limbo.md) | 4.63 | 
+| 405 | [Limbo](games/l/limbo.md) | 4.64 | 
 | 406 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
 | 407 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
 | 408 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
