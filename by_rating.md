@@ -121,21 +121,21 @@
 | 114 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 114 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
 | 114 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
+| 114 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 114 | [shapez](games/s/shapez.md) | 4.76 | 
-| 123 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 123 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
-| 123 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 123 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 123 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
-| 123 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 123 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
-| 123 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
-| 123 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.75 | 
-| 123 | [Haven](games/h/haven.md) | 4.75 | 
-| 123 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.75 | 
-| 123 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
-| 123 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
+| 124 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 124 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
+| 124 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 124 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 124 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
+| 124 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 124 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 124 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
+| 124 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
+| 124 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.75 | 
+| 124 | [Haven](games/h/haven.md) | 4.75 | 
+| 124 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
+| 124 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
 | 137 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
 | 137 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 137 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
@@ -706,16 +706,16 @@
 | 698 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
 | 705 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 705 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
-| 705 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 
 | 705 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
 | 705 | [Filament](games/f/filament.md) | 4.32 | 
 | 705 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
-| 711 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
-| 711 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 711 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
-| 711 | [BIOMUTANT](games/b/biomutant.md) | 4.31 | 
-| 711 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
-| 711 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.31 | 
+| 710 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 710 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 710 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
+| 710 | [BIOMUTANT](games/b/biomutant.md) | 4.31 | 
+| 710 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
+| 710 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 
+| 710 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.31 | 
 | 717 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 717 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 717 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
@@ -855,6 +855,6 @@
 | 853 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 854 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 855 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 
-| 856 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.73 | 
+| 856 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.74 | 
 | 857 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
 | 858 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 

@@ -230,7 +230,7 @@
 | 228 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 229 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 230 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 231 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.75 | 
+| 231 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 232 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 233 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
 | 234 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 
@@ -276,7 +276,7 @@
 | 274 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 275 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 276 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 277 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 
+| 277 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 
 | 278 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 279 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 280 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
@@ -767,7 +767,7 @@
 | 765 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 766 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 767 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 768 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.73 | 
+| 768 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.74 | 
 | 769 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 770 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 771 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
