@@ -264,7 +264,6 @@
 | 257 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
 | 257 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
 | 257 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
-| 257 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 257 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 257 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
 | 257 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 
@@ -278,18 +277,19 @@
 | 257 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
 | 257 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 257 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
-| 279 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 279 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 279 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 279 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 279 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
-| 279 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
-| 279 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 279 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
-| 279 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
-| 279 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
-| 279 | [APE OUT](games/a/ape_out.md) | 4.65 | 
-| 279 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
+| 278 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 278 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 278 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 278 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 278 | [Crashlands](games/c/crashlands.md) | 4.65 | 
+| 278 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
+| 278 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
+| 278 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
+| 278 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
+| 278 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 278 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
+| 278 | [APE OUT](games/a/ape_out.md) | 4.65 | 
+| 278 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
 | 291 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 291 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 291 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
