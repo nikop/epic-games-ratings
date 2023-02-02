@@ -251,7 +251,7 @@
 | 249 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 250 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
 | 251 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 252 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
+| 252 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 
 | 253 | [Fez](games/f/fez.md) | 4.70 | 
 | 254 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
 | 255 | [Figment](games/f/figment.md) | 4.45 | 
@@ -387,7 +387,7 @@
 | 385 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 386 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 387 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 388 | [Knockout City™](games/k/knockout_city™.md) | 4.33 | 
+| 388 | [Knockout City™](games/k/knockout_city™.md) | 4.18 | 
 | 389 | [Lake](games/l/lake.md) | 4.07 | 
 | 390 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 391 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
