@@ -360,7 +360,7 @@
 | 358 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 359 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 360 | [Journey](games/j/journey.md) | 4.80 | 
-| 361 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
+| 361 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 362 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 363 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 364 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
