@@ -781,14 +781,14 @@
 | 776 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 776 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
 | 781 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 781 | [Space Punks](games/s/space_punks.md) | 4.18 | 
 | 781 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 781 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
 | 781 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 781 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
 | 781 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
-| 788 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
-| 788 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
+| 787 | [Space Punks](games/s/space_punks.md) | 4.17 | 
+| 787 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
+| 787 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
 | 790 | [God's Trigger](games/g/god's_trigger.md) | 4.16 | 
 | 790 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 790 | [Family Man](games/f/family_man.md) | 4.16 | 
