@@ -12,7 +12,7 @@
 | 10 | [ABZU](games/a/abzu.md) | 4.62 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.47 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.55 | 
-| 13 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
+| 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
@@ -207,7 +207,7 @@
 | 205 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 206 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 207 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 208 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
+| 208 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
 | 209 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 210 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 211 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -365,7 +365,7 @@
 | 363 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 364 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 365 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 366 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.63 | 
+| 366 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.64 | 
 | 367 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 368 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 369 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
@@ -696,7 +696,7 @@
 | 694 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 695 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.87 | 
 | 696 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
-| 697 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 697 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 
 | 698 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 699 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
 | 700 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
@@ -744,7 +744,7 @@
 | 742 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
 | 743 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
 | 744 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 745 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 745 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 746 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 747 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 748 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.59 | 
