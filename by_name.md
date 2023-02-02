@@ -230,7 +230,7 @@
 | 228 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 229 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 230 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 231 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
+| 231 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.75 | 
 | 232 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 233 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
 | 234 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 
@@ -696,7 +696,7 @@
 | 694 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 695 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.87 | 
 | 696 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
-| 697 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 
+| 697 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 698 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 699 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
 | 700 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
@@ -826,7 +826,7 @@
 | 824 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 825 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 826 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 827 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.33 | 
+| 827 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.32 | 
 | 828 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 829 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
 | 830 | [Weird West](games/w/weird_west.md) | 4.46 | 

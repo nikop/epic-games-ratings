@@ -121,21 +121,21 @@
 | 114 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 114 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
 | 114 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
-| 114 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 114 | [shapez](games/s/shapez.md) | 4.76 | 
-| 124 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 124 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
-| 124 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 124 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 124 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 124 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
-| 124 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 124 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
-| 124 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
-| 124 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.75 | 
-| 124 | [Haven](games/h/haven.md) | 4.75 | 
-| 124 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
-| 124 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
+| 123 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 123 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
+| 123 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 123 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
+| 123 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 123 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 123 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
+| 123 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
+| 123 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.75 | 
+| 123 | [Haven](games/h/haven.md) | 4.75 | 
+| 123 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.75 | 
+| 123 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
+| 123 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
 | 137 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
 | 137 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 137 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
@@ -549,7 +549,6 @@
 | 545 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
 | 545 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
 | 545 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
-| 550 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 
 | 550 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 550 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 550 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
@@ -561,18 +560,19 @@
 | 550 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
 | 550 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 550 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 562 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 562 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 562 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 562 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
-| 562 | [Weird West](games/w/weird_west.md) | 4.46 | 
-| 562 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
-| 562 | [Chorus](games/c/chorus.md) | 4.46 | 
-| 562 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 
-| 562 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
-| 562 | [Train Valley](games/t/train_valley.md) | 4.46 | 
-| 562 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 562 | [STG Football](games/s/stg_football.md) | 4.46 | 
+| 561 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 561 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 561 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
+| 561 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 561 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
+| 561 | [Weird West](games/w/weird_west.md) | 4.46 | 
+| 561 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
+| 561 | [Chorus](games/c/chorus.md) | 4.46 | 
+| 561 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 
+| 561 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
+| 561 | [Train Valley](games/t/train_valley.md) | 4.46 | 
+| 561 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 561 | [STG Football](games/s/stg_football.md) | 4.46 | 
 | 574 | [SMITE](games/s/smite.md) | 4.45 | 
 | 574 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 574 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
@@ -697,19 +697,19 @@
 | 694 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 694 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
 | 694 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 698 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.33 | 
 | 698 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 698 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.33 | 
 | 698 | [Backbone](games/b/backbone.md) | 4.33 | 
 | 698 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
 | 698 | [Knockout City™](games/k/knockout_city™.md) | 4.33 | 
-| 704 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 704 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
-| 704 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.32 | 
-| 704 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
-| 704 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
-| 704 | [Filament](games/f/filament.md) | 4.32 | 
-| 704 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
+| 703 | [Vampyr](games/v/vampyr.md) | 4.32 | 
+| 703 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
+| 703 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.32 | 
+| 703 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.32 | 
+| 703 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
+| 703 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
+| 703 | [Filament](games/f/filament.md) | 4.32 | 
+| 703 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
 | 711 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 711 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 711 | [BIOMUTANT](games/b/biomutant.md) | 4.31 | 

@@ -1,5 +1,5 @@
 # Fallout 2: A Post Nuclear Role Playing Game
-Rating: 4.76 (-)  (as of 23.09.2022)  
+Rating: 4.75 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -36,3 +36,4 @@ Rating: 4.76 (-)  (as of 23.09.2022)
 | 2023-01-28 | 4.76 | - |
 | 2023-01-30 | 4.75 | - |
 | 2023-02-01 | 4.76 | - |
+| 2023-02-02 | 4.75 | - |
