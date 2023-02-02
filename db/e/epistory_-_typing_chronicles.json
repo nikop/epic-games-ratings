@@ -1,10 +1,10 @@
 {
   "ID": "6a6d54e5b4ef4fb0b3dad1d02a320376",
   "Name": "Epistory - Typing Chronicles",
-  "Rating": 4.38,
+  "Rating": 4.39,
   "FirstSeen": "2023-01-19T18:58:26.8545883+00:00",
   "FirstSeenRating": "2023-01-21T18:58:09.3863297+00:00",
-  "LastChanged": "2023-02-01T14:57:43.3480443+00:00",
+  "LastChanged": "2023-02-02T14:58:12.5894156+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-21T18:58:09.3863299+00:00",
@@ -69,6 +69,11 @@
     {
       "Time": "2023-02-01T14:57:43.3480445+00:00",
       "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-02T14:58:12.5894159+00:00",
+      "Rating": 4.39,
       "NumberOfRatings": null
     }
   ],

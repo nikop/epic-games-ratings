@@ -217,7 +217,7 @@
 | 215 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 216 | [Encased](games/e/encased.md) | 4.37 | 
 | 217 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 218 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.38 | 
+| 218 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.39 | 
 | 219 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 220 | [EVE Online](games/e/eve_online.md) | 4.25 | 
 | 221 | [Everything](games/e/everything.md) | 4.62 | 
@@ -258,7 +258,7 @@
 | 256 | [Filament](games/f/filament.md) | 4.32 | 
 | 257 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 258 | [Firework](games/f/firework.md) | 4.89 | 
-| 259 | [First Class Trouble](games/f/first_class_trouble.md) | 4.53 | 
+| 259 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
 | 260 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 261 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 
 | 262 | [Flatout](games/f/flatout.md) | 4.13 | 
