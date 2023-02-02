@@ -549,6 +549,7 @@
 | 545 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
 | 545 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
 | 545 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
+| 550 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 
 | 550 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 550 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 550 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
@@ -560,19 +561,18 @@
 | 550 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
 | 550 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 550 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 561 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 561 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 561 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 561 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 561 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
-| 561 | [Weird West](games/w/weird_west.md) | 4.46 | 
-| 561 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
-| 561 | [Chorus](games/c/chorus.md) | 4.46 | 
-| 561 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 
-| 561 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
-| 561 | [Train Valley](games/t/train_valley.md) | 4.46 | 
-| 561 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 561 | [STG Football](games/s/stg_football.md) | 4.46 | 
+| 562 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 562 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
+| 562 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 562 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
+| 562 | [Weird West](games/w/weird_west.md) | 4.46 | 
+| 562 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
+| 562 | [Chorus](games/c/chorus.md) | 4.46 | 
+| 562 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 
+| 562 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
+| 562 | [Train Valley](games/t/train_valley.md) | 4.46 | 
+| 562 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 562 | [STG Football](games/s/stg_football.md) | 4.46 | 
 | 574 | [SMITE](games/s/smite.md) | 4.45 | 
 | 574 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 574 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
