@@ -267,7 +267,7 @@
 | 265 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 266 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 267 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 268 | [Forspoken](games/f/forspoken.md) | 3.85 | 
+| 268 | [Forspoken](games/f/forspoken.md) | 3.86 | 
 | 269 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 270 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 271 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
@@ -640,7 +640,7 @@
 | 638 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
 | 639 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
 | 640 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 641 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
+| 641 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
 | 642 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
 | 643 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.62 | 
 | 644 | [Starsand](games/s/starsand.md) | 4.21 | 
