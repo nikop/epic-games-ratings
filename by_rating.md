@@ -755,11 +755,11 @@
 | 753 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 753 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
 | 753 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 753 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
 | 753 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 753 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
-| 759 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 759 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
+| 758 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 758 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
+| 758 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 761 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 761 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
 | 761 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
