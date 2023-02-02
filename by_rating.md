@@ -350,7 +350,6 @@
 | 331 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 331 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
 | 331 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 331 | [DOOM 3](games/d/doom_3.md) | 4.61 | 
 | 331 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
 | 331 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
 | 331 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
@@ -359,22 +358,23 @@
 | 331 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 331 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
 | 331 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.61 | 
-| 360 | [Control](games/c/control.md) | 4.60 | 
-| 360 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
-| 360 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
-| 360 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 360 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
-| 360 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 360 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
-| 360 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 360 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 360 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
-| 360 | [Road 96](games/r/road_96.md) | 4.60 | 
-| 360 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 360 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.60 | 
-| 360 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
-| 360 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 360 | [NORCO](games/n/norco.md) | 4.60 | 
+| 359 | [Control](games/c/control.md) | 4.60 | 
+| 359 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
+| 359 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
+| 359 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 359 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
+| 359 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
+| 359 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
+| 359 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 359 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 359 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
+| 359 | [DOOM 3](games/d/doom_3.md) | 4.60 | 
+| 359 | [Road 96](games/r/road_96.md) | 4.60 | 
+| 359 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
+| 359 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.60 | 
+| 359 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.60 | 
+| 359 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
+| 359 | [NORCO](games/n/norco.md) | 4.60 | 
 | 376 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 376 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 376 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
@@ -697,19 +697,19 @@
 | 694 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 694 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
 | 694 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 698 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 698 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.33 | 
 | 698 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 698 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.33 | 
 | 698 | [Backbone](games/b/backbone.md) | 4.33 | 
 | 698 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
 | 698 | [Knockout City™](games/k/knockout_city™.md) | 4.33 | 
-| 705 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 705 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.32 | 
-| 705 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
-| 705 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
-| 705 | [Filament](games/f/filament.md) | 4.32 | 
-| 705 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
+| 704 | [Vampyr](games/v/vampyr.md) | 4.32 | 
+| 704 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
+| 704 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.32 | 
+| 704 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
+| 704 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
+| 704 | [Filament](games/f/filament.md) | 4.32 | 
+| 704 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
 | 711 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 711 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 711 | [BIOMUTANT](games/b/biomutant.md) | 4.31 | 
