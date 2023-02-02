@@ -258,7 +258,7 @@
 | 256 | [Filament](games/f/filament.md) | 4.32 | 
 | 257 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 258 | [Firework](games/f/firework.md) | 4.89 | 
-| 259 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
+| 259 | [First Class Trouble](games/f/first_class_trouble.md) | 4.53 | 
 | 260 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 261 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 
 | 262 | [Flatout](games/f/flatout.md) | 4.13 | 
@@ -315,7 +315,7 @@
 | 313 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
 | 314 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 315 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 316 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.44 | 
+| 316 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.41 | 
 | 317 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
 | 318 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 319 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
@@ -387,7 +387,7 @@
 | 385 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 386 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 387 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 388 | [Knockout City™](games/k/knockout_city™.md) | 4.43 | 
+| 388 | [Knockout City™](games/k/knockout_city™.md) | 4.33 | 
 | 389 | [Lake](games/l/lake.md) | 4.07 | 
 | 390 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 391 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
