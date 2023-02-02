@@ -1,10 +1,10 @@
 {
   "ID": "abda8262a7884126a637518b1b44a0f8",
   "Name": "Tortuga - A Pirate\u0027s Tale",
-  "Rating": 3.75,
+  "Rating": 3.76,
   "FirstSeen": "2023-01-19T15:57:46.7735502+00:00",
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
-  "LastChanged": "2023-02-02T17:57:47.6252564+00:00",
+  "LastChanged": "2023-02-02T21:57:20.030109+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-26T03:57:13.5091099+00:00",
@@ -54,6 +54,11 @@
     {
       "Time": "2023-02-02T17:57:47.6252567+00:00",
       "Rating": 3.75,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-02T21:57:20.0301092+00:00",
+      "Rating": 3.76,
       "NumberOfRatings": null
     }
   ],
