@@ -850,8 +850,8 @@
 | 848 | [Blood of Steel](games/b/blood_of_steel.md) | 3.88 | 
 | 849 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 850 | [Forspoken](games/f/forspoken.md) | 3.85 | 
-| 851 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
-| 851 | [Chimeraland](games/c/chimeraland.md) | 3.81 | 
+| 851 | [Chimeraland](games/c/chimeraland.md) | 3.84 | 
+| 852 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
 | 853 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 854 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 855 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
