@@ -724,16 +724,16 @@
 | 717 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
 | 723 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 723 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
-| 723 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 723 | [The Fall](games/t/the_fall.md) | 4.29 | 
 | 723 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
 | 723 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 723 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
 | 723 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 723 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 732 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 732 | [Dark Light](games/d/dark_light.md) | 4.28 | 
-| 732 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
+| 731 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 731 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 731 | [Dark Light](games/d/dark_light.md) | 4.28 | 
+| 731 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
 | 735 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 735 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 735 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
@@ -855,6 +855,6 @@
 | 853 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
 | 854 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 855 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
-| 856 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.74 | 
+| 855 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.75 | 
 | 857 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
 | 858 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 

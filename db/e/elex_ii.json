@@ -1,10 +1,10 @@
 {
   "ID": "75c06d52a99942e9884a47deced106bb",
   "Name": "ELEX II",
-  "Rating": 4.29,
+  "Rating": 4.28,
   "NumberOfRatings": 124,
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
-  "LastChanged": "2023-01-29T17:57:40.8372678+00:00",
+  "LastChanged": "2023-02-02T17:57:57.4505505+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:52.8123952+00:00",
@@ -409,6 +409,11 @@
     {
       "Time": "2023-01-29T17:57:40.837268+00:00",
       "Rating": 4.29,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-02T17:57:57.4505506+00:00",
+      "Rating": 4.28,
       "NumberOfRatings": null
     }
   ],
