@@ -854,7 +854,7 @@
 | 852 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
 | 853 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 853 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
-| 855 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.76 | 
+| 855 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.77 | 
 | 856 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 857 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
 | 858 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
