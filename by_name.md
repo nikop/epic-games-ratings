@@ -267,7 +267,7 @@
 | 265 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 266 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 267 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 268 | [Forspoken](games/f/forspoken.md) | 3.86 | 
+| 268 | [Forspoken](games/f/forspoken.md) | 3.92 | 
 | 269 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 270 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 271 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
@@ -519,7 +519,7 @@
 | 517 | [Pine](games/p/pine.md) | 4.15 | 
 | 518 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
 | 519 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 520 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.61 | 
+| 520 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.60 | 
 | 521 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 522 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 523 | [Predecessor](games/p/predecessor.md) | 4.43 | 

@@ -1,5 +1,5 @@
 # Potion Craft: Alchemist Simulator
-Rating: 4.61 (-)  (as of 23.09.2022)  
+Rating: 4.60 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -16,3 +16,4 @@ Rating: 4.61 (-)  (as of 23.09.2022)
 | 2023-01-18 | 4.59 | - |
 | 2023-01-20 | 4.60 | - |
 | 2023-01-31 | 4.61 | - |
+| 2023-02-03 | 4.60 | - |
