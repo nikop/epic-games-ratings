@@ -561,7 +561,7 @@
 | 559 | [Road 96](games/r/road_96.md) | 4.60 | 
 | 560 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
 | 561 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
-| 562 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 562 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
 | 563 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
 | 564 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
 | 565 | [Roguebook](games/r/roguebook.md) | 4.61 | 
