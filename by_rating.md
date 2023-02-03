@@ -509,22 +509,22 @@
 | 496 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 496 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 496 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 510 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 510 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 510 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 510 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 510 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
-| 510 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 510 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 510 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
-| 510 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
-| 510 | [The Surge](games/t/the_surge.md) | 4.50 | 
-| 510 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 510 | [Sable](games/s/sable.md) | 4.50 | 
-| 510 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 510 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
-| 510 | [IXION](games/i/ixion.md) | 4.50 | 
-| 510 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
+| 496 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
+| 511 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 511 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 511 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 511 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 511 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
+| 511 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 511 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 511 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
+| 511 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
+| 511 | [The Surge](games/t/the_surge.md) | 4.50 | 
+| 511 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 511 | [Sable](games/s/sable.md) | 4.50 | 
+| 511 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
+| 511 | [IXION](games/i/ixion.md) | 4.50 | 
+| 511 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 526 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 526 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 526 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -631,27 +631,27 @@
 | 618 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 618 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 618 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 618 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.41 | 
 | 618 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.41 | 
 | 618 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 618 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 
 | 618 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 636 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 636 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 636 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 636 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
-| 636 | [ELEX](games/e/elex.md) | 4.40 | 
-| 636 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 636 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 636 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 636 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
-| 636 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
-| 646 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 646 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 646 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
-| 646 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
-| 646 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
-| 646 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 646 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.39 | 
+| 637 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 637 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 637 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 637 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
+| 637 | [ELEX](games/e/elex.md) | 4.40 | 
+| 637 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 637 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 637 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 637 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
+| 637 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
+| 647 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 647 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 647 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
+| 647 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
+| 647 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
+| 647 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 653 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 653 | [Core](games/c/core.md) | 4.38 | 
 | 653 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 

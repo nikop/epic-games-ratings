@@ -217,7 +217,7 @@
 | 215 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 216 | [Encased](games/e/encased.md) | 4.37 | 
 | 217 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 218 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.39 | 
+| 218 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.41 | 
 | 219 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 220 | [EVE Online](games/e/eve_online.md) | 4.25 | 
 | 221 | [Everything](games/e/everything.md) | 4.62 | 
@@ -232,7 +232,7 @@
 | 230 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 231 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.75 | 
 | 232 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 233 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
+| 233 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
 | 234 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 
 | 235 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 236 | [Fangs](games/f/fangs.md) | 4.09 | 
