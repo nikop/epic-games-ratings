@@ -195,7 +195,7 @@
 | 193 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 194 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 195 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
-| 196 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 
+| 196 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
 | 197 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 198 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.38 | 
 | 199 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
@@ -249,7 +249,7 @@
 | 247 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 248 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
 | 249 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
-| 250 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
+| 250 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 251 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 252 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 
 | 253 | [Fez](games/f/fez.md) | 4.70 | 
