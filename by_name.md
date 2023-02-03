@@ -482,7 +482,7 @@
 | 480 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 481 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
 | 482 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
-| 483 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
+| 483 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
 | 484 | [Othercide](games/o/othercide.md) | 4.38 | 
 | 485 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 486 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.60 | 
@@ -527,7 +527,7 @@
 | 525 | [Prey](games/p/prey.md) | 4.62 | 
 | 526 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
 | 527 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.00 | 
-| 528 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 528 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.41 | 
 | 529 | [Quake](games/q/quake.md) | 4.77 | 
 | 530 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 531 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
@@ -561,7 +561,7 @@
 | 559 | [Road 96](games/r/road_96.md) | 4.60 | 
 | 560 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
 | 561 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
-| 562 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
+| 562 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 563 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
 | 564 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
 | 565 | [Roguebook](games/r/roguebook.md) | 4.61 | 

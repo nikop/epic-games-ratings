@@ -338,6 +338,7 @@
 | 331 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
 | 331 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 331 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 331 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 331 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 331 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 331 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
@@ -357,23 +358,22 @@
 | 331 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 
 | 331 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 331 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
-| 358 | [Control](games/c/control.md) | 4.60 | 
-| 358 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
-| 358 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
-| 358 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 358 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
-| 358 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 358 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
-| 358 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 358 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 358 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
-| 358 | [DOOM 3](games/d/doom_3.md) | 4.60 | 
-| 358 | [Road 96](games/r/road_96.md) | 4.60 | 
-| 358 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 358 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.60 | 
-| 358 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 358 | [NORCO](games/n/norco.md) | 4.60 | 
-| 358 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.60 | 
+| 359 | [Control](games/c/control.md) | 4.60 | 
+| 359 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
+| 359 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
+| 359 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 359 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
+| 359 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
+| 359 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 359 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 359 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
+| 359 | [DOOM 3](games/d/doom_3.md) | 4.60 | 
+| 359 | [Road 96](games/r/road_96.md) | 4.60 | 
+| 359 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
+| 359 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.60 | 
+| 359 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
+| 359 | [NORCO](games/n/norco.md) | 4.60 | 
+| 359 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.60 | 
 | 375 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 375 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 375 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
@@ -622,6 +622,7 @@
 | 618 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 618 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 618 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
+| 618 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.41 | 
 | 618 | [Good Company](games/g/good_company.md) | 4.41 | 
 | 618 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
 | 618 | [Tacoma](games/t/tacoma.md) | 4.41 | 
@@ -634,17 +635,16 @@
 | 618 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 618 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 
 | 618 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 635 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 635 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 635 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 635 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
-| 635 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 635 | [ELEX](games/e/elex.md) | 4.40 | 
-| 635 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 635 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 635 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 635 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
-| 635 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
+| 636 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 636 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 636 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 636 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
+| 636 | [ELEX](games/e/elex.md) | 4.40 | 
+| 636 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 636 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 636 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 636 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
+| 636 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
 | 646 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 646 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 646 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
@@ -852,8 +852,8 @@
 | 850 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 851 | [Chimeraland](games/c/chimeraland.md) | 3.84 | 
 | 852 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
-| 853 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.80 | 
-| 854 | [Saints Row](games/s/saints_row.md) | 3.78 | 
+| 853 | [Saints Row](games/s/saints_row.md) | 3.78 | 
+| 853 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
 | 855 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.76 | 
 | 856 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 857 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
