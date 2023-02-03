@@ -116,7 +116,7 @@
 | 114 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 115 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 116 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
-| 117 | [Chimeraland](games/c/chimeraland.md) | 3.84 | 
+| 117 | [Chimeraland](games/c/chimeraland.md) | 3.86 | 
 | 118 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 119 | [Chorus](games/c/chorus.md) | 4.46 | 
 | 120 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
@@ -161,7 +161,7 @@
 | 159 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 160 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 161 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
-| 162 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 
+| 162 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
 | 163 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 164 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
 | 165 | [Dauntless](games/d/dauntless.md) | 4.53 | 
@@ -571,7 +571,7 @@
 | 569 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 570 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 571 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 572 | [Sable](games/s/sable.md) | 4.51 | 
+| 572 | [Sable](games/s/sable.md) | 4.50 | 
 | 573 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.79 | 
 | 574 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 575 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 
@@ -591,7 +591,7 @@
 | 589 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 590 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 591 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 592 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.74 | 
+| 592 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.73 | 
 | 593 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 594 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
 | 595 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
