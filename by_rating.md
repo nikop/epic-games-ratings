@@ -545,21 +545,21 @@
 | 543 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 543 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 543 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
+| 543 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
 | 543 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
 | 543 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 543 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
-| 549 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 
-| 549 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
-| 549 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 549 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 549 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
-| 549 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.47 | 
-| 549 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 549 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
-| 549 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 549 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
-| 549 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
-| 549 | [Scorn](games/s/scorn.md) | 4.47 | 
+| 550 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 
+| 550 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
+| 550 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 550 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 550 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
+| 550 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.47 | 
+| 550 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
+| 550 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
+| 550 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
+| 550 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
+| 550 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 561 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 561 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
 | 561 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
@@ -656,6 +656,7 @@
 | 653 | [Core](games/c/core.md) | 4.38 | 
 | 653 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 653 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 653 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.38 | 
 | 653 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 653 | [Othercide](games/o/othercide.md) | 4.38 | 
 | 653 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
@@ -665,16 +666,15 @@
 | 653 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 653 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
 | 653 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 666 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 666 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 666 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 666 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 666 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
-| 666 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
-| 666 | [Encased](games/e/encased.md) | 4.37 | 
-| 666 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 666 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 666 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
+| 667 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 667 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 667 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 667 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 667 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 667 | [Encased](games/e/encased.md) | 4.37 | 
+| 667 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 667 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 667 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
 | 676 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 676 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 676 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
