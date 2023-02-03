@@ -153,7 +153,7 @@
 | 151 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 152 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.24 | 
 | 153 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 154 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 
+| 154 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
 | 155 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
 | 156 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 157 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
@@ -260,7 +260,7 @@
 | 258 | [Firework](games/f/firework.md) | 4.89 | 
 | 259 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
 | 260 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 261 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.58 | 
+| 261 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.57 | 
 | 262 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 263 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
 | 264 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
@@ -513,7 +513,7 @@
 | 511 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
 | 512 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 513 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 514 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 514 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 515 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 516 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 517 | [Pine](games/p/pine.md) | 4.15 | 
