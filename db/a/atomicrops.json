@@ -1,10 +1,10 @@
 {
   "ID": "ff1cd8b38bda4f6281879c9bdb228ff1",
   "Name": "Atomicrops",
-  "Rating": 4.87,
+  "Rating": 4.88,
   "NumberOfRatings": 157,
   "FirstSeen": "2022-07-22T20:22:16.7457184+00:00",
-  "LastChanged": "2023-01-14T16:57:19.6555876+00:00",
+  "LastChanged": "2023-02-04T06:57:27.3517831+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:16.7457187+00:00",
@@ -289,6 +289,11 @@
     {
       "Time": "2023-01-14T16:57:19.6555878+00:00",
       "Rating": 4.87,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-04T06:57:27.3517833+00:00",
+      "Rating": 4.88,
       "NumberOfRatings": null
     }
   ],
