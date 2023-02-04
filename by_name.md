@@ -781,7 +781,7 @@
 | 779 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
 | 780 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.04 | 
 | 781 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 782 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
+| 782 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
 | 783 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 784 | [Train Valley 2](games/t/train_valley_2.md) | 4.11 | 
 | 785 | [Transistor](games/t/transistor.md) | 4.63 | 
