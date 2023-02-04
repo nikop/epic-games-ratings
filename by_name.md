@@ -124,7 +124,7 @@
 | 122 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 123 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
 | 124 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 125 | [City of Gangsters](games/c/city_of_gangsters.md) | 3.98 | 
+| 125 | [City of Gangsters](games/c/city_of_gangsters.md) | 3.97 | 
 | 126 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 127 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
 | 128 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -196,7 +196,7 @@
 | 194 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 195 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 196 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
-| 197 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.41 | 
+| 197 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.40 | 
 | 198 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 199 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
 | 200 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
@@ -231,7 +231,7 @@
 | 229 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 230 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 231 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 232 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.75 | 
+| 232 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 233 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 234 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
 | 235 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
