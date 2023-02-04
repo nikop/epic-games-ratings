@@ -152,7 +152,7 @@
 | 150 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 
 | 151 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 152 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 153 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.24 | 
+| 153 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.26 | 
 | 154 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
 | 155 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
 | 156 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
@@ -250,7 +250,7 @@
 | 248 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 249 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
 | 250 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
-| 251 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
+| 251 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 252 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 253 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 
 | 254 | [Fez](games/f/fez.md) | 4.70 | 
@@ -323,7 +323,7 @@
 | 321 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
 | 322 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 323 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 324 | [High On Life](games/h/high_on_life.md) | 4.69 | 
+| 324 | [High On Life](games/h/high_on_life.md) | 4.68 | 
 | 325 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 326 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 327 | [Hob](games/h/hob.md) | 4.57 | 
