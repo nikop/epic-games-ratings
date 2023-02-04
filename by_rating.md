@@ -836,20 +836,20 @@
 | 834 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 835 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 835 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
-| 837 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 837 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.95 | 
-| 839 | [Conarium](games/c/conarium.md) | 3.94 | 
-| 839 | [Patron](games/p/patron.md) | 3.94 | 
-| 839 | [Forspoken](games/f/forspoken.md) | 3.94 | 
-| 839 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
-| 843 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
-| 843 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
-| 845 | [Warface](games/w/warface.md) | 3.92 | 
-| 846 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 846 | [Ironcast](games/i/ironcast.md) | 3.91 | 
-| 848 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.90 | 
-| 849 | [Blood of Steel](games/b/blood_of_steel.md) | 3.88 | 
-| 849 | [City of Gangsters](games/c/city_of_gangsters.md) | 3.88 | 
+| 835 | [City of Gangsters](games/c/city_of_gangsters.md) | 3.98 | 
+| 838 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
+| 838 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.95 | 
+| 840 | [Conarium](games/c/conarium.md) | 3.94 | 
+| 840 | [Patron](games/p/patron.md) | 3.94 | 
+| 840 | [Forspoken](games/f/forspoken.md) | 3.94 | 
+| 840 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
+| 844 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
+| 844 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
+| 846 | [Warface](games/w/warface.md) | 3.92 | 
+| 847 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 847 | [Ironcast](games/i/ironcast.md) | 3.91 | 
+| 849 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.90 | 
+| 850 | [Blood of Steel](games/b/blood_of_steel.md) | 3.88 | 
 | 851 | [Chimeraland](games/c/chimeraland.md) | 3.86 | 
 | 851 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 853 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 

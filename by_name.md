@@ -124,7 +124,7 @@
 | 122 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 123 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
 | 124 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 125 | [City of Gangsters](games/c/city_of_gangsters.md) | 3.88 | 
+| 125 | [City of Gangsters](games/c/city_of_gangsters.md) | 3.98 | 
 | 126 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 127 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
 | 128 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
