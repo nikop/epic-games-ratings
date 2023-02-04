@@ -1,10 +1,10 @@
 {
   "ID": "jaguar",
   "Name": "Subnautica",
-  "Rating": 4.85,
+  "Rating": 4.84,
   "NumberOfRatings": 7928,
   "FirstSeen": "2022-07-22T20:29:19.8641148+00:00",
-  "LastChanged": "2023-01-28T20:57:58.9097199+00:00",
+  "LastChanged": "2023-02-04T02:05:03.5628616+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:19.864115+00:00",
@@ -2769,6 +2769,11 @@
     {
       "Time": "2023-01-28T20:57:58.9097201+00:00",
       "Rating": 4.85,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-04T02:05:03.5628618+00:00",
+      "Rating": 4.84,
       "NumberOfRatings": null
     }
   ],
