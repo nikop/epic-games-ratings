@@ -90,7 +90,7 @@
 | 88 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 89 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 
 | 90 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 91 | [Blood of Steel](games/b/blood_of_steel.md) | 3.88 | 
+| 91 | [Blood of Steel](games/b/blood_of_steel.md) | 3.92 | 
 | 92 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 93 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 94 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -170,7 +170,7 @@
 | 168 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 169 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 170 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
-| 171 | [Dead Space](games/d/dead_space.md) | 4.57 | 
+| 171 | [Dead Space](games/d/dead_space.md) | 4.59 | 
 | 172 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 173 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 174 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
@@ -196,7 +196,7 @@
 | 194 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 195 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 196 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
-| 197 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
+| 197 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.41 | 
 | 198 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 199 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.38 | 
 | 200 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
@@ -613,7 +613,7 @@
 | 611 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 612 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 613 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 614 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
+| 614 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
 | 615 | [SMITE](games/s/smite.md) | 4.45 | 
 | 616 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 617 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
