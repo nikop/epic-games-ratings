@@ -277,7 +277,7 @@
 | 275 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 276 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 277 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 278 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 
+| 278 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 
 | 279 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 280 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 281 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
@@ -781,7 +781,7 @@
 | 779 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
 | 780 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.04 | 
 | 781 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 782 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 782 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
 | 783 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 784 | [Train Valley 2](games/t/train_valley_2.md) | 4.11 | 
 | 785 | [Transistor](games/t/transistor.md) | 4.63 | 
