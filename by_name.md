@@ -149,7 +149,7 @@
 | 147 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 148 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 149 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
-| 150 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 
+| 150 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 151 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 152 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 153 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.26 | 
@@ -388,7 +388,7 @@
 | 386 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 387 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 388 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 389 | [Knockout City™](games/k/knockout_city™.md) | 4.23 | 
+| 389 | [Knockout City™](games/k/knockout_city™.md) | 4.27 | 
 | 390 | [Lake](games/l/lake.md) | 4.07 | 
 | 391 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 392 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 

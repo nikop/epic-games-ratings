@@ -266,7 +266,6 @@
 | 257 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 257 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 257 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
-| 257 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 
 | 257 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 257 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
 | 257 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
@@ -278,19 +277,20 @@
 | 257 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 257 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
 | 257 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
-| 279 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 279 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 279 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 279 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 279 | [Crashlands](games/c/crashlands.md) | 4.65 | 
-| 279 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
-| 279 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
-| 279 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 279 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
-| 279 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
-| 279 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
-| 279 | [APE OUT](games/a/ape_out.md) | 4.65 | 
-| 279 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
+| 278 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 278 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 278 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 278 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 278 | [Crashlands](games/c/crashlands.md) | 4.65 | 
+| 278 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
+| 278 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
+| 278 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
+| 278 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 278 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
+| 278 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 278 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
+| 278 | [APE OUT](games/a/ape_out.md) | 4.65 | 
+| 278 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
 | 292 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 292 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 292 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
@@ -735,29 +735,29 @@
 | 730 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
 | 734 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 734 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
+| 734 | [Knockout City™](games/k/knockout_city™.md) | 4.27 | 
 | 734 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
-| 737 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 737 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
-| 737 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
-| 737 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
-| 737 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.26 | 
-| 737 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
-| 743 | [EVE Online](games/e/eve_online.md) | 4.25 | 
-| 743 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
-| 743 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 746 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 746 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
-| 746 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
-| 746 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
-| 746 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
-| 746 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
-| 752 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 752 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
-| 752 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 752 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
-| 752 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 752 | [Knockout City™](games/k/knockout_city™.md) | 4.23 | 
-| 752 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
+| 738 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 738 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
+| 738 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
+| 738 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
+| 738 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.26 | 
+| 738 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
+| 744 | [EVE Online](games/e/eve_online.md) | 4.25 | 
+| 744 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
+| 744 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 747 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
+| 747 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
+| 747 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
+| 747 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
+| 747 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
+| 747 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
+| 753 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 753 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
+| 753 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
+| 753 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
+| 753 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
+| 753 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
 | 759 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 759 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
 | 761 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
