@@ -118,7 +118,7 @@
 | 116 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
 | 117 | [Chimeraland](games/c/chimeraland.md) | 3.86 | 
 | 118 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 119 | [Chorus](games/c/chorus.md) | 4.46 | 
+| 119 | [Chorus](games/c/chorus.md) | 4.47 | 
 | 120 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
 | 121 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
 | 122 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
@@ -261,7 +261,7 @@
 | 259 | [Firework](games/f/firework.md) | 4.89 | 
 | 260 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
 | 261 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 262 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.57 | 
+| 262 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
 | 263 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 264 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
 | 265 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
@@ -354,7 +354,7 @@
 | 352 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 353 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 354 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 355 | [Iron Harvest](games/i/iron_harvest.md) | 4.37 | 
+| 355 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 356 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 357 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 358 | [IXION](games/i/ixion.md) | 4.50 | 
