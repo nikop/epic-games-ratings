@@ -697,18 +697,18 @@
 | 694 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 694 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
 | 694 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 698 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 698 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 698 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.33 | 
 | 698 | [Backbone](games/b/backbone.md) | 4.33 | 
 | 698 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
-| 703 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 703 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.32 | 
-| 703 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.32 | 
-| 703 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
-| 703 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
-| 703 | [Filament](games/f/filament.md) | 4.32 | 
-| 703 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
+| 702 | [Vampyr](games/v/vampyr.md) | 4.32 | 
+| 702 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
+| 702 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.32 | 
+| 702 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.32 | 
+| 702 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
+| 702 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
+| 702 | [Filament](games/f/filament.md) | 4.32 | 
+| 702 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
 | 710 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 710 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 710 | [BIOMUTANT](games/b/biomutant.md) | 4.31 | 
