@@ -113,7 +113,7 @@
 | 111 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 112 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 113 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 114 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
+| 114 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
 | 115 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 116 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
 | 117 | [Chimeraland](games/c/chimeraland.md) | 3.86 | 
@@ -268,7 +268,7 @@
 | 266 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 267 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 268 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 269 | [Forspoken](games/f/forspoken.md) | 3.92 | 
+| 269 | [Forspoken](games/f/forspoken.md) | 3.94 | 
 | 270 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 271 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 272 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
@@ -773,7 +773,7 @@
 | 771 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 772 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
 | 773 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 774 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
+| 774 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
 | 775 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
 | 776 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 777 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.33 | 

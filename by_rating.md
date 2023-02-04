@@ -599,6 +599,7 @@
 | 597 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 597 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 597 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 597 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
 | 597 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
 | 597 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
 | 597 | [Far Cry](games/f/far_cry.md) | 4.43 | 
@@ -607,16 +608,15 @@
 | 597 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
 | 597 | [Predecessor](games/p/predecessor.md) | 4.43 | 
 | 597 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
-| 608 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 608 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 608 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 608 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 608 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 608 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 608 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
-| 608 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
-| 608 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
-| 608 | [WRC Generations](games/w/wrc_generations.md) | 4.42 | 
+| 609 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 609 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 609 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 609 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 609 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 609 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 609 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
+| 609 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
+| 609 | [WRC Generations](games/w/wrc_generations.md) | 4.42 | 
 | 618 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 618 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 618 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
@@ -799,10 +799,10 @@
 | 796 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 796 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 796 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 800 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
-| 801 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
-| 801 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
-| 801 | [Flatout](games/f/flatout.md) | 4.13 | 
+| 800 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
+| 800 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
+| 800 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
+| 800 | [Flatout](games/f/flatout.md) | 4.13 | 
 | 804 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 805 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 805 | [Train Valley 2](games/t/train_valley_2.md) | 4.11 | 
@@ -840,11 +840,11 @@
 | 837 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.95 | 
 | 839 | [Conarium](games/c/conarium.md) | 3.94 | 
 | 839 | [Patron](games/p/patron.md) | 3.94 | 
+| 839 | [Forspoken](games/f/forspoken.md) | 3.94 | 
 | 839 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
-| 842 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
-| 842 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
-| 844 | [Warface](games/w/warface.md) | 3.92 | 
-| 844 | [Forspoken](games/f/forspoken.md) | 3.92 | 
+| 843 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
+| 843 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
+| 845 | [Warface](games/w/warface.md) | 3.92 | 
 | 846 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 846 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 848 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.90 | 
