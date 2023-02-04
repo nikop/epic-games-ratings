@@ -174,7 +174,6 @@
 | 166 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
 | 173 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 173 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 173 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
 | 173 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
 | 173 | [Barony](games/b/barony.md) | 4.71 | 
 | 173 | [Timberborn](games/t/timberborn.md) | 4.71 | 
@@ -188,22 +187,23 @@
 | 173 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 173 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
 | 173 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 189 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
-| 189 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 189 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
-| 189 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 189 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
-| 189 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 189 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
-| 189 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 189 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 189 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
-| 189 | [Fez](games/f/fez.md) | 4.70 | 
-| 189 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
-| 189 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 189 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
-| 189 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
-| 189 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
+| 188 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
+| 188 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
+| 188 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 188 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
+| 188 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 188 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
+| 188 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 188 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
+| 188 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 188 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
+| 188 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
+| 188 | [Fez](games/f/fez.md) | 4.70 | 
+| 188 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
+| 188 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 188 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
+| 188 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
+| 188 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 205 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 205 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 205 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
@@ -656,7 +656,6 @@
 | 652 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 652 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 652 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 652 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.38 | 
 | 652 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 652 | [Othercide](games/o/othercide.md) | 4.38 | 
 | 652 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
@@ -666,15 +665,16 @@
 | 652 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 652 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
 | 652 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 667 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 667 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 667 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 667 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 667 | [Encased](games/e/encased.md) | 4.37 | 
-| 667 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 667 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.37 | 
-| 667 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 667 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
+| 666 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 666 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 666 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 666 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 666 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
+| 666 | [Encased](games/e/encased.md) | 4.37 | 
+| 666 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 666 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.37 | 
+| 666 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 666 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
 | 676 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 676 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 676 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
@@ -778,14 +778,14 @@
 | 776 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 776 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 776 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 776 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 
 | 776 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 776 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
-| 781 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 781 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 781 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
-| 781 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
-| 781 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
-| 781 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
+| 782 | [Windbound](games/w/windbound.md) | 4.18 | 
+| 782 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 782 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
+| 782 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
+| 782 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
 | 787 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 787 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
 | 787 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
@@ -839,10 +839,10 @@
 | 835 | [City of Gangsters](games/c/city_of_gangsters.md) | 3.98 | 
 | 838 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 838 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.95 | 
-| 840 | [Conarium](games/c/conarium.md) | 3.94 | 
-| 840 | [Patron](games/p/patron.md) | 3.94 | 
-| 840 | [Forspoken](games/f/forspoken.md) | 3.94 | 
-| 840 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
+| 838 | [Forspoken](games/f/forspoken.md) | 3.95 | 
+| 841 | [Conarium](games/c/conarium.md) | 3.94 | 
+| 841 | [Patron](games/p/patron.md) | 3.94 | 
+| 841 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
 | 844 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
 | 844 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 846 | [Warface](games/w/warface.md) | 3.92 | 

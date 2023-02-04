@@ -1,10 +1,10 @@
 {
   "ID": "1200aeb2f87c48349594d96554e2833d",
   "Name": "Divine Knockout (DKO) - Starter Edition",
-  "Rating": 4.38,
+  "Rating": 4.37,
   "NumberOfRatings": 60,
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2023-02-03T17:57:43.4008737+00:00",
+  "LastChanged": "2023-02-04T17:57:41.0004961+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:52.9902409+00:00",
@@ -499,6 +499,11 @@
     {
       "Time": "2023-02-03T17:57:43.4008738+00:00",
       "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-04T17:57:41.0004962+00:00",
+      "Rating": 4.37,
       "NumberOfRatings": null
     }
   ],

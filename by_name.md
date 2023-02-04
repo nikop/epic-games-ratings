@@ -198,7 +198,7 @@
 | 196 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
 | 197 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.41 | 
 | 198 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 199 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.38 | 
+| 199 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
 | 200 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 201 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
 | 202 | [DOOM 3](games/d/doom_3.md) | 4.60 | 
@@ -225,7 +225,7 @@
 | 223 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 224 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.95 | 
 | 225 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 226 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
+| 226 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 
 | 227 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 228 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 
 | 229 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
@@ -250,7 +250,7 @@
 | 248 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 249 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
 | 250 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
-| 251 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.71 | 
+| 251 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
 | 252 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 253 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 
 | 254 | [Fez](games/f/fez.md) | 4.70 | 
@@ -268,7 +268,7 @@
 | 266 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 267 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 268 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 269 | [Forspoken](games/f/forspoken.md) | 3.94 | 
+| 269 | [Forspoken](games/f/forspoken.md) | 3.95 | 
 | 270 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 271 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 272 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
