@@ -41,21 +41,21 @@
 | 31 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 40 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 40 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 40 | [Subnautica](games/s/subnautica.md) | 4.85 | 
 | 40 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
 | 40 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
 | 40 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 40 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 40 | [Huntdown](games/h/huntdown.md) | 4.85 | 
 | 40 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 
-| 48 | [Subnautica](games/s/subnautica.md) | 4.84 | 
-| 48 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
-| 48 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
-| 48 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
-| 48 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
-| 48 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
-| 48 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
-| 48 | [Grindstone](games/g/grindstone.md) | 4.84 | 
-| 48 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
+| 49 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
+| 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
+| 49 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
+| 49 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
+| 49 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
+| 49 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
+| 49 | [Grindstone](games/g/grindstone.md) | 4.84 | 
+| 49 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
 | 57 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 57 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 57 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
@@ -607,16 +607,16 @@
 | 597 | [RiMS Racing](games/r/rims_racing.md) | 4.43 | 
 | 597 | [Predecessor](games/p/predecessor.md) | 4.43 | 
 | 597 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
-| 608 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 608 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 608 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 608 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 608 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 608 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 608 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
-| 608 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.42 | 
-| 608 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
-| 608 | [WRC Generations](games/w/wrc_generations.md) | 4.42 | 
+| 597 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 
+| 609 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 609 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 609 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 609 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 609 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 609 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 609 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
+| 609 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.42 | 
+| 609 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
 | 618 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 618 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 618 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
@@ -851,11 +851,11 @@
 | 848 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 850 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.90 | 
 | 851 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 852 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
-| 852 | [Chimeraland](games/c/chimeraland.md) | 3.81 | 
-| 854 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 854 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
-| 856 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.77 | 
+| 852 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.83 | 
+| 853 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
+| 853 | [Chimeraland](games/c/chimeraland.md) | 3.81 | 
+| 855 | [Saints Row](games/s/saints_row.md) | 3.78 | 
+| 855 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
 | 857 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 858 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
 | 859 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 

@@ -660,7 +660,7 @@
 | 658 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
 | 659 | [Submerged](games/s/submerged.md) | 4.16 | 
 | 660 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 661 | [Subnautica](games/s/subnautica.md) | 4.84 | 
+| 661 | [Subnautica](games/s/subnautica.md) | 4.85 | 
 | 662 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 663 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
 | 664 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
@@ -768,7 +768,7 @@
 | 766 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 767 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 768 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 769 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.77 | 
+| 769 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.83 | 
 | 770 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 771 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 772 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
@@ -849,7 +849,7 @@
 | 847 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
 | 848 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
 | 849 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 850 | [WRC Generations](games/w/wrc_generations.md) | 4.42 | 
+| 850 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 
 | 851 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
 | 852 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 853 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
