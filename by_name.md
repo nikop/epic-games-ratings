@@ -116,7 +116,7 @@
 | 114 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
 | 115 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 116 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
-| 117 | [Chimeraland](games/c/chimeraland.md) | 3.86 | 
+| 117 | [Chimeraland](games/c/chimeraland.md) | 3.81 | 
 | 118 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 119 | [Chorus](games/c/chorus.md) | 4.47 | 
 | 120 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
@@ -592,7 +592,7 @@
 | 590 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 591 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 592 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 593 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.73 | 
+| 593 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.74 | 
 | 594 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 595 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
 | 596 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
