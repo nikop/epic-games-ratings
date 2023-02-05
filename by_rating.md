@@ -64,20 +64,20 @@
 | 61 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 61 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 61 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
-| 61 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.82 | 
 | 61 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 61 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
-| 68 | [Sifu](games/s/sifu.md) | 4.81 | 
-| 68 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 68 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 68 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.81 | 
-| 68 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
-| 68 | [Superliminal](games/s/superliminal.md) | 4.81 | 
-| 68 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
-| 68 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
-| 68 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
-| 68 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
-| 68 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
+| 67 | [Sifu](games/s/sifu.md) | 4.81 | 
+| 67 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 67 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.81 | 
+| 67 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 67 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.81 | 
+| 67 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
+| 67 | [Superliminal](games/s/superliminal.md) | 4.81 | 
+| 67 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
+| 67 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
+| 67 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
+| 67 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
+| 67 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
 | 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 79 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
@@ -356,25 +356,25 @@
 | 332 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
 | 332 | [Roguebook](games/r/roguebook.md) | 4.61 | 
 | 332 | [Darkwood](games/d/darkwood.md) | 4.61 | 
+| 332 | [Dead Space](games/d/dead_space.md) | 4.61 | 
 | 332 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
-| 358 | [Control](games/c/control.md) | 4.60 | 
-| 358 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
-| 358 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
-| 358 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 358 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
-| 358 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 358 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
-| 358 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 358 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 358 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
-| 358 | [DOOM 3](games/d/doom_3.md) | 4.60 | 
-| 358 | [Road 96](games/r/road_96.md) | 4.60 | 
-| 358 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 358 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.60 | 
-| 358 | [Dead Space](games/d/dead_space.md) | 4.60 | 
-| 358 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 358 | [NORCO](games/n/norco.md) | 4.60 | 
-| 358 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.60 | 
+| 359 | [Control](games/c/control.md) | 4.60 | 
+| 359 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
+| 359 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
+| 359 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 359 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
+| 359 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
+| 359 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
+| 359 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 359 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 359 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
+| 359 | [DOOM 3](games/d/doom_3.md) | 4.60 | 
+| 359 | [Road 96](games/r/road_96.md) | 4.60 | 
+| 359 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
+| 359 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.60 | 
+| 359 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
+| 359 | [NORCO](games/n/norco.md) | 4.60 | 
+| 359 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.60 | 
 | 376 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 376 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 376 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 

@@ -171,7 +171,7 @@
 | 169 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 170 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 171 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
-| 172 | [Dead Space](games/d/dead_space.md) | 4.60 | 
+| 172 | [Dead Space](games/d/dead_space.md) | 4.61 | 
 | 173 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 174 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 175 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
@@ -626,7 +626,7 @@
 | 624 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 625 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
 | 626 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 627 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.82 | 
+| 627 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.81 | 
 | 628 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.81 | 
 | 629 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 630 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
