@@ -179,6 +179,7 @@
 | 173 | [Timberborn](games/t/timberborn.md) | 4.71 | 
 | 173 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 173 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
+| 173 | [Fez](games/f/fez.md) | 4.71 | 
 | 173 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 173 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
 | 173 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
@@ -187,23 +188,22 @@
 | 173 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 173 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
 | 173 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 188 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
-| 188 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
-| 188 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 188 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
-| 188 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 188 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
-| 188 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 188 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
-| 188 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 188 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 188 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
-| 188 | [Fez](games/f/fez.md) | 4.70 | 
-| 188 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
-| 188 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 188 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
-| 188 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
-| 188 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
+| 189 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
+| 189 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
+| 189 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 189 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
+| 189 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 189 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
+| 189 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 189 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
+| 189 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 189 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
+| 189 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
+| 189 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
+| 189 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 189 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
+| 189 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
+| 189 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 205 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 205 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 205 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
@@ -616,36 +616,36 @@
 | 608 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 608 | [Far Cry](games/f/far_cry.md) | 4.42 | 
 | 608 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
+| 608 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 
 | 608 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
-| 618 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
-| 618 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 618 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 618 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 618 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
-| 618 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.41 | 
-| 618 | [Good Company](games/g/good_company.md) | 4.41 | 
-| 618 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
-| 618 | [Tacoma](games/t/tacoma.md) | 4.41 | 
-| 618 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
-| 618 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 618 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 618 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 618 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 618 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.41 | 
-| 618 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 618 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 
-| 618 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 636 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 636 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 636 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 636 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
-| 636 | [ELEX](games/e/elex.md) | 4.40 | 
-| 636 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
-| 636 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 636 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 636 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.40 | 
-| 636 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
-| 636 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
+| 619 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
+| 619 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 619 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
+| 619 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
+| 619 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
+| 619 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.41 | 
+| 619 | [Good Company](games/g/good_company.md) | 4.41 | 
+| 619 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
+| 619 | [Tacoma](games/t/tacoma.md) | 4.41 | 
+| 619 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
+| 619 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
+| 619 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 619 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
+| 619 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 619 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.41 | 
+| 619 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 619 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 
+| 619 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
+| 637 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 637 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 637 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 637 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
+| 637 | [ELEX](games/e/elex.md) | 4.40 | 
+| 637 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 637 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 637 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 637 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
+| 637 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
 | 647 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 647 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 647 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
@@ -725,16 +725,16 @@
 | 718 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
 | 724 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 724 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 724 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 724 | [The Fall](games/t/the_fall.md) | 4.29 | 
 | 724 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
 | 724 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 724 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
 | 724 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 724 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 732 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 732 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
-| 732 | [Dark Light](games/d/dark_light.md) | 4.28 | 
-| 732 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
+| 733 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 733 | [Dark Light](games/d/dark_light.md) | 4.28 | 
+| 733 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
 | 736 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 736 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 736 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 

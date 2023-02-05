@@ -197,7 +197,7 @@
 | 195 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 196 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 197 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
-| 198 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.40 | 
+| 198 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 
 | 199 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 200 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
 | 201 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
@@ -214,7 +214,7 @@
 | 212 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 213 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 214 | [ELEX](games/e/elex.md) | 4.40 | 
-| 215 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 215 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 216 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 217 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 218 | [Encased](games/e/encased.md) | 4.37 | 
@@ -254,7 +254,7 @@
 | 252 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
 | 253 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 254 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 
-| 255 | [Fez](games/f/fez.md) | 4.70 | 
+| 255 | [Fez](games/f/fez.md) | 4.71 | 
 | 256 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
 | 257 | [Figment](games/f/figment.md) | 4.45 | 
 | 258 | [Filament](games/f/filament.md) | 4.32 | 
