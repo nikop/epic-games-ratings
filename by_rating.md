@@ -509,21 +509,21 @@
 | 496 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 496 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 496 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 496 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
-| 511 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 511 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 511 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 511 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 511 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
-| 511 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 511 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 511 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
-| 511 | [The Surge](games/t/the_surge.md) | 4.50 | 
-| 511 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 511 | [Sable](games/s/sable.md) | 4.50 | 
-| 511 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 511 | [IXION](games/i/ixion.md) | 4.50 | 
-| 511 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
+| 510 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 510 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 510 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 510 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 510 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
+| 510 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 510 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 510 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
+| 510 | [The Surge](games/t/the_surge.md) | 4.50 | 
+| 510 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 510 | [Sable](games/s/sable.md) | 4.50 | 
+| 510 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
+| 510 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
+| 510 | [IXION](games/i/ixion.md) | 4.50 | 
+| 510 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 525 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 525 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 525 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -615,27 +615,27 @@
 | 607 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 607 | [Far Cry](games/f/far_cry.md) | 4.42 | 
 | 607 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
-| 607 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 
 | 607 | [Predecessor](games/p/predecessor.md) | 4.42 | 
 | 607 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
-| 619 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
-| 619 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 619 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 619 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 619 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
-| 619 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.41 | 
-| 619 | [Good Company](games/g/good_company.md) | 4.41 | 
-| 619 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
-| 619 | [Tacoma](games/t/tacoma.md) | 4.41 | 
-| 619 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
-| 619 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 619 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 619 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 619 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 619 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.41 | 
-| 619 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 619 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 
-| 619 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
+| 618 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
+| 618 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 618 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
+| 618 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
+| 618 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
+| 618 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.41 | 
+| 618 | [Good Company](games/g/good_company.md) | 4.41 | 
+| 618 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
+| 618 | [Tacoma](games/t/tacoma.md) | 4.41 | 
+| 618 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
+| 618 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
+| 618 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 618 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
+| 618 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 618 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.41 | 
+| 618 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.41 | 
+| 618 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 618 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 
+| 618 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
 | 637 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 637 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 637 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
@@ -756,11 +756,11 @@
 | 754 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 754 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
 | 754 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 754 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
 | 754 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 754 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
-| 760 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 760 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
+| 759 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 759 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
+| 759 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 762 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 762 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
 | 762 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
