@@ -96,7 +96,7 @@
 | 94 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 95 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 96 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 97 | [Brawlhalla](games/b/brawlhalla.md) | 4.54 | 
+| 97 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 
 | 98 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 99 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 100 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -413,7 +413,7 @@
 | 411 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 412 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 413 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
-| 414 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.04 | 
+| 414 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.05 | 
 | 415 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
 | 416 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 417 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
