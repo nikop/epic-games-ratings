@@ -1,14 +1,19 @@
 {
   "ID": "2a14cf8a83b149919a2399504e5686a6",
   "Name": "The Sims\u2122 4",
-  "Rating": 4.57,
+  "Rating": 4.54,
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-02-05T14:56:53.5654685+00:00",
+  "LastChanged": "2023-02-05T22:56:48.9351167+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-05T14:56:53.5654686+00:00",
       "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-05T22:56:48.9351169+00:00",
+      "Rating": 4.54,
       "NumberOfRatings": null
     }
   ],

@@ -81,7 +81,7 @@
 | 79 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
 | 80 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 81 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 82 | [BIOMUTANT](games/b/biomutant.md) | 4.31 | 
+| 82 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
 | 83 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 84 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 85 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
@@ -729,7 +729,7 @@
 | 727 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 728 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 729 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 730 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
+| 730 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.54 | 
 | 731 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 732 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 733 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
