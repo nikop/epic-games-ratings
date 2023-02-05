@@ -596,7 +596,6 @@
 | 585 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 585 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
 | 585 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
-| 597 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 597 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 597 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 597 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
@@ -608,15 +607,16 @@
 | 597 | [Predecessor](games/p/predecessor.md) | 4.43 | 
 | 597 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 597 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 
-| 609 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 609 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 609 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 609 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 609 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 609 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 609 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
-| 609 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.42 | 
-| 609 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
+| 608 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 608 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 608 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 608 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 608 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 608 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 608 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 608 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
+| 608 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.42 | 
+| 608 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
 | 618 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 618 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 618 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
