@@ -209,7 +209,7 @@
 | 207 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 208 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 209 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 210 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
+| 210 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
 | 211 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 212 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 213 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -318,7 +318,7 @@
 | 316 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 317 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 318 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.37 | 
-| 319 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.50 | 
+| 319 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
 | 320 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 321 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
 | 322 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
@@ -406,7 +406,7 @@
 | 404 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 405 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 406 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
-| 407 | [Limbo](games/l/limbo.md) | 4.64 | 
+| 407 | [Limbo](games/l/limbo.md) | 4.63 | 
 | 408 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
 | 409 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
 | 410 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
