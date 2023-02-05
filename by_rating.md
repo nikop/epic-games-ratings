@@ -807,15 +807,15 @@
 | 805 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 806 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 806 | [Train Valley 2](games/t/train_valley_2.md) | 4.11 | 
-| 806 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
-| 809 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.10 | 
-| 809 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 809 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
-| 809 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
-| 809 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 809 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
-| 809 | [Hell is Others](games/h/hell_is_others.md) | 4.10 | 
-| 809 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
+| 808 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.10 | 
+| 808 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 808 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
+| 808 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
+| 808 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
+| 808 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 808 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
+| 808 | [Hell is Others](games/h/hell_is_others.md) | 4.10 | 
+| 808 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 817 | [Fangs](games/f/fangs.md) | 4.09 | 
 | 818 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 818 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
