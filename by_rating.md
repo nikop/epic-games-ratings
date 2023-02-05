@@ -755,11 +755,11 @@
 | 753 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 753 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
 | 753 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 753 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
 | 753 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 753 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
-| 759 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 759 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
+| 758 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 758 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
+| 758 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 761 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 761 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
 | 761 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
@@ -836,19 +836,19 @@
 | 834 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 835 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 835 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
-| 835 | [City of Gangsters](games/c/city_of_gangsters.md) | 3.98 | 
-| 838 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 838 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.95 | 
-| 838 | [Forspoken](games/f/forspoken.md) | 3.95 | 
-| 841 | [Conarium](games/c/conarium.md) | 3.94 | 
-| 841 | [Patron](games/p/patron.md) | 3.94 | 
-| 841 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
-| 844 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
-| 844 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
-| 846 | [Warface](games/w/warface.md) | 3.92 | 
-| 846 | [Blood of Steel](games/b/blood_of_steel.md) | 3.92 | 
-| 848 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 848 | [Ironcast](games/i/ironcast.md) | 3.91 | 
+| 837 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
+| 837 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.95 | 
+| 837 | [Forspoken](games/f/forspoken.md) | 3.95 | 
+| 840 | [Conarium](games/c/conarium.md) | 3.94 | 
+| 840 | [Patron](games/p/patron.md) | 3.94 | 
+| 840 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
+| 843 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
+| 843 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
+| 845 | [Warface](games/w/warface.md) | 3.92 | 
+| 845 | [Blood of Steel](games/b/blood_of_steel.md) | 3.92 | 
+| 847 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 847 | [Ironcast](games/i/ironcast.md) | 3.91 | 
+| 847 | [City of Gangsters](games/c/city_of_gangsters.md) | 3.91 | 
 | 850 | [Banished](games/b/banished.md) | 3.90 | 
 | 850 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.90 | 
 | 852 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
