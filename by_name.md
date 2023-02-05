@@ -389,7 +389,7 @@
 | 387 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 388 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 389 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 390 | [Knockout City™](games/k/knockout_city™.md) | 4.27 | 
+| 390 | [Knockout City™](games/k/knockout_city™.md) | 4.33 | 
 | 391 | [Lake](games/l/lake.md) | 4.07 | 
 | 392 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 393 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
@@ -413,7 +413,7 @@
 | 411 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 412 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
 | 413 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.04 | 
-| 414 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.52 | 
+| 414 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
 | 415 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 416 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 417 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 

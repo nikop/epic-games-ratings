@@ -484,16 +484,16 @@
 | 467 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 467 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 467 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
-| 485 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 485 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 485 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 485 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 485 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 485 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 485 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 485 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.52 | 
-| 485 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 485 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 467 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
+| 486 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 486 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 486 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 486 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 486 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 486 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 486 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 486 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 486 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 495 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 495 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 495 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
@@ -701,42 +701,42 @@
 | 698 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.33 | 
 | 698 | [Backbone](games/b/backbone.md) | 4.33 | 
 | 698 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
-| 702 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 702 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
-| 702 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.32 | 
-| 702 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.32 | 
-| 702 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
-| 702 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
-| 702 | [Filament](games/f/filament.md) | 4.32 | 
-| 702 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
-| 710 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
-| 710 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 710 | [BIOMUTANT](games/b/biomutant.md) | 4.31 | 
-| 710 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
-| 710 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 
-| 710 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.31 | 
-| 716 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 716 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
-| 716 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 716 | [House Party](games/h/house_party.md) | 4.30 | 
-| 716 | [Parkitect](games/p/parkitect.md) | 4.30 | 
-| 716 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
-| 722 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 722 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
-| 722 | [The Fall](games/t/the_fall.md) | 4.29 | 
-| 722 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
-| 722 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
-| 722 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
-| 722 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
-| 722 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 730 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 730 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
-| 730 | [Dark Light](games/d/dark_light.md) | 4.28 | 
-| 730 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
-| 734 | [Steelrising](games/s/steelrising.md) | 4.27 | 
-| 734 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
-| 734 | [Knockout City™](games/k/knockout_city™.md) | 4.27 | 
-| 734 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
+| 698 | [Knockout City™](games/k/knockout_city™.md) | 4.33 | 
+| 703 | [Vampyr](games/v/vampyr.md) | 4.32 | 
+| 703 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
+| 703 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.32 | 
+| 703 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.32 | 
+| 703 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
+| 703 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
+| 703 | [Filament](games/f/filament.md) | 4.32 | 
+| 703 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
+| 711 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
+| 711 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 711 | [BIOMUTANT](games/b/biomutant.md) | 4.31 | 
+| 711 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
+| 711 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 
+| 711 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.31 | 
+| 717 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 717 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
+| 717 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
+| 717 | [House Party](games/h/house_party.md) | 4.30 | 
+| 717 | [Parkitect](games/p/parkitect.md) | 4.30 | 
+| 717 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
+| 723 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
+| 723 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 723 | [The Fall](games/t/the_fall.md) | 4.29 | 
+| 723 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
+| 723 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
+| 723 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
+| 723 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 723 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
+| 731 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 731 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 731 | [Dark Light](games/d/dark_light.md) | 4.28 | 
+| 731 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
+| 735 | [Steelrising](games/s/steelrising.md) | 4.27 | 
+| 735 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
+| 735 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
 | 738 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 738 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
 | 738 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
