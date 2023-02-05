@@ -314,7 +314,7 @@
 | 312 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
 | 313 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 314 | [Haven](games/h/haven.md) | 4.75 | 
-| 315 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 
+| 315 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 316 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 317 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 318 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.37 | 
