@@ -91,7 +91,7 @@
 | 89 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 90 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 
 | 91 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 92 | [Blood of Steel](games/b/blood_of_steel.md) | 3.92 | 
+| 92 | [Blood of Steel](games/b/blood_of_steel.md) | 3.96 | 
 | 93 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 94 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 95 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -758,7 +758,7 @@
 | 756 | [Timberborn](games/t/timberborn.md) | 4.71 | 
 | 757 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
 | 758 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 759 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
+| 759 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
 | 760 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
 | 761 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 762 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 

@@ -249,6 +249,7 @@
 | 242 | [Overcooked](games/o/overcooked.md) | 4.67 | 
 | 242 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 242 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
+| 242 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
 | 242 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 242 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
 | 242 | [Eastward](games/e/eastward.md) | 4.67 | 
@@ -256,27 +257,26 @@
 | 242 | [Card Shark](games/c/card_shark.md) | 4.67 | 
 | 242 | [GNOG](games/g/gnog.md) | 4.67 | 
 | 242 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
-| 257 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 257 | [Trackmania](games/t/trackmania.md) | 4.66 | 
-| 257 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 257 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 257 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 257 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
-| 257 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
-| 257 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
-| 257 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
-| 257 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
-| 257 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 257 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
-| 257 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 
-| 257 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
-| 257 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 257 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
-| 257 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
-| 257 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 257 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 257 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
-| 257 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
+| 258 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 258 | [Trackmania](games/t/trackmania.md) | 4.66 | 
+| 258 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 258 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 258 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 258 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
+| 258 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
+| 258 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 258 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
+| 258 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
+| 258 | [Death's Door](games/d/death's_door.md) | 4.66 | 
+| 258 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
+| 258 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
+| 258 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 258 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
+| 258 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
+| 258 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 258 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 258 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
+| 258 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
 | 278 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 278 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 278 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
@@ -836,16 +836,16 @@
 | 834 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 835 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 835 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
-| 837 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 837 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.95 | 
-| 837 | [Forspoken](games/f/forspoken.md) | 3.95 | 
-| 840 | [Conarium](games/c/conarium.md) | 3.94 | 
-| 840 | [Patron](games/p/patron.md) | 3.94 | 
-| 840 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
-| 843 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
-| 843 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
-| 845 | [Warface](games/w/warface.md) | 3.92 | 
-| 845 | [Blood of Steel](games/b/blood_of_steel.md) | 3.92 | 
+| 837 | [Blood of Steel](games/b/blood_of_steel.md) | 3.96 | 
+| 838 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
+| 838 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.95 | 
+| 838 | [Forspoken](games/f/forspoken.md) | 3.95 | 
+| 841 | [Conarium](games/c/conarium.md) | 3.94 | 
+| 841 | [Patron](games/p/patron.md) | 3.94 | 
+| 841 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
+| 844 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
+| 844 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
+| 846 | [Warface](games/w/warface.md) | 3.92 | 
 | 847 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 847 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 847 | [City of Gangsters](games/c/city_of_gangsters.md) | 3.91 | 
