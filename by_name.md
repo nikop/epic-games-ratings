@@ -150,7 +150,7 @@
 | 148 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 149 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 150 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
-| 151 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 151 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 
 | 152 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 153 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 154 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.26 | 
@@ -525,7 +525,7 @@
 | 523 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.60 | 
 | 524 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 525 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 526 | [Predecessor](games/p/predecessor.md) | 4.43 | 
+| 526 | [Predecessor](games/p/predecessor.md) | 4.42 | 
 | 527 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 528 | [Prey](games/p/prey.md) | 4.62 | 
 | 529 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
@@ -787,7 +787,7 @@
 | 785 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
 | 786 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 787 | [Train Valley 2](games/t/train_valley_2.md) | 4.11 | 
-| 788 | [Transistor](games/t/transistor.md) | 4.63 | 
+| 788 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 789 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
 | 790 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 791 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
@@ -830,7 +830,7 @@
 | 828 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 829 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 830 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 831 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.32 | 
+| 831 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.33 | 
 | 832 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 833 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
 | 834 | [Weird West](games/w/weird_west.md) | 4.46 | 
