@@ -387,47 +387,47 @@
 | 376 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
 | 376 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 376 | [Breathedge](games/b/breathedge.md) | 4.59 | 
+| 376 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 376 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 
 | 376 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
 | 376 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 376 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.59 | 
-| 392 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
-| 392 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 392 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 392 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
-| 392 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 392 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 392 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 392 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
-| 392 | [Moving Out](games/m/moving_out.md) | 4.58 | 
-| 392 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 392 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 
-| 392 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
-| 392 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
-| 392 | [RiME](games/r/rime.md) | 4.58 | 
-| 392 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 392 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
-| 392 | [Redout 2](games/r/redout_2.md) | 4.58 | 
-| 409 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 409 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 409 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 409 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
-| 409 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.57 | 
-| 409 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 409 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
-| 409 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
-| 409 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 409 | [Hob](games/h/hob.md) | 4.57 | 
-| 409 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 409 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
-| 409 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
-| 409 | [Isonzo](games/i/isonzo.md) | 4.57 | 
-| 409 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 409 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 
-| 409 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.57 | 
-| 409 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
-| 409 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
-| 409 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
+| 393 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
+| 393 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 393 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 393 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
+| 393 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 393 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
+| 393 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 393 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
+| 393 | [Moving Out](games/m/moving_out.md) | 4.58 | 
+| 393 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
+| 393 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 
+| 393 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
+| 393 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
+| 393 | [RiME](games/r/rime.md) | 4.58 | 
+| 393 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
+| 393 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
+| 393 | [Redout 2](games/r/redout_2.md) | 4.58 | 
+| 410 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 410 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 410 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 410 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
+| 410 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.57 | 
+| 410 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 410 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 410 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
+| 410 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 410 | [Hob](games/h/hob.md) | 4.57 | 
+| 410 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 410 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 410 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
+| 410 | [Isonzo](games/i/isonzo.md) | 4.57 | 
+| 410 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 410 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 
+| 410 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.57 | 
+| 410 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
+| 410 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
 | 429 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 429 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
 | 429 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 

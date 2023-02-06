@@ -127,7 +127,7 @@
 | 125 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
 | 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 3.91 | 
 | 127 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
-| 128 | [Colt Canyon](games/c/colt_canyon.md) | 4.57 | 
+| 128 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 129 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 130 | [Conarium](games/c/conarium.md) | 3.94 | 
 | 131 | [Control](games/c/control.md) | 4.60 | 
