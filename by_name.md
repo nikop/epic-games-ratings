@@ -179,7 +179,7 @@
 | 177 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
 | 178 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
 | 179 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 180 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.63 | 
+| 180 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.64 | 
 | 181 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 182 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 183 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
@@ -219,7 +219,7 @@
 | 217 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 218 | [Encased](games/e/encased.md) | 4.37 | 
 | 219 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 220 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.41 | 
+| 220 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.42 | 
 | 221 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 222 | [EVE Online](games/e/eve_online.md) | 4.25 | 
 | 223 | [Everything](games/e/everything.md) | 4.62 | 

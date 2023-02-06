@@ -300,19 +300,19 @@
 | 292 | [SOMA](games/s/soma.md) | 4.64 | 
 | 292 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 292 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
+| 292 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.64 | 
 | 292 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
 | 292 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
-| 303 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 303 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 303 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 303 | [Limbo](games/l/limbo.md) | 4.63 | 
-| 303 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 303 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
-| 303 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 303 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 303 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.63 | 
-| 303 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
-| 303 | [GigaBash](games/g/gigabash.md) | 4.63 | 
+| 304 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 304 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 304 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 304 | [Limbo](games/l/limbo.md) | 4.63 | 
+| 304 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 304 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
+| 304 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
+| 304 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 304 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
+| 304 | [GigaBash](games/g/gigabash.md) | 4.63 | 
 | 314 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 314 | [Prey](games/p/prey.md) | 4.62 | 
 | 314 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
@@ -616,28 +616,28 @@
 | 609 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 609 | [Far Cry](games/f/far_cry.md) | 4.42 | 
 | 609 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
+| 609 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.42 | 
 | 609 | [Predecessor](games/p/predecessor.md) | 4.42 | 
 | 609 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
-| 619 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
-| 619 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 619 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 619 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 619 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
-| 619 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.41 | 
-| 619 | [Good Company](games/g/good_company.md) | 4.41 | 
-| 619 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
-| 619 | [Tacoma](games/t/tacoma.md) | 4.41 | 
-| 619 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
-| 619 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 
-| 619 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 619 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 619 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 619 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 619 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.41 | 
-| 619 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.41 | 
-| 619 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 619 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 
-| 619 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
+| 620 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
+| 620 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 620 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
+| 620 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
+| 620 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
+| 620 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.41 | 
+| 620 | [Good Company](games/g/good_company.md) | 4.41 | 
+| 620 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
+| 620 | [Tacoma](games/t/tacoma.md) | 4.41 | 
+| 620 | [ATOM RPG](games/a/atom_rpg.md) | 4.41 | 
+| 620 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 
+| 620 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
+| 620 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 620 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
+| 620 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 620 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.41 | 
+| 620 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 620 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 
+| 620 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
 | 639 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 639 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 639 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
