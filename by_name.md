@@ -459,7 +459,7 @@
 | 457 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
 | 458 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
 | 459 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 460 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
+| 460 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
 | 461 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 462 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 
 | 463 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
@@ -642,7 +642,7 @@
 | 640 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
 | 641 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
 | 642 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
-| 643 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
+| 643 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 644 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
 | 645 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
 | 646 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.62 | 
@@ -729,11 +729,11 @@
 | 727 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 728 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 729 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 730 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.49 | 
+| 730 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.50 | 
 | 731 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 732 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 733 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
-| 734 | [The Surge](games/t/the_surge.md) | 4.50 | 
+| 734 | [The Surge](games/t/the_surge.md) | 4.49 | 
 | 735 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
 | 736 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 737 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 

@@ -516,13 +516,13 @@
 | 509 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 509 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 509 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
-| 509 | [The Surge](games/t/the_surge.md) | 4.50 | 
 | 509 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 509 | [Sable](games/s/sable.md) | 4.50 | 
 | 509 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 509 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
 | 509 | [IXION](games/i/ixion.md) | 4.50 | 
 | 509 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
+| 509 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.50 | 
 | 524 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 524 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 524 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -535,6 +535,7 @@
 | 524 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 524 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
 | 524 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
+| 524 | [The Surge](games/t/the_surge.md) | 4.49 | 
 | 524 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
 | 524 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 524 | [CryoFall](games/c/cryofall.md) | 4.49 | 
@@ -542,7 +543,6 @@
 | 524 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 524 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
 | 524 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
-| 524 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.49 | 
 | 544 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 544 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 544 | [Paradigm](games/p/paradigm.md) | 4.48 | 
@@ -636,16 +636,16 @@
 | 620 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 620 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 620 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 
-| 620 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 
-| 638 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 638 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 638 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 638 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
-| 638 | [ELEX](games/e/elex.md) | 4.40 | 
-| 638 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 638 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 638 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.40 | 
-| 638 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
+| 637 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 637 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 637 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 637 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
+| 637 | [ELEX](games/e/elex.md) | 4.40 | 
+| 637 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 637 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 637 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.40 | 
+| 637 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
+| 637 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 647 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 647 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 647 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
@@ -807,15 +807,15 @@
 | 803 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 806 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 807 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
+| 807 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
 | 807 | [Train Valley 2](games/t/train_valley_2.md) | 4.11 | 
-| 809 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.10 | 
-| 809 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 809 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.10 | 
-| 809 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
-| 809 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
-| 809 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 809 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
-| 809 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
+| 810 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.10 | 
+| 810 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 810 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
+| 810 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
+| 810 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 810 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
+| 810 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 817 | [Fangs](games/f/fangs.md) | 4.09 | 
 | 818 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 818 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
