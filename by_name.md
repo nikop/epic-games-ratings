@@ -59,7 +59,7 @@
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
+| 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.55 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
@@ -125,7 +125,7 @@
 | 123 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 124 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
 | 125 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.00 | 
+| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.01 | 
 | 127 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 128 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 129 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -150,7 +150,7 @@
 | 148 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 149 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 150 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
-| 151 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 
+| 151 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 152 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 153 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 154 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.26 | 
@@ -492,7 +492,7 @@
 | 490 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 491 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 492 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 493 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
+| 493 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 494 | [Outward](games/o/outward.md) | 4.55 | 
 | 495 | [Overcooked](games/o/overcooked.md) | 4.67 | 
 | 496 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
