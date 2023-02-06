@@ -125,7 +125,7 @@
 | 123 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 124 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
 | 125 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 3.91 | 
+| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 3.95 | 
 | 127 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 128 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 129 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -571,7 +571,7 @@
 | 569 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 570 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
 | 571 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 572 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 572 | [RUINER](games/r/ruiner.md) | 4.52 | 
 | 573 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 574 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 575 | [Sable](games/s/sable.md) | 4.50 | 

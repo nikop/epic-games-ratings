@@ -478,23 +478,23 @@
 | 467 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
 | 467 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 467 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 467 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 467 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 467 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 467 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 467 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 467 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
 | 467 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
-| 486 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 486 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 486 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 486 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 486 | [Industries of Titan](games/i/industries_of_titan.md) | 4.52 | 
-| 486 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 486 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 486 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 486 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 486 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 485 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 485 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 485 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 485 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 485 | [RUINER](games/r/ruiner.md) | 4.52 | 
+| 485 | [Industries of Titan](games/i/industries_of_titan.md) | 4.52 | 
+| 485 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 485 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 485 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 485 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 485 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 496 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 496 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 496 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
@@ -842,15 +842,15 @@
 | 840 | [Blood of Steel](games/b/blood_of_steel.md) | 3.96 | 
 | 841 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 841 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.95 | 
-| 843 | [Conarium](games/c/conarium.md) | 3.94 | 
-| 843 | [Patron](games/p/patron.md) | 3.94 | 
-| 843 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
-| 846 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
-| 846 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
-| 848 | [Warface](games/w/warface.md) | 3.92 | 
-| 849 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 849 | [Ironcast](games/i/ironcast.md) | 3.91 | 
-| 849 | [City of Gangsters](games/c/city_of_gangsters.md) | 3.91 | 
+| 841 | [City of Gangsters](games/c/city_of_gangsters.md) | 3.95 | 
+| 844 | [Conarium](games/c/conarium.md) | 3.94 | 
+| 844 | [Patron](games/p/patron.md) | 3.94 | 
+| 844 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
+| 847 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
+| 847 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
+| 849 | [Warface](games/w/warface.md) | 3.92 | 
+| 850 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 850 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 852 | [Banished](games/b/banished.md) | 3.90 | 
 | 852 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.90 | 
 | 854 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
