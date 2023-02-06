@@ -374,7 +374,7 @@
 | 372 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
 | 373 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
 | 374 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
-| 375 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.40 | 
+| 375 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 376 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 377 | [King of Retail](games/k/king_of_retail.md) | 4.74 | 
 | 378 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
@@ -717,7 +717,7 @@
 | 715 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 
 | 716 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
 | 717 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
-| 718 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 
+| 718 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 
 | 719 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
 | 720 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
 | 721 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
