@@ -755,7 +755,7 @@
 | 753 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 754 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 755 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 756 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 756 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 757 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
 | 758 | [Timberborn](games/t/timberborn.md) | 4.71 | 
 | 759 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
@@ -771,7 +771,7 @@
 | 769 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 770 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 771 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 772 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.83 | 
+| 772 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.84 | 
 | 773 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 774 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 775 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
