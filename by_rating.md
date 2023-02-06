@@ -459,6 +459,7 @@
 | 457 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 457 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
 | 457 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 457 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
 | 457 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
 | 457 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
 | 457 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
@@ -466,24 +467,23 @@
 | 457 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 457 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
 | 457 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 467 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 467 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
-| 467 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 467 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 467 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
-| 467 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 467 | [Verdun](games/v/verdun.md) | 4.53 | 
-| 467 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 
-| 467 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
-| 467 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
-| 467 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 467 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 467 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 467 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 467 | [Aztez](games/a/aztez.md) | 4.53 | 
-| 467 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 467 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
-| 467 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
+| 468 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
+| 468 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
+| 468 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 468 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 468 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
+| 468 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 468 | [Verdun](games/v/verdun.md) | 4.53 | 
+| 468 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
+| 468 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
+| 468 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
+| 468 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
+| 468 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 468 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 468 | [Aztez](games/a/aztez.md) | 4.53 | 
+| 468 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 468 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
+| 468 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
 | 485 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 485 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 485 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -523,26 +523,26 @@
 | 509 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
 | 509 | [IXION](games/i/ixion.md) | 4.50 | 
 | 509 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
-| 509 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.50 | 
-| 525 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 525 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 525 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 525 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 525 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 525 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
-| 525 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 525 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 525 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 525 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 525 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 525 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
-| 525 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
-| 525 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 525 | [CryoFall](games/c/cryofall.md) | 4.49 | 
-| 525 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 525 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 525 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
-| 525 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
+| 524 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 524 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 524 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 524 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 524 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 524 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
+| 524 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 524 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 524 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 524 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 524 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 524 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
+| 524 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
+| 524 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 524 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 524 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 524 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 524 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
+| 524 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
+| 524 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.49 | 
 | 544 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 544 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 544 | [Paradigm](games/p/paradigm.md) | 4.48 | 
@@ -834,12 +834,12 @@
 | 832 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 833 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 833 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
+| 833 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.00 | 
 | 833 | [Forspoken](games/f/forspoken.md) | 4.00 | 
 | 833 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.00 | 
-| 837 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 838 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
-| 838 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
-| 838 | [City of Gangsters](games/c/city_of_gangsters.md) | 3.98 | 
+| 838 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
+| 839 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
+| 839 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 841 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 841 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.95 | 
 | 843 | [Conarium](games/c/conarium.md) | 3.94 | 
