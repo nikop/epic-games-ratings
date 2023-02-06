@@ -260,7 +260,7 @@
 | 258 | [Filament](games/f/filament.md) | 4.32 | 
 | 259 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 260 | [Firework](games/f/firework.md) | 4.89 | 
-| 261 | [First Class Trouble](games/f/first_class_trouble.md) | 4.55 | 
+| 261 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
 | 262 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 263 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
 | 264 | [Flatout](games/f/flatout.md) | 4.16 | 
@@ -492,7 +492,7 @@
 | 490 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 491 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 492 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 493 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 493 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 494 | [Outward](games/o/outward.md) | 4.55 | 
 | 495 | [Overcooked](games/o/overcooked.md) | 4.67 | 
 | 496 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
