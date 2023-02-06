@@ -425,23 +425,23 @@
 | 410 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 410 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 410 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 
+| 410 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.57 | 
 | 410 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.57 | 
 | 410 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 410 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
-| 429 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 429 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 429 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 429 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 429 | [Hue](games/h/hue.md) | 4.56 | 
-| 429 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
-| 429 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 429 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
-| 429 | [Aragami 2](games/a/aragami_2.md) | 4.56 | 
-| 429 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.56 | 
-| 429 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 429 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 429 | [Observation](games/o/observation.md) | 4.56 | 
-| 429 | [The Medium](games/t/the_medium.md) | 4.56 | 
+| 430 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 430 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 430 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 430 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 430 | [Hue](games/h/hue.md) | 4.56 | 
+| 430 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
+| 430 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 430 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
+| 430 | [Aragami 2](games/a/aragami_2.md) | 4.56 | 
+| 430 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 430 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 430 | [Observation](games/o/observation.md) | 4.56 | 
+| 430 | [The Medium](games/t/the_medium.md) | 4.56 | 
 | 443 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 443 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 443 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -854,9 +854,9 @@
 | 852 | [Banished](games/b/banished.md) | 3.90 | 
 | 852 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.90 | 
 | 854 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 855 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.84 | 
-| 856 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
-| 856 | [Chimeraland](games/c/chimeraland.md) | 3.81 | 
+| 854 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.86 | 
+| 856 | [Chimeraland](games/c/chimeraland.md) | 3.83 | 
+| 857 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
 | 858 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 859 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
 | 860 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 

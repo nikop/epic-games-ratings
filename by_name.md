@@ -117,7 +117,7 @@
 | 115 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
 | 116 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 117 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
-| 118 | [Chimeraland](games/c/chimeraland.md) | 3.81 | 
+| 118 | [Chimeraland](games/c/chimeraland.md) | 3.83 | 
 | 119 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 120 | [Chorus](games/c/chorus.md) | 4.47 | 
 | 121 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
@@ -500,7 +500,7 @@
 | 498 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
 | 499 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 500 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 501 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.56 | 
+| 501 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.57 | 
 | 502 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 503 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
 | 504 | [Parkitect](games/p/parkitect.md) | 4.30 | 
@@ -771,7 +771,7 @@
 | 769 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 770 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 771 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 772 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.84 | 
+| 772 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.86 | 
 | 773 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 774 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 775 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
