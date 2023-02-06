@@ -781,12 +781,12 @@
 | 778 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 778 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 778 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
-| 778 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
-| 783 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 783 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 783 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
-| 783 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
-| 783 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
+| 782 | [Windbound](games/w/windbound.md) | 4.18 | 
+| 782 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 782 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
+| 782 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
+| 782 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
+| 782 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
 | 788 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 788 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
 | 788 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
