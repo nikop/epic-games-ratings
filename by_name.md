@@ -23,7 +23,7 @@
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 24 | [Among Trees](games/a/among_trees.md) | 4.36 | 
+| 24 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
@@ -99,7 +99,7 @@
 | 97 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 
 | 98 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 99 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
-| 100 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
+| 100 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 101 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 102 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
 | 103 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
@@ -729,7 +729,7 @@
 | 727 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 728 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 729 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 730 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.49 | 
+| 730 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.50 | 
 | 731 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 732 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 733 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 

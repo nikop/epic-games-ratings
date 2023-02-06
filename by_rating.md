@@ -523,26 +523,27 @@
 | 509 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
 | 509 | [IXION](games/i/ixion.md) | 4.50 | 
 | 509 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
-| 524 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 524 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 524 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 524 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 524 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 524 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
-| 524 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 524 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 524 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 524 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 524 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 524 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
-| 524 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
-| 524 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 524 | [CryoFall](games/c/cryofall.md) | 4.49 | 
-| 524 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 524 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 524 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
-| 524 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
-| 524 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.49 | 
+| 509 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.50 | 
+| 525 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 525 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 525 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 525 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 525 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 525 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
+| 525 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 525 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 525 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 525 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 525 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 525 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
+| 525 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
+| 525 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 525 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 525 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 525 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 525 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
+| 525 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
+| 544 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
 | 544 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 544 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 544 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
@@ -550,17 +551,16 @@
 | 544 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
 | 544 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 544 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
-| 551 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
-| 551 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 551 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 551 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
-| 551 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.47 | 
-| 551 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
-| 551 | [Chorus](games/c/chorus.md) | 4.47 | 
-| 551 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 551 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
-| 551 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
-| 551 | [Scorn](games/s/scorn.md) | 4.47 | 
+| 552 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
+| 552 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 552 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 552 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.47 | 
+| 552 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
+| 552 | [Chorus](games/c/chorus.md) | 4.47 | 
+| 552 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
+| 552 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
+| 552 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
+| 552 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 562 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 562 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 562 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
@@ -680,20 +680,20 @@
 | 677 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 677 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 677 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 677 | [Among Trees](games/a/among_trees.md) | 4.36 | 
 | 677 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
 | 677 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 677 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
 | 677 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
-| 686 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
-| 686 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
-| 686 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 686 | [Torchlight](games/t/torchlight.md) | 4.35 | 
-| 686 | [Ashen](games/a/ashen.md) | 4.35 | 
-| 686 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 686 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 686 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
-| 686 | [ZOMBI](games/z/zombi.md) | 4.35 | 
+| 685 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
+| 685 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
+| 685 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 685 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 685 | [Torchlight](games/t/torchlight.md) | 4.35 | 
+| 685 | [Ashen](games/a/ashen.md) | 4.35 | 
+| 685 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
+| 685 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 685 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
+| 685 | [ZOMBI](games/z/zombi.md) | 4.35 | 
 | 695 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 695 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 695 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
