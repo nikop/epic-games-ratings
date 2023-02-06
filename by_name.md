@@ -260,7 +260,7 @@
 | 258 | [Filament](games/f/filament.md) | 4.32 | 
 | 259 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 260 | [Firework](games/f/firework.md) | 4.89 | 
-| 261 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
+| 261 | [First Class Trouble](games/f/first_class_trouble.md) | 4.55 | 
 | 262 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 263 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
 | 264 | [Flatout](games/f/flatout.md) | 4.16 | 
@@ -349,7 +349,7 @@
 | 347 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
 | 348 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
 | 349 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 350 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
+| 350 | [Industries of Titan](games/i/industries_of_titan.md) | 4.52 | 
 | 351 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 352 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 353 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 

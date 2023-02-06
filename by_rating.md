@@ -456,17 +456,17 @@
 | 443 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
 | 443 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.55 | 
 | 443 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 
-| 457 | [VALORANT](games/v/valorant.md) | 4.54 | 
-| 457 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
-| 457 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 457 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
-| 457 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
-| 457 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 457 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
-| 457 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 457 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
-| 457 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 457 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.54 | 
+| 443 | [First Class Trouble](games/f/first_class_trouble.md) | 4.55 | 
+| 458 | [VALORANT](games/v/valorant.md) | 4.54 | 
+| 458 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
+| 458 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 458 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
+| 458 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
+| 458 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 458 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.54 | 
+| 458 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 458 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 458 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.54 | 
 | 468 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 468 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
 | 468 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
@@ -490,25 +490,25 @@
 | 487 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 487 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 487 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 487 | [Industries of Titan](games/i/industries_of_titan.md) | 4.52 | 
 | 487 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 487 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 487 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
 | 487 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 487 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
-| 496 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 496 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 496 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 496 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 496 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 496 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 496 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
-| 496 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 
-| 496 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 496 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
-| 496 | [Horace](games/h/horace.md) | 4.51 | 
-| 496 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
-| 496 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 496 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
+| 497 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 497 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 497 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 497 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 497 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 497 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 497 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
+| 497 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 497 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
+| 497 | [Horace](games/h/horace.md) | 4.51 | 
+| 497 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
+| 497 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 497 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 510 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 510 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 510 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
