@@ -125,7 +125,7 @@
 | 123 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 124 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
 | 125 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 3.95 | 
+| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 3.98 | 
 | 127 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 128 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 129 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -269,7 +269,7 @@
 | 267 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 268 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 269 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 270 | [Forspoken](games/f/forspoken.md) | 4.01 | 
+| 270 | [Forspoken](games/f/forspoken.md) | 4.00 | 
 | 271 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 272 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 273 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
@@ -280,7 +280,7 @@
 | 278 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 279 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 
 | 280 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 281 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
+| 281 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
 | 282 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
 | 283 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
 | 284 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
@@ -535,7 +535,7 @@
 | 533 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 534 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 535 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 536 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 536 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
 | 537 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 538 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
 | 539 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
@@ -806,7 +806,7 @@
 | 804 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 805 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.62 | 
 | 806 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 807 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 
+| 807 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.47 | 
 | 808 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 809 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 810 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
