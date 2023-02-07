@@ -771,7 +771,7 @@
 | 769 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 770 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 771 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 772 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.86 | 
+| 772 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.83 | 
 | 773 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 774 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 775 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
@@ -839,7 +839,7 @@
 | 837 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 838 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 839 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 840 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.90 | 
+| 840 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
 | 841 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 842 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 843 | [Windbound](games/w/windbound.md) | 4.18 | 
