@@ -501,6 +501,7 @@
 | 496 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 496 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 496 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 496 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 496 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
 | 496 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 496 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
@@ -508,21 +509,20 @@
 | 496 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 496 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 496 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 509 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 509 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 509 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 509 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 509 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
-| 509 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 509 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 509 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
-| 509 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 509 | [Sable](games/s/sable.md) | 4.50 | 
-| 509 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 509 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
-| 509 | [IXION](games/i/ixion.md) | 4.50 | 
-| 509 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
-| 509 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.50 | 
+| 510 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 510 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 510 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 510 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 510 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
+| 510 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 510 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 510 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 510 | [Sable](games/s/sable.md) | 4.50 | 
+| 510 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
+| 510 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
+| 510 | [IXION](games/i/ixion.md) | 4.50 | 
+| 510 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
+| 510 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.50 | 
 | 524 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 524 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 524 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -607,18 +607,18 @@
 | 598 | [RiMS Racing](games/r/rims_racing.md) | 4.43 | 
 | 598 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.43 | 
 | 598 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
+| 598 | [Predecessor](games/p/predecessor.md) | 4.43 | 
 | 598 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 598 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 
-| 610 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 610 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 610 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 610 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 610 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 610 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 610 | [Far Cry](games/f/far_cry.md) | 4.42 | 
-| 610 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
-| 610 | [Predecessor](games/p/predecessor.md) | 4.42 | 
-| 610 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
+| 611 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 611 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 611 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 611 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 611 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 611 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 611 | [Far Cry](games/f/far_cry.md) | 4.42 | 
+| 611 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
+| 611 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
 | 620 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 620 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 620 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 

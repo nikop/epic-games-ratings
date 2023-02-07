@@ -525,7 +525,7 @@
 | 523 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.60 | 
 | 524 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 525 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 526 | [Predecessor](games/p/predecessor.md) | 4.42 | 
+| 526 | [Predecessor](games/p/predecessor.md) | 4.43 | 
 | 527 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 528 | [Prey](games/p/prey.md) | 4.62 | 
 | 529 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
@@ -849,7 +849,7 @@
 | 847 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
 | 848 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 849 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 850 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
+| 850 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 851 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
 | 852 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
 | 853 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 
