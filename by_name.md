@@ -171,7 +171,7 @@
 | 169 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 170 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 171 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
-| 172 | [Dead Space](games/d/dead_space.md) | 4.55 | 
+| 172 | [Dead Space](games/d/dead_space.md) | 4.60 | 
 | 173 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 174 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 175 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
@@ -278,7 +278,7 @@
 | 276 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 277 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 278 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 279 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 
+| 279 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 
 | 280 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 281 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
 | 282 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
