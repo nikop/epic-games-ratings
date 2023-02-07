@@ -197,7 +197,7 @@
 | 195 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 196 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 197 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
-| 198 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.40 | 
+| 198 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.41 | 
 | 199 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 200 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
 | 201 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
@@ -219,7 +219,7 @@
 | 217 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 218 | [Encased](games/e/encased.md) | 4.37 | 
 | 219 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 220 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.42 | 
+| 220 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.43 | 
 | 221 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 222 | [EVE Online](games/e/eve_online.md) | 4.25 | 
 | 223 | [Everything](games/e/everything.md) | 4.62 | 
@@ -492,7 +492,7 @@
 | 490 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 491 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 492 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 493 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 493 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 494 | [Outward](games/o/outward.md) | 4.55 | 
 | 495 | [Overcooked](games/o/overcooked.md) | 4.67 | 
 | 496 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
@@ -690,7 +690,7 @@
 | 688 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 689 | [Tharsis](games/t/tharsis.md) | 4.04 | 
 | 690 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 691 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.66 | 
+| 691 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.61 | 
 | 692 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 693 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
 | 694 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
