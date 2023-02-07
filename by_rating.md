@@ -605,20 +605,20 @@
 | 598 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
 | 598 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
 | 598 | [RiMS Racing](games/r/rims_racing.md) | 4.43 | 
-| 598 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.43 | 
 | 598 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 598 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 598 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 
-| 610 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 610 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 610 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 610 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 610 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 610 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 610 | [Far Cry](games/f/far_cry.md) | 4.42 | 
-| 610 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
-| 610 | [Predecessor](games/p/predecessor.md) | 4.42 | 
-| 610 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
+| 609 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 609 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 609 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 609 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 609 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 609 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 609 | [Far Cry](games/f/far_cry.md) | 4.42 | 
+| 609 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
+| 609 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.42 | 
+| 609 | [Predecessor](games/p/predecessor.md) | 4.42 | 
+| 609 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
 | 620 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 620 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 620 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
