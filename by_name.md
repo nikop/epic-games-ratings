@@ -125,7 +125,7 @@
 | 123 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 124 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
 | 125 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.01 | 
+| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.09 | 
 | 127 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 128 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 129 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -226,7 +226,7 @@
 | 224 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 225 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.95 | 
 | 226 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 227 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 
+| 227 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.21 | 
 | 228 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 229 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
 | 230 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
@@ -269,7 +269,7 @@
 | 267 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 268 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 269 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 270 | [Forspoken](games/f/forspoken.md) | 4.00 | 
+| 270 | [Forspoken](games/f/forspoken.md) | 3.97 | 
 | 271 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 272 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 273 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
@@ -535,7 +535,7 @@
 | 533 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 534 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 535 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 536 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
+| 536 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
 | 537 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 538 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
 | 539 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
