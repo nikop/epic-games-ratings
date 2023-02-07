@@ -105,7 +105,7 @@
 | 103 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
 | 104 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.10 | 
 | 105 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 106 | [Carcassonne](games/c/carcassonne.md) | 4.69 | 
+| 106 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 107 | [Card Shark](games/c/card_shark.md) | 4.67 | 
 | 108 | [CARRION](games/c/carrion.md) | 4.68 | 
 | 109 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
@@ -390,7 +390,7 @@
 | 388 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 389 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 390 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 391 | [Knockout City™](games/k/knockout_city™.md) | 4.34 | 
+| 391 | [Knockout City™](games/k/knockout_city™.md) | 4.33 | 
 | 392 | [Lake](games/l/lake.md) | 4.07 | 
 | 393 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 394 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
