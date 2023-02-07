@@ -466,25 +466,25 @@
 | 458 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 458 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 458 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
+| 458 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.54 | 
 | 458 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 458 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.54 | 
-| 469 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 469 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
-| 469 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 469 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 469 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
-| 469 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 469 | [Verdun](games/v/verdun.md) | 4.53 | 
-| 469 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
-| 469 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
-| 469 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 469 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 469 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 469 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 469 | [Aztez](games/a/aztez.md) | 4.53 | 
-| 469 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 469 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
-| 469 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
+| 470 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
+| 470 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
+| 470 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 470 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 470 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
+| 470 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 470 | [Verdun](games/v/verdun.md) | 4.53 | 
+| 470 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
+| 470 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
+| 470 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
+| 470 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
+| 470 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 470 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 470 | [Aztez](games/a/aztez.md) | 4.53 | 
+| 470 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 470 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
 | 486 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 486 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 486 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -648,24 +648,24 @@
 | 638 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 647 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 647 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 647 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 647 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
 | 647 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 647 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 653 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
-| 653 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
-| 653 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 653 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
-| 653 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
-| 653 | [Othercide](games/o/othercide.md) | 4.38 | 
-| 653 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
-| 653 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
-| 653 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 653 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
-| 653 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 653 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.38 | 
-| 653 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
-| 653 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
+| 652 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 652 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
+| 652 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 652 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 652 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
+| 652 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
+| 652 | [Othercide](games/o/othercide.md) | 4.38 | 
+| 652 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
+| 652 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
+| 652 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 652 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
+| 652 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 652 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.38 | 
+| 652 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
+| 652 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 667 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 667 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 667 | [Core](games/c/core.md) | 4.37 | 
@@ -782,12 +782,12 @@
 | 780 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 780 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 780 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
-| 783 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 783 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 783 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
-| 783 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
-| 783 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
-| 783 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
+| 780 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
+| 784 | [Windbound](games/w/windbound.md) | 4.18 | 
+| 784 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 784 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
+| 784 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
+| 784 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
 | 789 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 789 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
 | 789 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 

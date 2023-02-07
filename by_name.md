@@ -369,7 +369,7 @@
 | 367 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 368 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 369 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
-| 370 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
+| 370 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 371 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 372 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
 | 373 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
@@ -414,7 +414,7 @@
 | 412 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 413 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
 | 414 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.05 | 
-| 415 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
+| 415 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.54 | 
 | 416 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 417 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 418 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
@@ -693,7 +693,7 @@
 | 691 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.61 | 
 | 692 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 693 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
-| 694 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
+| 694 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
 | 695 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 696 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 697 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
