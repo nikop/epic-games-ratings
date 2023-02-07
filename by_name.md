@@ -641,7 +641,7 @@
 | 639 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 640 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
 | 641 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
-| 642 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
+| 642 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 643 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 644 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
 | 645 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 

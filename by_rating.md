@@ -251,6 +251,7 @@
 | 242 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 242 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 242 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
+| 242 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 242 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 242 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
 | 242 | [Eastward](games/e/eastward.md) | 4.67 | 
@@ -258,24 +259,23 @@
 | 242 | [Card Shark](games/c/card_shark.md) | 4.67 | 
 | 242 | [GNOG](games/g/gnog.md) | 4.67 | 
 | 242 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
-| 259 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 259 | [Trackmania](games/t/trackmania.md) | 4.66 | 
-| 259 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 259 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 259 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 259 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
-| 259 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
-| 259 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
-| 259 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
-| 259 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 259 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
-| 259 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
-| 259 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 259 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 
-| 259 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
-| 259 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 259 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 259 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
+| 260 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 260 | [Trackmania](games/t/trackmania.md) | 4.66 | 
+| 260 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 260 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 260 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 260 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
+| 260 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
+| 260 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
+| 260 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
+| 260 | [Death's Door](games/d/death's_door.md) | 4.66 | 
+| 260 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
+| 260 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
+| 260 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 260 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
+| 260 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 260 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 260 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
 | 277 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 277 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 277 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
