@@ -96,7 +96,7 @@
 | 94 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 95 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 96 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 97 | [Brawlhalla](games/b/brawlhalla.md) | 4.54 | 
+| 97 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 
 | 98 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 99 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 100 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
@@ -662,7 +662,7 @@
 | 660 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
 | 661 | [Submerged](games/s/submerged.md) | 4.16 | 
 | 662 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 663 | [Subnautica](games/s/subnautica.md) | 4.85 | 
+| 663 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 664 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 665 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
 | 666 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
