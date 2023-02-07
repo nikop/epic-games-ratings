@@ -652,7 +652,6 @@
 | 647 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 647 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 652 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 652 | [Core](games/c/core.md) | 4.38 | 
 | 652 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 652 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 652 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
@@ -666,16 +665,17 @@
 | 652 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 652 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
 | 652 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 667 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 667 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 667 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 667 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 667 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
-| 667 | [Encased](games/e/encased.md) | 4.37 | 
-| 667 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 667 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.37 | 
-| 667 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 667 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
+| 666 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 666 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 666 | [Core](games/c/core.md) | 4.37 | 
+| 666 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 666 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 666 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
+| 666 | [Encased](games/e/encased.md) | 4.37 | 
+| 666 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 666 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.37 | 
+| 666 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 666 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
 | 677 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 677 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 677 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
@@ -770,6 +770,7 @@
 | 768 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
 | 768 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 768 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 768 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
 | 768 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 768 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 768 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
@@ -778,10 +779,9 @@
 | 768 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 768 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 
 | 768 | [Somerville](games/s/somerville.md) | 4.20 | 
-| 779 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 779 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 779 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 779 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
+| 780 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
+| 780 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 780 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 783 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 783 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 783 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
@@ -803,12 +803,12 @@
 | 799 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 799 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 803 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
-| 803 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
 | 803 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
-| 806 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 807 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
-| 807 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
-| 807 | [Train Valley 2](games/t/train_valley_2.md) | 4.11 | 
+| 805 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
+| 806 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
+| 806 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
+| 806 | [Train Valley 2](games/t/train_valley_2.md) | 4.11 | 
+| 806 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.11 | 
 | 810 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.10 | 
 | 810 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 810 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 

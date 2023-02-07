@@ -133,7 +133,7 @@
 | 131 | [Control](games/c/control.md) | 4.60 | 
 | 132 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
 | 133 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 134 | [Core](games/c/core.md) | 4.38 | 
+| 134 | [Core](games/c/core.md) | 4.37 | 
 | 135 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 136 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
 | 137 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
@@ -417,13 +417,13 @@
 | 415 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
 | 416 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 417 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 418 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 418 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
 | 419 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 420 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 421 | [Mago](games/m/mago.md) | 4.90 | 
 | 422 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 423 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 424 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
+| 424 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.11 | 
 | 425 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 426 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
 | 427 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
