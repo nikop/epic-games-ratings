@@ -15,14 +15,14 @@
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
 | 12 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
-| 12 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 12 | [Firework](games/f/firework.md) | 4.89 | 
-| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
-| 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
-| 19 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
-| 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
+| 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
+| 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
+| 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
+| 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
+| 18 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
+| 18 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
 | 24 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 24 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
@@ -137,22 +137,22 @@
 | 124 | [Haven](games/h/haven.md) | 4.75 | 
 | 124 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 124 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
-| 138 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
-| 138 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 138 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 138 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
-| 138 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
-| 138 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.74 | 
-| 138 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
-| 138 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
-| 138 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 138 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 138 | [Revita](games/r/revita.md) | 4.74 | 
-| 138 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 138 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
-| 138 | [King of Retail](games/k/king_of_retail.md) | 4.74 | 
-| 138 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
-| 138 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 
+| 124 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
+| 139 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
+| 139 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 139 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 139 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 139 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
+| 139 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.74 | 
+| 139 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
+| 139 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
+| 139 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 139 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 139 | [Revita](games/r/revita.md) | 4.74 | 
+| 139 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 139 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
+| 139 | [King of Retail](games/k/king_of_retail.md) | 4.74 | 
+| 139 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
 | 154 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 154 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 154 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 

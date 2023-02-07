@@ -170,7 +170,7 @@
 | 168 | [Days Gone](games/d/days_gone.md) | 4.69 | 
 | 169 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 170 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 171 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
+| 171 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 172 | [Dead Space](games/d/dead_space.md) | 4.55 | 
 | 173 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 174 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
@@ -802,7 +802,7 @@
 | 800 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 801 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 802 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 803 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 
+| 803 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
 | 804 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 805 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.62 | 
 | 806 | [UnMetal](games/u/unmetal.md) | 4.51 | 
