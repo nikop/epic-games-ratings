@@ -316,7 +316,7 @@
 | 314 | [Haven](games/h/haven.md) | 4.75 | 
 | 315 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 316 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 317 | [Hell is Others](games/h/hell_is_others.md) | 4.22 | 
+| 317 | [Hell is Others](games/h/hell_is_others.md) | 4.20 | 
 | 318 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 319 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.38 | 
 | 320 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
@@ -369,7 +369,7 @@
 | 367 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.31 | 
 | 368 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 369 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
-| 370 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 370 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 371 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 372 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
 | 373 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
@@ -697,7 +697,7 @@
 | 695 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 696 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 697 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 698 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.87 | 
+| 698 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.88 | 
 | 699 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 700 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 701 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
@@ -740,7 +740,7 @@
 | 738 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 739 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
 | 740 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
-| 741 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
+| 741 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 742 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 743 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
 | 744 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 

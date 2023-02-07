@@ -23,14 +23,14 @@
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 18 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 18 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
-| 24 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
-| 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 24 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
-| 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 24 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
-| 24 | [TUNIC](games/t/tunic.md) | 4.87 | 
-| 24 | [Black Book](games/b/black_book.md) | 4.87 | 
-| 24 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.87 | 
+| 18 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.88 | 
+| 25 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
+| 25 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
+| 25 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 25 | [Ooblets](games/o/ooblets.md) | 4.87 | 
+| 25 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
+| 25 | [TUNIC](games/t/tunic.md) | 4.87 | 
+| 25 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 32 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 32 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 32 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
@@ -648,24 +648,24 @@
 | 638 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 647 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 647 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 647 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 
 | 647 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
 | 647 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 647 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 652 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 652 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
-| 652 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
-| 652 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 652 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
-| 652 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
-| 652 | [Othercide](games/o/othercide.md) | 4.38 | 
-| 652 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
-| 652 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
-| 652 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 652 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
-| 652 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 652 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.38 | 
-| 652 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
-| 652 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
+| 653 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
+| 653 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 653 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 653 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
+| 653 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
+| 653 | [Othercide](games/o/othercide.md) | 4.38 | 
+| 653 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
+| 653 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
+| 653 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 653 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
+| 653 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 653 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.38 | 
+| 653 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
+| 653 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 667 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 667 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 667 | [Core](games/c/core.md) | 4.37 | 
@@ -739,14 +739,14 @@
 | 736 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 736 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
 | 739 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 739 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 739 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
 | 739 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 739 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
 | 739 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.26 | 
 | 739 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
-| 745 | [EVE Online](games/e/eve_online.md) | 4.25 | 
-| 745 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
-| 745 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 746 | [EVE Online](games/e/eve_online.md) | 4.25 | 
+| 746 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 748 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 748 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 748 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
@@ -761,24 +761,24 @@
 | 759 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 759 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
 | 759 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
-| 759 | [Hell is Others](games/h/hell_is_others.md) | 4.22 | 
-| 763 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
-| 763 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
-| 763 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
-| 763 | [Starsand](games/s/starsand.md) | 4.21 | 
-| 763 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 768 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
-| 768 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 768 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 768 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
-| 768 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 768 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 768 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 768 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 768 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 768 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 768 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 
-| 768 | [Somerville](games/s/somerville.md) | 4.20 | 
+| 762 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
+| 762 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
+| 762 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
+| 762 | [Starsand](games/s/starsand.md) | 4.21 | 
+| 762 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
+| 767 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
+| 767 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 767 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 767 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
+| 767 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 767 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 767 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 767 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 767 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 767 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 767 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 
+| 767 | [Hell is Others](games/h/hell_is_others.md) | 4.20 | 
+| 767 | [Somerville](games/s/somerville.md) | 4.20 | 
 | 780 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 780 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 780 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
