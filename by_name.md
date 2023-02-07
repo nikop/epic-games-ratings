@@ -603,7 +603,7 @@
 | 601 | [shapez](games/s/shapez.md) | 4.76 | 
 | 602 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 603 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
-| 604 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
+| 604 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.47 | 
 | 605 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
 | 606 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
 | 607 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
