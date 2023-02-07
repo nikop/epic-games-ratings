@@ -36,7 +36,7 @@
 | 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.57 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.65 | 
-| 37 | [Aragami 2](games/a/aragami_2.md) | 4.56 | 
+| 37 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
 | 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
@@ -125,7 +125,7 @@
 | 123 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 124 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
 | 125 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.09 | 
+| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.08 | 
 | 127 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 128 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 129 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
