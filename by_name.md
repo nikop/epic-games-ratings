@@ -197,7 +197,7 @@
 | 195 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 196 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 197 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
-| 198 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.41 | 
+| 198 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 
 | 199 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 200 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
 | 201 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
@@ -784,7 +784,7 @@
 | 782 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
 | 783 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.04 | 
 | 784 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 785 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.51 | 
+| 785 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
 | 786 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 787 | [Train Valley 2](games/t/train_valley_2.md) | 4.11 | 
 | 788 | [Transistor](games/t/transistor.md) | 4.62 | 
