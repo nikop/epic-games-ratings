@@ -33,7 +33,7 @@
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
-| 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.57 | 
+| 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.65 | 
 | 37 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
@@ -269,7 +269,7 @@
 | 267 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 268 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 269 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 270 | [Forspoken](games/f/forspoken.md) | 3.97 | 
+| 270 | [Forspoken](games/f/forspoken.md) | 3.99 | 
 | 271 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 272 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 273 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
@@ -417,7 +417,7 @@
 | 415 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.54 | 
 | 416 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 417 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 418 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
+| 418 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 419 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 420 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 421 | [Mago](games/m/mago.md) | 4.90 | 
