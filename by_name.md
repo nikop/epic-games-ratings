@@ -86,7 +86,7 @@
 | 84 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 85 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 86 | [Black Book](games/b/black_book.md) | 4.87 | 
-| 87 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.26 | 
+| 87 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
 | 88 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 89 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 90 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
