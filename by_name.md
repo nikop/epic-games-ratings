@@ -103,7 +103,7 @@
 | 101 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 102 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
 | 103 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
-| 104 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.10 | 
+| 104 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 105 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 106 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 107 | [Card Shark](games/c/card_shark.md) | 4.67 | 
@@ -197,7 +197,7 @@
 | 195 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 196 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 197 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
-| 198 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 
+| 198 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
 | 199 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 200 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
 | 201 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
@@ -325,7 +325,7 @@
 | 323 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
 | 324 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 325 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 326 | [High On Life](games/h/high_on_life.md) | 4.68 | 
+| 326 | [High On Life](games/h/high_on_life.md) | 4.69 | 
 | 327 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 328 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 329 | [Hob](games/h/hob.md) | 4.57 | 
