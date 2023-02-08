@@ -1,5 +1,5 @@
 # Brothers - A Tale of Two Sons
-Rating: 4.48 (687)  (as of 23.09.2022)  
+Rating: 4.47 (687)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -77,3 +77,4 @@ Rating: 4.48 (687)  (as of 23.09.2022)
 | 2023-01-22 | 4.48 | - |
 | 2023-01-29 | 4.47 | - |
 | 2023-02-06 | 4.48 | - |
+| 2023-02-08 | 4.47 | - |

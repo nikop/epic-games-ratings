@@ -99,7 +99,7 @@
 | 97 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 
 | 98 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 99 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
-| 100 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
+| 100 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 101 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 102 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
 | 103 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
@@ -349,7 +349,7 @@
 | 347 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
 | 348 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
 | 349 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 350 | [Industries of Titan](games/i/industries_of_titan.md) | 4.52 | 
+| 350 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 
 | 351 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 352 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 353 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
@@ -479,7 +479,7 @@
 | 477 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 478 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
 | 479 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 480 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
+| 480 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
 | 481 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
 | 482 | [Old World](games/o/old_world.md) | 4.64 | 
 | 483 | [Ooblets](games/o/ooblets.md) | 4.87 | 
@@ -729,7 +729,7 @@
 | 727 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 728 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 729 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 730 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.54 | 
+| 730 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.55 | 
 | 731 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 732 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 733 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
