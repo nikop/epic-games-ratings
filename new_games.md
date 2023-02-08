@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.55 | 
+| 1 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 2 | [Dead Space](games/d/dead_space.md) | 4.64 | 
 | 3 | [Hell is Others](games/h/hell_is_others.md) | 4.20 | 
 | 4 | [Forspoken](games/f/forspoken.md) | 3.99 | 

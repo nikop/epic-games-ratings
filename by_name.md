@@ -414,7 +414,7 @@
 | 412 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 413 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
 | 414 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.05 | 
-| 415 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.54 | 
+| 415 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
 | 416 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 417 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 418 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
@@ -729,7 +729,7 @@
 | 727 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 728 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 729 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 730 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.55 | 
+| 730 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 731 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 732 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 733 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
