@@ -15,15 +15,15 @@
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
 | 12 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
+| 12 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 12 | [Firework](games/f/firework.md) | 4.89 | 
-| 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
-| 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
-| 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
-| 18 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
-| 18 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
-| 18 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.88 | 
+| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
+| 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
+| 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
+| 19 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
+| 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
+| 19 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.88 | 
 | 25 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 25 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 25 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 

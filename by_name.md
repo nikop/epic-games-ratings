@@ -170,7 +170,7 @@
 | 168 | [Days Gone](games/d/days_gone.md) | 4.69 | 
 | 169 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 170 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 171 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
+| 171 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 172 | [Dead Space](games/d/dead_space.md) | 4.64 | 
 | 173 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 174 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
