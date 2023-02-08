@@ -571,7 +571,7 @@
 | 569 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 570 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
 | 571 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 572 | [RUINER](games/r/ruiner.md) | 4.52 | 
+| 572 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 573 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 574 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 575 | [Sable](games/s/sable.md) | 4.50 | 

@@ -480,23 +480,23 @@
 | 470 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
 | 470 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 470 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
+| 470 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 470 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 470 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 470 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 470 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 470 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
-| 486 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 486 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 486 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 486 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 486 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
-| 486 | [RUINER](games/r/ruiner.md) | 4.52 | 
-| 486 | [Industries of Titan](games/i/industries_of_titan.md) | 4.52 | 
-| 486 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 486 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 486 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 486 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 486 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 487 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 487 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 487 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 487 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 487 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 487 | [Industries of Titan](games/i/industries_of_titan.md) | 4.52 | 
+| 487 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 487 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 487 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 487 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 487 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 498 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 498 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 498 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
