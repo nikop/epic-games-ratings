@@ -1,10 +1,10 @@
 {
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
-  "Rating": 4.08,
+  "Rating": 4.09,
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
-  "LastChanged": "2023-02-07T20:56:57.348063+00:00",
+  "LastChanged": "2023-02-08T04:57:22.249341+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-04T02:04:08.6033841+00:00",
@@ -59,6 +59,11 @@
     {
       "Time": "2023-02-07T20:56:57.3480632+00:00",
       "Rating": 4.08,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-08T04:57:22.2493411+00:00",
+      "Rating": 4.09,
       "NumberOfRatings": null
     }
   ],
