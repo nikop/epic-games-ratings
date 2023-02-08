@@ -40,7 +40,7 @@
 | 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
+| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
 | 43 | [Ashen](games/a/ashen.md) | 4.35 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
@@ -412,7 +412,7 @@
 | 410 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
 | 411 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 412 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 413 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
+| 413 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
 | 414 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.05 | 
 | 415 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.54 | 
 | 416 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 

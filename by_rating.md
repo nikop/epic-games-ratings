@@ -730,11 +730,11 @@
 | 724 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
 | 724 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 724 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
+| 724 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
 | 724 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 724 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 733 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 733 | [Dark Light](games/d/dark_light.md) | 4.28 | 
-| 733 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
+| 734 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 734 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 736 | [Steelrising](games/s/steelrising.md) | 4.27 | 
 | 736 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 736 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
@@ -816,12 +816,12 @@
 | 811 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 811 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
 | 811 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
+| 817 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 817 | [Fangs](games/f/fangs.md) | 4.09 | 
-| 818 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 818 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
-| 818 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
-| 818 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.08 | 
-| 818 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
+| 819 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 819 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
+| 819 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.08 | 
+| 819 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 823 | [Lake](games/l/lake.md) | 4.07 | 
 | 823 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
 | 825 | [Godfall](games/g/godfall.md) | 4.06 | 
