@@ -541,15 +541,15 @@
 | 524 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 524 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 524 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 524 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
 | 524 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
-| 544 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
-| 544 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 544 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 544 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
-| 544 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
-| 544 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
-| 544 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
+| 543 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.48 | 
+| 543 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 543 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 543 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
+| 543 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
+| 543 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
+| 543 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
+| 543 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 551 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 551 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 551 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
@@ -597,19 +597,19 @@
 | 585 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 585 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
 | 585 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
-| 598 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
-| 598 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 598 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 598 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
-| 598 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
-| 598 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
-| 598 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 598 | [RiMS Racing](games/r/rims_racing.md) | 4.43 | 
-| 598 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.43 | 
-| 598 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
-| 598 | [Predecessor](games/p/predecessor.md) | 4.43 | 
-| 598 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
-| 598 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 
+| 585 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.44 | 
+| 599 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
+| 599 | [Sheltered](games/s/sheltered.md) | 4.43 | 
+| 599 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 599 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
+| 599 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
+| 599 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
+| 599 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
+| 599 | [RiMS Racing](games/r/rims_racing.md) | 4.43 | 
+| 599 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
+| 599 | [Predecessor](games/p/predecessor.md) | 4.43 | 
+| 599 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
+| 599 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 
 | 611 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 611 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 611 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
@@ -651,21 +651,21 @@
 | 647 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
 | 647 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 647 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 652 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 652 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
-| 652 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
-| 652 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
-| 652 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
-| 652 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
-| 652 | [Othercide](games/o/othercide.md) | 4.38 | 
-| 652 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
-| 652 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
-| 652 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 652 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
-| 652 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 652 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.38 | 
-| 652 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
-| 652 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
+| 647 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.39 | 
+| 653 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 653 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
+| 653 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 653 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 653 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
+| 653 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
+| 653 | [Othercide](games/o/othercide.md) | 4.38 | 
+| 653 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
+| 653 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
+| 653 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 653 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
+| 653 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 653 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
+| 653 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 667 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 667 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 667 | [Core](games/c/core.md) | 4.37 | 
@@ -816,12 +816,12 @@
 | 810 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 810 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
 | 810 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 817 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.09 | 
 | 817 | [Fangs](games/f/fangs.md) | 4.09 | 
-| 819 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 819 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
-| 819 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
-| 819 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
+| 818 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 818 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
+| 818 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
+| 818 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.08 | 
+| 818 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 823 | [Lake](games/l/lake.md) | 4.07 | 
 | 823 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
 | 825 | [Godfall](games/g/godfall.md) | 4.06 | 

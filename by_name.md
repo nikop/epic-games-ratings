@@ -125,7 +125,7 @@
 | 123 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 124 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
 | 125 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.09 | 
+| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.08 | 
 | 127 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 128 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 129 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -219,7 +219,7 @@
 | 217 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 218 | [Encased](games/e/encased.md) | 4.37 | 
 | 219 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 220 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.43 | 
+| 220 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.44 | 
 | 221 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 222 | [EVE Online](games/e/eve_online.md) | 4.25 | 
 | 223 | [Everything](games/e/everything.md) | 4.62 | 
@@ -318,7 +318,7 @@
 | 316 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 317 | [Hell is Others](games/h/hell_is_others.md) | 4.20 | 
 | 318 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 319 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.38 | 
+| 319 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.39 | 
 | 320 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
 | 321 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 322 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
@@ -609,7 +609,7 @@
 | 607 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 608 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 609 | [Sifu](games/s/sifu.md) | 4.81 | 
-| 610 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
+| 610 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 611 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
 | 612 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 613 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
