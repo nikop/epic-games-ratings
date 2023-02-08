@@ -9,7 +9,7 @@
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 10 | [ABZU](games/a/abzu.md) | 4.62 | 
+| 10 | [ABZU](games/a/abzu.md) | 4.63 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.47 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.55 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
