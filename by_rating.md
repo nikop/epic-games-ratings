@@ -412,6 +412,7 @@
 | 409 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 409 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 409 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
+| 409 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
 | 409 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.57 | 
 | 409 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 409 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
@@ -430,18 +431,17 @@
 | 409 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.57 | 
 | 409 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 409 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
-| 431 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 431 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
-| 431 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 431 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 431 | [Hue](games/h/hue.md) | 4.56 | 
-| 431 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
-| 431 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 431 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
-| 431 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 431 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 431 | [Observation](games/o/observation.md) | 4.56 | 
-| 431 | [The Medium](games/t/the_medium.md) | 4.56 | 
+| 432 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 432 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 432 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 432 | [Hue](games/h/hue.md) | 4.56 | 
+| 432 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
+| 432 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 432 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
+| 432 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 432 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 432 | [Observation](games/o/observation.md) | 4.56 | 
+| 432 | [The Medium](games/t/the_medium.md) | 4.56 | 
 | 443 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 443 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 443 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -500,6 +500,7 @@
 | 498 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 498 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 498 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 498 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 498 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 498 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 498 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
@@ -509,20 +510,19 @@
 | 498 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 498 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 498 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 510 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 510 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 510 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 510 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 510 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
-| 510 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
-| 510 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 510 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 510 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 510 | [Sable](games/s/sable.md) | 4.50 | 
-| 510 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 510 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
-| 510 | [IXION](games/i/ixion.md) | 4.50 | 
-| 510 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
+| 511 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 511 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 511 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 511 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 511 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
+| 511 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 511 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 511 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 511 | [Sable](games/s/sable.md) | 4.50 | 
+| 511 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
+| 511 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
+| 511 | [IXION](games/i/ixion.md) | 4.50 | 
+| 511 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 524 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 524 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 524 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -852,8 +852,8 @@
 | 849 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 849 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
 | 852 | [Banished](games/b/banished.md) | 3.90 | 
-| 853 | [Blood of Steel](games/b/blood_of_steel.md) | 3.86 | 
-| 853 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
+| 852 | [Blood of Steel](games/b/blood_of_steel.md) | 3.90 | 
+| 854 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 855 | [Chimeraland](games/c/chimeraland.md) | 3.83 | 
 | 855 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.83 | 
 | 857 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 

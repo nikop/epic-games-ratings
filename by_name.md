@@ -91,7 +91,7 @@
 | 89 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 90 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
 | 91 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 92 | [Blood of Steel](games/b/blood_of_steel.md) | 3.86 | 
+| 92 | [Blood of Steel](games/b/blood_of_steel.md) | 3.90 | 
 | 93 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 94 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 95 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -338,7 +338,7 @@
 | 336 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 337 | [House Party](games/h/house_party.md) | 4.30 | 
 | 338 | [Hue](games/h/hue.md) | 4.56 | 
-| 339 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
+| 339 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 340 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 341 | [Huntdown](games/h/huntdown.md) | 4.85 | 
 | 342 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
@@ -507,7 +507,7 @@
 | 505 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
 | 506 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
 | 507 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 508 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.56 | 
+| 508 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
 | 509 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 510 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 511 | [Patron](games/p/patron.md) | 3.94 | 
