@@ -522,7 +522,7 @@
 | 520 | [Pine](games/p/pine.md) | 4.15 | 
 | 521 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
 | 522 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 523 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.60 | 
+| 523 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.59 | 
 | 524 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 525 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 526 | [Predecessor](games/p/predecessor.md) | 4.43 | 
