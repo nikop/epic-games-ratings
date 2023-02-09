@@ -226,7 +226,7 @@
 | 224 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 225 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.95 | 
 | 226 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 227 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.21 | 
+| 227 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 
 | 228 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 229 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
 | 230 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
@@ -628,7 +628,7 @@
 | 626 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
 | 627 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 628 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.81 | 
-| 629 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.81 | 
+| 629 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 630 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 631 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
 | 632 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
@@ -645,9 +645,9 @@
 | 643 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 644 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
 | 645 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
-| 646 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.64 | 
+| 646 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.61 | 
 | 647 | [Starsand](games/s/starsand.md) | 4.21 | 
-| 648 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 
+| 648 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
 | 649 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
 | 650 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 651 | [Steelrising](games/s/steelrising.md) | 4.27 | 
