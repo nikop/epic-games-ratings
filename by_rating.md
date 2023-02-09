@@ -374,24 +374,24 @@
 | 359 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.60 | 
 | 359 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 359 | [NORCO](games/n/norco.md) | 4.60 | 
-| 375 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 375 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 375 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
-| 375 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 375 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 
-| 375 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
-| 375 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
-| 375 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
-| 375 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
-| 375 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
-| 375 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
-| 375 | [Breathedge](games/b/breathedge.md) | 4.59 | 
-| 375 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
-| 375 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 
-| 375 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.59 | 
-| 375 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
-| 375 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
-| 375 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.59 | 
+| 359 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.60 | 
+| 376 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 376 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 376 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
+| 376 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 376 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 
+| 376 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 376 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
+| 376 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
+| 376 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
+| 376 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
+| 376 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
+| 376 | [Breathedge](games/b/breathedge.md) | 4.59 | 
+| 376 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
+| 376 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 
+| 376 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.59 | 
+| 376 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
+| 376 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.59 | 
 | 393 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
 | 393 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 393 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -467,7 +467,6 @@
 | 456 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
 | 456 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 467 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 467 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
 | 467 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 467 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 467 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
@@ -485,17 +484,18 @@
 | 467 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
 | 467 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
 | 467 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.53 | 
-| 486 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 486 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 486 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 486 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 486 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
-| 486 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 486 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 486 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
-| 486 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 486 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 486 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 485 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
+| 485 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 485 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 485 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 485 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 485 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 485 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 485 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 485 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
+| 485 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 485 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 485 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 497 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 497 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 497 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
@@ -828,16 +828,16 @@
 | 826 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 826 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 826 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.05 | 
-| 826 | [Gravewood High](games/g/gravewood_high.md) | 4.05 | 
-| 830 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
-| 830 | [Tharsis](games/t/tharsis.md) | 4.04 | 
-| 830 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.04 | 
-| 833 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
+| 829 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
+| 829 | [Tharsis](games/t/tharsis.md) | 4.04 | 
+| 829 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.04 | 
+| 832 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
+| 833 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 834 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 834 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
+| 834 | [Forspoken](games/f/forspoken.md) | 4.00 | 
 | 834 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.00 | 
-| 837 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 837 | [Forspoken](games/f/forspoken.md) | 3.99 | 
+| 838 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 839 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 839 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 841 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 

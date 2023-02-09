@@ -269,7 +269,7 @@
 | 267 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 268 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 269 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 270 | [Forspoken](games/f/forspoken.md) | 3.99 | 
+| 270 | [Forspoken](games/f/forspoken.md) | 4.00 | 
 | 271 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 272 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 273 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
@@ -303,7 +303,7 @@
 | 301 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
 | 302 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 303 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 304 | [Gravewood High](games/g/gravewood_high.md) | 4.05 | 
+| 304 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 305 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 306 | [GRIME](games/g/grime.md) | 4.62 | 
 | 307 | [Grindstone](games/g/grindstone.md) | 4.84 | 
@@ -562,7 +562,7 @@
 | 560 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
 | 561 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 562 | [Road 96](games/r/road_96.md) | 4.60 | 
-| 563 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
+| 563 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
 | 564 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
 | 565 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
 | 566 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
@@ -640,7 +640,7 @@
 | 638 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
 | 639 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 640 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
-| 641 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.59 | 
+| 641 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.60 | 
 | 642 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 643 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 644 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 

@@ -1,10 +1,10 @@
 {
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
-  "Rating": 3.99,
+  "Rating": 4,
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
-  "LastChanged": "2023-02-08T18:57:28.8566617+00:00",
+  "LastChanged": "2023-02-09T22:57:21.2818328+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-28T02:09:06.4755934+00:00",
@@ -74,6 +74,11 @@
     {
       "Time": "2023-02-08T18:57:28.856662+00:00",
       "Rating": 3.99,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-09T22:57:21.2818329+00:00",
+      "Rating": 4,
       "NumberOfRatings": null
     }
   ],
