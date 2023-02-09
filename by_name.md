@@ -149,7 +149,7 @@
 | 147 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 148 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 149 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 150 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
+| 150 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 151 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 152 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 153 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
@@ -192,7 +192,7 @@
 | 190 | [Diabotical](games/d/diabotical.md) | 4.76 | 
 | 191 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
 | 192 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 193 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
+| 193 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
 | 194 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
 | 195 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 196 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 

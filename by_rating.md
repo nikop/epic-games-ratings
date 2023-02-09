@@ -201,46 +201,46 @@
 | 189 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
 | 189 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
 | 189 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 189 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 189 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
 | 189 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
 | 189 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
-| 205 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 205 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 205 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 205 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 205 | [Days Gone](games/d/days_gone.md) | 4.69 | 
-| 205 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 205 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 205 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 205 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
-| 205 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 205 | [Bad North](games/b/bad_north.md) | 4.69 | 
-| 205 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
-| 205 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.69 | 
-| 205 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 205 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 205 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
-| 205 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 205 | [High On Life](games/h/high_on_life.md) | 4.69 | 
-| 205 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
-| 224 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
-| 224 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 224 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 224 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 224 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 224 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 224 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
-| 224 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 224 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 224 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 224 | [CARRION](games/c/carrion.md) | 4.68 | 
-| 224 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 
-| 224 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
-| 224 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
-| 224 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
-| 224 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.68 | 
-| 224 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
-| 224 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
+| 206 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
+| 206 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 206 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 206 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 206 | [Days Gone](games/d/days_gone.md) | 4.69 | 
+| 206 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
+| 206 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 206 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 206 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
+| 206 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 206 | [Bad North](games/b/bad_north.md) | 4.69 | 
+| 206 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
+| 206 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.69 | 
+| 206 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 206 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 206 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
+| 206 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
+| 206 | [High On Life](games/h/high_on_life.md) | 4.69 | 
+| 206 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
+| 225 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
+| 225 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 225 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 225 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 225 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 225 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 225 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
+| 225 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 225 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
+| 225 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 225 | [CARRION](games/c/carrion.md) | 4.68 | 
+| 225 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 
+| 225 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
+| 225 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
+| 225 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
+| 225 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
+| 225 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 242 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 242 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 242 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
@@ -492,23 +492,23 @@
 | 486 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
 | 486 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 486 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 486 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
 | 486 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
 | 486 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 486 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
-| 496 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 496 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 496 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 496 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 496 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 496 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 496 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 496 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 496 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
-| 496 | [Horace](games/h/horace.md) | 4.51 | 
-| 496 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
-| 496 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 496 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 496 | [IXION](games/i/ixion.md) | 4.51 | 
+| 497 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 497 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 497 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 497 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 497 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 497 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 497 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 497 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 497 | [Horace](games/h/horace.md) | 4.51 | 
+| 497 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
+| 497 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 497 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
+| 497 | [IXION](games/i/ixion.md) | 4.51 | 
 | 510 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 510 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 510 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
