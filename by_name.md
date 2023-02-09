@@ -162,7 +162,7 @@
 | 160 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 161 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 162 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 163 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 
+| 163 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 164 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 
 | 165 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 166 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
@@ -193,11 +193,11 @@
 | 191 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
 | 192 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 193 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
-| 194 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.38 | 
+| 194 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 195 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 196 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 197 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
-| 198 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
+| 198 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.44 | 
 | 199 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 200 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
 | 201 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
@@ -729,7 +729,7 @@
 | 727 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 728 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 729 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 730 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.53 | 
+| 730 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.54 | 
 | 731 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 732 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 733 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
@@ -751,7 +751,7 @@
 | 749 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 750 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 751 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 752 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.59 | 
+| 752 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.60 | 
 | 753 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 754 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 755 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
@@ -771,7 +771,7 @@
 | 769 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 770 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 771 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 772 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.83 | 
+| 772 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.85 | 
 | 773 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 774 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 775 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
