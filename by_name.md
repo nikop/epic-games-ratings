@@ -171,7 +171,7 @@
 | 169 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 170 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 171 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
-| 172 | [Dead Space](games/d/dead_space.md) | 4.64 | 
+| 172 | [Dead Space](games/d/dead_space.md) | 4.63 | 
 | 173 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 174 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 175 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
@@ -486,7 +486,7 @@
 | 484 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
 | 485 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
 | 486 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
-| 487 | [Othercide](games/o/othercide.md) | 4.38 | 
+| 487 | [Othercide](games/o/othercide.md) | 4.39 | 
 | 488 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 489 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.60 | 
 | 490 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
@@ -615,7 +615,7 @@
 | 613 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 614 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 615 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 616 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
+| 616 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
 | 617 | [SMITE](games/s/smite.md) | 4.45 | 
 | 618 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 619 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
