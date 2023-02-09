@@ -125,7 +125,7 @@
 | 123 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 124 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
 | 125 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.09 | 
+| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.10 | 
 | 127 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 128 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 129 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -492,7 +492,7 @@
 | 490 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 491 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 492 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 493 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
+| 493 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 494 | [Outward](games/o/outward.md) | 4.55 | 
 | 495 | [Overcooked](games/o/overcooked.md) | 4.67 | 
 | 496 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
@@ -702,7 +702,7 @@
 | 700 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 701 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 702 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
-| 703 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
+| 703 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
 | 704 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 705 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 706 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 

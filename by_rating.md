@@ -31,14 +31,14 @@
 | 25 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
 | 25 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 25 | [Black Book](games/b/black_book.md) | 4.87 | 
-| 32 | [Inscryption](games/i/inscryption.md) | 4.86 | 
-| 32 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 32 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 32 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
-| 32 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
-| 32 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
-| 32 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
-| 32 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
+| 25 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
+| 33 | [Inscryption](games/i/inscryption.md) | 4.86 | 
+| 33 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 33 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 33 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
+| 33 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
+| 33 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
+| 33 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 40 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 40 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 40 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
@@ -598,7 +598,6 @@
 | 586 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
 | 586 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
 | 586 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.44 | 
-| 599 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 599 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 599 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 599 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
@@ -611,15 +610,16 @@
 | 599 | [Predecessor](games/p/predecessor.md) | 4.43 | 
 | 599 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 599 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 
-| 612 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 612 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 612 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 612 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 612 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 612 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 612 | [Far Cry](games/f/far_cry.md) | 4.42 | 
-| 612 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
-| 612 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
+| 611 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 611 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 611 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 611 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 611 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 611 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 611 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 611 | [Far Cry](games/f/far_cry.md) | 4.42 | 
+| 611 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
+| 611 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
 | 621 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 621 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 621 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
@@ -815,10 +815,10 @@
 | 811 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
 | 811 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 811 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
+| 811 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.10 | 
 | 811 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 817 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
-| 817 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.09 | 
-| 817 | [Fangs](games/f/fangs.md) | 4.09 | 
+| 818 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 818 | [Fangs](games/f/fangs.md) | 4.09 | 
 | 820 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 820 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
 | 820 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
