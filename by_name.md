@@ -545,7 +545,7 @@
 | 543 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 544 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
 | 545 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
-| 546 | [Redout 2](games/r/redout_2.md) | 4.58 | 
+| 546 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 547 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 548 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 549 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
@@ -762,7 +762,7 @@
 | 760 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 761 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
 | 762 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
-| 763 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 
+| 763 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 764 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 765 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
 | 766 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
