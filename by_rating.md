@@ -466,25 +466,25 @@
 | 456 | [Brawlhalla](games/b/brawlhalla.md) | 4.54 | 
 | 456 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
 | 456 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 456 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.54 | 
-| 468 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 468 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
-| 468 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 468 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 468 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
-| 468 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 468 | [Verdun](games/v/verdun.md) | 4.53 | 
-| 468 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
-| 468 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
-| 468 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 468 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 468 | [RUINER](games/r/ruiner.md) | 4.53 | 
-| 468 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 468 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 468 | [Aztez](games/a/aztez.md) | 4.53 | 
-| 468 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 468 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
-| 468 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
+| 467 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
+| 467 | [Rocket League®](games/r/rocket_league®.md) | 4.53 | 
+| 467 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 467 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 467 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
+| 467 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 467 | [Verdun](games/v/verdun.md) | 4.53 | 
+| 467 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
+| 467 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
+| 467 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
+| 467 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
+| 467 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 467 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 467 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 467 | [Aztez](games/a/aztez.md) | 4.53 | 
+| 467 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 467 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
+| 467 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
+| 467 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.53 | 
 | 486 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 486 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 486 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
