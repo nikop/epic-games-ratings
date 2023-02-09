@@ -415,7 +415,6 @@
 | 408 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.57 | 
 | 408 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 408 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
-| 408 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
 | 408 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 408 | [Hob](games/h/hob.md) | 4.57 | 
 | 408 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
@@ -429,17 +428,18 @@
 | 408 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.57 | 
 | 408 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 408 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
-| 430 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 430 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 430 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 430 | [Hue](games/h/hue.md) | 4.56 | 
-| 430 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
-| 430 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 430 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
-| 430 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 430 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 430 | [Observation](games/o/observation.md) | 4.56 | 
-| 430 | [The Medium](games/t/the_medium.md) | 4.56 | 
+| 429 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 429 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 429 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 429 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 
+| 429 | [Hue](games/h/hue.md) | 4.56 | 
+| 429 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
+| 429 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 429 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
+| 429 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 429 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 429 | [Observation](games/o/observation.md) | 4.56 | 
+| 429 | [The Medium](games/t/the_medium.md) | 4.56 | 
 | 441 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 441 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 441 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -595,21 +595,21 @@
 | 585 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
 | 585 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 585 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
+| 585 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 585 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
 | 585 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.44 | 
 | 585 | [Redout 2](games/r/redout_2.md) | 4.44 | 
-| 599 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 599 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 599 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
-| 599 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
-| 599 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
-| 599 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 599 | [RiMS Racing](games/r/rims_racing.md) | 4.43 | 
-| 599 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
-| 599 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
-| 599 | [Predecessor](games/p/predecessor.md) | 4.43 | 
-| 599 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
-| 599 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 
+| 600 | [Sheltered](games/s/sheltered.md) | 4.43 | 
+| 600 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 600 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
+| 600 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
+| 600 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
+| 600 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
+| 600 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
+| 600 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
+| 600 | [Predecessor](games/p/predecessor.md) | 4.43 | 
+| 600 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
+| 600 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 
 | 611 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 611 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 611 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 

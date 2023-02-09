@@ -1,10 +1,10 @@
 {
   "ID": "a7e2a2c51b9149c097b771926ed91877",
   "Name": "F.I.S.T.: Forged In Shadow Torch",
-  "Rating": 4.57,
+  "Rating": 4.56,
   "NumberOfRatings": 572,
   "FirstSeen": "2022-07-22T20:26:53.9715824+00:00",
-  "LastChanged": "2023-02-05T14:57:40.476789+00:00",
+  "LastChanged": "2023-02-09T19:57:47.3946154+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:53.9715826+00:00",
@@ -550,12 +550,17 @@
       "Time": "2023-02-05T14:57:40.4767891+00:00",
       "Rating": 4.57,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-09T19:57:47.3946156+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 603
+      "Count": 605
     }
   ]
 }

@@ -228,7 +228,7 @@
 | 226 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 227 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 
 | 228 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 229 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
+| 229 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 
 | 230 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 231 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 232 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
@@ -553,7 +553,7 @@
 | 551 | [Revita](games/r/revita.md) | 4.74 | 
 | 552 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 553 | [RiME](games/r/rime.md) | 4.58 | 
-| 554 | [RiMS Racing](games/r/rims_racing.md) | 4.43 | 
+| 554 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 555 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 556 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 557 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
