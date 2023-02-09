@@ -125,7 +125,7 @@
 | 123 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 124 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
 | 125 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.09 | 
+| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.14 | 
 | 127 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 128 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 129 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -740,7 +740,7 @@
 | 738 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 739 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
 | 740 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
-| 741 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 741 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
 | 742 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 743 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
 | 744 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 

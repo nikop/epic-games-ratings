@@ -739,14 +739,14 @@
 | 736 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 736 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
 | 739 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 739 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 739 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
 | 739 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 739 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.26 | 
 | 739 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
-| 745 | [EVE Online](games/e/eve_online.md) | 4.25 | 
-| 745 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 745 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
+| 744 | [EVE Online](games/e/eve_online.md) | 4.25 | 
+| 744 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
+| 744 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 744 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
 | 748 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 748 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 748 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
@@ -802,23 +802,23 @@
 | 799 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 799 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 799 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 803 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
-| 803 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
-| 805 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 806 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
-| 806 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
-| 806 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
-| 806 | [Train Valley 2](games/t/train_valley_2.md) | 4.11 | 
-| 806 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.11 | 
-| 811 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 811 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
-| 811 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
-| 811 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 811 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
-| 811 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 817 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
-| 817 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.09 | 
-| 817 | [Fangs](games/f/fangs.md) | 4.09 | 
+| 803 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.14 | 
+| 804 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
+| 804 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
+| 806 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
+| 807 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
+| 807 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
+| 807 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
+| 807 | [Train Valley 2](games/t/train_valley_2.md) | 4.11 | 
+| 807 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.11 | 
+| 812 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 812 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
+| 812 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
+| 812 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 812 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
+| 812 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
+| 818 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 818 | [Fangs](games/f/fangs.md) | 4.09 | 
 | 820 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 820 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
 | 820 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
