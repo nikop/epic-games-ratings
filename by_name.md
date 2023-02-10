@@ -125,7 +125,7 @@
 | 123 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 124 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
 | 125 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.17 | 
+| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.16 | 
 | 127 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 128 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 129 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -139,7 +139,7 @@
 | 137 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 138 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 139 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
-| 140 | [Crashlands](games/c/crashlands.md) | 4.65 | 
+| 140 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 141 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 142 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 143 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
@@ -179,7 +179,7 @@
 | 177 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
 | 178 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
 | 179 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 180 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.64 | 
+| 180 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
 | 181 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 182 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 183 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
@@ -658,7 +658,7 @@
 | 656 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 657 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
 | 658 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
-| 659 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.49 | 
+| 659 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
 | 660 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
 | 661 | [Submerged](games/s/submerged.md) | 4.16 | 
 | 662 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
@@ -802,7 +802,7 @@
 | 800 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 801 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 802 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 803 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
+| 803 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 
 | 804 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 805 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.62 | 
 | 806 | [UnMetal](games/u/unmetal.md) | 4.51 | 
