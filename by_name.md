@@ -327,7 +327,7 @@
 | 325 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 326 | [High On Life](games/h/high_on_life.md) | 4.69 | 
 | 327 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 328 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 328 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 329 | [Hob](games/h/hob.md) | 4.57 | 
 | 330 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 331 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 

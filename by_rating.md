@@ -92,7 +92,6 @@
 | 78 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
 | 78 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
 | 78 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
-| 93 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 93 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 93 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 93 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
@@ -101,10 +100,11 @@
 | 93 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 93 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 93 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 102 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 102 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 102 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
-| 102 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
+| 101 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 101 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 101 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
+| 101 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
+| 101 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
 | 106 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 106 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 106 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
