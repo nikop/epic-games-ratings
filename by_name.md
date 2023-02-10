@@ -197,7 +197,7 @@
 | 195 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 196 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 197 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
-| 198 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.44 | 
+| 198 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
 | 199 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 200 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
 | 201 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
@@ -296,7 +296,7 @@
 | 294 | [God's Trigger](games/g/god's_trigger.md) | 4.16 | 
 | 295 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 296 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 297 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.95 | 
+| 297 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.96 | 
 | 298 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 299 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 300 | [Good Company](games/g/good_company.md) | 4.41 | 
@@ -575,7 +575,7 @@
 | 573 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 574 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 575 | [Sable](games/s/sable.md) | 4.50 | 
-| 576 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
+| 576 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
 | 577 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 578 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 
 | 579 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
