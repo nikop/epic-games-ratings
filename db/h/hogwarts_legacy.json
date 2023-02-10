@@ -1,7 +1,16 @@
 {
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
+  "Rating": 4.81,
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
+  "LastChanged": "2023-02-10T20:57:09.6904579+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-02-10T20:57:09.6904581+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
