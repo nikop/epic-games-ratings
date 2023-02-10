@@ -1,10 +1,10 @@
 {
   "ID": "c8738a4d1ead40368eab9688b3c7d737",
   "Name": "The Elder Scrolls V: Skyrim Special Edition",
-  "Rating": 4.87,
+  "Rating": 4.86,
   "FirstSeen": "2022-10-06T16:01:22.0492256+00:00",
   "FirstSeenRating": "2022-10-10T18:31:07.4618498+00:00",
-  "LastChanged": "2023-02-09T03:10:09.0388263+00:00",
+  "LastChanged": "2023-02-10T03:15:03.7387945+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-10T18:31:07.4618502+00:00",
@@ -304,6 +304,11 @@
     {
       "Time": "2023-02-09T03:10:09.0388265+00:00",
       "Rating": 4.87,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-10T03:15:03.7387948+00:00",
+      "Rating": 4.86,
       "NumberOfRatings": null
     }
   ],

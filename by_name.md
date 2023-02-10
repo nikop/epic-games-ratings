@@ -702,7 +702,7 @@
 | 700 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 701 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 702 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
-| 703 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
+| 703 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 704 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 705 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 706 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
