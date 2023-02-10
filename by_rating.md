@@ -198,32 +198,32 @@
 | 189 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 189 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 189 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 189 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
 | 189 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
 | 189 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 189 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 189 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
 | 189 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
 | 189 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
-| 206 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 206 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 206 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 206 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 206 | [Days Gone](games/d/days_gone.md) | 4.69 | 
-| 206 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 206 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 206 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 206 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
-| 206 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 206 | [Bad North](games/b/bad_north.md) | 4.69 | 
-| 206 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
-| 206 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.69 | 
-| 206 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 206 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 206 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
-| 206 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 206 | [High On Life](games/h/high_on_life.md) | 4.69 | 
-| 206 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
+| 205 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
+| 205 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 205 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 205 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 205 | [Days Gone](games/d/days_gone.md) | 4.69 | 
+| 205 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
+| 205 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 205 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 205 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
+| 205 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 205 | [Bad North](games/b/bad_north.md) | 4.69 | 
+| 205 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
+| 205 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.69 | 
+| 205 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 205 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 205 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
+| 205 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
+| 205 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
+| 205 | [High On Life](games/h/high_on_life.md) | 4.69 | 
+| 205 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
 | 225 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
 | 225 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 225 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
@@ -584,22 +584,22 @@
 | 573 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 573 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 573 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
-| 585 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
-| 585 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 585 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 585 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 585 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
-| 585 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
-| 585 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
-| 585 | [Faeria](games/f/faeria.md) | 4.44 | 
-| 585 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
-| 585 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 585 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
-| 585 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
-| 585 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
-| 585 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.44 | 
-| 585 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.44 | 
-| 585 | [Redout 2](games/r/redout_2.md) | 4.44 | 
+| 573 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.45 | 
+| 586 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
+| 586 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 586 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 586 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 586 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
+| 586 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
+| 586 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 586 | [Faeria](games/f/faeria.md) | 4.44 | 
+| 586 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
+| 586 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 586 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
+| 586 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
+| 586 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
+| 586 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.44 | 
+| 586 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 601 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 601 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 601 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 

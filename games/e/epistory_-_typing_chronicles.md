@@ -1,5 +1,5 @@
 # Epistory - Typing Chronicles
-Rating: 4.44 (-)  (as of 23.09.2022)  
+Rating: 4.45 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -20,3 +20,4 @@ Rating: 4.44 (-)  (as of 23.09.2022)
 | 2023-02-06 | 4.42 | - |
 | 2023-02-07 | 4.43 | - |
 | 2023-02-08 | 4.44 | - |
+| 2023-02-10 | 4.45 | - |
