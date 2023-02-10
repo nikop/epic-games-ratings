@@ -124,7 +124,7 @@
 | 122 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
 | 123 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 124 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
-| 125 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
+| 125 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.14 | 
 | 127 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 128 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
@@ -390,7 +390,7 @@
 | 388 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 389 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 390 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 391 | [Knockout City™](games/k/knockout_city™.md) | 4.33 | 
+| 391 | [Knockout City™](games/k/knockout_city™.md) | 4.36 | 
 | 392 | [Lake](games/l/lake.md) | 4.07 | 
 | 393 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 394 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
@@ -480,7 +480,7 @@
 | 478 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
 | 479 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 480 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 481 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 
+| 481 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 482 | [Old World](games/o/old_world.md) | 4.64 | 
 | 483 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 484 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
@@ -817,7 +817,7 @@
 | 815 | [Verdun](games/v/verdun.md) | 4.53 | 
 | 816 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 817 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
-| 818 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
+| 818 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 819 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
 | 820 | [Warface](games/w/warface.md) | 3.92 | 
 | 821 | [Warframe](games/w/warframe.md) | 4.61 | 
