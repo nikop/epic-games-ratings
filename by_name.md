@@ -269,7 +269,7 @@
 | 267 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 268 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 269 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 270 | [Forspoken](games/f/forspoken.md) | 4.00 | 
+| 270 | [Forspoken](games/f/forspoken.md) | 4.01 | 
 | 271 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 272 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 273 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
@@ -565,7 +565,7 @@
 | 563 | [Road 96](games/r/road_96.md) | 4.60 | 
 | 564 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
 | 565 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
-| 566 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 
+| 566 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 567 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
 | 568 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
 | 569 | [Roguebook](games/r/roguebook.md) | 4.61 | 
@@ -763,7 +763,7 @@
 | 761 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 762 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
 | 763 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
-| 764 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 
+| 764 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 765 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 766 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
 | 767 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
