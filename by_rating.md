@@ -5,12 +5,12 @@
 | 3 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.95 | 
 | 4 | [Hades](games/h/hades.md) | 4.92 | 
 | 4 | [Celeste](games/c/celeste.md) | 4.92 | 
+| 6 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 6 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
-| 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
-| 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 7 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
-| 7 | [Mago](games/m/mago.md) | 4.90 | 
-| 7 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 
+| 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
+| 8 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
+| 8 | [Mago](games/m/mago.md) | 4.90 | 
+| 8 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 
 | 12 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
 | 12 | [God of War](games/g/god_of_war.md) | 4.89 | 
@@ -802,7 +802,7 @@
 | 799 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 799 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 799 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 803 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.14 | 
+| 799 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.15 | 
 | 804 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
 | 804 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 806 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 

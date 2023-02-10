@@ -125,7 +125,7 @@
 | 123 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 124 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
 | 125 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.14 | 
+| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.15 | 
 | 127 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 128 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 129 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -691,7 +691,7 @@
 | 689 | [Tharsis](games/t/tharsis.md) | 4.04 | 
 | 690 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 691 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.61 | 
-| 692 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
+| 692 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 693 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
 | 694 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
 | 695 | [The Captain](games/t/the_captain.md) | 4.44 | 
