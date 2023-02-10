@@ -644,15 +644,15 @@
 | 638 | [ELEX](games/e/elex.md) | 4.40 | 
 | 638 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 638 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 638 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.40 | 
 | 638 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
 | 638 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
-| 647 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 647 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 647 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
-| 647 | [Othercide](games/o/othercide.md) | 4.39 | 
-| 647 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
-| 647 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 647 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.39 | 
+| 648 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 648 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 648 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
+| 648 | [Othercide](games/o/othercide.md) | 4.39 | 
+| 648 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
+| 648 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 654 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 654 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 654 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
@@ -836,8 +836,8 @@
 | 834 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 834 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
 | 834 | [Forspoken](games/f/forspoken.md) | 4.00 | 
-| 834 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.00 | 
-| 838 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
+| 837 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
+| 837 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.99 | 
 | 839 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 839 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 841 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.96 | 

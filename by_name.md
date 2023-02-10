@@ -318,7 +318,7 @@
 | 316 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 317 | [Hell is Others](games/h/hell_is_others.md) | 4.20 | 
 | 318 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 319 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.39 | 
+| 319 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.40 | 
 | 320 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
 | 321 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 322 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
@@ -529,7 +529,7 @@
 | 527 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 528 | [Prey](games/p/prey.md) | 4.62 | 
 | 529 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
-| 530 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.00 | 
+| 530 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.99 | 
 | 531 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.41 | 
 | 532 | [Quake](games/q/quake.md) | 4.77 | 
 | 533 | [Rage 2](games/r/rage_2.md) | 4.28 | 
