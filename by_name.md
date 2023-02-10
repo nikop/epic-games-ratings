@@ -547,7 +547,7 @@
 | 545 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 546 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 547 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 548 | [Relicta](games/r/relicta.md) | 4.15 | 
+| 548 | [Relicta](games/r/relicta.md) | 4.14 | 
 | 549 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
 | 550 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 551 | [Revita](games/r/revita.md) | 4.74 | 

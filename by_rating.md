@@ -800,9 +800,9 @@
 | 792 | [Flatout](games/f/flatout.md) | 4.16 | 
 | 799 | [Pine](games/p/pine.md) | 4.15 | 
 | 799 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
-| 799 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 799 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 799 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.15 | 
+| 803 | [Relicta](games/r/relicta.md) | 4.14 | 
 | 804 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
 | 804 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 806 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
