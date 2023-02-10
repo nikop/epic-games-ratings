@@ -594,7 +594,7 @@
 | 592 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 593 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 594 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 595 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.74 | 
+| 595 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.73 | 
 | 596 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 597 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
 | 598 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
@@ -729,7 +729,7 @@
 | 727 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 728 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 729 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 730 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.54 | 
+| 730 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.52 | 
 | 731 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 732 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 733 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
