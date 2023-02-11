@@ -197,7 +197,7 @@
 | 195 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 196 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 197 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
-| 198 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
+| 198 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 
 | 199 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 200 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
 | 201 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
@@ -391,7 +391,7 @@
 | 389 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 
 | 390 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 391 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 392 | [Knockout City™](games/k/knockout_city™.md) | 4.36 | 
+| 392 | [Knockout City™](games/k/knockout_city™.md) | 4.38 | 
 | 393 | [Lake](games/l/lake.md) | 4.07 | 
 | 394 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 395 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
@@ -426,7 +426,7 @@
 | 424 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 425 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.11 | 
 | 426 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 427 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
+| 427 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.58 | 
 | 428 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 429 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
 | 430 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
@@ -704,7 +704,7 @@
 | 702 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 703 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 704 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
-| 705 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
+| 705 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
 | 706 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 707 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 708 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
