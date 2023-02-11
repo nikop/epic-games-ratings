@@ -224,7 +224,7 @@
 | 222 | [EVE Online](games/e/eve_online.md) | 4.25 | 
 | 223 | [Everything](games/e/everything.md) | 4.62 | 
 | 224 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 225 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.95 | 
+| 225 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.96 | 
 | 226 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 227 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 
 | 228 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
