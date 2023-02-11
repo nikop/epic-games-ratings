@@ -102,7 +102,7 @@
 | 100 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 101 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 102 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
-| 103 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
+| 103 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.38 | 
 | 104 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 105 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 106 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
