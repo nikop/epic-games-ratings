@@ -806,7 +806,7 @@
 | 804 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 805 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 
 | 806 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 807 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.62 | 
+| 807 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 
 | 808 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 809 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.47 | 
 | 810 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
