@@ -530,7 +530,7 @@
 | 528 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 529 | [Prey](games/p/prey.md) | 4.62 | 
 | 530 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
-| 531 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.00 | 
+| 531 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.99 | 
 | 532 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.41 | 
 | 533 | [Quake](games/q/quake.md) | 4.77 | 
 | 534 | [Rage 2](games/r/rage_2.md) | 4.28 | 
@@ -731,7 +731,7 @@
 | 729 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 730 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 731 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 732 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.53 | 
+| 732 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.50 | 
 | 733 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 734 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 735 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
