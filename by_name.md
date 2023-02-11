@@ -241,7 +241,7 @@
 | 239 | [Far Cry](games/f/far_cry.md) | 4.42 | 
 | 240 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
 | 241 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 242 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
+| 242 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 243 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 244 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
 | 245 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
@@ -521,7 +521,7 @@
 | 519 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 520 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 521 | [Pine](games/p/pine.md) | 4.15 | 
-| 522 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.49 | 
+| 522 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.50 | 
 | 523 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 524 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.59 | 
 | 525 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
@@ -647,7 +647,7 @@
 | 645 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 646 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
 | 647 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
-| 648 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.61 | 
+| 648 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.63 | 
 | 649 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 650 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
 | 651 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
@@ -740,7 +740,7 @@
 | 738 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 739 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
 | 740 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 741 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.62 | 
+| 741 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.63 | 
 | 742 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
 | 743 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
 | 744 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
