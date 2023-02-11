@@ -171,7 +171,7 @@
 | 169 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 170 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 171 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
-| 172 | [Dead Space](games/d/dead_space.md) | 4.63 | 
+| 172 | [Dead Space](games/d/dead_space.md) | 4.64 | 
 | 173 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 174 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 175 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
@@ -517,7 +517,7 @@
 | 515 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
 | 516 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 517 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 518 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 518 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 519 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 520 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 521 | [Pine](games/p/pine.md) | 4.15 | 
@@ -535,7 +535,7 @@
 | 533 | [Quake](games/q/quake.md) | 4.77 | 
 | 534 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 535 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 536 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 536 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 537 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
 | 538 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 539 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
@@ -625,7 +625,7 @@
 | 623 | [SOMA](games/s/soma.md) | 4.64 | 
 | 624 | [Somerville](games/s/somerville.md) | 4.20 | 
 | 625 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 626 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
+| 626 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
 | 627 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 628 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
 | 629 | [Souldiers](games/s/souldiers.md) | 4.54 | 
