@@ -329,7 +329,7 @@
 | 327 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 328 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 329 | [Hob](games/h/hob.md) | 4.57 | 
-| 330 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
+| 330 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
 | 331 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 332 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 333 | [Horace](games/h/horace.md) | 4.51 | 
@@ -593,7 +593,7 @@
 | 591 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
 | 592 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 593 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
-| 594 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
+| 594 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 595 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 596 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 597 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.73 | 
@@ -680,7 +680,7 @@
 | 678 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 679 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 680 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 681 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.32 | 
+| 681 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 682 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 683 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 684 | [Tacoma](games/t/tacoma.md) | 4.41 | 
