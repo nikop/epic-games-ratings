@@ -125,7 +125,7 @@
 | 123 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 124 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
 | 125 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.16 | 
+| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.17 | 
 | 127 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 128 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 129 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -293,7 +293,7 @@
 | 291 | [GNOG](games/g/gnog.md) | 4.67 | 
 | 292 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 293 | [God of War](games/g/god_of_war.md) | 4.89 | 
-| 294 | [God's Trigger](games/g/god's_trigger.md) | 4.16 | 
+| 294 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
 | 295 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 296 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 297 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.96 | 
@@ -415,7 +415,7 @@
 | 413 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 414 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
 | 415 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.06 | 
-| 416 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
+| 416 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.55 | 
 | 417 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 418 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 419 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 

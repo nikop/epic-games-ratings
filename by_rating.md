@@ -456,35 +456,35 @@
 | 442 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
 | 442 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.55 | 
 | 442 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 
-| 457 | [VALORANT](games/v/valorant.md) | 4.54 | 
-| 457 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
-| 457 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 457 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
-| 457 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
-| 457 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
-| 457 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 457 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 457 | [Brawlhalla](games/b/brawlhalla.md) | 4.54 | 
-| 457 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
-| 457 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 468 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 468 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 468 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 468 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
-| 468 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 468 | [Verdun](games/v/verdun.md) | 4.53 | 
-| 468 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 
-| 468 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
-| 468 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
-| 468 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 468 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 468 | [RUINER](games/r/ruiner.md) | 4.53 | 
-| 468 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 468 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 468 | [Aztez](games/a/aztez.md) | 4.53 | 
-| 468 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 468 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
-| 468 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
+| 442 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.55 | 
+| 458 | [VALORANT](games/v/valorant.md) | 4.54 | 
+| 458 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
+| 458 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 458 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
+| 458 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
+| 458 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
+| 458 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 458 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 458 | [Brawlhalla](games/b/brawlhalla.md) | 4.54 | 
+| 458 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
+| 458 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 469 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
+| 469 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 469 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 469 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
+| 469 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 469 | [Verdun](games/v/verdun.md) | 4.53 | 
+| 469 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 
+| 469 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
+| 469 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
+| 469 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
+| 469 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
+| 469 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 469 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 469 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 469 | [Aztez](games/a/aztez.md) | 4.53 | 
+| 469 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 469 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
 | 486 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
 | 486 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 486 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -790,16 +790,16 @@
 | 785 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 785 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
 | 790 | [Space Punks](games/s/space_punks.md) | 4.17 | 
+| 790 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
 | 790 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
 | 790 | [Gone Home](games/g/gone_home.md) | 4.17 | 
-| 793 | [God's Trigger](games/g/god's_trigger.md) | 4.16 | 
-| 793 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 793 | [Submerged](games/s/submerged.md) | 4.16 | 
-| 793 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
-| 793 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
-| 793 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.16 | 
-| 793 | [Flatout](games/f/flatout.md) | 4.16 | 
-| 793 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
+| 790 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.17 | 
+| 795 | [Family Man](games/f/family_man.md) | 4.16 | 
+| 795 | [Submerged](games/s/submerged.md) | 4.16 | 
+| 795 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 795 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
+| 795 | [Flatout](games/f/flatout.md) | 4.16 | 
+| 795 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
 | 801 | [Pine](games/p/pine.md) | 4.15 | 
 | 801 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 801 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
