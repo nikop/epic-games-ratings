@@ -3,7 +3,7 @@
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
 | 2 | [20XX](games/2/20xx.md) | 4.61 | 
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
-| 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 4 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 5 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 6 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
@@ -28,7 +28,7 @@
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
-| 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 
+| 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
@@ -414,7 +414,7 @@
 | 412 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 413 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 414 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
-| 415 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.05 | 
+| 415 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.06 | 
 | 416 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
 | 417 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 418 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 

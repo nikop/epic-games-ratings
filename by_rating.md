@@ -104,16 +104,16 @@
 | 93 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
 | 103 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 103 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
+| 103 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 
 | 103 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
-| 106 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 106 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 106 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 106 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 
-| 106 | [Quake](games/q/quake.md) | 4.77 | 
-| 106 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
-| 106 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
-| 106 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
-| 106 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
+| 107 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 107 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 107 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
+| 107 | [Quake](games/q/quake.md) | 4.77 | 
+| 107 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
+| 107 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
+| 107 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
+| 107 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
 | 115 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 115 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 115 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
@@ -763,22 +763,22 @@
 | 760 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
 | 760 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
 | 760 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
+| 764 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 764 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 764 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
 | 764 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 764 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 768 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
-| 768 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 768 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 768 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 768 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 768 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 768 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 768 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 768 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 768 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 
-| 768 | [Hell is Others](games/h/hell_is_others.md) | 4.20 | 
-| 768 | [Somerville](games/s/somerville.md) | 4.20 | 
+| 769 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
+| 769 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 769 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 769 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 769 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 769 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 769 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 769 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 769 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 
+| 769 | [Hell is Others](games/h/hell_is_others.md) | 4.20 | 
+| 769 | [Somerville](games/s/somerville.md) | 4.20 | 
 | 780 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 780 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 780 | [Crayta](games/c/crayta.md) | 4.19 | 
@@ -826,9 +826,9 @@
 | 824 | [Lake](games/l/lake.md) | 4.07 | 
 | 824 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
 | 826 | [Godfall](games/g/godfall.md) | 4.06 | 
-| 827 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 827 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
-| 827 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.05 | 
+| 826 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.06 | 
+| 828 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 828 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 830 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 830 | [Tharsis](games/t/tharsis.md) | 4.04 | 
 | 830 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.04 | 
