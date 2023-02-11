@@ -792,14 +792,14 @@
 | 785 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.18 | 
 | 791 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 791 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
-| 793 | [God's Trigger](games/g/god's_trigger.md) | 4.16 | 
-| 793 | [Gone Home](games/g/gone_home.md) | 4.16 | 
-| 793 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 793 | [Submerged](games/s/submerged.md) | 4.16 | 
-| 793 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
-| 793 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
-| 793 | [Flatout](games/f/flatout.md) | 4.16 | 
-| 793 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
+| 791 | [Gone Home](games/g/gone_home.md) | 4.17 | 
+| 794 | [God's Trigger](games/g/god's_trigger.md) | 4.16 | 
+| 794 | [Family Man](games/f/family_man.md) | 4.16 | 
+| 794 | [Submerged](games/s/submerged.md) | 4.16 | 
+| 794 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 794 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
+| 794 | [Flatout](games/f/flatout.md) | 4.16 | 
+| 794 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
 | 801 | [Pine](games/p/pine.md) | 4.15 | 
 | 801 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 801 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
