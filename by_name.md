@@ -219,7 +219,7 @@
 | 217 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 218 | [Encased](games/e/encased.md) | 4.37 | 
 | 219 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 220 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.45 | 
+| 220 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.46 | 
 | 221 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 222 | [EVE Online](games/e/eve_online.md) | 4.25 | 
 | 223 | [Everything](games/e/everything.md) | 4.62 | 
@@ -300,7 +300,7 @@
 | 298 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 299 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 300 | [Good Company](games/g/good_company.md) | 4.41 | 
-| 301 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
+| 301 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
 | 302 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 303 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 304 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
@@ -415,7 +415,7 @@
 | 413 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 414 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
 | 415 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.05 | 
-| 416 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.54 | 
+| 416 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
 | 417 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 418 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 419 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
