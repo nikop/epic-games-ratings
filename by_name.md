@@ -110,7 +110,7 @@
 | 108 | [CARRION](games/c/carrion.md) | 4.68 | 
 | 109 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
 | 110 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 111 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
+| 111 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
 | 112 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 113 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 114 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
@@ -125,7 +125,7 @@
 | 123 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 124 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
 | 125 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.18 | 
+| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.16 | 
 | 127 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 128 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 129 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 

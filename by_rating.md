@@ -118,26 +118,26 @@
 | 115 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 115 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
 | 115 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 115 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 
 | 115 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 115 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
 | 115 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
 | 115 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 115 | [shapez](games/s/shapez.md) | 4.76 | 
-| 125 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 125 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
-| 125 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 125 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
-| 125 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 125 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 125 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
-| 125 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 125 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
-| 125 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
-| 125 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.75 | 
-| 125 | [Haven](games/h/haven.md) | 4.75 | 
-| 125 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
-| 125 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
+| 124 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 124 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
+| 124 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 124 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 124 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
+| 124 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
+| 124 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
+| 124 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
+| 124 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 124 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 
+| 124 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
+| 124 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.75 | 
+| 124 | [Haven](games/h/haven.md) | 4.75 | 
+| 124 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
+| 124 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
 | 139 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
 | 139 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 139 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
@@ -789,17 +789,17 @@
 | 785 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
 | 785 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 785 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
-| 785 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.18 | 
-| 791 | [Space Punks](games/s/space_punks.md) | 4.17 | 
-| 791 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
-| 791 | [Gone Home](games/g/gone_home.md) | 4.17 | 
-| 794 | [God's Trigger](games/g/god's_trigger.md) | 4.16 | 
-| 794 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 794 | [Submerged](games/s/submerged.md) | 4.16 | 
-| 794 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
-| 794 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
-| 794 | [Flatout](games/f/flatout.md) | 4.16 | 
-| 794 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
+| 790 | [Space Punks](games/s/space_punks.md) | 4.17 | 
+| 790 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
+| 790 | [Gone Home](games/g/gone_home.md) | 4.17 | 
+| 793 | [God's Trigger](games/g/god's_trigger.md) | 4.16 | 
+| 793 | [Family Man](games/f/family_man.md) | 4.16 | 
+| 793 | [Submerged](games/s/submerged.md) | 4.16 | 
+| 793 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 793 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
+| 793 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.16 | 
+| 793 | [Flatout](games/f/flatout.md) | 4.16 | 
+| 793 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
 | 801 | [Pine](games/p/pine.md) | 4.15 | 
 | 801 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 801 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
