@@ -387,7 +387,7 @@
 | 385 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 386 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 387 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 388 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 388 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
 | 389 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 
 | 390 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 391 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
@@ -415,7 +415,7 @@
 | 413 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 414 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
 | 415 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.05 | 
-| 416 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
+| 416 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.54 | 
 | 417 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 418 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 419 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
@@ -530,7 +530,7 @@
 | 528 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 529 | [Prey](games/p/prey.md) | 4.62 | 
 | 530 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
-| 531 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.99 | 
+| 531 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.00 | 
 | 532 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.41 | 
 | 533 | [Quake](games/q/quake.md) | 4.77 | 
 | 534 | [Rage 2](games/r/rage_2.md) | 4.28 | 

@@ -274,24 +274,24 @@
 | 261 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
 | 261 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 261 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 261 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
 | 261 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
 | 261 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
 | 261 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 261 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
-| 279 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 279 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 279 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 279 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 279 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
-| 279 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
-| 279 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 279 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 279 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
-| 279 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
-| 279 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
-| 279 | [APE OUT](games/a/ape_out.md) | 4.65 | 
-| 279 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
-| 279 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
+| 280 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 280 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 280 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 280 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 280 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
+| 280 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
+| 280 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
+| 280 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 280 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
+| 280 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
+| 280 | [APE OUT](games/a/ape_out.md) | 4.65 | 
+| 280 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
+| 280 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
 | 293 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 293 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 293 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
@@ -466,26 +466,26 @@
 | 457 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 457 | [Brawlhalla](games/b/brawlhalla.md) | 4.54 | 
 | 457 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
+| 457 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.54 | 
 | 457 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 468 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 468 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 468 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 468 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
-| 468 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 468 | [Verdun](games/v/verdun.md) | 4.53 | 
-| 468 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 
-| 468 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
-| 468 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
-| 468 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 468 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 468 | [RUINER](games/r/ruiner.md) | 4.53 | 
-| 468 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 468 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 468 | [Aztez](games/a/aztez.md) | 4.53 | 
-| 468 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 468 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
-| 468 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
-| 468 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.53 | 
+| 469 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
+| 469 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 469 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 469 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
+| 469 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 469 | [Verdun](games/v/verdun.md) | 4.53 | 
+| 469 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 
+| 469 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
+| 469 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
+| 469 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
+| 469 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
+| 469 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 469 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 469 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 469 | [Aztez](games/a/aztez.md) | 4.53 | 
+| 469 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 469 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
+| 469 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.53 | 
 | 487 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
 | 487 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 487 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -837,8 +837,8 @@
 | 835 | [Forspoken](games/f/forspoken.md) | 4.01 | 
 | 836 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 836 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
-| 838 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 838 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.99 | 
+| 836 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.00 | 
+| 839 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 840 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 840 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 842 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.96 | 
