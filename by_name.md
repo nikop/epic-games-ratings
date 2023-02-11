@@ -228,7 +228,7 @@
 | 226 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 227 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 
 | 228 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 229 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 
+| 229 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
 | 230 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 231 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 232 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
@@ -339,7 +339,7 @@
 | 337 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 338 | [House Party](games/h/house_party.md) | 4.30 | 
 | 339 | [Hue](games/h/hue.md) | 4.56 | 
-| 340 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 340 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
 | 341 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 342 | [Huntdown](games/h/huntdown.md) | 4.85 | 
 | 343 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
@@ -778,7 +778,7 @@
 | 776 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 777 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
 | 778 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 779 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
+| 779 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
 | 780 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
 | 781 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 782 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.33 | 

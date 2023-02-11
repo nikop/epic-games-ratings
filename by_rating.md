@@ -417,6 +417,7 @@
 | 410 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.57 | 
 | 410 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 410 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 410 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
 | 410 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 410 | [Hob](games/h/hob.md) | 4.57 | 
 | 410 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
@@ -429,18 +430,17 @@
 | 410 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 
 | 410 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.57 | 
 | 410 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
-| 430 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 430 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 430 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 430 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 
-| 430 | [Hue](games/h/hue.md) | 4.56 | 
-| 430 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
-| 430 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 430 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
-| 430 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 430 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 430 | [Observation](games/o/observation.md) | 4.56 | 
-| 430 | [The Medium](games/t/the_medium.md) | 4.56 | 
+| 431 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 431 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 431 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 431 | [Hue](games/h/hue.md) | 4.56 | 
+| 431 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
+| 431 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 431 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
+| 431 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 431 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 431 | [Observation](games/o/observation.md) | 4.56 | 
+| 431 | [The Medium](games/t/the_medium.md) | 4.56 | 
 | 442 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 442 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 442 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -499,7 +499,6 @@
 | 497 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 497 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 497 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 497 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 497 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 497 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 497 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
@@ -510,19 +509,20 @@
 | 497 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 497 | [IXION](games/i/ixion.md) | 4.51 | 
 | 497 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.51 | 
-| 511 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 511 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 511 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 511 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 511 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
-| 511 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
-| 511 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 511 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 511 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 511 | [Sable](games/s/sable.md) | 4.50 | 
-| 511 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 511 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
-| 511 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
+| 510 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 510 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 510 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 510 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 510 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
+| 510 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
+| 510 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
+| 510 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 510 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 510 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 510 | [Sable](games/s/sable.md) | 4.50 | 
+| 510 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
+| 510 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
+| 510 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 524 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 524 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 524 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -595,21 +595,21 @@
 | 587 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
 | 587 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 587 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
+| 587 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
 | 587 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 587 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
 | 587 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 587 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
 | 587 | [Redout 2](games/r/redout_2.md) | 4.44 | 
-| 601 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 601 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 601 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
-| 601 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
-| 601 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
-| 601 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 601 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
-| 601 | [Predecessor](games/p/predecessor.md) | 4.43 | 
-| 601 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
-| 601 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 
+| 602 | [Sheltered](games/s/sheltered.md) | 4.43 | 
+| 602 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 602 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
+| 602 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
+| 602 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
+| 602 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
+| 602 | [Predecessor](games/p/predecessor.md) | 4.43 | 
+| 602 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
+| 602 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 
 | 611 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 611 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 611 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
