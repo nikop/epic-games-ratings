@@ -509,20 +509,20 @@
 | 497 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 497 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 497 | [IXION](games/i/ixion.md) | 4.51 | 
-| 510 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 510 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 510 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 510 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 510 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
-| 510 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
-| 510 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 510 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 510 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 510 | [Sable](games/s/sable.md) | 4.50 | 
-| 510 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 510 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
-| 510 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
-| 510 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.50 | 
+| 497 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.51 | 
+| 511 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 511 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 511 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 511 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 511 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
+| 511 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
+| 511 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 511 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 511 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 511 | [Sable](games/s/sable.md) | 4.50 | 
+| 511 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
+| 511 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
+| 511 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 524 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 524 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 524 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -735,10 +735,10 @@
 | 724 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 724 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
 | 735 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 735 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 735 | [Dark Light](games/d/dark_light.md) | 4.28 | 
-| 737 | [Steelrising](games/s/steelrising.md) | 4.27 | 
-| 737 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
-| 737 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
+| 738 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
+| 738 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
 | 740 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 740 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
 | 740 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
@@ -843,11 +843,11 @@
 | 840 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 842 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.96 | 
 | 843 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
+| 844 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.94 | 
 | 844 | [Conarium](games/c/conarium.md) | 3.94 | 
 | 844 | [Patron](games/p/patron.md) | 3.94 | 
 | 844 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
-| 847 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
-| 847 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
+| 848 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 849 | [Warface](games/w/warface.md) | 3.92 | 
 | 849 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 3.92 | 
 | 849 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.92 | 

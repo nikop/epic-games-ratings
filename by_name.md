@@ -438,7 +438,7 @@
 | 436 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 437 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
 | 438 | [Minit](games/m/minit.md) | 4.55 | 
-| 439 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
+| 439 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.94 | 
 | 440 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 441 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
 | 442 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
@@ -652,7 +652,7 @@
 | 650 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
 | 651 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
 | 652 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 653 | [Steelrising](games/s/steelrising.md) | 4.27 | 
+| 653 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 654 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
 | 655 | [STG Football](games/s/stg_football.md) | 4.46 | 
 | 656 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
@@ -731,7 +731,7 @@
 | 729 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 730 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 731 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 732 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.50 | 
+| 732 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.51 | 
 | 733 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 734 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 735 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
