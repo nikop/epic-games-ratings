@@ -285,6 +285,7 @@
 | 280 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 280 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 280 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
+| 280 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 280 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 280 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 280 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
@@ -292,18 +293,17 @@
 | 280 | [APE OUT](games/a/ape_out.md) | 4.65 | 
 | 280 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
 | 280 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
-| 293 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 293 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 293 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 293 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 293 | [Old World](games/o/old_world.md) | 4.64 | 
-| 293 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 293 | [SOMA](games/s/soma.md) | 4.64 | 
-| 293 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
-| 293 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
-| 293 | [Dead Space](games/d/dead_space.md) | 4.64 | 
-| 293 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
-| 293 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
+| 294 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 294 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 294 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 294 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 294 | [Old World](games/o/old_world.md) | 4.64 | 
+| 294 | [SOMA](games/s/soma.md) | 4.64 | 
+| 294 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
+| 294 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
+| 294 | [Dead Space](games/d/dead_space.md) | 4.64 | 
+| 294 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
+| 294 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 305 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 305 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 305 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
@@ -807,11 +807,11 @@
 | 805 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
 | 805 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 807 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 808 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
-| 808 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
-| 808 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
-| 808 | [Train Valley 2](games/t/train_valley_2.md) | 4.11 | 
-| 808 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.11 | 
+| 807 | [Train Valley 2](games/t/train_valley_2.md) | 4.12 | 
+| 809 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
+| 809 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
+| 809 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
+| 809 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.11 | 
 | 813 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 813 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
 | 813 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
