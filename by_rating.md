@@ -422,7 +422,6 @@
 | 411 | [Hob](games/h/hob.md) | 4.57 | 
 | 411 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
 | 411 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 411 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
 | 411 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
 | 411 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 411 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
@@ -430,17 +429,18 @@
 | 411 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 
 | 411 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.57 | 
 | 411 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
-| 431 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 431 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 431 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 431 | [Hue](games/h/hue.md) | 4.56 | 
-| 431 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
-| 431 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 431 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
-| 431 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 431 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 431 | [Observation](games/o/observation.md) | 4.56 | 
-| 431 | [The Medium](games/t/the_medium.md) | 4.56 | 
+| 430 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 430 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 430 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 430 | [Hue](games/h/hue.md) | 4.56 | 
+| 430 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
+| 430 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 430 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
+| 430 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
+| 430 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 430 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 430 | [Observation](games/o/observation.md) | 4.56 | 
+| 430 | [The Medium](games/t/the_medium.md) | 4.56 | 
 | 442 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 442 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 442 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -508,41 +508,41 @@
 | 497 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 497 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 497 | [IXION](games/i/ixion.md) | 4.51 | 
-| 497 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.51 | 
-| 510 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 510 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 510 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 510 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 510 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
-| 510 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
-| 510 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
-| 510 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 510 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 510 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.50 | 
-| 510 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 510 | [Sable](games/s/sable.md) | 4.50 | 
-| 510 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 510 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
-| 510 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
-| 525 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 525 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 525 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 525 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 525 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 525 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 525 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 525 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 525 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 525 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
-| 525 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 525 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
-| 525 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
-| 525 | [The Surge](games/t/the_surge.md) | 4.49 | 
-| 525 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 525 | [CryoFall](games/c/cryofall.md) | 4.49 | 
-| 525 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 525 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 525 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
+| 509 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 509 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 509 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 509 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 509 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
+| 509 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
+| 509 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
+| 509 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 509 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 509 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.50 | 
+| 509 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 509 | [Sable](games/s/sable.md) | 4.50 | 
+| 509 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
+| 509 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
+| 509 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
+| 524 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 524 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 524 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 524 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 524 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 524 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 524 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 524 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 524 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 524 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
+| 524 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 524 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 524 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
+| 524 | [The Surge](games/t/the_surge.md) | 4.49 | 
+| 524 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 524 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 524 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 524 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 524 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
+| 524 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.49 | 
 | 544 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 544 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 544 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 

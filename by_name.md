@@ -389,7 +389,7 @@
 | 387 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 388 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
 | 389 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 
-| 390 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.57 | 
+| 390 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
 | 391 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 392 | [Knockout City™](games/k/knockout_city™.md) | 4.38 | 
 | 393 | [Lake](games/l/lake.md) | 4.07 | 
@@ -731,7 +731,7 @@
 | 729 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 730 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 731 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 732 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.51 | 
+| 732 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.49 | 
 | 733 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 734 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 735 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
