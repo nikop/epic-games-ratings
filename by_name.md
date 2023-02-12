@@ -153,7 +153,7 @@
 | 151 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 152 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 153 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 154 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.26 | 
+| 154 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.23 | 
 | 155 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
 | 156 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
 | 157 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
@@ -339,7 +339,7 @@
 | 337 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 338 | [House Party](games/h/house_party.md) | 4.30 | 
 | 339 | [Hue](games/h/hue.md) | 4.56 | 
-| 340 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
+| 340 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 341 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 342 | [Huntdown](games/h/huntdown.md) | 4.85 | 
 | 343 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
@@ -408,7 +408,7 @@
 | 406 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 407 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 408 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
-| 409 | [Limbo](games/l/limbo.md) | 4.63 | 
+| 409 | [Limbo](games/l/limbo.md) | 4.62 | 
 | 410 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
 | 411 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
 | 412 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
@@ -493,7 +493,7 @@
 | 491 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 492 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 493 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 494 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 494 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 495 | [Outward](games/o/outward.md) | 4.55 | 
 | 496 | [Overcooked](games/o/overcooked.md) | 4.67 | 
 | 497 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
