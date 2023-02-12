@@ -125,7 +125,7 @@
 | 123 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 124 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
 | 125 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.17 | 
+| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.18 | 
 | 127 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 128 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 129 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -387,7 +387,7 @@
 | 385 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 386 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 387 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 388 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
+| 388 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
 | 389 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 
 | 390 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
 | 391 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
@@ -639,7 +639,7 @@
 | 637 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
 | 638 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
 | 639 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
-| 640 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 
+| 640 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
 | 641 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 642 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 
 | 643 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.60 | 
@@ -812,7 +812,7 @@
 | 810 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 811 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 812 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 813 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.81 | 
+| 813 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.82 | 
 | 814 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 815 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 816 | [Vampyr](games/v/vampyr.md) | 4.32 | 
