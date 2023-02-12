@@ -234,7 +234,7 @@
 | 232 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 233 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 234 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 235 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
+| 235 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
 | 236 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
 | 237 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 238 | [Fangs](games/f/fangs.md) | 4.09 | 
@@ -647,7 +647,7 @@
 | 645 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 646 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
 | 647 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
-| 648 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.63 | 
+| 648 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.64 | 
 | 649 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 650 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
 | 651 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 

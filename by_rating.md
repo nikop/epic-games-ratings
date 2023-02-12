@@ -304,20 +304,20 @@
 | 295 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
 | 295 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
 | 295 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
-| 305 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 305 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 305 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 305 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 305 | [ABZU](games/a/abzu.md) | 4.63 | 
-| 305 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
-| 305 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.63 | 
-| 305 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
-| 305 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 305 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 
-| 305 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 305 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
-| 305 | [GigaBash](games/g/gigabash.md) | 4.63 | 
-| 305 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.63 | 
+| 295 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.64 | 
+| 306 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 306 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 306 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 306 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 306 | [ABZU](games/a/abzu.md) | 4.63 | 
+| 306 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
+| 306 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.63 | 
+| 306 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
+| 306 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
+| 306 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 
+| 306 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 306 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
+| 306 | [GigaBash](games/g/gigabash.md) | 4.63 | 
 | 319 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 319 | [Prey](games/p/prey.md) | 4.62 | 
 | 319 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
@@ -509,21 +509,21 @@
 | 497 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 497 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 497 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
+| 497 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
 | 497 | [IXION](games/i/ixion.md) | 4.51 | 
 | 497 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.51 | 
-| 512 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 512 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 512 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 512 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 512 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
-| 512 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 512 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 512 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.50 | 
-| 512 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 512 | [Sable](games/s/sable.md) | 4.50 | 
-| 512 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 512 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
-| 512 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
+| 513 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 513 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 513 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 513 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 513 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
+| 513 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 513 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 513 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.50 | 
+| 513 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 513 | [Sable](games/s/sable.md) | 4.50 | 
+| 513 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
+| 513 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 525 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 525 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 525 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
