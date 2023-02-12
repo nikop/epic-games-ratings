@@ -545,7 +545,7 @@
 | 543 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 544 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 545 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
-| 546 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 3.92 | 
+| 546 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.07 | 
 | 547 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 548 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 549 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
@@ -819,7 +819,7 @@
 | 817 | [Verdun](games/v/verdun.md) | 4.53 | 
 | 818 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 819 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
-| 820 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
+| 820 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 821 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
 | 822 | [Warface](games/w/warface.md) | 3.92 | 
 | 823 | [Warframe](games/w/warframe.md) | 4.61 | 
