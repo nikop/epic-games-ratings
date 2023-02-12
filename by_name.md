@@ -114,7 +114,7 @@
 | 112 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 113 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 114 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 115 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
+| 115 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 116 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 117 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
 | 118 | [Chimeraland](games/c/chimeraland.md) | 3.83 | 
@@ -764,7 +764,7 @@
 | 762 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 763 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
 | 764 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
-| 765 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 
+| 765 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 766 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 767 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
 | 768 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
@@ -773,7 +773,7 @@
 | 771 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 772 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 773 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 774 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.85 | 
+| 774 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.84 | 
 | 775 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 776 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 777 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
