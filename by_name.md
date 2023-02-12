@@ -329,7 +329,7 @@
 | 327 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 328 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 329 | [Hob](games/h/hob.md) | 4.57 | 
-| 330 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
+| 330 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
 | 331 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 332 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 333 | [Horace](games/h/horace.md) | 4.51 | 
@@ -523,7 +523,7 @@
 | 521 | [Pine](games/p/pine.md) | 4.15 | 
 | 522 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.50 | 
 | 523 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 524 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.59 | 
+| 524 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 
 | 525 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 526 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 527 | [Predecessor](games/p/predecessor.md) | 4.43 | 
@@ -731,7 +731,7 @@
 | 729 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 730 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 731 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 732 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.49 | 
+| 732 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.50 | 
 | 733 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 734 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 735 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
