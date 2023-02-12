@@ -117,7 +117,7 @@
 | 115 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 116 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 117 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
-| 118 | [Chimeraland](games/c/chimeraland.md) | 3.83 | 
+| 118 | [Chimeraland](games/c/chimeraland.md) | 3.80 | 
 | 119 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 120 | [Chorus](games/c/chorus.md) | 4.47 | 
 | 121 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
@@ -198,7 +198,7 @@
 | 196 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 197 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 198 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 
-| 199 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 199 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
 | 200 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
 | 201 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 202 | [DOOM (1993)](games/d/doom_(1993).md) | 4.84 | 
@@ -391,7 +391,7 @@
 | 389 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 
 | 390 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
 | 391 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 392 | [Knockout City™](games/k/knockout_city™.md) | 4.38 | 
+| 392 | [Knockout City™](games/k/knockout_city™.md) | 4.35 | 
 | 393 | [Lake](games/l/lake.md) | 4.07 | 
 | 394 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 395 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
