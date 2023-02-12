@@ -195,7 +195,6 @@
 | 190 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
 | 190 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 190 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
-| 190 | [The Witness](games/t/the_witness.md) | 4.70 | 
 | 190 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 190 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 190 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
@@ -205,26 +204,27 @@
 | 190 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
 | 190 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
 | 190 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
-| 206 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 206 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 206 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 206 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 206 | [Days Gone](games/d/days_gone.md) | 4.69 | 
-| 206 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 206 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 206 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 206 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
-| 206 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 206 | [Bad North](games/b/bad_north.md) | 4.69 | 
-| 206 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
-| 206 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.69 | 
-| 206 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 206 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 206 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
-| 206 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
-| 206 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 206 | [High On Life](games/h/high_on_life.md) | 4.69 | 
-| 206 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
+| 205 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
+| 205 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 205 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 205 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 205 | [Days Gone](games/d/days_gone.md) | 4.69 | 
+| 205 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
+| 205 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 205 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 205 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
+| 205 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 205 | [Bad North](games/b/bad_north.md) | 4.69 | 
+| 205 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
+| 205 | [The Witness](games/t/the_witness.md) | 4.69 | 
+| 205 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.69 | 
+| 205 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 205 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 205 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
+| 205 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
+| 205 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
+| 205 | [High On Life](games/h/high_on_life.md) | 4.69 | 
+| 205 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
 | 226 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
 | 226 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 226 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
@@ -509,21 +509,21 @@
 | 497 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 497 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 497 | [IXION](games/i/ixion.md) | 4.51 | 
-| 510 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 510 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 510 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 510 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 510 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
-| 510 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
-| 510 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 510 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 510 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.50 | 
-| 510 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 510 | [Sable](games/s/sable.md) | 4.50 | 
-| 510 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 510 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
-| 510 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
-| 510 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.50 | 
+| 497 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.51 | 
+| 511 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 511 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 511 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 511 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 511 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
+| 511 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
+| 511 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 511 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 511 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.50 | 
+| 511 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 511 | [Sable](games/s/sable.md) | 4.50 | 
+| 511 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
+| 511 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
+| 511 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 525 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 525 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 525 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -636,19 +636,19 @@
 | 622 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 622 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 622 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 622 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 
-| 638 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 638 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 638 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 638 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
-| 638 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
-| 638 | [ELEX](games/e/elex.md) | 4.40 | 
-| 638 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 638 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 638 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
-| 638 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.40 | 
-| 638 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
-| 638 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
+| 637 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 637 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 637 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 637 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
+| 637 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
+| 637 | [ELEX](games/e/elex.md) | 4.40 | 
+| 637 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 637 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 637 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
+| 637 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.40 | 
+| 637 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
+| 637 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
+| 637 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 650 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 650 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 650 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
@@ -789,11 +789,11 @@
 | 785 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
 | 785 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 785 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
-| 785 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.18 | 
-| 791 | [Space Punks](games/s/space_punks.md) | 4.17 | 
-| 791 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
-| 791 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
-| 791 | [Gone Home](games/g/gone_home.md) | 4.17 | 
+| 790 | [Space Punks](games/s/space_punks.md) | 4.17 | 
+| 790 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
+| 790 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
+| 790 | [Gone Home](games/g/gone_home.md) | 4.17 | 
+| 790 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.17 | 
 | 795 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 795 | [Submerged](games/s/submerged.md) | 4.16 | 
 | 795 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 

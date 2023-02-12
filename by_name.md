@@ -125,7 +125,7 @@
 | 123 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 124 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
 | 125 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.18 | 
+| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.17 | 
 | 127 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 128 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 129 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -579,7 +579,7 @@
 | 577 | [Sable](games/s/sable.md) | 4.50 | 
 | 578 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
 | 579 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 580 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 
+| 580 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
 | 581 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 582 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
 | 583 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
@@ -731,7 +731,7 @@
 | 729 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 730 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 731 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 732 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.50 | 
+| 732 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.51 | 
 | 733 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 734 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 735 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
@@ -749,7 +749,7 @@
 | 747 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.83 | 
 | 748 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
 | 749 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
-| 750 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 750 | [The Witness](games/t/the_witness.md) | 4.69 | 
 | 751 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 752 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 753 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
