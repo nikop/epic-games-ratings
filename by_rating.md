@@ -726,7 +726,6 @@
 | 724 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 724 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 724 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 724 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 724 | [The Fall](games/t/the_fall.md) | 4.29 | 
 | 724 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
 | 724 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
@@ -734,9 +733,10 @@
 | 724 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
 | 724 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 724 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 735 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 735 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 735 | [Dark Light](games/d/dark_light.md) | 4.28 | 
+| 734 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 734 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 734 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 734 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 738 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 738 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
 | 740 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
