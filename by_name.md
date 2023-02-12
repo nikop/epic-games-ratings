@@ -329,7 +329,7 @@
 | 327 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 328 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 329 | [Hob](games/h/hob.md) | 4.57 | 
-| 330 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
+| 330 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.80 | 
 | 331 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 332 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 333 | [Horace](games/h/horace.md) | 4.51 | 
@@ -451,7 +451,7 @@
 | 449 | [Mutazione](games/m/mutazione.md) | 4.62 | 
 | 450 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
 | 451 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 452 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 452 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
 | 453 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 454 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
 | 455 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 

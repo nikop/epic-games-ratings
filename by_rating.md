@@ -91,17 +91,17 @@
 | 78 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
 | 78 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
 | 78 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
+| 78 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.80 | 
 | 78 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
-| 93 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 93 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
-| 93 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 93 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 93 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 93 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 93 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 93 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 93 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
-| 93 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
+| 94 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 94 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
+| 94 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 94 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
+| 94 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 94 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 94 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
+| 94 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 94 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
 | 103 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 103 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 103 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 
@@ -232,6 +232,7 @@
 | 226 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 226 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 226 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
+| 226 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
 | 226 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
 | 226 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
 | 226 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
@@ -242,23 +243,22 @@
 | 226 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
 | 226 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
 | 226 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
-| 243 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 243 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 243 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 243 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 243 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 243 | [Overcooked](games/o/overcooked.md) | 4.67 | 
-| 243 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 243 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
-| 243 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
-| 243 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
-| 243 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
-| 243 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
-| 243 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 243 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
-| 243 | [Card Shark](games/c/card_shark.md) | 4.67 | 
-| 243 | [GNOG](games/g/gnog.md) | 4.67 | 
-| 243 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
+| 244 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 244 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 244 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 244 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 244 | [Overcooked](games/o/overcooked.md) | 4.67 | 
+| 244 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 244 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
+| 244 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
+| 244 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
+| 244 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
+| 244 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
+| 244 | [Eastward](games/e/eastward.md) | 4.67 | 
+| 244 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
+| 244 | [Card Shark](games/c/card_shark.md) | 4.67 | 
+| 244 | [GNOG](games/g/gnog.md) | 4.67 | 
+| 244 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
 | 260 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 260 | [Trackmania](games/t/trackmania.md) | 4.66 | 
 | 260 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
