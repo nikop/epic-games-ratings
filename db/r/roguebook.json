@@ -1,10 +1,10 @@
 {
   "ID": "ed58510215d54a33b89ea805e0d773d7",
   "Name": "Roguebook",
-  "Rating": 4.61,
+  "Rating": 4.59,
   "NumberOfRatings": 64,
   "FirstSeen": "2022-07-22T20:17:42.1468934+00:00",
-  "LastChanged": "2023-01-20T02:11:39.3364848+00:00",
+  "LastChanged": "2023-02-12T05:57:01.217091+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:42.1468938+00:00",
@@ -134,6 +134,11 @@
     {
       "Time": "2023-01-20T02:11:39.336485+00:00",
       "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-12T05:57:01.2170912+00:00",
+      "Rating": 4.59,
       "NumberOfRatings": null
     }
   ],

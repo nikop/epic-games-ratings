@@ -292,18 +292,18 @@
 | 280 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
 | 280 | [APE OUT](games/a/ape_out.md) | 4.65 | 
 | 280 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
+| 280 | [Dead Space](games/d/dead_space.md) | 4.65 | 
 | 280 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
-| 294 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 294 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 294 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 294 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 294 | [Old World](games/o/old_world.md) | 4.64 | 
-| 294 | [SOMA](games/s/soma.md) | 4.64 | 
-| 294 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
-| 294 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
-| 294 | [Dead Space](games/d/dead_space.md) | 4.64 | 
-| 294 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
-| 294 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
+| 295 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 295 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 295 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 295 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 295 | [Old World](games/o/old_world.md) | 4.64 | 
+| 295 | [SOMA](games/s/soma.md) | 4.64 | 
+| 295 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
+| 295 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
+| 295 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
+| 295 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 305 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 305 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 305 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
@@ -356,42 +356,42 @@
 | 333 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
 | 333 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
 | 333 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
-| 333 | [Roguebook](games/r/roguebook.md) | 4.61 | 
 | 333 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.61 | 
 | 333 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 333 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
-| 361 | [Control](games/c/control.md) | 4.60 | 
-| 361 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
-| 361 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
-| 361 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 361 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 361 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
-| 361 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 361 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 361 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
-| 361 | [DOOM 3](games/d/doom_3.md) | 4.60 | 
-| 361 | [Road 96](games/r/road_96.md) | 4.60 | 
-| 361 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 361 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.60 | 
-| 361 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 361 | [NORCO](games/n/norco.md) | 4.60 | 
-| 361 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.60 | 
-| 361 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.60 | 
-| 378 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 378 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 378 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
-| 378 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 378 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 
-| 378 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
-| 378 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
-| 378 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
-| 378 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
-| 378 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
-| 378 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
-| 378 | [Breathedge](games/b/breathedge.md) | 4.59 | 
-| 378 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
-| 378 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 
-| 378 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
+| 360 | [Control](games/c/control.md) | 4.60 | 
+| 360 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
+| 360 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
+| 360 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 360 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
+| 360 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
+| 360 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 360 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 360 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
+| 360 | [DOOM 3](games/d/doom_3.md) | 4.60 | 
+| 360 | [Road 96](games/r/road_96.md) | 4.60 | 
+| 360 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
+| 360 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.60 | 
+| 360 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
+| 360 | [NORCO](games/n/norco.md) | 4.60 | 
+| 360 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.60 | 
+| 360 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.60 | 
+| 377 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 377 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 377 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
+| 377 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 377 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 
+| 377 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 377 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
+| 377 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
+| 377 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
+| 377 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
+| 377 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
+| 377 | [Roguebook](games/r/roguebook.md) | 4.59 | 
+| 377 | [Breathedge](games/b/breathedge.md) | 4.59 | 
+| 377 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
+| 377 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 
+| 377 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 393 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
 | 393 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 393 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 

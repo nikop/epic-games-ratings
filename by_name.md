@@ -171,7 +171,7 @@
 | 169 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 170 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 171 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
-| 172 | [Dead Space](games/d/dead_space.md) | 4.64 | 
+| 172 | [Dead Space](games/d/dead_space.md) | 4.65 | 
 | 173 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 174 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 175 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
@@ -569,7 +569,7 @@
 | 567 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 568 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
 | 569 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 570 | [Roguebook](games/r/roguebook.md) | 4.61 | 
+| 570 | [Roguebook](games/r/roguebook.md) | 4.59 | 
 | 571 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 572 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
 | 573 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
