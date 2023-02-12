@@ -104,16 +104,16 @@
 | 94 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
 | 103 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 103 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
-| 103 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 
 | 103 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
-| 107 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 107 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 107 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 107 | [Quake](games/q/quake.md) | 4.77 | 
-| 107 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
-| 107 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
-| 107 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
-| 107 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
+| 106 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 106 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 106 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
+| 106 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 
+| 106 | [Quake](games/q/quake.md) | 4.77 | 
+| 106 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
+| 106 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
+| 106 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
+| 106 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
 | 115 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 115 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 115 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
@@ -730,13 +730,13 @@
 | 724 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
 | 724 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 724 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
-| 724 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
 | 724 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 724 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 734 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 734 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
-| 734 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 734 | [Dark Light](games/d/dark_light.md) | 4.28 | 
+| 733 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 733 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 733 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 733 | [Dark Light](games/d/dark_light.md) | 4.28 | 
+| 733 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
 | 738 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 738 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
 | 740 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 

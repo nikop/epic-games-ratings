@@ -28,7 +28,7 @@
 | 26 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
-| 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 
+| 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 
 | 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
@@ -413,7 +413,7 @@
 | 411 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
 | 412 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 413 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 414 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
+| 414 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
 | 415 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.06 | 
 | 416 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.55 | 
 | 417 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
