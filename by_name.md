@@ -123,7 +123,7 @@
 | 121 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
 | 122 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
 | 123 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 124 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.80 | 
+| 124 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
 | 125 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.18 | 
 | 127 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
@@ -196,7 +196,7 @@
 | 194 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 195 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 196 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 197 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
+| 197 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 198 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 
 | 199 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 200 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
@@ -269,7 +269,7 @@
 | 267 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 268 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 269 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 270 | [Forspoken](games/f/forspoken.md) | 4.01 | 
+| 270 | [Forspoken](games/f/forspoken.md) | 4.04 | 
 | 271 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 272 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 273 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
