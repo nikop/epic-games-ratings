@@ -160,7 +160,7 @@
 | 158 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 159 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 160 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 161 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 161 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
 | 162 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 163 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 164 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 

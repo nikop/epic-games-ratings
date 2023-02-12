@@ -482,20 +482,20 @@
 | 469 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 469 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 469 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 469 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
 | 469 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 469 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 469 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
-| 486 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
-| 486 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 486 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 486 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 486 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
-| 486 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 486 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 486 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
-| 486 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 486 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 486 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 487 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
+| 487 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 487 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 487 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 487 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 487 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 487 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
+| 487 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 487 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 487 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 497 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 497 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 497 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
