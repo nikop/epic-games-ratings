@@ -96,7 +96,7 @@
 | 94 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 95 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 96 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 97 | [Brawlhalla](games/b/brawlhalla.md) | 4.54 | 
+| 97 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 
 | 98 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 99 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 100 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -545,7 +545,7 @@
 | 543 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 544 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 545 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
-| 546 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.07 | 
+| 546 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.10 | 
 | 547 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 548 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 549 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
