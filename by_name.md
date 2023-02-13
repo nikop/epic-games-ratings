@@ -255,7 +255,7 @@
 | 253 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
 | 254 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 255 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 
-| 256 | [Fez](games/f/fez.md) | 4.71 | 
+| 256 | [Fez](games/f/fez.md) | 4.70 | 
 | 257 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
 | 258 | [Figment](games/f/figment.md) | 4.45 | 
 | 259 | [Filament](games/f/filament.md) | 4.32 | 
@@ -403,7 +403,7 @@
 | 401 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
 | 402 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 403 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
-| 404 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 
+| 404 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
 | 405 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
 | 406 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
 | 407 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
@@ -638,7 +638,7 @@
 | 636 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 637 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
 | 638 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
-| 639 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
+| 639 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 640 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
 | 641 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
 | 642 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 

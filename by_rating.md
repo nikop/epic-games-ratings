@@ -180,7 +180,6 @@
 | 175 | [Barony](games/b/barony.md) | 4.71 | 
 | 175 | [Timberborn](games/t/timberborn.md) | 4.71 | 
 | 175 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
-| 175 | [Fez](games/f/fez.md) | 4.71 | 
 | 175 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 175 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
 | 175 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
@@ -189,22 +188,23 @@
 | 175 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 175 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
 | 175 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 190 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
-| 190 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
-| 190 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 190 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
-| 190 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 190 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
-| 190 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
-| 190 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 190 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 190 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 190 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
-| 190 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 190 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 190 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
-| 190 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
-| 190 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
+| 189 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
+| 189 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
+| 189 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 189 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
+| 189 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 189 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
+| 189 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
+| 189 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 189 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
+| 189 | [Fez](games/f/fez.md) | 4.70 | 
+| 189 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 189 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
+| 189 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 189 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
+| 189 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
+| 189 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
+| 189 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 206 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 206 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 206 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
@@ -380,7 +380,6 @@
 | 377 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 377 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 377 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 377 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 
 | 377 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 377 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
 | 377 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
@@ -392,21 +391,22 @@
 | 377 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 377 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 
 | 377 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
-| 393 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
-| 393 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 393 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 393 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
-| 393 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 393 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 393 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 393 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
-| 393 | [Moving Out](games/m/moving_out.md) | 4.58 | 
-| 393 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 393 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
-| 393 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
-| 393 | [RiME](games/r/rime.md) | 4.58 | 
-| 393 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 393 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
+| 392 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
+| 392 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 392 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 392 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
+| 392 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 392 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
+| 392 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 392 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
+| 392 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
+| 392 | [Moving Out](games/m/moving_out.md) | 4.58 | 
+| 392 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
+| 392 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
+| 392 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
+| 392 | [RiME](games/r/rime.md) | 4.58 | 
+| 392 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
+| 392 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 408 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 408 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 408 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
@@ -858,9 +858,9 @@
 | 855 | [Blood of Steel](games/b/blood_of_steel.md) | 3.90 | 
 | 857 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 858 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.83 | 
-| 859 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
-| 860 | [Chimeraland](games/c/chimeraland.md) | 3.80 | 
-| 861 | [Saints Row](games/s/saints_row.md) | 3.78 | 
+| 859 | [Chimeraland](games/c/chimeraland.md) | 3.80 | 
+| 860 | [Saints Row](games/s/saints_row.md) | 3.78 | 
+| 860 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 862 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
 | 863 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 864 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
