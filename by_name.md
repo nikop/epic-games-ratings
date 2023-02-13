@@ -545,7 +545,7 @@
 | 543 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 544 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 545 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
-| 546 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.10 | 
+| 546 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.11 | 
 | 547 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 548 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 549 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
@@ -731,7 +731,7 @@
 | 729 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 730 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 731 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 732 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.51 | 
+| 732 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.53 | 
 | 733 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 734 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 735 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
