@@ -330,7 +330,7 @@
 | 328 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 329 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 330 | [Hob](games/h/hob.md) | 4.57 | 
-| 331 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.80 | 
+| 331 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.81 | 
 | 332 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 333 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 334 | [Horace](games/h/horace.md) | 4.51 | 
@@ -546,7 +546,7 @@
 | 544 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 545 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 546 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
-| 547 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.11 | 
+| 547 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.13 | 
 | 548 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 549 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 550 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
