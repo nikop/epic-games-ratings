@@ -400,7 +400,7 @@
 | 398 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 399 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 400 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
-| 401 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 401 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 402 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
 | 403 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 
 | 404 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
@@ -521,7 +521,7 @@
 | 519 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 520 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 521 | [Pine](games/p/pine.md) | 4.15 | 
-| 522 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.50 | 
+| 522 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.51 | 
 | 523 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 524 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 
 | 525 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
@@ -778,7 +778,7 @@
 | 776 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 777 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
 | 778 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 779 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
+| 779 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
 | 780 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
 | 781 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 782 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.33 | 
