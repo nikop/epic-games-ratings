@@ -754,11 +754,11 @@
 | 748 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
 | 748 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
 | 748 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
-| 755 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 755 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
-| 755 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.23 | 
-| 755 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 755 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
+| 748 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 
+| 756 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 756 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
+| 756 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.23 | 
+| 756 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 760 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 760 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
 | 760 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
