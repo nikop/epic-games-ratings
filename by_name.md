@@ -795,7 +795,7 @@
 | 793 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
 | 794 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
 | 795 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
-| 796 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
+| 796 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 797 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
 | 798 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
 | 799 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 

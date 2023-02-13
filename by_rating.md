@@ -198,33 +198,33 @@
 | 190 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 190 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 190 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
+| 190 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 190 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
 | 190 | [Townscaper](games/t/townscaper.md) | 4.70 | 
 | 190 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 190 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
 | 190 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
 | 190 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
-| 205 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 205 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 205 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 205 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 205 | [Days Gone](games/d/days_gone.md) | 4.69 | 
-| 205 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 205 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 205 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 205 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
-| 205 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 205 | [Bad North](games/b/bad_north.md) | 4.69 | 
-| 205 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
-| 205 | [The Witness](games/t/the_witness.md) | 4.69 | 
-| 205 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.69 | 
-| 205 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 205 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 205 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
-| 205 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 
-| 205 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 205 | [High On Life](games/h/high_on_life.md) | 4.69 | 
-| 205 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
+| 206 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
+| 206 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 206 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 206 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 206 | [Days Gone](games/d/days_gone.md) | 4.69 | 
+| 206 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
+| 206 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 206 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 206 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
+| 206 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 206 | [Bad North](games/b/bad_north.md) | 4.69 | 
+| 206 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
+| 206 | [The Witness](games/t/the_witness.md) | 4.69 | 
+| 206 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.69 | 
+| 206 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 206 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 206 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
+| 206 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
+| 206 | [High On Life](games/h/high_on_life.md) | 4.69 | 
+| 206 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
 | 226 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
 | 226 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 226 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
