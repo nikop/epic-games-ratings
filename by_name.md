@@ -117,7 +117,7 @@
 | 115 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 116 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
 | 117 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
-| 118 | [Chimeraland](games/c/chimeraland.md) | 3.80 | 
+| 118 | [Chimeraland](games/c/chimeraland.md) | 3.84 | 
 | 119 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 120 | [Chorus](games/c/chorus.md) | 4.47 | 
 | 121 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
@@ -317,7 +317,7 @@
 | 315 | [Haven](games/h/haven.md) | 4.75 | 
 | 316 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 317 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 318 | [Hell is Others](games/h/hell_is_others.md) | 4.20 | 
+| 318 | [Hell is Others](games/h/hell_is_others.md) | 4.19 | 
 | 319 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 320 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.40 | 
 | 321 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
@@ -392,7 +392,7 @@
 | 390 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 
 | 391 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
 | 392 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 393 | [Knockout City™](games/k/knockout_city™.md) | 4.35 | 
+| 393 | [Knockout City™](games/k/knockout_city™.md) | 4.39 | 
 | 394 | [Lake](games/l/lake.md) | 4.07 | 
 | 395 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 396 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
