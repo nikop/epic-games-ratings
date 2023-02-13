@@ -856,7 +856,7 @@
 | 854 | [Banished](games/b/banished.md) | 3.90 | 
 | 854 | [Blood of Steel](games/b/blood_of_steel.md) | 3.90 | 
 | 856 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 857 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.84 | 
+| 857 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.83 | 
 | 858 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.81 | 
 | 859 | [Chimeraland](games/c/chimeraland.md) | 3.80 | 
 | 860 | [Saints Row](games/s/saints_row.md) | 3.78 | 
