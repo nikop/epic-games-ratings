@@ -571,21 +571,21 @@
 | 563 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
 | 563 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 563 | [Train Valley](games/t/train_valley.md) | 4.46 | 
-| 563 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.46 | 
 | 563 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 563 | [STG Football](games/s/stg_football.md) | 4.46 | 
-| 575 | [SMITE](games/s/smite.md) | 4.45 | 
-| 575 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 575 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 575 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
-| 575 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 575 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 575 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 575 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 575 | [Figment](games/f/figment.md) | 4.45 | 
-| 575 | [Death Coming](games/d/death_coming.md) | 4.45 | 
-| 575 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
-| 575 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
+| 574 | [SMITE](games/s/smite.md) | 4.45 | 
+| 574 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 574 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 574 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
+| 574 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 574 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 574 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 574 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
+| 574 | [Figment](games/f/figment.md) | 4.45 | 
+| 574 | [Death Coming](games/d/death_coming.md) | 4.45 | 
+| 574 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
+| 574 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
+| 574 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.45 | 
 | 587 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
 | 587 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 587 | [The Captain](games/t/the_captain.md) | 4.44 | 

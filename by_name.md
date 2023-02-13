@@ -219,7 +219,7 @@
 | 217 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 218 | [Encased](games/e/encased.md) | 4.37 | 
 | 219 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 220 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.46 | 
+| 220 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.45 | 
 | 221 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 222 | [EVE Online](games/e/eve_online.md) | 4.25 | 
 | 223 | [Everything](games/e/everything.md) | 4.62 | 
