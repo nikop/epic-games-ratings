@@ -125,7 +125,7 @@
 | 123 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 124 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
 | 125 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.17 | 
+| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.16 | 
 | 127 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 128 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 129 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -576,7 +576,7 @@
 | 574 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 575 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 576 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 577 | [Sable](games/s/sable.md) | 4.50 | 
+| 577 | [Sable](games/s/sable.md) | 4.51 | 
 | 578 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
 | 579 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 580 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
