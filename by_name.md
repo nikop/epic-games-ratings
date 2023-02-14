@@ -33,7 +33,7 @@
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
-| 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 
+| 34 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
 | 35 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 36 | [APE OUT](games/a/ape_out.md) | 4.65 | 
 | 37 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
@@ -336,7 +336,7 @@
 | 334 | [Horace](games/h/horace.md) | 4.51 | 
 | 335 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.57 | 
 | 336 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 337 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 337 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 
 | 338 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 339 | [House Party](games/h/house_party.md) | 4.30 | 
 | 340 | [Hue](games/h/hue.md) | 4.56 | 
@@ -647,7 +647,7 @@
 | 645 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 646 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 647 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
-| 648 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
+| 648 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 649 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.65 | 
 | 650 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 651 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
