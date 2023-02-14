@@ -340,7 +340,7 @@
 | 338 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 339 | [House Party](games/h/house_party.md) | 4.30 | 
 | 340 | [Hue](games/h/hue.md) | 4.56 | 
-| 341 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 341 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
 | 342 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 343 | [Huntdown](games/h/huntdown.md) | 4.85 | 
 | 344 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
@@ -704,7 +704,7 @@
 | 702 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 703 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 704 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
-| 705 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
+| 705 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
 | 706 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
 | 707 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 708 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
@@ -842,7 +842,7 @@
 | 840 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 841 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 842 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 843 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.92 | 
+| 843 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
 | 844 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 845 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 846 | [Windbound](games/w/windbound.md) | 4.18 | 

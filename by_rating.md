@@ -170,24 +170,24 @@
 | 168 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 168 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 168 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 168 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.72 | 
 | 168 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 168 | [Slipways](games/s/slipways.md) | 4.72 | 
 | 168 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
-| 175 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
-| 175 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 175 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
-| 175 | [Barony](games/b/barony.md) | 4.71 | 
-| 175 | [Timberborn](games/t/timberborn.md) | 4.71 | 
-| 175 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
-| 175 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 175 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
-| 175 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
-| 175 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 175 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
-| 175 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
-| 175 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
-| 175 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
+| 174 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
+| 174 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 174 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
+| 174 | [Barony](games/b/barony.md) | 4.71 | 
+| 174 | [Timberborn](games/t/timberborn.md) | 4.71 | 
+| 174 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
+| 174 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 174 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 174 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
+| 174 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
+| 174 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
+| 174 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
+| 174 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
+| 174 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
+| 174 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
 | 189 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 189 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
 | 189 | [For The King](games/f/for_the_king.md) | 4.70 | 
@@ -501,7 +501,6 @@
 | 498 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 498 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
 | 498 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 498 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 498 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 498 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
 | 498 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
@@ -514,17 +513,18 @@
 | 498 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 498 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
 | 498 | [IXION](games/i/ixion.md) | 4.51 | 
-| 515 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 515 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 515 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 515 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 515 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
-| 515 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 515 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 515 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 515 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 515 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 
-| 515 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
+| 514 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 514 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 514 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 514 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 514 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
+| 514 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
+| 514 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 514 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 514 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 514 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
+| 514 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 
+| 514 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 526 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 526 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 526 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
@@ -851,9 +851,9 @@
 | 846 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
 | 850 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 851 | [Warface](games/w/warface.md) | 3.92 | 
-| 851 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.92 | 
-| 853 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 853 | [Ironcast](games/i/ironcast.md) | 3.91 | 
+| 852 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 852 | [Ironcast](games/i/ironcast.md) | 3.91 | 
+| 852 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
 | 855 | [Banished](games/b/banished.md) | 3.90 | 
 | 855 | [Blood of Steel](games/b/blood_of_steel.md) | 3.90 | 
 | 857 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
