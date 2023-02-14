@@ -467,26 +467,26 @@
 | 458 | [Brawlhalla](games/b/brawlhalla.md) | 4.54 | 
 | 458 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
 | 458 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 458 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.54 | 
-| 469 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 469 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 469 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 469 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
-| 469 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 469 | [Verdun](games/v/verdun.md) | 4.53 | 
-| 469 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 
-| 469 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 469 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
-| 469 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
-| 469 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 469 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 469 | [RUINER](games/r/ruiner.md) | 4.53 | 
-| 469 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 469 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 469 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
-| 469 | [Aztez](games/a/aztez.md) | 4.53 | 
-| 469 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 469 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
+| 468 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
+| 468 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 468 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 468 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
+| 468 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 468 | [Verdun](games/v/verdun.md) | 4.53 | 
+| 468 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 
+| 468 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 468 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
+| 468 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
+| 468 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
+| 468 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
+| 468 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 468 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 468 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 468 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
+| 468 | [Aztez](games/a/aztez.md) | 4.53 | 
+| 468 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 468 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
+| 468 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.53 | 
 | 488 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
 | 488 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 488 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
@@ -572,21 +572,21 @@
 | 564 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
 | 564 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 564 | [Train Valley](games/t/train_valley.md) | 4.46 | 
+| 564 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.46 | 
 | 564 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 564 | [STG Football](games/s/stg_football.md) | 4.46 | 
-| 575 | [SMITE](games/s/smite.md) | 4.45 | 
-| 575 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 575 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 575 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
-| 575 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 575 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 575 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 575 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 575 | [Figment](games/f/figment.md) | 4.45 | 
-| 575 | [Death Coming](games/d/death_coming.md) | 4.45 | 
-| 575 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
-| 575 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
-| 575 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.45 | 
+| 576 | [SMITE](games/s/smite.md) | 4.45 | 
+| 576 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 576 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 576 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
+| 576 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 576 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 576 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 576 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
+| 576 | [Figment](games/f/figment.md) | 4.45 | 
+| 576 | [Death Coming](games/d/death_coming.md) | 4.45 | 
+| 576 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
+| 576 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
 | 588 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
 | 588 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 588 | [The Captain](games/t/the_captain.md) | 4.44 | 
