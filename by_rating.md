@@ -398,6 +398,7 @@
 | 392 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 392 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 392 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 392 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 
 | 392 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 392 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
 | 392 | [Moving Out](games/m/moving_out.md) | 4.58 | 
@@ -407,28 +408,27 @@
 | 392 | [RiME](games/r/rime.md) | 4.58 | 
 | 392 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 392 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
-| 408 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 408 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 408 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 408 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
-| 408 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
-| 408 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.57 | 
-| 408 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 408 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
-| 408 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
-| 408 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 408 | [Hob](games/h/hob.md) | 4.57 | 
-| 408 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
-| 408 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 408 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
-| 408 | [Isonzo](games/i/isonzo.md) | 4.57 | 
-| 408 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 408 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
-| 408 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 
-| 408 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.57 | 
-| 408 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
-| 408 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
-| 408 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 
+| 409 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 409 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 409 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 409 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
+| 409 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 409 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.57 | 
+| 409 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 409 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
+| 409 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 409 | [Hob](games/h/hob.md) | 4.57 | 
+| 409 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
+| 409 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 409 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
+| 409 | [Isonzo](games/i/isonzo.md) | 4.57 | 
+| 409 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 409 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
+| 409 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 
+| 409 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.57 | 
+| 409 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
+| 409 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
+| 409 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 
 | 430 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 430 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
 | 430 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
@@ -727,17 +727,17 @@
 | 725 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 725 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 725 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 725 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 725 | [The Fall](games/t/the_fall.md) | 4.29 | 
 | 725 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
 | 725 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 725 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
 | 725 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 725 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 734 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 734 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
-| 734 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 734 | [Dark Light](games/d/dark_light.md) | 4.28 | 
-| 734 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
+| 735 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 735 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 735 | [Dark Light](games/d/dark_light.md) | 4.28 | 
+| 735 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
 | 739 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 739 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
 | 741 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 

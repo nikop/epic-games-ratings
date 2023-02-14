@@ -215,7 +215,7 @@
 | 213 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 214 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 215 | [ELEX](games/e/elex.md) | 4.40 | 
-| 216 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 216 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 217 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 218 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 219 | [Encased](games/e/encased.md) | 4.37 | 
@@ -765,7 +765,7 @@
 | 763 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 764 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
 | 765 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
-| 766 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 766 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 
 | 767 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 768 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
 | 769 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
