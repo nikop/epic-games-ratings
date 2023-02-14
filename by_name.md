@@ -68,7 +68,7 @@
 | 66 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 67 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
 | 68 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
-| 69 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
+| 69 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 
 | 70 | [Banished](games/b/banished.md) | 3.90 | 
 | 71 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 72 | [Barony](games/b/barony.md) | 4.71 | 
