@@ -317,7 +317,7 @@
 | 315 | [Haven](games/h/haven.md) | 4.75 | 
 | 316 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 317 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 318 | [Hell is Others](games/h/hell_is_others.md) | 4.19 | 
+| 318 | [Hell is Others](games/h/hell_is_others.md) | 4.21 | 
 | 319 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 320 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.40 | 
 | 321 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
@@ -647,7 +647,7 @@
 | 645 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 646 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 647 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
-| 648 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 648 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
 | 649 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.65 | 
 | 650 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 651 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
