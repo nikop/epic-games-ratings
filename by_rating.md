@@ -802,10 +802,10 @@
 | 795 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
 | 801 | [Pine](games/p/pine.md) | 4.15 | 
 | 801 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
+| 801 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 801 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 804 | [Relicta](games/r/relicta.md) | 4.14 | 
-| 804 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
-| 804 | [Gone Home](games/g/gone_home.md) | 4.14 | 
+| 805 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
+| 805 | [Gone Home](games/g/gone_home.md) | 4.14 | 
 | 807 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 807 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.13 | 
 | 809 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
