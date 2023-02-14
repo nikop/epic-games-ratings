@@ -330,7 +330,7 @@
 | 328 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 329 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 330 | [Hob](games/h/hob.md) | 4.57 | 
-| 331 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.81 | 
+| 331 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.80 | 
 | 332 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 333 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 334 | [Horace](games/h/horace.md) | 4.51 | 
@@ -732,7 +732,7 @@
 | 730 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 731 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 732 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 733 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.53 | 
+| 733 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.52 | 
 | 734 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 735 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 736 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 

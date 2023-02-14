@@ -76,23 +76,23 @@
 | 67 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 67 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
 | 67 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
-| 67 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.81 | 
 | 67 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
 | 67 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
-| 80 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 80 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 80 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 80 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 80 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
-| 80 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
-| 80 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
-| 80 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
-| 80 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 
-| 80 | [Journey](games/j/journey.md) | 4.80 | 
-| 80 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
-| 80 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 80 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
-| 80 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
+| 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 79 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 79 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
+| 79 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
+| 79 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
+| 79 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
+| 79 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
+| 79 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 
+| 79 | [Journey](games/j/journey.md) | 4.80 | 
+| 79 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
+| 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 79 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
+| 79 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.80 | 
+| 79 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
 | 94 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 94 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 94 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
@@ -486,17 +486,17 @@
 | 468 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 468 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 468 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
-| 468 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.53 | 
-| 488 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
-| 488 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 488 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 488 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 488 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
-| 488 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 488 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
-| 488 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 488 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 488 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 487 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
+| 487 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 487 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 487 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 487 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 487 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 487 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
+| 487 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 487 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 487 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.52 | 
+| 487 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 498 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 498 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 498 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
