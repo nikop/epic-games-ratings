@@ -275,25 +275,25 @@
 | 261 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 261 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 261 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
+| 261 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
 | 261 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
 | 261 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 261 | [Dead Space](games/d/dead_space.md) | 4.66 | 
 | 261 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
-| 280 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 280 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 280 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 280 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 280 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
-| 280 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
-| 280 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 280 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 280 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
-| 280 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
-| 280 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
-| 280 | [APE OUT](games/a/ape_out.md) | 4.65 | 
-| 280 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
-| 280 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
-| 280 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.65 | 
+| 281 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 281 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 281 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 281 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 281 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
+| 281 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
+| 281 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
+| 281 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 281 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
+| 281 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 281 | [APE OUT](games/a/ape_out.md) | 4.65 | 
+| 281 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
+| 281 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
+| 281 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.65 | 
 | 295 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 295 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 295 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
@@ -543,12 +543,12 @@
 | 526 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 526 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 526 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 526 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
 | 526 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
-| 545 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 545 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 545 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
-| 545 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
-| 545 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
+| 546 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 546 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 546 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
+| 546 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
 | 550 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 550 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 550 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
@@ -806,8 +806,8 @@
 | 801 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 805 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 805 | [Gone Home](games/g/gone_home.md) | 4.14 | 
-| 807 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
-| 807 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.13 | 
+| 805 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.14 | 
+| 808 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 809 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 809 | [Train Valley 2](games/t/train_valley_2.md) | 4.12 | 
 | 809 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.12 | 

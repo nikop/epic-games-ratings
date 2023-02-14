@@ -485,7 +485,7 @@
 | 483 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 484 | [Old World](games/o/old_world.md) | 4.64 | 
 | 485 | [Ooblets](games/o/ooblets.md) | 4.87 | 
-| 486 | [Operation: Tango](games/o/operation__tango.md) | 4.65 | 
+| 486 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
 | 487 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
 | 488 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
 | 489 | [Othercide](games/o/othercide.md) | 4.39 | 
@@ -546,7 +546,7 @@
 | 544 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 545 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 546 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
-| 547 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.13 | 
+| 547 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.14 | 
 | 548 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 549 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 550 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
@@ -612,7 +612,7 @@
 | 610 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 611 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 612 | [Sifu](games/s/sifu.md) | 4.81 | 
-| 613 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
+| 613 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
 | 614 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
 | 615 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 616 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
