@@ -113,17 +113,17 @@
 | 106 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 106 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 106 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
+| 106 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 106 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
-| 115 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 115 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 115 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
-| 115 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 115 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 115 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
-| 115 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
-| 115 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
-| 115 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
-| 115 | [shapez](games/s/shapez.md) | 4.76 | 
+| 116 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 116 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 116 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
+| 116 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 116 | [Diabotical](games/d/diabotical.md) | 4.76 | 
+| 116 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
+| 116 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
+| 116 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
+| 116 | [shapez](games/s/shapez.md) | 4.76 | 
 | 125 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 125 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
 | 125 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -758,12 +758,12 @@
 | 749 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 
 | 757 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 757 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
+| 757 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
 | 757 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.23 | 
 | 757 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 761 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 761 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
-| 761 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
-| 761 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
+| 762 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 762 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
+| 762 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 765 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 765 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 765 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
@@ -800,26 +800,26 @@
 | 795 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
 | 795 | [Flatout](games/f/flatout.md) | 4.16 | 
 | 795 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
-| 801 | [Pine](games/p/pine.md) | 4.15 | 
-| 801 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
-| 801 | [Relicta](games/r/relicta.md) | 4.15 | 
-| 801 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 805 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
-| 805 | [Gone Home](games/g/gone_home.md) | 4.14 | 
-| 805 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.14 | 
+| 795 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.16 | 
+| 802 | [Pine](games/p/pine.md) | 4.15 | 
+| 802 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
+| 802 | [Relicta](games/r/relicta.md) | 4.15 | 
+| 802 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
+| 806 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
+| 806 | [Gone Home](games/g/gone_home.md) | 4.14 | 
 | 808 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 809 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 809 | [Train Valley 2](games/t/train_valley_2.md) | 4.12 | 
 | 809 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.12 | 
-| 812 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
 | 812 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 812 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
-| 815 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 815 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
-| 815 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
-| 815 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 815 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
-| 815 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
+| 814 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
+| 814 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 814 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
+| 814 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
+| 814 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 814 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
+| 814 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 821 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 821 | [Fangs](games/f/fangs.md) | 4.09 | 
 | 823 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 

@@ -233,7 +233,7 @@
 | 231 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 232 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 233 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 234 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
+| 234 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 235 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 236 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
 | 237 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
@@ -546,7 +546,7 @@
 | 544 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 545 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 546 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
-| 547 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.14 | 
+| 547 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.16 | 
 | 548 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 549 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 550 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
@@ -650,7 +650,7 @@
 | 648 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
 | 649 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.65 | 
 | 650 | [Starsand](games/s/starsand.md) | 4.21 | 
-| 651 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
+| 651 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
 | 652 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
 | 653 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 654 | [Steelrising](games/s/steelrising.md) | 4.28 | 
@@ -701,7 +701,7 @@
 | 699 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 700 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 701 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.88 | 
-| 702 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.11 | 
+| 702 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
 | 703 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 704 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 705 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 

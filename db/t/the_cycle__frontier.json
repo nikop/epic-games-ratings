@@ -1,10 +1,10 @@
 {
   "ID": "azalea",
   "Name": "The Cycle: Frontier",
-  "Rating": 4.11,
+  "Rating": 4.1,
   "NumberOfRatings": 15671,
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2023-01-30T17:57:49.0349206+00:00",
+  "LastChanged": "2023-02-14T17:57:32.4141181+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:03.6642348+00:00",
@@ -3189,6 +3189,11 @@
     {
       "Time": "2023-01-30T17:57:49.0349208+00:00",
       "Rating": 4.11,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-14T17:57:32.4141183+00:00",
+      "Rating": 4.1,
       "NumberOfRatings": null
     }
   ],
