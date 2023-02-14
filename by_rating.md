@@ -25,20 +25,20 @@
 | 19 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.88 | 
 | 24 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 24 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 24 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
 | 24 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 
 | 24 | [TUNIC](games/t/tunic.md) | 4.87 | 
 | 24 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 24 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
-| 33 | [Inscryption](games/i/inscryption.md) | 4.86 | 
-| 33 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 33 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 33 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
-| 33 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
-| 33 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
-| 33 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
+| 32 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
+| 32 | [Inscryption](games/i/inscryption.md) | 4.86 | 
+| 32 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 32 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 32 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
+| 32 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
+| 32 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
+| 32 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
 | 40 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 40 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 40 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
@@ -838,12 +838,12 @@
 | 836 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 837 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 838 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
-| 838 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
-| 840 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 840 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.99 | 
-| 842 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
-| 842 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
-| 844 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.96 | 
+| 839 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
+| 839 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.99 | 
+| 841 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
+| 841 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
+| 843 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.96 | 
+| 843 | [The First Tree](games/t/the_first_tree.md) | 3.96 | 
 | 845 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 846 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.94 | 
 | 846 | [Conarium](games/c/conarium.md) | 3.94 | 

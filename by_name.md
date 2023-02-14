@@ -195,7 +195,7 @@
 | 193 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 194 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
 | 195 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 196 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 196 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 197 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 198 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 199 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
@@ -711,7 +711,7 @@
 | 709 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 710 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 711 | [The Fall](games/t/the_fall.md) | 4.29 | 
-| 712 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 
+| 712 | [The First Tree](games/t/the_first_tree.md) | 3.96 | 
 | 713 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
 | 714 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
 | 715 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 
