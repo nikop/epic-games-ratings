@@ -91,7 +91,7 @@
 | 89 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 90 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
 | 91 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 92 | [Blood of Steel](games/b/blood_of_steel.md) | 3.90 | 
+| 92 | [Blood of Steel](games/b/blood_of_steel.md) | 3.83 | 
 | 93 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 94 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 95 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -351,7 +351,7 @@
 | 349 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
 | 350 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
 | 351 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 352 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
+| 352 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
 | 353 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 354 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 355 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
@@ -577,7 +577,7 @@
 | 575 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 576 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 577 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 578 | [Sable](games/s/sable.md) | 4.51 | 
+| 578 | [Sable](games/s/sable.md) | 4.50 | 
 | 579 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
 | 580 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 581 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
