@@ -790,10 +790,10 @@
 | 786 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
 | 786 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 786 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
-| 791 | [Space Punks](games/s/space_punks.md) | 4.17 | 
-| 791 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
-| 791 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
-| 791 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.17 | 
+| 786 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.18 | 
+| 792 | [Space Punks](games/s/space_punks.md) | 4.17 | 
+| 792 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
+| 792 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
 | 795 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 795 | [Submerged](games/s/submerged.md) | 4.16 | 
 | 795 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
