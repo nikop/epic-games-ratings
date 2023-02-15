@@ -495,23 +495,23 @@
 | 487 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
 | 487 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
 | 487 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 487 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.52 | 
 | 487 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
-| 497 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 497 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 497 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
-| 497 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 497 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 497 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 497 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 497 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 497 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.51 | 
-| 497 | [Horace](games/h/horace.md) | 4.51 | 
-| 497 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
-| 497 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 497 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 497 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
-| 497 | [IXION](games/i/ixion.md) | 4.51 | 
-| 497 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.51 | 
+| 498 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 498 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 498 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 498 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 498 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 498 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 498 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
+| 498 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 498 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.51 | 
+| 498 | [Horace](games/h/horace.md) | 4.51 | 
+| 498 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
+| 498 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 498 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
+| 498 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
+| 498 | [IXION](games/i/ixion.md) | 4.51 | 
 | 513 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 513 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 513 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
