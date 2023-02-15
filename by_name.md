@@ -732,7 +732,7 @@
 | 730 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 731 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 732 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 733 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.52 | 
+| 733 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.51 | 
 | 734 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 735 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 736 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
