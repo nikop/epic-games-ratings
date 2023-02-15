@@ -783,14 +783,14 @@
 | 781 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 781 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 781 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 781 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.19 | 
 | 781 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 781 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
-| 786 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 786 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 786 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
-| 786 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
-| 786 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
-| 786 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.18 | 
+| 787 | [Windbound](games/w/windbound.md) | 4.18 | 
+| 787 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 787 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
+| 787 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
+| 787 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
 | 792 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 792 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
 | 792 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
