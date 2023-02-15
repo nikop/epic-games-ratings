@@ -150,7 +150,7 @@
 | 148 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 149 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 150 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 151 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 151 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 
 | 152 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 153 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 154 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.23 | 
