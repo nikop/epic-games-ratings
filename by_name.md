@@ -346,7 +346,7 @@
 | 344 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 345 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
 | 346 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
-| 347 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.75 | 
+| 347 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.76 | 
 | 348 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 349 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
 | 350 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
@@ -524,7 +524,7 @@
 | 522 | [Pine](games/p/pine.md) | 4.15 | 
 | 523 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.51 | 
 | 524 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
-| 525 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 
+| 525 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
 | 526 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 527 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 528 | [Predecessor](games/p/predecessor.md) | 4.43 | 
