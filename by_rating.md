@@ -415,7 +415,6 @@
 | 410 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 410 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
 | 410 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.57 | 
-| 410 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
 | 410 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
 | 410 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 410 | [Hob](games/h/hob.md) | 4.57 | 
@@ -429,18 +428,19 @@
 | 410 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.57 | 
 | 410 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 410 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
-| 430 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 430 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 430 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 430 | [Hue](games/h/hue.md) | 4.56 | 
-| 430 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
-| 430 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 430 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
-| 430 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
-| 430 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 430 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 430 | [Observation](games/o/observation.md) | 4.56 | 
-| 430 | [The Medium](games/t/the_medium.md) | 4.56 | 
+| 429 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 429 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 429 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 429 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 429 | [Hue](games/h/hue.md) | 4.56 | 
+| 429 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
+| 429 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 429 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
+| 429 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
+| 429 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 429 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 429 | [Observation](games/o/observation.md) | 4.56 | 
+| 429 | [The Medium](games/t/the_medium.md) | 4.56 | 
 | 442 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 442 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 442 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -804,9 +804,9 @@
 | 802 | [Pine](games/p/pine.md) | 4.15 | 
 | 802 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 802 | [Relicta](games/r/relicta.md) | 4.15 | 
+| 802 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 802 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 806 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
-| 806 | [Gone Home](games/g/gone_home.md) | 4.14 | 
+| 807 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 808 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 809 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 809 | [Train Valley 2](games/t/train_valley_2.md) | 4.12 | 
@@ -829,12 +829,12 @@
 | 826 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
 | 828 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 828 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.06 | 
-| 830 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 830 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
-| 832 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
-| 832 | [Tharsis](games/t/tharsis.md) | 4.04 | 
-| 832 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.04 | 
-| 832 | [Forspoken](games/f/forspoken.md) | 4.04 | 
+| 828 | [Forspoken](games/f/forspoken.md) | 4.06 | 
+| 831 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 831 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
+| 833 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
+| 833 | [Tharsis](games/t/tharsis.md) | 4.04 | 
+| 833 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.04 | 
 | 836 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
 | 837 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 838 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 

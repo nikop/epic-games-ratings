@@ -270,7 +270,7 @@
 | 268 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 269 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 270 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 271 | [Forspoken](games/f/forspoken.md) | 4.04 | 
+| 271 | [Forspoken](games/f/forspoken.md) | 4.06 | 
 | 272 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 273 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 274 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
@@ -299,7 +299,7 @@
 | 297 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 298 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.96 | 
 | 299 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 300 | [Gone Home](games/g/gone_home.md) | 4.14 | 
+| 300 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 301 | [Good Company](games/g/good_company.md) | 4.41 | 
 | 302 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
 | 303 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
@@ -312,7 +312,7 @@
 | 310 | [Hades](games/h/hades.md) | 4.92 | 
 | 311 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 312 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 313 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 313 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 314 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 315 | [Haven](games/h/haven.md) | 4.75 | 
 | 316 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
