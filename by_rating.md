@@ -36,17 +36,17 @@
 | 33 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 33 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 33 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
-| 33 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
 | 33 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
 | 33 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
-| 40 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 40 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 40 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 40 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
-| 40 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
-| 40 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
-| 40 | [Huntdown](games/h/huntdown.md) | 4.85 | 
-| 40 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 
+| 39 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 39 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 39 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
+| 39 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
+| 39 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
+| 39 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
+| 39 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
+| 39 | [Huntdown](games/h/huntdown.md) | 4.85 | 
+| 39 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 
 | 48 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 48 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 48 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
@@ -251,6 +251,7 @@
 | 244 | [Overcooked](games/o/overcooked.md) | 4.67 | 
 | 244 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 244 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
+| 244 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
 | 244 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
 | 244 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 244 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
@@ -261,26 +262,25 @@
 | 244 | [Dead Space](games/d/dead_space.md) | 4.67 | 
 | 244 | [GNOG](games/g/gnog.md) | 4.67 | 
 | 244 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
-| 262 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 262 | [Trackmania](games/t/trackmania.md) | 4.66 | 
-| 262 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 262 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 262 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 262 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
-| 262 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
-| 262 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 262 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
-| 262 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
-| 262 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 
-| 262 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 262 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
-| 262 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
-| 262 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 262 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
-| 262 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
-| 262 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 262 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 262 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
+| 263 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 263 | [Trackmania](games/t/trackmania.md) | 4.66 | 
+| 263 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 263 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 263 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 263 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
+| 263 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
+| 263 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 263 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
+| 263 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
+| 263 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 
+| 263 | [Death's Door](games/d/death's_door.md) | 4.66 | 
+| 263 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
+| 263 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 263 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
+| 263 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
+| 263 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 263 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 263 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
 | 282 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 282 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 282 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
@@ -304,21 +304,21 @@
 | 295 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.64 | 
 | 295 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 295 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
-| 295 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
 | 295 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
-| 307 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 307 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 307 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 307 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 307 | [ABZU](games/a/abzu.md) | 4.63 | 
-| 307 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
-| 307 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
-| 307 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 307 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 
-| 307 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 307 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
-| 307 | [GigaBash](games/g/gigabash.md) | 4.63 | 
-| 307 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
+| 306 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 306 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 306 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 306 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 306 | [ABZU](games/a/abzu.md) | 4.63 | 
+| 306 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
+| 306 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
+| 306 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
+| 306 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 
+| 306 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 306 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
+| 306 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 
+| 306 | [GigaBash](games/g/gigabash.md) | 4.63 | 
+| 306 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 320 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 320 | [Prey](games/p/prey.md) | 4.62 | 
 | 320 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 

@@ -41,7 +41,7 @@
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
-| 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
+| 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
 | 43 | [Ashen](games/a/ashen.md) | 4.35 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
@@ -236,7 +236,7 @@
 | 234 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 235 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 236 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
-| 237 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
+| 237 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 
 | 238 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 239 | [Fangs](games/f/fangs.md) | 4.09 | 
 | 240 | [Far Cry](games/f/far_cry.md) | 4.42 | 
@@ -835,7 +835,7 @@
 | 833 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 834 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.33 | 
 | 835 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 836 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
+| 836 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
 | 837 | [Weird West](games/w/weird_west.md) | 4.46 | 
 | 838 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
 | 839 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
