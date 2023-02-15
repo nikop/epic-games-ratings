@@ -214,7 +214,7 @@
 | 212 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 213 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 214 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 215 | [ELEX](games/e/elex.md) | 4.40 | 
+| 215 | [ELEX](games/e/elex.md) | 4.41 | 
 | 216 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 217 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 218 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
@@ -516,7 +516,7 @@
 | 514 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 515 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 516 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
-| 517 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
+| 517 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 518 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
 | 519 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 520 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
