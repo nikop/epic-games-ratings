@@ -171,7 +171,7 @@
 | 169 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 170 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 171 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
-| 172 | [Dead Space](games/d/dead_space.md) | 4.66 | 
+| 172 | [Dead Space](games/d/dead_space.md) | 4.67 | 
 | 173 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 174 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 175 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
@@ -308,7 +308,7 @@
 | 306 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 307 | [GRIME](games/g/grime.md) | 4.62 | 
 | 308 | [Grindstone](games/g/grindstone.md) | 4.84 | 
-| 309 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 
+| 309 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 310 | [Hades](games/h/hades.md) | 4.92 | 
 | 311 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 312 | [Hammerting](games/h/hammerting.md) | 4.38 | 
