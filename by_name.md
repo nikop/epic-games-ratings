@@ -518,7 +518,7 @@
 | 516 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
 | 517 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 
 | 518 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 519 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 519 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
 | 520 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 521 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 522 | [Pine](games/p/pine.md) | 4.15 | 
