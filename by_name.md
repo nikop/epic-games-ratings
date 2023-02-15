@@ -220,7 +220,7 @@
 | 218 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 219 | [Encased](games/e/encased.md) | 4.37 | 
 | 220 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 221 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.46 | 
+| 221 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.45 | 
 | 222 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 223 | [EVE Online](games/e/eve_online.md) | 4.25 | 
 | 224 | [Everything](games/e/everything.md) | 4.62 | 
@@ -263,7 +263,7 @@
 | 261 | [Firework](games/f/firework.md) | 4.89 | 
 | 262 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
 | 263 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 264 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 
+| 264 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
 | 265 | [Flatout](games/f/flatout.md) | 4.16 | 
 | 266 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
 | 267 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
@@ -470,7 +470,7 @@
 | 468 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 469 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 470 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
-| 471 | [NORCO](games/n/norco.md) | 4.60 | 
+| 471 | [NORCO](games/n/norco.md) | 4.62 | 
 | 472 | [Northgard](games/n/northgard.md) | 4.73 | 
 | 473 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
 | 474 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
