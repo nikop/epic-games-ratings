@@ -647,7 +647,7 @@
 | 645 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 646 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 647 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
-| 648 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
+| 648 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 649 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.65 | 
 | 650 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 651 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 

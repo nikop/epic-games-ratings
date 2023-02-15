@@ -577,7 +577,6 @@
 | 575 | [SMITE](games/s/smite.md) | 4.45 | 
 | 575 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 575 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 575 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 
 | 575 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 575 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 575 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
@@ -587,20 +586,21 @@
 | 575 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 575 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
 | 575 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.45 | 
-| 588 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
-| 588 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 588 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 588 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 588 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
-| 588 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
-| 588 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
-| 588 | [Faeria](games/f/faeria.md) | 4.44 | 
-| 588 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
-| 588 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 588 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
-| 588 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
-| 588 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
-| 588 | [Redout 2](games/r/redout_2.md) | 4.44 | 
+| 587 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
+| 587 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 587 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 587 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 587 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 587 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
+| 587 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
+| 587 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 587 | [Faeria](games/f/faeria.md) | 4.44 | 
+| 587 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
+| 587 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 587 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
+| 587 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
+| 587 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
+| 587 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 602 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 602 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 602 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
