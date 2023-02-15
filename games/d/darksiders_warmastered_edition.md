@@ -1,5 +1,5 @@
 # Darksiders Warmastered Edition
-Rating: 4.61 (721)  (as of 23.09.2022)  
+Rating: 4.60 (721)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -86,3 +86,4 @@ Rating: 4.61 (721)  (as of 23.09.2022)
 | 2023-01-13 | 4.61 | - |
 | 2023-02-03 | 4.60 | - |
 | 2023-02-04 | 4.61 | - |
+| 2023-02-15 | 4.60 | - |

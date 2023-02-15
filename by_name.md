@@ -163,7 +163,7 @@
 | 161 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
 | 162 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 163 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 164 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 
+| 164 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
 | 165 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 166 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
 | 167 | [Dauntless](games/d/dauntless.md) | 4.53 | 
@@ -195,7 +195,7 @@
 | 193 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 194 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
 | 195 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 196 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
+| 196 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 197 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 198 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 199 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
@@ -392,7 +392,7 @@
 | 390 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 
 | 391 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
 | 392 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 393 | [Knockout City™](games/k/knockout_city™.md) | 4.39 | 
+| 393 | [Knockout City™](games/k/knockout_city™.md) | 4.40 | 
 | 394 | [Lake](games/l/lake.md) | 4.07 | 
 | 395 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 396 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
