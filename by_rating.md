@@ -636,21 +636,21 @@
 | 622 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 622 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 
 | 622 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 622 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.41 | 
 | 622 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 638 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 638 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 638 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 638 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
-| 638 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
-| 638 | [ELEX](games/e/elex.md) | 4.40 | 
-| 638 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 638 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 638 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
-| 638 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.40 | 
-| 638 | [Knockout City™](games/k/knockout_city™.md) | 4.40 | 
-| 638 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
-| 638 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
-| 638 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
+| 639 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 639 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 639 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 639 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
+| 639 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
+| 639 | [ELEX](games/e/elex.md) | 4.40 | 
+| 639 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 639 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 639 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
+| 639 | [Knockout City™](games/k/knockout_city™.md) | 4.40 | 
+| 639 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
+| 639 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
+| 639 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 652 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 652 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 652 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
@@ -791,16 +791,16 @@
 | 787 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
 | 787 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 787 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
-| 792 | [Space Punks](games/s/space_punks.md) | 4.17 | 
-| 792 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
-| 792 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
-| 795 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 795 | [Submerged](games/s/submerged.md) | 4.16 | 
-| 795 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
-| 795 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
-| 795 | [Flatout](games/f/flatout.md) | 4.16 | 
-| 795 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
-| 795 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.16 | 
+| 787 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.18 | 
+| 793 | [Space Punks](games/s/space_punks.md) | 4.17 | 
+| 793 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
+| 793 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
+| 796 | [Family Man](games/f/family_man.md) | 4.16 | 
+| 796 | [Submerged](games/s/submerged.md) | 4.16 | 
+| 796 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 796 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
+| 796 | [Flatout](games/f/flatout.md) | 4.16 | 
+| 796 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
 | 802 | [Pine](games/p/pine.md) | 4.15 | 
 | 802 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 802 | [Relicta](games/r/relicta.md) | 4.15 | 

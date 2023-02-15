@@ -319,7 +319,7 @@
 | 317 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 318 | [Hell is Others](games/h/hell_is_others.md) | 4.21 | 
 | 319 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 320 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.40 | 
+| 320 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.41 | 
 | 321 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
 | 322 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 323 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
@@ -546,7 +546,7 @@
 | 544 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 545 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 546 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
-| 547 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.16 | 
+| 547 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.18 | 
 | 548 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 549 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 550 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
