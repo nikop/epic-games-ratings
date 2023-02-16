@@ -547,7 +547,7 @@
 | 545 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 546 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 547 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
-| 548 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.18 | 
+| 548 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.12 | 
 | 549 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 550 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 551 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
@@ -733,11 +733,11 @@
 | 731 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 732 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 733 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 734 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.54 | 
+| 734 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.55 | 
 | 735 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 736 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 737 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
-| 738 | [The Surge](games/t/the_surge.md) | 4.49 | 
+| 738 | [The Surge](games/t/the_surge.md) | 4.48 | 
 | 739 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 
 | 740 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 741 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
@@ -761,7 +761,7 @@
 | 759 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 760 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 761 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
-| 762 | [Timberborn](games/t/timberborn.md) | 4.72 | 
+| 762 | [Timberborn](games/t/timberborn.md) | 4.71 | 
 | 763 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
 | 764 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 765 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
