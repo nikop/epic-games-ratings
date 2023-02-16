@@ -312,7 +312,7 @@
 | 310 | [Hades](games/h/hades.md) | 4.92 | 
 | 311 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 312 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 313 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 313 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
 | 314 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 315 | [Haven](games/h/haven.md) | 4.75 | 
 | 316 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
