@@ -438,7 +438,7 @@
 | 436 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
 | 437 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
 | 438 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 439 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
+| 439 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.47 | 
 | 440 | [Minit](games/m/minit.md) | 4.55 | 
 | 441 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.94 | 
 | 442 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
@@ -733,7 +733,7 @@
 | 731 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 732 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 733 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 734 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.55 | 
+| 734 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.54 | 
 | 735 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 736 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 737 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 

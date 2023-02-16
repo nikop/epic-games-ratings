@@ -457,17 +457,17 @@
 | 443 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
 | 443 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.55 | 
 | 443 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.55 | 
-| 443 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.55 | 
-| 459 | [VALORANT](games/v/valorant.md) | 4.54 | 
-| 459 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
-| 459 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
-| 459 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
-| 459 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
-| 459 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 459 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 459 | [Brawlhalla](games/b/brawlhalla.md) | 4.54 | 
-| 459 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
-| 459 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 458 | [VALORANT](games/v/valorant.md) | 4.54 | 
+| 458 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
+| 458 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
+| 458 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
+| 458 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
+| 458 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 458 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 458 | [Brawlhalla](games/b/brawlhalla.md) | 4.54 | 
+| 458 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
+| 458 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 458 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.54 | 
 | 469 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 469 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 469 | [Dauntless](games/d/dauntless.md) | 4.53 | 
@@ -557,6 +557,7 @@
 | 552 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 552 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.47 | 
 | 552 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 552 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.47 | 
 | 552 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
 | 552 | [Chorus](games/c/chorus.md) | 4.47 | 
 | 552 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.47 | 
@@ -564,17 +565,16 @@
 | 552 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
 | 552 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 552 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 565 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 565 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 565 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 565 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 565 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
-| 565 | [Weird West](games/w/weird_west.md) | 4.46 | 
-| 565 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
-| 565 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
-| 565 | [Train Valley](games/t/train_valley.md) | 4.46 | 
-| 565 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 565 | [STG Football](games/s/stg_football.md) | 4.46 | 
+| 566 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 566 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 566 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
+| 566 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 566 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
+| 566 | [Weird West](games/w/weird_west.md) | 4.46 | 
+| 566 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
+| 566 | [Train Valley](games/t/train_valley.md) | 4.46 | 
+| 566 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 566 | [STG Football](games/s/stg_football.md) | 4.46 | 
 | 576 | [SMITE](games/s/smite.md) | 4.45 | 
 | 576 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 576 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
