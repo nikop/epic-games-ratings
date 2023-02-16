@@ -125,7 +125,7 @@
 | 123 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 124 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
 | 125 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.18 | 
+| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.19 | 
 | 127 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 128 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 129 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -361,7 +361,7 @@
 | 359 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 360 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 361 | [Isonzo](games/i/isonzo.md) | 4.57 | 
-| 362 | [IXION](games/i/ixion.md) | 4.51 | 
+| 362 | [IXION](games/i/ixion.md) | 4.52 | 
 | 363 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 364 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 365 | [Journey](games/j/journey.md) | 4.80 | 
@@ -685,7 +685,7 @@
 | 683 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 684 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 685 | [Tacoma](games/t/tacoma.md) | 4.41 | 
-| 686 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
+| 686 | [Tails of Iron](games/t/tails_of_iron.md) | 4.50 | 
 | 687 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 688 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 689 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
@@ -802,7 +802,7 @@
 | 800 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 801 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 802 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 803 | [TUNIC](games/t/tunic.md) | 4.87 | 
+| 803 | [TUNIC](games/t/tunic.md) | 4.86 | 
 | 804 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 805 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 806 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 
