@@ -606,7 +606,7 @@
 | 604 | [shapez](games/s/shapez.md) | 4.76 | 
 | 605 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 606 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
-| 607 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.47 | 
+| 607 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
 | 608 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
 | 609 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
 | 610 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
@@ -626,7 +626,7 @@
 | 624 | [SOMA](games/s/soma.md) | 4.64 | 
 | 625 | [Somerville](games/s/somerville.md) | 4.20 | 
 | 626 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 627 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
+| 627 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
 | 628 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 629 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
 | 630 | [Souldiers](games/s/souldiers.md) | 4.54 | 

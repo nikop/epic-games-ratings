@@ -546,23 +546,23 @@
 | 526 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
 | 545 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 545 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 545 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
 | 545 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
 | 545 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 545 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
-| 550 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
-| 550 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
-| 550 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 550 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
-| 550 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.47 | 
-| 550 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.47 | 
-| 550 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 550 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
-| 550 | [Chorus](games/c/chorus.md) | 4.47 | 
-| 550 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.47 | 
-| 550 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 550 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
-| 550 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
-| 550 | [Scorn](games/s/scorn.md) | 4.47 | 
+| 551 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
+| 551 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 551 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 551 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
+| 551 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.47 | 
+| 551 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 551 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
+| 551 | [Chorus](games/c/chorus.md) | 4.47 | 
+| 551 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.47 | 
+| 551 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
+| 551 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
+| 551 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
+| 551 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 564 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 564 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 564 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
@@ -625,6 +625,7 @@
 | 622 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 622 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 622 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
+| 622 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
 | 622 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.41 | 
 | 622 | [Good Company](games/g/good_company.md) | 4.41 | 
 | 622 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
@@ -639,18 +640,17 @@
 | 622 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 622 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.41 | 
 | 622 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 640 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 640 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 640 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 640 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
-| 640 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 
-| 640 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 640 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 640 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
-| 640 | [Knockout City™](games/k/knockout_city™.md) | 4.40 | 
-| 640 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
-| 640 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
-| 640 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
+| 641 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 641 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 641 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 641 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
+| 641 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 641 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 641 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
+| 641 | [Knockout City™](games/k/knockout_city™.md) | 4.40 | 
+| 641 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
+| 641 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
+| 641 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 652 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 652 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 652 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
