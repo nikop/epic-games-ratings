@@ -171,7 +171,7 @@
 | 169 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 170 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 171 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
-| 172 | [Dead Space](games/d/dead_space.md) | 4.67 | 
+| 172 | [Dead Space](games/d/dead_space.md) | 4.69 | 
 | 173 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 174 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 175 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
@@ -389,7 +389,7 @@
 | 387 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 388 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 389 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
-| 390 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 
+| 390 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 391 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
 | 392 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 393 | [Knockout City™](games/k/knockout_city™.md) | 4.40 | 
@@ -494,7 +494,7 @@
 | 492 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 493 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 494 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 495 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
+| 495 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 496 | [Outward](games/o/outward.md) | 4.55 | 
 | 497 | [Overcooked](games/o/overcooked.md) | 4.67 | 
 | 498 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
