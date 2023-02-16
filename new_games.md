@@ -6,4 +6,4 @@
 | 4 | [Hell is Others](games/h/hell_is_others.md) | 4.21 | 
 | 5 | [Forspoken](games/f/forspoken.md) | 4.06 | 
 | 6 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.45 | 
-| 7 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.83 | 
+| 7 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.86 | 

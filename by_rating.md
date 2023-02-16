@@ -510,10 +510,10 @@
 | 500 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 500 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.51 | 
 | 500 | [Horace](games/h/horace.md) | 4.51 | 
+| 500 | [Sable](games/s/sable.md) | 4.51 | 
 | 500 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 500 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 500 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 500 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
 | 515 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 515 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 515 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
@@ -522,9 +522,9 @@
 | 515 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 515 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 515 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 515 | [Sable](games/s/sable.md) | 4.50 | 
 | 515 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 515 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 
+| 515 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
 | 515 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 515 | [Tails of Iron](games/t/tails_of_iron.md) | 4.50 | 
 | 528 | [Maneater](games/m/maneater.md) | 4.49 | 
@@ -762,15 +762,15 @@
 | 758 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
 | 758 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.23 | 
 | 758 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 763 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 763 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
 | 763 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
-| 766 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
-| 766 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
-| 766 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
-| 766 | [Starsand](games/s/starsand.md) | 4.21 | 
-| 766 | [Hell is Others](games/h/hell_is_others.md) | 4.21 | 
-| 766 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
+| 765 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
+| 765 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
+| 765 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
+| 765 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
+| 765 | [Starsand](games/s/starsand.md) | 4.21 | 
+| 765 | [Hell is Others](games/h/hell_is_others.md) | 4.21 | 
+| 765 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
 | 772 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
 | 772 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 772 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
@@ -858,8 +858,8 @@
 | 856 | [Banished](games/b/banished.md) | 3.90 | 
 | 857 | [Blood of Steel](games/b/blood_of_steel.md) | 3.87 | 
 | 858 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 859 | [Chimeraland](games/c/chimeraland.md) | 3.84 | 
-| 860 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.83 | 
+| 858 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.86 | 
+| 860 | [Chimeraland](games/c/chimeraland.md) | 3.84 | 
 | 861 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 861 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 863 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 

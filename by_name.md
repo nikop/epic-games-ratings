@@ -236,7 +236,7 @@
 | 234 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 235 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 236 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 237 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
+| 237 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
 | 238 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 
 | 239 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 240 | [Fangs](games/f/fangs.md) | 4.09 | 
@@ -400,7 +400,7 @@
 | 398 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 399 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 400 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 401 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 401 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 402 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
 | 403 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 404 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
@@ -578,7 +578,7 @@
 | 576 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 577 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 578 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 579 | [Sable](games/s/sable.md) | 4.50 | 
+| 579 | [Sable](games/s/sable.md) | 4.51 | 
 | 580 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
 | 581 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 582 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
@@ -775,7 +775,7 @@
 | 773 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 774 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 775 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 776 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.83 | 
+| 776 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.86 | 
 | 777 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 778 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 779 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
