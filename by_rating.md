@@ -783,15 +783,15 @@
 | 781 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 781 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 781 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 781 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.19 | 
 | 781 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 781 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
-| 787 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 787 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 787 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
-| 787 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
-| 787 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
-| 787 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.18 | 
+| 786 | [Windbound](games/w/windbound.md) | 4.18 | 
+| 786 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 786 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
+| 786 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
+| 786 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
+| 786 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.18 | 
+| 786 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.18 | 
 | 793 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 793 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
 | 793 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
@@ -855,10 +855,10 @@
 | 852 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 852 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
 | 855 | [Banished](games/b/banished.md) | 3.90 | 
-| 856 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 857 | [Chimeraland](games/c/chimeraland.md) | 3.84 | 
-| 858 | [Blood of Steel](games/b/blood_of_steel.md) | 3.83 | 
-| 858 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.83 | 
+| 856 | [Blood of Steel](games/b/blood_of_steel.md) | 3.87 | 
+| 857 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
+| 858 | [Chimeraland](games/c/chimeraland.md) | 3.84 | 
+| 859 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.83 | 
 | 860 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 860 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 862 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 

@@ -91,7 +91,7 @@
 | 89 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 90 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
 | 91 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 92 | [Blood of Steel](games/b/blood_of_steel.md) | 3.83 | 
+| 92 | [Blood of Steel](games/b/blood_of_steel.md) | 3.87 | 
 | 93 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 94 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 95 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -125,7 +125,7 @@
 | 123 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 124 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
 | 125 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.19 | 
+| 126 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.18 | 
 | 127 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 128 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 129 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
