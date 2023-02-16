@@ -163,7 +163,7 @@
 | 161 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
 | 162 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 163 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 164 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
+| 164 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 
 | 165 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 166 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
 | 167 | [Dauntless](games/d/dauntless.md) | 4.53 | 
@@ -597,7 +597,7 @@
 | 595 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 596 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 597 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 598 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.73 | 
+| 598 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
 | 599 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 600 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
 | 601 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
