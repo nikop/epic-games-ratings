@@ -224,7 +224,7 @@
 | 222 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.45 | 
 | 223 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 224 | [EVE Online](games/e/eve_online.md) | 4.25 | 
-| 225 | [Everything](games/e/everything.md) | 4.62 | 
+| 225 | [Everything](games/e/everything.md) | 4.57 | 
 | 226 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 227 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.96 | 
 | 228 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
