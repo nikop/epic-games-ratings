@@ -305,21 +305,21 @@
 | 296 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.64 | 
 | 296 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 296 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
+| 296 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
 | 296 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
-| 307 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 307 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 307 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 307 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 307 | [ABZU](games/a/abzu.md) | 4.63 | 
-| 307 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
-| 307 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
-| 307 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 307 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 
-| 307 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 307 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
-| 307 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 
-| 307 | [GigaBash](games/g/gigabash.md) | 4.63 | 
-| 307 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
+| 308 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 308 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 308 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 308 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 308 | [ABZU](games/a/abzu.md) | 4.63 | 
+| 308 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
+| 308 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
+| 308 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
+| 308 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 
+| 308 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 308 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
+| 308 | [GigaBash](games/g/gigabash.md) | 4.63 | 
+| 308 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 321 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 321 | [Prey](games/p/prey.md) | 4.62 | 
 | 321 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
