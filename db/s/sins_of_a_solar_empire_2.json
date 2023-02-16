@@ -1,10 +1,10 @@
 {
   "ID": "24285307a56445f1bc5d546df7af3025",
   "Name": "Sins of a Solar Empire 2",
-  "Rating": 4.49,
+  "Rating": 4.48,
   "FirstSeen": "2022-10-27T20:00:58.3635967+00:00",
   "FirstSeenRating": "2022-10-28T20:01:29.0144781+00:00",
-  "LastChanged": "2023-02-14T10:57:28.4691966+00:00",
+  "LastChanged": "2023-02-16T10:57:22.7645531+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-28T20:01:29.0144786+00:00",
@@ -169,6 +169,11 @@
     {
       "Time": "2023-02-14T10:57:28.4691968+00:00",
       "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-16T10:57:22.7645534+00:00",
+      "Rating": 4.48,
       "NumberOfRatings": null
     }
   ],

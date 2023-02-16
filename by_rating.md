@@ -542,14 +542,14 @@
 | 526 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 526 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 526 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 526 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
 | 526 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
-| 545 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 545 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 545 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
-| 545 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
-| 545 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
-| 545 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
+| 544 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 544 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 544 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
+| 544 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
+| 544 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
+| 544 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
+| 544 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 551 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 551 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 551 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 

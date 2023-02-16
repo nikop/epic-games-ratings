@@ -612,7 +612,7 @@
 | 610 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 611 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 612 | [Sifu](games/s/sifu.md) | 4.81 | 
-| 613 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
+| 613 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 614 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
 | 615 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 616 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
