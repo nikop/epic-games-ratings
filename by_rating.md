@@ -140,7 +140,6 @@
 | 138 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
 | 138 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 138 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 138 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 138 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 138 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 138 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
@@ -153,20 +152,21 @@
 | 138 | [King of Retail](games/k/king_of_retail.md) | 4.74 | 
 | 138 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
 | 138 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 
-| 154 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 154 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 154 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
-| 154 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 154 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
-| 154 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 154 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 154 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
-| 154 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
-| 154 | [Northgard](games/n/northgard.md) | 4.73 | 
-| 154 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.73 | 
-| 154 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
-| 154 | [Outlast](games/o/outlast.md) | 4.73 | 
-| 154 | [Suzerain](games/s/suzerain.md) | 4.73 | 
+| 153 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 153 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 153 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
+| 153 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 153 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 153 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
+| 153 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 153 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 153 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
+| 153 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
+| 153 | [Northgard](games/n/northgard.md) | 4.73 | 
+| 153 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.73 | 
+| 153 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
+| 153 | [Outlast](games/o/outlast.md) | 4.73 | 
+| 153 | [Suzerain](games/s/suzerain.md) | 4.73 | 
 | 168 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 168 | [Timberborn](games/t/timberborn.md) | 4.72 | 
 | 168 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 

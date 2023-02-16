@@ -758,7 +758,7 @@
 | 756 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 757 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 758 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 759 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 759 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 760 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
 | 761 | [Timberborn](games/t/timberborn.md) | 4.72 | 
 | 762 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
