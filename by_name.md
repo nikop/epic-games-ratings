@@ -318,7 +318,7 @@
 | 316 | [Haven](games/h/haven.md) | 4.75 | 
 | 317 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 318 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 319 | [Hell is Others](games/h/hell_is_others.md) | 4.21 | 
+| 319 | [Hell is Others](games/h/hell_is_others.md) | 4.24 | 
 | 320 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 321 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.39 | 
 | 322 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
@@ -734,7 +734,7 @@
 | 732 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 733 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 734 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 735 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.54 | 
+| 735 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 736 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 737 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 738 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
@@ -834,7 +834,7 @@
 | 832 | [Warpips](games/w/warpips.md) | 4.40 | 
 | 833 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 834 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
-| 835 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 835 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
 | 836 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.34 | 
 | 837 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 838 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
