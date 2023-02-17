@@ -547,7 +547,7 @@
 | 545 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 546 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 547 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
-| 548 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.12 | 
+| 548 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.11 | 
 | 549 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 550 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 551 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 

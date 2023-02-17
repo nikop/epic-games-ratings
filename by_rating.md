@@ -811,9 +811,9 @@
 | 808 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 810 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 810 | [Train Valley 2](games/t/train_valley_2.md) | 4.12 | 
-| 810 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.12 | 
-| 813 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
-| 813 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
+| 812 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
+| 812 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
+| 812 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.11 | 
 | 815 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
 | 815 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 815 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
