@@ -404,7 +404,7 @@
 | 402 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
 | 403 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 404 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
-| 405 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
+| 405 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 
 | 406 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
 | 407 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
 | 408 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
