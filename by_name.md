@@ -210,7 +210,7 @@
 | 208 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 209 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 210 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
-| 211 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
+| 211 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 
 | 212 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 213 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 214 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
@@ -401,7 +401,7 @@
 | 399 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 400 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 401 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 402 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
+| 402 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 403 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
 | 404 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
 | 405 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
@@ -835,7 +835,7 @@
 | 833 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 834 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 835 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 836 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.33 | 
+| 836 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.34 | 
 | 837 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 838 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
 | 839 | [Weird West](games/w/weird_west.md) | 4.46 | 
