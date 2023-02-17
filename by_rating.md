@@ -415,7 +415,6 @@
 | 411 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 411 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 411 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
-| 411 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.57 | 
 | 411 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
 | 411 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
 | 411 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
@@ -431,18 +430,19 @@
 | 411 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 411 | [Everything](games/e/everything.md) | 4.57 | 
 | 411 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
-| 432 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 432 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 432 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 432 | [Hue](games/h/hue.md) | 4.56 | 
-| 432 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
-| 432 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 432 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
-| 432 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
-| 432 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 432 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 432 | [Observation](games/o/observation.md) | 4.56 | 
-| 432 | [The Medium](games/t/the_medium.md) | 4.56 | 
+| 431 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 431 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 431 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
+| 431 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 431 | [Hue](games/h/hue.md) | 4.56 | 
+| 431 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
+| 431 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 431 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
+| 431 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
+| 431 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 431 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 431 | [Observation](games/o/observation.md) | 4.56 | 
+| 431 | [The Medium](games/t/the_medium.md) | 4.56 | 
 | 444 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 444 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 444 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -629,7 +629,6 @@
 | 625 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 625 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 625 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
-| 625 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.41 | 
 | 625 | [Good Company](games/g/good_company.md) | 4.41 | 
 | 625 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
 | 625 | [Tacoma](games/t/tacoma.md) | 4.41 | 
@@ -642,17 +641,18 @@
 | 625 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 625 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.41 | 
 | 625 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 643 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 643 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 643 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 643 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
-| 643 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 643 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 643 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
-| 643 | [Knockout City™](games/k/knockout_city™.md) | 4.40 | 
-| 643 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
-| 643 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
-| 643 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
+| 642 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 642 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 642 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 642 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
+| 642 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 642 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 642 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 642 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
+| 642 | [Knockout City™](games/k/knockout_city™.md) | 4.40 | 
+| 642 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
+| 642 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
+| 642 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 654 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 654 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 654 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
@@ -828,10 +828,10 @@
 | 825 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
 | 825 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 828 | [Lake](games/l/lake.md) | 4.07 | 
+| 828 | [Forspoken](games/f/forspoken.md) | 4.07 | 
 | 828 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
-| 830 | [Godfall](games/g/godfall.md) | 4.06 | 
-| 830 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.06 | 
-| 830 | [Forspoken](games/f/forspoken.md) | 4.06 | 
+| 831 | [Godfall](games/g/godfall.md) | 4.06 | 
+| 831 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.06 | 
 | 833 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 833 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 835 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 

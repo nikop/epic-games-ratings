@@ -271,7 +271,7 @@
 | 269 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 270 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 271 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 272 | [Forspoken](games/f/forspoken.md) | 4.06 | 
+| 272 | [Forspoken](games/f/forspoken.md) | 4.07 | 
 | 273 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 274 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 275 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
@@ -336,7 +336,7 @@
 | 334 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 335 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 336 | [Horace](games/h/horace.md) | 4.51 | 
-| 337 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.57 | 
+| 337 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
 | 338 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 339 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 
 | 340 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
@@ -534,7 +534,7 @@
 | 532 | [Prey](games/p/prey.md) | 4.62 | 
 | 533 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
 | 534 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.99 | 
-| 535 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.41 | 
+| 535 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 536 | [Quake](games/q/quake.md) | 4.77 | 
 | 537 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 538 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
