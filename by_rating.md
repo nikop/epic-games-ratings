@@ -164,15 +164,15 @@
 | 154 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
 | 154 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 154 | [Northgard](games/n/northgard.md) | 4.73 | 
+| 154 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.73 | 
 | 154 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 154 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 154 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 168 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 168 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 168 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 168 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
-| 168 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 168 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
+| 169 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 169 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 169 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 169 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 169 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
 | 174 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 174 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 174 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
@@ -757,15 +757,15 @@
 | 751 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
 | 751 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
 | 751 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
-| 751 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 
-| 759 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 759 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
-| 759 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
-| 759 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.23 | 
-| 759 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 764 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 764 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
-| 764 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
+| 758 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 758 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
+| 758 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
+| 758 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.23 | 
+| 758 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
+| 763 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 763 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
+| 763 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
+| 763 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
 | 767 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 767 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 767 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 

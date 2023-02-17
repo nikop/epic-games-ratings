@@ -599,7 +599,7 @@
 | 597 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 598 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 599 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 600 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
+| 600 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.73 | 
 | 601 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 602 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
 | 603 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
@@ -739,7 +739,7 @@
 | 737 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 738 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 739 | [The Surge](games/t/the_surge.md) | 4.48 | 
-| 740 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 
+| 740 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
 | 741 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 742 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 743 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
