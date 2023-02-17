@@ -209,7 +209,7 @@
 | 207 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 208 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 209 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 210 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
+| 210 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 211 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 
 | 212 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 213 | [Eastward](games/e/eastward.md) | 4.67 | 
@@ -394,7 +394,7 @@
 | 392 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 393 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
 | 394 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 395 | [Knockout City™](games/k/knockout_city™.md) | 4.40 | 
+| 395 | [Knockout City™](games/k/knockout_city™.md) | 4.37 | 
 | 396 | [Lake](games/l/lake.md) | 4.07 | 
 | 397 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 398 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
@@ -548,7 +548,7 @@
 | 546 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 547 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 548 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
-| 549 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.11 | 
+| 549 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.12 | 
 | 550 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 551 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 552 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
@@ -607,7 +607,7 @@
 | 605 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
 | 606 | [shapez](games/s/shapez.md) | 4.76 | 
 | 607 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 608 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 
+| 608 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
 | 609 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
 | 610 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
 | 611 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
@@ -858,7 +858,7 @@
 | 856 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
 | 857 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
 | 858 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 
-| 859 | [XCOM® 2](games/x/xcom®_2.md) | 4.53 | 
+| 859 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 860 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 861 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 862 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
