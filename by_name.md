@@ -356,7 +356,7 @@
 | 354 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
 | 355 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 356 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 357 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 357 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 
 | 358 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 359 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 360 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
@@ -648,7 +648,7 @@
 | 646 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.60 | 
 | 647 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 648 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
-| 649 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 
+| 649 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
 | 650 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 651 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.65 | 
 | 652 | [Starsand](games/s/starsand.md) | 4.21 | 
@@ -778,7 +778,7 @@
 | 776 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 777 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.86 | 
 | 778 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 779 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
+| 779 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
 | 780 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
 | 781 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 782 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
