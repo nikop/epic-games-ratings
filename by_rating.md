@@ -328,6 +328,7 @@
 | 322 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
 | 322 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 322 | [Limbo](games/l/limbo.md) | 4.62 | 
+| 322 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 
 | 322 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 322 | [Mutazione](games/m/mutazione.md) | 4.62 | 
 | 322 | [GRIME](games/g/grime.md) | 4.62 | 
@@ -335,33 +336,32 @@
 | 322 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 322 | [NORCO](games/n/norco.md) | 4.62 | 
 | 322 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 336 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
-| 336 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 336 | [Warframe](games/w/warframe.md) | 4.61 | 
-| 336 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
-| 336 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
-| 336 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
-| 336 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 336 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 336 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 336 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 336 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 336 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
-| 336 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 336 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 
-| 336 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 
-| 336 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 336 | [20XX](games/2/20xx.md) | 4.61 | 
-| 336 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 
-| 336 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
-| 336 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.61 | 
-| 336 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
-| 336 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 336 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
-| 336 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
-| 336 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
-| 336 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.61 | 
-| 336 | [Darkwood](games/d/darkwood.md) | 4.61 | 
+| 337 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
+| 337 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 337 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 337 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
+| 337 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
+| 337 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
+| 337 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 337 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 337 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 337 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 337 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 337 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 337 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 337 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 
+| 337 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 
+| 337 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 337 | [20XX](games/2/20xx.md) | 4.61 | 
+| 337 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 
+| 337 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
+| 337 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
+| 337 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 337 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
+| 337 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
+| 337 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
+| 337 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.61 | 
+| 337 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 363 | [Control](games/c/control.md) | 4.60 | 
 | 363 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 363 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
