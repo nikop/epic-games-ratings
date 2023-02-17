@@ -164,7 +164,7 @@
 | 162 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
 | 163 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 164 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 165 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 
+| 165 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
 | 166 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 167 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
 | 168 | [Dauntless](games/d/dauntless.md) | 4.53 | 
@@ -454,7 +454,7 @@
 | 452 | [Mutazione](games/m/mutazione.md) | 4.62 | 
 | 453 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
 | 454 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 455 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
+| 455 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 456 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 457 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
 | 458 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
@@ -776,7 +776,7 @@
 | 774 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 775 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 776 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 777 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.86 | 
+| 777 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.84 | 
 | 778 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 779 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
 | 780 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 

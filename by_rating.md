@@ -235,7 +235,6 @@
 | 228 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 228 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 
 | 228 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
-| 228 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
 | 228 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
 | 228 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
 | 228 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
@@ -246,24 +245,25 @@
 | 228 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
 | 228 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
 | 228 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
-| 247 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
-| 247 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 247 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 247 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 247 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
-| 247 | [Overcooked](games/o/overcooked.md) | 4.67 | 
-| 247 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 247 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
-| 247 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
-| 247 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
-| 247 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
-| 247 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
-| 247 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
-| 247 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 247 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
-| 247 | [Card Shark](games/c/card_shark.md) | 4.67 | 
-| 247 | [GNOG](games/g/gnog.md) | 4.67 | 
-| 247 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
+| 246 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 246 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 246 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 246 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 246 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 246 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
+| 246 | [Overcooked](games/o/overcooked.md) | 4.67 | 
+| 246 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 246 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
+| 246 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
+| 246 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
+| 246 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
+| 246 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
+| 246 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
+| 246 | [Eastward](games/e/eastward.md) | 4.67 | 
+| 246 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
+| 246 | [Card Shark](games/c/card_shark.md) | 4.67 | 
+| 246 | [GNOG](games/g/gnog.md) | 4.67 | 
+| 246 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
 | 265 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 265 | [Trackmania](games/t/trackmania.md) | 4.66 | 
 | 265 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
@@ -350,7 +350,6 @@
 | 338 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 338 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 338 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 
-| 338 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 
 | 338 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 338 | [20XX](games/2/20xx.md) | 4.61 | 
 | 338 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 
@@ -362,21 +361,22 @@
 | 338 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
 | 338 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.61 | 
 | 338 | [Darkwood](games/d/darkwood.md) | 4.61 | 
-| 363 | [Control](games/c/control.md) | 4.60 | 
-| 363 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
-| 363 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
-| 363 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 363 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 363 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
-| 363 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 363 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
-| 363 | [DOOM 3](games/d/doom_3.md) | 4.60 | 
-| 363 | [Road 96](games/r/road_96.md) | 4.60 | 
-| 363 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 363 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.60 | 
-| 363 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 363 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.60 | 
-| 363 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.60 | 
+| 362 | [Control](games/c/control.md) | 4.60 | 
+| 362 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
+| 362 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
+| 362 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 362 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
+| 362 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
+| 362 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
+| 362 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 362 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
+| 362 | [DOOM 3](games/d/doom_3.md) | 4.60 | 
+| 362 | [Road 96](games/r/road_96.md) | 4.60 | 
+| 362 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
+| 362 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.60 | 
+| 362 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
+| 362 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.60 | 
+| 362 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.60 | 
 | 378 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 378 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 378 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
@@ -859,8 +859,8 @@
 | 857 | [Banished](games/b/banished.md) | 3.90 | 
 | 858 | [Blood of Steel](games/b/blood_of_steel.md) | 3.87 | 
 | 859 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 859 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.86 | 
-| 861 | [Chimeraland](games/c/chimeraland.md) | 3.84 | 
+| 860 | [Chimeraland](games/c/chimeraland.md) | 3.84 | 
+| 860 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.84 | 
 | 862 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 862 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 864 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
