@@ -320,7 +320,7 @@
 | 318 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 319 | [Hell is Others](games/h/hell_is_others.md) | 4.21 | 
 | 320 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 321 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.41 | 
+| 321 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.39 | 
 | 322 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
 | 323 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 324 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
