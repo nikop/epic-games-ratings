@@ -467,7 +467,7 @@
 | 465 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 466 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 
 | 467 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
-| 468 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.55 | 
+| 468 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 469 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 470 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 471 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
