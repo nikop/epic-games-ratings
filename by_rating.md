@@ -779,15 +779,15 @@
 | 773 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 773 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 773 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 773 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.20 | 
 | 773 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 773 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 
 | 773 | [Somerville](games/s/somerville.md) | 4.20 | 
-| 783 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 783 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 783 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 783 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.19 | 
-| 783 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
-| 783 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
+| 784 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 784 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
+| 784 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 784 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
+| 784 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
 | 789 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 789 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 789 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
