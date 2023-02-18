@@ -11,7 +11,7 @@
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.63 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.47 | 
-| 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.55 | 
+| 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
@@ -665,7 +665,7 @@
 | 663 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
 | 664 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
 | 665 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 666 | [Submerged](games/s/submerged.md) | 4.16 | 
+| 666 | [Submerged](games/s/submerged.md) | 4.09 | 
 | 667 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 668 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 669 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
@@ -857,7 +857,7 @@
 | 855 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 856 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
 | 857 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 858 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 
+| 858 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 
 | 859 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 860 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 861 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
