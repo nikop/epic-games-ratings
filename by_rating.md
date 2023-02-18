@@ -158,7 +158,6 @@
 | 154 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 154 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 154 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 154 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 154 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 154 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 154 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
@@ -168,11 +167,12 @@
 | 154 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 154 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 154 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 169 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 169 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 169 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 169 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 169 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
+| 168 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 168 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
+| 168 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 168 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 168 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 168 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
 | 174 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 174 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 174 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
