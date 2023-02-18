@@ -471,6 +471,7 @@
 | 469 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 469 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 469 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 469 | [Just Die Already](games/j/just_die_already.md) | 4.53 | 
 | 469 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 469 | [Verdun](games/v/verdun.md) | 4.53 | 
 | 469 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
@@ -487,18 +488,17 @@
 | 469 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
 | 469 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 469 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
-| 488 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
-| 488 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 488 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 488 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 488 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 488 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
-| 488 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 488 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
-| 488 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 488 | [IXION](games/i/ixion.md) | 4.52 | 
-| 488 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 488 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 489 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
+| 489 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 489 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 489 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 489 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 489 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 489 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.52 | 
+| 489 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 489 | [IXION](games/i/ixion.md) | 4.52 | 
+| 489 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 489 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 500 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 500 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 500 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
