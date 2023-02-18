@@ -126,7 +126,7 @@
 | 124 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 125 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
 | 126 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.21 | 
+| 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.20 | 
 | 128 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 129 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 130 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -525,7 +525,7 @@
 | 523 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 524 | [Pine](games/p/pine.md) | 4.15 | 
 | 525 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.51 | 
-| 526 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 
+| 526 | [Port Royale 4](games/p/port_royale_4.md) | 3.99 | 
 | 527 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
 | 528 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 529 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
