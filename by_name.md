@@ -172,7 +172,7 @@
 | 170 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 171 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 172 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
-| 173 | [Dead Space](games/d/dead_space.md) | 4.69 | 
+| 173 | [Dead Space](games/d/dead_space.md) | 4.70 | 
 | 174 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 175 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 176 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
@@ -320,7 +320,7 @@
 | 318 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 319 | [Hell is Others](games/h/hell_is_others.md) | 4.24 | 
 | 320 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 321 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.39 | 
+| 321 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.40 | 
 | 322 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
 | 323 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 324 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
@@ -701,7 +701,7 @@
 | 699 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
 | 700 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 701 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
-| 702 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 702 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
 | 703 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.88 | 
 | 704 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
 | 705 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
@@ -738,7 +738,7 @@
 | 736 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 737 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 738 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
-| 739 | [The Surge](games/t/the_surge.md) | 4.48 | 
+| 739 | [The Surge](games/t/the_surge.md) | 4.46 | 
 | 740 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
 | 741 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 742 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
