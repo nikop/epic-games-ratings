@@ -114,18 +114,18 @@
 | 107 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 107 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 107 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
-| 107 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 107 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
-| 117 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 117 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 117 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
-| 117 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 117 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 117 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
-| 117 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
-| 117 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
-| 117 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.76 | 
-| 117 | [shapez](games/s/shapez.md) | 4.76 | 
+| 116 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 116 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 116 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
+| 116 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 116 | [Diabotical](games/d/diabotical.md) | 4.76 | 
+| 116 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
+| 116 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
+| 116 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
+| 116 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
+| 116 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.76 | 
+| 116 | [shapez](games/s/shapez.md) | 4.76 | 
 | 127 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 127 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
 | 127 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -603,6 +603,7 @@
 | 588 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
 | 588 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 588 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 
+| 604 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 604 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 604 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 604 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
@@ -612,17 +613,16 @@
 | 604 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 604 | [Predecessor](games/p/predecessor.md) | 4.43 | 
 | 604 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
-| 613 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 613 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 613 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 613 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 613 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 613 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 613 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 613 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
-| 613 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
-| 613 | [Far Cry](games/f/far_cry.md) | 4.42 | 
-| 613 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
+| 614 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 614 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 614 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 614 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 614 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 614 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 614 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
+| 614 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
+| 614 | [Far Cry](games/f/far_cry.md) | 4.42 | 
+| 614 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
 | 624 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 624 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 624 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 

@@ -234,7 +234,7 @@
 | 232 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 233 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 234 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 235 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
+| 235 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 236 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 237 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
 | 238 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
@@ -496,7 +496,7 @@
 | 494 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 495 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 496 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 497 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 497 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 498 | [Outward](games/o/outward.md) | 4.55 | 
 | 499 | [Overcooked](games/o/overcooked.md) | 4.67 | 
 | 500 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
