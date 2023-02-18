@@ -92,7 +92,7 @@
 | 90 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 91 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
 | 92 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 93 | [Blood of Steel](games/b/blood_of_steel.md) | 3.87 | 
+| 93 | [Blood of Steel](games/b/blood_of_steel.md) | 3.91 | 
 | 94 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 95 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 96 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -332,7 +332,7 @@
 | 330 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 331 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 332 | [Hob](games/h/hob.md) | 4.57 | 
-| 333 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.80 | 
+| 333 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
 | 334 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 335 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 336 | [Horace](games/h/horace.md) | 4.51 | 
@@ -844,7 +844,7 @@
 | 842 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 843 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 844 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 845 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
+| 845 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.92 | 
 | 846 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 847 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 848 | [Windbound](games/w/windbound.md) | 4.18 | 

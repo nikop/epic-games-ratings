@@ -92,17 +92,17 @@
 | 80 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 80 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 80 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
-| 80 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.80 | 
 | 80 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
-| 95 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 95 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
-| 95 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 95 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 95 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 95 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 95 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 95 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 95 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
+| 94 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 94 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
+| 94 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 94 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
+| 94 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 94 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 94 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
+| 94 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 94 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
+| 94 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
 | 104 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 104 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
 | 104 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
@@ -853,11 +853,11 @@
 | 848 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
 | 852 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 853 | [Warface](games/w/warface.md) | 3.92 | 
-| 854 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 854 | [Ironcast](games/i/ironcast.md) | 3.91 | 
-| 854 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
-| 857 | [Banished](games/b/banished.md) | 3.90 | 
-| 858 | [Blood of Steel](games/b/blood_of_steel.md) | 3.87 | 
+| 853 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.92 | 
+| 855 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 855 | [Ironcast](games/i/ironcast.md) | 3.91 | 
+| 855 | [Blood of Steel](games/b/blood_of_steel.md) | 3.91 | 
+| 858 | [Banished](games/b/banished.md) | 3.90 | 
 | 859 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 860 | [Chimeraland](games/c/chimeraland.md) | 3.85 | 
 | 861 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.84 | 
