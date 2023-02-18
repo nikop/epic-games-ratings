@@ -350,7 +350,7 @@
 | 348 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
 | 349 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.76 | 
 | 350 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 351 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 
+| 351 | [Imagine Earth](games/i/imagine_earth.md) | 4.34 | 
 | 352 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
 | 353 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
 | 354 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
@@ -548,7 +548,7 @@
 | 546 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 547 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 548 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
-| 549 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.12 | 
+| 549 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.14 | 
 | 550 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 551 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 552 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
