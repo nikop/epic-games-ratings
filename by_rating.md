@@ -750,19 +750,19 @@
 | 747 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
 | 747 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 747 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
-| 751 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 751 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
-| 751 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 751 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
-| 751 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
-| 751 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
-| 751 | [Hell is Others](games/h/hell_is_others.md) | 4.24 | 
-| 751 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
-| 759 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 759 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
-| 759 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
-| 759 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.23 | 
-| 759 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
+| 747 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.25 | 
+| 752 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
+| 752 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
+| 752 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
+| 752 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
+| 752 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
+| 752 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
+| 752 | [Hell is Others](games/h/hell_is_others.md) | 4.24 | 
+| 752 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
+| 760 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 760 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
+| 760 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
+| 760 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 764 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 764 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
 | 764 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 

@@ -7,4 +7,3 @@
 | 5 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.95 | 
 | 6 | [Forspoken](games/f/forspoken.md) | 4.07 | 
 | 7 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.45 | 
-| 8 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.84 | 
