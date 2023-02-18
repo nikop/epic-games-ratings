@@ -831,11 +831,11 @@
 | 829 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
 | 830 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 831 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 832 | [Warpips](games/w/warpips.md) | 4.36 | 
+| 832 | [Warpips](games/w/warpips.md) | 4.35 | 
 | 833 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 834 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 835 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
-| 836 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.34 | 
+| 836 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.33 | 
 | 837 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 838 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
 | 839 | [Weird West](games/w/weird_west.md) | 4.46 | 
@@ -855,7 +855,7 @@
 | 853 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 854 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 855 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 856 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
+| 856 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
 | 857 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
 | 858 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 
 | 859 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 

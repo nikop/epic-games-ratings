@@ -354,29 +354,29 @@
 | 339 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 339 | [20XX](games/2/20xx.md) | 4.61 | 
 | 339 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 
-| 339 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 
 | 339 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
 | 339 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
 | 339 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
 | 339 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
 | 339 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
 | 339 | [Darkwood](games/d/darkwood.md) | 4.61 | 
-| 362 | [Control](games/c/control.md) | 4.60 | 
-| 362 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
-| 362 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
-| 362 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 362 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 362 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
-| 362 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
-| 362 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 362 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
-| 362 | [DOOM 3](games/d/doom_3.md) | 4.60 | 
-| 362 | [Road 96](games/r/road_96.md) | 4.60 | 
-| 362 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 362 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.60 | 
-| 362 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 362 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.60 | 
-| 362 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.60 | 
+| 361 | [Control](games/c/control.md) | 4.60 | 
+| 361 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
+| 361 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
+| 361 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 361 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
+| 361 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
+| 361 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
+| 361 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 361 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
+| 361 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
+| 361 | [DOOM 3](games/d/doom_3.md) | 4.60 | 
+| 361 | [Road 96](games/r/road_96.md) | 4.60 | 
+| 361 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
+| 361 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.60 | 
+| 361 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
+| 361 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.60 | 
+| 361 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.60 | 
 | 378 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 378 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 378 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
@@ -686,29 +686,29 @@
 | 682 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 682 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 682 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 682 | [Warpips](games/w/warpips.md) | 4.36 | 
 | 682 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
 | 682 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 682 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
-| 691 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
-| 691 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
-| 691 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 691 | [Torchlight](games/t/torchlight.md) | 4.35 | 
-| 691 | [Ashen](games/a/ashen.md) | 4.35 | 
-| 691 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 691 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 691 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
-| 691 | [ZOMBI](games/z/zombi.md) | 4.35 | 
+| 690 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
+| 690 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
+| 690 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 690 | [Torchlight](games/t/torchlight.md) | 4.35 | 
+| 690 | [Ashen](games/a/ashen.md) | 4.35 | 
+| 690 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
+| 690 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 690 | [Warpips](games/w/warpips.md) | 4.35 | 
+| 690 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
+| 690 | [ZOMBI](games/z/zombi.md) | 4.35 | 
 | 700 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 700 | [Automachef](games/a/automachef.md) | 4.34 | 
-| 700 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.34 | 
 | 700 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
 | 700 | [Imagine Earth](games/i/imagine_earth.md) | 4.34 | 
 | 700 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 706 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
-| 706 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.33 | 
-| 706 | [Backbone](games/b/backbone.md) | 4.33 | 
-| 706 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
+| 705 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.33 | 
+| 705 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 705 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.33 | 
+| 705 | [Backbone](games/b/backbone.md) | 4.33 | 
+| 705 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
 | 710 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 710 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
 | 710 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
