@@ -548,7 +548,7 @@
 | 546 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 547 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 548 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
-| 549 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.14 | 
+| 549 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.13 | 
 | 550 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 551 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 552 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
@@ -596,7 +596,7 @@
 | 594 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
 | 595 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
 | 596 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
-| 597 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
+| 597 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.62 | 
 | 598 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 599 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 600 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.73 | 
@@ -734,7 +734,7 @@
 | 732 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 733 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 734 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 735 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
+| 735 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.55 | 
 | 736 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 737 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 738 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
@@ -831,7 +831,7 @@
 | 829 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
 | 830 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 831 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 832 | [Warpips](games/w/warpips.md) | 4.35 | 
+| 832 | [Warpips](games/w/warpips.md) | 4.36 | 
 | 833 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 834 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 835 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
