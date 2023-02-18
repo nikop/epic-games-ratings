@@ -667,20 +667,20 @@
 | 658 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 658 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 658 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.38 | 
+| 658 | [Knockout City™](games/k/knockout_city™.md) | 4.38 | 
 | 658 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
 | 658 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 670 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 670 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 670 | [Core](games/c/core.md) | 4.37 | 
-| 670 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 670 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
-| 670 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 670 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
-| 670 | [Encased](games/e/encased.md) | 4.37 | 
-| 670 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 670 | [Knockout City™](games/k/knockout_city™.md) | 4.37 | 
-| 670 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 670 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
+| 671 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 671 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 671 | [Core](games/c/core.md) | 4.37 | 
+| 671 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 671 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.37 | 
+| 671 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
+| 671 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
+| 671 | [Encased](games/e/encased.md) | 4.37 | 
+| 671 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 671 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 671 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
 | 682 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 682 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
 | 682 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
@@ -734,31 +734,31 @@
 | 727 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
 | 727 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 727 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
+| 727 | [Hell is Others](games/h/hell_is_others.md) | 4.29 | 
 | 727 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 727 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 737 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 737 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 737 | [Dark Light](games/d/dark_light.md) | 4.28 | 
-| 737 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
-| 741 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
-| 741 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
-| 743 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
-| 743 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
-| 743 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
-| 743 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
-| 747 | [EVE Online](games/e/eve_online.md) | 4.25 | 
-| 747 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
-| 747 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 747 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
-| 747 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.25 | 
-| 752 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 752 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
-| 752 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 752 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
-| 752 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
-| 752 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
-| 752 | [Hell is Others](games/h/hell_is_others.md) | 4.24 | 
-| 752 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
+| 738 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 738 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 738 | [Dark Light](games/d/dark_light.md) | 4.28 | 
+| 738 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
+| 742 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
+| 742 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
+| 744 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 744 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
+| 744 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
+| 744 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
+| 748 | [EVE Online](games/e/eve_online.md) | 4.25 | 
+| 748 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
+| 748 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 748 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
+| 748 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.25 | 
+| 753 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
+| 753 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
+| 753 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
+| 753 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
+| 753 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
+| 753 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
+| 753 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 760 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 760 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
 | 760 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
