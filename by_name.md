@@ -403,7 +403,7 @@
 | 401 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 402 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 403 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
-| 404 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
+| 404 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 405 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
 | 406 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 
 | 407 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 

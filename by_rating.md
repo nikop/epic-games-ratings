@@ -289,6 +289,7 @@
 | 284 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 284 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 284 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
+| 284 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 284 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 284 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
 | 284 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
@@ -296,18 +297,17 @@
 | 284 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
 | 284 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
 | 284 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.65 | 
-| 297 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 297 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 297 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 297 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 297 | [Old World](games/o/old_world.md) | 4.64 | 
-| 297 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.64 | 
-| 297 | [SOMA](games/s/soma.md) | 4.64 | 
-| 297 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.64 | 
-| 297 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
-| 297 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
-| 297 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
-| 297 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
+| 298 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 298 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 298 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 298 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 298 | [Old World](games/o/old_world.md) | 4.64 | 
+| 298 | [SOMA](games/s/soma.md) | 4.64 | 
+| 298 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.64 | 
+| 298 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
+| 298 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
+| 298 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
+| 298 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 309 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 309 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 309 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
