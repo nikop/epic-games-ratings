@@ -729,7 +729,6 @@
 | 727 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 727 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 727 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 727 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
 | 727 | [The Fall](games/t/the_fall.md) | 4.29 | 
 | 727 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
 | 727 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
@@ -737,10 +736,11 @@
 | 727 | [Hell is Others](games/h/hell_is_others.md) | 4.29 | 
 | 727 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 727 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 738 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 738 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 738 | [Dark Light](games/d/dark_light.md) | 4.28 | 
-| 738 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
+| 737 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 737 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 737 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 737 | [Dark Light](games/d/dark_light.md) | 4.28 | 
+| 737 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
 | 742 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 742 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
 | 744 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
@@ -796,74 +796,75 @@
 | 794 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 794 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
 | 794 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
-| 797 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 797 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
-| 797 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
-| 797 | [Flatout](games/f/flatout.md) | 4.16 | 
-| 797 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
-| 802 | [Pine](games/p/pine.md) | 4.15 | 
-| 802 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
-| 802 | [Relicta](games/r/relicta.md) | 4.15 | 
-| 802 | [Gone Home](games/g/gone_home.md) | 4.15 | 
-| 802 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 807 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
-| 807 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.14 | 
-| 809 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
-| 810 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 810 | [Train Valley 2](games/t/train_valley_2.md) | 4.12 | 
-| 810 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.12 | 
-| 813 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
-| 813 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
-| 815 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
-| 815 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 815 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
-| 815 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
-| 815 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 815 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
-| 815 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 822 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
-| 822 | [Submerged](games/s/submerged.md) | 4.09 | 
-| 822 | [Fangs](games/f/fangs.md) | 4.09 | 
-| 825 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 825 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
-| 825 | [Forspoken](games/f/forspoken.md) | 4.08 | 
-| 825 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
-| 829 | [Lake](games/l/lake.md) | 4.07 | 
-| 829 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
-| 831 | [Godfall](games/g/godfall.md) | 4.06 | 
-| 831 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.06 | 
-| 833 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 833 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
-| 835 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
-| 835 | [Tharsis](games/t/tharsis.md) | 4.04 | 
-| 837 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 
-| 838 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
-| 839 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
-| 840 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 840 | [Port Royale 4](games/p/port_royale_4.md) | 3.99 | 
-| 840 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.99 | 
-| 843 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
-| 843 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
-| 845 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.96 | 
-| 845 | [The First Tree](games/t/the_first_tree.md) | 3.96 | 
-| 847 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 848 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.94 | 
-| 848 | [Conarium](games/c/conarium.md) | 3.94 | 
-| 848 | [Patron](games/p/patron.md) | 3.94 | 
-| 848 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
-| 852 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
-| 853 | [Warface](games/w/warface.md) | 3.92 | 
-| 853 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.92 | 
-| 855 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 855 | [Ironcast](games/i/ironcast.md) | 3.91 | 
-| 855 | [Blood of Steel](games/b/blood_of_steel.md) | 3.91 | 
-| 858 | [Banished](games/b/banished.md) | 3.90 | 
-| 859 | [Chimeraland](games/c/chimeraland.md) | 3.86 | 
-| 859 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 859 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.86 | 
-| 862 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 862 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
-| 864 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
-| 865 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
-| 866 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
-| 867 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
+| 794 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 4.17 | 
+| 798 | [Family Man](games/f/family_man.md) | 4.16 | 
+| 798 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 798 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
+| 798 | [Flatout](games/f/flatout.md) | 4.16 | 
+| 798 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
+| 803 | [Pine](games/p/pine.md) | 4.15 | 
+| 803 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
+| 803 | [Relicta](games/r/relicta.md) | 4.15 | 
+| 803 | [Gone Home](games/g/gone_home.md) | 4.15 | 
+| 803 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
+| 808 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
+| 808 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.14 | 
+| 810 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
+| 811 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
+| 811 | [Train Valley 2](games/t/train_valley_2.md) | 4.12 | 
+| 811 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.12 | 
+| 814 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
+| 814 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
+| 816 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
+| 816 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 816 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
+| 816 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
+| 816 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 816 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
+| 816 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
+| 823 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 823 | [Submerged](games/s/submerged.md) | 4.09 | 
+| 823 | [Fangs](games/f/fangs.md) | 4.09 | 
+| 826 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 826 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
+| 826 | [Forspoken](games/f/forspoken.md) | 4.08 | 
+| 826 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
+| 830 | [Lake](games/l/lake.md) | 4.07 | 
+| 830 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
+| 832 | [Godfall](games/g/godfall.md) | 4.06 | 
+| 832 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.06 | 
+| 834 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 834 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
+| 836 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
+| 836 | [Tharsis](games/t/tharsis.md) | 4.04 | 
+| 838 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 
+| 839 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
+| 840 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
+| 841 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
+| 841 | [Port Royale 4](games/p/port_royale_4.md) | 3.99 | 
+| 841 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.99 | 
+| 844 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
+| 844 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
+| 846 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.96 | 
+| 846 | [The First Tree](games/t/the_first_tree.md) | 3.96 | 
+| 848 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
+| 849 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.94 | 
+| 849 | [Conarium](games/c/conarium.md) | 3.94 | 
+| 849 | [Patron](games/p/patron.md) | 3.94 | 
+| 849 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
+| 853 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
+| 854 | [Warface](games/w/warface.md) | 3.92 | 
+| 854 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.92 | 
+| 856 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 856 | [Ironcast](games/i/ironcast.md) | 3.91 | 
+| 856 | [Blood of Steel](games/b/blood_of_steel.md) | 3.91 | 
+| 859 | [Banished](games/b/banished.md) | 3.90 | 
+| 860 | [Chimeraland](games/c/chimeraland.md) | 3.86 | 
+| 860 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
+| 860 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.86 | 
+| 863 | [Saints Row](games/s/saints_row.md) | 3.78 | 
+| 863 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
+| 865 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
+| 866 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
+| 867 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
+| 868 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
