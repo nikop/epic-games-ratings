@@ -120,7 +120,7 @@
 | 118 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
 | 119 | [Chimeraland](games/c/chimeraland.md) | 3.86 | 
 | 120 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
-| 121 | [Chorus](games/c/chorus.md) | 4.47 | 
+| 121 | [Chorus](games/c/chorus.md) | 4.48 | 
 | 122 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
 | 123 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
 | 124 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
@@ -338,7 +338,7 @@
 | 336 | [Horace](games/h/horace.md) | 4.51 | 
 | 337 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
 | 338 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 339 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 
+| 339 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 340 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 341 | [House Party](games/h/house_party.md) | 4.30 | 
 | 342 | [Hue](games/h/hue.md) | 4.56 | 
