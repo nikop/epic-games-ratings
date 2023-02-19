@@ -826,10 +826,10 @@
 | 822 | [Fangs](games/f/fangs.md) | 4.09 | 
 | 825 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 825 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
+| 825 | [Forspoken](games/f/forspoken.md) | 4.08 | 
 | 825 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
-| 828 | [Lake](games/l/lake.md) | 4.07 | 
-| 828 | [Forspoken](games/f/forspoken.md) | 4.07 | 
-| 828 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
+| 829 | [Lake](games/l/lake.md) | 4.07 | 
+| 829 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
 | 831 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 831 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.06 | 
 | 833 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
