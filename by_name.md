@@ -97,7 +97,7 @@
 | 95 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 96 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 97 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 98 | [Brawlhalla](games/b/brawlhalla.md) | 4.54 | 
+| 98 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 
 | 99 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 100 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 101 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -566,7 +566,7 @@
 | 564 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 565 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
 | 566 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 567 | [Road 96](games/r/road_96.md) | 4.60 | 
+| 567 | [Road 96](games/r/road_96.md) | 4.61 | 
 | 568 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
 | 569 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
 | 570 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
@@ -734,7 +734,7 @@
 | 732 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 733 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 734 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 735 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.55 | 
+| 735 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.54 | 
 | 736 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 737 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 738 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
