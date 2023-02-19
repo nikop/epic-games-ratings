@@ -320,7 +320,7 @@
 | 318 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 319 | [Hell is Others](games/h/hell_is_others.md) | 4.29 | 
 | 320 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 321 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.40 | 
+| 321 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.41 | 
 | 322 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
 | 323 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 324 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
@@ -832,7 +832,7 @@
 | 830 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
 | 831 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 832 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 833 | [Warpips](games/w/warpips.md) | 4.38 | 
+| 833 | [Warpips](games/w/warpips.md) | 4.35 | 
 | 834 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 835 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 836 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
