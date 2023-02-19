@@ -333,7 +333,7 @@
 | 331 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 332 | [Hob](games/h/hob.md) | 4.57 | 
 | 333 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
-| 334 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
+| 334 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 335 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 336 | [Horace](games/h/horace.md) | 4.51 | 
 | 337 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
@@ -439,7 +439,7 @@
 | 437 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
 | 438 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
 | 439 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 440 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.47 | 
+| 440 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
 | 441 | [Minit](games/m/minit.md) | 4.55 | 
 | 442 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.94 | 
 | 443 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
@@ -579,7 +579,7 @@
 | 577 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 578 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 579 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 580 | [Sable](games/s/sable.md) | 4.50 | 
+| 580 | [Sable](games/s/sable.md) | 4.51 | 
 | 581 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
 | 582 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 583 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
@@ -779,7 +779,7 @@
 | 777 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 778 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.82 | 
 | 779 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 780 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
+| 780 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 781 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
 | 782 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 783 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 

@@ -1,5 +1,5 @@
 # Might and Magic: Heroes VII - Ultimate Edition
-Rating: 4.47 (96)  (as of 23.09.2022)  
+Rating: 4.46 (96)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -64,3 +64,4 @@ Rating: 4.47 (96)  (as of 23.09.2022)
 | 2023-01-21 | 4.47 | - |
 | 2023-01-31 | 4.46 | - |
 | 2023-02-16 | 4.47 | - |
+| 2023-02-19 | 4.46 | - |
