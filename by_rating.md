@@ -763,15 +763,15 @@
 | 760 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
 | 760 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
 | 760 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 764 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 764 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
 | 764 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
 | 764 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 764 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
-| 769 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
-| 769 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
-| 769 | [Starsand](games/s/starsand.md) | 4.21 | 
-| 769 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
+| 768 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
+| 768 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
+| 768 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
+| 768 | [Starsand](games/s/starsand.md) | 4.21 | 
+| 768 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
 | 773 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
 | 773 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 773 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
