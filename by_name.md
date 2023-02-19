@@ -172,7 +172,7 @@
 | 170 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 171 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 172 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
-| 173 | [Dead Space](games/d/dead_space.md) | 4.70 | 
+| 173 | [Dead Space](games/d/dead_space.md) | 4.72 | 
 | 174 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 175 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 176 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
@@ -200,7 +200,7 @@
 | 198 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 199 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
 | 200 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
-| 201 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
+| 201 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
 | 202 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
 | 203 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 204 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
@@ -211,7 +211,7 @@
 | 209 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 210 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 211 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 212 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
+| 212 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 213 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 214 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 215 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -548,7 +548,7 @@
 | 546 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 547 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 548 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
-| 549 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.14 | 
+| 549 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.15 | 
 | 550 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 551 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 552 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
@@ -645,7 +645,7 @@
 | 643 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
 | 644 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 645 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 
-| 646 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.60 | 
+| 646 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.61 | 
 | 647 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 648 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 649 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
