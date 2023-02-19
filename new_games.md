@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 4.10 | 
+| 1 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 4.17 | 
 | 2 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
 | 3 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.54 | 
 | 4 | [Dead Space](games/d/dead_space.md) | 4.70 | 

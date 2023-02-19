@@ -211,7 +211,7 @@
 | 209 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 210 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 211 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 212 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
+| 212 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 213 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 214 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 215 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -496,7 +496,7 @@
 | 494 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 495 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 496 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 497 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
+| 497 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 498 | [Outward](games/o/outward.md) | 4.55 | 
 | 499 | [Overcooked](games/o/overcooked.md) | 4.67 | 
 | 500 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
@@ -504,7 +504,7 @@
 | 502 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
 | 503 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 504 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 505 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.57 | 
+| 505 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
 | 506 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 507 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
 | 508 | [Parkitect](games/p/parkitect.md) | 4.30 | 
@@ -633,7 +633,7 @@
 | 631 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
 | 632 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 633 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.81 | 
-| 634 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
+| 634 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 635 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 636 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
 | 637 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
@@ -733,7 +733,7 @@
 | 731 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 732 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 733 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 734 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 4.10 | 
+| 734 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 4.17 | 
 | 735 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
 | 736 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.54 | 
 | 737 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
