@@ -76,23 +76,23 @@
 | 68 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
 | 68 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 68 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
-| 68 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 68 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
 | 68 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
-| 80 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 80 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 80 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 80 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
-| 80 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
-| 80 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
-| 80 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
-| 80 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
-| 80 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 
-| 80 | [Journey](games/j/journey.md) | 4.80 | 
-| 80 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
-| 80 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 80 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
-| 80 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
+| 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 79 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 79 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
+| 79 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
+| 79 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
+| 79 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
+| 79 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
+| 79 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 
+| 79 | [Journey](games/j/journey.md) | 4.80 | 
+| 79 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
+| 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 79 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
+| 79 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
+| 79 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
 | 94 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 94 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 94 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
@@ -324,7 +324,6 @@
 | 321 | [Prey](games/p/prey.md) | 4.62 | 
 | 321 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 321 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 321 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 
 | 321 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
 | 321 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 321 | [Limbo](games/l/limbo.md) | 4.62 | 
@@ -338,28 +337,29 @@
 | 321 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 321 | [NORCO](games/n/norco.md) | 4.62 | 
 | 321 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 339 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
-| 339 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 339 | [Warframe](games/w/warframe.md) | 4.61 | 
-| 339 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
-| 339 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
-| 339 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
-| 339 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 339 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 339 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 339 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 339 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 339 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 339 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 
-| 339 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 339 | [20XX](games/2/20xx.md) | 4.61 | 
-| 339 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
-| 339 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
-| 339 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
-| 339 | [Road 96](games/r/road_96.md) | 4.61 | 
-| 339 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
-| 339 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
-| 339 | [Darkwood](games/d/darkwood.md) | 4.61 | 
+| 338 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
+| 338 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 338 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 338 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
+| 338 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
+| 338 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
+| 338 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 338 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 338 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 338 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 338 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 338 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 338 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 338 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 
+| 338 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 338 | [20XX](games/2/20xx.md) | 4.61 | 
+| 338 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
+| 338 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.61 | 
+| 338 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
+| 338 | [Road 96](games/r/road_96.md) | 4.61 | 
+| 338 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
+| 338 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
+| 338 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 361 | [Control](games/c/control.md) | 4.60 | 
 | 361 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 361 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 

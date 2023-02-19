@@ -198,7 +198,7 @@
 | 196 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 197 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 198 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 199 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
+| 199 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
 | 200 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
 | 201 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
 | 202 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
@@ -356,7 +356,7 @@
 | 354 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
 | 355 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 356 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 357 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 
+| 357 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
 | 358 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 359 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 360 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
