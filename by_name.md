@@ -350,7 +350,7 @@
 | 348 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
 | 349 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.76 | 
 | 350 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 351 | [Imagine Earth](games/i/imagine_earth.md) | 4.34 | 
+| 351 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
 | 352 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
 | 353 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
 | 354 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
