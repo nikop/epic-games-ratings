@@ -398,7 +398,6 @@
 | 394 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 394 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 394 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 394 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 
 | 394 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 394 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 394 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 
@@ -411,25 +410,26 @@
 | 394 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
 | 394 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 394 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
-| 412 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 412 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 412 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 412 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
-| 412 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
-| 412 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
-| 412 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 412 | [Hob](games/h/hob.md) | 4.57 | 
-| 412 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
-| 412 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
-| 412 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
-| 412 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
-| 412 | [Isonzo](games/i/isonzo.md) | 4.57 | 
-| 412 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
-| 412 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
-| 412 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 
-| 412 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
-| 412 | [Everything](games/e/everything.md) | 4.57 | 
-| 412 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
+| 411 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 411 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 411 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 411 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
+| 411 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 411 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 411 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
+| 411 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 411 | [Hob](games/h/hob.md) | 4.57 | 
+| 411 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
+| 411 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 411 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
+| 411 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
+| 411 | [Isonzo](games/i/isonzo.md) | 4.57 | 
+| 411 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 411 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
+| 411 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 
+| 411 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
+| 411 | [Everything](games/e/everything.md) | 4.57 | 
+| 411 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
 | 431 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 431 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
 | 431 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
@@ -861,7 +861,7 @@
 | 859 | [Banished](games/b/banished.md) | 3.90 | 
 | 860 | [Chimeraland](games/c/chimeraland.md) | 3.86 | 
 | 860 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 860 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.86 | 
+| 862 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.82 | 
 | 863 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 863 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 865 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
