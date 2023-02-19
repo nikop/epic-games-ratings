@@ -1,10 +1,10 @@
 {
   "ID": "615a4dc5c85c4c28a390dda4298acd80",
   "Name": "Recipe for Disaster",
-  "Rating": 4.13,
+  "Rating": 4.14,
   "FirstSeen": "2022-08-15T21:31:09.5308139+00:00",
   "FirstSeenRating": "2023-02-11T02:06:38.6725347+00:00",
-  "LastChanged": "2023-02-18T14:57:32.6988314+00:00",
+  "LastChanged": "2023-02-19T04:57:36.5730999+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-11T02:06:38.672535+00:00",
@@ -69,6 +69,11 @@
     {
       "Time": "2023-02-18T14:57:32.6988317+00:00",
       "Rating": 4.13,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-19T04:57:36.5731001+00:00",
+      "Rating": 4.14,
       "NumberOfRatings": null
     }
   ],

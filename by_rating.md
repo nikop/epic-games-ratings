@@ -807,8 +807,8 @@
 | 802 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 802 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 807 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
-| 808 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
-| 808 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.13 | 
+| 807 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.14 | 
+| 809 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 810 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 810 | [Train Valley 2](games/t/train_valley_2.md) | 4.12 | 
 | 810 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.12 | 
@@ -858,9 +858,9 @@
 | 855 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 855 | [Blood of Steel](games/b/blood_of_steel.md) | 3.91 | 
 | 858 | [Banished](games/b/banished.md) | 3.90 | 
+| 859 | [Chimeraland](games/c/chimeraland.md) | 3.86 | 
 | 859 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 859 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.86 | 
-| 861 | [Chimeraland](games/c/chimeraland.md) | 3.85 | 
 | 862 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 862 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 864 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
