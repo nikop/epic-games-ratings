@@ -126,7 +126,7 @@
 | 124 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 125 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
 | 126 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.20 | 
+| 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.19 | 
 | 128 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 129 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 130 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -795,12 +795,12 @@
 | 793 | [Train Valley 2](games/t/train_valley_2.md) | 4.12 | 
 | 794 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 795 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 796 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 796 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 797 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
 | 798 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
 | 799 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 800 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 801 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
+| 801 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
 | 802 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
 | 803 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 804 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
