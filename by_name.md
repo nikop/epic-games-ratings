@@ -66,7 +66,7 @@
 | 64 | [Backbone](games/b/backbone.md) | 4.33 | 
 | 65 | [Bad North](games/b/bad_north.md) | 4.69 | 
 | 66 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 67 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.90 | 
+| 67 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 
 | 68 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
 | 69 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 70 | [Banished](games/b/banished.md) | 3.90 | 
@@ -126,7 +126,7 @@
 | 124 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 125 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
 | 126 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.19 | 
+| 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.20 | 
 | 128 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 129 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 130 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -255,7 +255,7 @@
 | 253 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 254 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
 | 255 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 256 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 
+| 256 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
 | 257 | [Fez](games/f/fez.md) | 4.70 | 
 | 258 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
 | 259 | [Figment](games/f/figment.md) | 4.45 | 
