@@ -733,7 +733,7 @@
 | 731 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 732 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 733 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 734 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 4.17 | 
+| 734 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 4.00 | 
 | 735 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
 | 736 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.54 | 
 | 737 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
@@ -763,7 +763,7 @@
 | 761 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 762 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 763 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
-| 764 | [Timberborn](games/t/timberborn.md) | 4.71 | 
+| 764 | [Timberborn](games/t/timberborn.md) | 4.72 | 
 | 765 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
 | 766 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 767 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
