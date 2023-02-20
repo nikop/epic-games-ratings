@@ -394,7 +394,7 @@
 | 392 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 393 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 
 | 394 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 395 | [Knockout City™](games/k/knockout_city™.md) | 4.38 | 
+| 395 | [Knockout City™](games/k/knockout_city™.md) | 4.39 | 
 | 396 | [Lake](games/l/lake.md) | 4.07 | 
 | 397 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 398 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
@@ -548,7 +548,7 @@
 | 546 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 547 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 548 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
-| 549 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.16 | 
+| 549 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.17 | 
 | 550 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 551 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 552 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
@@ -672,13 +672,13 @@
 | 670 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
 | 671 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
 | 672 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 673 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 
+| 673 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
 | 674 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
 | 675 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
 | 676 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 
 | 677 | [Superliminal](games/s/superliminal.md) | 4.81 | 
 | 678 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 679 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 
+| 679 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
 | 680 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
 | 681 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 682 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
@@ -733,7 +733,7 @@
 | 731 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 732 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 733 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 734 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 
+| 734 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.82 | 
 | 735 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
 | 736 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.55 | 
 | 737 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
