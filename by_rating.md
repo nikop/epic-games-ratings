@@ -561,20 +561,20 @@
 | 553 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.47 | 
 | 553 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
 | 553 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
-| 553 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 553 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 564 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 564 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 564 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 564 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 564 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
-| 564 | [Weird West](games/w/weird_west.md) | 4.46 | 
-| 564 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
-| 564 | [The Surge](games/t/the_surge.md) | 4.46 | 
-| 564 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
-| 564 | [Train Valley](games/t/train_valley.md) | 4.46 | 
-| 564 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 564 | [STG Football](games/s/stg_football.md) | 4.46 | 
+| 563 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 563 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 563 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
+| 563 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 563 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
+| 563 | [Weird West](games/w/weird_west.md) | 4.46 | 
+| 563 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
+| 563 | [The Surge](games/t/the_surge.md) | 4.46 | 
+| 563 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
+| 563 | [Train Valley](games/t/train_valley.md) | 4.46 | 
+| 563 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
+| 563 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 563 | [STG Football](games/s/stg_football.md) | 4.46 | 
 | 576 | [SMITE](games/s/smite.md) | 4.45 | 
 | 576 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 576 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
