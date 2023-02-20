@@ -721,7 +721,7 @@
 | 719 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
 | 720 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 
 | 721 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 
-| 722 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
+| 722 | [The Last Campfire](games/t/the_last_campfire.md) | 4.82 | 
 | 723 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 
 | 724 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
 | 725 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
@@ -735,7 +735,7 @@
 | 733 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 734 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 4.00 | 
 | 735 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 736 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.54 | 
+| 736 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.55 | 
 | 737 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 738 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 739 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 

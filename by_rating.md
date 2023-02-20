@@ -55,18 +55,18 @@
 | 49 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 49 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 49 | [Grindstone](games/g/grindstone.md) | 4.84 | 
-| 49 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 
-| 57 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 57 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 57 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
-| 57 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
-| 61 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 61 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 61 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 61 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
-| 61 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 61 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
-| 61 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.82 | 
+| 56 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
+| 56 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
+| 56 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
+| 56 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
+| 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 60 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 60 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 60 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
+| 60 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 60 | [The Last Campfire](games/t/the_last_campfire.md) | 4.82 | 
+| 60 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
+| 60 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.82 | 
 | 68 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 68 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 68 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.81 | 
@@ -457,17 +457,17 @@
 | 446 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
 | 446 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 
 | 446 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.55 | 
-| 458 | [VALORANT](games/v/valorant.md) | 4.54 | 
-| 458 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 458 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
-| 458 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
-| 458 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
-| 458 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
-| 458 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 458 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 458 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
-| 458 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 458 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.54 | 
+| 446 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.55 | 
+| 459 | [VALORANT](games/v/valorant.md) | 4.54 | 
+| 459 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 459 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
+| 459 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
+| 459 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
+| 459 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
+| 459 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 459 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 459 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
+| 459 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 469 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 469 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 469 | [Dauntless](games/d/dauntless.md) | 4.53 | 
