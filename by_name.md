@@ -314,11 +314,11 @@
 | 312 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 313 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 314 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
-| 315 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
+| 315 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
 | 316 | [Haven](games/h/haven.md) | 4.75 | 
 | 317 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 318 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 319 | [Hell is Others](games/h/hell_is_others.md) | 4.29 | 
+| 319 | [Hell is Others](games/h/hell_is_others.md) | 4.37 | 
 | 320 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 321 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.41 | 
 | 322 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
