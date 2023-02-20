@@ -475,7 +475,6 @@
 | 469 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 469 | [Verdun](games/v/verdun.md) | 4.53 | 
 | 469 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 469 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
 | 469 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 469 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
 | 469 | [RUINER](games/r/ruiner.md) | 4.53 | 
@@ -487,17 +486,18 @@
 | 469 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
 | 469 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 469 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
-| 488 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
-| 488 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 488 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 488 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
-| 488 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 488 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
-| 488 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 488 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 488 | [IXION](games/i/ixion.md) | 4.52 | 
-| 488 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 488 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 487 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
+| 487 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 487 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 487 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
+| 487 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 487 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 487 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 487 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 487 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 487 | [IXION](games/i/ixion.md) | 4.52 | 
+| 487 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 487 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 499 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 499 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 499 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
@@ -622,25 +622,25 @@
 | 613 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
 | 613 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
 | 613 | [Far Cry](games/f/far_cry.md) | 4.42 | 
+| 613 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.42 | 
 | 613 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
-| 624 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
-| 624 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 624 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 624 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 624 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
-| 624 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
-| 624 | [Good Company](games/g/good_company.md) | 4.41 | 
-| 624 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
-| 624 | [Tacoma](games/t/tacoma.md) | 4.41 | 
-| 624 | [ELEX](games/e/elex.md) | 4.41 | 
-| 624 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 
-| 624 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
-| 624 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 624 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 624 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 
-| 624 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 624 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.41 | 
-| 624 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 625 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
+| 625 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 625 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
+| 625 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
+| 625 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
+| 625 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
+| 625 | [Good Company](games/g/good_company.md) | 4.41 | 
+| 625 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
+| 625 | [Tacoma](games/t/tacoma.md) | 4.41 | 
+| 625 | [ELEX](games/e/elex.md) | 4.41 | 
+| 625 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 
+| 625 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
+| 625 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 625 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
+| 625 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 
+| 625 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 625 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 642 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 642 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 642 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
@@ -734,13 +734,13 @@
 | 728 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
 | 728 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 728 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
+| 728 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
 | 728 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 728 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 737 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 737 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
-| 737 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 737 | [Dark Light](games/d/dark_light.md) | 4.28 | 
-| 737 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
+| 738 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 738 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 738 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 738 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 742 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 742 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
 | 744 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 

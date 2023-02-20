@@ -320,7 +320,7 @@
 | 318 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 319 | [Hell is Others](games/h/hell_is_others.md) | 4.37 | 
 | 320 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 321 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.41 | 
+| 321 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.42 | 
 | 322 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
 | 323 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 324 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
@@ -406,7 +406,7 @@
 | 404 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 405 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
 | 406 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 
-| 407 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 
+| 407 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 408 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
 | 409 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 410 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
@@ -416,7 +416,7 @@
 | 414 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
 | 415 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 416 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 417 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.28 | 
+| 417 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
 | 418 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.06 | 
 | 419 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.55 | 
 | 420 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
