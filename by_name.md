@@ -537,7 +537,7 @@
 | 535 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 536 | [Quake](games/q/quake.md) | 4.77 | 
 | 537 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 538 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 538 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 
 | 539 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 540 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
 | 541 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
