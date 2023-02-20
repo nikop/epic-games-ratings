@@ -529,7 +529,7 @@
 | 527 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
 | 528 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 529 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 530 | [Predecessor](games/p/predecessor.md) | 4.43 | 
+| 530 | [Predecessor](games/p/predecessor.md) | 4.44 | 
 | 531 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 532 | [Prey](games/p/prey.md) | 4.62 | 
 | 533 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
@@ -775,7 +775,7 @@
 | 773 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
 | 774 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 775 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 776 | [Torchlight](games/t/torchlight.md) | 4.35 | 
+| 776 | [Torchlight](games/t/torchlight.md) | 4.36 | 
 | 777 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 778 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.82 | 
 | 779 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
@@ -810,7 +810,7 @@
 | 808 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 809 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 
 | 810 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 811 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 
+| 811 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.62 | 
 | 812 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 813 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.47 | 
 | 814 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
