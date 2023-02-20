@@ -248,7 +248,6 @@
 | 246 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 246 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 246 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 246 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
 | 246 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 246 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 246 | [Overcooked](games/o/overcooked.md) | 4.67 | 
@@ -264,25 +263,26 @@
 | 246 | [Card Shark](games/c/card_shark.md) | 4.67 | 
 | 246 | [GNOG](games/g/gnog.md) | 4.67 | 
 | 246 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
-| 265 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 265 | [Trackmania](games/t/trackmania.md) | 4.66 | 
-| 265 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 265 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 265 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
-| 265 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
-| 265 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
-| 265 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 265 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
-| 265 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
-| 265 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 
-| 265 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 265 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
-| 265 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 265 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
-| 265 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
-| 265 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 265 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 265 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
+| 264 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 264 | [Trackmania](games/t/trackmania.md) | 4.66 | 
+| 264 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 264 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 264 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 264 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
+| 264 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
+| 264 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 264 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 264 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
+| 264 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
+| 264 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 
+| 264 | [Death's Door](games/d/death's_door.md) | 4.66 | 
+| 264 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
+| 264 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 264 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
+| 264 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
+| 264 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 264 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 264 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
 | 284 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 284 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 284 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
@@ -826,10 +826,10 @@
 | 822 | [Fangs](games/f/fangs.md) | 4.09 | 
 | 825 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 825 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
-| 825 | [Forspoken](games/f/forspoken.md) | 4.08 | 
 | 825 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
-| 829 | [Lake](games/l/lake.md) | 4.07 | 
-| 829 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
+| 828 | [Lake](games/l/lake.md) | 4.07 | 
+| 828 | [Forspoken](games/f/forspoken.md) | 4.07 | 
+| 828 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
 | 831 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 831 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.06 | 
 | 833 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 

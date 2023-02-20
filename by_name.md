@@ -271,7 +271,7 @@
 | 269 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 270 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 271 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 272 | [Forspoken](games/f/forspoken.md) | 4.08 | 
+| 272 | [Forspoken](games/f/forspoken.md) | 4.07 | 
 | 273 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 274 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 275 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
@@ -701,7 +701,7 @@
 | 699 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
 | 700 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 701 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
-| 702 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
+| 702 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 703 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.88 | 
 | 704 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
 | 705 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
