@@ -231,7 +231,7 @@
 | 229 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 
 | 230 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 231 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
-| 232 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
+| 232 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 233 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 234 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 235 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
@@ -333,7 +333,7 @@
 | 331 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 332 | [Hob](games/h/hob.md) | 4.57 | 
 | 333 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
-| 334 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
+| 334 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 335 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 336 | [Horace](games/h/horace.md) | 4.51 | 
 | 337 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
@@ -646,7 +646,7 @@
 | 644 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 645 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 
 | 646 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.61 | 
-| 647 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
+| 647 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
 | 648 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 649 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
 | 650 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
