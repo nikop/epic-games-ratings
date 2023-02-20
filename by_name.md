@@ -574,7 +574,7 @@
 | 572 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
 | 573 | [Roguebook](games/r/roguebook.md) | 4.59 | 
 | 574 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 575 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
+| 575 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 
 | 576 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
 | 577 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 578 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
@@ -701,7 +701,7 @@
 | 699 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
 | 700 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 701 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
-| 702 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 702 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
 | 703 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.88 | 
 | 704 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
 | 705 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
