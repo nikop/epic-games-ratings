@@ -249,7 +249,6 @@
 | 247 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 247 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 247 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 247 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
 | 247 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 247 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 247 | [Overcooked](games/o/overcooked.md) | 4.67 | 
@@ -264,23 +263,24 @@
 | 247 | [Card Shark](games/c/card_shark.md) | 4.67 | 
 | 247 | [GNOG](games/g/gnog.md) | 4.67 | 
 | 247 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
-| 265 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 265 | [Trackmania](games/t/trackmania.md) | 4.66 | 
-| 265 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 265 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 265 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
-| 265 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
-| 265 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 265 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
-| 265 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
-| 265 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 265 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
-| 265 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 265 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
-| 265 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
-| 265 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 265 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 265 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
+| 264 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 264 | [Trackmania](games/t/trackmania.md) | 4.66 | 
+| 264 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 264 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 264 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 264 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
+| 264 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 264 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 264 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
+| 264 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
+| 264 | [Death's Door](games/d/death's_door.md) | 4.66 | 
+| 264 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
+| 264 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 264 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
+| 264 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
+| 264 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 264 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 264 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
 | 282 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 282 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 282 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
@@ -537,21 +537,21 @@
 | 529 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 529 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 529 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 529 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
 | 529 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
 | 529 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 529 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 529 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 529 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 529 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
 | 544 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 544 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 544 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
 | 544 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
 | 544 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
+| 544 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 
 | 544 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 544 | [Chorus](games/c/chorus.md) | 4.48 | 
 | 544 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
-| 544 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
 | 553 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 553 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 553 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
@@ -561,20 +561,20 @@
 | 553 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.47 | 
 | 553 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
 | 553 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
-| 553 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 553 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 564 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 564 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 564 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 564 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 564 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
-| 564 | [Weird West](games/w/weird_west.md) | 4.46 | 
-| 564 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
-| 564 | [The Surge](games/t/the_surge.md) | 4.46 | 
-| 564 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
-| 564 | [Train Valley](games/t/train_valley.md) | 4.46 | 
-| 564 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 564 | [STG Football](games/s/stg_football.md) | 4.46 | 
+| 563 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 563 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 563 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
+| 563 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 563 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
+| 563 | [Weird West](games/w/weird_west.md) | 4.46 | 
+| 563 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
+| 563 | [The Surge](games/t/the_surge.md) | 4.46 | 
+| 563 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
+| 563 | [Train Valley](games/t/train_valley.md) | 4.46 | 
+| 563 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
+| 563 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 563 | [STG Football](games/s/stg_football.md) | 4.46 | 
 | 576 | [SMITE](games/s/smite.md) | 4.45 | 
 | 576 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 576 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 

@@ -333,7 +333,7 @@
 | 331 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 332 | [Hob](games/h/hob.md) | 4.57 | 
 | 333 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
-| 334 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
+| 334 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
 | 335 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 336 | [Horace](games/h/horace.md) | 4.51 | 
 | 337 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
@@ -588,7 +588,7 @@
 | 586 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 587 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 588 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
-| 589 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.49 | 
+| 589 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 
 | 590 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 591 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 592 | [Scavengers](games/s/scavengers.md) | 4.18 | 
@@ -614,7 +614,7 @@
 | 612 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 613 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 614 | [Sifu](games/s/sifu.md) | 4.81 | 
-| 615 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.48 | 
+| 615 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
 | 616 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
 | 617 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 618 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
@@ -701,7 +701,7 @@
 | 699 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
 | 700 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 701 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
-| 702 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
+| 702 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 703 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.88 | 
 | 704 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
 | 705 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
