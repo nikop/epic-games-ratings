@@ -832,7 +832,7 @@
 | 830 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
 | 831 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 832 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 833 | [Warpips](games/w/warpips.md) | 4.35 | 
+| 833 | [Warpips](games/w/warpips.md) | 4.34 | 
 | 834 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 835 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 836 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
@@ -845,7 +845,7 @@
 | 843 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 844 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 845 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 846 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.92 | 
+| 846 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
 | 847 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 848 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
 | 849 | [Windbound](games/w/windbound.md) | 4.18 | 

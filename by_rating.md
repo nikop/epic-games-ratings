@@ -696,13 +696,13 @@
 | 691 | [Ashen](games/a/ashen.md) | 4.35 | 
 | 691 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
 | 691 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 691 | [Warpips](games/w/warpips.md) | 4.35 | 
 | 691 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
 | 691 | [ZOMBI](games/z/zombi.md) | 4.35 | 
-| 700 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 700 | [Automachef](games/a/automachef.md) | 4.34 | 
-| 700 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
-| 700 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
+| 699 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 699 | [Automachef](games/a/automachef.md) | 4.34 | 
+| 699 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
+| 699 | [Warpips](games/w/warpips.md) | 4.34 | 
+| 699 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 704 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.33 | 
 | 704 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 704 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.33 | 
@@ -854,10 +854,10 @@
 | 849 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
 | 853 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 854 | [Warface](games/w/warface.md) | 3.92 | 
-| 854 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.92 | 
-| 856 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 856 | [Ironcast](games/i/ironcast.md) | 3.91 | 
-| 856 | [Blood of Steel](games/b/blood_of_steel.md) | 3.91 | 
+| 855 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 855 | [Ironcast](games/i/ironcast.md) | 3.91 | 
+| 855 | [Blood of Steel](games/b/blood_of_steel.md) | 3.91 | 
+| 855 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
 | 859 | [Banished](games/b/banished.md) | 3.90 | 
 | 860 | [Chimeraland](games/c/chimeraland.md) | 3.86 | 
 | 860 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
