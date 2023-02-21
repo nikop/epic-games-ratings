@@ -774,7 +774,7 @@
 | 772 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 773 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
 | 774 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
-| 775 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
+| 775 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 776 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 777 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 778 | [Torchlight](games/t/torchlight.md) | 4.36 | 
@@ -814,7 +814,7 @@
 | 812 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 813 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.62 | 
 | 814 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 815 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.47 | 
+| 815 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.48 | 
 | 816 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 817 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 818 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
