@@ -322,7 +322,7 @@
 | 320 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 321 | [Hell is Others](games/h/hell_is_others.md) | 4.42 | 
 | 322 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 323 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.42 | 
+| 323 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 
 | 324 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
 | 325 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 326 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
@@ -709,7 +709,7 @@
 | 707 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 708 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 709 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
-| 710 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
+| 710 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 711 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 712 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 713 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
@@ -840,7 +840,7 @@
 | 838 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
 | 839 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.33 | 
 | 840 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 841 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 
+| 841 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
 | 842 | [Weird West](games/w/weird_west.md) | 4.46 | 
 | 843 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
 | 844 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
