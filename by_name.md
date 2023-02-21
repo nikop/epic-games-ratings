@@ -271,7 +271,7 @@
 | 269 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 270 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 271 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 272 | [Forspoken](games/f/forspoken.md) | 4.07 | 
+| 272 | [Forspoken](games/f/forspoken.md) | 4.06 | 
 | 273 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 274 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 275 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
@@ -824,7 +824,7 @@
 | 822 | [Verdun](games/v/verdun.md) | 4.53 | 
 | 823 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
 | 824 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
-| 825 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 
+| 825 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
 | 826 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
 | 827 | [Warface](games/w/warface.md) | 3.92 | 
 | 828 | [Warframe](games/w/warframe.md) | 4.61 | 
