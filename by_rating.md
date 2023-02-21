@@ -636,22 +636,22 @@
 | 626 | [Tacoma](games/t/tacoma.md) | 4.41 | 
 | 626 | [ELEX](games/e/elex.md) | 4.41 | 
 | 626 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 
-| 626 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 
 | 626 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 626 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 626 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 
 | 626 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 626 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 643 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 643 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 643 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 643 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 643 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 643 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 643 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
-| 643 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
-| 643 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
-| 643 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
+| 642 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 642 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 642 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 642 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 642 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 642 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 642 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
+| 642 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
+| 642 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
+| 642 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
+| 642 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 653 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 653 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 653 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
