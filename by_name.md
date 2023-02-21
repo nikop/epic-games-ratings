@@ -200,7 +200,7 @@
 | 198 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 199 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
 | 200 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
-| 201 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 
+| 201 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
 | 202 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
 | 203 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 204 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
@@ -418,7 +418,7 @@
 | 416 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 417 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
 | 418 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.06 | 
-| 419 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.55 | 
+| 419 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.56 | 
 | 420 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 421 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 422 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
