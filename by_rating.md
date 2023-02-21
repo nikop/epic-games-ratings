@@ -860,8 +860,8 @@
 | 858 | [Banished](games/b/banished.md) | 3.90 | 
 | 859 | [Chimeraland](games/c/chimeraland.md) | 3.86 | 
 | 859 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 861 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.82 | 
-| 861 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.82 | 
+| 861 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.85 | 
+| 862 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.82 | 
 | 863 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 863 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 865 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
