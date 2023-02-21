@@ -1,5 +1,5 @@
 # The Last Stand: Aftermath
-Rating: 4.41 (44)  (as of 23.09.2022)  
+Rating: 4.42 (44)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -43,3 +43,4 @@ Rating: 4.41 (44)  (as of 23.09.2022)
 | 2022-12-09 | 4.39 | - |
 | 2022-12-21 | 4.40 | - |
 | 2023-02-06 | 4.41 | - |
+| 2023-02-21 | 4.42 | - |

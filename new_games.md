@@ -5,6 +5,6 @@
 | 3 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
 | 4 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.54 | 
 | 5 | [Dead Space](games/d/dead_space.md) | 4.72 | 
-| 6 | [Hell is Others](games/h/hell_is_others.md) | 4.37 | 
+| 6 | [Hell is Others](games/h/hell_is_others.md) | 4.42 | 
 | 7 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.95 | 
 | 8 | [Forspoken](games/f/forspoken.md) | 4.06 | 

@@ -319,7 +319,7 @@
 | 317 | [Haven](games/h/haven.md) | 4.75 | 
 | 318 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 319 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 320 | [Hell is Others](games/h/hell_is_others.md) | 4.37 | 
+| 320 | [Hell is Others](games/h/hell_is_others.md) | 4.42 | 
 | 321 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 322 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.42 | 
 | 323 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
@@ -723,7 +723,7 @@
 | 721 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 
 | 722 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 
 | 723 | [The Last Campfire](games/t/the_last_campfire.md) | 4.82 | 
-| 724 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 
+| 724 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.42 | 
 | 725 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
 | 726 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
 | 727 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
@@ -806,7 +806,7 @@
 | 804 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 805 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 806 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 807 | [TUNIC](games/t/tunic.md) | 4.86 | 
+| 807 | [TUNIC](games/t/tunic.md) | 4.85 | 
 | 808 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 809 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 810 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 
