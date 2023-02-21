@@ -211,7 +211,7 @@
 | 209 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 210 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 211 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 212 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
+| 212 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 213 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 214 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
 | 215 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
@@ -305,7 +305,7 @@
 | 303 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
 | 304 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 305 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 306 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.45 | 
+| 306 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.48 | 
 | 307 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 308 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 309 | [GRIME](games/g/grime.md) | 4.62 | 
@@ -478,7 +478,7 @@
 | 476 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
 | 477 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 478 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 479 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.80 | 
+| 479 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
 | 480 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 481 | [Observation](games/o/observation.md) | 4.56 | 
 | 482 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
@@ -734,7 +734,7 @@
 | 732 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 733 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 734 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 735 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.85 | 
+| 735 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.87 | 
 | 736 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 737 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.54 | 
 | 738 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
