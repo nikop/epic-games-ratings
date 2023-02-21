@@ -2,13 +2,13 @@
 | --- | ---- | ------ | 
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 
-| 3 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.95 | 
-| 4 | [Hades](games/h/hades.md) | 4.92 | 
-| 4 | [Celeste](games/c/celeste.md) | 4.92 | 
-| 4 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.92 | 
-| 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
-| 7 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 
-| 7 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
+| 3 | [Hades](games/h/hades.md) | 4.92 | 
+| 3 | [Celeste](games/c/celeste.md) | 4.92 | 
+| 3 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.92 | 
+| 6 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
+| 6 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 
+| 6 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
+| 6 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.91 | 
 | 10 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 10 | [Mago](games/m/mago.md) | 4.90 | 
 | 10 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 
@@ -105,16 +105,16 @@
 | 94 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
 | 104 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 104 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
-| 106 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 106 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 106 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
-| 106 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 106 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 
-| 106 | [Quake](games/q/quake.md) | 4.77 | 
-| 106 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
-| 106 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
-| 106 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
-| 106 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
+| 104 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
+| 107 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 107 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 107 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
+| 107 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
+| 107 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 
+| 107 | [Quake](games/q/quake.md) | 4.77 | 
+| 107 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
+| 107 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
+| 107 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 116 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 116 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 116 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
@@ -370,28 +370,28 @@
 | 361 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 361 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 361 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
-| 361 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
 | 361 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
 | 361 | [DOOM 3](games/d/doom_3.md) | 4.60 | 
 | 361 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 361 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.60 | 
 | 361 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 377 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 377 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 377 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
-| 377 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 377 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 
-| 377 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
-| 377 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
-| 377 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
-| 377 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
-| 377 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
-| 377 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
-| 377 | [Roguebook](games/r/roguebook.md) | 4.59 | 
-| 377 | [Breathedge](games/b/breathedge.md) | 4.59 | 
-| 377 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
-| 377 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 
-| 377 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
+| 376 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 376 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 376 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
+| 376 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 376 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 
+| 376 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 376 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
+| 376 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
+| 376 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
+| 376 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
+| 376 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
+| 376 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
+| 376 | [Roguebook](games/r/roguebook.md) | 4.59 | 
+| 376 | [Breathedge](games/b/breathedge.md) | 4.59 | 
+| 376 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
+| 376 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 
+| 376 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 393 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
 | 393 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 393 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -855,11 +855,11 @@
 | 850 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
 | 854 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 855 | [Warface](games/w/warface.md) | 3.92 | 
-| 856 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 856 | [Ironcast](games/i/ironcast.md) | 3.91 | 
-| 856 | [Blood of Steel](games/b/blood_of_steel.md) | 3.91 | 
-| 856 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.91 | 
-| 856 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
+| 855 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.92 | 
+| 857 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 857 | [Ironcast](games/i/ironcast.md) | 3.91 | 
+| 857 | [Blood of Steel](games/b/blood_of_steel.md) | 3.91 | 
+| 857 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
 | 861 | [Banished](games/b/banished.md) | 3.90 | 
 | 862 | [Chimeraland](games/c/chimeraland.md) | 3.86 | 
 | 862 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 

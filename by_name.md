@@ -329,7 +329,7 @@
 | 327 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
 | 328 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 329 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 330 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.95 | 
+| 330 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.91 | 
 | 331 | [High On Life](games/h/high_on_life.md) | 4.69 | 
 | 332 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 333 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
@@ -582,7 +582,7 @@
 | 580 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 581 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 582 | [Sable](games/s/sable.md) | 4.51 | 
-| 583 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
+| 583 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
 | 584 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 585 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
 | 586 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
@@ -735,7 +735,7 @@
 | 733 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 734 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 735 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 736 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.91 | 
+| 736 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.92 | 
 | 737 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 738 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.54 | 
 | 739 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
@@ -858,7 +858,7 @@
 | 856 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 857 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 858 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
-| 859 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 
+| 859 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 860 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
 | 861 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 
 | 862 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
