@@ -231,7 +231,7 @@
 | 229 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 
 | 230 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 231 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
-| 232 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 232 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 233 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 234 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 235 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
@@ -703,7 +703,7 @@
 | 701 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
 | 702 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 703 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
-| 704 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 704 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
 | 705 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.80 | 
 | 706 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
 | 707 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
@@ -735,7 +735,7 @@
 | 733 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 734 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 735 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 736 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.88 | 
+| 736 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.91 | 
 | 737 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 738 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.54 | 
 | 739 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
@@ -759,7 +759,7 @@
 | 757 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 758 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 759 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 760 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.60 | 
+| 760 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.58 | 
 | 761 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
 | 762 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 763 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
