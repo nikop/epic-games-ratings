@@ -54,7 +54,7 @@
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
 | 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
-| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.44 | 
+| 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.45 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.34 | 
@@ -97,7 +97,7 @@
 | 95 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 96 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 97 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 98 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 
+| 98 | [Brawlhalla](games/b/brawlhalla.md) | 4.56 | 
 | 99 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 100 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
 | 101 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -548,7 +548,7 @@
 | 546 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 547 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 548 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
-| 549 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.17 | 
+| 549 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.16 | 
 | 550 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 551 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 552 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
@@ -790,7 +790,7 @@
 | 788 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
 | 789 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 
 | 790 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 791 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 791 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 792 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 793 | [Train Valley 2](games/t/train_valley_2.md) | 4.12 | 
 | 794 | [Transistor](games/t/transistor.md) | 4.62 | 

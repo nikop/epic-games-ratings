@@ -1,10 +1,10 @@
 {
   "ID": "15e6680a0c164ee189fcc3eb10398fd6",
   "Name": "Brawlhalla",
-  "Rating": 4.55,
+  "Rating": 4.56,
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-02-19T05:57:05.430419+00:00",
+  "LastChanged": "2023-02-21T02:13:54.0700272+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-21T06:57:02.0735411+00:00",
@@ -375,12 +375,17 @@
       "Time": "2023-02-19T05:57:05.4304192+00:00",
       "Rating": 4.55,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-21T02:13:54.0700274+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Competitive Players",
