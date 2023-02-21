@@ -10,9 +10,9 @@
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 10 | [ABZU](games/a/abzu.md) | 4.63 | 
-| 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.47 | 
+| 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
-| 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 13 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 

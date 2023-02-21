@@ -62,22 +62,22 @@
 | 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 60 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 60 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 60 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
 | 60 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
 | 60 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 60 | [The Last Campfire](games/t/the_last_campfire.md) | 4.82 | 
 | 60 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
 | 60 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.82 | 
-| 68 | [Sifu](games/s/sifu.md) | 4.81 | 
-| 68 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 68 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.81 | 
-| 68 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 68 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
-| 68 | [Superliminal](games/s/superliminal.md) | 4.81 | 
-| 68 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
-| 68 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
-| 68 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
-| 68 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
-| 68 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
+| 69 | [Sifu](games/s/sifu.md) | 4.81 | 
+| 69 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.81 | 
+| 69 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 69 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
+| 69 | [Superliminal](games/s/superliminal.md) | 4.81 | 
+| 69 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
+| 69 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
+| 69 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
+| 69 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
+| 69 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
 | 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 79 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
@@ -556,25 +556,25 @@
 | 553 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 553 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 553 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
-| 553 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.47 | 
 | 553 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
 | 553 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.47 | 
 | 553 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
 | 553 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
 | 553 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 563 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 563 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 563 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 563 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 563 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
-| 563 | [Weird West](games/w/weird_west.md) | 4.46 | 
-| 563 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
-| 563 | [The Surge](games/t/the_surge.md) | 4.46 | 
-| 563 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
-| 563 | [Train Valley](games/t/train_valley.md) | 4.46 | 
-| 563 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
-| 563 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 563 | [STG Football](games/s/stg_football.md) | 4.46 | 
+| 562 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 562 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 562 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
+| 562 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 562 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
+| 562 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
+| 562 | [Weird West](games/w/weird_west.md) | 4.46 | 
+| 562 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
+| 562 | [The Surge](games/t/the_surge.md) | 4.46 | 
+| 562 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
+| 562 | [Train Valley](games/t/train_valley.md) | 4.46 | 
+| 562 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
+| 562 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 562 | [STG Football](games/s/stg_football.md) | 4.46 | 
 | 576 | [SMITE](games/s/smite.md) | 4.45 | 
 | 576 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 576 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
