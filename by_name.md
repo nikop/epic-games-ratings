@@ -240,7 +240,7 @@
 | 238 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
 | 239 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 240 | [Fangs](games/f/fangs.md) | 4.09 | 
-| 241 | [Far Cry](games/f/far_cry.md) | 4.42 | 
+| 241 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 242 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
 | 243 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 244 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
@@ -703,7 +703,7 @@
 | 701 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 702 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 703 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 704 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.88 | 
+| 704 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.80 | 
 | 705 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
 | 706 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 707 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
