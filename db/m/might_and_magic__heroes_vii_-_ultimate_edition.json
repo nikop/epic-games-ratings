@@ -1,10 +1,10 @@
 {
   "ID": "55d082ca99b64bd9bdb25754eb56a135",
   "Name": "Might and Magic: Heroes VII - Ultimate Edition",
-  "Rating": 4.46,
+  "Rating": 4.47,
   "NumberOfRatings": 96,
   "FirstSeen": "2022-07-22T20:25:09.0043612+00:00",
-  "LastChanged": "2023-02-19T21:58:15.4769323+00:00",
+  "LastChanged": "2023-02-22T22:57:32.8068771+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:09.0043615+00:00",
@@ -334,6 +334,11 @@
     {
       "Time": "2023-02-19T21:58:15.4769325+00:00",
       "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-22T22:57:32.8068773+00:00",
+      "Rating": 4.47,
       "NumberOfRatings": null
     }
   ],

@@ -262,7 +262,7 @@
 | 260 | [Filament](games/f/filament.md) | 4.32 | 
 | 261 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 262 | [Firework](games/f/firework.md) | 4.89 | 
-| 263 | [First Class Trouble](games/f/first_class_trouble.md) | 4.53 | 
+| 263 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
 | 264 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 265 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
 | 266 | [Flatout](games/f/flatout.md) | 4.16 | 
@@ -441,7 +441,7 @@
 | 439 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
 | 440 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
 | 441 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 442 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 
+| 442 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.47 | 
 | 443 | [Minit](games/m/minit.md) | 4.55 | 
 | 444 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.94 | 
 | 445 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
