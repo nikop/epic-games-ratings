@@ -198,7 +198,7 @@
 | 196 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 197 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 198 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 199 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 
+| 199 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 200 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
 | 201 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
 | 202 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
@@ -320,7 +320,7 @@
 | 318 | [Haven](games/h/haven.md) | 4.75 | 
 | 319 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 320 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 321 | [Hell is Others](games/h/hell_is_others.md) | 4.42 | 
+| 321 | [Hell is Others](games/h/hell_is_others.md) | 4.41 | 
 | 322 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 323 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 
 | 324 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
@@ -737,7 +737,7 @@
 | 735 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 736 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.96 | 
 | 737 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 738 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.55 | 
+| 738 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 739 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 740 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 741 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
@@ -835,7 +835,7 @@
 | 833 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
 | 834 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 835 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 836 | [Warpips](games/w/warpips.md) | 4.33 | 
+| 836 | [Warpips](games/w/warpips.md) | 4.34 | 
 | 837 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 838 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 839 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
