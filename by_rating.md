@@ -249,7 +249,6 @@
 | 247 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 247 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 247 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 247 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
 | 247 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 247 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 247 | [Overcooked](games/o/overcooked.md) | 4.67 | 
@@ -263,24 +262,25 @@
 | 247 | [Card Shark](games/c/card_shark.md) | 4.67 | 
 | 247 | [GNOG](games/g/gnog.md) | 4.67 | 
 | 247 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
-| 264 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 264 | [Trackmania](games/t/trackmania.md) | 4.66 | 
-| 264 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 264 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 264 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
-| 264 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
-| 264 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 264 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
-| 264 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
-| 264 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 264 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
-| 264 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
-| 264 | [Coromon](games/c/coromon.md) | 4.66 | 
-| 264 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
-| 264 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
-| 264 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 264 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 264 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
+| 263 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 263 | [Trackmania](games/t/trackmania.md) | 4.66 | 
+| 263 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 263 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 263 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 263 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
+| 263 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 263 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 263 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
+| 263 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
+| 263 | [Death's Door](games/d/death's_door.md) | 4.66 | 
+| 263 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
+| 263 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
+| 263 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 263 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
+| 263 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
+| 263 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 263 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 263 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
 | 282 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 282 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 282 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
@@ -689,18 +689,18 @@
 | 685 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 685 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 685 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 685 | [Torchlight](games/t/torchlight.md) | 4.36 | 
 | 685 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
 | 685 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 685 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
-| 694 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
-| 694 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
-| 694 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 694 | [Ashen](games/a/ashen.md) | 4.35 | 
-| 694 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 694 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 694 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
-| 694 | [ZOMBI](games/z/zombi.md) | 4.35 | 
+| 693 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
+| 693 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
+| 693 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 693 | [Torchlight](games/t/torchlight.md) | 4.35 | 
+| 693 | [Ashen](games/a/ashen.md) | 4.35 | 
+| 693 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
+| 693 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 693 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
+| 693 | [ZOMBI](games/z/zombi.md) | 4.35 | 
 | 702 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 702 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 702 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
@@ -844,18 +844,18 @@
 | 842 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 842 | [Port Royale 4](games/p/port_royale_4.md) | 3.99 | 
 | 842 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.99 | 
-| 842 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.99 | 
-| 846 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
-| 846 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
-| 848 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.96 | 
-| 848 | [The First Tree](games/t/the_first_tree.md) | 3.96 | 
-| 850 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 851 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.94 | 
-| 851 | [Conarium](games/c/conarium.md) | 3.94 | 
-| 851 | [Patron](games/p/patron.md) | 3.94 | 
-| 851 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
-| 855 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
-| 856 | [Warface](games/w/warface.md) | 3.92 | 
+| 845 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
+| 845 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
+| 847 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.96 | 
+| 847 | [The First Tree](games/t/the_first_tree.md) | 3.96 | 
+| 849 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
+| 850 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.94 | 
+| 850 | [Conarium](games/c/conarium.md) | 3.94 | 
+| 850 | [Patron](games/p/patron.md) | 3.94 | 
+| 850 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
+| 854 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
+| 855 | [Warface](games/w/warface.md) | 3.92 | 
+| 855 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.92 | 
 | 857 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 857 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 857 | [Blood of Steel](games/b/blood_of_steel.md) | 3.91 | 

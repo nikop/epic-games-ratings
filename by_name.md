@@ -703,7 +703,7 @@
 | 701 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
 | 702 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 703 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
-| 704 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
+| 704 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 705 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.80 | 
 | 706 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
 | 707 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
@@ -735,7 +735,7 @@
 | 733 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 734 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 735 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 736 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.99 | 
+| 736 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.92 | 
 | 737 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 738 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.55 | 
 | 739 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
@@ -777,7 +777,7 @@
 | 775 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 776 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 777 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
-| 778 | [Torchlight](games/t/torchlight.md) | 4.36 | 
+| 778 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 779 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 780 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.82 | 
 | 781 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
