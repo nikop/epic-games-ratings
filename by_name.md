@@ -149,12 +149,12 @@
 | 147 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 148 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 149 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
-| 150 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 150 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
 | 151 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 152 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 153 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 154 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 155 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.22 | 
+| 155 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.24 | 
 | 156 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
 | 157 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
 | 158 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
@@ -305,7 +305,7 @@
 | 303 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
 | 304 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 305 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 306 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.50 | 
+| 306 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.54 | 
 | 307 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.58 | 
 | 308 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 309 | [Griftlands](games/g/griftlands.md) | 4.81 | 
@@ -735,7 +735,7 @@
 | 733 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 734 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 735 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 736 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.96 | 
+| 736 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.93 | 
 | 737 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 738 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 739 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
@@ -748,7 +748,7 @@
 | 746 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 747 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.64 | 
 | 748 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
-| 749 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 
+| 749 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 750 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 751 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
 | 752 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
