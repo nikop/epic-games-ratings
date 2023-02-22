@@ -256,7 +256,7 @@
 | 254 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
 | 255 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 256 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
-| 257 | [Fez](games/f/fez.md) | 4.70 | 
+| 257 | [Fez](games/f/fez.md) | 4.71 | 
 | 258 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
 | 259 | [Figment](games/f/figment.md) | 4.45 | 
 | 260 | [Filament](games/f/filament.md) | 4.32 | 
@@ -511,7 +511,7 @@
 | 509 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
 | 510 | [Parkitect](games/p/parkitect.md) | 4.30 | 
 | 511 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
-| 512 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.35 | 
+| 512 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
 | 513 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 514 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
 | 515 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
@@ -561,7 +561,7 @@
 | 559 | [Revita](games/r/revita.md) | 4.74 | 
 | 560 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 561 | [RiME](games/r/rime.md) | 4.58 | 
-| 562 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
+| 562 | [RiMS Racing](games/r/rims_racing.md) | 4.46 | 
 | 563 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 564 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 565 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
@@ -738,7 +738,7 @@
 | 736 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 737 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.93 | 
 | 738 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 739 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.54 | 
+| 739 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.55 | 
 | 740 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 741 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 742 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
