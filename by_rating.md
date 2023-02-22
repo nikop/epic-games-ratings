@@ -214,7 +214,6 @@
 | 210 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 210 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 210 | [Days Gone](games/d/days_gone.md) | 4.69 | 
-| 210 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 210 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 210 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 210 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
@@ -229,24 +228,25 @@
 | 210 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 210 | [High On Life](games/h/high_on_life.md) | 4.69 | 
 | 210 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
-| 230 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
-| 230 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 230 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 230 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 230 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 230 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 230 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
-| 230 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 230 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 230 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 230 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
-| 230 | [CARRION](games/c/carrion.md) | 4.68 | 
-| 230 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 
-| 230 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
-| 230 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
-| 230 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
-| 230 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
-| 230 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
+| 229 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
+| 229 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 229 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 229 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 229 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 229 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 229 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 
+| 229 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
+| 229 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 229 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
+| 229 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 229 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
+| 229 | [CARRION](games/c/carrion.md) | 4.68 | 
+| 229 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 
+| 229 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
+| 229 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
+| 229 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
+| 229 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
+| 229 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 248 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 248 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 248 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 

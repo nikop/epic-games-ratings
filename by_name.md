@@ -210,7 +210,7 @@
 | 208 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 209 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 210 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
-| 211 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
+| 211 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 
 | 212 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 213 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 214 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
