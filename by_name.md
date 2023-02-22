@@ -298,7 +298,7 @@
 | 296 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
 | 297 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 298 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 299 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.96 | 
+| 299 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 
 | 300 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 301 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 302 | [Good Company](games/g/good_company.md) | 4.41 | 
@@ -703,7 +703,7 @@
 | 701 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
 | 702 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 703 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
-| 704 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 704 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
 | 705 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.80 | 
 | 706 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
 | 707 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
@@ -735,7 +735,7 @@
 | 733 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 734 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 735 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 736 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.92 | 
+| 736 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.95 | 
 | 737 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 738 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.55 | 
 | 739 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
