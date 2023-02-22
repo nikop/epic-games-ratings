@@ -243,7 +243,7 @@
 | 241 | [Far Cry](games/f/far_cry.md) | 4.43 | 
 | 242 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
 | 243 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 244 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 244 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
 | 245 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 246 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
 | 247 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
