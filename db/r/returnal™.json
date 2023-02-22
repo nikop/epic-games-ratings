@@ -1,7 +1,16 @@
 {
   "ID": "4c461792757541e99c4a16c00834c956",
   "Name": "Returnal\u2122",
+  "Rating": 4.8,
   "FirstSeen": "2023-02-15T19:57:17.063924+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-02-22T19:57:26.9994266+00:00",
+  "LastChanged": "2023-02-22T19:57:26.9994267+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-02-22T19:57:26.9994274+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
