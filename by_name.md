@@ -323,7 +323,7 @@
 | 321 | [Hell is Others](games/h/hell_is_others.md) | 4.42 | 
 | 322 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 323 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 
-| 324 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.49 | 
+| 324 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
 | 325 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 326 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
 | 327 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
