@@ -226,7 +226,7 @@
 | 224 | [EVE Online](games/e/eve_online.md) | 4.25 | 
 | 225 | [Everything](games/e/everything.md) | 4.57 | 
 | 226 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 227 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.92 | 
+| 227 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.88 | 
 | 228 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 229 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 
 | 230 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
@@ -305,7 +305,7 @@
 | 303 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
 | 304 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 305 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 306 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.54 | 
+| 306 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.53 | 
 | 307 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.58 | 
 | 308 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 309 | [Griftlands](games/g/griftlands.md) | 4.81 | 
@@ -510,7 +510,7 @@
 | 508 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 509 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
 | 510 | [Parkitect](games/p/parkitect.md) | 4.30 | 
-| 511 | [Partisans 1941](games/p/partisans_1941.md) | 4.59 | 
+| 511 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 512 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
 | 513 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 514 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
