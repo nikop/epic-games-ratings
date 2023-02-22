@@ -849,8 +849,8 @@
 | 846 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 848 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 
 | 849 | [The First Tree](games/t/the_first_tree.md) | 3.96 | 
-| 850 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 850 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.95 | 
+| 849 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.96 | 
+| 851 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 852 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.94 | 
 | 852 | [Conarium](games/c/conarium.md) | 3.94 | 
 | 852 | [Patron](games/p/patron.md) | 3.94 | 
