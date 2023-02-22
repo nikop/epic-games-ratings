@@ -383,7 +383,7 @@
 | 381 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 382 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 383 | [King of Retail](games/k/king_of_retail.md) | 4.74 | 
-| 384 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 
+| 384 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
 | 385 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
 | 386 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
 | 387 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
@@ -635,7 +635,7 @@
 | 633 | [Sonic Origins](games/s/sonic_origins.md) | 4.56 | 
 | 634 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 635 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.81 | 
-| 636 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
+| 636 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
 | 637 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 638 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
 | 639 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
@@ -658,7 +658,7 @@
 | 656 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
 | 657 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 658 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 659 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.66 | 
+| 659 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.67 | 
 | 660 | [STG Football](games/s/stg_football.md) | 4.46 | 
 | 661 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 662 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
@@ -737,7 +737,7 @@
 | 735 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 736 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.93 | 
 | 737 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 738 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
+| 738 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.54 | 
 | 739 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 740 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 741 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
