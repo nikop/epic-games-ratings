@@ -163,7 +163,7 @@
 | 161 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 162 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
 | 163 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 164 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 164 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 165 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
 | 166 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 167 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
@@ -581,7 +581,7 @@
 | 579 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 580 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 581 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 582 | [Sable](games/s/sable.md) | 4.51 | 
+| 582 | [Sable](games/s/sable.md) | 4.50 | 
 | 583 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
 | 584 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 585 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
@@ -735,9 +735,9 @@
 | 733 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 734 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 735 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 736 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.92 | 
+| 736 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.99 | 
 | 737 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 738 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.54 | 
+| 738 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.55 | 
 | 739 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 740 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 741 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
