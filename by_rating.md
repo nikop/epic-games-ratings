@@ -718,19 +718,19 @@
 | 714 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
 | 714 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
 | 714 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 
+| 714 | [Parkitect](games/p/parkitect.md) | 4.32 | 
 | 714 | [Filament](games/f/filament.md) | 4.32 | 
 | 714 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
-| 721 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 721 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
-| 721 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
-| 721 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.31 | 
-| 725 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 725 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 725 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 725 | [House Party](games/h/house_party.md) | 4.30 | 
-| 725 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
-| 725 | [Parkitect](games/p/parkitect.md) | 4.30 | 
-| 725 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
+| 722 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 722 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
+| 722 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
+| 722 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.31 | 
+| 726 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 726 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 726 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
+| 726 | [House Party](games/h/house_party.md) | 4.30 | 
+| 726 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
+| 726 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
 | 732 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 732 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 732 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
@@ -852,11 +852,11 @@
 | 850 | [The First Tree](games/t/the_first_tree.md) | 3.96 | 
 | 851 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 852 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.94 | 
+| 852 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
 | 852 | [Conarium](games/c/conarium.md) | 3.94 | 
 | 852 | [Patron](games/p/patron.md) | 3.94 | 
 | 852 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
-| 856 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
-| 856 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.93 | 
+| 857 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.93 | 
 | 858 | [Warface](games/w/warface.md) | 3.92 | 
 | 859 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 859 | [Ironcast](games/i/ironcast.md) | 3.91 | 

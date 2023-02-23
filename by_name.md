@@ -99,7 +99,7 @@
 | 97 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
 | 98 | [Brawlhalla](games/b/brawlhalla.md) | 4.56 | 
 | 99 | [Breathedge](games/b/breathedge.md) | 4.59 | 
-| 100 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 
+| 100 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
 | 101 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 102 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 103 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
@@ -509,7 +509,7 @@
 | 507 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
 | 508 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 509 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
-| 510 | [Parkitect](games/p/parkitect.md) | 4.30 | 
+| 510 | [Parkitect](games/p/parkitect.md) | 4.32 | 
 | 511 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 512 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
 | 513 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
