@@ -709,18 +709,18 @@
 | 707 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.33 | 
 | 707 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 707 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.33 | 
-| 707 | [Warpips](games/w/warpips.md) | 4.33 | 
 | 707 | [Backbone](games/b/backbone.md) | 4.33 | 
 | 707 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
 | 707 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
-| 714 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 714 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
-| 714 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
-| 714 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
-| 714 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 
-| 714 | [Parkitect](games/p/parkitect.md) | 4.32 | 
-| 714 | [Filament](games/f/filament.md) | 4.32 | 
-| 714 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
+| 713 | [Vampyr](games/v/vampyr.md) | 4.32 | 
+| 713 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
+| 713 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
+| 713 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
+| 713 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 
+| 713 | [Warpips](games/w/warpips.md) | 4.32 | 
+| 713 | [Parkitect](games/p/parkitect.md) | 4.32 | 
+| 713 | [Filament](games/f/filament.md) | 4.32 | 
+| 713 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
 | 722 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 722 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 722 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
