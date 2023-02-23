@@ -320,7 +320,7 @@
 | 318 | [Haven](games/h/haven.md) | 4.75 | 
 | 319 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 320 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 321 | [Hell is Others](games/h/hell_is_others.md) | 4.41 | 
+| 321 | [Hell is Others](games/h/hell_is_others.md) | 4.40 | 
 | 322 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 323 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 
 | 324 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
@@ -783,7 +783,7 @@
 | 781 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 
 | 782 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.81 | 
 | 783 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 784 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
+| 784 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
 | 785 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
 | 786 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 787 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
