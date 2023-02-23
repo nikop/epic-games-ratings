@@ -524,7 +524,6 @@
 | 516 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
 | 516 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 516 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 516 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 516 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.50 | 
 | 516 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 516 | [Sable](games/s/sable.md) | 4.50 | 
@@ -533,19 +532,20 @@
 | 516 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
 | 516 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 516 | [Tails of Iron](games/t/tails_of_iron.md) | 4.50 | 
-| 534 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 534 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 534 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 534 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 534 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 534 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 534 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 534 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 534 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 534 | [CryoFall](games/c/cryofall.md) | 4.49 | 
-| 534 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 534 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 534 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
+| 533 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 533 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 533 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 533 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 533 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 533 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 533 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 533 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 533 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 533 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 533 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 533 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 533 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 533 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
 | 547 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 547 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 547 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 

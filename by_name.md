@@ -163,7 +163,7 @@
 | 161 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 162 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
 | 163 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 164 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
+| 164 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 165 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
 | 166 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 167 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
