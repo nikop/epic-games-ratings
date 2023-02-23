@@ -372,47 +372,47 @@
 | 363 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 363 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 363 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
-| 363 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
 | 363 | [DOOM 3](games/d/doom_3.md) | 4.60 | 
 | 363 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 363 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 363 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.60 | 
 | 363 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 379 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 379 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 379 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
-| 379 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 379 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 
-| 379 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
-| 379 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
-| 379 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
-| 379 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
-| 379 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
-| 379 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
-| 379 | [Roguebook](games/r/roguebook.md) | 4.59 | 
-| 379 | [Breathedge](games/b/breathedge.md) | 4.59 | 
-| 379 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
-| 379 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 
-| 379 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
-| 395 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
-| 395 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 395 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 395 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
-| 395 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 395 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 395 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 395 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 
-| 395 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
-| 395 | [Moving Out](games/m/moving_out.md) | 4.58 | 
-| 395 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 395 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
-| 395 | [RiME](games/r/rime.md) | 4.58 | 
-| 395 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 395 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
-| 395 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
-| 395 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.58 | 
-| 395 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
-| 395 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.58 | 
+| 378 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 378 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 378 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
+| 378 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 378 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 378 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
+| 378 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
+| 378 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
+| 378 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
+| 378 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
+| 378 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
+| 378 | [Roguebook](games/r/roguebook.md) | 4.59 | 
+| 378 | [Breathedge](games/b/breathedge.md) | 4.59 | 
+| 378 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
+| 378 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 
+| 378 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
+| 394 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
+| 394 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 394 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 394 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
+| 394 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 394 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
+| 394 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 394 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 
+| 394 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
+| 394 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
+| 394 | [Moving Out](games/m/moving_out.md) | 4.58 | 
+| 394 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
+| 394 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
+| 394 | [RiME](games/r/rime.md) | 4.58 | 
+| 394 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
+| 394 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
+| 394 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
+| 394 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.58 | 
+| 394 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
+| 394 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.58 | 
 | 414 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 414 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 414 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 

@@ -1,10 +1,10 @@
 {
   "ID": "83022e1b4c304addb2aadee1db854f8d",
   "Name": "LEGO\u00AE Batman\u2122 3: Beyond Gotham",
-  "Rating": 4.59,
+  "Rating": 4.58,
   "NumberOfRatings": 513,
   "FirstSeen": "2022-07-22T20:28:16.9494589+00:00",
-  "LastChanged": "2023-02-17T02:17:39.9883342+00:00",
+  "LastChanged": "2023-02-23T02:11:22.3497586+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:16.9494591+00:00",
@@ -514,6 +514,11 @@
     {
       "Time": "2023-02-17T02:17:39.9883343+00:00",
       "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-23T02:11:22.3497588+00:00",
+      "Rating": 4.58,
       "NumberOfRatings": null
     }
   ],

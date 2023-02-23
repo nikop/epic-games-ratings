@@ -407,7 +407,7 @@
 | 405 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
 | 406 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 407 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
-| 408 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 
+| 408 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
 | 409 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 410 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
 | 411 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
@@ -761,7 +761,7 @@
 | 759 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 760 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 761 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.58 | 
-| 762 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
+| 762 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
 | 763 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 764 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 765 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
