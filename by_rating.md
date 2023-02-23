@@ -775,18 +775,18 @@
 | 772 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 772 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 772 | [Starsand](games/s/starsand.md) | 4.21 | 
+| 772 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.21 | 
 | 772 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 777 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
-| 777 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 777 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 777 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 777 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 777 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 777 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 777 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.20 | 
-| 777 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 777 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 
-| 777 | [Somerville](games/s/somerville.md) | 4.20 | 
+| 778 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
+| 778 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 778 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 778 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 778 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 778 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 778 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 778 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 778 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 
+| 778 | [Somerville](games/s/somerville.md) | 4.20 | 
 | 788 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 788 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 788 | [Crayta](games/c/crayta.md) | 4.19 | 
