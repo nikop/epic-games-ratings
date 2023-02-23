@@ -593,22 +593,22 @@
 | 582 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 582 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
 | 582 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.45 | 
-| 582 | [Predecessor](games/p/predecessor.md) | 4.45 | 
-| 595 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
-| 595 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 595 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 595 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 595 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 595 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
-| 595 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
-| 595 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
-| 595 | [Faeria](games/f/faeria.md) | 4.44 | 
-| 595 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
-| 595 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
-| 595 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 595 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
-| 595 | [Redout 2](games/r/redout_2.md) | 4.44 | 
-| 595 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 
+| 594 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
+| 594 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 594 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 594 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 594 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 594 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
+| 594 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
+| 594 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 594 | [Faeria](games/f/faeria.md) | 4.44 | 
+| 594 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
+| 594 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
+| 594 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 594 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
+| 594 | [Predecessor](games/p/predecessor.md) | 4.44 | 
+| 594 | [Redout 2](games/r/redout_2.md) | 4.44 | 
+| 594 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 
 | 610 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 610 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 610 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
@@ -633,7 +633,6 @@
 | 630 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 630 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 630 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 630 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
 | 630 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
 | 630 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
 | 630 | [Good Company](games/g/good_company.md) | 4.41 | 
@@ -645,18 +644,19 @@
 | 630 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 
 | 630 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 630 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 646 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 646 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 646 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 646 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 646 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 646 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 646 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
-| 646 | [Hell is Others](games/h/hell_is_others.md) | 4.40 | 
-| 646 | [Knockout City™](games/k/knockout_city™.md) | 4.40 | 
-| 646 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
-| 646 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
-| 646 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
+| 645 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 645 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 645 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 645 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 645 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 645 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 645 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
+| 645 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
+| 645 | [Hell is Others](games/h/hell_is_others.md) | 4.40 | 
+| 645 | [Knockout City™](games/k/knockout_city™.md) | 4.40 | 
+| 645 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
+| 645 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
+| 645 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 658 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 658 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 658 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 

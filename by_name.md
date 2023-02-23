@@ -149,7 +149,7 @@
 | 147 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 148 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 149 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
-| 150 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
+| 150 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 151 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 152 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 153 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
@@ -531,7 +531,7 @@
 | 529 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
 | 530 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 531 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 532 | [Predecessor](games/p/predecessor.md) | 4.45 | 
+| 532 | [Predecessor](games/p/predecessor.md) | 4.44 | 
 | 533 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 534 | [Prey](games/p/prey.md) | 4.62 | 
 | 535 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
