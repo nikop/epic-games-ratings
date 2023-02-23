@@ -856,12 +856,12 @@
 | 852 | [Conarium](games/c/conarium.md) | 3.94 | 
 | 852 | [Patron](games/p/patron.md) | 3.94 | 
 | 852 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
-| 857 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.93 | 
-| 858 | [Warface](games/w/warface.md) | 3.92 | 
-| 859 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 859 | [Ironcast](games/i/ironcast.md) | 3.91 | 
-| 859 | [Blood of Steel](games/b/blood_of_steel.md) | 3.91 | 
-| 859 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
+| 857 | [Warface](games/w/warface.md) | 3.92 | 
+| 858 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 858 | [Ironcast](games/i/ironcast.md) | 3.91 | 
+| 858 | [Blood of Steel](games/b/blood_of_steel.md) | 3.91 | 
+| 858 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.91 | 
+| 858 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
 | 863 | [Banished](games/b/banished.md) | 3.90 | 
 | 864 | [Chimeraland](games/c/chimeraland.md) | 3.86 | 
 | 864 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
