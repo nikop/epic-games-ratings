@@ -705,14 +705,14 @@
 | 703 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 703 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 703 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
-| 703 | [Warpips](games/w/warpips.md) | 4.34 | 
 | 703 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 708 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.33 | 
-| 708 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
-| 708 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.33 | 
-| 708 | [Backbone](games/b/backbone.md) | 4.33 | 
-| 708 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
-| 708 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
+| 707 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.33 | 
+| 707 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 707 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.33 | 
+| 707 | [Warpips](games/w/warpips.md) | 4.33 | 
+| 707 | [Backbone](games/b/backbone.md) | 4.33 | 
+| 707 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
+| 707 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
 | 714 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 714 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
 | 714 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
