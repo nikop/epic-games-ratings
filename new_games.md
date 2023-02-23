@@ -9,4 +9,3 @@
 | 7 | [Dead Space](games/d/dead_space.md) | 4.72 | 
 | 8 | [Hell is Others](games/h/hell_is_others.md) | 4.40 | 
 | 9 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.88 | 
-| 10 | [Forspoken](games/f/forspoken.md) | 4.06 | 

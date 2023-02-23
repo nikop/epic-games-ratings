@@ -15,7 +15,7 @@
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
 | 14 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
 | 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
@@ -280,7 +280,7 @@
 | 278 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 279 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 280 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 281 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 
+| 281 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 
 | 282 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 283 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
 | 284 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
@@ -442,7 +442,7 @@
 | 440 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
 | 441 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 442 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.47 | 
-| 443 | [Minit](games/m/minit.md) | 4.55 | 
+| 443 | [Minit](games/m/minit.md) | 4.56 | 
 | 444 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.94 | 
 | 445 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 446 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
