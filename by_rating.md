@@ -470,28 +470,28 @@
 | 463 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
 | 463 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 463 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 463 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
-| 472 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 472 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 472 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 472 | [Just Die Already](games/j/just_die_already.md) | 4.53 | 
-| 472 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
-| 472 | [Verdun](games/v/verdun.md) | 4.53 | 
-| 472 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 472 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
-| 472 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 472 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 472 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 472 | [RUINER](games/r/ruiner.md) | 4.53 | 
-| 472 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 472 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 472 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
-| 472 | [Aztez](games/a/aztez.md) | 4.53 | 
-| 472 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 472 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
-| 472 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 472 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
-| 472 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.53 | 
+| 471 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
+| 471 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 471 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 471 | [Just Die Already](games/j/just_die_already.md) | 4.53 | 
+| 471 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 471 | [Verdun](games/v/verdun.md) | 4.53 | 
+| 471 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 471 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
+| 471 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
+| 471 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
+| 471 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 471 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 471 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 471 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 471 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
+| 471 | [Aztez](games/a/aztez.md) | 4.53 | 
+| 471 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 471 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
+| 471 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 471 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
+| 471 | [First Class Trouble](games/f/first_class_trouble.md) | 4.53 | 
+| 471 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.53 | 
 | 493 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
 | 493 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 493 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
@@ -860,9 +860,9 @@
 | 858 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 858 | [Ironcast](games/i/ironcast.md) | 3.91 | 
 | 858 | [Blood of Steel](games/b/blood_of_steel.md) | 3.91 | 
-| 858 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.91 | 
 | 858 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
-| 863 | [Banished](games/b/banished.md) | 3.90 | 
+| 862 | [Banished](games/b/banished.md) | 3.90 | 
+| 863 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.88 | 
 | 864 | [Chimeraland](games/c/chimeraland.md) | 3.86 | 
 | 864 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 866 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.81 | 

@@ -262,7 +262,7 @@
 | 260 | [Filament](games/f/filament.md) | 4.32 | 
 | 261 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 262 | [Firework](games/f/firework.md) | 4.89 | 
-| 263 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
+| 263 | [First Class Trouble](games/f/first_class_trouble.md) | 4.53 | 
 | 264 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 265 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
 | 266 | [Flatout](games/f/flatout.md) | 4.16 | 
@@ -736,7 +736,7 @@
 | 734 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 735 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 736 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 737 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.91 | 
+| 737 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.88 | 
 | 738 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 739 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.55 | 
 | 740 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
