@@ -701,26 +701,26 @@
 | 695 | [Ashen](games/a/ashen.md) | 4.35 | 
 | 695 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
 | 695 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 695 | [Warpips](games/w/warpips.md) | 4.35 | 
 | 695 | [ZOMBI](games/z/zombi.md) | 4.35 | 
-| 703 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 703 | [Automachef](games/a/automachef.md) | 4.34 | 
-| 703 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
-| 703 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 707 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.33 | 
-| 707 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
-| 707 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.33 | 
-| 707 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 
-| 707 | [Backbone](games/b/backbone.md) | 4.33 | 
-| 707 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
-| 707 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
-| 714 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 714 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
-| 714 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
-| 714 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
-| 714 | [Warpips](games/w/warpips.md) | 4.32 | 
-| 714 | [Parkitect](games/p/parkitect.md) | 4.32 | 
-| 714 | [Filament](games/f/filament.md) | 4.32 | 
-| 714 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
+| 704 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 704 | [Automachef](games/a/automachef.md) | 4.34 | 
+| 704 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
+| 704 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
+| 708 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.33 | 
+| 708 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 708 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.33 | 
+| 708 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 
+| 708 | [Backbone](games/b/backbone.md) | 4.33 | 
+| 708 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
+| 708 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
+| 715 | [Vampyr](games/v/vampyr.md) | 4.32 | 
+| 715 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
+| 715 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
+| 715 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
+| 715 | [Parkitect](games/p/parkitect.md) | 4.32 | 
+| 715 | [Filament](games/f/filament.md) | 4.32 | 
+| 715 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
 | 722 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 722 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 722 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
@@ -799,13 +799,13 @@
 | 797 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 797 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
 | 797 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
-| 800 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
-| 800 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 800 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
-| 800 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
-| 800 | [Flatout](games/f/flatout.md) | 4.16 | 
-| 800 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
-| 800 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.16 | 
+| 797 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.17 | 
+| 801 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
+| 801 | [Family Man](games/f/family_man.md) | 4.16 | 
+| 801 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 801 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
+| 801 | [Flatout](games/f/flatout.md) | 4.16 | 
+| 801 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
 | 807 | [Pine](games/p/pine.md) | 4.15 | 
 | 807 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 807 | [Relicta](games/r/relicta.md) | 4.15 | 
@@ -862,10 +862,10 @@
 | 858 | [Blood of Steel](games/b/blood_of_steel.md) | 3.91 | 
 | 858 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
 | 862 | [Banished](games/b/banished.md) | 3.90 | 
-| 863 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.88 | 
-| 864 | [Chimeraland](games/c/chimeraland.md) | 3.86 | 
-| 864 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 866 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.81 | 
+| 863 | [Chimeraland](games/c/chimeraland.md) | 3.86 | 
+| 863 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
+| 865 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.85 | 
+| 866 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
 | 867 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 867 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 869 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
