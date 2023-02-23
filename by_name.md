@@ -757,7 +757,7 @@
 | 755 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
 | 756 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
 | 757 | [The Witness](games/t/the_witness.md) | 4.69 | 
-| 758 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.82 | 
+| 758 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 759 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 760 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 761 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.58 | 
