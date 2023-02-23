@@ -133,7 +133,7 @@
 | 131 | [Conarium](games/c/conarium.md) | 3.94 | 
 | 132 | [Control](games/c/control.md) | 4.60 | 
 | 133 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
-| 134 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
+| 134 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
 | 135 | [Core](games/c/core.md) | 4.37 | 
 | 136 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 137 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
@@ -306,7 +306,7 @@
 | 304 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 305 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 306 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.53 | 
-| 307 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.58 | 
+| 307 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.62 | 
 | 308 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 309 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 310 | [GRIME](games/g/grime.md) | 4.62 | 
