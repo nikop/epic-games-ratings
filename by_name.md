@@ -557,7 +557,7 @@
 | 555 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 556 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
 | 557 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 558 | [Returnal™](games/r/returnal™.md) | 4.80 | 
+| 558 | [Returnal™](games/r/returnal™.md) | 4.77 | 
 | 559 | [Revita](games/r/revita.md) | 4.74 | 
 | 560 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 561 | [RiME](games/r/rime.md) | 4.58 | 
@@ -565,7 +565,7 @@
 | 563 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 564 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 565 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 566 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 566 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 567 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 568 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
 | 569 | [Riverbond](games/r/riverbond.md) | 4.48 | 

@@ -1,14 +1,19 @@
 {
   "ID": "4c461792757541e99c4a16c00834c956",
   "Name": "Returnal\u2122",
-  "Rating": 4.8,
+  "Rating": 4.77,
   "FirstSeen": "2023-02-15T19:57:17.063924+00:00",
   "FirstSeenRating": "2023-02-22T19:57:26.9994266+00:00",
-  "LastChanged": "2023-02-22T19:57:26.9994267+00:00",
+  "LastChanged": "2023-02-23T20:57:55.4602404+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-22T19:57:26.9994274+00:00",
       "Rating": 4.8,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-23T20:57:55.4602407+00:00",
+      "Rating": 4.77,
       "NumberOfRatings": null
     }
   ],

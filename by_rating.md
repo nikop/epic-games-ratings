@@ -91,31 +91,31 @@
 | 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 79 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
 | 79 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
-| 79 | [Returnal™](games/r/returnal™.md) | 4.80 | 
 | 79 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.80 | 
-| 94 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 94 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
-| 94 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 94 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 94 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 94 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 94 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
-| 94 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 94 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
-| 94 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 104 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 104 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
-| 104 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
-| 107 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 107 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 107 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
-| 107 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 107 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 
-| 107 | [Quake](games/q/quake.md) | 4.77 | 
-| 107 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
-| 107 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
-| 107 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
-| 107 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
+| 93 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 93 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
+| 93 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 93 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
+| 93 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 93 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 93 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
+| 93 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 93 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
+| 93 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
+| 103 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 103 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
+| 103 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
+| 106 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 106 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 106 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
+| 106 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
+| 106 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 
+| 106 | [Quake](games/q/quake.md) | 4.77 | 
+| 106 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
+| 106 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
+| 106 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
+| 106 | [Returnal™](games/r/returnal™.md) | 4.77 | 
+| 106 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
 | 117 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 117 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 117 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
@@ -643,20 +643,20 @@
 | 630 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 630 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 
 | 630 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 630 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 645 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 645 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 645 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 645 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 645 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 645 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 645 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 645 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
-| 645 | [Hell is Others](games/h/hell_is_others.md) | 4.40 | 
-| 645 | [Knockout City™](games/k/knockout_city™.md) | 4.40 | 
-| 645 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
-| 645 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
-| 645 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
+| 644 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 644 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 644 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 644 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 644 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 644 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 644 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
+| 644 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
+| 644 | [Hell is Others](games/h/hell_is_others.md) | 4.40 | 
+| 644 | [Knockout City™](games/k/knockout_city™.md) | 4.40 | 
+| 644 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 644 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
+| 644 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
+| 644 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 658 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 658 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 658 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
