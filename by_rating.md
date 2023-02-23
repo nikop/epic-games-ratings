@@ -105,17 +105,17 @@
 | 103 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 103 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
 | 103 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
-| 106 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 106 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 106 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
-| 106 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 106 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 
-| 106 | [Quake](games/q/quake.md) | 4.77 | 
-| 106 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
-| 106 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
-| 106 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
-| 106 | [Returnal™](games/r/returnal™.md) | 4.77 | 
-| 106 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
+| 103 | [Returnal™](games/r/returnal™.md) | 4.78 | 
+| 107 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 107 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 107 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
+| 107 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
+| 107 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 
+| 107 | [Quake](games/q/quake.md) | 4.77 | 
+| 107 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
+| 107 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
+| 107 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
+| 107 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
 | 117 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 117 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 117 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
@@ -394,25 +394,25 @@
 | 379 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 379 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 
 | 379 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
-| 395 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
-| 395 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 395 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 395 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
-| 395 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 395 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 395 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 395 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 
-| 395 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
-| 395 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
-| 395 | [Moving Out](games/m/moving_out.md) | 4.58 | 
-| 395 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 395 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
-| 395 | [RiME](games/r/rime.md) | 4.58 | 
-| 395 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 395 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
-| 395 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
-| 395 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
-| 395 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.58 | 
+| 379 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.59 | 
+| 396 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
+| 396 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 396 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 396 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
+| 396 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 396 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
+| 396 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 396 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 
+| 396 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
+| 396 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
+| 396 | [Moving Out](games/m/moving_out.md) | 4.58 | 
+| 396 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
+| 396 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
+| 396 | [RiME](games/r/rime.md) | 4.58 | 
+| 396 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
+| 396 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
+| 396 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
+| 396 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
 | 414 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 414 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 414 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
@@ -831,11 +831,11 @@
 | 829 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 829 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
 | 829 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
+| 832 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
 | 832 | [Lake](games/l/lake.md) | 4.07 | 
 | 832 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
-| 834 | [Godfall](games/g/godfall.md) | 4.06 | 
-| 834 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.06 | 
-| 834 | [Forspoken](games/f/forspoken.md) | 4.06 | 
+| 835 | [Godfall](games/g/godfall.md) | 4.06 | 
+| 835 | [Forspoken](games/f/forspoken.md) | 4.06 | 
 | 837 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 837 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 839 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 

@@ -419,7 +419,7 @@
 | 417 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 418 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 419 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
-| 420 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.06 | 
+| 420 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
 | 421 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.56 | 
 | 422 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 423 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
@@ -557,7 +557,7 @@
 | 555 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 556 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
 | 557 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 558 | [Returnal™](games/r/returnal™.md) | 4.77 | 
+| 558 | [Returnal™](games/r/returnal™.md) | 4.78 | 
 | 559 | [Revita](games/r/revita.md) | 4.74 | 
 | 560 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 561 | [RiME](games/r/rime.md) | 4.58 | 
@@ -760,7 +760,7 @@
 | 758 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 759 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 760 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 761 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.58 | 
+| 761 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.59 | 
 | 762 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
 | 763 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 764 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
