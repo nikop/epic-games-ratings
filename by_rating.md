@@ -845,9 +845,9 @@
 | 843 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 844 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 844 | [Port Royale 4](games/p/port_royale_4.md) | 3.99 | 
-| 844 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.99 | 
-| 847 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
-| 847 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
+| 846 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
+| 846 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
+| 846 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 
 | 849 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 
 | 850 | [The First Tree](games/t/the_first_tree.md) | 3.96 | 
 | 851 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 

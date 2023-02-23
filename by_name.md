@@ -535,7 +535,7 @@
 | 533 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 534 | [Prey](games/p/prey.md) | 4.62 | 
 | 535 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
-| 536 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.99 | 
+| 536 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 
 | 537 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 538 | [Quake](games/q/quake.md) | 4.77 | 
 | 539 | [Rage 2](games/r/rage_2.md) | 4.28 | 
