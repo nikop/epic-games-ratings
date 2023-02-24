@@ -606,21 +606,21 @@
 | 594 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 594 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 594 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
-| 594 | [Hell is Others](games/h/hell_is_others.md) | 4.44 | 
 | 594 | [Predecessor](games/p/predecessor.md) | 4.44 | 
 | 594 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 594 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.44 | 
 | 594 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 
-| 612 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 612 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 612 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
-| 612 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
-| 612 | [Far Cry](games/f/far_cry.md) | 4.43 | 
-| 612 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
-| 612 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
-| 612 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 
-| 612 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
-| 612 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
+| 611 | [Sheltered](games/s/sheltered.md) | 4.43 | 
+| 611 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 611 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
+| 611 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
+| 611 | [Far Cry](games/f/far_cry.md) | 4.43 | 
+| 611 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
+| 611 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
+| 611 | [Hell is Others](games/h/hell_is_others.md) | 4.43 | 
+| 611 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 
+| 611 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
+| 611 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 622 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 622 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 622 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
