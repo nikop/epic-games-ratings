@@ -430,7 +430,7 @@
 | 428 | [Mago](games/m/mago.md) | 4.90 | 
 | 429 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 430 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 431 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.13 | 
+| 431 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.08 | 
 | 432 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
 | 433 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
 | 434 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
@@ -739,7 +739,7 @@
 | 737 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 738 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.85 | 
 | 739 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 740 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.55 | 
+| 740 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 741 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 742 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 743 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
