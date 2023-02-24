@@ -196,7 +196,7 @@
 | 194 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 195 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.50 | 
 | 196 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 197 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
+| 197 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 198 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 199 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 200 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
@@ -256,7 +256,7 @@
 | 254 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
 | 255 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 256 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
-| 257 | [Fez](games/f/fez.md) | 4.71 | 
+| 257 | [Fez](games/f/fez.md) | 4.70 | 
 | 258 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
 | 259 | [Figment](games/f/figment.md) | 4.45 | 
 | 260 | [Filament](games/f/filament.md) | 4.32 | 

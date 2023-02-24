@@ -25,18 +25,18 @@
 | 18 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.88 | 
 | 24 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
-| 24 | [Disco Elysium](games/d/disco_elysium.md) | 4.87 | 
 | 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 24 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
 | 24 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 
 | 24 | [Black Book](games/b/black_book.md) | 4.87 | 
-| 31 | [Inscryption](games/i/inscryption.md) | 4.86 | 
-| 31 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 31 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 31 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
-| 31 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
-| 31 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
-| 31 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
+| 30 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
+| 30 | [Inscryption](games/i/inscryption.md) | 4.86 | 
+| 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 30 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 30 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
+| 30 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
+| 30 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
+| 30 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 38 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 38 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
@@ -185,7 +185,6 @@
 | 178 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
 | 178 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
 | 178 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 178 | [Fez](games/f/fez.md) | 4.71 | 
 | 178 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 178 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
 | 178 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
@@ -193,26 +192,27 @@
 | 178 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
 | 178 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
 | 178 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 194 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
-| 194 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
-| 194 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 194 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
-| 194 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
-| 194 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 194 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
-| 194 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
-| 194 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
-| 194 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 194 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 194 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 194 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
-| 194 | [Townscaper](games/t/townscaper.md) | 4.70 | 
-| 194 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 194 | [BLACKTAIL](games/b/blacktail.md) | 4.70 | 
-| 194 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.70 | 
-| 194 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
-| 194 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
-| 194 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
+| 193 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
+| 193 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
+| 193 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 193 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
+| 193 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
+| 193 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 193 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
+| 193 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
+| 193 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
+| 193 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 193 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
+| 193 | [Fez](games/f/fez.md) | 4.70 | 
+| 193 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 193 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
+| 193 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 193 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
+| 193 | [BLACKTAIL](games/b/blacktail.md) | 4.70 | 
+| 193 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.70 | 
+| 193 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
+| 193 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
+| 193 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 214 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 214 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 214 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
