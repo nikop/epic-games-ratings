@@ -476,7 +476,6 @@
 | 473 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 473 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 473 | [Just Die Already](games/j/just_die_already.md) | 4.53 | 
-| 473 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 473 | [Verdun](games/v/verdun.md) | 4.53 | 
 | 473 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 473 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
@@ -492,17 +491,18 @@
 | 473 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
 | 473 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 473 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
-| 493 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
-| 493 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 493 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 493 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 493 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 493 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 493 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 493 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 493 | [IXION](games/i/ixion.md) | 4.52 | 
-| 493 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 493 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 492 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
+| 492 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 492 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 492 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 492 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 492 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 492 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 492 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 492 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 492 | [IXION](games/i/ixion.md) | 4.52 | 
+| 492 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 492 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 504 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 504 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 504 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
