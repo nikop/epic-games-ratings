@@ -274,7 +274,7 @@
 | 272 | [Forspoken](games/f/forspoken.md) | 4.06 | 
 | 273 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 274 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 275 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 
+| 275 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.70 | 
 | 276 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 277 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 278 | [FUSER™](games/f/fuser™.md) | 4.71 | 
@@ -320,7 +320,7 @@
 | 318 | [Haven](games/h/haven.md) | 4.75 | 
 | 319 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 320 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 321 | [Hell is Others](games/h/hell_is_others.md) | 4.42 | 
+| 321 | [Hell is Others](games/h/hell_is_others.md) | 4.44 | 
 | 322 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 323 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 
 | 324 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
