@@ -126,14 +126,14 @@
 | 124 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 125 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
 | 126 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.20 | 
+| 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.21 | 
 | 128 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 129 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 130 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 131 | [Conarium](games/c/conarium.md) | 3.94 | 
 | 132 | [Control](games/c/control.md) | 4.60 | 
 | 133 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
-| 134 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 134 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
 | 135 | [Core](games/c/core.md) | 4.37 | 
 | 136 | [Coromon](games/c/coromon.md) | 4.66 | 
 | 137 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
@@ -234,7 +234,7 @@
 | 232 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 233 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 234 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 235 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
+| 235 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 236 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 237 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
 | 238 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
@@ -306,7 +306,7 @@
 | 304 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 305 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 306 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 
-| 307 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.62 | 
+| 307 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.69 | 
 | 308 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 309 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 310 | [GRIME](games/g/grime.md) | 4.62 | 
@@ -373,7 +373,7 @@
 | 371 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 372 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 373 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 374 | [Just Die Already](games/j/just_die_already.md) | 4.53 | 
+| 374 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 375 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
 | 376 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 377 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
@@ -642,7 +642,7 @@
 | 640 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
 | 641 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 642 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
-| 643 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
+| 643 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.44 | 
 | 644 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
 | 645 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 646 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
