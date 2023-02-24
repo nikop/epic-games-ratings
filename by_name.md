@@ -251,7 +251,7 @@
 | 249 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
 | 250 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
 | 251 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
-| 252 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
+| 252 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 
 | 253 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 254 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
 | 255 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
@@ -306,7 +306,7 @@
 | 304 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 305 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.00 | 
 | 306 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 307 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 
+| 307 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.54 | 
 | 308 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.69 | 
 | 309 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 310 | [Griftlands](games/g/griftlands.md) | 4.81 | 
@@ -547,7 +547,7 @@
 | 545 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 546 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
 | 547 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
-| 548 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 548 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
 | 549 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 550 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 551 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
@@ -845,7 +845,7 @@
 | 843 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.33 | 
 | 844 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 845 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
-| 846 | [Weird West](games/w/weird_west.md) | 4.44 | 
+| 846 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 847 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
 | 848 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 849 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
