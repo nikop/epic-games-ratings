@@ -639,30 +639,30 @@
 | 632 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
 | 632 | [Good Company](games/g/good_company.md) | 4.41 | 
 | 632 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
-| 632 | [Tacoma](games/t/tacoma.md) | 4.41 | 
 | 632 | [ELEX](games/e/elex.md) | 4.41 | 
 | 632 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 632 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 632 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 
 | 632 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 646 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 646 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 646 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 646 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 646 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 646 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 646 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 646 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
-| 646 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
-| 646 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
-| 646 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
-| 646 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
-| 658 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 658 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 658 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
-| 658 | [Othercide](games/o/othercide.md) | 4.39 | 
-| 658 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
-| 658 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
+| 645 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 645 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 645 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 645 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 645 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 645 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
+| 645 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
+| 645 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 645 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
+| 645 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
+| 645 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
+| 656 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 656 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 656 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
+| 656 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
+| 656 | [Tacoma](games/t/tacoma.md) | 4.39 | 
+| 656 | [Othercide](games/o/othercide.md) | 4.39 | 
+| 656 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
+| 656 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 664 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 664 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 664 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
@@ -774,20 +774,20 @@
 | 769 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
 | 773 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 773 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
-| 773 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 773 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 773 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 778 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
-| 778 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 778 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 778 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 778 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 778 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 778 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 778 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.20 | 
-| 778 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 778 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 
-| 778 | [Somerville](games/s/somerville.md) | 4.20 | 
+| 777 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
+| 777 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 777 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 777 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 777 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 777 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 777 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
+| 777 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 777 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.20 | 
+| 777 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 777 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 
+| 777 | [Somerville](games/s/somerville.md) | 4.20 | 
 | 789 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 789 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 789 | [Crayta](games/c/crayta.md) | 4.19 | 
@@ -865,7 +865,7 @@
 | 863 | [Banished](games/b/banished.md) | 3.90 | 
 | 864 | [Chimeraland](games/c/chimeraland.md) | 3.87 | 
 | 865 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 866 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.85 | 
+| 866 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.84 | 
 | 867 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
 | 868 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 868 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 

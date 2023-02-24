@@ -402,7 +402,7 @@
 | 400 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 401 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
 | 402 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 403 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
+| 403 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
 | 404 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 405 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 406 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
@@ -690,7 +690,7 @@
 | 688 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 689 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 690 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 691 | [Tacoma](games/t/tacoma.md) | 4.41 | 
+| 691 | [Tacoma](games/t/tacoma.md) | 4.39 | 
 | 692 | [Tails of Iron](games/t/tails_of_iron.md) | 4.50 | 
 | 693 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 694 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
@@ -737,7 +737,7 @@
 | 735 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 736 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 737 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 738 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.85 | 
+| 738 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.84 | 
 | 739 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 740 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 741 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
@@ -868,7 +868,7 @@
 | 866 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 867 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 868 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
-| 869 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 869 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
 | 870 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
 | 871 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
 | 872 | [ZOMBI](games/z/zombi.md) | 4.35 | 
