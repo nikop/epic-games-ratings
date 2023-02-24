@@ -1,5 +1,5 @@
 # STAR WARS Jedi: Fallen Order Standard Edition
-Rating: 4.65 (-)  (as of 23.09.2022)  
+Rating: 4.63 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -10,3 +10,4 @@ Rating: 4.65 (-)  (as of 23.09.2022)
 | 2023-02-11 | 4.63 | - |
 | 2023-02-12 | 4.64 | - |
 | 2023-02-13 | 4.65 | - |
+| 2023-02-24 | 4.63 | - |

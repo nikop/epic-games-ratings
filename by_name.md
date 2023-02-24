@@ -29,7 +29,7 @@
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 
-| 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
@@ -231,7 +231,7 @@
 | 229 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 
 | 230 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 231 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
-| 232 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
+| 232 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 233 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 234 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 235 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
@@ -654,7 +654,7 @@
 | 652 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 653 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
 | 654 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 655 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.65 | 
+| 655 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.63 | 
 | 656 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 657 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
 | 658 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
