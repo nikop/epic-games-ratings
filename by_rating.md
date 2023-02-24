@@ -77,35 +77,35 @@
 | 67 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
 | 67 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 67 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
+| 67 | [Returnal™](games/r/returnal™.md) | 4.81 | 
 | 67 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
-| 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 79 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 79 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
-| 79 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
-| 79 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
-| 79 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
-| 79 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 
-| 79 | [Journey](games/j/journey.md) | 4.80 | 
-| 79 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
-| 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 79 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
-| 79 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
-| 79 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.80 | 
-| 93 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 93 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
-| 93 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 93 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 93 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 93 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 93 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
-| 93 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 93 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
-| 93 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 103 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 103 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
-| 103 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
-| 103 | [Returnal™](games/r/returnal™.md) | 4.78 | 
+| 80 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 80 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 80 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 80 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
+| 80 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
+| 80 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
+| 80 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
+| 80 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 
+| 80 | [Journey](games/j/journey.md) | 4.80 | 
+| 80 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
+| 80 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 80 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
+| 80 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
+| 80 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.80 | 
+| 94 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 94 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
+| 94 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 94 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
+| 94 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 94 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 94 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
+| 94 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 94 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
+| 94 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
+| 104 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 104 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
+| 104 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 107 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 107 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 107 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
@@ -776,18 +776,18 @@
 | 773 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 773 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 773 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.21 | 
+| 773 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.21 | 
 | 773 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 778 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
-| 778 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 778 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 778 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 778 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 778 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 778 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
-| 778 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 778 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 778 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 
-| 778 | [Somerville](games/s/somerville.md) | 4.20 | 
+| 779 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
+| 779 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 779 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 779 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 779 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 779 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 779 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
+| 779 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 779 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 779 | [Somerville](games/s/somerville.md) | 4.20 | 
 | 789 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 789 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 789 | [Crayta](games/c/crayta.md) | 4.19 | 

@@ -228,7 +228,7 @@
 | 226 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 227 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.88 | 
 | 228 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 229 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 
+| 229 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.21 | 
 | 230 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 231 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
 | 232 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
@@ -559,7 +559,7 @@
 | 557 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 558 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
 | 559 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 560 | [Returnal™](games/r/returnal™.md) | 4.78 | 
+| 560 | [Returnal™](games/r/returnal™.md) | 4.81 | 
 | 561 | [Revita](games/r/revita.md) | 4.74 | 
 | 562 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 563 | [RiME](games/r/rime.md) | 4.58 | 
