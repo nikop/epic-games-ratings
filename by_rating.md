@@ -165,34 +165,34 @@
 | 156 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 156 | [Northgard](games/n/northgard.md) | 4.73 | 
 | 156 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
+| 156 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
 | 156 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 156 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 168 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 168 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
-| 168 | [Timberborn](games/t/timberborn.md) | 4.72 | 
-| 168 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 168 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 168 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
-| 168 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 168 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
-| 168 | [Dead Space](games/d/dead_space.md) | 4.72 | 
-| 177 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
-| 177 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 177 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
-| 177 | [Barony](games/b/barony.md) | 4.71 | 
-| 177 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
-| 177 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
-| 177 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
-| 177 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
-| 177 | [Fez](games/f/fez.md) | 4.71 | 
-| 177 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 177 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
-| 177 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
-| 177 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 177 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
-| 177 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.71 | 
-| 177 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
-| 177 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
+| 169 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 169 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
+| 169 | [Timberborn](games/t/timberborn.md) | 4.72 | 
+| 169 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 169 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 169 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
+| 169 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 169 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
+| 169 | [Dead Space](games/d/dead_space.md) | 4.72 | 
+| 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
+| 178 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 178 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
+| 178 | [Barony](games/b/barony.md) | 4.71 | 
+| 178 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 178 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
+| 178 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
+| 178 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 178 | [Fez](games/f/fez.md) | 4.71 | 
+| 178 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 178 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
+| 178 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
+| 178 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
+| 178 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
+| 178 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
+| 178 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
 | 194 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 194 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
 | 194 | [For The King](games/f/for_the_king.md) | 4.70 | 
