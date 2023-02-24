@@ -126,7 +126,7 @@
 | 124 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 125 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
 | 126 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.21 | 
+| 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.20 | 
 | 128 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 129 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 130 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -178,7 +178,7 @@
 | 176 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
 | 177 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 178 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
-| 179 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 
+| 179 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
 | 180 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 181 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
 | 182 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
@@ -335,7 +335,7 @@
 | 333 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 334 | [Hob](games/h/hob.md) | 4.57 | 
 | 335 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
-| 336 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.46 | 
+| 336 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 337 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 338 | [Horace](games/h/horace.md) | 4.51 | 
 | 339 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
@@ -397,7 +397,7 @@
 | 395 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
 | 396 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 397 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.45 | 
-| 398 | [Knockout City™](games/k/knockout_city™.md) | 4.40 | 
+| 398 | [Knockout City™](games/k/knockout_city™.md) | 4.34 | 
 | 399 | [Lake](games/l/lake.md) | 4.07 | 
 | 400 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 401 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
@@ -550,7 +550,7 @@
 | 548 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 549 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 550 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 551 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 
+| 551 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
 | 552 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.17 | 
 | 553 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 554 | [Redout 2](games/r/redout_2.md) | 4.44 | 
