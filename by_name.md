@@ -320,7 +320,7 @@
 | 318 | [Haven](games/h/haven.md) | 4.75 | 
 | 319 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 320 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 321 | [Hell is Others](games/h/hell_is_others.md) | 4.40 | 
+| 321 | [Hell is Others](games/h/hell_is_others.md) | 4.42 | 
 | 322 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 323 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 
 | 324 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 

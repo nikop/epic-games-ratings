@@ -629,35 +629,35 @@
 | 620 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
 | 620 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
 | 620 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.42 | 
+| 620 | [Hell is Others](games/h/hell_is_others.md) | 4.42 | 
 | 620 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 
-| 631 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
-| 631 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 631 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 631 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 631 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
-| 631 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
-| 631 | [Good Company](games/g/good_company.md) | 4.41 | 
-| 631 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
-| 631 | [Tacoma](games/t/tacoma.md) | 4.41 | 
-| 631 | [ELEX](games/e/elex.md) | 4.41 | 
-| 631 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 631 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 631 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 
-| 631 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 645 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 645 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 645 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
-| 645 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 645 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 645 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 645 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 645 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
-| 645 | [Hell is Others](games/h/hell_is_others.md) | 4.40 | 
-| 645 | [Knockout City™](games/k/knockout_city™.md) | 4.40 | 
-| 645 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
-| 645 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
-| 645 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
-| 645 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
+| 632 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
+| 632 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 632 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
+| 632 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
+| 632 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
+| 632 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
+| 632 | [Good Company](games/g/good_company.md) | 4.41 | 
+| 632 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
+| 632 | [Tacoma](games/t/tacoma.md) | 4.41 | 
+| 632 | [ELEX](games/e/elex.md) | 4.41 | 
+| 632 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 632 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
+| 632 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 
+| 632 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 646 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 646 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 646 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.40 | 
+| 646 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 646 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 646 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 646 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
+| 646 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
+| 646 | [Knockout City™](games/k/knockout_city™.md) | 4.40 | 
+| 646 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 646 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
+| 646 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
+| 646 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 659 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 659 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 659 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
