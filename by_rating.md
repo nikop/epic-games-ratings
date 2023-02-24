@@ -798,10 +798,10 @@
 | 795 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 795 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 795 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
-| 799 | [Space Punks](games/s/space_punks.md) | 4.17 | 
-| 799 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
-| 799 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
-| 799 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.17 | 
+| 795 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.18 | 
+| 800 | [Space Punks](games/s/space_punks.md) | 4.17 | 
+| 800 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
+| 800 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
 | 803 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
 | 803 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 803 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
@@ -844,32 +844,33 @@
 | 842 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 
 | 843 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 844 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
-| 845 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 845 | [Port Royale 4](games/p/port_royale_4.md) | 3.99 | 
-| 847 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
-| 847 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
-| 847 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 
-| 850 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 
-| 851 | [The First Tree](games/t/the_first_tree.md) | 3.96 | 
-| 852 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 853 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.94 | 
-| 853 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
-| 853 | [Conarium](games/c/conarium.md) | 3.94 | 
-| 853 | [Patron](games/p/patron.md) | 3.94 | 
-| 853 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
-| 858 | [Warface](games/w/warface.md) | 3.92 | 
-| 859 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 859 | [Ironcast](games/i/ironcast.md) | 3.91 | 
-| 859 | [Blood of Steel](games/b/blood_of_steel.md) | 3.91 | 
-| 859 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
-| 863 | [Banished](games/b/banished.md) | 3.90 | 
-| 864 | [Chimeraland](games/c/chimeraland.md) | 3.87 | 
-| 865 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 865 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.86 | 
-| 867 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
-| 868 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 868 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
-| 870 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
-| 871 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
-| 872 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
-| 873 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
+| 844 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.00 | 
+| 846 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
+| 846 | [Port Royale 4](games/p/port_royale_4.md) | 3.99 | 
+| 848 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
+| 848 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
+| 848 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 
+| 851 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 
+| 852 | [The First Tree](games/t/the_first_tree.md) | 3.96 | 
+| 853 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
+| 854 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.94 | 
+| 854 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
+| 854 | [Conarium](games/c/conarium.md) | 3.94 | 
+| 854 | [Patron](games/p/patron.md) | 3.94 | 
+| 854 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
+| 859 | [Warface](games/w/warface.md) | 3.92 | 
+| 860 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 860 | [Ironcast](games/i/ironcast.md) | 3.91 | 
+| 860 | [Blood of Steel](games/b/blood_of_steel.md) | 3.91 | 
+| 860 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
+| 864 | [Banished](games/b/banished.md) | 3.90 | 
+| 865 | [Chimeraland](games/c/chimeraland.md) | 3.87 | 
+| 866 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
+| 866 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.86 | 
+| 868 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
+| 869 | [Saints Row](games/s/saints_row.md) | 3.78 | 
+| 869 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
+| 871 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
+| 872 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
+| 873 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
+| 874 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
