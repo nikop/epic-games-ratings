@@ -791,22 +791,22 @@
 | 789 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 789 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 789 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 789 | [Flatout](games/f/flatout.md) | 4.19 | 
 | 789 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 789 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
-| 794 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 794 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 794 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
-| 794 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
-| 798 | [Space Punks](games/s/space_punks.md) | 4.17 | 
-| 798 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
-| 798 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
-| 798 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.17 | 
-| 802 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
-| 802 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 802 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
-| 802 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
-| 802 | [Flatout](games/f/flatout.md) | 4.16 | 
-| 802 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
+| 795 | [Windbound](games/w/windbound.md) | 4.18 | 
+| 795 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 795 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
+| 795 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 
+| 799 | [Space Punks](games/s/space_punks.md) | 4.17 | 
+| 799 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
+| 799 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
+| 799 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.17 | 
+| 803 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
+| 803 | [Family Man](games/f/family_man.md) | 4.16 | 
+| 803 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 803 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
+| 803 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
 | 808 | [Pine](games/p/pine.md) | 4.15 | 
 | 808 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 808 | [Relicta](games/r/relicta.md) | 4.15 | 
