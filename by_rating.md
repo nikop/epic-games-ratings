@@ -218,6 +218,7 @@
 | 214 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 214 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 214 | [Days Gone](games/d/days_gone.md) | 4.69 | 
+| 214 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 214 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 214 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 214 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
@@ -231,24 +232,23 @@
 | 214 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.69 | 
 | 214 | [High On Life](games/h/high_on_life.md) | 4.69 | 
 | 214 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
-| 232 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
-| 232 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 232 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 232 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 232 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 232 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 232 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 
-| 232 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
-| 232 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 232 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 232 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 232 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
-| 232 | [CARRION](games/c/carrion.md) | 4.68 | 
-| 232 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 
-| 232 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
-| 232 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
-| 232 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
-| 232 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
+| 233 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
+| 233 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 233 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 233 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 233 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 233 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 233 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
+| 233 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 233 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
+| 233 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 233 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
+| 233 | [CARRION](games/c/carrion.md) | 4.68 | 
+| 233 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 
+| 233 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
+| 233 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
+| 233 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
+| 233 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 250 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 250 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 250 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
@@ -866,7 +866,7 @@
 | 864 | [Banished](games/b/banished.md) | 3.90 | 
 | 865 | [Chimeraland](games/c/chimeraland.md) | 3.87 | 
 | 866 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 867 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.85 | 
+| 866 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.86 | 
 | 868 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
 | 869 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 869 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 

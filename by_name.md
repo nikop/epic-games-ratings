@@ -210,7 +210,7 @@
 | 208 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 209 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 210 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
-| 211 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 
+| 211 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 212 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 213 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 214 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
@@ -738,7 +738,7 @@
 | 736 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 737 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 738 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 739 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.85 | 
+| 739 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.86 | 
 | 740 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 741 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 742 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
