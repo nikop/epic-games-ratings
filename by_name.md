@@ -356,7 +356,7 @@
 | 354 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
 | 355 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
 | 356 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 357 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
+| 357 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
 | 358 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 359 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 360 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 

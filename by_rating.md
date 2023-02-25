@@ -540,22 +540,22 @@
 | 533 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
 | 533 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 533 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 533 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
 | 533 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 533 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 533 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 533 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 533 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 533 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
-| 547 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 547 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 547 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
-| 547 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
-| 547 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
-| 547 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 
-| 547 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
-| 547 | [Chorus](games/c/chorus.md) | 4.48 | 
-| 547 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.48 | 
-| 547 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
+| 548 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 548 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 548 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
+| 548 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
+| 548 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 
+| 548 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
+| 548 | [Chorus](games/c/chorus.md) | 4.48 | 
+| 548 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.48 | 
+| 548 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
 | 557 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 557 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 557 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
