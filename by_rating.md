@@ -346,7 +346,6 @@
 | 340 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
 | 340 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
 | 340 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
-| 340 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 340 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 340 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 340 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
@@ -363,21 +362,22 @@
 | 340 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
 | 340 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 340 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.61 | 
-| 364 | [Control](games/c/control.md) | 4.60 | 
-| 364 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
-| 364 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
-| 364 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 364 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 364 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
-| 364 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
-| 364 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 364 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 364 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
-| 364 | [DOOM 3](games/d/doom_3.md) | 4.60 | 
-| 364 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 364 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 364 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.60 | 
-| 364 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
+| 363 | [Control](games/c/control.md) | 4.60 | 
+| 363 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
+| 363 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
+| 363 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 363 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
+| 363 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
+| 363 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
+| 363 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
+| 363 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 363 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 363 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
+| 363 | [DOOM 3](games/d/doom_3.md) | 4.60 | 
+| 363 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 363 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
+| 363 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.60 | 
+| 363 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 379 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 379 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 379 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
@@ -684,16 +684,16 @@
 | 675 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
 | 675 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 675 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 675 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 
-| 686 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 686 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
-| 686 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 686 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 686 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
-| 686 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 686 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
-| 686 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 686 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
+| 685 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 685 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
+| 685 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 685 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 685 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
+| 685 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 685 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
+| 685 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
+| 685 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
+| 685 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
 | 695 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
 | 695 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 695 | [Among Trees](games/a/among_trees.md) | 4.35 | 
