@@ -431,26 +431,26 @@
 | 413 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 413 | [Everything](games/e/everything.md) | 4.57 | 
 | 413 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
-| 432 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 432 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 432 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
-| 432 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 432 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
-| 432 | [Hue](games/h/hue.md) | 4.56 | 
-| 432 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 432 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
-| 432 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 432 | [Minit](games/m/minit.md) | 4.56 | 
-| 432 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
-| 432 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
-| 432 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 432 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 432 | [Observation](games/o/observation.md) | 4.56 | 
-| 432 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
-| 432 | [Brawlhalla](games/b/brawlhalla.md) | 4.56 | 
-| 432 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.56 | 
-| 432 | [The Medium](games/t/the_medium.md) | 4.56 | 
-| 432 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
+| 413 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
+| 433 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 433 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 433 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
+| 433 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 433 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
+| 433 | [Hue](games/h/hue.md) | 4.56 | 
+| 433 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 433 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
+| 433 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 433 | [Minit](games/m/minit.md) | 4.56 | 
+| 433 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 433 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
+| 433 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 433 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 433 | [Observation](games/o/observation.md) | 4.56 | 
+| 433 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
+| 433 | [Brawlhalla](games/b/brawlhalla.md) | 4.56 | 
+| 433 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.56 | 
+| 433 | [The Medium](games/t/the_medium.md) | 4.56 | 
 | 452 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 452 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 452 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -733,22 +733,22 @@
 | 727 | [House Party](games/h/house_party.md) | 4.30 | 
 | 727 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
 | 727 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
-| 734 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 734 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 734 | [The Fall](games/t/the_fall.md) | 4.29 | 
-| 734 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
-| 734 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
-| 734 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
-| 734 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
-| 734 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
-| 734 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 743 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 743 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
-| 743 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 743 | [Dark Light](games/d/dark_light.md) | 4.28 | 
-| 747 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 747 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
-| 747 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
+| 727 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 
+| 735 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
+| 735 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 735 | [The Fall](games/t/the_fall.md) | 4.29 | 
+| 735 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
+| 735 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
+| 735 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
+| 735 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
+| 735 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 735 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
+| 744 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 744 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 744 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 744 | [Dark Light](games/d/dark_light.md) | 4.28 | 
+| 748 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
+| 748 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 750 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 750 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
 | 750 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
@@ -866,7 +866,7 @@
 | 864 | [Banished](games/b/banished.md) | 3.90 | 
 | 865 | [Chimeraland](games/c/chimeraland.md) | 3.87 | 
 | 866 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 866 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.86 | 
+| 867 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.85 | 
 | 868 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
 | 869 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 869 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 

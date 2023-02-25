@@ -416,7 +416,7 @@
 | 414 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 415 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 416 | [Limbo](games/l/limbo.md) | 4.62 | 
-| 417 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.27 | 
+| 417 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 
 | 418 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
 | 419 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 420 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
@@ -738,9 +738,9 @@
 | 736 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 737 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 738 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 739 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.86 | 
+| 739 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.85 | 
 | 740 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 741 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
+| 741 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 742 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 743 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 744 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
