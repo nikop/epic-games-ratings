@@ -232,7 +232,7 @@
 | 230 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.21 | 
 | 231 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 232 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
-| 233 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 233 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 234 | [Faeria](games/f/faeria.md) | 4.44 | 
 | 235 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 236 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
@@ -739,9 +739,9 @@
 | 737 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 738 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 739 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 740 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.85 | 
+| 740 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.84 | 
 | 741 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 742 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
+| 742 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 743 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 744 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 745 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
