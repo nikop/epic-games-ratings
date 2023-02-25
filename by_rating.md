@@ -429,28 +429,28 @@
 | 414 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 414 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
 | 414 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
-| 414 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
 | 414 | [Everything](games/e/everything.md) | 4.57 | 
 | 414 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
-| 433 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 433 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 433 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
-| 433 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 433 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
-| 433 | [Hue](games/h/hue.md) | 4.56 | 
-| 433 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 433 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
-| 433 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 433 | [Minit](games/m/minit.md) | 4.56 | 
-| 433 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
-| 433 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
-| 433 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 433 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 433 | [Observation](games/o/observation.md) | 4.56 | 
-| 433 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
-| 433 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.56 | 
-| 433 | [The Medium](games/t/the_medium.md) | 4.56 | 
-| 433 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
+| 432 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 432 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 432 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
+| 432 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 432 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
+| 432 | [Hue](games/h/hue.md) | 4.56 | 
+| 432 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 432 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
+| 432 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 432 | [Minit](games/m/minit.md) | 4.56 | 
+| 432 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 432 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
+| 432 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 432 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 432 | [Observation](games/o/observation.md) | 4.56 | 
+| 432 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
+| 432 | [Brawlhalla](games/b/brawlhalla.md) | 4.56 | 
+| 432 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.56 | 
+| 432 | [The Medium](games/t/the_medium.md) | 4.56 | 
+| 432 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 452 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 452 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 452 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -683,18 +683,18 @@
 | 675 | [Encased](games/e/encased.md) | 4.37 | 
 | 675 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
 | 675 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 675 | [Warpips](games/w/warpips.md) | 4.37 | 
 | 675 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 686 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 686 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
-| 686 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 686 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 686 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
-| 686 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 686 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
-| 686 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 686 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
-| 686 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
+| 685 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 685 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
+| 685 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 685 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 685 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
+| 685 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 685 | [Warpips](games/w/warpips.md) | 4.36 | 
+| 685 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
+| 685 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
+| 685 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
+| 685 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
 | 696 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
 | 696 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 696 | [Among Trees](games/a/among_trees.md) | 4.35 | 
