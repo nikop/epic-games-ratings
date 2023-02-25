@@ -91,18 +91,18 @@
 | 80 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 80 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 80 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
+| 80 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.80 | 
 | 80 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
 | 80 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.80 | 
-| 94 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 94 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
-| 94 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 94 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 94 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 94 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 94 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
-| 94 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 94 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
-| 94 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
+| 95 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 95 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
+| 95 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 95 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
+| 95 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 95 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 95 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
+| 95 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 95 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
 | 104 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 104 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
 | 104 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
