@@ -166,7 +166,7 @@
 | 164 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 165 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
 | 166 | [Darkwood](games/d/darkwood.md) | 4.61 | 
-| 167 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
+| 167 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.43 | 
 | 168 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 169 | [Days Gone](games/d/days_gone.md) | 4.69 | 
 | 170 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
@@ -403,7 +403,7 @@
 | 401 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 402 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
 | 403 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 404 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
+| 404 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 405 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 406 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 407 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
@@ -838,7 +838,7 @@
 | 836 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
 | 837 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 838 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 839 | [Warpips](games/w/warpips.md) | 4.35 | 
+| 839 | [Warpips](games/w/warpips.md) | 4.36 | 
 | 840 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 841 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 842 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
