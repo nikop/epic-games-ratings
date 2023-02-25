@@ -594,21 +594,21 @@
 | 581 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
 | 581 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.45 | 
 | 581 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.45 | 
-| 595 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
-| 595 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 595 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 595 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 595 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 595 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
-| 595 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
-| 595 | [Faeria](games/f/faeria.md) | 4.44 | 
-| 595 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 595 | [Far Cry](games/f/far_cry.md) | 4.44 | 
-| 595 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
-| 595 | [Predecessor](games/p/predecessor.md) | 4.44 | 
-| 595 | [Redout 2](games/r/redout_2.md) | 4.44 | 
-| 595 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.44 | 
-| 595 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 
+| 581 | [Predecessor](games/p/predecessor.md) | 4.45 | 
+| 596 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
+| 596 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 596 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 596 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 596 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 596 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
+| 596 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 596 | [Faeria](games/f/faeria.md) | 4.44 | 
+| 596 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 596 | [Far Cry](games/f/far_cry.md) | 4.44 | 
+| 596 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
+| 596 | [Redout 2](games/r/redout_2.md) | 4.44 | 
+| 596 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.44 | 
+| 596 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 
 | 610 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 610 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.43 | 
 | 610 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
@@ -794,11 +794,11 @@
 | 789 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 
 | 789 | [Flatout](games/f/flatout.md) | 4.19 | 
 | 789 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
+| 789 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.19 | 
 | 789 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
-| 796 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 796 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 796 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
-| 796 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.18 | 
+| 797 | [Windbound](games/w/windbound.md) | 4.18 | 
+| 797 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 797 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 800 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 800 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
 | 800 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
@@ -864,9 +864,9 @@
 | 861 | [Blood of Steel](games/b/blood_of_steel.md) | 3.91 | 
 | 861 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
 | 864 | [Banished](games/b/banished.md) | 3.90 | 
+| 865 | [Chimeraland](games/c/chimeraland.md) | 3.89 | 
 | 865 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 3.89 | 
-| 866 | [Chimeraland](games/c/chimeraland.md) | 3.87 | 
-| 866 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.87 | 
+| 867 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.87 | 
 | 868 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 869 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
 | 870 | [Saints Row](games/s/saints_row.md) | 3.78 | 

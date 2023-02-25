@@ -118,7 +118,7 @@
 | 116 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 117 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
 | 118 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
-| 119 | [Chimeraland](games/c/chimeraland.md) | 3.87 | 
+| 119 | [Chimeraland](games/c/chimeraland.md) | 3.89 | 
 | 120 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 121 | [Chorus](games/c/chorus.md) | 4.48 | 
 | 122 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
@@ -534,7 +534,7 @@
 | 532 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
 | 533 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 534 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 535 | [Predecessor](games/p/predecessor.md) | 4.44 | 
+| 535 | [Predecessor](games/p/predecessor.md) | 4.45 | 
 | 536 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 537 | [Prey](games/p/prey.md) | 4.62 | 
 | 538 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -553,7 +553,7 @@
 | 551 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 552 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 553 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
-| 554 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.18 | 
+| 554 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.19 | 
 | 555 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 556 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 557 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
