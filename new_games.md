@@ -9,4 +9,3 @@
 | 7 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 8 | [Dead Space](games/d/dead_space.md) | 4.72 | 
 | 9 | [Hell is Others](games/h/hell_is_others.md) | 4.43 | 
-| 10 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.88 | 

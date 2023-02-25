@@ -1,10 +1,10 @@
 {
   "ID": "1b5e25ef034f497fbea17e9d3af3d7ba",
   "Name": "Trigon: Space Story",
-  "Rating": 4.24,
+  "Rating": 4.25,
   "NumberOfRatings": 38,
   "FirstSeen": "2022-07-22T20:18:03.1653519+00:00",
-  "LastChanged": "2022-12-27T15:57:00.1868779+00:00",
+  "LastChanged": "2023-02-25T02:12:56.6564607+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:03.1653522+00:00",
@@ -114,6 +114,11 @@
     {
       "Time": "2022-12-27T15:57:00.186878+00:00",
       "Rating": 4.24,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-25T02:12:56.656461+00:00",
+      "Rating": 4.25,
       "NumberOfRatings": null
     }
   ],

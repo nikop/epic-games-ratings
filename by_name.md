@@ -132,7 +132,7 @@
 | 130 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 131 | [Conarium](games/c/conarium.md) | 3.94 | 
 | 132 | [Control](games/c/control.md) | 4.60 | 
-| 133 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 
+| 133 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
 | 134 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
 | 135 | [Core](games/c/core.md) | 4.37 | 
 | 136 | [Coromon](games/c/coromon.md) | 4.66 | 
@@ -194,7 +194,7 @@
 | 192 | [Diabotical](games/d/diabotical.md) | 4.76 | 
 | 193 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
 | 194 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 195 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.50 | 
+| 195 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
 | 196 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 197 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 198 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
@@ -213,7 +213,7 @@
 | 211 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 
 | 212 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 213 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 214 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.70 | 
+| 214 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
 | 215 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 216 | [ELEX](games/e/elex.md) | 4.41 | 
 | 217 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
@@ -236,7 +236,7 @@
 | 234 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 235 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 236 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 237 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
+| 237 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
 | 238 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
 | 239 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 240 | [Fangs](games/f/fangs.md) | 4.09 | 
@@ -262,7 +262,7 @@
 | 260 | [Filament](games/f/filament.md) | 4.32 | 
 | 261 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 262 | [Firework](games/f/firework.md) | 4.89 | 
-| 263 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
+| 263 | [First Class Trouble](games/f/first_class_trouble.md) | 4.53 | 
 | 264 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 265 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
 | 266 | [Flatout](games/f/flatout.md) | 4.19 | 
@@ -364,7 +364,7 @@
 | 362 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 363 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 364 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
-| 365 | [Ironcast](games/i/ironcast.md) | 3.91 | 
+| 365 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 366 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 367 | [IXION](games/i/ixion.md) | 4.52 | 
 | 368 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
@@ -807,7 +807,7 @@
 | 805 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 806 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 807 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
-| 808 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 
+| 808 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
 | 809 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 810 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 811 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
@@ -827,7 +827,7 @@
 | 825 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 826 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 827 | [Verdun](games/v/verdun.md) | 4.53 | 
-| 828 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 
+| 828 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 829 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 830 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
 | 831 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
