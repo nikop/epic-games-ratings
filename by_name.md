@@ -739,7 +739,7 @@
 | 737 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 738 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 739 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 740 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.84 | 
+| 740 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.87 | 
 | 741 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 742 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 743 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
