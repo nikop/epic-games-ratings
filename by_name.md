@@ -149,7 +149,7 @@
 | 147 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 148 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 149 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
-| 150 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 150 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
 | 151 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 152 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 153 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
@@ -448,7 +448,7 @@
 | 446 | [Minit](games/m/minit.md) | 4.56 | 
 | 447 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.94 | 
 | 448 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 449 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 
+| 449 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
 | 450 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 451 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
 | 452 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
@@ -791,7 +791,7 @@
 | 789 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 790 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
 | 791 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
-| 792 | [Townscaper](games/t/townscaper.md) | 4.70 | 
+| 792 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 793 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.33 | 
 | 794 | [Trackmania](games/t/trackmania.md) | 4.66 | 
 | 795 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
