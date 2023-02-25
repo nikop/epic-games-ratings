@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.86 | 
+| 1 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.85 | 
 | 2 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.00 | 
 | 3 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.54 | 
 | 4 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.69 | 
