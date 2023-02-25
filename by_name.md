@@ -241,7 +241,7 @@
 | 239 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
 | 240 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 241 | [Fangs](games/f/fangs.md) | 4.09 | 
-| 242 | [Far Cry](games/f/far_cry.md) | 4.43 | 
+| 242 | [Far Cry](games/f/far_cry.md) | 4.44 | 
 | 243 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
 | 244 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 245 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
