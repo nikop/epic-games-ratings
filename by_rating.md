@@ -322,7 +322,6 @@
 | 311 | [GigaBash](games/g/gigabash.md) | 4.63 | 
 | 311 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 311 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.63 | 
-| 323 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 323 | [Prey](games/p/prey.md) | 4.62 | 
 | 323 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 323 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
@@ -340,29 +339,30 @@
 | 323 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 323 | [NORCO](games/n/norco.md) | 4.62 | 
 | 323 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 341 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
-| 341 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 341 | [Warframe](games/w/warframe.md) | 4.61 | 
-| 341 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
-| 341 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
-| 341 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
-| 341 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 341 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 341 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 341 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 341 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 341 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
-| 341 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 341 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 
-| 341 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 341 | [20XX](games/2/20xx.md) | 4.61 | 
-| 341 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
-| 341 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
-| 341 | [Road 96](games/r/road_96.md) | 4.61 | 
-| 341 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
-| 341 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
-| 341 | [Darkwood](games/d/darkwood.md) | 4.61 | 
-| 341 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.61 | 
+| 340 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
+| 340 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 340 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
+| 340 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 340 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
+| 340 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
+| 340 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
+| 340 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 340 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 340 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 340 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 340 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 340 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 340 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 340 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 
+| 340 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 340 | [20XX](games/2/20xx.md) | 4.61 | 
+| 340 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
+| 340 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
+| 340 | [Road 96](games/r/road_96.md) | 4.61 | 
+| 340 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
+| 340 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
+| 340 | [Darkwood](games/d/darkwood.md) | 4.61 | 
+| 340 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.61 | 
 | 364 | [Control](games/c/control.md) | 4.60 | 
 | 364 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 364 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
