@@ -386,7 +386,7 @@
 | 384 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 385 | [King of Retail](games/k/king_of_retail.md) | 4.74 | 
 | 386 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
-| 387 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 
+| 387 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
 | 388 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
 | 389 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
 | 390 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.75 | 
