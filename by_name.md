@@ -119,7 +119,7 @@
 | 117 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
 | 118 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
 | 119 | [Chimeraland](games/c/chimeraland.md) | 3.87 | 
-| 120 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
+| 120 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 121 | [Chorus](games/c/chorus.md) | 4.48 | 
 | 122 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
 | 123 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
@@ -305,7 +305,7 @@
 | 303 | [Good Company](games/g/good_company.md) | 4.41 | 
 | 304 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
 | 305 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 306 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.00 | 
+| 306 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 3.89 | 
 | 307 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 308 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.54 | 
 | 309 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.71 | 
@@ -537,7 +537,7 @@
 | 535 | [Predecessor](games/p/predecessor.md) | 4.44 | 
 | 536 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 537 | [Prey](games/p/prey.md) | 4.62 | 
-| 538 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
+| 538 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 539 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 
 | 540 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 541 | [Quake](games/q/quake.md) | 4.77 | 
@@ -779,7 +779,7 @@
 | 777 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
 | 778 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
 | 779 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
-| 780 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
+| 780 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 781 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 782 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 783 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
