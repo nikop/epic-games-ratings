@@ -595,20 +595,20 @@
 | 581 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.45 | 
 | 581 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.45 | 
 | 581 | [Predecessor](games/p/predecessor.md) | 4.45 | 
-| 596 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
-| 596 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 596 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 596 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 596 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 596 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
-| 596 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
-| 596 | [Faeria](games/f/faeria.md) | 4.44 | 
-| 596 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 596 | [Far Cry](games/f/far_cry.md) | 4.44 | 
-| 596 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
-| 596 | [Redout 2](games/r/redout_2.md) | 4.44 | 
-| 596 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.44 | 
-| 596 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 
+| 581 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 
+| 597 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
+| 597 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 597 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 597 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 597 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 597 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
+| 597 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 597 | [Faeria](games/f/faeria.md) | 4.44 | 
+| 597 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 597 | [Far Cry](games/f/far_cry.md) | 4.44 | 
+| 597 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
+| 597 | [Redout 2](games/r/redout_2.md) | 4.44 | 
+| 597 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.44 | 
 | 610 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 610 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.43 | 
 | 610 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
@@ -777,25 +777,25 @@
 | 773 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
 | 773 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 773 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.21 | 
-| 773 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.21 | 
 | 773 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 780 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
-| 780 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 780 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 780 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 780 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 780 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 780 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 780 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 780 | [Somerville](games/s/somerville.md) | 4.20 | 
-| 789 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 789 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 789 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 789 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 
-| 789 | [Flatout](games/f/flatout.md) | 4.19 | 
-| 789 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
-| 789 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.19 | 
-| 789 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
+| 779 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
+| 779 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 779 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 779 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 779 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 779 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 779 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 779 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 779 | [Somerville](games/s/somerville.md) | 4.20 | 
+| 788 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 788 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
+| 788 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 788 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 
+| 788 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 
+| 788 | [Flatout](games/f/flatout.md) | 4.19 | 
+| 788 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
+| 788 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.19 | 
+| 788 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
 | 797 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 797 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 797 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 

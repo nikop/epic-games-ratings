@@ -229,7 +229,7 @@
 | 227 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 228 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.88 | 
 | 229 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 230 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.21 | 
+| 230 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 
 | 231 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 232 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
 | 233 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
@@ -865,7 +865,7 @@
 | 863 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.51 | 
 | 864 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 865 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 866 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 
+| 866 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 
 | 867 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 868 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 869 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 

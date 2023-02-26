@@ -1,5 +1,5 @@
 # Eximius: Seize the Frontline
-Rating: 4.21 (-)  (as of 23.09.2022)  
+Rating: 4.19 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -28,3 +28,4 @@ Rating: 4.21 (-)  (as of 23.09.2022)
 | 2023-02-07 | 4.21 | - |
 | 2023-02-09 | 4.20 | - |
 | 2023-02-24 | 4.21 | - |
+| 2023-02-26 | 4.19 | - |
