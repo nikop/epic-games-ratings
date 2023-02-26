@@ -308,7 +308,7 @@
 | 306 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 3.89 | 
 | 307 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 308 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.47 | 
-| 309 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.71 | 
+| 309 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.72 | 
 | 310 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 311 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 312 | [GRIME](games/g/grime.md) | 4.62 | 
@@ -728,7 +728,7 @@
 | 726 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 
 | 727 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 
 | 728 | [The Last Campfire](games/t/the_last_campfire.md) | 4.82 | 
-| 729 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.42 | 
+| 729 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
 | 730 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
 | 731 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
 | 732 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
@@ -807,10 +807,10 @@
 | 805 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
 | 806 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 807 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 808 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 
+| 808 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
 | 809 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
 | 810 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 811 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 811 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
 | 812 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 813 | [TUNIC](games/t/tunic.md) | 4.85 | 
 | 814 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 

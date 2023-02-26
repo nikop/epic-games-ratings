@@ -1,10 +1,10 @@
 {
   "ID": "8d296e80f3ec42a79881f0693f3bded0",
   "Name": "The Last Stand: Aftermath",
-  "Rating": 4.42,
+  "Rating": 4.43,
   "NumberOfRatings": 44,
   "FirstSeen": "2022-07-22T20:28:56.9021792+00:00",
-  "LastChanged": "2023-02-21T15:57:38.3802656+00:00",
+  "LastChanged": "2023-02-26T15:58:13.2681594+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:56.9021794+00:00",
@@ -214,6 +214,11 @@
     {
       "Time": "2023-02-21T15:57:38.3802659+00:00",
       "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-26T15:58:13.2681596+00:00",
+      "Rating": 4.43,
       "NumberOfRatings": null
     }
   ],
