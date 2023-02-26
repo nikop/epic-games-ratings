@@ -339,29 +339,29 @@
 | 322 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 322 | [NORCO](games/n/norco.md) | 4.62 | 
 | 322 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 340 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
-| 340 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 340 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
-| 340 | [Warframe](games/w/warframe.md) | 4.61 | 
-| 340 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
-| 340 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
-| 340 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
-| 340 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 340 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 340 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 340 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 340 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
-| 340 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 340 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 
-| 340 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 340 | [20XX](games/2/20xx.md) | 4.61 | 
-| 340 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
-| 340 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
-| 340 | [Road 96](games/r/road_96.md) | 4.61 | 
-| 340 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
-| 340 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
-| 340 | [Darkwood](games/d/darkwood.md) | 4.61 | 
-| 340 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.61 | 
+| 322 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.62 | 
+| 341 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
+| 341 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 341 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
+| 341 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 341 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
+| 341 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
+| 341 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
+| 341 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 341 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 341 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 341 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 341 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 341 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 341 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 
+| 341 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 341 | [20XX](games/2/20xx.md) | 4.61 | 
+| 341 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
+| 341 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
+| 341 | [Road 96](games/r/road_96.md) | 4.61 | 
+| 341 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
+| 341 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
+| 341 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 363 | [Control](games/c/control.md) | 4.60 | 
 | 363 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 363 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
@@ -630,21 +630,21 @@
 | 623 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
 | 623 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 623 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
+| 623 | [ELEX](games/e/elex.md) | 4.42 | 
 | 623 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
-| 632 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
-| 632 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 632 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 632 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 632 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
-| 632 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
-| 632 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
-| 632 | [Good Company](games/g/good_company.md) | 4.41 | 
-| 632 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
-| 632 | [ELEX](games/e/elex.md) | 4.41 | 
-| 632 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 632 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 632 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 
-| 632 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 633 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
+| 633 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 633 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
+| 633 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
+| 633 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
+| 633 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
+| 633 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
+| 633 | [Good Company](games/g/good_company.md) | 4.41 | 
+| 633 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
+| 633 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 633 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
+| 633 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 
+| 633 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 646 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 646 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 646 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 

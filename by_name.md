@@ -216,7 +216,7 @@
 | 214 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 215 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
 | 216 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 217 | [ELEX](games/e/elex.md) | 4.41 | 
+| 217 | [ELEX](games/e/elex.md) | 4.42 | 
 | 218 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 219 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 220 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
@@ -651,7 +651,7 @@
 | 649 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
 | 650 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 651 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 
-| 652 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.61 | 
+| 652 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.62 | 
 | 653 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
 | 654 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 655 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
