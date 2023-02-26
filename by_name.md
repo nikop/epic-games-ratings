@@ -548,7 +548,7 @@
 | 546 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 547 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
 | 548 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
-| 549 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.30 | 
+| 549 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 550 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 551 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 552 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
