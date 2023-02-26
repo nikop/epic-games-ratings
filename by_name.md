@@ -119,7 +119,7 @@
 | 117 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
 | 118 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
 | 119 | [Chimeraland](games/c/chimeraland.md) | 3.89 | 
-| 120 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 120 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
 | 121 | [Chorus](games/c/chorus.md) | 4.48 | 
 | 122 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
 | 123 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
@@ -211,7 +211,7 @@
 | 209 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 210 | [Duskers](games/d/duskers.md) | 4.31 | 
 | 211 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
-| 212 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
+| 212 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 
 | 213 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 214 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 215 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
@@ -543,7 +543,7 @@
 | 541 | [Quake](games/q/quake.md) | 4.77 | 
 | 542 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 543 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 
-| 544 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 544 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 545 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
 | 546 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 547 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
@@ -739,7 +739,7 @@
 | 737 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 738 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 739 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 740 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.81 | 
+| 740 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.82 | 
 | 741 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 742 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 743 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
