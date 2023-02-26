@@ -164,19 +164,19 @@
 | 155 | [Northgard](games/n/northgard.md) | 4.73 | 
 | 155 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 155 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
+| 155 | [Dead Space](games/d/dead_space.md) | 4.73 | 
 | 155 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 155 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 167 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 167 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
-| 167 | [Timberborn](games/t/timberborn.md) | 4.72 | 
-| 167 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 167 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 167 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
-| 167 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 167 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.72 | 
-| 167 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
-| 167 | [Dead Space](games/d/dead_space.md) | 4.72 | 
-| 167 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.72 | 
+| 168 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 168 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
+| 168 | [Timberborn](games/t/timberborn.md) | 4.72 | 
+| 168 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 168 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 168 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
+| 168 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 168 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.72 | 
+| 168 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
+| 168 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.72 | 
 | 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 178 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 178 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
@@ -220,7 +220,6 @@
 | 215 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 215 | [Days Gone](games/d/days_gone.md) | 4.69 | 
 | 215 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
-| 215 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 215 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 215 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 215 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
@@ -233,23 +232,24 @@
 | 215 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 215 | [High On Life](games/h/high_on_life.md) | 4.69 | 
 | 215 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
-| 234 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
-| 234 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 234 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 234 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 234 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 234 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
-| 234 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 234 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
-| 234 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 234 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 234 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
-| 234 | [CARRION](games/c/carrion.md) | 4.68 | 
-| 234 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 
-| 234 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
-| 234 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
-| 234 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
-| 234 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
+| 233 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
+| 233 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 233 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 233 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 233 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 233 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 
+| 233 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
+| 233 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 233 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
+| 233 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
+| 233 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 233 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
+| 233 | [CARRION](games/c/carrion.md) | 4.68 | 
+| 233 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 
+| 233 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
+| 233 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
+| 233 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
+| 233 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 251 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 251 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 251 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 

@@ -172,7 +172,7 @@
 | 170 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 171 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 172 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
-| 173 | [Dead Space](games/d/dead_space.md) | 4.72 | 
+| 173 | [Dead Space](games/d/dead_space.md) | 4.73 | 
 | 174 | [Death Coming](games/d/death_coming.md) | 4.45 | 
 | 175 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 176 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
@@ -211,7 +211,7 @@
 | 209 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 210 | [Duskers](games/d/duskers.md) | 4.31 | 
 | 211 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
-| 212 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
+| 212 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 
 | 213 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 214 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 215 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
