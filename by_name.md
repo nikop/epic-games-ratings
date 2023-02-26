@@ -135,7 +135,7 @@
 | 133 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
 | 134 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
 | 135 | [Core](games/c/core.md) | 4.37 | 
-| 136 | [Coromon](games/c/coromon.md) | 4.66 | 
+| 136 | [Coromon](games/c/coromon.md) | 4.65 | 
 | 137 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
 | 138 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 139 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
@@ -380,7 +380,7 @@
 | 378 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 379 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 380 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
-| 381 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.80 | 
+| 381 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
 | 382 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 383 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 384 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
@@ -739,9 +739,9 @@
 | 737 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 738 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 739 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 740 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.87 | 
+| 740 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.86 | 
 | 741 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 742 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
+| 742 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 743 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 744 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 745 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
