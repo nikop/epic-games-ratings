@@ -382,6 +382,7 @@
 | 379 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 379 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 379 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 379 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 
 | 379 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 379 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
 | 379 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
@@ -395,25 +396,24 @@
 | 379 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 
 | 379 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 379 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.59 | 
-| 396 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
-| 396 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 396 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 396 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
-| 396 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 396 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 396 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 396 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 
-| 396 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
-| 396 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
-| 396 | [Moving Out](games/m/moving_out.md) | 4.58 | 
-| 396 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 396 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
-| 396 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
-| 396 | [RiME](games/r/rime.md) | 4.58 | 
-| 396 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 396 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
-| 396 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
-| 396 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
+| 397 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
+| 397 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 397 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 397 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
+| 397 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 397 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
+| 397 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 397 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 
+| 397 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
+| 397 | [Moving Out](games/m/moving_out.md) | 4.58 | 
+| 397 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
+| 397 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
+| 397 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
+| 397 | [RiME](games/r/rime.md) | 4.58 | 
+| 397 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
+| 397 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
+| 397 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
+| 397 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
 | 415 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 415 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 415 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
