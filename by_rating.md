@@ -148,35 +148,35 @@
 | 141 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 141 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
 | 141 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 141 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
 | 141 | [Revita](games/r/revita.md) | 4.74 | 
 | 141 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 141 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
 | 141 | [King of Retail](games/k/king_of_retail.md) | 4.74 | 
 | 141 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
 | 141 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 
-| 156 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 156 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 156 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
-| 156 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 156 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 156 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 156 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 156 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
-| 156 | [Northgard](games/n/northgard.md) | 4.73 | 
-| 156 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
-| 156 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
-| 156 | [Outlast](games/o/outlast.md) | 4.73 | 
-| 156 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 169 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 169 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
-| 169 | [Timberborn](games/t/timberborn.md) | 4.72 | 
-| 169 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 169 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 169 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
-| 169 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 169 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
-| 169 | [Dead Space](games/d/dead_space.md) | 4.72 | 
+| 155 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 155 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 155 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
+| 155 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 155 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 155 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 155 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 155 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
+| 155 | [Northgard](games/n/northgard.md) | 4.73 | 
+| 155 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
+| 155 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
+| 155 | [Outlast](games/o/outlast.md) | 4.73 | 
+| 155 | [Suzerain](games/s/suzerain.md) | 4.73 | 
+| 168 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 168 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
+| 168 | [Timberborn](games/t/timberborn.md) | 4.72 | 
+| 168 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 168 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 168 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
+| 168 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 168 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.72 | 
+| 168 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
+| 168 | [Dead Space](games/d/dead_space.md) | 4.72 | 
 | 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 178 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 178 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 

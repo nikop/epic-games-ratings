@@ -251,7 +251,7 @@
 | 249 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
 | 250 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
 | 251 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
-| 252 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.74 | 
+| 252 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.72 | 
 | 253 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 
 | 254 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 255 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
