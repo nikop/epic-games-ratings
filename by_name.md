@@ -307,7 +307,7 @@
 | 305 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 306 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 3.89 | 
 | 307 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 308 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.46 | 
+| 308 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.47 | 
 | 309 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.71 | 
 | 310 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 311 | [Griftlands](games/g/griftlands.md) | 4.81 | 
@@ -426,7 +426,7 @@
 | 424 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.56 | 
 | 425 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 426 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 427 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 427 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
 | 428 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 429 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 430 | [Mago](games/m/mago.md) | 4.90 | 
@@ -560,7 +560,7 @@
 | 558 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 559 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
 | 560 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 561 | [Returnal™](games/r/returnal™.md) | 4.81 | 
+| 561 | [Returnal™](games/r/returnal™.md) | 4.71 | 
 | 562 | [Revita](games/r/revita.md) | 4.74 | 
 | 563 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 564 | [RiME](games/r/rime.md) | 4.58 | 
@@ -739,7 +739,7 @@
 | 737 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 738 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 739 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 740 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.86 | 
+| 740 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.81 | 
 | 741 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 742 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 743 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
