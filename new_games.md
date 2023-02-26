@@ -1,6 +1,6 @@
 |  #  | Name | Rating | 
 | --- | ---- | ------ | 
-| 1 | [Duskers](games/d/duskers.md) | 4.11 | 
+| 1 | [Duskers](games/d/duskers.md) | 4.31 | 
 | 2 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.86 | 
 | 3 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 3.89 | 
 | 4 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.46 | 

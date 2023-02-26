@@ -209,7 +209,7 @@
 | 207 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 208 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 209 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 210 | [Duskers](games/d/duskers.md) | 4.11 | 
+| 210 | [Duskers](games/d/duskers.md) | 4.31 | 
 | 211 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 212 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 213 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
@@ -746,7 +746,7 @@
 | 744 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 745 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 746 | [The Surge](games/t/the_surge.md) | 4.46 | 
-| 747 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 
+| 747 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
 | 748 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 749 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
 | 750 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
