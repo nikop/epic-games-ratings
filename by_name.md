@@ -211,7 +211,7 @@
 | 209 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 210 | [Duskers](games/d/duskers.md) | 4.31 | 
 | 211 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
-| 212 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 
+| 212 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 213 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 214 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 215 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
@@ -741,7 +741,7 @@
 | 739 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 740 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.81 | 
 | 741 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 742 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
+| 742 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 743 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 744 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 745 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
@@ -779,7 +779,7 @@
 | 777 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
 | 778 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
 | 779 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
-| 780 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
+| 780 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 781 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 782 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 783 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 

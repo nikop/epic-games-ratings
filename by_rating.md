@@ -219,6 +219,7 @@
 | 215 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 215 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 215 | [Days Gone](games/d/days_gone.md) | 4.69 | 
+| 215 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 215 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 215 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 215 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
@@ -231,25 +232,25 @@
 | 215 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 215 | [High On Life](games/h/high_on_life.md) | 4.69 | 
 | 215 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
-| 232 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
-| 232 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 232 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 232 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 232 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 232 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 232 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 
-| 232 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
-| 232 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 232 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
-| 232 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 232 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 232 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
-| 232 | [CARRION](games/c/carrion.md) | 4.68 | 
-| 232 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 
-| 232 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
-| 232 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
-| 232 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
-| 232 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
+| 233 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
+| 233 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 233 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 233 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 233 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 233 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 233 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
+| 233 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 233 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
+| 233 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
+| 233 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 233 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
+| 233 | [CARRION](games/c/carrion.md) | 4.68 | 
+| 233 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 
+| 233 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
+| 233 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
+| 233 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
+| 233 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
+| 251 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 251 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 251 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 251 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
@@ -267,22 +268,21 @@
 | 251 | [Card Shark](games/c/card_shark.md) | 4.67 | 
 | 251 | [GNOG](games/g/gnog.md) | 4.67 | 
 | 251 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
-| 268 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
-| 268 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 268 | [Trackmania](games/t/trackmania.md) | 4.66 | 
-| 268 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 268 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 268 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
-| 268 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 268 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
-| 268 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 268 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
-| 268 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
-| 268 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
-| 268 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
-| 268 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 268 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 268 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
+| 269 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 269 | [Trackmania](games/t/trackmania.md) | 4.66 | 
+| 269 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 269 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 269 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
+| 269 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 269 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
+| 269 | [Death's Door](games/d/death's_door.md) | 4.66 | 
+| 269 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
+| 269 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
+| 269 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
+| 269 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
+| 269 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 269 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 269 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
 | 284 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 284 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 284 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
@@ -431,26 +431,26 @@
 | 415 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 415 | [Everything](games/e/everything.md) | 4.57 | 
 | 415 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
-| 415 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
-| 433 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 433 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 433 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
-| 433 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
-| 433 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
-| 433 | [Hue](games/h/hue.md) | 4.56 | 
-| 433 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 433 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
-| 433 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 433 | [Minit](games/m/minit.md) | 4.56 | 
-| 433 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
-| 433 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
-| 433 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 433 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 433 | [Observation](games/o/observation.md) | 4.56 | 
-| 433 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
-| 433 | [Brawlhalla](games/b/brawlhalla.md) | 4.56 | 
-| 433 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.56 | 
-| 433 | [The Medium](games/t/the_medium.md) | 4.56 | 
+| 432 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 432 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 432 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
+| 432 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 432 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
+| 432 | [Hue](games/h/hue.md) | 4.56 | 
+| 432 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 432 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
+| 432 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 432 | [Minit](games/m/minit.md) | 4.56 | 
+| 432 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 432 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
+| 432 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 432 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 432 | [Observation](games/o/observation.md) | 4.56 | 
+| 432 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
+| 432 | [Brawlhalla](games/b/brawlhalla.md) | 4.56 | 
+| 432 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.56 | 
+| 432 | [The Medium](games/t/the_medium.md) | 4.56 | 
+| 432 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 452 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 452 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 452 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
