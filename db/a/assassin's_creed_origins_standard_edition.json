@@ -1,10 +1,10 @@
 {
   "ID": "camellia",
   "Name": "Assassin\u0027s Creed Origins Standard Edition",
-  "Rating": 4.68,
+  "Rating": 4.69,
   "NumberOfRatings": 3843,
   "FirstSeen": "2022-07-22T20:17:42.6567846+00:00",
-  "LastChanged": "2022-10-19T22:01:16.282104+00:00",
+  "LastChanged": "2023-02-26T09:56:56.0389426+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:42.6567849+00:00",
@@ -1839,6 +1839,11 @@
     {
       "Time": "2022-10-19T22:01:16.2821043+00:00",
       "Rating": 4.68,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-26T09:56:56.0389426+00:00",
+      "Rating": 4.69,
       "NumberOfRatings": null
     }
   ],
