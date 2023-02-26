@@ -1,10 +1,10 @@
 {
   "ID": "ac98aa34584648f2b71152e509191c1c",
   "Name": "Dakar Desert Rally",
-  "Rating": 4.24,
+  "Rating": 4.23,
   "FirstSeen": "2022-11-16T11:57:00.7702383+00:00",
   "FirstSeenRating": "2023-01-07T16:56:50.871604+00:00",
-  "LastChanged": "2023-02-22T16:56:59.071268+00:00",
+  "LastChanged": "2023-02-26T16:56:57.054882+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-07T16:56:50.8716043+00:00",
@@ -104,6 +104,11 @@
     {
       "Time": "2023-02-22T16:56:59.0712681+00:00",
       "Rating": 4.24,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-26T16:56:57.0548823+00:00",
+      "Rating": 4.23,
       "NumberOfRatings": null
     }
   ],

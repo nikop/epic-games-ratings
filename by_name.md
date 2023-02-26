@@ -44,7 +44,7 @@
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
 | 43 | [Ashen](games/a/ashen.md) | 4.35 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
-| 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
+| 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
@@ -154,7 +154,7 @@
 | 152 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 153 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 154 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 155 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.24 | 
+| 155 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.23 | 
 | 156 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
 | 157 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
 | 158 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
@@ -242,7 +242,7 @@
 | 240 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 241 | [Fangs](games/f/fangs.md) | 4.09 | 
 | 242 | [Far Cry](games/f/far_cry.md) | 4.44 | 
-| 243 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
+| 243 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.23 | 
 | 244 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 245 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
 | 246 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
@@ -739,7 +739,7 @@
 | 737 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 738 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 739 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 740 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.82 | 
+| 740 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.81 | 
 | 741 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 742 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 743 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
