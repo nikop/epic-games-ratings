@@ -126,7 +126,7 @@
 | 124 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 125 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
 | 126 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.21 | 
+| 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.22 | 
 | 128 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 129 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 130 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -767,7 +767,7 @@
 | 765 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
 | 766 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 767 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 768 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 768 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 769 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
 | 770 | [Timberborn](games/t/timberborn.md) | 4.72 | 
 | 771 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
