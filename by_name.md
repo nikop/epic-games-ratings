@@ -129,7 +129,7 @@
 | 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.22 | 
 | 128 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 129 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
-| 130 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 130 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 
 | 131 | [Conarium](games/c/conarium.md) | 3.94 | 
 | 132 | [Control](games/c/control.md) | 4.60 | 
 | 133 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
@@ -281,7 +281,7 @@
 | 279 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 280 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
 | 281 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 
-| 282 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 
+| 282 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 
 | 283 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 284 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
 | 285 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
@@ -593,7 +593,7 @@
 | 591 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 592 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
 | 593 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 594 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
+| 594 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 595 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 596 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 
 | 597 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
@@ -768,7 +768,7 @@
 | 766 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
 | 767 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 768 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 769 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 769 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 770 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
 | 771 | [Timberborn](games/t/timberborn.md) | 4.72 | 
 | 772 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
