@@ -29,7 +29,7 @@
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 
-| 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
+| 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
@@ -538,7 +538,7 @@
 | 536 | [Predecessor](games/p/predecessor.md) | 4.44 | 
 | 537 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 538 | [Prey](games/p/prey.md) | 4.62 | 
-| 539 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
+| 539 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 540 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 
 | 541 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 542 | [Quake](games/q/quake.md) | 4.77 | 

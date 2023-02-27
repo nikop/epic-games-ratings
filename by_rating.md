@@ -345,7 +345,6 @@
 | 341 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
 | 341 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 341 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
-| 341 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
 | 341 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
 | 341 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 341 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
@@ -363,21 +362,22 @@
 | 341 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
 | 341 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
 | 341 | [Darkwood](games/d/darkwood.md) | 4.61 | 
-| 364 | [Control](games/c/control.md) | 4.60 | 
-| 364 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
-| 364 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
-| 364 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 364 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 364 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
-| 364 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
-| 364 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 364 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 364 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
-| 364 | [DOOM 3](games/d/doom_3.md) | 4.60 | 
-| 364 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 364 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 364 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.60 | 
-| 364 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
+| 363 | [Control](games/c/control.md) | 4.60 | 
+| 363 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
+| 363 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
+| 363 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 363 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 363 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
+| 363 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
+| 363 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
+| 363 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 363 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 363 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
+| 363 | [DOOM 3](games/d/doom_3.md) | 4.60 | 
+| 363 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 363 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
+| 363 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.60 | 
+| 363 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 379 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 379 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 379 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
@@ -483,25 +483,25 @@
 | 471 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 471 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 471 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
+| 471 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
 | 471 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
 | 471 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 471 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
 | 471 | [First Class Trouble](games/f/first_class_trouble.md) | 4.53 | 
-| 488 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
-| 488 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 488 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 488 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 488 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 488 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 488 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 488 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 488 | [Aztez](games/a/aztez.md) | 4.52 | 
-| 488 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 
-| 488 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 488 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.52 | 
-| 488 | [IXION](games/i/ixion.md) | 4.52 | 
-| 488 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 488 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 489 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
+| 489 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 489 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 489 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 489 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 489 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 489 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 489 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 489 | [Aztez](games/a/aztez.md) | 4.52 | 
+| 489 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 489 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.52 | 
+| 489 | [IXION](games/i/ixion.md) | 4.52 | 
+| 489 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 489 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 503 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 503 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 503 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
