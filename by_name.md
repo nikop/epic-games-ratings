@@ -59,7 +59,7 @@
 | 57 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.55 | 
+| 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
 | 62 | [Aztez](games/a/aztez.md) | 4.52 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
@@ -586,7 +586,7 @@
 | 584 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 585 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 586 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 587 | [Sable](games/s/sable.md) | 4.50 | 
+| 587 | [Sable](games/s/sable.md) | 4.51 | 
 | 588 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
 | 589 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 590 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
