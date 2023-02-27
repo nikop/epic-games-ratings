@@ -322,7 +322,7 @@
 | 320 | [Haven](games/h/haven.md) | 4.75 | 
 | 321 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 322 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 323 | [Hell is Others](games/h/hell_is_others.md) | 4.43 | 
+| 323 | [Hell is Others](games/h/hell_is_others.md) | 4.46 | 
 | 324 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 325 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 
 | 326 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
@@ -554,7 +554,7 @@
 | 552 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 553 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 554 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
-| 555 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.19 | 
+| 555 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.20 | 
 | 556 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 557 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 558 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
