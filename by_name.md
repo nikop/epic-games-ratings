@@ -251,7 +251,7 @@
 | 249 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
 | 250 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
 | 251 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
-| 252 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.72 | 
+| 252 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
 | 253 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 
 | 254 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 255 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
@@ -646,7 +646,7 @@
 | 644 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 645 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 646 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.44 | 
-| 647 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
+| 647 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
 | 648 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 649 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
 | 650 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 

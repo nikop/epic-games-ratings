@@ -163,21 +163,21 @@
 | 154 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 154 | [Northgard](games/n/northgard.md) | 4.73 | 
 | 154 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
+| 154 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
 | 154 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
 | 154 | [Dead Space](games/d/dead_space.md) | 4.73 | 
 | 154 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 154 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 168 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 168 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
-| 168 | [Timberborn](games/t/timberborn.md) | 4.72 | 
-| 168 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 168 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 168 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 168 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
-| 168 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 168 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.72 | 
-| 168 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
-| 168 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.72 | 
+| 169 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 169 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
+| 169 | [Timberborn](games/t/timberborn.md) | 4.72 | 
+| 169 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 169 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 169 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 169 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
+| 169 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 169 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
+| 169 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.72 | 
 | 179 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 179 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 179 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
@@ -645,17 +645,17 @@
 | 633 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 633 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 
 | 633 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 646 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 646 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 646 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 646 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 646 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 646 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
-| 646 | [Duskers](games/d/duskers.md) | 4.40 | 
-| 646 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
-| 646 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
-| 646 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.40 | 
-| 646 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
+| 633 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
+| 647 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 647 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 647 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 647 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 647 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
+| 647 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
+| 647 | [Duskers](games/d/duskers.md) | 4.40 | 
+| 647 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 647 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
+| 647 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 657 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 657 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 657 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
