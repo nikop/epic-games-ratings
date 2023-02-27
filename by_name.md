@@ -47,7 +47,7 @@
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
@@ -639,7 +639,7 @@
 | 637 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 638 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
 | 639 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 640 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.81 | 
+| 640 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.82 | 
 | 641 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
 | 642 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 643 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
@@ -740,7 +740,7 @@
 | 738 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 739 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 740 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 741 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.81 | 
+| 741 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.82 | 
 | 742 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 743 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 744 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
@@ -818,7 +818,7 @@
 | 816 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 817 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 
 | 818 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 819 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.62 | 
+| 819 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 
 | 820 | [UnMetal](games/u/unmetal.md) | 4.51 | 
 | 821 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.48 | 
 | 822 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
