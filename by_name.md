@@ -126,7 +126,7 @@
 | 124 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 125 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
 | 126 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.22 | 
+| 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.21 | 
 | 128 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 129 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 130 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 
@@ -500,7 +500,7 @@
 | 498 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 499 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.60 | 
 | 500 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 501 | [Outlast](games/o/outlast.md) | 4.73 | 
+| 501 | [Outlast](games/o/outlast.md) | 4.74 | 
 | 502 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
 | 503 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 504 | [Outward](games/o/outward.md) | 4.55 | 
@@ -595,7 +595,7 @@
 | 593 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 594 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 595 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
-| 596 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 
+| 596 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.46 | 
 | 597 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 598 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
 | 599 | [Scavengers](games/s/scavengers.md) | 4.18 | 
