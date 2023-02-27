@@ -1,10 +1,10 @@
 {
   "ID": "bd46d4ce259349e5bd8b3ded20274737",
   "Name": "Chivalry 2",
-  "Rating": 4.61,
+  "Rating": 4.62,
   "NumberOfRatings": 18078,
   "FirstSeen": "2022-07-22T20:20:08.5003131+00:00",
-  "LastChanged": "2023-02-27T11:57:30.6153944+00:00",
+  "LastChanged": "2023-02-27T13:57:26.8673054+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:08.5003133+00:00",
@@ -3219,6 +3219,11 @@
     {
       "Time": "2023-02-27T11:57:30.6153946+00:00",
       "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-27T13:57:26.8673056+00:00",
+      "Rating": 4.62,
       "NumberOfRatings": null
     }
   ],
