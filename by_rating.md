@@ -431,26 +431,26 @@
 | 415 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
 | 415 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 415 | [Everything](games/e/everything.md) | 4.57 | 
-| 432 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 432 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 432 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
-| 432 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
-| 432 | [Hue](games/h/hue.md) | 4.56 | 
-| 432 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 432 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
-| 432 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 432 | [Minit](games/m/minit.md) | 4.56 | 
-| 432 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
-| 432 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
-| 432 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 432 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 432 | [Observation](games/o/observation.md) | 4.56 | 
-| 432 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
-| 432 | [Brawlhalla](games/b/brawlhalla.md) | 4.56 | 
-| 432 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.56 | 
-| 432 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.56 | 
-| 432 | [The Medium](games/t/the_medium.md) | 4.56 | 
-| 432 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
+| 415 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
+| 433 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 433 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 433 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
+| 433 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
+| 433 | [Hue](games/h/hue.md) | 4.56 | 
+| 433 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 433 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
+| 433 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 433 | [Minit](games/m/minit.md) | 4.56 | 
+| 433 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 433 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
+| 433 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 433 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 433 | [Observation](games/o/observation.md) | 4.56 | 
+| 433 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
+| 433 | [Brawlhalla](games/b/brawlhalla.md) | 4.56 | 
+| 433 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.56 | 
+| 433 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.56 | 
+| 433 | [The Medium](games/t/the_medium.md) | 4.56 | 
 | 452 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 452 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 452 | [Outward](games/o/outward.md) | 4.55 | 
@@ -564,23 +564,23 @@
 | 556 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
 | 556 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
 | 556 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
+| 556 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.47 | 
 | 556 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.47 | 
 | 556 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
 | 556 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 568 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 568 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 568 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 568 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 568 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
-| 568 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
-| 568 | [The Surge](games/t/the_surge.md) | 4.46 | 
-| 568 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
-| 568 | [RiMS Racing](games/r/rims_racing.md) | 4.46 | 
-| 568 | [Train Valley](games/t/train_valley.md) | 4.46 | 
-| 568 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.46 | 
-| 568 | [Hell is Others](games/h/hell_is_others.md) | 4.46 | 
-| 568 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 568 | [STG Football](games/s/stg_football.md) | 4.46 | 
+| 569 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 569 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 569 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
+| 569 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 569 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
+| 569 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
+| 569 | [The Surge](games/t/the_surge.md) | 4.46 | 
+| 569 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
+| 569 | [RiMS Racing](games/r/rims_racing.md) | 4.46 | 
+| 569 | [Train Valley](games/t/train_valley.md) | 4.46 | 
+| 569 | [Hell is Others](games/h/hell_is_others.md) | 4.46 | 
+| 569 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 569 | [STG Football](games/s/stg_football.md) | 4.46 | 
 | 582 | [SMITE](games/s/smite.md) | 4.45 | 
 | 582 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 582 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 

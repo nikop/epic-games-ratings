@@ -222,7 +222,7 @@
 | 220 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 221 | [Encased](games/e/encased.md) | 4.37 | 
 | 222 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 223 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.46 | 
+| 223 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.47 | 
 | 224 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 225 | [EVE Online](games/e/eve_online.md) | 4.25 | 
 | 226 | [Everything](games/e/everything.md) | 4.57 | 
@@ -742,7 +742,7 @@
 | 740 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 741 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.82 | 
 | 742 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 743 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
+| 743 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 744 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 745 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 746 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
