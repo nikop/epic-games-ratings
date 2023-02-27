@@ -1,7 +1,16 @@
 {
   "ID": "038295c445bb40d1b06545fd75741af1",
   "Name": "Kerbal Space Program 2",
+  "Rating": 4.33,
   "FirstSeen": "2023-02-24T16:58:34.691796+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-02-27T02:15:09.7091148+00:00",
+  "LastChanged": "2023-02-27T02:15:09.7091151+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-02-27T02:15:09.7091153+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
