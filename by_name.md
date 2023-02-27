@@ -324,7 +324,7 @@
 | 322 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 323 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
 | 324 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 325 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 
+| 325 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.44 | 
 | 326 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
 | 327 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 328 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
@@ -435,7 +435,7 @@
 | 433 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 434 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.08 | 
 | 435 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
-| 436 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
+| 436 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.56 | 
 | 437 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 438 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
 | 439 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
@@ -705,7 +705,7 @@
 | 703 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
 | 704 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 705 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
-| 706 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
+| 706 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.20 | 
 | 707 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 708 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 709 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
