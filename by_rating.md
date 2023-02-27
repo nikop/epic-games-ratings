@@ -220,6 +220,7 @@
 | 215 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 215 | [Days Gone](games/d/days_gone.md) | 4.69 | 
 | 215 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
+| 215 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 215 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 215 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 215 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
@@ -232,24 +233,23 @@
 | 215 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 215 | [High On Life](games/h/high_on_life.md) | 4.69 | 
 | 215 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
-| 233 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
-| 233 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 233 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 233 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 233 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 233 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 
-| 233 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
-| 233 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 233 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
-| 233 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 233 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 233 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
-| 233 | [CARRION](games/c/carrion.md) | 4.68 | 
-| 233 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 
-| 233 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
-| 233 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
-| 233 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
-| 233 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
+| 234 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
+| 234 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 234 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 234 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 234 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 234 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
+| 234 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 234 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
+| 234 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
+| 234 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 234 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
+| 234 | [CARRION](games/c/carrion.md) | 4.68 | 
+| 234 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 
+| 234 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
+| 234 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
+| 234 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
+| 234 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 251 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.67 | 
 | 251 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 251 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
@@ -575,41 +575,41 @@
 | 569 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.46 | 
 | 569 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 569 | [The Surge](games/t/the_surge.md) | 4.46 | 
+| 569 | [Far Cry](games/f/far_cry.md) | 4.46 | 
 | 569 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 569 | [RiMS Racing](games/r/rims_racing.md) | 4.46 | 
 | 569 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 569 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 569 | [STG Football](games/s/stg_football.md) | 4.46 | 
-| 581 | [SMITE](games/s/smite.md) | 4.45 | 
-| 581 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 581 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 581 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 581 | [Faeria](games/f/faeria.md) | 4.45 | 
-| 581 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 581 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 581 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 581 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 581 | [Figment](games/f/figment.md) | 4.45 | 
-| 581 | [Death Coming](games/d/death_coming.md) | 4.45 | 
-| 581 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
-| 581 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
-| 581 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.45 | 
-| 581 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.45 | 
-| 581 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 
-| 597 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
-| 597 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 597 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 597 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 597 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 597 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
-| 597 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
-| 597 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
-| 597 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 597 | [Far Cry](games/f/far_cry.md) | 4.44 | 
-| 597 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
-| 597 | [Predecessor](games/p/predecessor.md) | 4.44 | 
-| 597 | [Redout 2](games/r/redout_2.md) | 4.44 | 
-| 597 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.44 | 
+| 582 | [SMITE](games/s/smite.md) | 4.45 | 
+| 582 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 582 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 582 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 582 | [Faeria](games/f/faeria.md) | 4.45 | 
+| 582 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 582 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 582 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 582 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
+| 582 | [Figment](games/f/figment.md) | 4.45 | 
+| 582 | [Death Coming](games/d/death_coming.md) | 4.45 | 
+| 582 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
+| 582 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
+| 582 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.45 | 
+| 582 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.45 | 
+| 582 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 
+| 598 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
+| 598 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 598 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 598 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 598 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 598 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
+| 598 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
+| 598 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 598 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 598 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
+| 598 | [Predecessor](games/p/predecessor.md) | 4.44 | 
+| 598 | [Redout 2](games/r/redout_2.md) | 4.44 | 
+| 598 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.44 | 
 | 611 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 611 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 611 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 

@@ -211,7 +211,7 @@
 | 209 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 210 | [Duskers](games/d/duskers.md) | 4.37 | 
 | 211 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
-| 212 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 
+| 212 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 213 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 214 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 215 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
@@ -241,7 +241,7 @@
 | 239 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
 | 240 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 241 | [Fangs](games/f/fangs.md) | 4.09 | 
-| 242 | [Far Cry](games/f/far_cry.md) | 4.44 | 
+| 242 | [Far Cry](games/f/far_cry.md) | 4.46 | 
 | 243 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.23 | 
 | 244 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 245 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
