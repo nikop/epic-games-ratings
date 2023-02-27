@@ -232,7 +232,7 @@
 | 230 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 
 | 231 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 232 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
-| 233 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
+| 233 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 234 | [Faeria](games/f/faeria.md) | 4.45 | 
 | 235 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 236 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
@@ -305,10 +305,10 @@
 | 303 | [Good Company](games/g/good_company.md) | 4.41 | 
 | 304 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
 | 305 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 306 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 3.86 | 
+| 306 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 3.97 | 
 | 307 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 308 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.52 | 
-| 309 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.72 | 
+| 309 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.71 | 
 | 310 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 311 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 312 | [GRIME](games/g/grime.md) | 4.62 | 
@@ -742,7 +742,7 @@
 | 740 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 741 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.81 | 
 | 742 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 743 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
+| 743 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 744 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 745 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 746 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
