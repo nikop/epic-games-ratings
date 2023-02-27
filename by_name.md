@@ -332,7 +332,7 @@
 | 330 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 331 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 332 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.88 | 
-| 333 | [High On Life](games/h/high_on_life.md) | 4.69 | 
+| 333 | [High On Life](games/h/high_on_life.md) | 4.68 | 
 | 334 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 335 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 336 | [Hob](games/h/hob.md) | 4.57 | 
