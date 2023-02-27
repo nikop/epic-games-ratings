@@ -60,7 +60,6 @@
 | 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 58 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 58 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 58 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 
 | 58 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.82 | 
 | 58 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 58 | [The Last Campfire](games/t/the_last_campfire.md) | 4.82 | 
@@ -68,16 +67,17 @@
 | 58 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.82 | 
 | 58 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
 | 58 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
-| 69 | [Sifu](games/s/sifu.md) | 4.81 | 
-| 69 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 69 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 69 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
-| 69 | [Superliminal](games/s/superliminal.md) | 4.81 | 
-| 69 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
-| 69 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
-| 69 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
-| 69 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
-| 69 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
+| 68 | [Sifu](games/s/sifu.md) | 4.81 | 
+| 68 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 68 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 68 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 68 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
+| 68 | [Superliminal](games/s/superliminal.md) | 4.81 | 
+| 68 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
+| 68 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
+| 68 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
+| 68 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
+| 68 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
 | 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 79 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
@@ -422,6 +422,7 @@
 | 414 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 414 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
 | 414 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
+| 414 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 414 | [Hob](games/h/hob.md) | 4.57 | 
 | 414 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
 | 414 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
@@ -433,24 +434,23 @@
 | 414 | [Everything](games/e/everything.md) | 4.57 | 
 | 414 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.57 | 
 | 414 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
-| 434 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 434 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 434 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
-| 434 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
-| 434 | [Hue](games/h/hue.md) | 4.56 | 
-| 434 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 434 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
-| 434 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 434 | [Minit](games/m/minit.md) | 4.56 | 
-| 434 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
-| 434 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
-| 434 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 434 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 434 | [Observation](games/o/observation.md) | 4.56 | 
-| 434 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
-| 434 | [Brawlhalla](games/b/brawlhalla.md) | 4.56 | 
-| 434 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.56 | 
-| 434 | [The Medium](games/t/the_medium.md) | 4.56 | 
+| 435 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 435 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 435 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
+| 435 | [Hue](games/h/hue.md) | 4.56 | 
+| 435 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 435 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
+| 435 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 435 | [Minit](games/m/minit.md) | 4.56 | 
+| 435 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 435 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
+| 435 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 435 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 435 | [Observation](games/o/observation.md) | 4.56 | 
+| 435 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
+| 435 | [Brawlhalla](games/b/brawlhalla.md) | 4.56 | 
+| 435 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.56 | 
+| 435 | [The Medium](games/t/the_medium.md) | 4.56 | 
 | 452 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 452 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 452 | [Outward](games/o/outward.md) | 4.55 | 
