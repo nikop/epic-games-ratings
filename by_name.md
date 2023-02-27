@@ -119,7 +119,7 @@
 | 117 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
 | 118 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
 | 119 | [Chimeraland](games/c/chimeraland.md) | 3.89 | 
-| 120 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 120 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
 | 121 | [Chorus](games/c/chorus.md) | 4.48 | 
 | 122 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
 | 123 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
@@ -322,7 +322,7 @@
 | 320 | [Haven](games/h/haven.md) | 4.75 | 
 | 321 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 322 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 323 | [Hell is Others](games/h/hell_is_others.md) | 4.46 | 
+| 323 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
 | 324 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 325 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 
 | 326 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
@@ -538,7 +538,7 @@
 | 536 | [Predecessor](games/p/predecessor.md) | 4.44 | 
 | 537 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 538 | [Prey](games/p/prey.md) | 4.62 | 
-| 539 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 539 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
 | 540 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 
 | 541 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 542 | [Quake](games/q/quake.md) | 4.77 | 
