@@ -233,7 +233,7 @@
 | 231 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 232 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
 | 233 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
-| 234 | [Faeria](games/f/faeria.md) | 4.44 | 
+| 234 | [Faeria](games/f/faeria.md) | 4.45 | 
 | 235 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 236 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 237 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
@@ -526,7 +526,7 @@
 | 524 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
 | 525 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 526 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 527 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 
+| 527 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 528 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 529 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 530 | [Pine](games/p/pine.md) | 4.15 | 
