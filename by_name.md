@@ -119,7 +119,7 @@
 | 117 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
 | 118 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
 | 119 | [Chimeraland](games/c/chimeraland.md) | 3.89 | 
-| 120 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
+| 120 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
 | 121 | [Chorus](games/c/chorus.md) | 4.48 | 
 | 122 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
 | 123 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
@@ -232,7 +232,7 @@
 | 230 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 
 | 231 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 232 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
-| 233 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
+| 233 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.57 | 
 | 234 | [Faeria](games/f/faeria.md) | 4.45 | 
 | 235 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 236 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
@@ -357,7 +357,7 @@
 | 355 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
 | 356 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
 | 357 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 358 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
+| 358 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
 | 359 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 360 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 361 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
@@ -740,7 +740,7 @@
 | 738 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 739 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 740 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 741 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.82 | 
+| 741 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.81 | 
 | 742 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 743 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 744 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
