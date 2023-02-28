@@ -149,7 +149,7 @@
 | 147 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 148 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 149 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
-| 150 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
+| 150 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 151 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 152 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 153 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
@@ -444,7 +444,7 @@
 | 442 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 443 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
 | 444 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
-| 445 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
+| 445 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 446 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.47 | 
 | 447 | [Minit](games/m/minit.md) | 4.56 | 
 | 448 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.94 | 

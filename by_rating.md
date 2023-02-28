@@ -525,7 +525,6 @@
 | 516 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 516 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 516 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
-| 516 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
 | 516 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 516 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 516 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 
@@ -533,19 +532,20 @@
 | 516 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.50 | 
 | 516 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 516 | [Tails of Iron](games/t/tails_of_iron.md) | 4.50 | 
-| 534 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 534 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 534 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 534 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 534 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 534 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 534 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 534 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 534 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 534 | [CryoFall](games/c/cryofall.md) | 4.49 | 
-| 534 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 534 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 534 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
+| 533 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 533 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 533 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 533 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 533 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 533 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 533 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 533 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 533 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 533 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 533 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 533 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 533 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 533 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
 | 547 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 547 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 547 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
@@ -636,7 +636,6 @@
 | 632 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
 | 632 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 632 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 632 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
 | 632 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
 | 632 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
 | 632 | [Good Company](games/g/good_company.md) | 4.41 | 
@@ -646,15 +645,16 @@
 | 632 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 
 | 632 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 632 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
-| 647 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 647 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 647 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 647 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 647 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 647 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
-| 647 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
-| 647 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
-| 647 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
+| 646 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 646 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 646 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 646 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 646 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 646 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
+| 646 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
+| 646 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 646 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
+| 646 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 656 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 656 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 656 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
