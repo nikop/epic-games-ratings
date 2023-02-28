@@ -1,14 +1,19 @@
 {
   "ID": "196202dd9d8f453bb50ceea83a759840",
   "Name": "Banished",
-  "Rating": 3.9,
+  "Rating": 3.95,
   "FirstSeen": "2022-09-16T23:33:03.3482571+00:00",
   "FirstSeenRating": "2023-02-04T23:58:43.0680409+00:00",
-  "LastChanged": "2023-02-04T23:58:43.068041+00:00",
+  "LastChanged": "2023-02-28T02:14:37.1690635+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-04T23:58:43.0680411+00:00",
       "Rating": 3.9,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-28T02:14:37.1690638+00:00",
+      "Rating": 3.95,
       "NumberOfRatings": null
     }
   ],

@@ -69,7 +69,7 @@
 | 67 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 
 | 68 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
 | 69 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
-| 70 | [Banished](games/b/banished.md) | 3.90 | 
+| 70 | [Banished](games/b/banished.md) | 3.95 | 
 | 71 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 72 | [Barony](games/b/barony.md) | 4.71 | 
 | 73 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.31 | 
@@ -97,7 +97,7 @@
 | 95 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 96 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 97 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 98 | [Brawlhalla](games/b/brawlhalla.md) | 4.56 | 
+| 98 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
 | 99 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 100 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
 | 101 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -237,7 +237,7 @@
 | 235 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 236 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 237 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 238 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
+| 238 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
 | 239 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
 | 240 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 241 | [Fangs](games/f/fangs.md) | 4.09 | 
@@ -322,7 +322,7 @@
 | 320 | [Haven](games/h/haven.md) | 4.75 | 
 | 321 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 322 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 323 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
+| 323 | [Hell is Others](games/h/hell_is_others.md) | 4.41 | 
 | 324 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 325 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.44 | 
 | 326 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
@@ -381,7 +381,7 @@
 | 379 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 380 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
 | 381 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 382 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.33 | 
+| 382 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.15 | 
 | 383 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 384 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 385 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
@@ -561,7 +561,7 @@
 | 559 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 560 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
 | 561 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 562 | [Returnal™](games/r/returnal™.md) | 4.71 | 
+| 562 | [Returnal™](games/r/returnal™.md) | 4.74 | 
 | 563 | [Revita](games/r/revita.md) | 4.74 | 
 | 564 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 565 | [RiME](games/r/rime.md) | 4.58 | 
