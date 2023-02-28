@@ -126,7 +126,7 @@
 | 124 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 125 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
 | 126 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.21 | 
+| 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.22 | 
 | 128 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 129 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 130 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 
@@ -271,7 +271,7 @@
 | 269 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 270 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 271 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 272 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 
+| 272 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
 | 273 | [Forspoken](games/f/forspoken.md) | 4.06 | 
 | 274 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 275 | [Fortnite](games/f/fortnite.md) | 4.30 | 
@@ -322,7 +322,7 @@
 | 320 | [Haven](games/h/haven.md) | 4.75 | 
 | 321 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 322 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 323 | [Hell is Others](games/h/hell_is_others.md) | 4.41 | 
+| 323 | [Hell is Others](games/h/hell_is_others.md) | 4.42 | 
 | 324 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
 | 325 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.44 | 
 | 326 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
@@ -427,7 +427,7 @@
 | 425 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.56 | 
 | 426 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 427 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 428 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
+| 428 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 429 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 430 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 431 | [Mago](games/m/mago.md) | 4.90 | 
@@ -593,7 +593,7 @@
 | 591 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 592 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
 | 593 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 594 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 594 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
 | 595 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 596 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.46 | 
 | 597 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
@@ -760,7 +760,7 @@
 | 758 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 
 | 759 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
 | 760 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
-| 761 | [The Witness](games/t/the_witness.md) | 4.69 | 
+| 761 | [The Witness](games/t/the_witness.md) | 4.70 | 
 | 762 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 763 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 764 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
