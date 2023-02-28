@@ -426,7 +426,7 @@
 | 424 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
 | 425 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.56 | 
 | 426 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 427 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 427 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
 | 428 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 429 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 430 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
