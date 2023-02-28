@@ -242,7 +242,7 @@
 | 240 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 241 | [Fangs](games/f/fangs.md) | 4.09 | 
 | 242 | [Far Cry](games/f/far_cry.md) | 4.46 | 
-| 243 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.23 | 
+| 243 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 
 | 244 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 245 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
 | 246 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
@@ -451,7 +451,7 @@
 | 449 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 450 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
 | 451 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
-| 452 | [MotoGP™21](games/m/motogp™21.md) | 4.57 | 
+| 452 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 
 | 453 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 454 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 455 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
