@@ -545,7 +545,7 @@
 | 543 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 544 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 
 | 545 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 546 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 546 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
 | 547 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 548 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
 | 549 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
