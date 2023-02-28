@@ -191,29 +191,29 @@
 | 179 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
 | 179 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
 | 179 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
-| 179 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.71 | 
 | 179 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
 | 179 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 195 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
-| 195 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
-| 195 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 195 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
-| 195 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
-| 195 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 195 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
-| 195 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
-| 195 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
-| 195 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 195 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 195 | [Fez](games/f/fez.md) | 4.70 | 
-| 195 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 195 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
-| 195 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 195 | [BLACKTAIL](games/b/blacktail.md) | 4.70 | 
-| 195 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.70 | 
-| 195 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
-| 195 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
-| 195 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
+| 194 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
+| 194 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
+| 194 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 194 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
+| 194 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
+| 194 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 194 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
+| 194 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
+| 194 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
+| 194 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 194 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
+| 194 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
+| 194 | [Fez](games/f/fez.md) | 4.70 | 
+| 194 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 194 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
+| 194 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
+| 194 | [BLACKTAIL](games/b/blacktail.md) | 4.70 | 
+| 194 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.70 | 
+| 194 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
+| 194 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
+| 194 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 215 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 215 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 215 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
@@ -229,8 +229,8 @@
 | 215 | [The Witness](games/t/the_witness.md) | 4.69 | 
 | 215 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 215 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 215 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 
 | 215 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
+| 215 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.69 | 
 | 215 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
 | 233 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
 | 233 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
