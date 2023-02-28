@@ -209,7 +209,7 @@
 | 207 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 208 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 209 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 210 | [Duskers](games/d/duskers.md) | 4.37 | 
+| 210 | [Duskers](games/d/duskers.md) | 4.33 | 
 | 211 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 212 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 213 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
@@ -367,7 +367,7 @@
 | 365 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 366 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 367 | [Isonzo](games/i/isonzo.md) | 4.57 | 
-| 368 | [IXION](games/i/ixion.md) | 4.52 | 
+| 368 | [IXION](games/i/ixion.md) | 4.53 | 
 | 369 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 370 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 371 | [Journey](games/j/journey.md) | 4.80 | 
@@ -581,7 +581,7 @@
 | 579 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
 | 580 | [Roguebook](games/r/roguebook.md) | 4.59 | 
 | 581 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 582 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 
+| 582 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
 | 583 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
 | 584 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 585 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 

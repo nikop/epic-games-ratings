@@ -273,6 +273,7 @@
 | 270 | [Trackmania](games/t/trackmania.md) | 4.66 | 
 | 270 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 270 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 270 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
 | 270 | [Crashlands](games/c/crashlands.md) | 4.66 | 
 | 270 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 270 | [Death's Door](games/d/death's_door.md) | 4.66 | 
@@ -282,23 +283,22 @@
 | 270 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
 | 270 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 270 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
-| 283 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 283 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 283 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 283 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 283 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 
-| 283 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
-| 283 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
-| 283 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 283 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 283 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 283 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
-| 283 | [Coromon](games/c/coromon.md) | 4.65 | 
-| 283 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
-| 283 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
-| 283 | [APE OUT](games/a/ape_out.md) | 4.65 | 
-| 283 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
-| 283 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
+| 284 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 284 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 284 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 284 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 284 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
+| 284 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
+| 284 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 284 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
+| 284 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 284 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
+| 284 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 284 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 284 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
+| 284 | [APE OUT](games/a/ape_out.md) | 4.65 | 
+| 284 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
+| 284 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
 | 300 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 300 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 300 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
@@ -488,20 +488,20 @@
 | 471 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 471 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
 | 471 | [First Class Trouble](games/f/first_class_trouble.md) | 4.53 | 
-| 489 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
-| 489 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 489 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 489 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 489 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 489 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 489 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 489 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 489 | [Aztez](games/a/aztez.md) | 4.52 | 
-| 489 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 489 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.52 | 
-| 489 | [IXION](games/i/ixion.md) | 4.52 | 
-| 489 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 489 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 471 | [IXION](games/i/ixion.md) | 4.53 | 
+| 490 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
+| 490 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 490 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 490 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 490 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 490 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 490 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 490 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 490 | [Aztez](games/a/aztez.md) | 4.52 | 
+| 490 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 490 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.52 | 
+| 490 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 490 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 503 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 503 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 503 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
@@ -683,38 +683,38 @@
 | 675 | [Encased](games/e/encased.md) | 4.37 | 
 | 675 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
 | 675 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 675 | [Duskers](games/d/duskers.md) | 4.37 | 
 | 675 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 686 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 686 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
-| 686 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 686 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 686 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
-| 686 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 686 | [Warpips](games/w/warpips.md) | 4.36 | 
-| 686 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
-| 686 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 686 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
-| 686 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
-| 697 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
-| 697 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
-| 697 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 697 | [Torchlight](games/t/torchlight.md) | 4.35 | 
-| 697 | [Ashen](games/a/ashen.md) | 4.35 | 
-| 697 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 697 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
-| 697 | [ZOMBI](games/z/zombi.md) | 4.35 | 
-| 705 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 705 | [Automachef](games/a/automachef.md) | 4.34 | 
-| 705 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
-| 705 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 705 | [Knockout City™](games/k/knockout_city™.md) | 4.34 | 
-| 710 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.33 | 
-| 710 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
-| 710 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 
-| 710 | [Backbone](games/b/backbone.md) | 4.33 | 
-| 710 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
-| 710 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
+| 685 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 685 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
+| 685 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 685 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 685 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
+| 685 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 685 | [Warpips](games/w/warpips.md) | 4.36 | 
+| 685 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
+| 685 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
+| 685 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
+| 685 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
+| 696 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
+| 696 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
+| 696 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 696 | [Torchlight](games/t/torchlight.md) | 4.35 | 
+| 696 | [Ashen](games/a/ashen.md) | 4.35 | 
+| 696 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
+| 696 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 696 | [ZOMBI](games/z/zombi.md) | 4.35 | 
+| 704 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 704 | [Automachef](games/a/automachef.md) | 4.34 | 
+| 704 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
+| 704 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
+| 704 | [Knockout City™](games/k/knockout_city™.md) | 4.34 | 
+| 709 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.33 | 
+| 709 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 709 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 
+| 709 | [Backbone](games/b/backbone.md) | 4.33 | 
+| 709 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
+| 709 | [Duskers](games/d/duskers.md) | 4.33 | 
+| 709 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
 | 716 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 716 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
 | 716 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
