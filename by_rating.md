@@ -608,29 +608,29 @@
 | 599 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 599 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
 | 599 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
+| 599 | [Hell is Others](games/h/hell_is_others.md) | 4.44 | 
 | 599 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.44 | 
 | 599 | [Predecessor](games/p/predecessor.md) | 4.44 | 
 | 599 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 599 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.44 | 
-| 613 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 613 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 613 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
-| 613 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
-| 613 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
-| 613 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
-| 613 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
-| 613 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
-| 613 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
-| 622 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 622 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 622 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 622 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 622 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 622 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 622 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
-| 622 | [ELEX](games/e/elex.md) | 4.42 | 
-| 622 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
-| 622 | [Hell is Others](games/h/hell_is_others.md) | 4.42 | 
+| 614 | [Sheltered](games/s/sheltered.md) | 4.43 | 
+| 614 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 614 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
+| 614 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
+| 614 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
+| 614 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
+| 614 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
+| 614 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
+| 614 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
+| 623 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 623 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 623 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 623 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 623 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 623 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 623 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
+| 623 | [ELEX](games/e/elex.md) | 4.42 | 
+| 623 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
 | 632 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 632 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 632 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
@@ -774,12 +774,12 @@
 | 771 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
 | 771 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.22 | 
 | 771 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
-| 771 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.22 | 
-| 776 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
-| 776 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
-| 776 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
-| 776 | [Starsand](games/s/starsand.md) | 4.21 | 
-| 776 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
+| 775 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
+| 775 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
+| 775 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
+| 775 | [Starsand](games/s/starsand.md) | 4.21 | 
+| 775 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.21 | 
+| 775 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
 | 781 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
 | 781 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 781 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
@@ -868,8 +868,8 @@
 | 866 | [Blood of Steel](games/b/blood_of_steel.md) | 3.89 | 
 | 866 | [Chimeraland](games/c/chimeraland.md) | 3.89 | 
 | 868 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 869 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.82 | 
-| 870 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
+| 869 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.80 | 
+| 869 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
 | 871 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 871 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 873 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
