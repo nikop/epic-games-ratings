@@ -242,7 +242,7 @@
 | 240 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 241 | [Fangs](games/f/fangs.md) | 4.09 | 
 | 242 | [Far Cry](games/f/far_cry.md) | 4.46 | 
-| 243 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 
+| 243 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.23 | 
 | 244 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 245 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
 | 246 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
@@ -855,7 +855,7 @@
 | 853 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 854 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
 | 855 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
-| 856 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 
+| 856 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 857 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 858 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
 | 859 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
