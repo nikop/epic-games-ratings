@@ -44,7 +44,7 @@
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
 | 43 | [Ashen](games/a/ashen.md) | 4.35 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
-| 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 
+| 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
@@ -400,7 +400,7 @@
 | 398 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
 | 399 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 400 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.45 | 
-| 401 | [Knockout City™](games/k/knockout_city™.md) | 4.34 | 
+| 401 | [Knockout City™](games/k/knockout_city™.md) | 4.37 | 
 | 402 | [Lake](games/l/lake.md) | 4.07 | 
 | 403 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 404 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
@@ -683,7 +683,7 @@
 | 681 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
 | 682 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
 | 683 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 
-| 684 | [Superliminal](games/s/superliminal.md) | 4.81 | 
+| 684 | [Superliminal](games/s/superliminal.md) | 4.80 | 
 | 685 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 686 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
 | 687 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
