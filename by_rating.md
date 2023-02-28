@@ -499,40 +499,40 @@
 | 490 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 490 | [Aztez](games/a/aztez.md) | 4.52 | 
 | 490 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 490 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.52 | 
 | 490 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 490 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
-| 503 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 503 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 503 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 503 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 503 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 503 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 503 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 503 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.51 | 
-| 503 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
-| 503 | [Horace](games/h/horace.md) | 4.51 | 
-| 503 | [Sable](games/s/sable.md) | 4.51 | 
-| 503 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
-| 503 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 503 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 517 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 517 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 517 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 517 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 517 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
-| 517 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
-| 517 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
-| 517 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 517 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 517 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
-| 517 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
-| 517 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 517 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 517 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 
-| 517 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
-| 517 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
-| 517 | [Tails of Iron](games/t/tails_of_iron.md) | 4.50 | 
+| 502 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 502 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 502 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 502 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 502 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 502 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 502 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 502 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.51 | 
+| 502 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
+| 502 | [Horace](games/h/horace.md) | 4.51 | 
+| 502 | [Sable](games/s/sable.md) | 4.51 | 
+| 502 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
+| 502 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 502 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
+| 516 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 516 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 516 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 516 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 516 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
+| 516 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
+| 516 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
+| 516 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 516 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 516 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
+| 516 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
+| 516 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 516 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
+| 516 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 
+| 516 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
+| 516 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.50 | 
+| 516 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
+| 516 | [Tails of Iron](games/t/tails_of_iron.md) | 4.50 | 
 | 534 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 534 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 534 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
