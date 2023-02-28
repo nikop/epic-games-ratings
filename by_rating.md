@@ -683,19 +683,19 @@
 | 675 | [Encased](games/e/encased.md) | 4.37 | 
 | 675 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
 | 675 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 675 | [Warpips](games/w/warpips.md) | 4.37 | 
 | 675 | [Knockout City™](games/k/knockout_city™.md) | 4.37 | 
 | 675 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 686 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 686 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
-| 686 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 686 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 686 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
-| 686 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 686 | [Warpips](games/w/warpips.md) | 4.36 | 
-| 686 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
-| 686 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 686 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
-| 686 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
+| 687 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 687 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
+| 687 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 687 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 687 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
+| 687 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 687 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
+| 687 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
+| 687 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
+| 687 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
 | 697 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
 | 697 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 697 | [Among Trees](games/a/among_trees.md) | 4.35 | 
@@ -708,13 +708,13 @@
 | 705 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 705 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
 | 705 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 709 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.33 | 
-| 709 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
-| 709 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 
-| 709 | [Backbone](games/b/backbone.md) | 4.33 | 
-| 709 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
-| 709 | [Duskers](games/d/duskers.md) | 4.33 | 
-| 709 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
+| 705 | [Duskers](games/d/duskers.md) | 4.34 | 
+| 710 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.33 | 
+| 710 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 710 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 
+| 710 | [Backbone](games/b/backbone.md) | 4.33 | 
+| 710 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
+| 710 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
 | 716 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 716 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
 | 716 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
@@ -865,8 +865,8 @@
 | 862 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 864 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 864 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
-| 866 | [Blood of Steel](games/b/blood_of_steel.md) | 3.89 | 
-| 866 | [Chimeraland](games/c/chimeraland.md) | 3.89 | 
+| 866 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 
+| 867 | [Blood of Steel](games/b/blood_of_steel.md) | 3.89 | 
 | 868 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 869 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.80 | 
 | 869 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
