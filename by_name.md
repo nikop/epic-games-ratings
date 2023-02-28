@@ -92,7 +92,7 @@
 | 90 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 91 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
 | 92 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 93 | [Blood of Steel](games/b/blood_of_steel.md) | 3.91 | 
+| 93 | [Blood of Steel](games/b/blood_of_steel.md) | 3.89 | 
 | 94 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 95 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 96 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -242,7 +242,7 @@
 | 240 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 241 | [Fangs](games/f/fangs.md) | 4.09 | 
 | 242 | [Far Cry](games/f/far_cry.md) | 4.46 | 
-| 243 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.23 | 
+| 243 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 
 | 244 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 245 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
 | 246 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
@@ -770,7 +770,7 @@
 | 768 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 769 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 770 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
-| 771 | [Timberborn](games/t/timberborn.md) | 4.72 | 
+| 771 | [Timberborn](games/t/timberborn.md) | 4.71 | 
 | 772 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
 | 773 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 774 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
