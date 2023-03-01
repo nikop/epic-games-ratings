@@ -92,7 +92,7 @@
 | 90 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 91 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
 | 92 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 93 | [Blood of Steel](games/b/blood_of_steel.md) | 3.89 | 
+| 93 | [Blood of Steel](games/b/blood_of_steel.md) | 3.81 | 
 | 94 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 95 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 96 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -323,7 +323,7 @@
 | 321 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 322 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 323 | [Hell is Others](games/h/hell_is_others.md) | 4.44 | 
-| 324 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 324 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 325 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.44 | 
 | 326 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
 | 327 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
