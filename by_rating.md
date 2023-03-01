@@ -471,25 +471,25 @@
 | 462 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
 | 462 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 462 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 462 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
-| 473 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 473 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 473 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 473 | [Verdun](games/v/verdun.md) | 4.53 | 
-| 473 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
-| 473 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 473 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 473 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 473 | [RUINER](games/r/ruiner.md) | 4.53 | 
-| 473 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 473 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 473 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
-| 473 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 473 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
-| 473 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 473 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
-| 473 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.53 | 
-| 473 | [IXION](games/i/ixion.md) | 4.53 | 
+| 472 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
+| 472 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 472 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 472 | [Verdun](games/v/verdun.md) | 4.53 | 
+| 472 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
+| 472 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
+| 472 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
+| 472 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 472 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 472 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 472 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 472 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
+| 472 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 472 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
+| 472 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 472 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
+| 472 | [First Class Trouble](games/f/first_class_trouble.md) | 4.53 | 
+| 472 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.53 | 
+| 472 | [IXION](games/i/ixion.md) | 4.53 | 
 | 491 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
 | 491 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 491 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
@@ -727,24 +727,24 @@
 | 724 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 724 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
 | 724 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.31 | 
-| 724 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.31 | 
-| 729 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 729 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 729 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 729 | [House Party](games/h/house_party.md) | 4.30 | 
-| 729 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
-| 729 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
-| 729 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 
-| 736 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 736 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
-| 736 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 736 | [The Fall](games/t/the_fall.md) | 4.29 | 
-| 736 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
-| 736 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
-| 736 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
-| 736 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
-| 736 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
-| 736 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
+| 728 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 728 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 728 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
+| 728 | [House Party](games/h/house_party.md) | 4.30 | 
+| 728 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
+| 728 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
+| 728 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 
+| 735 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
+| 735 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 735 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 735 | [The Fall](games/t/the_fall.md) | 4.29 | 
+| 735 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
+| 735 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
+| 735 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
+| 735 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.29 | 
+| 735 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
+| 735 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 735 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
 | 746 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 746 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 746 | [Steelrising](games/s/steelrising.md) | 4.28 | 
@@ -869,9 +869,9 @@
 | 867 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 868 | [Blood of Steel](games/b/blood_of_steel.md) | 3.81 | 
 | 869 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
-| 870 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.79 | 
-| 871 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 871 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
+| 870 | [Saints Row](games/s/saints_row.md) | 3.78 | 
+| 870 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
+| 870 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.78 | 
 | 873 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
 | 874 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 875 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
