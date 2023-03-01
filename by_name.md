@@ -740,7 +740,7 @@
 | 738 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 739 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 740 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 741 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.81 | 
+| 741 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.80 | 
 | 742 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 743 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 744 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
@@ -788,7 +788,7 @@
 | 786 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
 | 787 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 788 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
-| 789 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.67 | 
+| 789 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
 | 790 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 791 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
 | 792 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 

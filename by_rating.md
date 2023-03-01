@@ -256,7 +256,6 @@
 | 251 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
 | 251 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 251 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 251 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.67 | 
 | 251 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
 | 251 | [Overcooked](games/o/overcooked.md) | 4.67 | 
 | 251 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.67 | 
@@ -269,20 +268,21 @@
 | 251 | [Card Shark](games/c/card_shark.md) | 4.67 | 
 | 251 | [GNOG](games/g/gnog.md) | 4.67 | 
 | 251 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
-| 270 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 270 | [Trackmania](games/t/trackmania.md) | 4.66 | 
-| 270 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 270 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 270 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
-| 270 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 270 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
-| 270 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 270 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
-| 270 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
-| 270 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
-| 270 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 270 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 270 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
+| 269 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 269 | [Trackmania](games/t/trackmania.md) | 4.66 | 
+| 269 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 269 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 269 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
+| 269 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
+| 269 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 269 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
+| 269 | [Death's Door](games/d/death's_door.md) | 4.66 | 
+| 269 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
+| 269 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
+| 269 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
+| 269 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 269 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 269 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
 | 284 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 284 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 284 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
@@ -868,8 +868,8 @@
 | 866 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 
 | 867 | [Blood of Steel](games/b/blood_of_steel.md) | 3.89 | 
 | 868 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 869 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.81 | 
-| 870 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
+| 869 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.80 | 
+| 869 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
 | 871 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 871 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 873 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
