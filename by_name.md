@@ -96,7 +96,7 @@
 | 94 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 95 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 96 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 97 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 97 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
 | 98 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
 | 99 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 100 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
@@ -545,7 +545,7 @@
 | 543 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 544 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 
 | 545 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 546 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
+| 546 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
 | 547 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 548 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
 | 549 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 

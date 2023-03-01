@@ -518,6 +518,7 @@
 | 502 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 517 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 517 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 517 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
 | 517 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 517 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 517 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
@@ -532,20 +533,19 @@
 | 517 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
 | 517 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 517 | [Tails of Iron](games/t/tails_of_iron.md) | 4.50 | 
-| 533 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 533 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 533 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 533 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 533 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 533 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 533 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 533 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 533 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 533 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 533 | [CryoFall](games/c/cryofall.md) | 4.49 | 
-| 533 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 533 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 533 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
+| 534 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 534 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 534 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 534 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 534 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 534 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 534 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 534 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 534 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 534 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 534 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 534 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 534 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
 | 547 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 547 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 547 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
@@ -586,7 +586,6 @@
 | 583 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 583 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 583 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 583 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
 | 583 | [Faeria](games/f/faeria.md) | 4.45 | 
 | 583 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 583 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
@@ -598,21 +597,22 @@
 | 583 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
 | 583 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.45 | 
 | 583 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 
-| 599 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
-| 599 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 599 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 599 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 599 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 599 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
-| 599 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
-| 599 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 599 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
-| 599 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
-| 599 | [Hell is Others](games/h/hell_is_others.md) | 4.44 | 
-| 599 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.44 | 
-| 599 | [Predecessor](games/p/predecessor.md) | 4.44 | 
-| 599 | [Redout 2](games/r/redout_2.md) | 4.44 | 
-| 599 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.44 | 
+| 598 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
+| 598 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 598 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 598 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 598 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 598 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
+| 598 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
+| 598 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 598 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 598 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
+| 598 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
+| 598 | [Hell is Others](games/h/hell_is_others.md) | 4.44 | 
+| 598 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.44 | 
+| 598 | [Predecessor](games/p/predecessor.md) | 4.44 | 
+| 598 | [Redout 2](games/r/redout_2.md) | 4.44 | 
+| 598 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.44 | 
 | 614 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 614 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 614 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
