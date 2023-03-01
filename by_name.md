@@ -305,7 +305,7 @@
 | 303 | [Good Company](games/g/good_company.md) | 4.41 | 
 | 304 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
 | 305 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 306 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 3.97 | 
+| 306 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.00 | 
 | 307 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 308 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.52 | 
 | 309 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.70 | 
@@ -498,7 +498,7 @@
 | 496 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
 | 497 | [Othercide](games/o/othercide.md) | 4.39 | 
 | 498 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 499 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.60 | 
+| 499 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.61 | 
 | 500 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 501 | [Outlast](games/o/outlast.md) | 4.74 | 
 | 502 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 

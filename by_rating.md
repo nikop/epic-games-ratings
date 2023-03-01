@@ -361,23 +361,23 @@
 | 341 | [Road 96](games/r/road_96.md) | 4.61 | 
 | 341 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
 | 341 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
+| 341 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.61 | 
 | 341 | [Darkwood](games/d/darkwood.md) | 4.61 | 
-| 363 | [Control](games/c/control.md) | 4.60 | 
-| 363 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
-| 363 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
-| 363 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 363 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
-| 363 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 363 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
-| 363 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
-| 363 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 363 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 363 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
-| 363 | [DOOM 3](games/d/doom_3.md) | 4.60 | 
-| 363 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 363 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 363 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.60 | 
-| 363 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
+| 364 | [Control](games/c/control.md) | 4.60 | 
+| 364 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
+| 364 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
+| 364 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 364 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
+| 364 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
+| 364 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
+| 364 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
+| 364 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 364 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 364 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
+| 364 | [DOOM 3](games/d/doom_3.md) | 4.60 | 
+| 364 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 364 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
+| 364 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 379 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 379 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 379 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
@@ -846,13 +846,13 @@
 | 844 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 
 | 845 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 846 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
-| 847 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 847 | [Port Royale 4](games/p/port_royale_4.md) | 3.99 | 
-| 849 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
-| 849 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
-| 849 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 
-| 852 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 
-| 852 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 3.97 | 
+| 846 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.00 | 
+| 848 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
+| 848 | [Port Royale 4](games/p/port_royale_4.md) | 3.99 | 
+| 850 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
+| 850 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
+| 850 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 
+| 853 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 
 | 854 | [The First Tree](games/t/the_first_tree.md) | 3.96 | 
 | 855 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 855 | [Banished](games/b/banished.md) | 3.95 | 
