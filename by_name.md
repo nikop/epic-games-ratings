@@ -97,7 +97,7 @@
 | 95 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 96 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 97 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 98 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
+| 98 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 
 | 99 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 100 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
 | 101 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -263,7 +263,7 @@
 | 261 | [Filament](games/f/filament.md) | 4.32 | 
 | 262 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 263 | [Firework](games/f/firework.md) | 4.89 | 
-| 264 | [First Class Trouble](games/f/first_class_trouble.md) | 4.53 | 
+| 264 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
 | 265 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 266 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
 | 267 | [Flatout](games/f/flatout.md) | 4.19 | 
@@ -640,7 +640,7 @@
 | 638 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
 | 639 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 640 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.81 | 
-| 641 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
+| 641 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 642 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 643 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
 | 644 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 

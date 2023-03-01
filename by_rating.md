@@ -99,12 +99,12 @@
 | 92 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 92 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
 | 92 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 
+| 92 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 92 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 92 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
 | 92 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 103 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 103 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
-| 103 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
+| 104 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 104 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 106 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 106 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 106 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
@@ -413,25 +413,25 @@
 | 397 | [RiME](games/r/rime.md) | 4.58 | 
 | 397 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 397 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
+| 397 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 
 | 397 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 397 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
-| 416 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
-| 416 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 416 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 416 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
-| 416 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
-| 416 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
-| 416 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
-| 416 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 416 | [Hob](games/h/hob.md) | 4.57 | 
-| 416 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
-| 416 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
-| 416 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
-| 416 | [Isonzo](games/i/isonzo.md) | 4.57 | 
-| 416 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
-| 416 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
-| 416 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
-| 416 | [Everything](games/e/everything.md) | 4.57 | 
+| 417 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 417 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 417 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 417 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
+| 417 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 417 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 417 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
+| 417 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 417 | [Hob](games/h/hob.md) | 4.57 | 
+| 417 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
+| 417 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
+| 417 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
+| 417 | [Isonzo](games/i/isonzo.md) | 4.57 | 
+| 417 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
+| 417 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
+| 417 | [Everything](games/e/everything.md) | 4.57 | 
 | 433 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 433 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
 | 433 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
@@ -471,25 +471,25 @@
 | 462 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
 | 462 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 462 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 472 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 472 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 472 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 472 | [Verdun](games/v/verdun.md) | 4.53 | 
-| 472 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
-| 472 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 472 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 472 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 472 | [RUINER](games/r/ruiner.md) | 4.53 | 
-| 472 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 472 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 472 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
-| 472 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 472 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
-| 472 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 472 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
-| 472 | [First Class Trouble](games/f/first_class_trouble.md) | 4.53 | 
-| 472 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.53 | 
-| 472 | [IXION](games/i/ixion.md) | 4.53 | 
+| 462 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
+| 473 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
+| 473 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 473 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 473 | [Verdun](games/v/verdun.md) | 4.53 | 
+| 473 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
+| 473 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
+| 473 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
+| 473 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 473 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 473 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 473 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 473 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
+| 473 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 473 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
+| 473 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 473 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
+| 473 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.53 | 
+| 473 | [IXION](games/i/ixion.md) | 4.53 | 
 | 491 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
 | 491 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 491 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 

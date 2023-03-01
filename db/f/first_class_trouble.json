@@ -1,10 +1,10 @@
 {
   "ID": "27834480410d4000a987b32801e9abba",
   "Name": "First Class Trouble",
-  "Rating": 4.53,
+  "Rating": 4.54,
   "FirstSeen": "2022-09-22T22:01:01.54229+00:00",
   "FirstSeenRating": "2023-01-13T07:56:45.2170746+00:00",
-  "LastChanged": "2023-03-01T21:57:01.954116+00:00",
+  "LastChanged": "2023-03-01T22:56:46.7952231+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-13T07:56:45.2170748+00:00",
@@ -235,12 +235,17 @@
       "Time": "2023-03-01T21:57:01.9541161+00:00",
       "Rating": 4.53,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-01T22:56:46.7952232+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game is Extremely Fun",
