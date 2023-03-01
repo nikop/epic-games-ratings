@@ -118,7 +118,7 @@
 | 116 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 117 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
 | 118 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
-| 119 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 
+| 119 | [Chimeraland](games/c/chimeraland.md) | 3.92 | 
 | 120 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 121 | [Chorus](games/c/chorus.md) | 4.48 | 
 | 122 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
@@ -332,7 +332,7 @@
 | 330 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 331 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 332 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.88 | 
-| 333 | [High On Life](games/h/high_on_life.md) | 4.68 | 
+| 333 | [High On Life](games/h/high_on_life.md) | 4.69 | 
 | 334 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 335 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 336 | [Hob](games/h/hob.md) | 4.57 | 
@@ -381,7 +381,7 @@
 | 379 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 380 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
 | 381 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 382 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.21 | 
+| 382 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.28 | 
 | 383 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 384 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 385 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
