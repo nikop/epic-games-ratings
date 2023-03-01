@@ -1,10 +1,10 @@
 {
   "ID": "50648c4c6f7f47e98a1b3756ed06cc4a",
   "Name": "Assassin\u0027s Creed II Standard Edition",
-  "Rating": 4.74,
+  "Rating": 4.75,
   "NumberOfRatings": 315,
   "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
-  "LastChanged": "2023-01-07T15:57:18.5306985+00:00",
+  "LastChanged": "2023-03-01T07:57:25.6449982+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:28.9665728+00:00",
@@ -439,6 +439,11 @@
     {
       "Time": "2023-01-07T15:57:18.5306986+00:00",
       "Rating": 4.74,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-01T07:57:25.6449984+00:00",
+      "Rating": 4.75,
       "NumberOfRatings": null
     }
   ],
