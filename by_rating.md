@@ -212,25 +212,25 @@
 | 194 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 194 | [BLACKTAIL](games/b/blacktail.md) | 4.70 | 
 | 194 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.70 | 
+| 194 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.70 | 
 | 194 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
 | 194 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
 | 194 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
-| 216 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 216 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 216 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 216 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 216 | [Days Gone](games/d/days_gone.md) | 4.69 | 
-| 216 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 216 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 216 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 216 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 216 | [Bad North](games/b/bad_north.md) | 4.69 | 
-| 216 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
-| 216 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 216 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 216 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 216 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.69 | 
-| 216 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
+| 217 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
+| 217 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 217 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 217 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 217 | [Days Gone](games/d/days_gone.md) | 4.69 | 
+| 217 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
+| 217 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 217 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 217 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 217 | [Bad North](games/b/bad_north.md) | 4.69 | 
+| 217 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
+| 217 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 217 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 217 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
+| 217 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
 | 232 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
 | 232 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 232 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
