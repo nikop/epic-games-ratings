@@ -272,7 +272,7 @@
 | 270 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 271 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 272 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
-| 273 | [Forspoken](games/f/forspoken.md) | 4.06 | 
+| 273 | [Forspoken](games/f/forspoken.md) | 4.07 | 
 | 274 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 275 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 276 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.70 | 
@@ -405,7 +405,7 @@
 | 403 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 404 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
 | 405 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 406 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 
+| 406 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
 | 407 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
 | 408 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 409 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
