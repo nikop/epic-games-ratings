@@ -305,7 +305,7 @@
 | 303 | [Good Company](games/g/good_company.md) | 4.41 | 
 | 304 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
 | 305 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 306 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.00 | 
+| 306 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.12 | 
 | 307 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 308 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.53 | 
 | 309 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.70 | 
@@ -322,7 +322,7 @@
 | 320 | [Haven](games/h/haven.md) | 4.75 | 
 | 321 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 322 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 323 | [Hell is Others](games/h/hell_is_others.md) | 4.44 | 
+| 323 | [Hell is Others](games/h/hell_is_others.md) | 4.42 | 
 | 324 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 325 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.44 | 
 | 326 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 

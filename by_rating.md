@@ -608,29 +608,29 @@
 | 598 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 598 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
 | 598 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
-| 598 | [Hell is Others](games/h/hell_is_others.md) | 4.44 | 
 | 598 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.44 | 
 | 598 | [Predecessor](games/p/predecessor.md) | 4.44 | 
 | 598 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 598 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.44 | 
-| 614 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 614 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 614 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
-| 614 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
-| 614 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
-| 614 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
-| 614 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
-| 614 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
-| 614 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
-| 623 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 623 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 623 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 623 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 623 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 623 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 623 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
-| 623 | [ELEX](games/e/elex.md) | 4.42 | 
-| 623 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
+| 613 | [Sheltered](games/s/sheltered.md) | 4.43 | 
+| 613 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 613 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
+| 613 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
+| 613 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
+| 613 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
+| 613 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
+| 613 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
+| 613 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
+| 622 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 622 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 622 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 622 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 622 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 622 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 622 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
+| 622 | [ELEX](games/e/elex.md) | 4.42 | 
+| 622 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
+| 622 | [Hell is Others](games/h/hell_is_others.md) | 4.42 | 
 | 632 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 632 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 632 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
@@ -818,35 +818,35 @@
 | 816 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 817 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 817 | [Train Valley 2](games/t/train_valley_2.md) | 4.12 | 
-| 819 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
-| 819 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
-| 821 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
-| 821 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 821 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
-| 821 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
-| 821 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 821 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
-| 821 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 828 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
-| 828 | [Submerged](games/s/submerged.md) | 4.09 | 
-| 828 | [Fangs](games/f/fangs.md) | 4.09 | 
-| 831 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 831 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
-| 831 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.08 | 
-| 831 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
-| 835 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
-| 835 | [Lake](games/l/lake.md) | 4.07 | 
-| 835 | [Forspoken](games/f/forspoken.md) | 4.07 | 
-| 835 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
-| 839 | [Godfall](games/g/godfall.md) | 4.06 | 
-| 840 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 840 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
-| 842 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
-| 842 | [Tharsis](games/t/tharsis.md) | 4.04 | 
-| 844 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 
-| 845 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
-| 846 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
-| 846 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.00 | 
+| 817 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.12 | 
+| 820 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
+| 820 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
+| 822 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
+| 822 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 822 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
+| 822 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
+| 822 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 822 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
+| 822 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
+| 829 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 829 | [Submerged](games/s/submerged.md) | 4.09 | 
+| 829 | [Fangs](games/f/fangs.md) | 4.09 | 
+| 832 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 832 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
+| 832 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.08 | 
+| 832 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
+| 836 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
+| 836 | [Lake](games/l/lake.md) | 4.07 | 
+| 836 | [Forspoken](games/f/forspoken.md) | 4.07 | 
+| 836 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
+| 840 | [Godfall](games/g/godfall.md) | 4.06 | 
+| 841 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 841 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
+| 843 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
+| 843 | [Tharsis](games/t/tharsis.md) | 4.04 | 
+| 845 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 
+| 846 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
+| 847 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
 | 848 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 848 | [Port Royale 4](games/p/port_royale_4.md) | 3.99 | 
 | 850 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
