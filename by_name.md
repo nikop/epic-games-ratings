@@ -538,7 +538,7 @@
 | 536 | [Predecessor](games/p/predecessor.md) | 4.44 | 
 | 537 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 538 | [Prey](games/p/prey.md) | 4.62 | 
-| 539 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 539 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
 | 540 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 
 | 541 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 542 | [Quake](games/q/quake.md) | 4.77 | 
@@ -740,7 +740,7 @@
 | 738 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 739 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 740 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 741 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.80 | 
+| 741 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.81 | 
 | 742 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 743 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 744 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
