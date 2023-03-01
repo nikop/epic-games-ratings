@@ -129,8 +129,8 @@
 | 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.21 | 
 | 128 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 129 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
-| 130 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 131 | [Conarium](games/c/conarium.md) | 3.94 | 
+| 130 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 
+| 131 | [Conarium](games/c/conarium.md) | 3.93 | 
 | 132 | [Control](games/c/control.md) | 4.60 | 
 | 133 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
 | 134 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
@@ -337,7 +337,7 @@
 | 335 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 336 | [Hob](games/h/hob.md) | 4.57 | 
 | 337 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
-| 338 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 
+| 338 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 
 | 339 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 340 | [Horace](games/h/horace.md) | 4.51 | 
 | 341 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
@@ -381,7 +381,7 @@
 | 379 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 380 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
 | 381 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 382 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.28 | 
+| 382 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.31 | 
 | 383 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 384 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 385 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
