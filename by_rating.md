@@ -82,7 +82,6 @@
 | 78 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 78 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
 | 78 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
-| 78 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
 | 78 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
 | 78 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 
 | 78 | [Journey](games/j/journey.md) | 4.80 | 
@@ -92,16 +91,17 @@
 | 78 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
 | 78 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
 | 78 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.80 | 
-| 93 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 93 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
-| 93 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 93 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 93 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 93 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 93 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
-| 93 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 93 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
-| 93 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
+| 92 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 92 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
+| 92 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 92 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
+| 92 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 92 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 92 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
+| 92 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 
+| 92 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 92 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
+| 92 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
 | 103 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 103 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
 | 103 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
@@ -152,23 +152,23 @@
 | 140 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
 | 140 | [King of Retail](games/k/king_of_retail.md) | 4.74 | 
 | 140 | [Outlast](games/o/outlast.md) | 4.74 | 
-| 140 | [Returnal™](games/r/returnal™.md) | 4.74 | 
 | 140 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
 | 140 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 
-| 156 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 156 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 156 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
-| 156 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 156 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 156 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 156 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 156 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
-| 156 | [Northgard](games/n/northgard.md) | 4.73 | 
-| 156 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
-| 156 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
-| 156 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
-| 156 | [Dead Space](games/d/dead_space.md) | 4.73 | 
-| 156 | [Suzerain](games/s/suzerain.md) | 4.73 | 
+| 155 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 155 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 155 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
+| 155 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 155 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 155 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 155 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 155 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
+| 155 | [Northgard](games/n/northgard.md) | 4.73 | 
+| 155 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
+| 155 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
+| 155 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
+| 155 | [Dead Space](games/d/dead_space.md) | 4.73 | 
+| 155 | [Returnal™](games/r/returnal™.md) | 4.73 | 
+| 155 | [Suzerain](games/s/suzerain.md) | 4.73 | 
 | 170 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 170 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
 | 170 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 

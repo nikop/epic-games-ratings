@@ -487,7 +487,7 @@
 | 485 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 486 | [Observation](games/o/observation.md) | 4.56 | 
 | 487 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
-| 488 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
+| 488 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 
 | 489 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 490 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
 | 491 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
@@ -561,7 +561,7 @@
 | 559 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 560 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
 | 561 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 562 | [Returnal™](games/r/returnal™.md) | 4.74 | 
+| 562 | [Returnal™](games/r/returnal™.md) | 4.73 | 
 | 563 | [Revita](games/r/revita.md) | 4.74 | 
 | 564 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 565 | [RiME](games/r/rime.md) | 4.58 | 
