@@ -470,25 +470,25 @@
 | 462 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
 | 462 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 462 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 471 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 471 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 471 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 471 | [Verdun](games/v/verdun.md) | 4.53 | 
-| 471 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
-| 471 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
-| 471 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 471 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 471 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 471 | [RUINER](games/r/ruiner.md) | 4.53 | 
-| 471 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 471 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 471 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
-| 471 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 471 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
-| 471 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 471 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
-| 471 | [First Class Trouble](games/f/first_class_trouble.md) | 4.53 | 
-| 471 | [IXION](games/i/ixion.md) | 4.53 | 
+| 462 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
+| 472 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
+| 472 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 472 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 472 | [Verdun](games/v/verdun.md) | 4.53 | 
+| 472 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.53 | 
+| 472 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
+| 472 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
+| 472 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
+| 472 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 472 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 472 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 472 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 472 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
+| 472 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 472 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
+| 472 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 472 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
+| 472 | [IXION](games/i/ixion.md) | 4.53 | 
 | 490 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
 | 490 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 490 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
@@ -708,13 +708,13 @@
 | 705 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 705 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
 | 705 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 705 | [Duskers](games/d/duskers.md) | 4.34 | 
-| 710 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.33 | 
-| 710 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
-| 710 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 
-| 710 | [Backbone](games/b/backbone.md) | 4.33 | 
-| 710 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
-| 710 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
+| 709 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.33 | 
+| 709 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 709 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 
+| 709 | [Backbone](games/b/backbone.md) | 4.33 | 
+| 709 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
+| 709 | [Duskers](games/d/duskers.md) | 4.33 | 
+| 709 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
 | 716 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 716 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
 | 716 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 

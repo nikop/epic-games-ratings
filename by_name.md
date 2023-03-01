@@ -209,7 +209,7 @@
 | 207 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 208 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 209 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 210 | [Duskers](games/d/duskers.md) | 4.34 | 
+| 210 | [Duskers](games/d/duskers.md) | 4.33 | 
 | 211 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 212 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 213 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
@@ -263,7 +263,7 @@
 | 261 | [Filament](games/f/filament.md) | 4.32 | 
 | 262 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 263 | [Firework](games/f/firework.md) | 4.89 | 
-| 264 | [First Class Trouble](games/f/first_class_trouble.md) | 4.53 | 
+| 264 | [First Class Trouble](games/f/first_class_trouble.md) | 4.54 | 
 | 265 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 266 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
 | 267 | [Flatout](games/f/flatout.md) | 4.19 | 
