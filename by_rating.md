@@ -323,6 +323,7 @@
 | 311 | [GigaBash](games/g/gigabash.md) | 4.63 | 
 | 311 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 311 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.63 | 
+| 324 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 324 | [Prey](games/p/prey.md) | 4.62 | 
 | 324 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 324 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
@@ -340,30 +341,29 @@
 | 324 | [NORCO](games/n/norco.md) | 4.62 | 
 | 324 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 324 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.62 | 
-| 341 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
-| 341 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 341 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
-| 341 | [Warframe](games/w/warframe.md) | 4.61 | 
-| 341 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
-| 341 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
-| 341 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
-| 341 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 341 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 341 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 341 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 341 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 341 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
-| 341 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 341 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 
-| 341 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 341 | [20XX](games/2/20xx.md) | 4.61 | 
-| 341 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
-| 341 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
-| 341 | [Road 96](games/r/road_96.md) | 4.61 | 
-| 341 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
-| 341 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
-| 341 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.61 | 
-| 341 | [Darkwood](games/d/darkwood.md) | 4.61 | 
+| 342 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
+| 342 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 342 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 342 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
+| 342 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
+| 342 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
+| 342 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 342 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 342 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 342 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 342 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 342 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 342 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 342 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 
+| 342 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 342 | [20XX](games/2/20xx.md) | 4.61 | 
+| 342 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
+| 342 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
+| 342 | [Road 96](games/r/road_96.md) | 4.61 | 
+| 342 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
+| 342 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
+| 342 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.61 | 
+| 342 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 365 | [Control](games/c/control.md) | 4.60 | 
 | 365 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 365 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
@@ -488,19 +488,19 @@
 | 472 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
 | 472 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 472 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
+| 472 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.53 | 
 | 472 | [IXION](games/i/ixion.md) | 4.53 | 
-| 490 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
-| 490 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 490 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 490 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 490 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 490 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 490 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 490 | [Aztez](games/a/aztez.md) | 4.52 | 
-| 490 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 490 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.52 | 
-| 490 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 490 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 491 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
+| 491 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 491 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 491 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 491 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 491 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 491 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 491 | [Aztez](games/a/aztez.md) | 4.52 | 
+| 491 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 491 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 491 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 502 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 502 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 502 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.51 | 
@@ -868,8 +868,8 @@
 | 866 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 
 | 867 | [Blood of Steel](games/b/blood_of_steel.md) | 3.89 | 
 | 868 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 869 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.80 | 
 | 869 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
+| 870 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.79 | 
 | 871 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 871 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 873 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 

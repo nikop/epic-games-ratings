@@ -119,7 +119,7 @@
 | 117 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
 | 118 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
 | 119 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 
-| 120 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
+| 120 | [Chivalry 2](games/c/chivalry_2.md) | 4.62 | 
 | 121 | [Chorus](games/c/chorus.md) | 4.48 | 
 | 122 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
 | 123 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
@@ -307,7 +307,7 @@
 | 305 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 306 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.00 | 
 | 307 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 308 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.52 | 
+| 308 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.53 | 
 | 309 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.70 | 
 | 310 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 311 | [Griftlands](games/g/griftlands.md) | 4.81 | 
@@ -740,7 +740,7 @@
 | 738 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 739 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 740 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 741 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.80 | 
+| 741 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.79 | 
 | 742 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 743 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 744 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
