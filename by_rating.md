@@ -211,62 +211,62 @@
 | 193 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 193 | [BLACKTAIL](games/b/blacktail.md) | 4.70 | 
 | 193 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.70 | 
-| 193 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.70 | 
 | 193 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
 | 193 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
 | 193 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
-| 216 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 216 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 216 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 216 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 216 | [Days Gone](games/d/days_gone.md) | 4.69 | 
-| 216 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 216 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 216 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 216 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 216 | [Bad North](games/b/bad_north.md) | 4.69 | 
-| 216 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
-| 216 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 216 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 216 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 216 | [High On Life](games/h/high_on_life.md) | 4.69 | 
-| 216 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
-| 232 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
-| 232 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 232 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 232 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 232 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 232 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 232 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
-| 232 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 232 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
-| 232 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 232 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 232 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
-| 232 | [CARRION](games/c/carrion.md) | 4.68 | 
-| 232 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 
-| 232 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
-| 232 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
-| 232 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
-| 232 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
-| 250 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 250 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 250 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
-| 250 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 250 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 250 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.67 | 
-| 250 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
-| 250 | [Overcooked](games/o/overcooked.md) | 4.67 | 
-| 250 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.67 | 
-| 250 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
-| 250 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
-| 250 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
-| 250 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
-| 250 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 250 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
-| 250 | [Card Shark](games/c/card_shark.md) | 4.67 | 
-| 250 | [GNOG](games/g/gnog.md) | 4.67 | 
-| 250 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
+| 215 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
+| 215 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 215 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 215 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 215 | [Days Gone](games/d/days_gone.md) | 4.69 | 
+| 215 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
+| 215 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 215 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 215 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 215 | [Bad North](games/b/bad_north.md) | 4.69 | 
+| 215 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
+| 215 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 215 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 215 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
+| 215 | [High On Life](games/h/high_on_life.md) | 4.69 | 
+| 215 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
+| 231 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
+| 231 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 231 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 231 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 231 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 231 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 231 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
+| 231 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 231 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
+| 231 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
+| 231 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 231 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
+| 231 | [CARRION](games/c/carrion.md) | 4.68 | 
+| 231 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 
+| 231 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
+| 231 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
+| 231 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
+| 231 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
+| 249 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 249 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 249 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
+| 249 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 249 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 249 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.67 | 
+| 249 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
+| 249 | [Overcooked](games/o/overcooked.md) | 4.67 | 
+| 249 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.67 | 
+| 249 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
+| 249 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
+| 249 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
+| 249 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
+| 249 | [Eastward](games/e/eastward.md) | 4.67 | 
+| 249 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
+| 249 | [Card Shark](games/c/card_shark.md) | 4.67 | 
+| 249 | [GNOG](games/g/gnog.md) | 4.67 | 
+| 249 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.67 | 
+| 249 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
 | 268 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 268 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 268 | [Trackmania](games/t/trackmania.md) | 4.66 | 
