@@ -765,7 +765,7 @@
 | 763 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 764 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 765 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 766 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.59 | 
+| 766 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.60 | 
 | 767 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
 | 768 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 769 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
