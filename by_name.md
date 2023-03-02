@@ -400,7 +400,7 @@
 | 398 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
 | 399 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 400 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.45 | 
-| 401 | [Knockout City™](games/k/knockout_city™.md) | 4.38 | 
+| 401 | [Knockout City™](games/k/knockout_city™.md) | 4.40 | 
 | 402 | [Lake](games/l/lake.md) | 4.07 | 
 | 403 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 404 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
@@ -429,7 +429,7 @@
 | 427 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
 | 428 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 429 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 430 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 
+| 430 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 431 | [Mago](games/m/mago.md) | 4.90 | 
 | 432 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 433 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
@@ -742,7 +742,7 @@
 | 740 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 741 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.78 | 
 | 742 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 743 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
+| 743 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 744 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 745 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 746 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
@@ -788,7 +788,7 @@
 | 786 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
 | 787 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 788 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
-| 789 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.66 | 
+| 789 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.67 | 
 | 790 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 791 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
 | 792 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
