@@ -619,18 +619,18 @@
 | 614 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
 | 614 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
 | 614 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
+| 614 | [Hell is Others](games/h/hell_is_others.md) | 4.43 | 
 | 614 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 614 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
-| 622 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 622 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 622 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 622 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 622 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 622 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 622 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
-| 622 | [ELEX](games/e/elex.md) | 4.42 | 
-| 622 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
-| 622 | [Hell is Others](games/h/hell_is_others.md) | 4.42 | 
+| 623 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 623 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 623 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 623 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 623 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 623 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 623 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
+| 623 | [ELEX](games/e/elex.md) | 4.42 | 
+| 623 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
 | 632 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 632 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 632 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
