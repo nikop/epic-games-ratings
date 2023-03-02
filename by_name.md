@@ -257,7 +257,7 @@
 | 255 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
 | 256 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 257 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
-| 258 | [Fez](games/f/fez.md) | 4.70 | 
+| 258 | [Fez](games/f/fez.md) | 4.71 | 
 | 259 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
 | 260 | [Figment](games/f/figment.md) | 4.45 | 
 | 261 | [Filament](games/f/filament.md) | 4.32 | 
@@ -400,7 +400,7 @@
 | 398 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
 | 399 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 400 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.45 | 
-| 401 | [Knockout City™](games/k/knockout_city™.md) | 4.40 | 
+| 401 | [Knockout City™](games/k/knockout_city™.md) | 4.41 | 
 | 402 | [Lake](games/l/lake.md) | 4.07 | 
 | 403 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 404 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
@@ -741,7 +741,7 @@
 | 739 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 740 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 741 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 742 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.78 | 
+| 742 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 
 | 743 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 744 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 745 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
