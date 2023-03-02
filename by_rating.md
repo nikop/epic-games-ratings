@@ -685,19 +685,19 @@
 | 677 | [Encased](games/e/encased.md) | 4.37 | 
 | 677 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
 | 677 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 677 | [Warpips](games/w/warpips.md) | 4.37 | 
 | 677 | [Duskers](games/d/duskers.md) | 4.37 | 
 | 677 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 688 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 688 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
-| 688 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 688 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 688 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
-| 688 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 688 | [Warpips](games/w/warpips.md) | 4.36 | 
-| 688 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
-| 688 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 688 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
-| 688 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
+| 689 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 689 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
+| 689 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 689 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 689 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
+| 689 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 689 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
+| 689 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
+| 689 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
+| 689 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
 | 699 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
 | 699 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 699 | [Among Trees](games/a/among_trees.md) | 4.35 | 
