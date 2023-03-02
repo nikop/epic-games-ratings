@@ -209,7 +209,7 @@
 | 207 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 208 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 209 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 210 | [Duskers](games/d/duskers.md) | 4.34 | 
+| 210 | [Duskers](games/d/duskers.md) | 4.37 | 
 | 211 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 212 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 213 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
