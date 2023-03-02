@@ -726,15 +726,15 @@
 | 717 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
 | 725 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 725 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
+| 725 | [House Party](games/h/house_party.md) | 4.31 | 
 | 725 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
 | 725 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.31 | 
-| 729 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 729 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 729 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 729 | [House Party](games/h/house_party.md) | 4.30 | 
-| 729 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
-| 729 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
-| 729 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 
+| 730 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 730 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 730 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
+| 730 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
+| 730 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
+| 730 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 
 | 736 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 736 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 736 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
