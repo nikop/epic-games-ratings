@@ -561,7 +561,7 @@
 | 559 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 560 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
 | 561 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 562 | [Returnal™](games/r/returnal™.md) | 4.73 | 
+| 562 | [Returnal™](games/r/returnal™.md) | 4.66 | 
 | 563 | [Revita](games/r/revita.md) | 4.74 | 
 | 564 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 565 | [RiME](games/r/rime.md) | 4.58 | 
@@ -840,7 +840,7 @@
 | 838 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
 | 839 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 840 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 841 | [Warpips](games/w/warpips.md) | 4.37 | 
+| 841 | [Warpips](games/w/warpips.md) | 4.36 | 
 | 842 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 843 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 844 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
