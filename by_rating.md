@@ -110,22 +110,22 @@
 | 106 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
 | 106 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
 | 106 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 
+| 106 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 
 | 106 | [Quake](games/q/quake.md) | 4.77 | 
 | 106 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 106 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 106 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 106 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 106 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
-| 117 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 117 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 117 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
-| 117 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 117 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 117 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
-| 117 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
-| 117 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
-| 117 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.76 | 
-| 117 | [shapez](games/s/shapez.md) | 4.76 | 
+| 118 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 118 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
+| 118 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 118 | [Diabotical](games/d/diabotical.md) | 4.76 | 
+| 118 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
+| 118 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
+| 118 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.76 | 
+| 118 | [shapez](games/s/shapez.md) | 4.76 | 
 | 127 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 127 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
 | 127 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -392,30 +392,30 @@
 | 379 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
 | 379 | [Roguebook](games/r/roguebook.md) | 4.59 | 
 | 379 | [Breathedge](games/b/breathedge.md) | 4.59 | 
+| 379 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
 | 379 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
 | 379 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 
 | 379 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 379 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.59 | 
-| 397 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
-| 397 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 397 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 397 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
-| 397 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 397 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 397 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 397 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 
-| 397 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
-| 397 | [Moving Out](games/m/moving_out.md) | 4.58 | 
-| 397 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 397 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
-| 397 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
-| 397 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 
-| 397 | [RiME](games/r/rime.md) | 4.58 | 
-| 397 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 397 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
-| 397 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 
-| 397 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
-| 397 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
+| 398 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
+| 398 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 398 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 398 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
+| 398 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 398 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
+| 398 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 398 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 
+| 398 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
+| 398 | [Moving Out](games/m/moving_out.md) | 4.58 | 
+| 398 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
+| 398 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
+| 398 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
+| 398 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 
+| 398 | [RiME](games/r/rime.md) | 4.58 | 
+| 398 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
+| 398 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 
+| 398 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
+| 398 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
 | 417 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 417 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 417 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 

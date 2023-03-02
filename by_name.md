@@ -510,7 +510,7 @@
 | 508 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
 | 509 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 510 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 511 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.58 | 
+| 511 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
 | 512 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 513 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
 | 514 | [Parkitect](games/p/parkitect.md) | 4.32 | 
@@ -756,7 +756,7 @@
 | 754 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 755 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 756 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
-| 757 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
+| 757 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 
 | 758 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 
 | 759 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
 | 760 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
