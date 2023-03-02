@@ -523,7 +523,7 @@
 | 521 | [Patron](games/p/patron.md) | 3.94 | 
 | 522 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 523 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 524 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
+| 524 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 525 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 526 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
 | 527 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
@@ -535,7 +535,7 @@
 | 533 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
 | 534 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 535 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 536 | [Predecessor](games/p/predecessor.md) | 4.44 | 
+| 536 | [Predecessor](games/p/predecessor.md) | 4.45 | 
 | 537 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 538 | [Prey](games/p/prey.md) | 4.62 | 
 | 539 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
@@ -698,7 +698,7 @@
 | 696 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 697 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 698 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 699 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 699 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 
 | 700 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 701 | [Tharsis](games/t/tharsis.md) | 4.04 | 
 | 702 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
