@@ -1,8 +1,9 @@
 # Kerbal Space Program 2
-Rating: 4.29 (-)  (as of 23.09.2022)  
+Rating: 4.27 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
 | 2023-02-27 | 4.33 | - |
 | 2023-02-28 | 4.21 | - |
 | 2023-03-01 | 4.29 | - |
+| 2023-03-02 | 4.27 | - |

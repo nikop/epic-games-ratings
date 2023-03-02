@@ -229,7 +229,7 @@
 | 227 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 228 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.88 | 
 | 229 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 230 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 
+| 230 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
 | 231 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 232 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
 | 233 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
@@ -381,7 +381,7 @@
 | 379 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 380 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
 | 381 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 382 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.29 | 
+| 382 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.27 | 
 | 383 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 384 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 385 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
@@ -639,7 +639,7 @@
 | 637 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 638 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
 | 639 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 640 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.81 | 
+| 640 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.82 | 
 | 641 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 642 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 643 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
