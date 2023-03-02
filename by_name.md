@@ -456,7 +456,7 @@
 | 454 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 455 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 456 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 457 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
+| 457 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
 | 458 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
 | 459 | [Mutazione](games/m/mutazione.md) | 4.62 | 
 | 460 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
@@ -555,7 +555,7 @@
 | 553 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 554 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 555 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
-| 556 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.20 | 
+| 556 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.21 | 
 | 557 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 558 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 559 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
@@ -791,7 +791,7 @@
 | 789 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
 | 790 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.67 | 
 | 791 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 792 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
+| 792 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
 | 793 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
 | 794 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 795 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 

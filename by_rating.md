@@ -417,7 +417,6 @@
 | 399 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 
 | 399 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 399 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
-| 418 | [MultiVersus](games/m/multiversus.md) | 4.57 | 
 | 418 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 418 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 418 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
@@ -435,24 +434,25 @@
 | 418 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 418 | [Everything](games/e/everything.md) | 4.57 | 
 | 418 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
-| 436 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 436 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 436 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
-| 436 | [Hue](games/h/hue.md) | 4.56 | 
-| 436 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 436 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
-| 436 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 436 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 
-| 436 | [Minit](games/m/minit.md) | 4.56 | 
-| 436 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
-| 436 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
-| 436 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 436 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 436 | [Observation](games/o/observation.md) | 4.56 | 
-| 436 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
-| 436 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.56 | 
-| 436 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.56 | 
-| 436 | [The Medium](games/t/the_medium.md) | 4.56 | 
+| 435 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
+| 435 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 435 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 435 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
+| 435 | [Hue](games/h/hue.md) | 4.56 | 
+| 435 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 435 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
+| 435 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 435 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 
+| 435 | [Minit](games/m/minit.md) | 4.56 | 
+| 435 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 435 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
+| 435 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 435 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 435 | [Observation](games/o/observation.md) | 4.56 | 
+| 435 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
+| 435 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.56 | 
+| 435 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.56 | 
+| 435 | [The Medium](games/t/the_medium.md) | 4.56 | 
 | 454 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 454 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 454 | [Outward](games/o/outward.md) | 4.55 | 
@@ -617,21 +617,21 @@
 | 615 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 615 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 615 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
+| 615 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
 | 615 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
 | 615 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
 | 615 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
 | 615 | [Hell is Others](games/h/hell_is_others.md) | 4.43 | 
 | 615 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 615 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
-| 624 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 624 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 624 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 624 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 624 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 624 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 624 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.42 | 
-| 624 | [ELEX](games/e/elex.md) | 4.42 | 
-| 624 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
+| 625 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 625 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 625 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 625 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 625 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 625 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 625 | [ELEX](games/e/elex.md) | 4.42 | 
+| 625 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
 | 633 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 633 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 633 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
@@ -780,18 +780,18 @@
 | 776 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 776 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.21 | 
 | 776 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 781 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
-| 781 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 781 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 781 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 781 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 781 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 781 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
-| 781 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 781 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 781 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.20 | 
-| 781 | [Somerville](games/s/somerville.md) | 4.20 | 
-| 781 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.20 | 
+| 776 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.21 | 
+| 782 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
+| 782 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 782 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 782 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 782 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 782 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 782 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
+| 782 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 782 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 782 | [Somerville](games/s/somerville.md) | 4.20 | 
+| 782 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.20 | 
 | 793 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 793 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 793 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 
