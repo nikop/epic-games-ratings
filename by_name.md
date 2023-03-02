@@ -47,7 +47,7 @@
 | 45 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 46 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
 | 47 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.56 | 
+| 48 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 49 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
@@ -129,7 +129,7 @@
 | 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.21 | 
 | 128 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 129 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
-| 130 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 
+| 130 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 131 | [Conarium](games/c/conarium.md) | 3.93 | 
 | 132 | [Control](games/c/control.md) | 4.60 | 
 | 133 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
@@ -237,7 +237,7 @@
 | 235 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 236 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 237 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 238 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
+| 238 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
 | 239 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
 | 240 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 241 | [Fangs](games/f/fangs.md) | 4.09 | 
@@ -490,7 +490,7 @@
 | 488 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
 | 489 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 
 | 490 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 491 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
+| 491 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
 | 492 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 493 | [Old World](games/o/old_world.md) | 4.64 | 
 | 494 | [Ooblets](games/o/ooblets.md) | 4.87 | 
@@ -741,9 +741,9 @@
 | 739 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 740 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 741 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 742 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 
+| 742 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.78 | 
 | 743 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 744 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
+| 744 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 745 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 746 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 747 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
