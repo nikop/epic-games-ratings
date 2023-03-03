@@ -154,7 +154,7 @@
 | 152 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 153 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 154 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 155 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.23 | 
+| 155 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.25 | 
 | 156 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
 | 157 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
 | 158 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
@@ -272,7 +272,7 @@
 | 270 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 271 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 272 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
-| 273 | [Forspoken](games/f/forspoken.md) | 4.07 | 
+| 273 | [Forspoken](games/f/forspoken.md) | 4.08 | 
 | 274 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 275 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 276 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.70 | 
@@ -286,7 +286,7 @@
 | 284 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
 | 285 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
 | 286 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
-| 287 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
+| 287 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
 | 288 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 289 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
 | 290 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 

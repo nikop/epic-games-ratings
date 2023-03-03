@@ -448,21 +448,21 @@
 | 435 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
 | 435 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 435 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 435 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
 | 435 | [Observation](games/o/observation.md) | 4.56 | 
 | 435 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
 | 435 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.56 | 
 | 435 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.56 | 
 | 435 | [The Medium](games/t/the_medium.md) | 4.56 | 
-| 454 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
-| 454 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 454 | [Outward](games/o/outward.md) | 4.55 | 
-| 454 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 454 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
-| 454 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
-| 454 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
-| 454 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.55 | 
-| 454 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.55 | 
-| 454 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 
+| 455 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
+| 455 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 455 | [Outward](games/o/outward.md) | 4.55 | 
+| 455 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 455 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
+| 455 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
+| 455 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
+| 455 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.55 | 
+| 455 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 
 | 464 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 464 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 464 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
@@ -760,17 +760,17 @@
 | 756 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 
 | 756 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
 | 756 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
-| 761 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 761 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
-| 761 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 761 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
-| 761 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
-| 766 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 766 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
-| 766 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
-| 766 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.23 | 
-| 766 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 766 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
+| 756 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.25 | 
+| 762 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
+| 762 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
+| 762 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
+| 762 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
+| 762 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
+| 767 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 767 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
+| 767 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
+| 767 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
+| 767 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
 | 772 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
 | 772 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
 | 772 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
@@ -835,11 +835,11 @@
 | 832 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
 | 832 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
 | 832 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.08 | 
+| 832 | [Forspoken](games/f/forspoken.md) | 4.08 | 
 | 832 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
-| 837 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
-| 837 | [Lake](games/l/lake.md) | 4.07 | 
-| 837 | [Forspoken](games/f/forspoken.md) | 4.07 | 
-| 837 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
+| 838 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
+| 838 | [Lake](games/l/lake.md) | 4.07 | 
+| 838 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
 | 841 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 842 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 842 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
