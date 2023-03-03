@@ -29,14 +29,14 @@
 | 24 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
 | 24 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 
 | 24 | [Black Book](games/b/black_book.md) | 4.87 | 
-| 30 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
-| 30 | [Inscryption](games/i/inscryption.md) | 4.86 | 
-| 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 30 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 30 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
-| 30 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
-| 30 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
-| 30 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
+| 24 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.87 | 
+| 31 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
+| 31 | [Inscryption](games/i/inscryption.md) | 4.86 | 
+| 31 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 31 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 31 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
+| 31 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.86 | 
+| 31 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 38 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 38 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 

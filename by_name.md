@@ -759,7 +759,7 @@
 | 757 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
 | 758 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 
 | 759 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 
-| 760 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 
+| 760 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.87 | 
 | 761 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
 | 762 | [The Witness](games/t/the_witness.md) | 4.70 | 
 | 763 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
