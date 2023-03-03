@@ -621,17 +621,17 @@
 | 615 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
 | 615 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
 | 615 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
-| 615 | [Hell is Others](games/h/hell_is_others.md) | 4.43 | 
 | 615 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 615 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
-| 625 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 625 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 625 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 625 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 625 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 625 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 625 | [ELEX](games/e/elex.md) | 4.42 | 
-| 625 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
+| 624 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 624 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 624 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 624 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 624 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 624 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 624 | [ELEX](games/e/elex.md) | 4.42 | 
+| 624 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
+| 624 | [Hell is Others](games/h/hell_is_others.md) | 4.42 | 
 | 633 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 633 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 633 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
