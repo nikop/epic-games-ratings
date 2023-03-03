@@ -302,7 +302,7 @@
 | 300 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 
 | 301 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 302 | [Gone Home](games/g/gone_home.md) | 4.15 | 
-| 303 | [Good Company](games/g/good_company.md) | 4.41 | 
+| 303 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 304 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
 | 305 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 306 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.11 | 
@@ -741,7 +741,7 @@
 | 739 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 740 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 741 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 742 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 
+| 742 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
 | 743 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 744 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 745 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 

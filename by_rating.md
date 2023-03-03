@@ -629,24 +629,24 @@
 | 624 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 624 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
 | 624 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 624 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 624 | [ELEX](games/e/elex.md) | 4.42 | 
 | 624 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
 | 624 | [Hell is Others](games/h/hell_is_others.md) | 4.42 | 
-| 633 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
-| 633 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 633 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
-| 633 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 633 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 633 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
-| 633 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
-| 633 | [Good Company](games/g/good_company.md) | 4.41 | 
-| 633 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
-| 633 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 633 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 633 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 
-| 633 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 633 | [Knockout City™](games/k/knockout_city™.md) | 4.41 | 
-| 633 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
+| 634 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
+| 634 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 634 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
+| 634 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
+| 634 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
+| 634 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
+| 634 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
+| 634 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
+| 634 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 634 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
+| 634 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 
+| 634 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 634 | [Knockout City™](games/k/knockout_city™.md) | 4.41 | 
+| 634 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
 | 648 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 648 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 648 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
@@ -873,7 +873,7 @@
 | 871 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 871 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 873 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
-| 873 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 
+| 874 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
 | 875 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 876 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
 | 877 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
