@@ -864,9 +864,9 @@
 | 862 | [Conarium](games/c/conarium.md) | 3.93 | 
 | 863 | [Warface](games/w/warface.md) | 3.92 | 
 | 863 | [Ironcast](games/i/ironcast.md) | 3.92 | 
-| 863 | [Chimeraland](games/c/chimeraland.md) | 3.92 | 
-| 866 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 866 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
+| 865 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 865 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
+| 867 | [Chimeraland](games/c/chimeraland.md) | 3.89 | 
 | 868 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 869 | [Blood of Steel](games/b/blood_of_steel.md) | 3.81 | 
 | 870 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
