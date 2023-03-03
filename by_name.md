@@ -40,7 +40,7 @@
 | 38 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 39 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
 | 40 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
+| 41 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 42 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
 | 43 | [Ashen](games/a/ashen.md) | 4.35 | 
 | 44 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
@@ -128,7 +128,7 @@
 | 126 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.21 | 
 | 128 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
-| 129 | [Colt Canyon](games/c/colt_canyon.md) | 4.59 | 
+| 129 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 
 | 130 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 131 | [Conarium](games/c/conarium.md) | 3.93 | 
 | 132 | [Control](games/c/control.md) | 4.60 | 
@@ -220,7 +220,7 @@
 | 218 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 219 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 220 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 221 | [Encased](games/e/encased.md) | 4.37 | 
+| 221 | [Encased](games/e/encased.md) | 4.36 | 
 | 222 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 223 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.47 | 
 | 224 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
@@ -497,7 +497,7 @@
 | 495 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
 | 496 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
 | 497 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
-| 498 | [Othercide](games/o/othercide.md) | 4.39 | 
+| 498 | [Othercide](games/o/othercide.md) | 4.40 | 
 | 499 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 500 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.61 | 
 | 501 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
