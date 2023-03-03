@@ -751,47 +751,47 @@
 | 746 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 750 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 750 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
-| 750 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.27 | 
-| 753 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 753 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
-| 753 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
-| 753 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
-| 757 | [EVE Online](games/e/eve_online.md) | 4.25 | 
-| 757 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 757 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 
-| 757 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
-| 757 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
-| 762 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 762 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
-| 762 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 762 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
-| 762 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
-| 767 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 767 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
-| 767 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
-| 767 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.23 | 
-| 767 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 767 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
-| 773 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
-| 773 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
-| 773 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
-| 776 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
-| 776 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
-| 776 | [Starsand](games/s/starsand.md) | 4.21 | 
-| 776 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.21 | 
-| 776 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 776 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.21 | 
-| 782 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
-| 782 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 782 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 782 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 782 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 782 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 782 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
-| 782 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 782 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 782 | [Somerville](games/s/somerville.md) | 4.20 | 
-| 782 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.20 | 
+| 752 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 752 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
+| 752 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
+| 752 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
+| 756 | [EVE Online](games/e/eve_online.md) | 4.25 | 
+| 756 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 756 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 
+| 756 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
+| 756 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
+| 761 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
+| 761 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
+| 761 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
+| 761 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
+| 761 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
+| 766 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 766 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
+| 766 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
+| 766 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.23 | 
+| 766 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
+| 766 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
+| 772 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
+| 772 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
+| 772 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
+| 775 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
+| 775 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
+| 775 | [Starsand](games/s/starsand.md) | 4.21 | 
+| 775 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.21 | 
+| 775 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
+| 775 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.21 | 
+| 781 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
+| 781 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 781 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 781 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 781 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 781 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 781 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
+| 781 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 781 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 781 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.20 | 
+| 781 | [Somerville](games/s/somerville.md) | 4.20 | 
+| 781 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.20 | 
 | 793 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
 | 793 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 793 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 
@@ -829,13 +829,13 @@
 | 823 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 823 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
 | 823 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 830 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 830 | [Submerged](games/s/submerged.md) | 4.09 | 
 | 830 | [Fangs](games/f/fangs.md) | 4.09 | 
-| 833 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 833 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
-| 833 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.08 | 
-| 833 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
+| 832 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 832 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
+| 832 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
+| 832 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.08 | 
+| 832 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 837 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
 | 837 | [Lake](games/l/lake.md) | 4.07 | 
 | 837 | [Forspoken](games/f/forspoken.md) | 4.07 | 
