@@ -226,7 +226,7 @@
 | 224 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 225 | [EVE Online](games/e/eve_online.md) | 4.25 | 
 | 226 | [Everything](games/e/everything.md) | 4.57 | 
-| 227 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 227 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 
 | 228 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.88 | 
 | 229 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 230 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
@@ -267,7 +267,7 @@
 | 265 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 266 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
 | 267 | [Flatout](games/f/flatout.md) | 4.19 | 
-| 268 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 
+| 268 | [Flatout 2](games/f/flatout_2.md) | 4.92 | 
 | 269 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 270 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 271 | [For The King](games/f/for_the_king.md) | 4.70 | 
@@ -706,7 +706,7 @@
 | 704 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
 | 705 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
 | 706 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
-| 707 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.20 | 
+| 707 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
 | 708 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 709 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 710 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 

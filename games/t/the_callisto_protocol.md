@@ -1,5 +1,5 @@
 # The Callisto Protocol
-Rating: 4.20 (-)  (as of 23.09.2022)  
+Rating: 4.19 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -30,3 +30,4 @@ Rating: 4.20 (-)  (as of 23.09.2022)
 | 2023-02-06 | 4.18 | - |
 | 2023-02-07 | 4.19 | - |
 | 2023-02-27 | 4.20 | - |
+| 2023-03-03 | 4.19 | - |
