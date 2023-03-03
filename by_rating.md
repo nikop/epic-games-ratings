@@ -67,17 +67,17 @@
 | 58 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.82 | 
 | 58 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
 | 58 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
-| 68 | [Sifu](games/s/sifu.md) | 4.81 | 
-| 68 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 68 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 68 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 68 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
-| 68 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
-| 68 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
-| 68 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
-| 68 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
-| 68 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.81 | 
-| 68 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
+| 58 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.82 | 
+| 69 | [Sifu](games/s/sifu.md) | 4.81 | 
+| 69 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 69 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 69 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 69 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
+| 69 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
+| 69 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
+| 69 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
+| 69 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.81 | 
+| 69 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
 | 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 79 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
@@ -451,18 +451,18 @@
 | 435 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
 | 435 | [Observation](games/o/observation.md) | 4.56 | 
 | 435 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
-| 435 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 
 | 435 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.56 | 
 | 435 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.56 | 
 | 435 | [The Medium](games/t/the_medium.md) | 4.56 | 
-| 456 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
-| 456 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 456 | [Outward](games/o/outward.md) | 4.55 | 
-| 456 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 456 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
-| 456 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
-| 456 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
-| 456 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 
+| 455 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
+| 455 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 455 | [Outward](games/o/outward.md) | 4.55 | 
+| 455 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 455 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
+| 455 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
+| 455 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
+| 455 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.55 | 
+| 455 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 
 | 464 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 464 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 464 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
